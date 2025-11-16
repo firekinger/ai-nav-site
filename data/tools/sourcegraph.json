@@ -1,0 +1,59 @@
+{
+    "name": "Sourcegraph",
+    "description": "Sourcegraph is a code intelligence platform that enhances developer productivity through AI-powered code search and analysis tools.",
+    "longDescription": "Sourcegraph is a code intelligence platform designed to help developers search, understand, and manage large codebases efficiently. Founded in 2013 by Stanford graduates Quinn Slack and Beyang Liu, it addresses the challenges of navigating complex, multi-repository code environments across various programming languages. Its flagship products, Cody (an AI coding assistant) and Code Search, enable developers to write, fix, and explore code with context-aware insights. By integrating with popular code hosts like GitHub and GitLab, Sourcegraph streamlines workflows for enterprise teams and individual developers. The platform supports both cloud-based and self-hosted deployments, catering to organizations of all sizes. Its mission is to make coding accessible and efficient, empowering developers to focus on innovation rather than manual code navigation.",
+    "url": "https://sourcegraph.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sourcegraph.com.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "sourcegraph",
+    "categories": [
+        "AI Code Assistant",
+        "AI Productivity Tools",
+        "AI Assistant"
+    ],
+    "features": [
+        "Code Search allows developers to search across all repositories, branches, and code hosts, enabling rapid code discovery.",
+        "Cody, the AI coding assistant, generates, debugs, and explains code using contextual understanding of entire codebases.",
+        "Code Intelligence provides navigation tools to jump to variable definitions, find references, and trace code history.",
+        "Batch Changes enables automated, large-scale code refactoring and migrations across multiple repositories.",
+        "Code Insights offers analytics and visualizations to track codebase health and project progress.",
+        "Deep Search, an agentic search tool, enhances understanding of rapidly evolving codebases.",
+        "Amp, an AI-powered coding tool, supports autonomous reasoning and complex task execution for developers.",
+        "Integration with editors like VS Code and JetBrains brings code intelligence directly into development environments."
+    ],
+    "faqs": [
+        {
+            "question": "What is Sourcegraph used for?",
+            "answer": "Sourcegraph is used to search, navigate, and understand large codebases, helping developers write, fix, and maintain code efficiently."
+        },
+        {
+            "question": "Does Sourcegraph offer a free plan?",
+            "answer": "Yes, Sourcegraph provides a free tier for Cody and limited access to Code Search, with usage limits for individual developers."
+        },
+        {
+            "question": "What is Cody, and how does it work?",
+            "answer": "Cody is Sourcegraph’s AI coding assistant that uses LLMs to generate, debug, and explain code by understanding the context of your codebase."
+        },
+        {
+            "question": "Can Sourcegraph integrate with my code host?",
+            "answer": "Sourcegraph integrates with major code hosts like GitHub, GitLab, and Bitbucket, supporting both cloud and self-hosted repositories."
+        },
+        {
+            "question": "What are Batch Changes in Sourcegraph?",
+            "answer": "Batch Changes allow developers to automate and track large-scale code changes, such as refactoring or security fixes, across multiple repositories."
+        },
+        {
+            "question": "Is Sourcegraph suitable for enterprise teams?",
+            "answer": "Yes, Sourcegraph offers enterprise plans with advanced security, scalability, and deployment options tailored for large organizations."
+        },
+        {
+            "question": "How does Sourcegraph ensure code security?",
+            "answer": "Sourcegraph prioritizes security with ISO 27001:2022 certification and tools like Sherlock for AI-powered code review automation."
+        },
+        {
+            "question": "Can I use Sourcegraph for open-source projects?",
+            "answer": "Yes, Sourcegraph provides free code search across over 2 million open-source repositories, accessible via its web interface."
+        }
+    ]
+}

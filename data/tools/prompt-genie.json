@@ -1,0 +1,74 @@
+{
+    "name": "Prompt Genie",
+    "description": "Prompt Genie is an AI-powered tool that enhances and optimizes user prompts for ChatGPT to generate superior responses and results.",
+    "longDescription": "Prompt Genie is a web-based application designed to help users craft more effective prompts for AI models like ChatGPT, transforming simple inputs into detailed, optimized 'super prompts' that yield better outputs. Its mission is to democratize access to advanced AI interactions by making prompt engineering accessible to non-experts, thereby improving productivity and creativity across various tasks. The platform serves users by analyzing and refining their prompts in real-time, incorporating best practices in prompt design to minimize ambiguities and maximize relevance. It solves common problems such as vague AI responses or inefficient querying by providing structured enhancements that guide the AI more precisely. Overall, Prompt Genie empowers individuals and professionals to get the most out of generative AI without needing deep technical knowledge.",
+    "url": "https://www.prompt-genie.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.prompt-genie.com.webp",
+    "category": "Prompt Engineering",
+    "categorySlug": "prompt-engineering",
+    "slug": "prompt-genie",
+    "categories": [
+        "Prompt Engineering",
+        "AI Prompt Generator",
+        "AI Chat Generator",
+        "AI Workflow",
+        "AI Creative Writing",
+        "AI Productivity Tools",
+        "AI Assistant",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Prompt optimization automatically refines user inputs into detailed super prompts, ensuring clearer and more effective interactions with ChatGPT for improved results.",
+        "Real-time prompt generation allows users to instantly create enhanced prompts, saving time and effort in crafting queries manually.",
+        "Customizable templates provide pre-built prompt structures for common use cases, helping users get started quickly with tailored suggestions.",
+        "Prompt history tracking enables users to save and revisit previous prompts, facilitating easy reuse and iteration on successful queries.",
+        "AI-powered suggestions offer intelligent recommendations to further refine prompts, enhancing creativity and precision in AI outputs.",
+        "Multi-language support allows prompt enhancement in various languages, broadening accessibility for global users.",
+        "Integration with ChatGPT API streamlines the workflow by directly applying optimized prompts within the platform.",
+        "User-friendly interface simplifies the prompt engineering process, making it intuitive for beginners and experts alike.",
+        "Performance analytics provide insights into prompt effectiveness, helping users learn and improve their prompting skills over time.",
+        "Collaboration tools enable sharing of optimized prompts with teams, fostering collaborative AI usage in professional settings."
+    ],
+    "faqs": [
+        {
+            "question": "What is Prompt Genie?",
+            "answer": "Prompt Genie is a tool that enhances your ChatGPT prompts by turning basic inputs into optimized super prompts for better AI responses. It uses AI to refine and structure your queries automatically."
+        },
+        {
+            "question": "How does Prompt Genie improve my ChatGPT experience?",
+            "answer": "By generating more detailed and effective prompts, Prompt Genie helps you get more accurate, creative, and relevant outputs from ChatGPT, reducing trial-and-error."
+        },
+        {
+            "question": "Is there a free version of Prompt Genie?",
+            "answer": "Yes, Prompt Genie offers a free plan with limited daily prompts, allowing users to test core features before upgrading to paid plans for unlimited access."
+        },
+        {
+            "question": "Can I use Prompt Genie for languages other than English?",
+            "answer": "Yes, the platform supports multiple languages, enabling users to optimize prompts in their preferred language for global applicability."
+        },
+        {
+            "question": "Does Prompt Genie require any technical expertise?",
+            "answer": "No, it's designed for all skill levels with an intuitive interface that simplifies prompt engineering without needing coding or AI knowledge."
+        },
+        {
+            "question": "How secure is my data on Prompt Genie?",
+            "answer": "Prompt Genie prioritizes user privacy with secure data handling practices, ensuring that your prompts and interactions are not stored without consent."
+        },
+        {
+            "question": "Can I integrate Prompt Genie with other tools?",
+            "answer": "Yes, it integrates seamlessly with ChatGPT and offers API access for custom integrations in workflows or applications."
+        },
+        {
+            "question": "What types of prompts can I optimize with Prompt Genie?",
+            "answer": "You can optimize prompts for various tasks including writing, coding, research, creative ideation, and more, across personal and professional use cases."
+        },
+        {
+            "question": "Is there a limit to prompt length?",
+            "answer": "While there's no strict limit, optimized prompts are designed to be concise yet detailed to fit within AI model constraints like token limits."
+        },
+        {
+            "question": "How do I get started with Prompt Genie?",
+            "answer": "Simply sign up on the website, enter your basic prompt, and let the tool generate an enhanced version ready for use in ChatGPT."
+        }
+    ]
+}

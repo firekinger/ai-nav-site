@@ -1,0 +1,62 @@
+{
+    "name": "Tally",
+    "description": "Tally is a free, intuitive no-code platform for creating and managing online forms, surveys, and quizzes.",
+    "longDescription": "Tally is a user-friendly, no-code online form builder designed to simplify data collection for businesses, educators, and creators. Founded by Marie and Filip, it aims to make form creation fast, fun, and accessible without requiring coding skills. The platform offers unlimited forms and submissions for free, distinguishing it from competitors with restrictive free plans. Tally integrates seamlessly with tools like Notion, Google Sheets, and Zapier, enabling users to automate workflows and analyze data efficiently. Its intuitive interface, resembling a document editor, allows users to create customized forms for surveys, registrations, or payments with ease. As a bootstrapped, customer-funded company, Tally prioritizes user experience and rapid feature development.",
+    "url": "https://tally.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tally.so.webp",
+    "category": "AI Forms",
+    "categorySlug": "ai-forms",
+    "slug": "tally",
+    "categories": [
+        "AI Forms",
+        "No-Code&Low-Code",
+        "AI For Data Analytics",
+        "AI Consulting",
+        "AI Workflow",
+        "AI Marketing"
+    ],
+    "features": [
+        "Create unlimited forms and submissions for free, allowing users to collect data without cost barriers.",
+        "Integrate with tools like Notion, Google Sheets, and Zapier to automate workflows and streamline data management.",
+        "Customize form designs with themes, custom CSS, and branding options to align with user identity.",
+        "Use conditional logic to create dynamic forms that adapt based on respondent inputs for a tailored experience.",
+        "Embed forms seamlessly on websites or share via direct links, enhancing accessibility and reach.",
+        "Collect diverse data types, including payments, signatures, and file uploads, for versatile use cases.",
+        "Track form performance with Google Analytics and Meta Pixel integration for insights on traffic and conversions.",
+        "Support multi-page forms and 50+ languages to cater to global audiences and complex form structures."
+    ],
+    "faqs": [
+        {
+            "question": "Is Tally really free to use?",
+            "answer": "Yes, Tally offers unlimited forms and submissions for free, with 99% of features available without cost, though advanced features like removing branding require a Pro plan."
+        },
+        {
+            "question": "What types of forms can I create with Tally?",
+            "answer": "Tally supports a variety of forms, including surveys, quizzes, registration forms, payment forms, and feedback forms, customizable for any use case."
+        },
+        {
+            "question": "Can I integrate Tally with other tools?",
+            "answer": "Tally integrates with tools like Notion, Google Sheets, Airtable, Slack, and Zapier, allowing seamless data transfer and workflow automation."
+        },
+        {
+            "question": "How secure is the data collected through Tally forms?",
+            "answer": "Tally, based in Belgium, complies with GDPR, encrypts data in transit and at rest, and offers control over data retention for enterprise users."
+        },
+        {
+            "question": "Can I customize the appearance of my Tally forms?",
+            "answer": "Yes, Tally allows customization with themes, custom CSS, logos, and cover images to match your brand identity."
+        },
+        {
+            "question": "Does Tally support mobile-friendly forms?",
+            "answer": "Tally forms are responsive and optimized for mobile devices, ensuring a seamless experience for respondents."
+        },
+        {
+            "question": "How does Tally compare to other form builders like Typeform?",
+            "answer": "Unlike Typeform, Tally offers most features for free, with a simpler, Notion-like interface and fewer restrictions on form submissions."
+        },
+        {
+            "question": "Can I use Tally for payment collection?",
+            "answer": "Yes, Tally supports payment collection through forms without coding, though a 5% commission applies on the free plan unless upgraded to Pro."
+        }
+    ]
+}

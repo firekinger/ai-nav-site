@@ -1,0 +1,65 @@
+{
+    "name": "GeminiGen AI",
+    "description": "GeminiGen AI is a platform that provides access to Google's Gemini AI model for generating text, images, and other content.",
+    "longDescription": "GeminiGen AI is an AI-powered website that serves as an interface for Google's advanced Gemini model, enabling users to generate various forms of content. Its mission is to democratize access to cutting-edge AI technology, making it easier for individuals and businesses to create high-quality outputs without deep technical knowledge. The platform addresses challenges in content creation by offering intuitive tools for text, image, and multimodal generation. It caters to a wide audience, including writers, designers, developers, and educators, by providing efficient solutions to creative and productivity needs. Overall, GeminiGen AI enhances user capabilities through generative AI, fostering innovation and efficiency in daily tasks.",
+    "url": "https://geminigen.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/geminigen.ai.webp",
+    "category": "AI Text Generator",
+    "categorySlug": "ai-text-generator",
+    "slug": "geminigen-ai",
+    "categories": [
+        "AI Text Generator",
+        "AI Image Generator",
+        "AI Code Assistant",
+        "AI Proofreading",
+        "AI Writing",
+        "AI Video Generator",
+        "AI Creative Writing",
+        "AI Productivity Tools",
+        "AI Chat Generator"
+    ],
+    "features": [
+        "Text generation powered by Gemini, allowing users to create articles, stories, or responses with high accuracy and creativity.",
+        "Image generation from textual descriptions, enabling quick production of visuals for marketing or personal use.",
+        "Code assistance features that help developers write, debug, and optimize code efficiently.",
+        "Multimodal input processing, supporting combinations of text, images, and other data for comprehensive outputs.",
+        "AI-driven editing tools for refining generated content, improving quality and relevance.",
+        "Customizable prompts for tailored results, giving users control over the AI's output style and focus.",
+        "Integration with Google services, facilitating seamless workflows for Workspace users.",
+        "Reasoning capabilities for complex queries, assisting in planning, brainstorming, and problem-solving."
+    ],
+    "faqs": [
+        {
+            "question": "What is GeminiGen AI?",
+            "answer": "GeminiGen AI is a platform that utilizes Google's Gemini AI model to generate text, images, and other content for users."
+        },
+        {
+            "question": "Is GeminiGen AI free to use?",
+            "answer": "Yes, it offers free access to core features with possible limitations, and premium options for advanced usage."
+        },
+        {
+            "question": "How does the image generation work?",
+            "answer": "Users input text prompts, and the AI generates high-quality images based on the description provided."
+        },
+        {
+            "question": "Can I use GeminiGen AI for coding?",
+            "answer": "Yes, it includes code assistance features to help with writing, completing, and debugging code."
+        },
+        {
+            "question": "What makes GeminiGen AI different from other AI tools?",
+            "answer": "It leverages Google's state-of-the-art Gemini model, offering superior reasoning and multimodal capabilities."
+        },
+        {
+            "question": "Is there a mobile app for GeminiGen AI?",
+            "answer": "Currently, it is web-based, but integrations with Google apps may provide mobile access."
+        },
+        {
+            "question": "How secure is my data on GeminiGen AI?",
+            "answer": "The platform follows Google's privacy standards, ensuring data is handled securely and not shared without consent."
+        },
+        {
+            "question": "Can I generate videos with GeminiGen AI?",
+            "answer": "Depending on the model version, it may support video generation through integrated tools like Veo."
+        }
+    ]
+}

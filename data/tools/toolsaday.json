@@ -1,0 +1,68 @@
+{
+    "name": "Toolsaday",
+    "description": "Toolsaday is an AI-powered platform designed to streamline content creation and enhance productivity for marketers, writers, and professionals.",
+    "longDescription": "Toolsaday is a versatile online platform that leverages artificial intelligence to simplify content creation, editing, and optimization for a wide range of users, including bloggers, marketers, students, and businesses. Its mission is to save time and boost creativity by providing intuitive AI-driven tools that automate repetitive tasks and deliver high-quality outputs. The platform supports over 700,000 users and has generated over 1 billion words, showcasing its reliability and scale. Toolsaday addresses challenges like writer's block, time constraints, and the need for plagiarism-free content by offering solutions such as text generation, paraphrasing, and email composition. It emphasizes accessibility with a user-friendly interface, making it suitable for both beginners and advanced users. By integrating multiple functionalities into one platform, Toolsaday enhances productivity and streamlines digital workflows.",
+    "url": "https://toolsaday.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/toolsaday.com.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "toolsaday",
+    "categories": [
+        "AI Writing",
+        "AI Paraphraser",
+        "AI Email Marketing",
+        "AI Story Generator",
+        "AI Text-to-Speech",
+        "AI SEO Tools",
+        "AI Image Enhancer",
+        "AI Script Writing",
+        "AI Translate"
+    ],
+    "features": [
+        "The AI Email Generator crafts professional, tailored emails quickly, saving time for business and personal communication.",
+        "The Text Genie creates compelling marketing copy, social media posts, or personalized messages with ease.",
+        "The Paraphrasing Tool refines text to produce clear, concise, and plagiarism-free content for blogs or academic work.",
+        "The Story Generator crafts engaging narratives based on user inputs like characters, settings, and genres.",
+        "The Text-to-Speech Converter transforms written content into natural-sounding audio for accessibility or multimedia use.",
+        "SEO optimization tools analyze and enhance content visibility to improve search engine rankings.",
+        "The Novel Studio supports writers in developing detailed plots, characters, and dialogues for novels.",
+        "The Image Compressor reduces image file sizes up to 99% while maintaining quality for faster web loading.",
+        "The YouTube Script Generator creates high-quality scripts to streamline video content creation.",
+        "The Image Converter supports multiple formats like JPG, PNG, and SVG for versatile image editing.",
+        "The Backlink Analyzer checks website backlinks to improve SEO and online authority."
+    ],
+    "faqs": [
+        {
+            "question": "What is Toolsaday used for?",
+            "answer": "Toolsaday is an AI-powered platform that helps users create, edit, and optimize content like emails, marketing copy, stories, and more, while enhancing productivity."
+        },
+        {
+            "question": "Is Toolsaday free to use?",
+            "answer": "Toolsaday offers a freemium plan with access to core features, though some advanced tools and higher usage limits require a paid subscription."
+        },
+        {
+            "question": "Can Toolsaday help with SEO?",
+            "answer": "Yes, Toolsaday provides SEO optimization tools to analyze and improve content visibility and website rankings."
+        },
+        {
+            "question": "Does Toolsaday support multiple languages?",
+            "answer": "Toolsaday supports content generation in multiple languages, making it ideal for global communication."
+        },
+        {
+            "question": "How does the Story Generator work?",
+            "answer": "Users input story elements like characters and genres, and the AI crafts a cohesive, engaging narrative tailored to those inputs."
+        },
+        {
+            "question": "Is my data secure with Toolsaday?",
+            "answer": "Toolsaday prioritizes user data security, ensuring that generated content remains confidential and no user-specific data is stored."
+        },
+        {
+            "question": "Can Toolsaday help with writer's block?",
+            "answer": "Yes, Toolsaday's AI tools, like the Story Generator and Text Genie, provide creative prompts and rephrasing options to overcome writer's block."
+        },
+        {
+            "question": "What types of users benefit from Toolsaday?",
+            "answer": "Bloggers, marketers, students, and businesses use Toolsaday to streamline content creation and improve productivity."
+        }
+    ]
+}

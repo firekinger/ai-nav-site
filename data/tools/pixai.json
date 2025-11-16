@@ -1,0 +1,58 @@
+{
+    "name": "PixAI",
+    "description": "PixAI is an AI-powered platform for creating high-quality anime-style artwork and characters effortlessly.",
+    "longDescription": "PixAI is an innovative AI art generation platform designed to create stunning anime-style and realistic artwork, catering to both novice and professional artists. Its mission is to democratize art creation by enabling users to generate high-quality visuals from text prompts or base images without requiring advanced artistic skills. The platform supports a vibrant community where users can share creations, participate in contests, and explore trending artwork. PixAI addresses the need for accessible, customizable, and high-resolution anime art, making it ideal for personal projects, game development, and storytelling. By offering free access with daily credits, it ensures inclusivity while providing premium features for advanced users. The platform also integrates advanced AI tools like LoRAs and ControlNet to enhance customization and creative control.",
+    "url": "https://pixai.art/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pixai.art.webp",
+    "category": "AI Anime Art",
+    "categorySlug": "ai-anime-art",
+    "slug": "pixai",
+    "categories": [
+        "AI Anime Art",
+        "AI Image Generator",
+        "AI Design Generator",
+        "AI Social Media",
+        "AI Animation Generator"
+    ],
+    "features": [
+        "Text-to-Image Generation: Users can create detailed anime-style artwork by inputting descriptive text prompts, bringing creative visions to life effortlessly.",
+        "Character Templates: Pre-designed templates allow users to generate unique anime characters quickly, ideal for stories or games.",
+        "Customization Tools: Users can refine artwork with options to adjust styles, poses, and details, ensuring alignment with their artistic vision.",
+        "High-Resolution Outputs: The platform produces high-quality images suitable for digital displays, prints, or professional use.",
+        "Community Gallery: Users can explore and share artwork, fostering inspiration and collaboration within the PixAI community.",
+        "Mobile App: A dedicated mobile app enables on-the-go art creation, enhancing accessibility for artists.",
+        "LoRA Training: Advanced users can train AI models with custom images and keywords for highly personalized results.",
+        "Video Generation: Users can transform images into dynamic videos, expanding creative possibilities for storytelling.",
+        "Chat Editing: Text-based commands allow users to edit images intuitively, simplifying the refinement process."
+    ],
+    "faqs": [
+        {
+            "question": "What is PixAI used for?",
+            "answer": "PixAI is used to generate high-quality anime-style artwork and characters from text prompts or images, ideal for artists, game developers, and anime enthusiasts."
+        },
+        {
+            "question": "Is PixAI free to use?",
+            "answer": "Yes, PixAI offers a free plan with daily credits for generating artwork, though premium features may require additional credits or a subscription."
+        },
+        {
+            "question": "Do I need artistic skills to use PixAI?",
+            "answer": "No, PixAI’s user-friendly interface and AI tools allow anyone to create stunning artwork without prior artistic experience."
+        },
+        {
+            "question": "Can I customize the generated artwork?",
+            "answer": "Yes, PixAI provides tools to adjust styles, poses, and details, as well as advanced features like LoRA training for personalized results."
+        },
+        {
+            "question": "Does PixAI support NSFW content?",
+            "answer": "PixAI allows NSFW content creation with specific settings, but users must comply with the platform’s guidelines and local laws."
+        },
+        {
+            "question": "How can I share my artwork on PixAI?",
+            "answer": "Users can upload their creations to the community gallery, participate in contests, or share via integrated Discord channels."
+        },
+        {
+            "question": "Is there a mobile app for PixAI?",
+            "answer": "Yes, PixAI offers a mobile app for iOS and Android, allowing users to generate and edit artwork on the go."
+        }
+    ]
+}

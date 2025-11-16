@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 Excel AI Tools in 2025",
+    "summary": "Unlock the power of data with our Excel AI tools, designed to enhance your spreadsheet experience. These innovative solutions streamline data analysis, automate repetitive tasks, and provide intelligent insights, making your workflow more efficient and productive. Whether you're a business analyst, accountant, or data enthusiast, our curated selection of Excel AI tools will help you tackle complex challenges with ease. Explore our category today and discover how these cutting-edge tools can transform your data management and decision-making processes!",
+    "tools": [
+        {
+            "id": "1333",
+            "name": "ExcelDashboard.ai",
+            "slug": "exceldashboard-ai",
+            "description": "ExcelDashboard.ai is an AI-powered platform that simplifies the creation and management of interactive data dashboards within Microsoft Excel.",
+            "icon": "/logo/www.exceldashboard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "excel-ai"
+            ]
+        }
+    ]
+}

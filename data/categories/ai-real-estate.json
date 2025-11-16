@@ -1,0 +1,83 @@
+{
+    "title": "The Best 7 AI Real Estate Tools in 2025",
+    "summary": "Discover the transformative power of AI in the real estate sector with our curated selection of AI Real Estate tools. Designed to streamline property management, enhance market analysis, and optimize client interactions, these innovative solutions empower real estate professionals to make data-driven decisions and improve efficiency. Whether you're a realtor, investor, or property manager, our tools can help you stay ahead in a competitive market. Explore our collection today and unlock the potential of AI to elevate your real estate endeavors!",
+    "tools": [
+        {
+            "id": "467",
+            "name": "Futurepedia",
+            "slug": "futurepedia",
+            "description": "Futurepedia is a comprehensive directory of AI tools designed to help professionals and enthusiasts discover and leverage AI technologies for various applications.",
+            "icon": "/logo/www.futurepedia.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "681",
+            "name": "RoomGPT",
+            "slug": "roomgpt",
+            "description": "RoomGPT is an AI-powered platform that transforms room photos into redesigned spaces with various design themes in seconds.",
+            "icon": "/logo/www.roomgpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "875",
+            "name": "DealMachine",
+            "slug": "dealmachine",
+            "description": "DealMachine is a real estate investing platform that empowers users to discover off-market deals, manage leads, and automate marketing through mobile and web tools.",
+            "icon": "/logo/dealmachine.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "935",
+            "name": "Spacely AI",
+            "slug": "spacely-ai",
+            "description": "Spacely AI is an innovative AI-powered platform that enables users to generate professional interior design ideas, visualizations, and floor plans for homes and spaces effortlessly.",
+            "icon": "/logo/www.spacely.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "MyArchitectAI",
+            "slug": "myarchitectai",
+            "description": "MyArchitectAI is an AI-driven platform that transforms sketches, ideas, and descriptions into photorealistic architectural renders and designs quickly and efficiently.",
+            "icon": "/logo/www.myarchitectai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "1055",
+            "name": "Collov AI",
+            "slug": "collov-ai",
+            "description": "Collov AI is an AI-powered platform that enables users to generate personalized interior design ideas, virtual stagings, and home furnishing recommendations through advanced artificial intelligence.",
+            "icon": "/logo/collov.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        },
+        {
+            "id": "1268",
+            "name": "Redesignr",
+            "slug": "redesignr-ai",
+            "description": "Redesignr.ai is an AI-driven platform that allows users to upload photos of their rooms and generate redesigned interior spaces in various styles.",
+            "icon": "/logo/redesignr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-real-estate"
+            ]
+        }
+    ]
+}

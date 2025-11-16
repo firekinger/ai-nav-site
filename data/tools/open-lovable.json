@@ -1,0 +1,70 @@
+{
+    "name": "Open Lovable",
+    "description": "Open Lovable is a free, open-source AI website builder that transforms any website into customizable React/Next.js applications in seconds.",
+    "longDescription": "Open Lovable is an innovative open-source platform developed by Mendable AI, serving as a free alternative to proprietary AI website builders like Lovable.ai. It empowers developers to clone and transform existing websites into modern, production-ready React/Next.js applications using advanced AI technologies. The platform's mission is to democratize web development by providing accessible, efficient tools that reduce the time and effort required for coding from scratch. By leveraging AI models for analysis and code generation, Open Lovable addresses common challenges in web development, such as maintaining clean code and ensuring compatibility with contemporary frameworks. It promotes community collaboration through its MIT license, allowing users to fork, modify, and self-host the tool. Ultimately, Open Lovable aims to make high-quality web application development available to everyone without financial barriers.",
+    "url": "https://open-lovable.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/open-lovable.com.webp",
+    "category": "AI Code Generator",
+    "categorySlug": "ai-code-generator",
+    "slug": "open-lovable",
+    "categories": [
+        "AI Code Generator",
+        "AI Website Builder",
+        "AI App Builder",
+        "Open Source AI Models",
+        "AI Developer Tools",
+        "AI Web Scraping",
+        "AI Chat Generator",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "AI-Powered Website Cloning uses models like Claude, GPT, and Groq to analyze and recreate websites as React components, enabling rapid development.",
+        "Clean React/TypeScript Code generation produces applications with modern hooks, TypeScript support, and Tailwind CSS, ensuring high-quality and maintainable output.",
+        "100% Open Source & Free under MIT license allows community-driven enhancements, forking, modification, and self-hosting without any costs.",
+        "Secure Code Execution via E2B Sandbox provides safe, isolated environments for testing and development, protecting against potential risks.",
+        "Fully Customizable options let users control prompts, AI models, and frameworks to tailor the generation process to specific needs.",
+        "Interactive AI Chat enables real-time refinement of generated results using natural language commands, improving usability and precision."
+    ],
+    "faqs": [
+        {
+            "question": "What is Open Lovable?",
+            "answer": "Open Lovable is a free, open-source AI tool that converts websites into React/Next.js applications using AI models for code generation."
+        },
+        {
+            "question": "Is Open Lovable completely free?",
+            "answer": "Yes, it is 100% free with no subscription fees, and it's open-source under the MIT license for unlimited use."
+        },
+        {
+            "question": "What AI models does Open Lovable use?",
+            "answer": "It utilizes advanced models such as Claude, GPT-4, Groq/Kimi, and Google Gemini for analyzing and generating code."
+        },
+        {
+            "question": "Can I customize the generated code?",
+            "answer": "Absolutely, through customizable prompts, AI model selection, and an interactive AI chat for real-time adjustments."
+        },
+        {
+            "question": "How secure is Open Lovable?",
+            "answer": "It employs E2B Sandbox for secure, isolated code execution, ensuring safety during testing and development."
+        },
+        {
+            "question": "How does Open Lovable differ from Lovable.ai?",
+            "answer": "Unlike the paid Lovable.ai, Open Lovable is free, open-source, and offers unlimited usage without restrictions."
+        },
+        {
+            "question": "Do I need coding experience to use it?",
+            "answer": "While basic knowledge helps, its AI-driven interface makes it accessible for developers of varying skill levels to generate and refine code."
+        },
+        {
+            "question": "Can I self-host Open Lovable?",
+            "answer": "Yes, as an open-source tool, you can fork the repository and host it on your own infrastructure."
+        },
+        {
+            "question": "What technologies does it integrate?",
+            "answer": "It integrates Firecrawl for web scraping, Next.js and React for frontend, and various AI models for intelligent processing."
+        },
+        {
+            "question": "Is there community support?",
+            "answer": "Yes, being open-source, it benefits from community contributions and discussions on platforms like GitHub."
+        }
+    ]
+}

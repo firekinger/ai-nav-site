@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Book Summarizer Tools in 2025",
+    "summary": "Unlock the power of knowledge with our AI Book Summarizer tools, designed to distill complex texts into concise, digestible summaries. Perfect for busy professionals, students, and lifelong learners, these innovative solutions save you time while enhancing comprehension and retention. Whether you're preparing for a meeting, studying for exams, or simply seeking to expand your horizons, our AI-driven tools make it easy to grasp key insights from your favorite books. Explore our curated selection of AI Book Summarizers today and transform the way you read!",
+    "tools": [
+        {
+            "id": "400",
+            "name": "SoBrief",
+            "slug": "sobrief",
+            "description": "SoBrief provides AI-generated book summaries in multiple formats to help users quickly grasp key insights from over 73,530 titles.",
+            "icon": "/logo/sobrief.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-summarizer"
+            ]
+        },
+        {
+            "id": "621",
+            "name": "ResearchRabbit",
+            "slug": "researchrabbit-ai",
+            "description": "ResearchRabbit is an AI-powered tool for discovering and organizing scholarly literature through visualization and personalized recommendations.",
+            "icon": "/logo/www.researchrabbit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-summarizer"
+            ]
+        },
+        {
+            "id": "722",
+            "name": "Summarist.ai",
+            "slug": "summarist-ai",
+            "description": "Summarist.ai is an AI-powered platform that generates concise book summaries in under 30 seconds.",
+            "icon": "/logo/summarist.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-summarizer"
+            ]
+        }
+    ]
+}

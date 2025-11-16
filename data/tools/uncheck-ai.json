@@ -1,0 +1,75 @@
+{
+    "name": "Uncheck AI",
+    "description": "Uncheck AI offers an AI checker and humanizer to scan and make AI-generated content undetectable, serving users with tools to enhance text for various applications.",
+    "longDescription": "Uncheck AI is a platform that provides an AI detector to check the humanness of text and an AI humanizer to create 100% undetectable AI content. It aims to help users make AI-generated text, such as from ChatGPT or GPT-4, undetectable by popular AI detectors like GPTZero and Turnitin. The tool simplifies the process with a three-step method: entering AI text, rewriting, and getting undetectable output. It also ensures spam-free, SEO-friendly results and removes ChatGPT watermarks easily, catering to users needing high-quality, human-like content.",
+    "url": "https://uncheck.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/uncheck.ai.webp",
+    "category": "AI Detector",
+    "categorySlug": "ai-detector",
+    "slug": "uncheck-ai",
+    "categories": [
+        "AI Detector",
+        "Humanizer AI",
+        "AI Rewriter",
+        "AI Watermark Remover",
+        "AI SEO Tools",
+        "AI Proofreading",
+        "AI Email Marketing",
+        "AI Content Detector",
+        "AI Translate",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Offers an AI checker that instantly gets detection scores from multiple popular AI detectors like GPTZero and Copyleaks.",
+        "Provides an AI humanizer that creates 100% undetectable content, tested with 99%+ human scores.",
+        "Removes ChatGPT watermarks in one click, identifying and replacing special watermarking phrases.",
+        "Ensures error-free outputs with no grammar or syntax mistakes in rewritten text.",
+        "Guarantees true-to-original meaning, preserving ideas and messages without distortion.",
+        "Produces plagiarism-free content, ensuring originality and authenticity in every piece.",
+        "Generates spam-free, SEO-friendly outputs suitable for email marketing and search engine rankings.",
+        "Supports multiple languages including English, Español, Français, and others for global accessibility.",
+        "Humanizes over 4 million words per day, trusted by over 12 million users."
+    ],
+    "faqs": [
+        {
+            "question": "What is an AI humanizer?",
+            "answer": "An AI humanizer makes AI-generated text undetectable by popular AI detectors, creating human-like content."
+        },
+        {
+            "question": "How does the AI checker work?",
+            "answer": "The built-in AI checker instantly gets detection scores from tools like GPTZero and Copyleaks with one click."
+        },
+        {
+            "question": "Can Uncheck.ai remove ChatGPT watermarks?",
+            "answer": "Yes, it removes ChatGPT watermarks in one click by identifying and replacing special phrases."
+        },
+        {
+            "question": "Is the output SEO-friendly?",
+            "answer": "Yes, the humanized text is spam-free and search engine friendly, preventing penalties for AI-generated content."
+        },
+        {
+            "question": "Does it support multiple languages?",
+            "answer": "Yes, it supports languages like English, Español, Français, and more."
+        },
+        {
+            "question": "How many words can it humanize daily?",
+            "answer": "It humanizes over 4 million words per day."
+        },
+        {
+            "question": "Is the tool free to use?",
+            "answer": "It offers a free built-in AI checker, but pricing details for other features are not specified."
+        },
+        {
+            "question": "What AI writing tools does it work with?",
+            "answer": "It works with tools like ChatGPT, GPT-4, Claude, Jasper, and Copy.ai."
+        },
+        {
+            "question": "How accurate is the AI detection?",
+            "answer": "It is tested with 99%+ human scores, ensuring high accuracy."
+        },
+        {
+            "question": "Can it handle large volumes of text?",
+            "answer": "Yes, it processes high volumes, humanizing over 4 million words daily."
+        }
+    ]
+}

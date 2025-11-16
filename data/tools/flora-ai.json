@@ -1,0 +1,73 @@
+{
+    "name": "FLORA",
+    "description": "FLORA is an AI-powered creative platform that integrates text, image, and video generation tools into an infinite canvas for professionals.",
+    "longDescription": "FLORA is an innovative AI-driven platform designed to empower creative professionals by integrating a wide range of generative AI tools into a single, intuitive node-based canvas. Its mission is to streamline creative workflows, enabling users such as filmmakers, designers, and artists to ideate, iterate, and produce high-quality content with precision and control. By combining advanced AI models for text, image, and video creation, FLORA eliminates the need for multiple disjointed tools, offering a seamless environment for real-time collaboration and scalable workflows. The platform caters to industries like film, fashion, branding, and game design, addressing the pain points of traditional creative software by prioritizing usability and professional-grade output. Unlike other AI tools that may feel like 'toys,' FLORA is built for professionals who demand robust control and high-quality results. It also fosters a community-driven approach, allowing users to explore and share workflows tailored to their creative needs.",
+    "url": "https://www.florafauna.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.florafauna.ai.webp",
+    "category": "AI Creative Writing",
+    "categorySlug": "ai-creative-writing",
+    "slug": "flora-ai",
+    "categories": [
+        "AI Creative Writing",
+        "AI Workflow",
+        "AI Prompt Generator",
+        "AI Character",
+        "AI Video Generator",
+        "AI Image Generator",
+        "AI Text Generator",
+        "AI Mind Mapping"
+    ],
+    "features": [
+        "Node-based generative system enables precise control over creative workflows by connecting AI models seamlessly.",
+        "Real-time collaboration allows teams to work simultaneously across departments, sharing assets and feedback instantly.",
+        "Intelligent prompt generation analyzes stories to create tailored prompts for image and video creation, streamlining content production.",
+        "Access to over 40 AI models for text, image, and video generation supports diverse creative applications in one platform.",
+        "Custom styles feature lets users define and apply unique visual styles to their AI-generated outputs for brand consistency.",
+        "Infinite canvas provides a flexible workspace for ideation, iteration, and visualization without spatial constraints.",
+        "Team workspace management tools offer admin controls and streamlined billing for efficient project coordination.",
+        "Community workflows allow users to discover and adopt pre-built creative processes shared by other professionals.",
+        "Advanced character design tool uses AI to create detailed, customizable characters for games, films, and animations.",
+        "Video generation capabilities produce high-quality, professional-grade videos, though limited to 5 seconds without a subscription.",
+        "Mind map integration helps users brainstorm and organize ideas visually within the platform.",
+        "White-glove support provides personalized onboarding and technical assistance for enterprise users.",
+        "Responsive design ensures a seamless experience across desktop and mobile devices for flexible creativity."
+    ],
+    "faqs": [
+        {
+            "question": "What is FLORA designed for?",
+            "answer": "FLORA is designed for creative professionals in fields like film, design, and game development, offering an AI-powered canvas to streamline ideation and content creation."
+        },
+        {
+            "question": "Does FLORA offer a free plan?",
+            "answer": "Yes, FLORA provides free access to its core features with limited usage quotas, allowing users to explore the platform before subscribing."
+        },
+        {
+            "question": "Can teams collaborate on FLORA?",
+            "answer": "FLORA supports real-time collaboration, enabling teams to share assets, provide feedback, and work together seamlessly across disciplines."
+        },
+        {
+            "question": "What types of AI models are available on FLORA?",
+            "answer": "FLORA integrates over 40 AI models for text, image, and video generation, curated to meet professional creative needs."
+        },
+        {
+            "question": "Is FLORA suitable for beginners?",
+            "answer": "Yes, FLORA’s intuitive interface is beginner-friendly, though its advanced features cater to professionals seeking precise control."
+        },
+        {
+            "question": "Can I download my creations from FLORA?",
+            "answer": "Downloading creations may require a paid subscription, as some users have reported issues with free-tier downloads."
+        },
+        {
+            "question": "Does FLORA support offline functionality?",
+            "answer": "FLORA primarily operates online, but some features may be accessible offline depending on the subscription plan."
+        },
+        {
+            "question": "How does the node-based system work?",
+            "answer": "The node-based system allows users to drag, drop, and connect AI models to build custom workflows, offering precise control over creative outputs."
+        },
+        {
+            "question": "What industries benefit most from FLORA?",
+            "answer": "FLORA serves professionals in film, fashion, branding, photography, game design, and music, among other creative fields."
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "title": "The Best 12 AI Influencer Tools in 2025",
+    "summary": "Discover the transformative power of AI Influencer tools, designed to elevate your brand's online presence and engagement. These innovative solutions harness artificial intelligence to analyze trends, optimize content, and enhance audience interaction, making it easier than ever to connect with your target market. Whether you're a marketer, content creator, or business owner, these tools streamline your influencer strategy, saving you time and maximizing impact. Explore our curated selection of AI Influencer tools today and unlock new opportunities for growth and connection!",
+    "tools": [
+        {
+            "id": "436",
+            "name": "Taplio",
+            "slug": "taplio",
+            "description": "Taplio is an AI-powered tool designed to enhance LinkedIn presence through content creation, scheduling, and analytics.",
+            "icon": "/logo/taplio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "493",
+            "name": "PFPMaker",
+            "slug": "pfpmaker",
+            "description": "PFPMaker is an AI-powered tool that generates professional and creative profile pictures from user-uploaded photos.",
+            "icon": "/logo/pfpmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "517",
+            "name": "ContentStudio",
+            "slug": "contentstudio",
+            "description": "ContentStudio is a unified social media management and content marketing platform for creating, scheduling, and analyzing content across multiple channels.",
+            "icon": "/logo/contentstudio.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "519",
+            "name": "Aragon AI",
+            "slug": "aragon-ai",
+            "description": "Aragon AI generates professional AI-powered headshots and photo edits quickly and affordably for personal and business use.",
+            "icon": "/logo/www.aragon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "774",
+            "name": "InstaHeadshots",
+            "slug": "instaheadshots",
+            "description": "InstaHeadshots uses AI to transform selfies into professional headshots for LinkedIn, resumes, and business profiles in minutes.",
+            "icon": "/logo/instaheadshots.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "791",
+            "name": "HeadshotPro",
+            "slug": "headshotpro",
+            "description": "HeadshotPro provides AI-generated professional headshots for individuals and teams.",
+            "icon": "/logo/www.headshotpro.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "989",
+            "name": "Upgrow",
+            "slug": "upgrow",
+            "description": "Upgrow is an AI-powered platform that helps businesses and influencers grow their Instagram presence organically by attracting real, targeted followers.",
+            "icon": "/logo/www.upgrow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "1034",
+            "name": "Wonsulting",
+            "slug": "wonsulting",
+            "description": "Wonsulting is a career development platform that provides AI-powered tools and consulting services to help job seekers optimize their resumes, LinkedIn profiles, and job search strategies.",
+            "icon": "/logo/www.wonsulting.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "1131",
+            "name": "TryItOn AI",
+            "slug": "tryiton-ai",
+            "description": "TryItOn AI is an AI-driven platform that transforms user-uploaded selfies into professional-quality headshots for personal and business use.",
+            "icon": "/logo/www.tryitonai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "1156",
+            "name": "TinderProfile.ai",
+            "slug": "tinderprofile-ai",
+            "description": "TinderProfile.ai is an AI-powered platform that analyzes and generates enhanced photos to optimize Tinder profiles and increase matches on dating apps.",
+            "icon": "/logo/tinderprofile.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-influencer"
+            ]
+        },
+        {
+            "id": "1250",
+            "name": "Nano-Banana",
+            "slug": "nano-banana-ai",
+            "description": "Nano Banana is an advanced AI image editor that transforms images using natural language commands, offering features like character restoration, scene reconstruction, and image fusion.",
+            "icon": "/logo/www.nano-banana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-influencer"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Poe",
+    "description": "Poe is a platform for interacting with multiple AI models and creating custom chatbots.",
+    "longDescription": "Poe, developed by Quora, is an AI chatbot platform that allows users to interact with various large language models (LLMs) like GPT-4o, Claude, and DeepSeek-R1 in one interface. Launched in December 2022, it aims to centralize access to advanced AI tools, making it easier for users to explore, compare, and utilize different AI capabilities. The platform supports a wide range of tasks, from writing and coding to image generation and real-time web searches. Users can also create and monetize their own custom bots, fostering a community of AI-driven innovation. Poe’s mission is to democratize AI access, offering both free and premium plans to cater to diverse user needs. Its intuitive design and multi-bot chat feature enhance user efficiency and creativity.",
+    "url": "https://www.poe.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/poe.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "poe",
+    "categories": [
+        "AI Chatbot",
+        "AI App Builder",
+        "AI Image Generator",
+        "AI Data Mining",
+        "AI Product Manager"
+    ],
+    "features": [
+        "Multi-bot chat enables users to interact with multiple AI models in a single thread, streamlining comparisons and task efficiency.",
+        "Custom bot creation allows users to build and monetize AI-powered chatbots using simple prompts or advanced API integration.",
+        "Image generation through bots like Ideogram and FLUX-schnell creates high-quality visuals from text prompts for creative projects.",
+        "Web-enabled search via bots like Web-Search provides real-time, accurate answers for up-to-date information queries.",
+        "Compute points system lets users manage message limits, with free daily points and higher quotas for subscribers.",
+        "Auto-manage context feature balances chat history retention with compute point usage, optimizing bot performance.",
+        "Code execution bot runs Python 3.11 scripts directly, aiding developers with instant results for coding tasks.",
+        "Monetization options let creators earn up to $20 per user referred, encouraging bot development and sharing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Poe and what can it do?",
+            "answer": "Poe is an AI platform where users can chat with various AI models for tasks like writing, coding, and image generation. It also allows creating custom bots for personal or monetized use."
+        },
+        {
+            "question": "Is Poe free to use?",
+            "answer": "Yes, Poe offers a free tier with 150 daily messages or 3,000 compute points, though premium subscriptions provide higher limits and access to advanced bots."
+        },
+        {
+            "question": "How do I create a bot on Poe?",
+            "answer": "Users can create a bot by signing into Poe, selecting 'Create a New Bot,' providing prompt instructions or API setup, and customizing its name and settings."
+        },
+        {
+            "question": "What are compute points and how do they work?",
+            "answer": "Compute points are Poe’s usage currency; each message deducts points based on the bot’s cost, with free users getting daily points and subscribers receiving more."
+        },
+        {
+            "question": "Can I trust the accuracy of Poe’s AI responses?",
+            "answer": "Poe’s AI may not always be accurate, especially for recent events, so users should verify critical information independently for important decisions."
+        },
+        {
+            "question": "What is the multi-bot chat feature?",
+            "answer": "Multi-bot chat lets users query multiple AI models in one conversation thread, making it easy to compare responses and choose the best output."
+        },
+        {
+            "question": "How can I monetize a bot on Poe?",
+            "answer": "Creators can set per-message prices for their bots or earn up to $20 per referred user, with payments managed through Poe’s platform."
+        }
+    ]
+}

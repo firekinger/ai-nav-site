@@ -1,0 +1,74 @@
+{
+    "name": "Ludo.ai",
+    "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+    "longDescription": "Ludo.ai is an innovative AI platform designed specifically for game developers, offering a suite of tools to streamline the creative process from concept to completion. Its mission is to democratize game development by leveraging artificial intelligence to generate ideas, conduct market research, and assist in asset creation, making it accessible for both indie developers and studios. The platform solves common problems in game design such as idea block, time-consuming research, and resource limitations by providing instant AI-generated suggestions and insights. Users can explore trending game mechanics, combine genres, and even generate game assets, all powered by advanced AI models. Overall, Ludo.ai serves as a virtual co-creator, helping users bring their game visions to life more efficiently and creatively.",
+    "url": "https://ludo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ludo.ai.webp",
+    "category": "AI Game Generator",
+    "categorySlug": "ai-game-generator",
+    "slug": "ludo-ai",
+    "categories": [
+        "AI Game Generator",
+        "AI Marketing",
+        "AI Image Generator",
+        "AI Creative Writing",
+        "AI Predictions",
+        "AI Games",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Game Ideator allows users to generate unique game concepts by combining genres, mechanics, and themes, sparking creativity and overcoming idea blocks.",
+        "Market Research tool analyzes trends, top charts, and player preferences to provide data-driven insights for informed game development decisions.",
+        "Asset Generator creates custom images, icons, and other visual elements tailored to specific game styles and requirements.",
+        "Top Charts Explorer enables users to browse and analyze successful games across platforms, identifying patterns and opportunities.",
+        "Idea Vault stores and organizes generated ideas, allowing easy access and iteration on previous concepts.",
+        "AI-Powered Search helps users find relevant game references, mechanics, and inspirations quickly through natural language queries.",
+        "Genre Mixer combines different game genres to produce innovative hybrid ideas, expanding creative possibilities.",
+        "Competitive Analysis feature compares user's game ideas with existing titles to highlight unique selling points.",
+        "Daily Inspiration provides curated AI-generated game prompts to keep developers motivated and generating new ideas regularly.",
+        "Collaboration Tools allow teams to share and build upon ideas in a shared workspace.",
+        "Customization Options let users fine-tune AI generations based on specific parameters like target audience or platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is Ludo.ai primarily used for?",
+            "answer": "Ludo.ai is primarily used for assisting game developers in ideation, research, and design processes using AI tools. It helps generate game concepts, analyze market trends, and create assets to speed up development."
+        },
+        {
+            "question": "Is Ludo.ai free to use?",
+            "answer": "Yes, Ludo.ai offers a free plan with access to core features, though with limitations on usage and advanced functionalities. Users can upgrade to paid plans for unlimited access and additional tools."
+        },
+        {
+            "question": "How does the Game Ideator work?",
+            "answer": "The Game Ideator uses AI to combine user-inputted elements like genres and mechanics to generate complete game concepts. It provides detailed descriptions, potential features, and even monetization ideas to inspire developers."
+        },
+        {
+            "question": "Can Ludo.ai help with market research?",
+            "answer": "Absolutely, the Market Research tool aggregates data from app stores and gaming platforms to show trends, top-performing games, and player demographics. This helps developers validate ideas and target their audience effectively."
+        },
+        {
+            "question": "What kind of assets can I generate with Ludo.ai?",
+            "answer": "You can generate various visual assets like character designs, backgrounds, icons, and UI elements using AI. The tool allows customization based on style, theme, and game requirements."
+        },
+        {
+            "question": "Is Ludo.ai suitable for beginner game developers?",
+            "answer": "Yes, it's designed to be user-friendly for beginners, providing AI assistance to overcome common hurdles in game design. Experienced developers also benefit from its advanced research and ideation capabilities."
+        },
+        {
+            "question": "How does Ludo.ai ensure the originality of generated ideas?",
+            "answer": "Ludo.ai uses AI models trained on vast datasets but encourages users to iterate and customize outputs. While it draws from existing trends, the combination features help create unique concepts, though users should verify originality."
+        },
+        {
+            "question": "Can I collaborate with my team on Ludo.ai?",
+            "answer": "Yes, Ludo.ai includes collaboration features allowing multiple users to work on shared projects, comment on ideas, and build upon each other's contributions in real-time."
+        },
+        {
+            "question": "What platforms does Ludo.ai support for game research?",
+            "answer": "It supports research across major platforms including mobile (iOS and Android), PC, console, and more, pulling data from stores like Google Play, App Store, and Steam."
+        },
+        {
+            "question": "How secure is my data on Ludo.ai?",
+            "answer": "Ludo.ai prioritizes data security with encryption and compliance to privacy standards. User-generated ideas and projects are stored securely, and you control sharing permissions."
+        }
+    ]
+}

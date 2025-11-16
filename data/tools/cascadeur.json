@@ -1,0 +1,70 @@
+{
+    "name": "Cascadeur",
+    "description": "Cascadeur is a physics-based animation software that uses AI to streamline the creation of realistic character movements for games, films, and VFX.",
+    "longDescription": "Cascadeur is a standalone 3D animation software specializing in physics-based character animation, designed to make complex animations more accessible and efficient. Its mission is to empower animators by integrating AI-driven tools that automate tedious tasks like posing and motion correction, allowing creators to focus on artistry rather than technical details. The software serves users in industries such as game development, film production, and visual effects by solving common problems like unnatural character movements through realistic physics simulations and predictive AI features. It supports a wide range of character rigs and exports to popular formats, ensuring seamless integration into professional workflows. Overall, Cascadeur democratizes high-quality animation, reducing the time and expertise needed for lifelike results.",
+    "url": "https://cascadeur.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cascadeur.com.webp",
+    "category": "AI Animation Generator",
+    "categorySlug": "ai-animation-generator",
+    "slug": "cascadeur",
+    "categories": [
+        "AI Animation Generator",
+        "AI Predictions",
+        "AI Character"
+    ],
+    "features": [
+        "Physics-based simulation engine automatically handles realistic movements, gravity, and collisions, saving time on manual adjustments.",
+        "AI Auto-Posing tool generates natural character poses based on selected trajectories, enhancing efficiency for animators.",
+        "Trajectory editing allows precise control over paths, jumps, and falls, enabling detailed motion planning with ballistic accuracy.",
+        "Rig support for humanoid, animal, and custom characters ensures versatility across different animation projects.",
+        "Onion skinning feature provides visual overlays of previous and next frames, aiding in smooth animation refinement.",
+        "Ghost tool displays reference poses or animations for easy comparison and iteration during the creative process.",
+        "Momentum and force visualization helps users understand and tweak physical properties for more authentic results.",
+        "Secondary motion tools automate elements like cloth or hair dynamics, adding realism without extra effort.",
+        "Export options to FBX, DAE, and other formats facilitate integration with software like Unity, Unreal Engine, and Blender.",
+        "Quick Rigging system simplifies setup for new characters, reducing preparation time for animation workflows.",
+        "AI-driven trajectory prediction anticipates movements, helping to create fluid and natural sequences effortlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cascadeur?",
+            "answer": "Cascadeur is a physics-based 3D animation software that uses AI to help create realistic character animations. It focuses on simulating natural movements for games, films, and VFX."
+        },
+        {
+            "question": "Is there a free version of Cascadeur?",
+            "answer": "Yes, Cascadeur offers a free Basic version with core features, though it has limitations like watermarked exports. Upgrading to Pro or Business unlocks advanced tools and removes restrictions."
+        },
+        {
+            "question": "What are the system requirements for Cascadeur?",
+            "answer": "Cascadeur requires a Windows, Linux, or macOS system with a decent GPU for optimal performance. Check the official website for detailed specs, including recommended RAM and processor."
+        },
+        {
+            "question": "How does AI help in Cascadeur?",
+            "answer": "AI in Cascadeur automates posing and trajectory adjustments, predicting natural movements to speed up the animation process. This reduces manual work and helps achieve realistic results faster."
+        },
+        {
+            "question": "Can I use Cascadeur for game development?",
+            "answer": "Yes, Cascadeur is ideal for game development, with exports compatible with engines like Unity and Unreal. It excels in creating physics-accurate animations for characters and creatures."
+        },
+        {
+            "question": "Does Cascadeur support custom rigs?",
+            "answer": "Yes, it supports custom rigs for various character types, including humanoids and animals. The Quick Rigging tool makes it easy to set up and animate non-standard models."
+        },
+        {
+            "question": "What file formats can I export from Cascadeur?",
+            "answer": "Cascadeur supports exports to FBX, DAE, and other common formats. This allows seamless integration with other 3D software and game engines."
+        },
+        {
+            "question": "Is Cascadeur suitable for beginners?",
+            "answer": "While it has a learning curve, Cascadeur's AI tools make it accessible for beginners. Tutorials and the free version help new users get started with physics-based animation."
+        },
+        {
+            "question": "How does physics simulation work in Cascadeur?",
+            "answer": "The physics engine simulates real-world forces like gravity and momentum automatically. Users can tweak parameters for customized, realistic animations without extensive keyframing."
+        },
+        {
+            "question": "Can I collaborate with others using Cascadeur?",
+            "answer": "Cascadeur supports project sharing via file exports, but real-time collaboration isn't built-in. Teams often use it alongside version control tools for collaborative workflows."
+        }
+    ]
+}

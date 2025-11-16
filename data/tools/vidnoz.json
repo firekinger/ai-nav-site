@@ -1,0 +1,62 @@
+{
+    "name": "Vidnoz",
+    "description": "Vidnoz is an AI-powered platform for creating professional videos quickly using avatars, templates, and voiceovers.",
+    "longDescription": "Vidnoz is an innovative AI-driven video creation platform designed to simplify and accelerate the production of high-quality, engaging videos for businesses, educators, and content creators. By leveraging artificial intelligence, it enables users to generate videos from text, PDFs, or URLs without the need for actors, cameras, or complex editing software. The platform offers a vast library of customizable templates, realistic AI avatars, and multilingual voiceovers to cater to diverse use cases like marketing, training, and social media content creation. Vidnoz aims to reduce production costs by up to 80% and increase efficiency, making professional video creation accessible to users of all skill levels. Its user-friendly interface and robust analytics further empower users to optimize content and track viewer engagement. The company emphasizes data security, adhering to ISO/IEC 27001 standards to protect user information.",
+    "url": "https://www.vidnoz.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vidnoz.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "vidnoz",
+    "categories": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI Text-to-Speech",
+        "AI Digital Marketing",
+        "AI Course",
+        "AI Project Management"
+    ],
+    "features": [
+        "AI-powered video generation creates professional videos from text inputs in minutes, saving time and resources.",
+        "Over 1,500 lifelike AI avatars with lip-syncing and gestures enhance video realism and engagement.",
+        "More than 2,800 customizable video templates streamline the creation process for various purposes like marketing and education.",
+        "AI text-to-speech with over 1,380 voices in multiple languages delivers natural-sounding voiceovers for global audiences.",
+        "Vidnoz Flex enables video recording, editing, sharing, and performance tracking with interactive CTAs for enhanced viewer engagement.",
+        "Analytics and insights provide detailed metrics on video performance, viewer locations, and engagement to optimize content.",
+        "AI voice cloning allows users to create custom voiceovers that mimic specific tones or styles for personalized videos.",
+        "High-compatibility exports in multiple resolutions (up to 1080p in paid plans) ensure videos suit various platforms and devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Vidnoz AI used for?",
+            "answer": "Vidnoz AI is used to create professional videos for marketing, education, training, and social media using AI avatars, templates, and voiceovers."
+        },
+        {
+            "question": "Does Vidnoz offer a free plan?",
+            "answer": "Yes, Vidnoz provides a free plan with 1 minute of video creation per day, access to over 1,400 AI avatars, and 1,900+ templates, though videos include a watermark."
+        },
+        {
+            "question": "What types of videos can I create with Vidnoz?",
+            "answer": "You can create explainer videos, promotional content, training modules, social media videos, and personalized messages using customizable templates and AI tools."
+        },
+        {
+            "question": "Is Vidnoz suitable for beginners?",
+            "answer": "Yes, Vidnoz’s user-friendly interface and drag-and-drop functionality make it accessible for users with no prior video editing experience."
+        },
+        {
+            "question": "Can I customize avatars and voices in Vidnoz?",
+            "answer": "Vidnoz offers over 1,500 AI avatars and 1,380+ voices with customization options, including voice cloning and adjustable templates."
+        },
+        {
+            "question": "Does Vidnoz support multiple languages?",
+            "answer": "Yes, Vidnoz supports over 140 languages for voiceovers and text-to-speech, enabling content creation for global audiences."
+        },
+        {
+            "question": "How secure is my data on Vidnoz?",
+            "answer": "Vidnoz adheres to ISO/IEC 27001 standards, employing robust security measures to protect user data and ensure privacy."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan limits users to 1 minute of video per day, includes a watermark, and restricts access to advanced features like higher resolutions."
+        }
+    ]
+}

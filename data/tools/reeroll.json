@@ -1,0 +1,76 @@
+{
+    "name": "Reeroll",
+    "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+    "longDescription": "Reeroll is an innovative AI platform designed to simplify video creation and editing for creators, marketers, and businesses. Its mission is to democratize access to professional-grade video production by leveraging AI to automate complex tasks, reducing the need for expensive software or technical expertise. The website serves users by providing intuitive tools that transform text prompts, images, or existing footage into polished videos, solving problems like time-consuming editing and lack of creative resources. It caters to a wide range of applications, from social media content to corporate presentations, making high-quality video production accessible to everyone. By integrating machine learning algorithms, Reeroll ensures fast processing and high customization, helping users iterate quickly on their ideas. Overall, it empowers non-professionals to produce engaging visual content efficiently.",
+    "url": "https://reeroll.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/reeroll.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "reeroll",
+    "categories": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI Voice Over",
+        "AI Creative Writing",
+        "AI Social Media Post Generator",
+        "AI Animation Generator",
+        "AI Marketing",
+        "AI Writing Assistants",
+        "AI Music Generator",
+        "AI Video Search"
+    ],
+    "features": [
+        "AI-powered video generation allows users to create custom videos from text prompts, saving time on manual filming and editing.",
+        "Automated editing tools use AI to trim, enhance, and add effects to footage, improving video quality without expert skills.",
+        "Template library offers pre-designed video templates that can be customized with AI suggestions for quick content creation.",
+        "Text-to-video conversion feature transforms scripts or descriptions into animated videos, ideal for storytelling and marketing.",
+        "Voiceover integration employs AI to generate natural-sounding narrations in multiple languages, enhancing video accessibility.",
+        "Real-time collaboration enables teams to work on video projects simultaneously, streamlining workflow for remote users.",
+        "Export options support various formats and resolutions, ensuring compatibility with social media and professional platforms.",
+        "AI-driven music and sound effects library suggests and adds audio elements that match the video's mood and theme.",
+        "Customization tools allow users to adjust styles, colors, and transitions with AI-assisted recommendations for optimal results.",
+        "Analytics dashboard provides insights into video performance, helping users refine content based on viewer engagement data."
+    ],
+    "faqs": [
+        {
+            "question": "What is Reeroll primarily used for?",
+            "answer": "Reeroll is mainly used for AI-assisted video creation and editing, allowing users to generate professional videos from simple inputs like text or images."
+        },
+        {
+            "question": "Does Reeroll offer a free plan?",
+            "answer": "Yes, Reeroll provides a free tier with limited features, such as basic video generation and editing, to let users try the platform before upgrading."
+        },
+        {
+            "question": "How does the AI video generation work?",
+            "answer": "Users input text prompts or upload assets, and the AI analyzes them to create videos, applying effects, transitions, and animations automatically. It uses machine learning to ensure the output matches the user's vision."
+        },
+        {
+            "question": "Can I collaborate with others on Reeroll?",
+            "answer": "Yes, Reeroll supports real-time collaboration, enabling multiple users to edit and comment on video projects simultaneously."
+        },
+        {
+            "question": "What file formats does Reeroll support for export?",
+            "answer": "Reeroll allows exporting videos in popular formats like MP4, AVI, and MOV, with options for different resolutions up to 4K."
+        },
+        {
+            "question": "Is Reeroll suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and AI guidance make it easy for beginners to create high-quality videos without prior experience."
+        },
+        {
+            "question": "How does Reeroll handle voiceovers?",
+            "answer": "The platform uses AI to generate realistic voiceovers from text, supporting various voices, accents, and languages for diverse needs."
+        },
+        {
+            "question": "Can I use Reeroll for marketing videos?",
+            "answer": "Yes, Reeroll's templates and AI tools are perfect for creating engaging marketing content, including ads and promotional videos tailored to brand needs."
+        },
+        {
+            "question": "What makes Reeroll different from other video editors?",
+            "answer": "Reeroll stands out with its AI automation that handles creative decisions, speeding up production while offering advanced features like smart suggestions and analytics."
+        },
+        {
+            "question": "Is there customer support available?",
+            "answer": "Reeroll offers email support, a help center with tutorials, and premium plans include priority assistance for faster issue resolution."
+        }
+    ]
+}

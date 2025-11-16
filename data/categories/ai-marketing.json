@@ -1,0 +1,1348 @@
+{
+    "title": "The Best 122 AI Marketing Tools in 2025",
+    "summary": "Unlock the potential of your marketing strategy with our AI Marketing tools. Designed to enhance customer engagement, optimize campaigns, and drive conversions, these innovative solutions leverage advanced algorithms to analyze data and automate processes. Whether you're looking to personalize content, improve targeting, or streamline social media management, our curated selection of AI tools can help you achieve your goals efficiently. Explore our AI Marketing category today and discover how these cutting-edge technologies can transform your marketing efforts and elevate your brand. Start your journey to smarter marketing now!",
+    "tools": [
+        {
+            "id": "101",
+            "name": "Shop",
+            "slug": "shop",
+            "description": "Shop is a digital shopping assistant app that streamlines online shopping with order tracking, personalized recommendations, and fast checkouts.",
+            "icon": "/logo/shop.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "25",
+            "name": "Beacons",
+            "slug": "beacons",
+            "description": "Beacons is an AI-powered platform that helps creators build customizable link-in-bio websites to monetize their audience and grow their brand.",
+            "icon": "/logo/beacons.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "46",
+            "name": "PhotoRoom",
+            "slug": "photoroom",
+            "description": "PhotoRoom is an AI-powered photo editing platform that simplifies creating professional-quality images for businesses and individuals.",
+            "icon": "/logo/photoroom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "43",
+            "name": "Leonardo.Ai",
+            "slug": "leonardo-ai",
+            "description": "Leonardo.Ai is an AI-driven platform for generating high-quality visual assets for creative projects.",
+            "icon": "/logo/leonardo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "InVideo",
+            "slug": "invideo",
+            "description": "InVideo is an AI-powered video creation platform that simplifies professional-quality video production for users of all skill levels.",
+            "icon": "/logo/invideo.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "112",
+            "name": "HeyGen",
+            "slug": "heygen",
+            "description": "HeyGen is an AI-powered platform for creating and localizing professional videos with customizable avatars and voiceovers.",
+            "icon": "/logo/app.heygen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Microsoft Designer",
+            "slug": "microsoft-designer",
+            "description": "Microsoft Designer is an AI-powered graphic design app for creating professional-quality social media posts, invitations, and graphics.",
+            "icon": "/logo/designer.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "164",
+            "name": "GoBranded",
+            "slug": "gobranded",
+            "description": "GoBranded provides AI-powered branding and marketing solutions to help businesses create and manage their brand identity.",
+            "icon": "/logo/gobranded.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "169",
+            "name": "PicLumen",
+            "slug": "piclumen",
+            "description": "PicLumen is an AI-powered platform for generating and editing high-quality images for creative and professional use.",
+            "icon": "/logo/www.piclumen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "Pika.art",
+            "slug": "pika-art",
+            "description": "Pika.art is an AI-powered platform for creating and editing videos and images from text prompts or existing media.",
+            "icon": "/logo/pika.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1283",
+            "name": "Vidfly.ai",
+            "slug": "vidfly-ai",
+            "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+            "icon": "/logo/vidfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "247",
+            "name": "Airbrush",
+            "slug": "airbrush",
+            "description": "Airbrush provides AI-powered tools for creating and editing high-quality images and videos for personal and professional use.",
+            "icon": "/logo/airbrush.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "256",
+            "name": "LTX Studio",
+            "slug": "ltx-studio",
+            "description": "LTX Studio is an AI-powered platform for creating and editing professional-quality videos and animations from text prompts or scripts.",
+            "icon": "/logo/ltx.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "263",
+            "name": "Pixnova AI",
+            "slug": "pixnova-ai",
+            "description": "Pixnova AI offers advanced AI-powered image generation and editing tools for creative professionals and enthusiasts.",
+            "icon": "/logo/pixnova.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "270",
+            "name": "Magic Studio",
+            "slug": "magic-studio",
+            "description": "Magic Studio provides AI-powered tools for creating and editing stunning images effortlessly.",
+            "icon": "/logo/magicstudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "Piktochart",
+            "slug": "piktochart",
+            "description": "Piktochart is an online platform for creating stunning infographics, presentations, reports, and videos with AI-powered tools and templates.",
+            "icon": "/logo/piktochart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "291",
+            "name": "Stable Diffusion Online",
+            "slug": "stable-diffusion-online",
+            "description": "Stable Diffusion Online is a user-friendly platform for generating high-quality AI images from text prompts using the Stable Diffusion XL model.",
+            "icon": "/logo/stablediffusionweb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "298",
+            "name": "Getimg.ai",
+            "slug": "getimg-ai",
+            "description": "Getimg.ai is an AI-powered platform for creating, editing, and enhancing images from text prompts or existing visuals.",
+            "icon": "/logo/getimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "310",
+            "name": "Seismic",
+            "slug": "seismic",
+            "description": "Seismic provides an AI-powered sales enablement platform to enhance customer engagement and drive revenue growth for go-to-market teams.",
+            "icon": "/logo/www.seismic.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "312",
+            "name": "Creatify",
+            "slug": "creatify",
+            "description": "Creatify is an AI-powered platform that automates the creation of engaging video advertisements from product links or descriptions.",
+            "icon": "/logo/creatify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "313",
+            "name": "BrandCrowd",
+            "slug": "brandcrowd",
+            "description": "BrandCrowd is an online platform offering customizable logo designs and branding tools for businesses and entrepreneurs.",
+            "icon": "/logo/www.brandcrowd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "316",
+            "name": "Cleanup.pictures",
+            "slug": "cleanup-pictures",
+            "description": "Cleanup.pictures is an AI-powered online tool for removing unwanted objects, people, text, or defects from photos in seconds.",
+            "icon": "/logo/cleanup.pictures.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "321",
+            "name": "AKOOL",
+            "slug": "akool",
+            "description": "AKOOL is a generative AI platform for creating personalized visual marketing and advertising content.",
+            "icon": "/logo/akool.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "AIPRM",
+            "slug": "aiprm",
+            "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+            "icon": "/logo/www.aiprm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "329",
+            "name": "SwapFace",
+            "slug": "swapface",
+            "description": "SwapFace is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering free and premium tools for creative content creation.",
+            "icon": "/logo/www.swapfaces.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "355",
+            "name": "Photofeeler",
+            "slug": "photofeeler",
+            "description": "Photofeeler provides anonymous feedback to optimize profile photos for business, social, and dating purposes.",
+            "icon": "/logo/www.photofeeler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "368",
+            "name": "Namelix",
+            "slug": "namelix",
+            "description": "Namelix is an AI-powered tool that generates unique, brandable business names and logos based on user-provided keywords.",
+            "icon": "/logo/namelix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "370",
+            "name": "Flux AI",
+            "slug": "flux-ai",
+            "description": "Flux AI is an advanced AI-powered platform for generating high-quality images and videos from text prompts.",
+            "icon": "/logo/flux1.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "377",
+            "name": "Jasper",
+            "slug": "jasper",
+            "description": "Jasper is an AI-powered platform designed to create on-brand marketing content quickly and efficiently.",
+            "icon": "/logo/www.jasper.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "379",
+            "name": "Anakin AI",
+            "slug": "anakin-ai",
+            "description": "Anakin AI is a no-code platform for creating and customizing AI applications to automate tasks and generate content.",
+            "icon": "/logo/anakin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "386",
+            "name": "HypeAuditor",
+            "slug": "hypeauditor",
+            "description": "HypeAuditor is an AI-powered influencer marketing platform that helps brands and agencies discover, analyze, and manage influencer campaigns across major social media platforms.",
+            "icon": "/logo/hypeauditor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "396",
+            "name": "Dzine",
+            "slug": "dzine",
+            "description": "Dzine is an AI-powered platform for intuitive image generation and editing, designed for creators of all skill levels.",
+            "icon": "/logo/www.dzine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "Copy.ai",
+            "slug": "copy-ai",
+            "description": "Copy.ai is an AI-powered platform designed to streamline content creation and enhance go-to-market strategies for businesses.",
+            "icon": "/logo/www.copy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "404",
+            "name": "Algolia",
+            "slug": "algolia",
+            "description": "Algolia provides an AI-powered search and discovery platform to deliver fast, relevant digital experiences for websites and apps.",
+            "icon": "/logo/www.algolia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "414",
+            "name": "Flux AI",
+            "slug": "flux-ai-io",
+            "description": "Flux AI provides advanced AI-powered tools for generating high-quality images and videos from text and image inputs.",
+            "icon": "/logo/flux-ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "417",
+            "name": "Durable",
+            "slug": "durable",
+            "description": "Durable is an AI-powered platform that enables small businesses and entrepreneurs to create professional websites and manage business operations in seconds.",
+            "icon": "/logo/durable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "442",
+            "name": "ActiveCampaign",
+            "slug": "activecampaign",
+            "description": "ActiveCampaign provides a platform for personalized email marketing, automation, and sales engagement to help businesses grow.",
+            "icon": "/logo/www.activecampaign.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "472",
+            "name": "PPSPY",
+            "slug": "ppspy",
+            "description": "PPSPY is an AI-powered Shopify spy tool for dropshipping and sales tracking, helping merchants analyze competitors and discover winning products.",
+            "icon": "/logo/www.ppspy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "482",
+            "name": "Accio",
+            "slug": "accio",
+            "description": "Accio is an AI-powered B2B sourcing engine that streamlines product procurement and provides business insights.",
+            "icon": "/logo/www.accio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "490",
+            "name": "Walter Writes AI",
+            "slug": "walter-writes-ai",
+            "description": "Walter Writes AI transforms AI-generated text into human-like, undetectable content for students, professionals, and creators.",
+            "icon": "/logo/walterwrites.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "508",
+            "name": "Pincel",
+            "slug": "pincel",
+            "description": "Pincel is an AI-powered online image editing app that simplifies photo manipulation for users of all skill levels.",
+            "icon": "/logo/pincel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "546",
+            "name": "Unbounce",
+            "slug": "unbounce",
+            "description": "Unbounce is a no-code platform for building, testing, and optimizing high-converting landing pages to boost leads and sales.",
+            "icon": "/logo/unbounce.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "578",
+            "name": "Logomaster.ai",
+            "slug": "logomaster-ai",
+            "description": "Logomaster.ai is an AI-powered platform that enables users to create professional logos quickly and easily without design skills.",
+            "icon": "/logo/logomaster.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "595",
+            "name": "VWO",
+            "slug": "vwo",
+            "description": "VWO is a leading platform for A/B testing and digital experience optimization to enhance website conversions and user engagement.",
+            "icon": "/logo/vwo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "596",
+            "name": "Robly",
+            "slug": "robly",
+            "description": "Robly is an email marketing platform designed to boost engagement and open rates for small businesses using automation and AI-driven tools.",
+            "icon": "/logo/robly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "663",
+            "name": "Gupshup",
+            "slug": "gupshup",
+            "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+            "icon": "/logo/www.gupshup.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "628",
+            "name": "AIMusicGen.ai",
+            "slug": "aimusicgen-ai",
+            "description": "AIMusicGen.ai is an AI-powered platform that instantly transforms text or lyrics into high-quality, royalty-free songs.",
+            "icon": "/logo/aimusicgen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "637",
+            "name": "Blaze AI",
+            "slug": "blaze-ai",
+            "description": "Blaze AI is an AI-driven platform that streamlines content creation and marketing for businesses, producing brand-aligned content in seconds.",
+            "icon": "/logo/www.blaze.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "653",
+            "name": "Videomaker.me",
+            "slug": "videomaker-me",
+            "description": "Videomaker.me is an AI-powered platform for creating high-quality videos from text or images with synchronized audio and cinematic effects.",
+            "icon": "/logo/videomaker.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "658",
+            "name": "Tweet Hunter",
+            "slug": "tweet-hunter",
+            "description": "Tweet Hunter is an AI-powered platform designed to help users grow and monetize their X (formerly Twitter) audience through content creation, scheduling, and analytics.",
+            "icon": "/logo/tweethunter.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "659",
+            "name": "StockStory",
+            "slug": "stockstory",
+            "description": "StockStory provides AI-driven stock market analysis and research for individual investors.",
+            "icon": "/logo/stockstory.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "678",
+            "name": "Pareto",
+            "slug": "pareto",
+            "description": "Pareto.io offers Tess AI, a generative AI platform, and digital marketing services to enhance business productivity and growth.",
+            "icon": "/logo/pareto.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "680",
+            "name": "AnimateAI",
+            "slug": "animateai",
+            "description": "AnimateAI is an all-in-one AI-powered video generation tool for creating stunning animation videos quickly and cost-effectively.",
+            "icon": "/logo/animateai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "693",
+            "name": "Delphi",
+            "slug": "delphi-ai",
+            "description": "Delphi is an AI-powered platform that creates digital clones of experts to scale personalized interactions and knowledge sharing.",
+            "icon": "/logo/www.delphi.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1346",
+            "name": "Facy.ai",
+            "slug": "facy-ai",
+            "description": "Facy.ai is a cloud-based AI platform for face swapping in images and videos, providing free and premium tools for high-quality media editing and transformations.",
+            "icon": "/logo/facy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "732",
+            "name": "Short AI",
+            "slug": "short-ai",
+            "description": "Short AI is an AI-powered platform for creating viral, faceless short-form videos for social media platforms like YouTube and TikTok.",
+            "icon": "/logo/www.short.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "752",
+            "name": "Tavus",
+            "slug": "tavus",
+            "description": "Tavus is a generative AI video research company that enables developers to create hyper-realistic digital twins for personalized video experiences.",
+            "icon": "/logo/www.tavus.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "788",
+            "name": "Team-GPT",
+            "slug": "team-gpt",
+            "description": "Team-GPT is an AI collaboration platform designed to enhance team productivity and streamline AI-driven workflows for businesses.",
+            "icon": "/logo/team-gpt.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "803",
+            "name": "Wirestock",
+            "slug": "wirestock",
+            "description": "Wirestock is a platform for creators to sell photos, videos, and AI-generated art on major marketplaces.",
+            "icon": "/logo/wirestock.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "830",
+            "name": "AI for Work",
+            "slug": "ai-for-work",
+            "description": "AI for Work provides a comprehensive library of over 2,000 job-specific ChatGPT prompts to enhance professional productivity across various industries.",
+            "icon": "/logo/www.aiforwork.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "840",
+            "name": "Scenario",
+            "slug": "scenario",
+            "description": "Scenario is an AI-powered platform for creating and managing production-ready visual assets with precision and creative control.",
+            "icon": "/logo/www.scenario.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "846",
+            "name": "Supermeme.ai",
+            "slug": "supermeme-ai",
+            "description": "Supermeme.ai is an AI-powered platform that allows users to generate customized memes quickly for social media, marketing, and entertainment.",
+            "icon": "/logo/supermeme.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "875",
+            "name": "DealMachine",
+            "slug": "dealmachine",
+            "description": "DealMachine is a real estate investing platform that empowers users to discover off-market deals, manage leads, and automate marketing through mobile and web tools.",
+            "icon": "/logo/dealmachine.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "BannerBear",
+            "slug": "bannerbear",
+            "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+            "icon": "/logo/www.bannerbear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "909",
+            "name": "Pietra Studio",
+            "slug": "pietra-studio",
+            "description": "Pietra Studio is a platform empowering creators and entrepreneurs to launch and scale e-commerce brands with tools for design, manufacturing, and fulfillment.",
+            "icon": "/logo/www.pietrastudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "937",
+            "name": "WeShop AI",
+            "slug": "weshop-ai",
+            "description": "WeShop AI is an AI-powered platform that enables e-commerce businesses to generate professional, studio-quality product photos and visuals instantly.",
+            "icon": "/logo/www.weshop.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "954",
+            "name": "ChainGPT",
+            "slug": "chaingpt",
+            "description": "ChainGPT is an AI-powered platform providing advanced tools and infrastructure for blockchain, crypto, and Web3 development.",
+            "icon": "/logo/www.chaingpt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "958",
+            "name": "Fakeface",
+            "slug": "fakeface",
+            "description": "Fakeface.io is an AI-driven platform that generates realistic images of non-existent human faces for creative, testing, and privacy purposes.",
+            "icon": "/logo/fakeface.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "964",
+            "name": "SurgeGraph",
+            "slug": "surgegraph",
+            "description": "SurgeGraph is an AI-powered SEO content platform that enables users to generate, optimize, and publish high-performing content for better search engine rankings.",
+            "icon": "/logo/surgegraph.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "968",
+            "name": "VisionStory AI",
+            "slug": "visionstory-ai",
+            "description": "VisionStory AI is an AI-powered platform that enables users to create engaging visual stories from text prompts, combining narrative generation with image creation.",
+            "icon": "/logo/www.visionstory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "971",
+            "name": "MagicShot",
+            "slug": "magicshot-ai",
+            "description": "MagicShot.ai is an AI-powered platform that enables users to create professional product photos instantly without the need for physical photoshoots.",
+            "icon": "/logo/magicshot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "975",
+            "name": "Sell The Trend",
+            "slug": "sell-the-trend",
+            "description": "Sell The Trend is an AI-powered dropshipping platform that helps e-commerce entrepreneurs discover trending products, analyze market trends, and optimize online stores for maximum profitability.",
+            "icon": "/logo/www.sellthetrend.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "989",
+            "name": "Upgrow",
+            "slug": "upgrow",
+            "description": "Upgrow is an AI-powered platform that helps businesses and influencers grow their Instagram presence organically by attracting real, targeted followers.",
+            "icon": "/logo/www.upgrow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "993",
+            "name": "Pebblely",
+            "slug": "pebblely",
+            "description": "Pebblely is an AI-powered tool that generates professional product photos for e-commerce and marketing purposes.",
+            "icon": "/logo/pebblely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "998",
+            "name": "Pixellot",
+            "slug": "pixellot",
+            "description": "Pixellot is an AI-powered platform that automates sports video production and streaming for teams, leagues, and broadcasters.",
+            "icon": "/logo/www.pixellot.tv.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1001",
+            "name": "Storebuild.ai",
+            "slug": "storebuild-ai",
+            "description": "Storebuild.ai is an AI-powered platform that enables users to quickly build, customize, and launch online e-commerce stores with minimal effort.",
+            "icon": "/logo/storebuild.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1022",
+            "name": "AI Carousels",
+            "slug": "ai-carousels",
+            "description": "AI Carousels is an AI-powered platform designed to help users create engaging carousel posts for social media quickly and effortlessly.",
+            "icon": "/logo/www.aicarousels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1031",
+            "name": "Inven",
+            "slug": "inven-ai",
+            "description": "Inven is an AI-powered platform that helps professionals discover and analyze private companies faster, offering tools for deal sourcing, investor search, and market research.",
+            "icon": "/logo/www.inven.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1040",
+            "name": "ProductScope AI",
+            "slug": "productscope-ai",
+            "description": "ProductScope AI is an AI-driven platform that empowers e-commerce sellers to optimize product listings, generate high-quality images, and enhance marketing strategies for platforms like Amazon.",
+            "icon": "/logo/productscope.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1077",
+            "name": "Outset",
+            "slug": "outset-ai",
+            "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+            "icon": "/logo/outset.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1100",
+            "name": "Humanize",
+            "slug": "humanize-io",
+            "description": "Humanize.io is an AI-powered tool that converts AI-generated text into natural, human-like writing to bypass AI detectors and enhance readability.",
+            "icon": "/logo/humanize.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1109",
+            "name": "Copyspace.ai",
+            "slug": "copyspace-ai",
+            "description": "Copyspace.ai is an AI-driven platform that helps users generate high-quality marketing copy, social media content, and creative writing effortlessly.",
+            "icon": "/logo/www.copyspace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1117",
+            "name": "Contrast",
+            "slug": "contrast",
+            "description": "Contrast is an AI-powered platform for enhancing image contrast, analyzing visuals, and generating accessible designs for creative and professional use.",
+            "icon": "/logo/www.getcontrast.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1141",
+            "name": "SalesRobot",
+            "slug": "salesrobot",
+            "description": "SalesRobot is an AI-driven sales engagement tool that automates cold outreach on LinkedIn and email to help users generate B2B leads.",
+            "icon": "/logo/www.salesrobot.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1146",
+            "name": "AIJourney",
+            "slug": "aijourney",
+            "description": "AIJourney is a platform that helps professionals discover, learn, and master AI tools through expert reviews, insights, and a curated directory of AI technologies.",
+            "icon": "/logo/aijourney.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1153",
+            "name": "WiziShop",
+            "slug": "wizishop",
+            "description": "WiziShop is an AI-powered e-commerce platform that enables users to create, manage, and optimize online stores with automated tools and features.",
+            "icon": "/logo/wizishop.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1166",
+            "name": "Glorify",
+            "slug": "glorify",
+            "description": "Glorify is a design tool that enables entrepreneurs and marketers to create marketing visuals, offering features like AI-powered tools, template libraries, and collaboration capabilities.",
+            "icon": "/logo/glorify.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1170",
+            "name": "Logomakerr.ai",
+            "slug": "logomakerr-ai",
+            "description": "Logomakerr.ai is an AI-powered platform that allows users to generate professional logos quickly based on simple inputs like company name and industry.",
+            "icon": "/logo/logomakerr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1174",
+            "name": "FluxPro.ai",
+            "slug": "fluxpro-ai",
+            "description": "FluxPro.ai is an advanced AI platform that enables users to generate high-quality, realistic images from text prompts using the state-of-the-art Flux.1 Pro model.",
+            "icon": "/logo/fluxpro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1191",
+            "name": "Plerdy",
+            "slug": "plerdy",
+            "description": "Plerdy is a SaaS platform offering tools for website optimization, user behavior analysis, SEO enhancement, and conversion rate improvement to boost online performance.",
+            "icon": "/logo/www.plerdy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1205",
+            "name": "Moning",
+            "slug": "moning",
+            "description": "Moning is a comprehensive investment platform that empowers users to track, analyze, and optimize their stock portfolios with a focus on dividend investing and financial independence.",
+            "icon": "/logo/moning.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1216",
+            "name": "PagePilot.ai",
+            "slug": "pagepilot-ai",
+            "description": "PagePilot.ai is an AI-powered platform that enables users to quickly generate professional, high-converting landing pages for businesses, products, or marketing campaigns.",
+            "icon": "/logo/pagepilot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1222",
+            "name": "Ludo.ai",
+            "slug": "ludo-ai",
+            "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+            "icon": "/logo/ludo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1231",
+            "name": "Clearscope",
+            "slug": "clearscope",
+            "description": "Clearscope is an AI-powered SEO content optimization platform that helps users create and refine content to improve search engine rankings through data-driven insights.",
+            "icon": "/logo/www.clearscope.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1233",
+            "name": "uPass.ai",
+            "slug": "upass-ai",
+            "description": "uPass.ai is an AI-powered platform that humanizes AI-generated text to make it undetectable by AI content detectors, helping users create authentic-looking content.",
+            "icon": "/logo/upass.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1295",
+            "name": "Adpex AI",
+            "slug": "adpex-ai",
+            "description": "Adpex AI is an AI-powered platform designed to optimize advertising performance and enhance marketing strategies through intelligent automation.",
+            "icon": "/logo/www.adpexai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1301",
+            "name": "Stormy AI",
+            "slug": "stormy-ai",
+            "description": "Stormy.ai is an AI-powered platform for generating creative content and brainstorming ideas.",
+            "icon": "/logo/stormy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1372",
+            "name": "Tako",
+            "slug": "tako",
+            "description": "Tako is an AI-powered platform that streamlines customer research by automating interviews, transcriptions, and insights generation.",
+            "icon": "/logo/trytako.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1340",
+            "name": "SocialRails",
+            "slug": "socialrails",
+            "description": "SocialRails is an AI-powered platform designed to streamline social media management, content creation, and engagement for businesses and individuals.",
+            "icon": "/logo/socialrails.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1426",
+            "name": "SalesRender",
+            "slug": "salesrender",
+            "description": "SalesRender is an AI-powered CRM platform designed to automate sales processes, manage customer relationships, and boost revenue through intelligent tools.",
+            "icon": "/logo/salesrender.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1320",
+            "name": "VuePak",
+            "slug": "vuepak",
+            "description": "VuePak is an AI-powered platform for seamless file transfer and media management across devices.",
+            "icon": "/logo/www.vuepak.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1260",
+            "name": "WriteHybrid",
+            "slug": "writehybrid",
+            "description": "WriteHybrid is an AI humanizer tool that transforms AI-generated text into undetectable, human-like content, offering plans starting with 500 free words monthly.",
+            "icon": "/logo/www.writehybrid.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1276",
+            "name": "Mocke",
+            "slug": "mocke",
+            "description": "Mocke provides an AI-powered platform for simulating cold email campaigns to quickly test reply rates and campaign performance without launching real campaigns.",
+            "icon": "/logo/mocke.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1325",
+            "name": "AI Video Maker",
+            "slug": "ai-video-maker",
+            "description": "AI Video Maker is an online platform that leverages artificial intelligence to simplify video creation and editing for users of all skill levels.",
+            "icon": "/logo/aivideomaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "Reeroll",
+            "slug": "reeroll",
+            "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+            "icon": "/logo/reeroll.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1337",
+            "name": "AISplash",
+            "slug": "aisplash",
+            "description": "AISplash is an AI-powered platform that enables users to generate creative and customized images for various purposes, focusing on artistic and marketing needs.",
+            "icon": "/logo/aisplash.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1394",
+            "name": "AutoLaunched",
+            "slug": "autolaunched",
+            "description": "AutoLaunched is an AI-powered platform that automates the process of launching startups and digital products for entrepreneurs and developers.",
+            "icon": "/logo/autolaunched.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Feedly",
+            "slug": "feedly",
+            "description": "Feedly is a news aggregator that curates personalized content feeds for individuals and teams to stay informed on topics that matter.",
+            "icon": "/logo/feedly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "90",
+            "name": "Tally",
+            "slug": "tally",
+            "description": "Tally is a free, intuitive no-code platform for creating and managing online forms, surveys, and quizzes.",
+            "icon": "/logo/tally.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "113",
+            "name": "Higgsfield AI",
+            "slug": "higgsfield-ai",
+            "description": "Higgsfield AI is a generative video platform that empowers creators with cinematic camera control and realistic video generation.",
+            "icon": "/logo/higgsfield.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "983",
+            "name": "Frase",
+            "slug": "frase",
+            "description": "Frase is an AI-powered platform that streamlines content creation, research, and SEO optimization to help users produce high-performing content efficiently.",
+            "icon": "/logo/frase.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "985",
+            "name": "BrandWell",
+            "slug": "brandwell-ai",
+            "description": "BrandWell.ai is an AI-powered platform that helps users generate professional brand identities, including names, logos, and marketing assets, to build strong brands quickly and affordably.",
+            "icon": "/logo/brandwell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1225",
+            "name": "i-Genie.AI",
+            "slug": "i-genie-ai",
+            "description": "i-Genie.AI provides faster consumer insights by passively analyzing online data like searches, social conversations, ratings, reviews, and videos, without relying on surveys or focus groups.",
+            "icon": "/logo/i-genie.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1434",
+            "name": "EaseMate AI",
+            "slug": "easemate-ai",
+            "description": "EaseMate AI is an all-in-one AI assistant designed to boost efficiency in study, work, and creativity by leveraging advanced AI models.",
+            "icon": "/logo/www.easemate.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1436",
+            "name": "Postiz",
+            "slug": "postiz",
+            "description": "Postiz is an open-source social media management tool that enables users to schedule posts, generate AI-assisted content, create visuals, and analyze performance across multiple platforms to grow their audience and business.",
+            "icon": "/logo/postiz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        },
+        {
+            "id": "1442",
+            "name": "GetResponse",
+            "slug": "getresponse",
+            "description": "GetResponse is an all-in-one AI-powered email marketing and automation platform that enables businesses to create engaging campaigns, build landing pages, and drive conversions across multiple channels.",
+            "icon": "/logo/www.getresponse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-marketing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Dify",
+    "description": "Dify is an open-source platform for building and deploying AI-powered applications and workflows.",
+    "longDescription": "Dify is an open-source AI orchestration platform designed to simplify the development and deployment of AI-powered applications, particularly for Large Language Model (LLM) workflows. It enables developers and businesses to create custom AI applications, such as chatbots, virtual assistants, and content generation tools, without deep AI expertise. The platform provides a visual interface for designing workflows, integrating data, and managing AI models, making it accessible to both technical and non-technical users. Dify supports integration with various LLMs and offers tools for data annotation, model fine-tuning, and application monitoring. Its mission is to democratize AI development by providing a flexible, scalable, and user-friendly environment for building AI-driven solutions.",
+    "url": "https://dify.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dify.ai.webp",
+    "category": "AI App Builder",
+    "categorySlug": "ai-app-builder",
+    "slug": "dify",
+    "categories": [
+        "AI App Builder",
+        "AI Workflow",
+        "Prompt Engineering",
+        "Large Language Models (LLMs)",
+        "Open Source AI Models"
+    ],
+    "features": [
+        "Visual workflow builder enables users to design AI-powered workflows through an intuitive drag-and-drop interface.",
+        "Supports integration with multiple LLMs, allowing users to choose models like GPT, LLaMA, or custom models for their applications.",
+        "Data annotation tools help users prepare and refine datasets for training or fine-tuning AI models.",
+        "Real-time application monitoring provides insights into performance, usage, and errors for deployed AI apps.",
+        "Custom API integration allows developers to connect Dify applications with external systems or databases.",
+        "Open-source codebase enables full customization and self-hosting for advanced users.",
+        "Pre-built templates accelerate development with ready-to-use AI application frameworks.",
+        "Scalable infrastructure supports deployment of AI applications for teams of any size.",
+        "Multi-user collaboration features allow teams to work together on AI projects seamlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dify used for?",
+            "answer": "Dify is used to build and deploy AI-powered applications, such as chatbots, content generators, and virtual assistants, using a visual interface and LLM integration."
+        },
+        {
+            "question": "Is Dify free to use?",
+            "answer": "Dify offers a free, open-source version that users can self-host, with optional paid cloud plans for additional features and support."
+        },
+        {
+            "question": "Do I need coding skills to use Dify?",
+            "answer": "No, Dify’s visual workflow builder allows non-technical users to create AI applications, though coding skills are helpful for advanced customization."
+        },
+        {
+            "question": "Can Dify integrate with external APIs?",
+            "answer": "Yes, Dify supports custom API integrations to connect AI applications with external systems, databases, or services."
+        },
+        {
+            "question": "What types of AI models does Dify support?",
+            "answer": "Dify supports a variety of LLMs, including popular models like GPT, LLaMA, and custom models, for flexible application development."
+        },
+        {
+            "question": "Is Dify suitable for enterprise use?",
+            "answer": "Yes, Dify’s scalable infrastructure and collaboration features make it suitable for enterprise teams building complex AI workflows."
+        },
+        {
+            "question": "How does Dify handle data privacy?",
+            "answer": "Dify’s open-source version allows users to self-host, ensuring full control over data, while cloud plans adhere to strict privacy standards."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "PicWish",
+    "description": "PicWish is an AI-powered photo editing platform for effortless background removal, image enhancement, and professional-grade edits.",
+    "longDescription": "PicWish is an online and mobile AI-driven photo editing tool designed to simplify complex image processing tasks for both casual users and professionals. Its mission is to make high-quality photo editing accessible by automating time-consuming tasks like background removal and image upscaling. Serving industries such as e-commerce, marketing, and social media, it helps users create polished visuals without requiring advanced technical skills. The platform leverages advanced computer vision algorithms to deliver precise, professional results quickly. It supports a wide range of users, from individuals enhancing personal photos to businesses streamlining product image workflows. PicWish also offers API integration for developers, enabling scalable image editing solutions.",
+    "url": "https://www.picwish.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/picwish.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "picwish",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Product Manager",
+        "AI Social Media",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "AI Background Remover automatically eliminates image backgrounds in seconds, ideal for creating transparent or custom backdrops for product photos.",
+        "Photo Enhancer upscales low-resolution images and sharpens blurry photos, ensuring crisp, high-quality visuals for print or digital use.",
+        "Batch Processing allows users to edit multiple images simultaneously, saving time for businesses handling large volumes of photos.",
+        "AI Portrait Generator creates professional headshots or artistic portraits from photos, enhancing personal or professional profiles.",
+        "Object Removal intelligently erases unwanted elements from images, seamlessly filling the background for natural results.",
+        "Image Compressor reduces file sizes without quality loss, optimizing images for web or storage efficiency.",
+        "AI Background Generator creates studio-quality backgrounds with over 100 templates, enhancing product or portrait visuals.",
+        "Face Enhancement refines facial features and corrects blemishes, delivering polished portrait results with minimal effort."
+    ],
+    "faqs": [
+        {
+            "question": "What is PicWish used for?",
+            "answer": "PicWish is an AI-powered tool for photo editing, specializing in background removal, image enhancement, and professional-grade edits for personal or business use."
+        },
+        {
+            "question": "Does PicWish offer a free plan?",
+            "answer": "Yes, PicWish provides a free plan with limited features and daily processing limits, suitable for basic editing needs."
+        },
+        {
+            "question": "Can PicWish handle bulk image editing?",
+            "answer": "Yes, PicWish supports batch processing, allowing users to edit up to 30 images at once for efficient workflows."
+        },
+        {
+            "question": "Is PicWish available on mobile devices?",
+            "answer": "PicWish offers mobile apps for iOS and Android, as well as a browser-based platform for editing on the go."
+        },
+        {
+            "question": "How does PicWish ensure user privacy?",
+            "answer": "PicWish permanently deletes uploaded images from its servers after processing to protect user privacy."
+        },
+        {
+            "question": "Can developers integrate PicWish features?",
+            "answer": "Yes, PicWish provides an API for developers to integrate its editing tools into applications or websites."
+        },
+        {
+            "question": "What image formats does PicWish support?",
+            "answer": "PicWish supports common formats like JPG, PNG, and BMP for both input and output."
+        },
+        {
+            "question": "Is PicWish suitable for e-commerce businesses?",
+            "answer": "Absolutely, PicWish streamlines product image editing with features like background removal and enhancement, ideal for online stores."
+        }
+    ]
+}

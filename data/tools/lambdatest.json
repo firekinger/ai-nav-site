@@ -1,0 +1,77 @@
+{
+    "name": "LambdaTest",
+    "description": "LambdaTest is an AI-native cloud platform for automated and manual testing of web and mobile applications across diverse browsers and devices.",
+    "longDescription": "LambdaTest is a cloud-based, AI-augmented test orchestration and execution platform designed to streamline software testing for developers and QA teams. Founded in 2017 and headquartered in San Francisco, it serves over 10,000 enterprises and 2 million users across 130 countries. The platform enables seamless testing across more than 3,000 browser, OS, and real-device combinations, ensuring compatibility and performance. Its mission is to accelerate digital transformation by reducing time-to-market through faster, scalable, and reliable testing solutions. LambdaTest integrates with CI/CD pipelines and offers tools like KaneAI for intelligent test automation, addressing modern testing challenges. It is trusted by leading companies for its robust infrastructure and comprehensive testing capabilities.",
+    "url": "https://www.lambdatest.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.lambdatest.com.webp",
+    "category": "AI Testing",
+    "categorySlug": "ai-testing",
+    "slug": "lambdatest",
+    "categories": [
+        "AI Testing",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Cross-browser testing supports over 3,000 browser and OS combinations for comprehensive compatibility testing.",
+        "Real-time testing enables live interaction with web apps to identify issues instantly, speeding up market readiness.",
+        "Automated Selenium testing runs scripts across multiple browsers, enhancing testing efficiency and coverage.",
+        "KaneAI, a smart AI test agent, allows teams to create, debug, and evolve tests using natural language for faster automation.",
+        "Real Device Cloud supports manual and automated mobile app testing on a wide range of real mobile and OTT devices.",
+        "AI-powered visual regression testing ensures consistent visual appearance and functionality across platforms.",
+        "Test Analytics provides detailed, actionable insights on test execution, pass rates, and compatibility issues.",
+        "HyperExecute offers a reliable, high-speed test execution platform for parallel testing, reducing test cycles.",
+        "120+ integrations with CI/CD, project management, and automation tools streamline development workflows.",
+        "Responsive testing tools verify website functionality across various screen sizes, supporting mobile-first strategies.",
+        "Geolocation testing allows testing of website behavior across different geographic locations for global compatibility.",
+        "Single Sign-On (SSO) integration with tools like Okta and OneLogin simplifies team onboarding and access.",
+        "LT Browser enables responsive testing directly from local systems, enhancing developer productivity.",
+        "SmartUI facilitates automated screenshot testing for quick visual validation across multiple configurations.",
+        "Accessibility testing tools ensure web applications meet inclusivity standards for diverse user needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is LambdaTest used for?",
+            "answer": "LambdaTest is used for cross-browser and real-device testing of web and mobile applications to ensure compatibility and performance across diverse environments."
+        },
+        {
+            "question": "Does LambdaTest offer a free plan?",
+            "answer": "Yes, LambdaTest provides a Freemium plan with 2 sessions of limited testing time for live testing, renewable monthly, with no trial time limit."
+        },
+        {
+            "question": "What browsers and devices does LambdaTest support?",
+            "answer": "LambdaTest supports over 3,000 browser, OS, and real-device combinations, including Chrome, Firefox, Safari, and mobile platforms like iOS and Android."
+        },
+        {
+            "question": "Can LambdaTest integrate with CI/CD pipelines?",
+            "answer": "Yes, LambdaTest offers 120+ integrations with CI/CD tools, bug tracking, and test management systems to streamline development workflows."
+        },
+        {
+            "question": "What is KaneAI, and how does it help with testing?",
+            "answer": "KaneAI is LambdaTest’s AI-powered test agent that enables teams to create, debug, and evolve tests using natural language, simplifying automation."
+        },
+        {
+            "question": "Is LambdaTest suitable for mobile app testing?",
+            "answer": "Yes, LambdaTest’s Real Device Cloud supports manual and automated testing on real mobile and OTT devices for accurate results."
+        },
+        {
+            "question": "How does LambdaTest ensure test reliability?",
+            "answer": "LambdaTest uses single-use VMs for consistent testing conditions and offers stable, scalable cloud infrastructure with minimal downtime."
+        },
+        {
+            "question": "What is HyperExecute, and what are its benefits?",
+            "answer": "HyperExecute is a high-speed test execution platform that supports parallel testing, significantly reducing test cycles and time-to-market."
+        },
+        {
+            "question": "Does LambdaTest provide customer support?",
+            "answer": "LambdaTest offers 24/7 in-app customer chat support and email support at support@lambdatest.com, along with detailed documentation."
+        },
+        {
+            "question": "Can I test locally hosted websites with LambdaTest?",
+            "answer": "Yes, LambdaTest’s UnderPass Tunnel and Snowden allows testing of locally hosted websites on the cloud platform."
+        },
+        {
+            "question": "What are the pricing options for LambdaTest?",
+            "answer": "Pricing is based on parallel sessionsಸessions and plan levels, with a free plan available and paid upgrades for unlimited testing; visit lambdatest.com for details."
+        }
+    ]
+}

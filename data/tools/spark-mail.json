@@ -1,0 +1,63 @@
+{
+    "name": "Spark Mail",
+    "description": "Spark Mail is an AI-powered email and calendar app designed to enhance productivity and streamline inbox management for individuals and teams.",
+    "longDescription": "Spark Mail, developed by Readdle Technologies, is a cross-platform email client that integrates AI to help users manage their inboxes efficiently across devices like iOS, Mac, Android, and Windows. Its mission is to reduce email overload by prioritizing important messages and offering tools for collaboration and productivity. The app supports multiple email providers, including Gmail, Outlook, and iCloud, and features a Smart Inbox that categorizes emails to focus on what matters most. Spark is designed for both individual professionals and teams, providing features like shared inboxes and real-time collaboration to streamline communication workflows. With a focus on security, Spark ensures GDPR compliance and encrypted email options. It aims to simplify email management, making it a powerful tool for professionals seeking to optimize their workflow.",
+    "url": "https://sparkmailapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sparkmailapp.com.webp",
+    "category": "AI Email Assistant",
+    "categorySlug": "ai-email-assistant",
+    "slug": "spark-mail",
+    "categories": [
+        "AI Email Assistant",
+        "AI Task Management",
+        "AI Scheduling",
+        "AI Search Engine",
+        "AI Calendar"
+    ],
+    "features": [
+        "Smart Inbox categorizes emails into People, Notifications, and Newsletters for prioritized focus.",
+        "Home Screen promotes better email habits by encouraging dedicated email-checking times.",
+        "Shared Inboxes allow teams to assign emails, track progress, and set deadlines collaboratively.",
+        "Real-time email drafting enables teams to compose and edit emails together seamlessly.",
+        "AI-powered writing assistant helps craft professional emails quickly and accurately.",
+        "Email scheduling allows users to send emails at optimal times for better engagement.",
+        "Gatekeeper feature previews emails before deciding to accept or block them.",
+        "Natural language search simplifies finding emails with intuitive query inputs.",
+        "Encrypted email sending ensures secure communication with GDPR-compliant data handling.",
+        "Calendar integration syncs events and supports Google Meet and Zoom for easy scheduling."
+    ],
+    "faqs": [
+        {
+            "question": "Is Spark Mail free to use?",
+            "answer": "Yes, Spark offers a free version with essential features, while premium features are available via a subscription with a 7-day free trial."
+        },
+        {
+            "question": "What email providers does Spark support?",
+            "answer": "Spark supports multiple providers, including Gmail, Outlook, Yahoo, iCloud, AOL, Hotmail, GMX, and IMAP accounts."
+        },
+        {
+            "question": "Can Spark be used for team collaboration?",
+            "answer": "Yes, Spark Teams offers shared inboxes, real-time email drafting, and task assignment for efficient team communication."
+        },
+        {
+            "question": "Does Spark ensure data privacy?",
+            "answer": "Spark is GDPR-compliant, uses encrypted email options, and ensures data is only used for product optimization, not shared with third parties."
+        },
+        {
+            "question": "What is the Smart Inbox feature?",
+            "answer": "Smart Inbox sorts emails into categories like People, Notifications, and Newsletters to help users focus on important messages first."
+        },
+        {
+            "question": "Can I schedule emails with Spark?",
+            "answer": "Yes, Spark’s Send Later feature allows users to schedule emails for delivery at a specific time."
+        },
+        {
+            "question": "Does Spark integrate with other productivity tools?",
+            "answer": "Spark integrates with apps like Asana, Evernote, Notion, and Trello to streamline workflows and manage tasks."
+        },
+        {
+            "question": "Is there a trial for premium features?",
+            "answer": "Spark offers a 7-day free trial for its Premium plan, which includes advanced features like AI assistance and team collaboration tools."
+        }
+    ]
+}

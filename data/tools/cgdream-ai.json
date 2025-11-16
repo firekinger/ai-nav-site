@@ -1,0 +1,78 @@
+{
+    "name": "CGDream",
+    "description": "CGDream is an AI-powered image and 3D model generator that transforms text, images, or 3D inputs into stunning, customizable visuals.",
+    "longDescription": "CGDream is an innovative AI-driven platform designed to empower creators by generating high-quality 2D images and 3D models from text prompts, images, or 3D inputs. Its mission is to make advanced visual creation accessible to everyone, from hobbyists to professional designers, without requiring extensive technical skills. By integrating generative AI with 3D rendering capabilities, CGDream offers unprecedented control over image composition, enabling users to produce unique, professional-grade visuals for art, marketing, gaming, and more. The platform's intuitive interface and freemium model make it ideal for rapid content creation, while features like inpainting and style filters enhance customization. CGDream also fosters a community where users can share creations and participate in challenges, driving creative inspiration.",
+    "url": "https://cgdream.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cgdream.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "cgdream-ai",
+    "categories": [
+        "AI Image Generator",
+        "AI 3D Model Generator",
+        "Text to Image",
+        "Image to Image",
+        "AI Inpainting",
+        "AI Style Transfer",
+        "AI Image Upscaler",
+        "AI Social Media Post Generator",
+        "NFTs",
+        "AI Game Generator"
+    ],
+    "features": [
+        "Text-to-image generation transforms user prompts into detailed, high-quality visuals for various creative projects.",
+        "Image-to-image conversion allows users to upload and modify existing images with AI-driven filters and styles.",
+        "3D model integration enables users to generate 2D images from 3D models with customizable angles and styles.",
+        "AI inpainting lets users edit specific parts of an image to correct imperfections or update elements seamlessly.",
+        "Over 300 LoRA style filters provide extensive customization options to enhance images with unique artistic effects.",
+        "DreamUp feature enriches basic prompts with added details for more visually appealing and creative results.",
+        "High-resolution upscaling ensures generated images maintain clarity and detail even when enlarged.",
+        "3D model generation converts 2D images into 3D assets for use in gaming, design, or virtual reality.",
+        "Private mode keeps generated images confidential, visible only to the user who created them.",
+        "Relaxed mode allows unlimited image generation queues at a lower credit cost, ideal for bulk creation.",
+        "Creative mode produces diverse and imaginative image variations for enhanced creative exploration.",
+        "Community challenges encourage users to showcase their creations and compete for recognition and prizes."
+    ],
+    "faqs": [
+        {
+            "question": "What is CGDream?",
+            "answer": "CGDream is an AI-powered platform that generates 2D images and 3D models from text, images, or 3D inputs, ideal for artists, marketers, and game developers."
+        },
+        {
+            "question": "Is CGDream free to use?",
+            "answer": "Yes, CGDream offers a free plan with up to 100 daily credits for generating images, though advanced features require a premium subscription."
+        },
+        {
+            "question": "Can I create 3D models with CGDream?",
+            "answer": "Yes, CGDream's AI 3D model generator converts 2D images into 3D assets, which can be used for further 2D image generation or downloaded."
+        },
+        {
+            "question": "What is the DreamUp feature?",
+            "answer": "DreamUp enhances user prompts by adding details automatically, resulting in more creative and visually appealing images."
+        },
+        {
+            "question": "Can I use CGDream for commercial projects?",
+            "answer": "Premium plan users gain commercial usage rights for their generated images, while free plan images are limited to non-commercial use."
+        },
+        {
+            "question": "How does inpainting work on CGDream?",
+            "answer": "Inpainting allows users to modify specific parts of an image, such as correcting flaws or updating elements, for a polished result."
+        },
+        {
+            "question": "What are LoRA style filters?",
+            "answer": "LoRA style filters are over 300 customizable effects that users can apply to enhance the artistic style and quality of their images."
+        },
+        {
+            "question": "Can I keep my images private?",
+            "answer": "Yes, CGDream's private mode ensures that your generated images are visible only to you unless you choose to share them."
+        },
+        {
+            "question": "What types of images can I create?",
+            "answer": "CGDream supports a wide range of styles, including realistic, fantasy, anime, and 3D-rendered images for art, social media, and advertising."
+        },
+        {
+            "question": "Does CGDream support community interaction?",
+            "answer": "Yes, CGDream offers a Discord community and AI art challenges where users can share creations and gain inspiration."
+        }
+    ]
+}

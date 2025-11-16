@@ -1,0 +1,71 @@
+{
+    "name": "BuildOrNot",
+    "description": "BuildOrNot is an AI-powered platform that helps users evaluate whether their product or startup ideas are worth building by providing instant analysis and feedback.",
+    "longDescription": "BuildOrNot is an innovative AI tool designed to assist entrepreneurs, developers, and innovators in assessing the viability of their ideas before investing time and resources. Its mission is to democratize idea validation, making it accessible and quick for anyone to get expert-level insights without needing extensive market research. By leveraging advanced AI algorithms, the platform analyzes user-submitted ideas, considering factors like market demand, competition, and potential challenges. It serves users by offering data-driven recommendations that help avoid common pitfalls in product development. Ultimately, BuildOrNot solves the problem of uncertainty in early-stage ideation, empowering users to make informed decisions and focus on ideas with the highest potential for success.",
+    "url": "https://buildornot.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/buildornot.io.webp",
+    "category": "AI Business Ideas Generator",
+    "categorySlug": "ai-business-ideas-generator",
+    "slug": "buildornot",
+    "categories": [
+        "AI Business Ideas Generator",
+        "AI Assistant",
+        "AI Product Manager",
+        "AI Predictions",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Idea Submission Interface allows users to easily input their product concepts for quick AI evaluation, saving time on initial validation.",
+        "Viability Scoring System provides a numerical score based on market potential and feasibility, helping users prioritize ideas objectively.",
+        "Detailed Feedback Reports generate comprehensive breakdowns of strengths, weaknesses, opportunities, and threats for each idea.",
+        "Competitor Analysis scans existing market players and suggests differentiation strategies to make ideas more competitive.",
+        "Trend Integration incorporates current industry trends and data to predict future relevance of the proposed idea.",
+        "Customizable Parameters let users adjust analysis criteria like target audience or budget constraints for personalized insights.",
+        "Collaboration Tools enable team sharing and discussion of idea evaluations to foster group decision-making.",
+        "Historical Idea Tracking stores past submissions for users to review progress and refine their ideation process over time.",
+        "AI-Powered Suggestions offer alternative ideas or improvements based on the initial submission to spark creativity.",
+        "Integration with Productivity Apps connects with tools like Trello or Slack for seamless workflow incorporation."
+    ],
+    "faqs": [
+        {
+            "question": "What is BuildOrNot?",
+            "answer": "BuildOrNot is an AI platform that evaluates whether a product or startup idea is worth pursuing by analyzing various factors like market demand and competition."
+        },
+        {
+            "question": "How do I submit an idea?",
+            "answer": "Simply sign up for a free account, enter your idea description in the submission form, and the AI will generate an analysis report within seconds."
+        },
+        {
+            "question": "Is the analysis accurate?",
+            "answer": "The AI uses up-to-date data and algorithms for reliable insights, but it's recommended to combine it with personal research for best results. Accuracy improves with detailed idea descriptions."
+        },
+        {
+            "question": "Does BuildOrNot offer premium features?",
+            "answer": "Yes, while core evaluations are free, premium plans provide advanced analytics, unlimited submissions, and priority support."
+        },
+        {
+            "question": "Can I use BuildOrNot for non-tech ideas?",
+            "answer": "Absolutely, the platform supports ideas from various industries, including tech, consumer goods, and services, adapting its analysis accordingly."
+        },
+        {
+            "question": "How does BuildOrNot protect my ideas?",
+            "answer": "All submissions are kept confidential, and the platform uses secure encryption to ensure your intellectual property remains protected."
+        },
+        {
+            "question": "What data sources does the AI use?",
+            "answer": "The AI draws from public market data, trend reports, and historical business patterns to provide informed evaluations."
+        },
+        {
+            "question": "Is there a mobile app?",
+            "answer": "Currently, BuildOrNot is web-based, but a mobile app is in development for on-the-go idea validation."
+        },
+        {
+            "question": "Can teams collaborate on ideas?",
+            "answer": "Yes, team accounts allow multiple users to share and comment on idea evaluations in real-time."
+        },
+        {
+            "question": "How often is the AI updated?",
+            "answer": "The AI model is regularly updated with new data and improvements to ensure relevance and accuracy."
+        }
+    ]
+}

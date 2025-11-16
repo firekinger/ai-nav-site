@@ -1,0 +1,74 @@
+{
+    "name": "Flipped.Chat",
+    "description": "Flipped.Chat is an AI-powered platform for interactive virtual dating and storytelling with customizable AI companions.",
+    "longDescription": "Flipped.Chat is an innovative AI-driven platform designed to provide users with immersive virtual dating and storytelling experiences through interactions with lifelike AI characters. It allows users to engage in dynamic conversations, create personalized AI companions, and shape their own narratives in a safe, controlled environment. The platform combines advanced AI technology with real-time interaction, enabling users to explore romantic connections, casual banter, or creative roleplay scenarios. By offering features like AI-generated images and real-time voice calls, Flipped.Chat transforms traditional chatbot interactions into engaging, personalized adventures. Its mission is to unlock creativity and foster deep, meaningful connections through AI-driven interactivity, making it accessible globally to users seeking unique digital experiences.",
+    "url": "https://flipped.chat/?utm_source=ainavdir",
+    "screenshot": "/screenshot/flipped.chat.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "flipped-chat",
+    "categories": [
+        "AI Character",
+        "AI Story Generator",
+        "AI Image Generator",
+        "AI Voice Assistants",
+        "AI Writing Assistants",
+        "AI Dating Assistant",
+        "AI Roleplay",
+        "AI Dialogue Generator"
+    ],
+    "features": [
+        "Create customizable AI companions with tailored personalities to match user preferences for personalized interactions.",
+        "Engage in real-time text and voice conversations with AI characters for immersive, dynamic dialogues.",
+        "Generate AI-powered images to visualize characters based on user-defined preferences, enhancing storytelling.",
+        "Shape interactive narratives where users control the storyline, making each experience unique and engaging.",
+        "Experience rapid AI responses for seamless interactions anytime, anywhere, on multiple devices.",
+        "Explore a variety of AI characters with distinct personalities, backgrounds, and interests for diverse interactions.",
+        "Transform into AI characters during interactions for a more immersive roleplay experience.",
+        "Access community-created AI characters to discover new and exciting virtual companions.",
+        "Enjoy LGBTQ+ inclusive character customization for diverse and personalized storytelling.",
+        "Use optional in-app purchases to enhance features like advanced image generation or expanded chat options."
+    ],
+    "faqs": [
+        {
+            "question": "What is Flipped.Chat?",
+            "answer": "Flipped.Chat is an AI-powered platform for virtual dating and storytelling, allowing users to interact with customizable AI characters through text, voice, and image generation."
+        },
+        {
+            "question": "Is Flipped.Chat free to use?",
+            "answer": "Yes, Flipped.Chat offers a free plan with core features, though optional in-app purchases can enhance the experience."
+        },
+        {
+            "question": "Can I create my own AI characters?",
+            "answer": "Yes, users can design and personalize AI companions by customizing their personalities, voices, and appearances to suit their preferences."
+        },
+        {
+            "question": "Are conversations on Flipped.Chat private?",
+            "answer": "Flipped.Chat prioritizes user privacy, but specific data handling depends on the features used; check the privacy policy for details."
+        },
+        {
+            "question": "What devices support Flipped.Chat?",
+            "answer": "Flipped.Chat is available on iOS (15.5 or later), Android, and macOS (12.4 or later with M1 chip or later)."
+        },
+        {
+            "question": "Can I generate images of my AI characters?",
+            "answer": "Yes, Flipped.Chat includes a state-of-the-art AI image generation feature to visualize characters based on your preferences."
+        },
+        {
+            "question": "Does Flipped.Chat support voice interactions?",
+            "answer": "Yes, users can engage in real-time voice calls with AI companions for a more immersive experience."
+        },
+        {
+            "question": "Is Flipped.Chat suitable for all ages?",
+            "answer": "Flipped.Chat includes NSFW options and is designed for adult users, with privacy practices varying by feature and age."
+        },
+        {
+            "question": "Can I share my AI characters with others?",
+            "answer": "Yes, users can interact with community-created characters and share their own creations within the platform."
+        },
+        {
+            "question": "Does Flipped.Chat support roleplay scenarios?",
+            "answer": "Yes, users can craft and explore roleplay scenarios, shaping narratives with AI companions for creative storytelling."
+        }
+    ]
+}

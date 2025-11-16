@@ -1,0 +1,65 @@
+{
+    "name": "Argil",
+    "description": "Argil is a no-code platform that enables users to build and deploy AI agents for automating workflows and tasks efficiently.",
+    "longDescription": "Argil.ai is an innovative no-code platform designed to make AI accessible to non-technical users by allowing them to create custom AI agents without writing any code. Its mission is to empower businesses and individuals to automate repetitive tasks, streamline operations, and boost productivity through intelligent AI-driven workflows. The platform addresses common challenges like manual data processing and integration hurdles by providing intuitive tools to connect APIs, train models, and deploy automations. Users can leverage Argil to solve real-world problems in areas such as marketing, customer service, and data analysis, ultimately saving time and reducing operational costs. By democratizing AI, Argil helps bridge the gap between advanced technology and everyday users, fostering innovation across various industries.",
+    "url": "https://www.argil.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.argil.ai.webp",
+    "category": "No-Code&Low-Code",
+    "categorySlug": "no-code-low-code",
+    "slug": "argil-ai",
+    "categories": [
+        "No-Code&Low-Code",
+        "AI Workflow",
+        "AI Task Management",
+        "AI Agent",
+        "AI API",
+        "AI For Data Analytics",
+        "AI Productivity Tools",
+        "AI Models"
+    ],
+    "features": [
+        "No-code builder enables users to create AI agents quickly without programming skills, democratizing AI automation.",
+        "API integrations allow seamless connections with popular tools like Google Workspace, Slack, and CRM systems for comprehensive workflows.",
+        "Custom AI model training uses user-provided data to tailor agents for specific tasks, ensuring personalized and accurate automations.",
+        "Real-time monitoring dashboard provides insights into agent performance, helping users optimize and troubleshoot workflows efficiently.",
+        "Task automation templates offer pre-built solutions for common scenarios, accelerating setup and reducing time to value.",
+        "Scalable deployment options support running agents on cloud infrastructure, handling high-volume tasks without performance issues.",
+        "Collaboration features enable teams to share and co-edit AI agents, fostering collective innovation and knowledge sharing.",
+        "Data security measures ensure compliant handling of sensitive information, building trust in automated processes.",
+        "Analytics and reporting tools generate detailed reports on automation efficiency, aiding in continuous improvement."
+    ],
+    "faqs": [
+        {
+            "question": "What is Argil.ai?",
+            "answer": "Argil.ai is a no-code platform for building AI agents that automate tasks and workflows. It allows users without coding expertise to create custom automations integrating with various tools."
+        },
+        {
+            "question": "Does Argil offer a free plan?",
+            "answer": "Yes, Argil provides a free plan with limited credits for building and testing AI agents. Users can upgrade to paid plans for more features and higher usage limits."
+        },
+        {
+            "question": "How do I build an AI agent on Argil?",
+            "answer": "Start by signing up, then use the drag-and-drop interface to define tasks, integrate APIs, and train models with your data. No coding is required, and templates are available to get started quickly."
+        },
+        {
+            "question": "What kind of tasks can Argil automate?",
+            "answer": "Argil can automate tasks like data entry, email responses, content generation, and API calls. It's suitable for marketing, sales, customer support, and data analysis workflows."
+        },
+        {
+            "question": "Is Argil secure for handling sensitive data?",
+            "answer": "Yes, Argil implements robust security protocols including data encryption and compliance with standards like GDPR. Users control data access and can monitor usage logs."
+        },
+        {
+            "question": "Can I integrate Argil with my existing tools?",
+            "answer": "Absolutely, Argil supports integrations with hundreds of apps via APIs, including Zapier, Google Sheets, and Salesforce. Custom integrations can also be built using the no-code tools."
+        },
+        {
+            "question": "How does Argil differ from tools like Zapier?",
+            "answer": "While Zapier focuses on simple automations, Argil adds AI intelligence for complex tasks like natural language processing and decision-making. This makes it more powerful for AI-driven workflows."
+        },
+        {
+            "question": "What support does Argil offer to users?",
+            "answer": "Argil provides documentation, tutorials, and community forums for self-help. Paid plans include priority email support and access to expert consultations."
+        }
+    ]
+}

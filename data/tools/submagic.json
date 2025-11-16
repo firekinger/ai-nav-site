@@ -1,0 +1,75 @@
+{
+    "name": "Submagic",
+    "description": "Submagic is an AI-powered platform that creates captivating short-form videos with dynamic captions, B-rolls, and smart edits to boost social media engagement.",
+    "longDescription": "Submagic is an AI-driven video editing tool designed to streamline the creation of engaging short-form content for platforms like TikTok, YouTube Shorts, and Instagram Reels. Its mission is to empower content creators, agencies, and businesses by automating time-consuming editing tasks, enabling users to produce professional-quality videos in minutes. The platform leverages advanced AI to generate accurate subtitles, add contextually relevant B-rolls, and enhance videos with transitions and sound effects. By offering no-code integrations and an intuitive interface, Submagic saves users hours of manual editing, making it ideal for creators and teams aiming to scale their social media presence. It supports over 50 languages, ensuring accessibility for diverse global audiences. The tool is particularly praised for its high transcription accuracy and ability to transform long-form content into viral-ready clips.",
+    "url": "https://www.submagic.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.submagic.co.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "submagic",
+    "categories": [
+        "AI Video Editor",
+        "Text to Video",
+        "AI Social Media Post Generator",
+        "AI Transcription",
+        "AI Translate",
+        "AI Video Generator",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "AI-powered subtitle generator creates accurate captions in over 50 languages, enhancing video accessibility and engagement.",
+        "Magic Clips feature automatically extracts key moments from long videos to create viral short-form content in one click.",
+        "AI B-Roll Generator adds royalty-free stock footage to enhance storytelling and keep viewers engaged.",
+        "Auto-Zoom and dynamic transitions create visually appealing effects to make videos stand out on social media.",
+        "AI audio cleaning reduces background noise for professional-grade sound quality in videos.",
+        "Customizable caption styles allow users to add emojis, colors, and fonts to match their brand aesthetic.",
+        "No-code integrations with tools like Zapier and Google Drive automate video editing workflows for efficiency.",
+        "Video-to-text transcription supports downloadable SRT, VTT, or TXT files for easy repurposing of content.",
+        "AI Hook Titles generate attention-grabbing visual hooks to boost viewer retention from the first second.",
+        "Multi-user editing and client approval workflows cater to agencies managing large-scale video production.",
+        "High-quality exports up to 4K resolution ensure professional-grade videos optimized for various platforms.",
+        "Animated emojis and sound effects add engaging elements to captions, enhancing viewer interaction."
+    ],
+    "faqs": [
+        {
+            "question": "What is Submagic used for?",
+            "answer": "Submagic is an AI-powered tool for creating engaging short-form videos with automated subtitles, B-rolls, and smart edits, ideal for social media platforms like TikTok and YouTube Shorts."
+        },
+        {
+            "question": "Does Submagic offer a free plan?",
+            "answer": "Yes, Submagic offers a free plan with limited features, including watermarked exports, allowing users to test the platform before upgrading."
+        },
+        {
+            "question": "How accurate are Submagic’s subtitles?",
+            "answer": "Submagic’s subtitles achieve up to 98.9% accuracy under optimal conditions, though accuracy may vary based on audio quality and technical terms."
+        },
+        {
+            "question": "Can Submagic translate videos into other languages?",
+            "answer": "Yes, Submagic supports translations in over 50 languages, making it easy to create accessible content for global audiences."
+        },
+        {
+            "question": "Is Submagic suitable for long-form video editing?",
+            "answer": "Submagic focuses on short-form content; for longer videos, users may need a more comprehensive editing tool."
+        },
+        {
+            "question": "How does the Magic Clips feature work?",
+            "answer": "Magic Clips uses AI to analyze long-form videos and automatically extract highlights to create engaging short-form clips in one click."
+        },
+        {
+            "question": "Can I integrate Submagic with other tools?",
+            "answer": "Submagic offers no-code integrations with tools like Zapier, Google Drive, and Make to automate video editing workflows."
+        },
+        {
+            "question": "What video formats does Submagic support?",
+            "answer": "Submagic supports .mp4 and .mov formats with H.264 or HEVC codecs, and resolutions up to 4K."
+        },
+        {
+            "question": "How can I customize captions in Submagic?",
+            "answer": "Users can edit captions, add emojis, adjust fonts, colors, and animations, and preview changes in real-time via the Captions tab."
+        },
+        {
+            "question": "Does Submagic support team collaboration?",
+            "answer": "Yes, Submagic offers multi-user editing and client approval workflows, making it ideal for agencies and teams."
+        }
+    ]
+}

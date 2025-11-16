@@ -1,0 +1,76 @@
+{
+    "name": "Type.ai",
+    "description": "Type.ai is an AI-powered writing assistant that helps users generate, edit, and refine text content efficiently.",
+    "longDescription": "Type.ai is an innovative platform that leverages artificial intelligence to assist users in creating high-quality written content with minimal effort. Its mission is to democratize writing by making advanced tools accessible to everyone, from casual users to professional writers, thereby overcoming common challenges like writer's block and time constraints. The platform uses sophisticated language models to understand context, suggest improvements, and generate text based on user inputs. It serves users by providing a seamless interface for drafting emails, articles, reports, and more, enhancing productivity and creativity. Overall, Type.ai solves problems in content creation by offering intelligent, real-time support that adapts to individual writing styles and needs.",
+    "url": "https://type.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/type.ai.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "type-ai",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Text Generator",
+        "AI Grammar Checker",
+        "AI Writing",
+        "AI Plagiarism Checker",
+        "AI Creative Writing",
+        "AI Translate",
+        "AI Productivity Tools",
+        "AI Business Ideas Generator",
+        "AI Copywriting"
+    ],
+    "features": [
+        "AI-driven text generation allows users to create content from prompts or ideas, saving time on initial drafts.",
+        "Real-time editing suggestions improve grammar, style, and clarity, helping users produce polished writing quickly.",
+        "Customizable writing tones enable adaptation to various contexts like professional, casual, or creative, ensuring appropriate output.",
+        "Context-aware autocompletion predicts and suggests the next words or sentences, streamlining the writing process.",
+        "Integrated plagiarism checker ensures originality by scanning content against vast databases, promoting ethical writing.",
+        "Collaborative editing features support team-based workflows, allowing multiple users to contribute and refine documents together.",
+        "Template library provides pre-built structures for common documents like resumes or blog posts, accelerating content creation.",
+        "Multilingual support enables writing and translation in multiple languages, broadening accessibility for global users.",
+        "Analytics dashboard tracks writing habits and improvements over time, offering insights to enhance user skills.",
+        "Seamless integration with tools like Google Docs or Microsoft Word facilitates easy incorporation into existing workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Type.ai?",
+            "answer": "Type.ai is an AI-powered writing assistant designed to help users generate, edit, and refine text content. It uses advanced language models to provide intelligent suggestions and automate parts of the writing process."
+        },
+        {
+            "question": "How does Type.ai work?",
+            "answer": "Users input text or prompts, and the AI analyzes it to offer generations, edits, or suggestions in real-time. It adapts to the user's style and context for personalized assistance."
+        },
+        {
+            "question": "Is Type.ai free to use?",
+            "answer": "Yes, Type.ai offers a free plan with core features and limited usage. Premium plans unlock advanced capabilities and higher limits for heavy users."
+        },
+        {
+            "question": "What types of writing can Type.ai help with?",
+            "answer": "Type.ai supports a wide range, including emails, articles, reports, creative stories, and marketing copy. It's versatile for both professional and personal writing tasks."
+        },
+        {
+            "question": "Does Type.ai ensure content originality?",
+            "answer": "Yes, it includes a built-in plagiarism checker to scan generated content. This helps users maintain originality and avoid unintentional copying."
+        },
+        {
+            "question": "Can I use Type.ai for team collaboration?",
+            "answer": "Absolutely, Type.ai features collaborative tools that allow multiple users to edit documents simultaneously. This is ideal for team projects or feedback sessions."
+        },
+        {
+            "question": "Is Type.ai suitable for non-native English speakers?",
+            "answer": "Yes, with multilingual support and translation features, it assists users in various languages. It also helps improve grammar and phrasing for better communication."
+        },
+        {
+            "question": "How secure is my data on Type.ai?",
+            "answer": "Type.ai prioritizes data security with encryption and compliance to privacy standards. User content is not stored without permission and is used only to improve the AI temporarily."
+        },
+        {
+            "question": "Can Type.ai integrate with other apps?",
+            "answer": "Yes, it integrates with popular productivity tools like Google Workspace and Microsoft Office. This allows seamless workflow without switching platforms."
+        },
+        {
+            "question": "What makes Type.ai different from other AI writing tools?",
+            "answer": "Type.ai stands out with its focus on real-time, context-aware suggestions and customizable AI behavior. It emphasizes user control and ethical AI practices over generic outputs."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Taskade",
+    "description": "Taskade is an AI-powered productivity platform for task management, collaboration, and workflow automation.",
+    "longDescription": "Taskade is a unified workspace designed to enhance productivity for individuals and teams through AI-driven task management, real-time collaboration, and workflow automation. Its mission is to streamline work by integrating tasks, notes, mind maps, and AI agents into a single platform, enabling users to turn ideas into actionable steps. The platform supports cross-device synchronization, ensuring seamless access on web, mobile, and desktop. By leveraging AI, Taskade automates repetitive tasks, generates workflows, and provides intelligent assistance, making it ideal for remote teams and freelancers. It solves the problem of fragmented tools by offering a cohesive environment where humans and AI collaborate to boost efficiency. The name 'Taskade,' inspired by 'task' and 'cascade,' reflects its goal of organizing chaotic workflows into structured, actionable processes.",
+    "url": "https://www.taskade.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.taskade.com.webp",
+    "category": "AI Task Management",
+    "categorySlug": "ai-task-management",
+    "slug": "taskade",
+    "categories": [
+        "AI Task Management",
+        "AI Agent",
+        "AI Workflow",
+        "AI Writing",
+        "AI Web Scraping",
+        "AI Mind Mapping",
+        "AI Productivity Tools",
+        "AI Calendar",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Custom AI Agents automate routine tasks like research and content creation, saving users time.",
+        "Real-time collaboration allows teams to edit tasks, chat, and share screens in a unified workspace.",
+        "Mind Map view visualizes tasks and projects, enhancing brainstorming and planning.",
+        "Workflow automation streamlines repetitive processes using triggers and actions across 700+ integrations.",
+        "Cross-platform sync ensures tasks and notes are accessible on web, mobile, and desktop devices.",
+        "Customizable templates enable users to create reusable workflows for recurring projects.",
+        "Kanban boards organize tasks visually, improving project tracking and team coordination.",
+        "AI Task Assistant generates tasks, sets due dates, and summarizes content with simple commands.",
+        "Web scraping and content extraction tools automate research and data collection from websites.",
+        "Calendar integration with Google, Outlook, and Apple syncs tasks and deadlines seamlessly.",
+        "Video conferencing and messaging tools facilitate direct communication within the platform.",
+        "Multi-workspace support organizes tasks for different teams or projects under one account."
+    ],
+    "faqs": [
+        {
+            "question": "What is Taskade used for?",
+            "answer": "Taskade is used for task management, team collaboration, and workflow automation, integrating AI to streamline productivity."
+        },
+        {
+            "question": "Is Taskade free to use?",
+            "answer": "Yes, Taskade offers a free plan with core features, though some advanced AI tools require a paid subscription."
+        },
+        {
+            "question": "Can I collaborate with my team on Taskade?",
+            "answer": "Absolutely, Taskade supports real-time collaboration, allowing teams to edit tasks, chat, and share projects instantly."
+        },
+        {
+            "question": "Does Taskade work on mobile devices?",
+            "answer": "Yes, Taskade is fully cross-platform, with native apps for iOS, Android, and desktop, plus a web version."
+        },
+        {
+            "question": "How does Taskade’s AI help with productivity?",
+            "answer": "Taskade’s AI automates tasks, generates workflows, and provides intelligent suggestions, reducing manual work."
+        },
+        {
+            "question": "Can I integrate Taskade with other tools?",
+            "answer": "Taskade integrates with over 5,000 apps like Gmail, Slack, and Google Sheets via native automation or Zapier."
+        },
+        {
+            "question": "What are Taskade workspaces?",
+            "answer": "Workspaces are collections of projects and tasks, helping users organize work for different teams or goals."
+        },
+        {
+            "question": "Is my data secure on Taskade?",
+            "answer": "Taskade ensures data security with GDPR compliance, encryption, and SAML SSO for enterprise users."
+        },
+        {
+            "question": "Can I customize Taskade for my team?",
+            "answer": "Yes, Taskade offers customizable templates, branding, and workflows tailored to team needs."
+        },
+        {
+            "question": "Does Taskade support mind mapping?",
+            "answer": "Yes, Taskade’s Mind Map view allows users to visualize and organize tasks creatively."
+        }
+    ]
+}

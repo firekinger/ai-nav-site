@@ -1,0 +1,65 @@
+{
+    "name": "AI Undetect",
+    "description": "AI Undetect provides tools to rewrite AI-generated text into human-like content, bypassing AI detection systems.",
+    "longDescription": "AI Undetect is a freemium platform designed to transform AI-generated text into human-like content that evades detection by AI content detectors. Its mission is to help users, including students, marketers, and content creators, produce authentic, high-quality text that maintains meaning while appearing human-written. The platform leverages a proprietary large language model developed by a team of PhDs and experts to ensure coherence and quality. It offers free access with limited word counts and premium subscriptions for enhanced capabilities, such as higher word limits and priority support. AI Undetect serves users concerned about false positives from AI detectors, ensuring content integrity for academic, professional, or SEO purposes. The tool supports multiple languages and integrates with leading AI detection interfaces to verify content undetectability.",
+    "url": "https://www.aiundetect.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aiundetect.com.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "ai-undetect",
+    "categories": [
+        "Humanizer AI",
+        "AI Rewriter",
+        "AI Bypasser",
+        "AI SEO Tools",
+        "SEO Writing AI",
+        "AI Plagiarism Checker",
+        "AI Language Learning",
+        "AI Content Detector"
+    ],
+    "features": [
+        "AI Humanizer rewrites AI-generated text to mimic human writing, bypassing detection tools like Turnitin and GPTZero.",
+        "Integrated AI detection checks content against multiple detectors, including Copyleaks and Originality AI, with one click.",
+        "Supports multiple languages, allowing users to humanize text while preserving original meaning across diverse contexts.",
+        "Auto-perfect mode enhances text quality by refining vocabulary, syntax, and structure for natural flow.",
+        "Provides 800 free words of humanized text and 10 free AI detector uses for new users to test the platform.",
+        "SEO optimization feature helps content creators produce human-like blog posts that improve search engine rankings.",
+        "View history function allows users to track and revisit previously humanized or analyzed texts for convenience.",
+        "Unlimited AI detector usage in premium plans ensures frequent checks without restrictions for high-volume users.",
+        "Priority customer support in paid plans offers faster assistance for subscription-related queries or technical issues."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Undetect used for?",
+            "answer": "AI Undetect rewrites AI-generated text to make it appear human-written, helping users bypass AI detection tools while maintaining content quality."
+        },
+        {
+            "question": "Is AI Undetect free to use?",
+            "answer": "Yes, AI Undetect offers a free plan with 800 words of humanized text and 10 AI detector uses, with premium plans for additional capacity."
+        },
+        {
+            "question": "Can AI Undetect bypass Turnitin?",
+            "answer": "AI Undetect’s V3 Advanced Undetect model is designed to bypass Turnitin and other detectors, though results may vary based on content complexity."
+        },
+        {
+            "question": "Who can benefit from using AI Undetect?",
+            "answer": "Students, marketers, bloggers, and SEO professionals use AI Undetect to create undetectable, human-like content for academic or professional purposes."
+        },
+        {
+            "question": "Does AI Undetect support multiple languages?",
+            "answer": "Yes, the platform supports multiple languages, ensuring text retains its original meaning while appearing human-written."
+        },
+        {
+            "question": "How does AI Undetect ensure content quality?",
+            "answer": "It uses a proprietary large language model trained on a billion-word corpus to maintain coherence, authenticity, and high-quality output."
+        },
+        {
+            "question": "What happens if I exceed my word limit?",
+            "answer": "Users who exceed the free or subscribed word limit can renew their plan, retaining previously earned credits with extended validity."
+        },
+        {
+            "question": "Can AI Undetect help with SEO content?",
+            "answer": "Yes, its AI Rewriter produces SEO-friendly, human-like blog posts that enhance website ranking and audience engagement."
+        }
+    ]
+}

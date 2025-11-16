@@ -1,0 +1,65 @@
+{
+    "name": "MimicPC",
+    "description": "MimicPC is a cloud-based platform offering instant access to AI tools for generating images, videos, audio, and training custom models.",
+    "longDescription": "MimicPC is an open-source, cloud-based AI platform designed to make advanced AI applications accessible without requiring high-end hardware or complex setups. It empowers creators, developers, and enthusiasts to generate high-quality images, videos, and audio using tools like Stable Diffusion, ComfyUI, and FaceFusion directly in their browsers. The platform supports training custom LoRA models, offering flexibility for personalized AI solutions. By providing pre-installed apps and cloud storage, MimicPC eliminates technical barriers, enabling users to focus on creativity. Its mission is to democratize AI technology, offering affordable plans and a user-friendly experience for diverse use cases, from art to research.",
+    "url": "https://www.mimicpc.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mimicpc.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "mimicpc",
+    "categories": [
+        "AI Image Generator",
+        "AI Video Generator",
+        "AI Music Generator",
+        "AI Face Swap Generator",
+        "AI Workflow",
+        "AI Text-to-Speech",
+        "Open Source AI Models"
+    ],
+    "features": [
+        "Instantly launch over 20 pre-installed AI applications, such as Stable Diffusion and ComfyUI, without local installation for quick access.",
+        "Generate high-quality images from text prompts using models like FLUX and SD 3.5, transforming ideas into vivid visuals.",
+        "Create dynamic AI-generated videos with realistic animations and smooth transitions using tools like HunyuanVideo.",
+        "Train custom LoRA models without deployment complexities, allowing users to tailor AI outputs to specific needs.",
+        "Perform realistic face swaps in images and videos with FaceFusion, enhancing creative projects with high-quality results.",
+        "Convert text to natural-sounding speech or transcribe audio accurately using voice generation tools like RVC.",
+        "Access cloud-based file management to store, organize, and deploy AI models and files securely from anywhere.",
+        "Utilize over 100 ready-to-run ComfyUI workflows for tasks like image creation and video generation, streamlining complex processes.",
+        "Optimize performance with adaptive computing resources, ensuring smooth operation for demanding AI tasks.",
+        "Integrate custom models to expand creative possibilities, supporting endless AI-driven project variations."
+    ],
+    "faqs": [
+        {
+            "question": "What is MimicPC used for?",
+            "answer": "MimicPC is used to run AI applications for creating images, videos, audio, and training custom models directly in your browser, eliminating the need for high-end hardware."
+        },
+        {
+            "question": "Does MimicPC offer a free plan?",
+            "answer": "Yes, MimicPC provides a free plan with limited credits to test core features, alongside paid plans for higher usage."
+        },
+        {
+            "question": "Can I train my own AI models on MimicPC?",
+            "answer": "Yes, you can train custom LoRA models using tools like Kohya_SS, tailoring AI outputs to your specific requirements without complex setups."
+        },
+        {
+            "question": "What AI applications are available on MimicPC?",
+            "answer": "MimicPC offers over 20 pre-installed apps, including Stable Diffusion, ComfyUI, FaceFusion, and RVC, for various AI-driven tasks."
+        },
+        {
+            "question": "Do I need technical expertise to use MimicPC?",
+            "answer": "No, MimicPC’s user-friendly interface and pre-configured workflows make it accessible to beginners and experts alike."
+        },
+        {
+            "question": "How does MimicPC handle file storage?",
+            "answer": "MimicPC provides cloud-based file management, allowing secure storage and easy access to your AI models and files anytime."
+        },
+        {
+            "question": "Can I use MimicPC for video generation?",
+            "answer": "Yes, MimicPC supports AI video generation with tools like HunyuanVideo, creating dynamic videos with realistic animations."
+        },
+        {
+            "question": "Is MimicPC suitable for professional use?",
+            "answer": "Absolutely, professionals like graphic designers and content creators use MimicPC for efficient, high-quality AI-driven content production."
+        }
+    ]
+}

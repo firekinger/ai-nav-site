@@ -1,0 +1,65 @@
+{
+    "name": "DesiVocal",
+    "description": "DesiVocal is an AI-powered platform specializing in voice generation and conversion with a focus on South Asian accents, languages, and cultural nuances.",
+    "longDescription": "DesiVocal is a cutting-edge AI platform designed to generate and convert voices, particularly tailored for Desi (South Asian) users, enabling the creation of authentic-sounding audio in various Indian languages and accents. Its mission is to bridge the gap between technology and cultural expression by providing tools that preserve and enhance vocal authenticity in media, entertainment, and communication. The website serves users by solving problems related to language barriers and accent representation in voiceovers, music, and virtual assistants. It empowers content creators, educators, and businesses to produce high-quality, culturally relevant audio without needing professional voice actors. Through advanced AI algorithms, DesiVocal ensures natural intonation and emotional depth in generated voices. Overall, it democratizes access to sophisticated voice technology for the global Desi community and beyond.",
+    "url": "https://www.desivocal.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.desivocal.com.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "desivocal",
+    "categories": [
+        "AI Voice Generator",
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Audio Editing",
+        "AI Language Learning",
+        "AI Video Generator",
+        "AI Creative Writing",
+        "AI Audio Enhancer"
+    ],
+    "features": [
+        "AI-driven text-to-speech conversion that supports multiple Indian languages like Hindi, Tamil, and Bengali, allowing users to create natural-sounding voiceovers effortlessly.",
+        "Voice cloning technology that replicates specific accents and tones from uploaded samples, benefiting podcasters and filmmakers in producing personalized audio content.",
+        "Real-time voice modulation tools for altering pitch, speed, and emotion, enhancing creative flexibility in music and entertainment applications.",
+        "Integration with popular editing software, enabling seamless workflow for professionals in media production.",
+        "Cultural accent library featuring authentic Desi vocal styles, helping users maintain cultural accuracy in global communications.",
+        "Free tier with limited generations per month, making it accessible for hobbyists and small-scale users.",
+        "Advanced noise reduction and audio enhancement features to improve output quality in various environments.",
+        "Collaborative sharing options for teams to work on voice projects together in real-time.",
+        "Customizable voice profiles that users can save and reuse, streamlining repetitive tasks like audiobook narration."
+    ],
+    "faqs": [
+        {
+            "question": "What is DesiVocal primarily used for?",
+            "answer": "DesiVocal is mainly used for generating and converting voices with a focus on South Asian accents and languages. It helps in creating voiceovers, music, and virtual assistants that sound authentic and culturally relevant."
+        },
+        {
+            "question": "Does DesiVocal offer a free plan?",
+            "answer": "Yes, DesiVocal provides a free plan with limited voice generations and basic features. Users can upgrade to premium plans for unlimited access and advanced tools."
+        },
+        {
+            "question": "Which languages does DesiVocal support?",
+            "answer": "DesiVocal supports major Indian languages such as Hindi, Tamil, Telugu, Punjabi, and more, along with English in various Desi accents. It continually expands its language library based on user demand."
+        },
+        {
+            "question": "How accurate is the voice generation?",
+            "answer": "The AI ensures high accuracy in accent, intonation, and emotion, trained on diverse datasets. However, results may vary based on input quality, and users can fine-tune outputs for better precision."
+        },
+        {
+            "question": "Can I clone my own voice on DesiVocal?",
+            "answer": "Yes, the voice cloning feature allows users to upload audio samples to create a personalized AI voice model. This is useful for content creators who want consistent branding in their audio projects."
+        },
+        {
+            "question": "Is DesiVocal suitable for professional use?",
+            "answer": "Absolutely, professionals in media, advertising, and education use DesiVocal for high-quality voice production. It integrates with editing tools and offers export options in various formats."
+        },
+        {
+            "question": "How does DesiVocal handle privacy?",
+            "answer": "DesiVocal prioritizes user privacy by not storing uploaded audio without consent and complying with data protection regulations. Users control their data and can delete voice models at any time."
+        },
+        {
+            "question": "What makes DesiVocal different from other voice AI tools?",
+            "answer": "DesiVocal stands out with its specialization in South Asian cultural nuances, offering accents and languages often underrepresented in general AI tools. This focus ensures more authentic and inclusive voice generation."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Humbot",
+    "description": "Humbot is an AI-powered platform that humanizes AI-generated text to bypass detection and enhance readability.",
+    "longDescription": "Humbot is an AI humanizer designed to transform AI-generated text into natural, human-like content that bypasses AI detection tools like Originality 3.0 and Turnitin. Its mission is to help content creators, students, and marketers produce undetectable, high-quality text that retains the original meaning while sounding authentic. The platform uses advanced large language models (LLMs) with billions of parameters to analyze and rephrase text, ensuring it is free from robotic tones and grammatical errors. Humbot serves users by offering a user-friendly interface and multilingual support, making it accessible for global audiences. It addresses the challenge of overly sensitive AI detectors flagging legitimate content, enabling users to create with confidence. The tool emphasizes ethical use, discouraging misinformation or malicious applications.",
+    "url": "https://humbot.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/humbot.ai.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "humbot",
+    "categories": [
+        "Humanizer AI",
+        "AI Rewriter",
+        "Bypass AI",
+        "AI Translate",
+        "AI Writing",
+        "AI SEO Tools",
+        "AI Article Summarizer",
+        "AI Digital Marketing",
+        "AI Checker",
+        "AI Chatbot"
+    ],
+    "features": [
+        "Humbot transforms AI-generated text into human-like content, bypassing AI detectors like GPTZero and Turnitin.",
+        "The platform supports over 50 languages, enabling global users to humanize text in various linguistic contexts.",
+        "It offers a built-in AI checker to instantly analyze text and provide detection results across multiple AI detectors.",
+        "Humbot ensures 100% plagiarism-free output, preserving the original meaning while enhancing authenticity.",
+        "The Academic rewriting style protects citations and ensures humanized text meets scholarly standards.",
+        "Users can access a free plan with 500 words to test Humbot’s humanization capabilities.",
+        "The tool optimizes text for SEO, improving readability and search engine rankings for content creators.",
+        "Humbot’s user-friendly interface delivers humanized text in seconds, requiring no technical expertise.",
+        "It enhances ad copy and emails to avoid spam filters, ensuring content reaches its audience.",
+        "The platform provides three humanization modes to tailor output to specific audience needs.",
+        "Humbot’s mobile app includes AI chat, image generation, and text-to-speech features for enhanced productivity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Humbot’s primary function?",
+            "answer": "Humbot humanizes AI-generated text to make it undetectable by AI detectors while maintaining readability and authenticity."
+        },
+        {
+            "question": "Does Humbot offer a free plan?",
+            "answer": "Yes, Humbot provides a free plan with 500 words to test its AI humanization capabilities."
+        },
+        {
+            "question": "Can Humbot humanize text in languages other than English?",
+            "answer": "Yes, Humbot supports over 50 languages, including Arabic, French, Chinese, and more, for versatile text humanization."
+        },
+        {
+            "question": "Is the humanized text plagiarism-free?",
+            "answer": "Humbot guarantees 100% plagiarism-free output by rephrasing content while preserving its original meaning."
+        },
+        {
+            "question": "How does Humbot ensure text bypasses AI detectors?",
+            "answer": "Humbot uses advanced LLMs to replace AI-specific patterns with human-like phrasing and sentence structures."
+        },
+        {
+            "question": "Is Humbot suitable for academic writing?",
+            "answer": "Yes, Humbot offers an Academic rewriting style that preserves citations and ensures compliance with scholarly standards."
+        },
+        {
+            "question": "How secure is my data with Humbot?",
+            "answer": "Humbot encrypts all data transmissions using industry standards and adheres to a strict privacy policy."
+        },
+        {
+            "question": "Can Humbot improve SEO for my content?",
+            "answer": "Humbot optimizes text for readability and keywords, helping content rank higher on search engines."
+        },
+        {
+            "question": "Does Humbot work with all types of AI-generated content?",
+            "answer": "Yes, Humbot can humanize text from various AI tools like ChatGPT, Claude, and Gemini across multiple content types."
+        },
+        {
+            "question": "Is a subscription required to use Humbot?",
+            "answer": "Humbot offers a free plan, but a subscription is needed for additional word credits and premium features."
+        }
+    ]
+}

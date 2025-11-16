@@ -1,0 +1,73 @@
+{
+    "name": "Novita AI",
+    "description": "Novita AI is a platform providing fast, affordable API access to advanced AI models for image generation, text-to-image, and other generative tasks.",
+    "longDescription": "Novita AI is an API-first platform that enables developers and businesses to integrate powerful AI capabilities into their applications without managing infrastructure. Its mission is to democratize access to cutting-edge AI models, making them faster and more cost-effective than competitors like AWS or Google Cloud. The platform solves problems related to high latency and expensive AI inference by offering optimized, scalable APIs for tasks such as image generation and editing. It serves users ranging from individual developers to enterprises by providing easy-to-use endpoints and SDKs in multiple programming languages. Overall, Novita AI focuses on reliability, speed, and affordability to accelerate AI adoption across industries.",
+    "url": "https://novita.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/novita.ai.webp",
+    "category": "AI API",
+    "categorySlug": "ai-api",
+    "slug": "novita-ai",
+    "categories": [
+        "AI API",
+        "Text to Image",
+        "AI Photo Editor",
+        "AI Models",
+        "AI Writing",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Text-to-Image API allows users to generate high-quality images from textual descriptions using models like Stable Diffusion, enabling creative content creation effortlessly.",
+        "Image-to-Image API transforms existing images based on prompts, offering editing capabilities like style transfer or object removal for enhanced visual customization.",
+        "Upscaling feature enhances image resolution while preserving details, benefiting users in design and media production for professional-grade outputs.",
+        "Inpainting and Outpainting tools let users fill in or extend image areas intelligently, solving common editing challenges in graphic design.",
+        "Model Training API supports fine-tuning AI models on custom datasets, allowing personalized AI solutions for specific business needs.",
+        "Real-time Inference provides sub-second response times for API calls, ensuring seamless integration into real-time applications like chatbots or apps.",
+        "Pay-as-You-Go Pricing offers flexible, credit-based billing without subscriptions, making it accessible for small-scale users and startups.",
+        "Multi-Model Support includes access to various open-source models like Llama for text generation, expanding beyond images to multimodal AI tasks.",
+        "SDKs in Python, JavaScript, and more simplify integration, reducing development time for building AI-powered features.",
+        "Secure Data Handling ensures user data privacy with encrypted transmissions and compliance with standards like GDPR.",
+        "Batch Processing enables handling multiple requests efficiently, ideal for high-volume tasks in e-commerce or content generation workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Novita AI primarily used for?",
+            "answer": "Novita AI is mainly used for providing API access to AI models for image generation and editing tasks. It helps developers integrate these capabilities into their apps quickly and affordably."
+        },
+        {
+            "question": "Does Novita AI offer free credits?",
+            "answer": "Yes, new users receive 100 free credits upon signup, allowing limited access to test core features before purchasing more."
+        },
+        {
+            "question": "How fast are the API responses?",
+            "answer": "Novita AI boasts sub-second inference times, often faster than major cloud providers, due to optimized hardware and global edge networks."
+        },
+        {
+            "question": "What AI models does Novita support?",
+            "answer": "It supports popular models like Stable Diffusion for images, Llama for text, and others for tasks like upscaling and inpainting."
+        },
+        {
+            "question": "Is Novita AI suitable for enterprises?",
+            "answer": "Yes, it offers scalable solutions with enterprise-grade security, custom model training, and dedicated support for large-scale deployments."
+        },
+        {
+            "question": "How does pricing work on Novita AI?",
+            "answer": "Pricing is pay-as-you-go based on credits, where each API call consumes credits depending on complexity, with no minimum commitments."
+        },
+        {
+            "question": "Can I train my own models on Novita?",
+            "answer": "Yes, the platform provides APIs for fine-tuning models on custom datasets, enabling tailored AI solutions."
+        },
+        {
+            "question": "What programming languages are supported?",
+            "answer": "Novita offers SDKs for Python, JavaScript, and other languages, along with REST APIs for broad compatibility."
+        },
+        {
+            "question": "Is data secure on Novita AI?",
+            "answer": "Yes, all data is encrypted, and the platform complies with privacy regulations to protect user information."
+        },
+        {
+            "question": "How does Novita compare to competitors?",
+            "answer": "Novita is often cheaper and faster than services like Replicate or Hugging Face Inference, with a focus on ease of use."
+        }
+    ]
+}

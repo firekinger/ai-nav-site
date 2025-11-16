@@ -1,0 +1,55 @@
+{
+    "name": "Undetectable AI",
+    "description": "Undetectable AI provides tools to create and detect AI-generated content while ensuring it appears human-written.",
+    "longDescription": "Undetectable AI is a platform designed to help users create content that bypasses AI detection systems, ensuring it appears human-written. It serves content creators, marketers, and businesses by offering tools to humanize AI-generated text and analyze content for AI detection risks. The platform uses advanced algorithms to refine text, making it indistinguishable from human writing, which is particularly useful for SEO, academic, or professional purposes. Its mission is to empower users to leverage AI technology while maintaining authenticity and avoiding penalties from AI detectors. The service also includes a detector to identify AI-generated content, helping users verify their work.",
+    "url": "https://undetectable.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/undetectable.ai.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "undetectable-ai",
+    "categories": [
+        "Humanizer AI",
+        "AI Content Detector",
+        "AI SEO Tools",
+        "AI Writing Assistants",
+        "AI For Data Analytics",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "AI text humanizer transforms AI-generated content to mimic human writing, bypassing detection tools.",
+        "AI content detector identifies whether text was created by AI models, aiding content verification.",
+        "Multi-language support allows users to process content in various languages for global applicability.",
+        "SEO optimization ensures humanized content aligns with search engine ranking requirements.",
+        "Real-time analysis provides instant feedback on content authenticity and detection risks.",
+        "User-friendly interface simplifies the process of humanizing and analyzing text for all skill levels.",
+        "Customizable output settings let users adjust the tone and style of humanized text.",
+        "Bulk processing enables users to humanize or analyze large volumes of text efficiently.",
+        "Integration with popular AI models supports content created by tools like ChatGPT or GPT-4."
+    ],
+    "faqs": [
+        {
+            "question": "What is Undetectable AI used for?",
+            "answer": "Undetectable AI helps users create or verify content that appears human-written, bypassing AI detection tools for SEO, academic, or professional use."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Undetectable AI offers a free plan with limited usage for testing its core features."
+        },
+        {
+            "question": "Can it detect AI-generated content?",
+            "answer": "Yes, the platform includes an AI detector to identify content created by AI models like ChatGPT."
+        },
+        {
+            "question": "Does it support languages other than English?",
+            "answer": "Undetectable AI supports multiple languages, allowing users to process content globally."
+        },
+        {
+            "question": "How does the humanizer ensure content passes AI detectors?",
+            "answer": "The humanizer uses advanced algorithms to rewrite AI-generated text, making it appear naturally human-written and undetectable by most AI detection tools."
+        },
+        {
+            "question": "Is the platform suitable for SEO purposes?",
+            "answer": "Yes, it optimizes content to meet SEO standards while ensuring it avoids AI detection penalties."
+        }
+    ]
+}

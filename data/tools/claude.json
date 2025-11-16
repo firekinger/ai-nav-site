@@ -1,0 +1,60 @@
+{
+    "name": "Claude",
+    "description": "Claude.ai is a conversational AI platform designed to provide safe, helpful, and value-aligned responses for various tasks.",
+    "longDescription": "Claude.ai, developed by Anthropic, is a conversational AI platform powered by large language models (LLMs) designed to be helpful, safe, and aligned with human values through Constitutional AI principles. It serves users by offering natural language processing capabilities for tasks like text generation, summarization, coding, and data analysis. The platform caters to individuals, developers, and businesses seeking ethical AI solutions without compromising performance. Unlike some competitors, Claude prioritizes transparency and safety, making it suitable for professional and personal use cases requiring reliable and context-aware responses. Its mission is to advance AI responsibly while solving real-world problems efficiently.",
+    "url": "https://www.claude.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/claude.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "claude",
+    "categories": [
+        "AI Chatbot",
+        "AI Text Generator",
+        "AI Code Assistant",
+        "AI For Data Analytics",
+        "AI Translate"
+    ],
+    "features": [
+        "Claude generates human-like text for writing articles, reports, or creative content, enhancing productivity.",
+        "The platform summarizes long documents into concise insights, saving users time on research.",
+        "Claude writes and debugs code in various programming languages, supporting developers with accurate solutions.",
+        "It processes large datasets for trend analysis and data extraction, aiding business decision-making.",
+        "Claude supports multilingual communication, offering translation and global accessibility for diverse users.",
+        "The Artifacts feature creates persistent, editable content like notes or charts for collaborative projects.",
+        "Claude’s computer use feature allows it to interact with graphical interfaces, automating tasks like form filling."
+    ],
+    "faqs": [
+        {
+            "question": "What is Claude AI?",
+            "answer": "Claude is a conversational AI chatbot developed by Anthropic, designed to provide safe, helpful, and ethical responses for tasks like text generation, coding, and data analysis."
+        },
+        {
+            "question": "Is Claude free to use?",
+            "answer": "Yes, Claude offers a free tier with limited daily usage, while premium plans like Claude Pro provide higher limits and advanced features."
+        },
+        {
+            "question": "Can Claude access the internet?",
+            "answer": "Claude cannot browse the internet directly but can analyze user-provided text, documents, or images for relevant tasks."
+        },
+        {
+            "question": "How does Claude compare to ChatGPT?",
+            "answer": "Claude emphasizes ethical AI and safety with a larger context window, while ChatGPT offers additional features like image generation and web browsing in its paid tier."
+        },
+        {
+            "question": "What file types can I upload to Claude?",
+            "answer": "Claude supports file uploads like PDFs, TXTs, CSVs, and Docx for summarization or analysis, with a limit of five files at 10MB each."
+        },
+        {
+            "question": "Can Claude generate images?",
+            "answer": "No, Claude is text-focused and cannot generate images, but it can analyze uploaded images for descriptions or insights."
+        },
+        {
+            "question": "Who can benefit from using Claude?",
+            "answer": "Claude is ideal for content creators, developers, researchers, and businesses needing safe, reliable AI for writing, coding, or data analysis."
+        },
+        {
+            "question": "Is Claude available on mobile?",
+            "answer": "Claude is accessible via its website and iOS app, with Slack integration, but lacks a dedicated Android app."
+        }
+    ]
+}

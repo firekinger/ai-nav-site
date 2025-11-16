@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Transcriber Tools in 2025",
+    "summary": "Unlock the power of seamless communication with our AI Transcriber tools. Designed to convert audio and video content into accurate, editable text, these innovative solutions save you time and enhance productivity. Whether you're a student, professional, or content creator, our transcribers streamline your workflow, making it easier to capture and share ideas. Explore our curated selection of AI Transcriber tools today and transform the way you manage your audio content. Start your journey towards effortless transcription now!",
+    "tools": [
+        {
+            "id": "1105",
+            "name": "Music AI",
+            "slug": "music-ai",
+            "description": "Music AI provides state-of-the-art, ethical AI solutions for audio and music applications, including stem separation, voice transfers, and metadata classification, to empower businesses and creators in audio production.",
+            "icon": "/logo/music.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        },
+        {
+            "id": "1187",
+            "name": "Exemplary AI",
+            "slug": "exemplary-ai",
+            "description": "Exemplary AI is an innovative platform that leverages artificial intelligence to provide transcription, summarization, translation, and content generation services for audio and video files.",
+            "icon": "/logo/exemplary.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        },
+        {
+            "id": "1201",
+            "name": "YOU-TLDR",
+            "slug": "you-tldr",
+            "description": "YOU-TLDR is a free AI-powered web app that enables users to summarize, download, search, and interact with YouTube videos in any language.",
+            "icon": "/logo/www.you-tldr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        },
+        {
+            "id": "1298",
+            "name": "Autosana",
+            "slug": "autosana-ai",
+            "description": "Autosana.ai is an AI-powered platform that automates the transcription and summarization of medical consultations to streamline documentation for healthcare professionals.",
+            "icon": "/logo/autosana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        },
+        {
+            "id": "1279",
+            "name": "Transcriptly",
+            "slug": "transcriptly",
+            "description": "Transcriptly is an online service that allows users to transcribe audio and video files to text instantly, supporting 98+ languages and various formats like MP3, MP4, WAV, M4A, and MOV.",
+            "icon": "/logo/transcriptly.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        },
+        {
+            "id": "1027",
+            "name": "SummaryTube",
+            "slug": "summarytube",
+            "description": "SummaryTube is an AI-powered online tool that generates free summaries and key insights from YouTube videos to help users save time.",
+            "icon": "/logo/summarytube.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcriber"
+            ]
+        }
+    ]
+}

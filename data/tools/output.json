@@ -1,0 +1,63 @@
+{
+    "name": "Output",
+    "description": "Output provides innovative music creation tools and software for musicians and producers.",
+    "longDescription": "Output is a music technology company that develops creative software instruments and plugins for musicians, composers, producers, and sound designers. Founded by ASCAP award-winning producer Gregg Lehrman, the company focuses on delivering groundbreaking tools like Arcade, Portal, and Co-Producer to enhance musical creativity. Its mission is to inspire artists through cutting-edge technology without replacing human artistry. Output’s products are used in hit songs by artists like Beyoncé and Billie Eilish, as well as in major films and TV shows. The platform addresses common pain points, such as time-consuming sample searches, by offering intuitive, high-quality sound libraries and AI-enhanced workflows. Based in Los Angeles, Output is built by musicians for musicians, ensuring tools resonate with creative needs.",
+    "url": "https://output.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/output.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "output",
+    "categories": [
+        "AI Music Generator",
+        "AI Text Classifier",
+        "AI App Builder",
+        "AI Creative Writing",
+        "AI Sound Effect Generator"
+    ],
+    "features": [
+        "Arcade offers a cloud-based, playable sampler with daily new mix-ready samples for instant music creation.",
+        "Co-Producer uses AI to match samples to your track’s key and tempo, streamlining production for $9.99/month.",
+        "Portal provides granular effects to transform audio, adding unique textures to music productions.",
+        "Thermal delivers distortion effects with customizable parameters for warm, dynamic sound shaping.",
+        "Exhale features vocal chop-based sounds, ideal for creating modern pop and electronic lead melodies.",
+        "Movement adds rhythmic modulation to any sound, enhancing tracks with dynamic motion.",
+        "Rev creates reverse sounds and instruments, offering unique textures for cinematic and electronic music.",
+        "Analog Strings combines orchestral and synthetic sounds for rich, emotive string arrangements.",
+        "Sampler Generator in Arcade allows users to chop and flip custom sounds for personalized sample creation.",
+        "Output Pro subscription bundles Arcade, Thermal, Portal, and Movement for comprehensive music production tools."
+    ],
+    "faqs": [
+        {
+            "question": "What is Output Arcade?",
+            "answer": "Arcade is a cloud-based sampler plugin with thousands of mix-ready samples, updated daily, to inspire music creation."
+        },
+        {
+            "question": "Does Output offer a free trial?",
+            "answer": "Yes, Arcade offers a free 30-day trial, and Co-Producer is free for 60 days for existing Arcade subscribers."
+        },
+        {
+            "question": "How does Co-Producer work?",
+            "answer": "Co-Producer uses AI to analyze your track and suggest samples that match its key and tempo, with unlimited access for a monthly fee."
+        },
+        {
+            "question": "Can I use my own samples in Arcade?",
+            "answer": "Yes, Arcade’s Sampler Generator lets you upload and manipulate your own sounds for custom sample creation."
+        },
+        {
+            "question": "What genres are Output plugins suited for?",
+            "answer": "Output plugins like Exhale, Portal, and Arcade are versatile, used in pop, hip-hop, electronic, and cinematic music."
+        },
+        {
+            "question": "Is Output compatible with my DAW?",
+            "answer": "Output plugins are compatible with major DAWs like Ableton Live, Logic Pro, and FL Studio, with VST, AU, and AAX formats."
+        },
+        {
+            "question": "How often are new samples added to Co-Producer?",
+            "answer": "Co-Producer adds new, musician-crafted samples daily, ensuring fresh inspiration for subscribers."
+        },
+        {
+            "question": "What is the cost of Output Pro?",
+            "answer": "Pricing details for Output Pro are available at https://output.com; it bundles multiple plugins for a subscription fee."
+        }
+    ]
+}

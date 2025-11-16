@@ -1,0 +1,68 @@
+{
+    "name": "Chad AI",
+    "description": "Chad AI provides a Russian-language AI chatbot powered by advanced neural networks for text, code, and image generation without VPN or registration.",
+    "longDescription": "Chad AI is a Russian-language AI platform that leverages advanced neural networks like GPT-3.5, GPT-4, Midjourney, and others to offer text generation, code creation, and image design capabilities. Its mission is to provide seamless access to AI tools for Russian users without requiring VPNs, foreign phone numbers, or complex registrations. The platform caters to diverse needs, from writing essays and social media posts to solving academic problems and generating creative visuals. It emphasizes speed, accessibility, and a user-friendly interface, making AI tools available for personal, educational, and business use. By integrating multiple AI models, Chad AI aims to simplify complex tasks and enhance productivity for its users.",
+    "url": "https://chadgpt.ru/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chadgpt.ru.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "chad-ai",
+    "categories": [
+        "AI Text Generator",
+        "AI Code Generator",
+        "AI Image Generator",
+        "AI Chatbot",
+        "AI Homework Helper",
+        "AI Digital Marketing",
+        "AI Language Learning",
+        "AI Design Assistant",
+        "AI Files",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "Generates high-quality texts, such as essays, social media posts, and scripts, in Russian for diverse applications.",
+        "Creates and debugs code, supporting developers with programming tasks across various languages.",
+        "Produces images and designs using Midjourney and Kandinsky 3.1 based on textual descriptions.",
+        "Answers questions in an encyclopedic format, providing reliable information across multiple domains.",
+        "Translates text and explains meanings, aiding users in multilingual communication.",
+        "Assists with academic tasks, including solving physics and chemistry problems for students.",
+        "Generates creative ideas and content plans for marketing and social media campaigns.",
+        "Processes uploaded files like PDFs and images for analysis and content extraction.",
+        "Offers a turbo chat mode for fast, real-time responses without delays.",
+        "Provides a user-friendly interface with no need for VPN or foreign phone numbers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Chad AI used for?",
+            "answer": "Chad AI is used for generating texts, coding, creating images, answering questions, and assisting with academic and creative tasks in Russian."
+        },
+        {
+            "question": "Do I need a VPN to access Chad AI?",
+            "answer": "No, Chad AI is designed for use in Russia without requiring a VPN or foreign phone number."
+        },
+        {
+            "question": "Is Chad AI free to use?",
+            "answer": "Chad AI offers free access to its core features, though some advanced functionalities may require a paid subscription."
+        },
+        {
+            "question": "What AI models does Chad AI use?",
+            "answer": "It integrates GPT-3.5, GPT-4, Midjourney, Claude, Gemini, and other neural networks for diverse tasks."
+        },
+        {
+            "question": "Can Chad AI help with coding?",
+            "answer": "Yes, it can write, debug, and analyze code, supporting developers with various programming tasks."
+        },
+        {
+            "question": "Does Chad AI support image generation?",
+            "answer": "Yes, it uses Midjourney and Kandinsky 3.1 to create images and designs from text descriptions."
+        },
+        {
+            "question": "How does Chad AI assist with education?",
+            "answer": "It helps students by solving academic problems, writing essays, and creating study plans."
+        },
+        {
+            "question": "Is registration required to use Chad AI?",
+            "answer": "No, users can access core features without registration, though email sign-up is available for additional benefits."
+        }
+    ]
+}

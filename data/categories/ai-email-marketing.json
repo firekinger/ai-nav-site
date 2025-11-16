@@ -1,0 +1,380 @@
+{
+    "title": "The Best 35 AI Email Marketing Tools in 2025",
+    "summary": "Unlock the power of AI Email Marketing to elevate your campaigns and drive engagement. This category features cutting-edge tools designed to automate, personalize, and optimize your email outreach, ensuring your messages resonate with your audience. Experience enhanced targeting, improved open rates, and data-driven insights that simplify your marketing efforts. Whether you're a small business or a seasoned marketer, these AI solutions cater to your unique needs, making email marketing more efficient and effective. Explore our curated selection of AI Email Marketing tools today and transform your communication strategy!",
+    "tools": [
+        {
+            "id": "25",
+            "name": "Beacons",
+            "slug": "beacons",
+            "description": "Beacons is an AI-powered platform that helps creators build customizable link-in-bio websites to monetize their audience and grow their brand.",
+            "icon": "/logo/beacons.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Mailchimp",
+            "slug": "mailchimp",
+            "description": "Mailchimp is an all-in-one marketing platform specializing in email marketing, automation, and analytics to help businesses engage customers and drive growth.",
+            "icon": "/logo/mailchimp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "151",
+            "name": "Klaviyo",
+            "slug": "klaviyo",
+            "description": "Klaviyo is a marketing automation platform that empowers businesses to create personalized email and SMS campaigns.",
+            "icon": "/logo/www.klaviyo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "152",
+            "name": "MailerLite",
+            "slug": "mailerlite",
+            "description": "MailerLite provides intuitive email marketing tools for businesses to create, send, and analyze campaigns.",
+            "icon": "/logo/www.mailerlite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "Intercom",
+            "slug": "intercom",
+            "description": "Intercom provides a customer messaging platform to enhance business communication and engagement.",
+            "icon": "/logo/www.intercom.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "229",
+            "name": "Instantly",
+            "slug": "instantly",
+            "description": "Instantly.ai provides AI-powered email outreach tools to scale cold email campaigns and boost lead generation.",
+            "icon": "/logo/instantly.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "Copy.ai",
+            "slug": "copy-ai",
+            "description": "Copy.ai is an AI-powered platform designed to streamline content creation and enhance go-to-market strategies for businesses.",
+            "icon": "/logo/www.copy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "438",
+            "name": "TextCortex",
+            "slug": "textcortex",
+            "description": "TextCortex is an AI platform for enterprise knowledge management and content creation, transforming data into actionable insights.",
+            "icon": "/logo/textcortex.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "442",
+            "name": "ActiveCampaign",
+            "slug": "activecampaign",
+            "description": "ActiveCampaign provides a platform for personalized email marketing, automation, and sales engagement to help businesses grow.",
+            "icon": "/logo/www.activecampaign.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "470",
+            "name": "Smartlead",
+            "slug": "smartlead-ai",
+            "description": "Smartlead.ai is an AI-powered cold email outreach platform designed to enhance lead generation and sales automation with high deliverability.",
+            "icon": "/logo/www.smartlead.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "479",
+            "name": "Sintra",
+            "slug": "sintra-ai",
+            "description": "Sintra.ai provides AI-powered virtual employees to automate business tasks and enhance productivity for small businesses.",
+            "icon": "/logo/sintra.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "AIFreeBox",
+            "slug": "aifreebox",
+            "description": "AIFreeBox offers a comprehensive suite of free AI tools for content creation, social media, and productivity enhancement.",
+            "icon": "/logo/aifreebox.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "596",
+            "name": "Robly",
+            "slug": "robly",
+            "description": "Robly is an email marketing platform designed to boost engagement and open rates for small businesses using automation and AI-driven tools.",
+            "icon": "/logo/robly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "584",
+            "name": "Missive",
+            "slug": "missive",
+            "description": "Missive is a collaborative email and chat platform that streamlines team communication and task management across multiple channels.",
+            "icon": "/logo/missiveapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "614",
+            "name": "Bardeen",
+            "slug": "bardeen-ai",
+            "description": "Bardeen is an AI-powered workflow automation platform that streamlines repetitive tasks for GTM teams by integrating with popular apps.",
+            "icon": "/logo/www.bardeen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "636",
+            "name": "Toolsaday",
+            "slug": "toolsaday",
+            "description": "Toolsaday is an AI-powered platform designed to streamline content creation and enhance productivity for marketers, writers, and professionals.",
+            "icon": "/logo/toolsaday.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "657",
+            "name": "Voilà",
+            "slug": "voila-ai",
+            "description": "Voilà is an AI-powered assistant that enhances productivity by offering tools for writing, brainstorming, and researching across various platforms.",
+            "icon": "/logo/www.getvoila.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "671",
+            "name": "HARPA AI",
+            "slug": "harpa-ai",
+            "description": "HARPA AI is a Chrome extension that integrates multiple AI models to automate web tasks, enhance productivity, and streamline online workflows.",
+            "icon": "/logo/harpa.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "773",
+            "name": "Reply.io",
+            "slug": "reply-io",
+            "description": "Reply.io is an AI-powered sales engagement platform that automates multichannel outreach to streamline lead generation and meeting booking.",
+            "icon": "/logo/reply.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "776",
+            "name": "LazyApply",
+            "slug": "lazyapply",
+            "description": "LazyApply automates job applications across platforms like LinkedIn and Indeed to streamline the job search process.",
+            "icon": "/logo/lazyapply.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "781",
+            "name": "Shortwave",
+            "slug": "shortwave",
+            "description": "Shortwave is an AI-powered email client designed to enhance productivity and streamline inbox management.",
+            "icon": "/logo/www.shortwave.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "789",
+            "name": "Typli.ai",
+            "slug": "typli-ai",
+            "description": "Typli.ai is an AI-powered writing assistant that streamlines content creation and SEO optimization for writers, marketers, and businesses.",
+            "icon": "/logo/typli.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "823",
+            "name": "Mailmodo",
+            "slug": "mailmodo",
+            "description": "Mailmodo is an email marketing platform that enables businesses to create and send interactive, app-like emails to boost engagement and conversions.",
+            "icon": "/logo/www.mailmodo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1006",
+            "name": "Subscribr.ai",
+            "slug": "subscribr-ai",
+            "description": "Subscribr.ai is an AI-powered platform designed to automate the creation of personalized newsletters for businesses and creators.",
+            "icon": "/logo/subscribr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "nichesss",
+            "slug": "nichesss",
+            "description": "nichesss is an AI-powered copywriting software that generates various types of content, such as blog posts, ads, social media content, and more, by clicking a button.",
+            "icon": "/logo/nichesss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1210",
+            "name": "Uncheck AI",
+            "slug": "uncheck-ai",
+            "description": "Uncheck AI offers an AI checker and humanizer to scan and make AI-generated content undetectable, serving users with tools to enhance text for various applications.",
+            "icon": "/logo/uncheck.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1217",
+            "name": "Salesforge",
+            "slug": "salesforge-ai",
+            "description": "Salesforge.ai is an AI-powered sales engagement platform that automates personalized cold email outreach to boost sales efficiency and conversion rates.",
+            "icon": "/logo/www.salesforge.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "The SMS City",
+            "slug": "the-sms-city",
+            "description": "The SMS City provides automated WhatsApp and SMS solutions for businesses, offering tools like e-commerce integrations, AI-powered chatbots, and marketing campaigns to enhance customer engagement and boost sales.",
+            "icon": "/logo/thesmscity.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1426",
+            "name": "SalesRender",
+            "slug": "salesrender",
+            "description": "SalesRender is an AI-powered CRM platform designed to automate sales processes, manage customer relationships, and boost revenue through intelligent tools.",
+            "icon": "/logo/salesrender.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1276",
+            "name": "Mocke",
+            "slug": "mocke",
+            "description": "Mocke provides an AI-powered platform for simulating cold email campaigns to quickly test reply rates and campaign performance without launching real campaigns.",
+            "icon": "/logo/mocke.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1352",
+            "name": "Mailteorite",
+            "slug": "mailteorite",
+            "description": "Mailteorite is an AI-powered platform designed for efficient email management and automation, helping users streamline communication workflows.",
+            "icon": "/logo/mailteorite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1223",
+            "name": "AI Outreach",
+            "slug": "ai-outreach",
+            "description": "AI Outreach is a platform that generates unique, personalized messages for cold email, LinkedIn, and SMS outreach, enhancing sender reputation and conversion rates.",
+            "icon": "/logo/aioutreach.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1434",
+            "name": "EaseMate AI",
+            "slug": "easemate-ai",
+            "description": "EaseMate AI is an all-in-one AI assistant designed to boost efficiency in study, work, and creativity by leveraging advanced AI models.",
+            "icon": "/logo/www.easemate.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        },
+        {
+            "id": "1442",
+            "name": "GetResponse",
+            "slug": "getresponse",
+            "description": "GetResponse is an all-in-one AI-powered email marketing and automation platform that enables businesses to create engaging campaigns, build landing pages, and drive conversions across multiple channels.",
+            "icon": "/logo/www.getresponse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-marketing"
+            ]
+        }
+    ]
+}

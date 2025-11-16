@@ -1,0 +1,73 @@
+{
+    "name": "Jobhire.ai",
+    "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+    "longDescription": "Jobhire.ai is an innovative AI-driven job search platform designed to simplify and accelerate the job hunting process for professionals across various industries. Its mission is to empower job seekers by leveraging artificial intelligence to handle repetitive tasks, allowing users to focus on interviews and career growth. The platform solves common problems like time-consuming job applications, mismatched job recommendations, and suboptimal resumes by using advanced algorithms for personalization and automation. Users can upload their resumes, set preferences, and let the AI apply to jobs on their behalf, increasing efficiency and success rates. Overall, Jobhire.ai serves as a virtual job search assistant, making the process less stressful and more effective for both entry-level and experienced professionals.",
+    "url": "https://jobhire.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/jobhire.ai.webp",
+    "category": "AI Jobs",
+    "categorySlug": "ai-jobs",
+    "slug": "jobhire-ai",
+    "categories": [
+        "AI Jobs",
+        "AI Resume Builder",
+        "AI Job Description Generator",
+        "AI Recruiting",
+        "AI Resume Checker",
+        "AI Interview Assistant",
+        "AI Coaching"
+    ],
+    "features": [
+        "AI-powered job matching analyzes user profiles and preferences to recommend highly relevant job openings, saving time on manual searches.",
+        "Automated job applications allow the platform to apply to multiple jobs on behalf of the user with customized cover letters, streamlining the process.",
+        "Resume optimization uses AI to scan and improve resumes by suggesting edits for better ATS compatibility and keyword integration.",
+        "Interview preparation tools provide AI-generated practice questions and feedback based on job descriptions, helping users build confidence.",
+        "Job tracking dashboard monitors application statuses, follow-ups, and progress, keeping users organized throughout their search.",
+        "Personalized career advice offers insights on salary negotiations, skill gaps, and market trends tailored to the user's background.",
+        "Multi-platform integration connects with popular job boards like LinkedIn and Indeed for seamless data import and application submission.",
+        "Customizable search filters enable users to specify criteria such as location, salary, and industry for precise job recommendations.",
+        "Performance analytics provide reports on application success rates and areas for improvement, guiding users to refine their strategies.",
+        "Secure data handling ensures user information and resumes are protected with encryption and privacy controls."
+    ],
+    "faqs": [
+        {
+            "question": "What is Jobhire.ai?",
+            "answer": "Jobhire.ai is an AI-based platform that assists job seekers by automating applications, optimizing resumes, and matching them to suitable jobs. It uses advanced algorithms to make the job search process faster and more efficient."
+        },
+        {
+            "question": "Is Jobhire.ai free to use?",
+            "answer": "Yes, Jobhire.ai offers a free plan with core features like basic job matching and resume optimization. Premium plans are available for advanced automation and unlimited applications."
+        },
+        {
+            "question": "How does the AI job matching work?",
+            "answer": "The AI analyzes your resume, skills, and preferences to scan job listings from various sources and recommend the best matches. This personalization increases your chances of finding relevant opportunities quickly."
+        },
+        {
+            "question": "Can Jobhire.ai apply to jobs automatically?",
+            "answer": "Yes, with user permission, the platform can auto-apply to jobs by generating tailored cover letters and submitting applications. This feature is designed to handle high-volume applications efficiently while complying with job site rules."
+        },
+        {
+            "question": "Does Jobhire.ai help with resume improvements?",
+            "answer": "Absolutely, the AI reviews your resume for ATS compatibility, suggests keyword enhancements, and provides content recommendations to make it more appealing to employers."
+        },
+        {
+            "question": "Is my data secure on Jobhire.ai?",
+            "answer": "Jobhire.ai prioritizes data security with encryption, secure servers, and compliance with privacy regulations. Users control what information is shared and can delete data at any time."
+        },
+        {
+            "question": "What industries does Jobhire.ai support?",
+            "answer": "The platform supports a wide range of industries, including tech, finance, healthcare, marketing, and more, with customizable filters for specific sectors."
+        },
+        {
+            "question": "How accurate are the job recommendations?",
+            "answer": "Recommendations are highly accurate due to machine learning models trained on vast job data, but users can refine them by updating profiles. Feedback loops help improve suggestions over time."
+        },
+        {
+            "question": "Can I integrate Jobhire.ai with LinkedIn?",
+            "answer": "Yes, it integrates with LinkedIn and other job boards to import profiles and apply directly, enhancing connectivity and reducing manual data entry."
+        },
+        {
+            "question": "What if I need help with interviews?",
+            "answer": "Jobhire.ai offers AI-generated interview questions, mock sessions, and tips based on the job description to prepare users effectively."
+        }
+    ]
+}

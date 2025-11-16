@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Knowledge Graph Tools in 2025",
+    "summary": "Unlock the power of AI Knowledge Graphs to enhance your data insights and decision-making processes. These innovative tools help you visualize complex relationships, streamline information retrieval, and uncover hidden patterns within your data. By leveraging AI-driven knowledge graphs, you can improve collaboration, boost productivity, and drive smarter business strategies. Whether you're a data analyst, researcher, or business leader, our curated selection of AI Knowledge Graph tools is designed to meet your needs. Explore our collection today and transform the way you interact with information!",
+    "tools": [
+        {
+            "id": "304",
+            "name": "GitMind",
+            "slug": "gitmind",
+            "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+            "icon": "/logo/gitmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-graph"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "Writer",
+            "slug": "writer",
+            "description": "Writer is a generative AI platform designed to enhance enterprise productivity through AI-driven content creation and management.",
+            "icon": "/logo/writer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-graph"
+            ]
+        },
+        {
+            "id": "750",
+            "name": "Linnk AI",
+            "slug": "linnk-ai",
+            "description": "Linnk AI provides AI-powered tools for summarizing, translating, and analyzing documents to streamline research and workflow for professionals and academics.",
+            "icon": "/logo/www.linnk.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-graph"
+            ]
+        },
+        {
+            "id": "1113",
+            "name": "FPT.AI",
+            "slug": "fpt-ai",
+            "description": "FPT.AI is a leading AI platform providing comprehensive artificial intelligence solutions for businesses to enhance automation, customer engagement, and data-driven decision-making.",
+            "icon": "/logo/fpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-graph"
+            ]
+        }
+    ]
+}

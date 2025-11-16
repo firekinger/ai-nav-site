@@ -1,0 +1,358 @@
+{
+    "title": "The Best 32 AI Speech Recognition Tools in 2025",
+    "summary": "Unlock the power of communication with our AI Speech Recognition tools. Designed to convert spoken language into text seamlessly, these innovative solutions enhance productivity, accessibility, and user experience across various applications. Whether you're transcribing meetings, creating captions, or developing voice-activated systems, our curated selection of tools caters to diverse needs. Explore how AI can transform your workflow and improve efficiency. Dive into our collection of AI Speech Recognition tools today and discover the future of voice technology!",
+    "tools": [
+        {
+            "id": "130",
+            "name": "OpenAI",
+            "slug": "openai",
+            "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+            "icon": "/logo/openai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "TurboScribe",
+            "slug": "turboscribe",
+            "description": "TurboScribe is an AI-powered platform that transcribes audio and video files into accurate text with support for over 98 languages.",
+            "icon": "/logo/turboscribe.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "137",
+            "name": "Clipto",
+            "slug": "clipto",
+            "description": "Clipto is an AI-powered platform for transcription, video editing, and digital asset management, designed to streamline content creation.",
+            "icon": "/logo/www.clipto.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "226",
+            "name": "Felo AI",
+            "slug": "felo-ai",
+            "description": "Felo AI provides an AI-powered translation and research tool for seamless multilingual communication and information retrieval.",
+            "icon": "/logo/felo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "288",
+            "name": "Talkpal",
+            "slug": "talkpal",
+            "description": "Talkpal is an AI-powered language learning platform designed to help users improve their language skills through interactive conversations.",
+            "icon": "/logo/talkpal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "307",
+            "name": "ELSA Speak",
+            "slug": "elsa-speak",
+            "description": "ELSA Speak is an AI-powered app designed to help users improve their English pronunciation and fluency through personalized lessons and real-time feedback.",
+            "icon": "/logo/elsaspeak.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "341",
+            "name": "Lingvanex",
+            "slug": "lingvanex",
+            "description": "Lingvanex provides AI-powered translation and speech recognition tools for seamless communication across over 100 languages.",
+            "icon": "/logo/lingvanex.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "373",
+            "name": "Appen",
+            "slug": "appen",
+            "description": "Appen provides high-quality datasets and services to power AI and machine learning for global enterprises.",
+            "icon": "/logo/www.appen.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "441",
+            "name": "Sonix",
+            "slug": "sonix-ai",
+            "description": "Sonix provides AI-powered transcription, translation, and subtitling services to convert audio and video files into text quickly and accurately.",
+            "icon": "/logo/sonix.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "582",
+            "name": "SmallTalk2Me",
+            "slug": "smalltalk2me",
+            "description": "SmallTalk2Me is an AI-powered platform designed to enhance English speaking and writing skills through personalized feedback and simulations.",
+            "icon": "/logo/smalltalk2.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "638",
+            "name": "Tarteel AI",
+            "slug": "tarteel-ai",
+            "description": "Tarteel AI is an AI-powered Quran memorization app that provides real-time recitation feedback and progress tracking for Muslims worldwide.",
+            "icon": "/logo/www.tarteel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "665",
+            "name": "Limitless",
+            "slug": "limitless-ai",
+            "description": "Limitless provides AI-powered wearable technology and software to enhance memory and productivity by capturing and analyzing conversations.",
+            "icon": "/logo/www.limitless.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "679",
+            "name": "Yoodli",
+            "slug": "yoodli-ai",
+            "description": "Yoodli is an AI-powered communication coach that provides real-time feedback to improve public speaking and presentation skills.",
+            "icon": "/logo/yoodli.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "747",
+            "name": "ChatHub",
+            "slug": "chathub",
+            "description": "ChatHub is an all-in-one AI client that enables users to interact with multiple AI chatbots simultaneously, comparing their responses side by side.",
+            "icon": "/logo/chathub.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "811",
+            "name": "Eden AI",
+            "slug": "eden-ai",
+            "description": "Eden AI provides a unified API to integrate multiple AI models and workflows for developers and businesses.",
+            "icon": "/logo/www.edenai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "918",
+            "name": "Cockatoo",
+            "slug": "cockatoo",
+            "description": "Cockatoo is an AI-powered transcription service that converts audio and video files into accurate, editable text transcripts quickly and securely.",
+            "icon": "/logo/www.cockatoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "939",
+            "name": "Superwhisper",
+            "slug": "superwhisper",
+            "description": "Superwhisper is an AI-powered app for Mac that enables fast, offline voice-to-text transcription in any application to boost productivity.",
+            "icon": "/logo/superwhisper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1029",
+            "name": "SpeakPal",
+            "slug": "speakpal-ai",
+            "description": "SpeakPal is an AI-powered language learning platform that enables users to practice speaking skills through interactive conversations with AI tutors.",
+            "icon": "/logo/www.speakpal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1043",
+            "name": "Gliglish",
+            "slug": "gliglish",
+            "description": "Gliglish is a language learning platform that uses AI to help users improve their speaking and listening skills through conversation and roleplay, offering both free and paid plans.",
+            "icon": "/logo/gliglish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1054",
+            "name": "Noota",
+            "slug": "noota",
+            "description": "Noota is an AI-powered platform that automates meeting transcription, summarization, and analysis to enhance productivity for teams and professionals.",
+            "icon": "/logo/www.noota.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1075",
+            "name": "Sembly AI",
+            "slug": "sembly-ai",
+            "description": "Sembly AI is an AI notetaker designed for teams and professionals, offering features like transcription, meeting summaries, and actionable insights for various meeting types.",
+            "icon": "/logo/www.sembly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1085",
+            "name": "Rev.ai",
+            "slug": "rev-ai",
+            "description": "Rev.ai provides an API for highly accurate speech-to-text transcription and additional insights for audio and video files, catering to applications needing transcription, language identification, sentiment analysis, and more.",
+            "icon": "/logo/www.rev.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1113",
+            "name": "FPT.AI",
+            "slug": "fpt-ai",
+            "description": "FPT.AI is a leading AI platform providing comprehensive artificial intelligence solutions for businesses to enhance automation, customer engagement, and data-driven decision-making.",
+            "icon": "/logo/fpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1116",
+            "name": "Deep English",
+            "slug": "deep-english",
+            "description": "Deep English is an online platform offering free English lessons, podcasts, and stories to improve listening comprehension and fluency for language learners.",
+            "icon": "/logo/deepenglish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1125",
+            "name": "Cyanite.ai",
+            "slug": "cyanite-ai",
+            "description": "Cyanite.ai is an AI-driven platform specializing in music analysis, tagging, and search to empower music professionals with intelligent metadata extraction and discovery tools.",
+            "icon": "/logo/cyanite.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1128",
+            "name": "Callin",
+            "slug": "callin",
+            "description": "Callin is a social audio platform that enables users to host live conversations, engage with audiences, and effortlessly convert sessions into podcasts.",
+            "icon": "/logo/callin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1142",
+            "name": "Praktika",
+            "slug": "praktika-ai",
+            "description": "Praktika is an AI-powered mobile app designed to help users learn and practice English through interactive conversations with personalized AI avatars.",
+            "icon": "/logo/praktika.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1291",
+            "name": "VoxDeck",
+            "slug": "voxdeck-ai",
+            "description": "VoxDeck is an AI-powered conversation intelligence platform that analyzes sales calls and meetings to deliver actionable insights and enhance team performance.",
+            "icon": "/logo/www.voxdeck.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1281",
+            "name": "Glotera AI",
+            "slug": "glotera-ai",
+            "description": "Glotera AI is an innovative platform leveraging artificial intelligence for seamless multilingual translation and global communication tools.",
+            "icon": "/logo/glotera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "Sayfone",
+            "slug": "sayfone",
+            "description": "Sayfone is an AI-powered platform that enables users to generate realistic synthetic voices for phone calls, messages, and customer service applications.",
+            "icon": "/logo/www.sayfone.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1264",
+            "name": "WriteVoice",
+            "slug": "writevoice",
+            "description": "WriteVoice is an AI-powered voice-to-text tool that allows users to write faster by speaking instead of typing, integrating seamlessly with various applications.",
+            "icon": "/logo/www.writevoice.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        },
+        {
+            "id": "1316",
+            "name": "TranscriptGenerator.ai",
+            "slug": "transcriptgenerator-ai",
+            "description": "TranscriptGenerator.ai provides AI-powered transcription for Instagram videos, offering fast, accurate text with timestamps and multilingual support.",
+            "icon": "/logo/transcriptgenerator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-recognition"
+            ]
+        }
+    ]
+}

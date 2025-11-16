@@ -1,0 +1,62 @@
+{
+    "name": "Venice AI",
+    "description": "Venice AI offers private, uncensored AI for generating text, images, code, and characters with a focus on user privacy and decentralization.",
+    "longDescription": "Venice AI is a decentralized, privacy-focused generative AI platform launched in 2024 by Erik Voorhees, designed to provide uncensored and secure interactions with open-source AI models. Unlike mainstream AI platforms, it does not store user data on servers, using local storage and end-to-end encryption to ensure confidentiality. The platform supports text, image, and code generation, catering to users who prioritize privacy and unrestricted creativity. Venice AI integrates blockchain technology and the VVV token to enable decentralized access and payments, appealing to developers, creators, and privacy-conscious individuals. It aims to address concerns about censorship and data privacy prevalent in centralized AI systems. The platform is accessible via web browsers and mobile devices, with no account required for basic use.",
+    "url": "https://venice.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/venice.ai.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "venice-ai",
+    "categories": [
+        "AI Character",
+        "Dirty Talking AI",
+        "AI Image Generator",
+        "AI Code Generator",
+        "Open Source AI Models",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Private AI processing ensures user prompts and conversations are stored locally, safeguarding data privacy.",
+        "Uncensored AI responses allow users to access unfiltered information and creative outputs without restrictions.",
+        "Open-source models like Llama 3 and Stable Diffusion power text, image, and code generation for diverse applications.",
+        "Real-time search via Brave’s API provides up-to-date information with transparent source citations.",
+        "Decentralized GPU network processes inputs anonymously, enhancing security and user control.",
+        "VVV token integration enables developers and AI agents to access the API without per-request fees.",
+        "Image generation creates high-quality visuals for social media, websites, or creative projects.",
+        "Permissionless access allows users to engage with the platform without mandatory account creation."
+    ],
+    "faqs": [
+        {
+            "question": "What makes Venice AI different from other AI platforms?",
+            "answer": "Venice AI prioritizes user privacy by storing data locally and offers uncensored responses using open-source models, unlike centralized platforms that may log data or filter content."
+        },
+        {
+            "question": "Is Venice AI free to use?",
+            "answer": "Yes, Venice AI offers a free tier with limited text and image generation, while the Pro subscription provides unlimited prompts and additional features like high-resolution images."
+        },
+        {
+            "question": "Can I use Venice AI without an account?",
+            "answer": "Yes, basic access is available without an account, though creating a free or Pro account increases usage limits and unlocks additional features."
+        },
+        {
+            "question": "What types of content can Venice AI generate?",
+            "answer": "Venice AI can generate text, images, code, and AI characters, supporting tasks like writing, design, coding, and creative brainstorming."
+        },
+        {
+            "question": "How does Venice AI ensure user privacy?",
+            "answer": "It uses local storage in the user’s browser, end-to-end encryption, and a decentralized GPU network to prevent data logging or third-party access."
+        },
+        {
+            "question": "What is the VVV token used for?",
+            "answer": "The VVV token allows developers and AI agents to access Venice AI’s API for uncensored inference, with staking providing proportional API capacity."
+        },
+        {
+            "question": "Does Venice AI support real-time web search?",
+            "answer": "Yes, Venice AI uses Brave’s API for real-time search, delivering current information with cited sources, though accuracy may vary."
+        },
+        {
+            "question": "Can I generate images with Venice AI?",
+            "answer": "Yes, Venice AI’s image generator creates visuals from text prompts, with free users limited to 10 images daily and Pro users accessing higher limits."
+        }
+    ]
+}

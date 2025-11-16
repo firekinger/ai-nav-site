@@ -1,0 +1,71 @@
+{
+    "name": "SkedPal",
+    "description": "SkedPal is an AI-powered calendar tool that transforms to-do lists into dynamic, time-blocked schedules to help users master their daily productivity.",
+    "longDescription": "SkedPal is an intelligent scheduling application that leverages AI to automatically organize tasks and priorities into a realistic calendar. Its mission is to help users achieve their goals by adapting to interruptions, changing priorities, and personal constraints, ensuring important activities like deep work and projects are completed. The platform serves busy professionals, students, and anyone seeking better time management by providing a seamless way to plan and adjust schedules effortlessly. By integrating with popular calendars and tools, SkedPal solves the common problem of overcommitment and procrastination through smart automation and feedback. Users benefit from a more balanced and productive life, as the AI continuously optimizes their time based on real-time inputs and preferences.",
+    "url": "https://www.skedpal.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.skedpal.com.webp",
+    "category": "AI Scheduling",
+    "categorySlug": "ai-scheduling",
+    "slug": "skedpal",
+    "categories": [
+        "AI Scheduling",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "AI Calendar",
+        "AI Workflow"
+    ],
+    "features": [
+        "AI-powered auto-scheduling intelligently creates an optimal daily plan by considering task priorities, deadlines, and available time slots, saving users hours of manual planning.",
+        "Status Tracker provides real-time feedback on task progress, highlighting items falling behind and assessing the overall realism of the schedule to enable quick adjustments.",
+        "Seamless calendar integrations with Google, Office 365, iCloud, and tools like Asana and Zapier ensure all events and tasks sync effortlessly for a unified view.",
+        "Prioritization Board allows users to visually rank tasks by importance, helping the AI focus on high-impact activities first for better productivity.",
+        "Time Budgeting feature lets users allocate specific time zones for categories like deep work or admin tasks, ensuring balanced distribution of effort across the day.",
+        "Infinite Nested Lists enable unlimited sub-tasks and project organization, making it easy to break down complex goals into manageable steps.",
+        "Instant Schedule Updates automatically recalibrate the plan after changes, maintaining control and minimizing disruptions for the current day.",
+        "Smart Notifications via desktop and mobile apps alert users to key events and tasks, enhancing focus and timely execution.",
+        "Integrated Time Tracking records actual time spent on tasks, providing insights to refine future estimates and improve planning accuracy.",
+        "Personalized Onboarding during the free trial guides new users through setup and features, accelerating adoption and value realization."
+    ],
+    "faqs": [
+        {
+            "question": "What is SkedPal?",
+            "answer": "SkedPal is an AI-driven scheduling tool that converts your to-do lists into a smart calendar. It uses artificial intelligence to prioritize and time-block tasks based on your availability and goals."
+        },
+        {
+            "question": "Does SkedPal offer a free plan?",
+            "answer": "No, SkedPal does not have a perpetual free plan, but it provides a 14-day free trial with full access to all features and no credit card required."
+        },
+        {
+            "question": "How does the AI scheduling work?",
+            "answer": "The AI analyzes your tasks, priorities, deadlines, and calendar constraints to automatically generate an optimal schedule. It adapts in real-time to changes, ensuring your plan remains realistic and effective."
+        },
+        {
+            "question": "What calendars does SkedPal integrate with?",
+            "answer": "SkedPal supports two-way sync with Google Calendar, Office 365, and iCloud. Higher plans allow unlimited calendar accounts for more comprehensive integration."
+        },
+        {
+            "question": "Can I track time spent on tasks in SkedPal?",
+            "answer": "Yes, the Pro plan includes integrated time tracking to log actual effort on tasks. This helps refine future scheduling and provides productivity insights."
+        },
+        {
+            "question": "Is SkedPal suitable for teams?",
+            "answer": "While primarily designed for individual use, SkedPal integrates with team tools like Asana via Zapier. It focuses on personal productivity but can support collaborative workflows indirectly."
+        },
+        {
+            "question": "What is the difference between Core and Pro plans?",
+            "answer": "The Core plan offers basic AI scheduling for a 21-day window and single calendar sync, while Pro extends to 60 days, unlimited calendars, instant updates, status tracking, notifications, and time tracking."
+        },
+        {
+            "question": "How do I cancel my subscription?",
+            "answer": "You can cancel your SkedPal subscription at any time through your account settings. There are no long-term commitments, and you'll retain access until the end of your billing period."
+        },
+        {
+            "question": "Does SkedPal have a mobile app?",
+            "answer": "Yes, SkedPal offers mobile apps for iOS and Android, allowing you to manage tasks, view schedules, and receive notifications on the go."
+        },
+        {
+            "question": "What if my schedule changes unexpectedly?",
+            "answer": "SkedPal's AI allows for on-the-fly adjustments with minimal effort. Simply update tasks or priorities, and the system will reschedule automatically to accommodate changes."
+        }
+    ]
+}

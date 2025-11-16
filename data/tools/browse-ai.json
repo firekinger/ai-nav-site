@@ -1,0 +1,72 @@
+{
+    "name": "Browse AI",
+    "description": "Browse AI is a no-code platform for automating web data extraction and monitoring from any website.",
+    "longDescription": "Browse AI is an AI-powered, no-code web scraping and monitoring tool designed to simplify data extraction from websites for users without coding skills. Founded in 2020 by Ardy Naghshineh in Vancouver, Canada, its mission is to democratize access to web data, enabling individuals and businesses to gather insights effortlessly. The platform allows users to create 'robots' that extract structured data, monitor website changes, and integrate with tools like Google Sheets and Zapier. It serves a wide range of users, including marketers, researchers, and small businesses, by automating tasks like competitor price tracking and lead generation. Browse AI handles complex websites, including those with dynamic content or login requirements, making it a versatile solution for data-driven decision-making.",
+    "url": "https://www.browse.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.browse.ai.webp",
+    "category": "AI Web Scraping",
+    "categorySlug": "ai-web-scraping",
+    "slug": "browse-ai",
+    "categories": [
+        "AI Web Scraping",
+        "AI Document Extraction",
+        "No-Code&Low-Code",
+        "AI Monitor",
+        "AI API",
+        "AI Lead Generation",
+        "AI Shopping Assistant",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "No-code data extraction allows users to scrape structured data from any website using a point-and-click interface.",
+        "Automated website monitoring tracks changes on webpages and sends real-time notifications when updates occur.",
+        "Prebuilt robots for popular websites like LinkedIn and Amazon enable quick setup for common use cases.",
+        "Integration with over 7,000 apps, including Google Sheets and Zapier, streamlines data workflows.",
+        "Custom API creation turns any website into an API for seamless data integration into other systems.",
+        "Handles dynamic websites by adapting to layout changes, pagination, and infinite scrolling.",
+        "Login-protected data extraction enables scraping from sites requiring authentication.",
+        "Scheduled data extraction automates recurring tasks to keep datasets current.",
+        "Built-in bot detection and proxy management ensure reliable scraping without interruptions.",
+        "Data export options allow users to download scraped data as spreadsheets or sync with tools like Airtable.",
+        "Scalable infrastructure supports running up to 50,000 robots for large-scale data extraction.",
+        "Geolocation-based data extraction provides location-specific insights for targeted applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is Browse AI used for?",
+            "answer": "Browse AI is used to automate web data extraction and monitoring, enabling users to scrape data from websites and track changes without coding."
+        },
+        {
+            "question": "Do I need coding skills to use Browse AI?",
+            "answer": "No, Browse AI’s point-and-click interface allows users to create and manage scraping robots without any coding expertise."
+        },
+        {
+            "question": "Can Browse AI scrape data from websites requiring login?",
+            "answer": "Yes, Browse AI can extract data from login-protected pages by emulating user actions and handling authentication."
+        },
+        {
+            "question": "What types of websites can Browse AI scrape?",
+            "answer": "Browse AI can scrape nearly any website, including dynamic sites, e-commerce platforms, and those with pagination or JavaScript."
+        },
+        {
+            "question": "How does Browse AI handle website changes?",
+            "answer": "Browse AI’s robots automatically adapt to website layout changes to maintain accurate data extraction."
+        },
+        {
+            "question": "What integrations does Browse AI support?",
+            "answer": "Browse AI integrates with over 7,000 apps, including Google Sheets, Airtable, Zapier, and custom APIs via webhooks."
+        },
+        {
+            "question": "Is there a free plan available for Browse AI?",
+            "answer": "Yes, Browse AI offers a free plan with basic features, ideal for testing or small-scale data extraction."
+        },
+        {
+            "question": "Can Browse AI monitor websites for changes?",
+            "answer": "Yes, users can set up monitors to track specific website elements and receive alerts when changes occur."
+        },
+        {
+            "question": "What are some common use cases for Browse AI?",
+            "answer": "Common use cases include competitor price tracking, lead generation, real estate listing monitoring, and aggregating job postings."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "HairstyleAI",
+    "description": "HairstyleAI is an AI-driven platform that enables users to virtually try on various hairstyles, colors, and cuts using their uploaded photos for personalized styling insights.",
+    "longDescription": "HairstyleAI is an innovative online tool that leverages artificial intelligence to help users experiment with different hairstyles without the need for physical changes. Its mission is to empower individuals to make informed decisions about their appearance by providing realistic virtual simulations. The platform solves common problems like uncertainty in choosing a new look or the regret from unsatisfactory hair salon visits. By uploading a selfie, users can see AI-generated images of themselves with various styles, making it accessible for personal use, stylists, or even social media sharing. Overall, it democratizes hairstyle experimentation through technology, catering to diverse hair types and preferences.",
+    "url": "https://hairstyleai.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hairstyleai.ai.webp",
+    "category": "AI Hairstyle",
+    "categorySlug": "ai-hairstyle",
+    "slug": "hairstyleai",
+    "categories": [
+        "AI Hairstyle",
+        "AI Clothing Removal",
+        "AI Outfit Generator",
+        "AI Beauty",
+        "AI Photo Editor",
+        "AI Face Recognition",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Users can upload their photos and instantly generate realistic images with different hairstyles, helping them visualize potential changes before committing.",
+        "The AI supports a wide variety of hairstyle options, including cuts, lengths, and trends, tailored to individual face shapes and features.",
+        "Color experimentation allows users to try out hair dyes in various shades, from natural tones to bold colors, with accurate rendering.",
+        "High-quality image generation ensures photorealistic results, making the virtual try-on experience reliable and engaging.",
+        "Easy sharing features enable users to export and share their AI-generated looks on social media or with friends for feedback.",
+        "Customization options include adjusting hair texture, volume, and accessories to match personal style preferences.",
+        "The platform offers hairstyle recommendations based on user inputs like face shape or occasion, providing personalized suggestions.",
+        "Mobile-friendly interface allows seamless access on devices, making it convenient for on-the-go experimentation.",
+        "Privacy-focused design ensures uploaded photos are processed securely without long-term storage.",
+        "Integration with hair product recommendations links virtual styles to real-world styling tips or purchases."
+    ],
+    "faqs": [
+        {
+            "question": "What is HairstyleAI?",
+            "answer": "HairstyleAI is an AI-powered website that lets users upload photos to virtually try on different hairstyles and colors. It uses advanced image generation to create realistic previews."
+        },
+        {
+            "question": "How do I use HairstyleAI?",
+            "answer": "Simply upload a clear selfie, select from various hairstyle options, and the AI will generate images of you with the chosen styles. You can experiment with multiple variations and save or share the results."
+        },
+        {
+            "question": "Is HairstyleAI free to use?",
+            "answer": "Yes, it offers free access to core features with some limitations, such as a certain number of generations per day. Premium plans are available for unlimited use and advanced options."
+        },
+        {
+            "question": "What types of hairstyles can I try?",
+            "answer": "You can try a wide range including short cuts, long styles, curls, straight hair, updos, and more, with options for different colors and textures."
+        },
+        {
+            "question": "How accurate are the AI-generated images?",
+            "answer": "The images are highly realistic, using AI trained on diverse datasets to match your facial features accurately. However, results may vary based on photo quality and lighting."
+        },
+        {
+            "question": "Does HairstyleAI store my photos?",
+            "answer": "Photos are processed temporarily for generation and not stored long-term to ensure user privacy. You can delete any data at any time."
+        },
+        {
+            "question": "Can I use HairstyleAI for professional purposes?",
+            "answer": "Yes, stylists and salons can use it to show clients potential looks, enhancing consultations with visual aids."
+        },
+        {
+            "question": "What devices is HairstyleAI compatible with?",
+            "answer": "It's web-based and works on desktops, tablets, and smartphones, requiring only a modern browser and internet connection."
+        },
+        {
+            "question": "Are there any age or gender restrictions?",
+            "answer": "No, it's designed for all ages and genders, with inclusive options for diverse hair types and ethnicities."
+        },
+        {
+            "question": "How does the AI handle different face shapes?",
+            "answer": "The AI analyzes your face shape and suggests flattering styles, but you can manually select any option for experimentation."
+        }
+    ]
+}

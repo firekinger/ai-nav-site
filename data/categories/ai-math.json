@@ -1,0 +1,171 @@
+{
+    "title": "The Best 15 AI Math Tools in 2025",
+    "summary": "Unlock the power of numbers with our AI Math tools, designed to simplify complex calculations, enhance problem-solving skills, and boost your mathematical understanding. Whether you're a student, educator, or professional, these innovative solutions streamline your workflow, making math more accessible and efficient. From automated equation solvers to advanced statistical analysis, our curated selection meets diverse needs. Explore the transformative potential of AI in mathematics and elevate your skills today. Dive into our AI Math category and discover the tools that can revolutionize your approach to math!",
+    "tools": [
+        {
+            "id": "45",
+            "name": "Gauthmath",
+            "slug": "gauthmath",
+            "description": "Gauthmath is an AI-powered homework helper that provides instant math and science solutions with expert tutoring.",
+            "icon": "/logo/gauthmath.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "88",
+            "name": "Wolfram|Alpha",
+            "slug": "wolframoralpha",
+            "description": "Wolfram|Alpha is a computational knowledge engine that provides expert-level answers across various domains using curated data and advanced algorithms.",
+            "icon": "/logo/wolframalpha.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "222",
+            "name": "MathGPT",
+            "slug": "mathgpt",
+            "description": "MathGPT is an AI-powered platform designed to assist users in solving and understanding mathematical problems through interactive tools and explanations.",
+            "icon": "/logo/math-gpt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "513",
+            "name": "Thetawise",
+            "slug": "thetawise-ai",
+            "description": "Thetawise is an AI-powered math tutor providing instant help and step-by-step solutions for students.",
+            "icon": "/logo/thetawise.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "607",
+            "name": "Synthesis",
+            "slug": "synthesis",
+            "description": "Synthesis provides AI-driven math tutoring and team-based learning programs to foster problem-solving and critical thinking in children.",
+            "icon": "/logo/synthesis.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "611",
+            "name": "Luzia",
+            "slug": "luzia",
+            "description": "Luzia is an AI-powered virtual assistant that simplifies daily tasks and enhances productivity through natural conversation.",
+            "icon": "/logo/www.luzia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1420",
+            "name": "Math GPT",
+            "slug": "math-gpt-ai",
+            "description": "Math GPT is an AI-driven platform that assists users in solving mathematical problems and understanding concepts through advanced language models.",
+            "icon": "/logo/math-gpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "783",
+            "name": "Solvely",
+            "slug": "solvely-ai",
+            "description": "Solvely is an AI-powered homework assistant providing step-by-step solutions for math, science, and other academic subjects.",
+            "icon": "/logo/solvely.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "911",
+            "name": "Mathful",
+            "slug": "mathful",
+            "description": "Mathful is an AI-powered math solver that provides instant, step-by-step solutions to a wide range of mathematical problems, helping students learn and excel in math.",
+            "icon": "/logo/mathful.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1070",
+            "name": "TutorOcean",
+            "slug": "tutorocean",
+            "description": "TutorOcean is an online platform offering private tutoring services with both AI and human tutors for academic support across various subjects and levels.",
+            "icon": "/logo/www.tutorocean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1061",
+            "name": "EduBrain.ai",
+            "slug": "edubrain-ai",
+            "description": "EduBrain.ai is an AI-powered homework helper that provides quick, accurate, and stress-free solutions for students across various subjects and academic levels.",
+            "icon": "/logo/edubrain.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1194",
+            "name": "HandtextAI",
+            "slug": "handtextai",
+            "description": "HandtextAI is an AI-powered platform that converts digital text into realistic, customizable handwritten documents.",
+            "icon": "/logo/handtextai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1204",
+            "name": "SnapXam",
+            "slug": "snapxam",
+            "description": "SnapXam is an AI-powered math virtual assistant that helps students and teachers solve and understand math problems ranging from arithmetic to calculus.",
+            "icon": "/logo/www.snapxam.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1382",
+            "name": "ChatGPT5.so",
+            "slug": "chatgpt5-so",
+            "description": "ChatGPT5.so offers free, instant access to OpenAI's GPT-5 AI model without requiring login, enabling users to engage in conversations, coding, and complex problem-solving.",
+            "icon": "/logo/chatgpt5.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        },
+        {
+            "id": "1241",
+            "name": "Streamdown",
+            "slug": "streamdown-ai",
+            "description": "Streamdown is a specialized Markdown renderer designed as a drop-in replacement for react-markdown, optimized for AI-powered streaming with enhanced formatting and security features.",
+            "icon": "/logo/streamdown.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-math"
+            ]
+        }
+    ]
+}

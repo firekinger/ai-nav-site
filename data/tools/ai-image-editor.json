@@ -1,0 +1,75 @@
+{
+    "name": "AI Image Editor",
+    "description": "AI Image Editor is an online platform that leverages artificial intelligence to provide advanced image editing tools for users to enhance, manipulate, and generate images effortlessly.",
+    "longDescription": "AI Image Editor is a web-based tool designed to democratize image editing by integrating AI technologies, allowing users of all skill levels to perform complex edits without traditional software. Its mission is to simplify creative workflows, making professional-grade image manipulation accessible and efficient for hobbyists, designers, and businesses alike. The platform solves problems like time-consuming manual edits by automating tasks such as background removal, object inpainting, and style transfers. Users can upload images and apply AI-driven enhancements in real-time, fostering creativity and productivity. Overall, it serves as a bridge between advanced AI capabilities and everyday image editing needs, reducing the learning curve associated with tools like Photoshop.",
+    "url": "https://aiimageeditor.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aiimageeditor.ai.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "ai-image-editor",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Inpainting",
+        "Text to Image",
+        "AI Image Enhancer",
+        "AI Style Transfer",
+        "AI Photo Restoration",
+        "AI Image Upscaler",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI-powered background removal automatically detects and eliminates image backgrounds, enabling users to create transparent or customized backdrops quickly.",
+        "Object removal and inpainting use intelligent algorithms to erase unwanted elements from photos and seamlessly fill in the gaps for natural-looking results.",
+        "Image enhancement tools automatically adjust lighting, color, and sharpness to improve photo quality without manual tweaks.",
+        "Text-to-image generation allows users to create new visuals from descriptive prompts, supporting creative ideation and content creation.",
+        "Style transfer applies artistic styles from famous artworks or custom themes to user-uploaded images for unique transformations.",
+        "Upscaling feature increases image resolution using AI to maintain clarity and detail, ideal for printing or high-res displays.",
+        "Batch processing enables editing multiple images simultaneously, saving time for bulk tasks like e-commerce product photos.",
+        "Face restoration repairs old or damaged photos by enhancing facial details and reducing noise intelligently.",
+        "Colorization converts black-and-white images to color using AI predictions, bringing historical photos to life.",
+        "Custom filters and effects powered by AI allow for personalized adjustments, such as mood-based enhancements or seasonal themes."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Image Editor?",
+            "answer": "AI Image Editor is an online platform that uses artificial intelligence to simplify image editing tasks like background removal and enhancement. It caters to both beginners and professionals seeking quick, automated tools."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, AI Image Editor offers a free plan with access to core features, though it may include limitations on usage or advanced options. Users can upgrade to paid plans for unlimited access."
+        },
+        {
+            "question": "How do I remove backgrounds from images?",
+            "answer": "Simply upload your image to the platform, select the background removal tool, and the AI will automatically process it. You can then download the result or further edit it within the editor."
+        },
+        {
+            "question": "Can I generate images from text descriptions?",
+            "answer": "Yes, the text-to-image feature allows you to input descriptive prompts, and the AI generates corresponding visuals. This is great for creating custom artwork or concepts quickly."
+        },
+        {
+            "question": "What file formats are supported?",
+            "answer": "The platform supports common formats like JPEG, PNG, and GIF for uploads and downloads. Ensure your files are under the size limit for optimal performance."
+        },
+        {
+            "question": "Is my data secure on AI Image Editor?",
+            "answer": "Yes, the platform uses encryption and secure servers to protect user uploads. Images are typically deleted after processing unless you choose to save them in your account."
+        },
+        {
+            "question": "Can I use it for commercial purposes?",
+            "answer": "Yes, edited images can be used commercially, but check the terms for any restrictions on generated content. Paid plans often include broader usage rights."
+        },
+        {
+            "question": "How accurate is the AI for object removal?",
+            "answer": "The AI is highly accurate for most scenarios, using advanced models to detect and inpaint objects seamlessly. Complex images may require manual refinements for best results."
+        },
+        {
+            "question": "Does it require any software installation?",
+            "answer": "No, AI Image Editor is entirely web-based, accessible from any browser on desktop or mobile devices without downloads."
+        },
+        {
+            "question": "What if I'm not satisfied with the edit?",
+            "answer": "You can undo changes, try alternative AI suggestions, or manually adjust using built-in tools. Feedback options help improve the AI over time."
+        }
+    ]
+}

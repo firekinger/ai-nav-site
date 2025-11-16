@@ -1,0 +1,63 @@
+{
+    "name": "D-ID",
+    "description": "D-ID is an AI-powered platform for creating realistic video avatars and conversational agents to enhance digital communication.",
+    "longDescription": "D-ID is a leading generative AI platform specializing in transforming still images into dynamic, lifelike video avatars and real-time conversational AI agents. Founded in 2017, its mission is to humanize digital interactions by replacing traditional graphical user interfaces (GUI) with natural user interfaces (NUI), enabling intuitive, face-to-face communication without typing or clicking. The platform serves businesses in marketing, sales, customer experience, and e-learning by offering tools to create engaging, multilingual video content and interactive digital humans. With over 250 million videos generated and a robust API used by 280,000+ developers, D-ID integrates seamlessly with platforms like Microsoft Teams, Canva, and Google Slides. Its technology also supports accessibility, such as real-time sign language translation and communication solutions for individuals with conditions like ALS, restoring their ability to engage naturally.",
+    "url": "https://www.d-id.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.d-id.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "d-id",
+    "categories": [
+        "AI Video Generator",
+        "AI Chatbot",
+        "AI Avatar Video Generator",
+        "Text to Video",
+        "AI Translate",
+        "AI Developer Tools",
+        "AI Course"
+    ],
+    "features": [
+        "Creative Reality™ Studio enables users to generate AI-powered video avatars from a single image, creating engaging content in seconds.",
+        "D-ID’s API allows developers to integrate real-time video generation and conversational AI into applications for seamless user experiences.",
+        "Multilingual support enables avatars to speak in 120 languages, facilitating global reach for marketing and e-learning content.",
+        "Real-time conversational AI agents provide personalized, 24/7 customer service and support, enhancing user engagement.",
+        "Live Portrait feature animates still photos into speaking avatars, adding immersion to digital interactions.",
+        "Integration with platforms like Microsoft Teams, Canva, and Google Slides streamlines workflows for creating AI-driven presentations and videos.",
+        "Accessibility solutions offer real-time sign language translation and voice restoration for individuals with speech-limiting conditions.",
+        "High-security standards ensure data protection and compliance, safeguarding user privacy during video creation and interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is D-ID’s Creative Reality™ Studio?",
+            "answer": "Creative Reality™ Studio is D-ID’s tool for transforming still images into speaking AI video avatars quickly, requiring no technical expertise."
+        },
+        {
+            "question": "Can D-ID’s avatars speak in multiple languages?",
+            "answer": "Yes, D-ID supports video creation in over 120 languages, enabling global communication and localized content."
+        },
+        {
+            "question": "Is there a free plan available for D-ID?",
+            "answer": "D-ID offers a free plan with limited usage, allowing users to test core features before subscribing to premium plans."
+        },
+        {
+            "question": "How does D-ID ensure data security?",
+            "answer": "D-ID adheres to high security standards with advanced technology and strict compliance protocols to protect user data."
+        },
+        {
+            "question": "What industries benefit from D-ID’s technology?",
+            "answer": "D-ID serves marketing, sales, customer experience, and e-learning, creating engaging videos and AI agents for various use cases."
+        },
+        {
+            "question": "Can D-ID integrate with other platforms?",
+            "answer": "Yes, D-ID’s API and integrations support platforms like Microsoft Teams, Canva, and Google Slides for seamless content creation."
+        },
+        {
+            "question": "How does D-ID support accessibility?",
+            "answer": "D-ID provides real-time sign language translation and communication solutions for individuals with conditions like ALS, enhancing inclusivity."
+        },
+        {
+            "question": "What is the D-ID mobile app used for?",
+            "answer": "The D-ID mobile app allows users to create AI videos with talking avatars on the go, ideal for quick, personalized content creation."
+        }
+    ]
+}

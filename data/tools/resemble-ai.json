@@ -1,0 +1,69 @@
+{
+    "name": "Resemble AI",
+    "description": "Resemble AI provides enterprise-grade AI voice generation and deepfake detection solutions for realistic synthetic audio.",
+    "longDescription": "Resemble AI is a leading voice technology platform specializing in high-quality AI-generated synthetic voices and deepfake detection for enterprise applications. Founded in 2019, its mission is to deliver scalable, secure, and ethical voice AI solutions that enhance digital experiences while combating audio misuse. The platform serves industries like entertainment, gaming, advertising, and customer service by offering tools to create custom voices and localize content. It addresses challenges such as costly voice production and unauthorized deepfakes, ensuring authenticity and trust. Resemble AI’s intuitive interface and robust APIs make it accessible for both technical and non-technical users, streamlining voice content creation.",
+    "url": "https://www.resemble.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.resemble.ai.webp",
+    "category": "AI Voice Cloning",
+    "categorySlug": "ai-voice-cloning",
+    "slug": "resemble-ai",
+    "categories": [
+        "AI Voice Cloning",
+        "AI Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Content Detector",
+        "AI Watermark Remover",
+        "AI Audio Editing",
+        "AI Language Learning",
+        "AI API",
+        "AI Voice Assistants",
+        "AI Chat Generator",
+        "AI Advertising"
+    ],
+    "features": [
+        "Text-to-speech generates realistic synthetic voices from written text, ideal for audiobooks and virtual assistants.",
+        "Speech-to-speech converts existing audio into a cloned AI voice, enabling seamless voiceovers.",
+        "Voice cloning creates a digital replica of a voice with as little as 10 seconds of audio, enhancing personalization.",
+        "Resemble Localize translates and converts voices into up to 149 languages, expanding global reach.",
+        "Deepfake detection identifies synthetic audio with 98% accuracy, protecting against fraud and misinformation.",
+        "Resemble Fill allows generative audio editing to modify existing speech, perfect for dynamic ads.",
+        "PerTh watermarker embeds imperceptible data into AI-generated audio for content provenance and traceability.",
+        "Real-time APIs enable instant voice synthesis for interactive applications like chatbots.",
+        "Emotion control adjusts synthetic voices to express happiness, sadness, or other emotions, enhancing engagement.",
+        "Neural audio editing simplifies professional-grade audio production without coding expertise."
+    ],
+    "faqs": [
+        {
+            "question": "What is Resemble AI used for?",
+            "answer": "Resemble AI creates synthetic voices for applications like gaming, audiobooks, advertising, and virtual assistants, while also detecting deepfakes."
+        },
+        {
+            "question": "Does Resemble AI offer a free trial?",
+            "answer": "Yes, Resemble AI provides a free trial without requiring a credit card, allowing limited access to features excluding voice cloning."
+        },
+        {
+            "question": "How long does it take to clone a voice?",
+            "answer": "Voice cloning can be done with 30 seconds of audio, but recording 100 sentences (about 10 minutes) ensures high quality."
+        },
+        {
+            "question": "Can I use Resemble AI for multilingual projects?",
+            "answer": "Yes, Resemble Localize supports up to 149 languages, with common ones like Spanish and French available on lower-tier plans."
+        },
+        {
+            "question": "Is voice cloning ethical on Resemble AI?",
+            "answer": "Resemble AI requires consent for third-party voice cloning and has strict ethical guidelines to prevent misuse."
+        },
+        {
+            "question": "How accurate is Resemble AI’s deepfake detection?",
+            "answer": "Resemble Detect offers 98% accuracy in identifying synthetic audio, ensuring robust protection against deepfakes."
+        },
+        {
+            "question": "Can I integrate Resemble AI with my application?",
+            "answer": "Yes, Resemble AI provides low-latency APIs for seamless integration into apps, chatbots, and other platforms."
+        },
+        {
+            "question": "What industries use Resemble AI?",
+            "answer": "Resemble AI is used in entertainment, gaming, advertising, customer service, and education for voice synthesis and localization."
+        }
+    ]
+}

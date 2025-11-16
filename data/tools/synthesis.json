@@ -1,0 +1,65 @@
+{
+    "name": "Synthesis",
+    "description": "Synthesis provides AI-driven math tutoring and team-based learning programs to foster problem-solving and critical thinking in children.",
+    "longDescription": "Synthesis is an innovative educational platform born out of an experimental school at SpaceX, designed to cultivate critical thinking, teamwork, and problem-solving skills in children aged 5 and up. It offers two primary products: Synthesis Tutor, an AI-powered math tutor that adapts to individual learning needs, and Synthesis Teams, a social strategy gaming program that promotes leadership and collaboration. The platform leverages advanced technology to create engaging, gamified learning experiences that make complex topics like math accessible and enjoyable. Originally exclusive to SpaceX families, Synthesis now serves a global community, aiming to show kids that any subject can be fascinating when taught effectively. Its mission is to advance human progress through education by empowering students to tackle complexity and solve unknown challenges.",
+    "url": "https://synthesis.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/synthesis.com.webp",
+    "category": "AI Tutorial",
+    "categorySlug": "ai-tutorial",
+    "slug": "synthesis",
+    "categories": [
+        "AI Tutorial",
+        "AI Course",
+        "AI Math",
+        "AI Writing Assistants",
+        "AI Language Learning",
+        "AI Lesson Plan Generator"
+    ],
+    "features": [
+        "Synthesis Tutor provides adaptive, AI-driven math lessons that target individual knowledge gaps to build strong foundational skills.",
+        "Synthesis Teams offers interactive strategy games that develop teamwork, leadership, and decision-making skills through real-world simulations.",
+        "The platform includes hands-on activities and clear visualizations to make abstract math concepts engaging and understandable.",
+        "Synthesis Tutor delivers personalized, step-by-step guidance, mimicking the experience of learning with a real teacher.",
+        "Monthly feedback reports in Synthesis Teams track a child’s progress, highlighting strengths and areas for improvement.",
+        "The platform supports a K-5 math curriculum, ensuring comprehensive coverage tailored to each student’s level.",
+        "Synthesis games are designed to foster creativity, mental agility, and multi-step decision-making in a collaborative environment.",
+        "The AI tutor adapts in real-time to a student’s skill level, ensuring neither frustration nor boredom during learning.",
+        "Synthesis Teams connects students globally, allowing them to collaborate with peers from over 50 countries.",
+        "The platform’s gamified approach draws children in, encouraging voluntary engagement without parental prompting.",
+        "Synthesis Tutor is available on iPad and desktop, offering flexible access for home or classroom use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Synthesis Tutor?",
+            "answer": "Synthesis Tutor is an AI-powered math tutoring app that adapts to a child’s skill level, providing personalized lessons to build strong math foundations."
+        },
+        {
+            "question": "What age group is Synthesis designed for?",
+            "answer": "Synthesis is designed for children aged 5 and up, with programs tailored to various skill levels, including emerging readers."
+        },
+        {
+            "question": "Does Synthesis offer a free trial?",
+            "answer": "Yes, Synthesis provides a free trial for its Tutor program, including access to adaptive flashcards for multiplication practice."
+        },
+        {
+            "question": "How does Synthesis Teams work?",
+            "answer": "Synthesis Teams involves weekly strategy games where kids collaborate globally, guided by mentors to develop leadership and communication skills."
+        },
+        {
+            "question": "Can Synthesis be used in schools?",
+            "answer": "Yes, Synthesis Tutor is designed for classroom use, adapting to individual student levels to support teachers with diverse classrooms."
+        },
+        {
+            "question": "What topics does Synthesis Tutor cover?",
+            "answer": "Synthesis Tutor covers the K-5 math curriculum, including topics like addition, fractions, division, factors, and more."
+        },
+        {
+            "question": "Is parental involvement required for Synthesis Teams?",
+            "answer": "Synthesis Teams encourages minimal parental involvement, allowing kids to lead sessions and develop independence."
+        },
+        {
+            "question": "How does Synthesis differ from traditional math tools?",
+            "answer": "Unlike textbook-based tools, Synthesis uses AI and gamification to create engaging, adaptive learning experiences that build deep understanding."
+        }
+    ]
+}

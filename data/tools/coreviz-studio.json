@@ -1,0 +1,74 @@
+{
+    "name": "CoreViz Studio",
+    "description": "CoreViz Studio is a visual AI platform that helps organizations analyze, search, edit, tag, organize, and categorize photos and videos using advanced computer vision and machine learning.",
+    "longDescription": "CoreViz Studio is an AI-driven platform designed to manage and extract insights from visual content such as photos and videos without requiring coding expertise. Its mission is to democratize access to advanced computer vision technologies, enabling teams of all sizes to make data-driven decisions from their media libraries. The platform serves users by integrating seamlessly with existing storage solutions, automating processing workflows, and supporting natural language queries for intuitive interaction. It addresses challenges in industries like forensics, healthcare, and manufacturing by providing tools for real-time analysis, similarity matching, and anomaly detection. Ultimately, CoreViz Studio empowers organizations to unlock hidden patterns and trends in visual data, enhancing productivity and collaboration.",
+    "url": "https://coreviz.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/coreviz.io.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "coreviz-studio",
+    "categories": [
+        "AI Image Recognition",
+        "AI Photo Editor",
+        "AI Text Classifier",
+        "AI Models",
+        "AI Workflow"
+    ],
+    "features": [
+        "Natural Language Search: Find images and videos by describing them in plain English without manual tagging or complex filters.",
+        "AI-Powered Editing: Edit photos by removing backgrounds, objects, or enhancing quality through simple descriptions.",
+        "Automated Tagging and Organization: Add tags and categorize photos by describing content or categories using AI.",
+        "Visual Similarity Matching: Discover visually similar content across the entire library for quality control and brand consistency.",
+        "Smart Analytics: Provide instant insights into patterns, trends, and anomalies in visual data.",
+        "Real-time Processing: Analyze content as it arrives, ideal for live monitoring and quick decisions.",
+        "Automated Reports: Generate comprehensive reports with key findings and trends for team sharing.",
+        "Data Connectors: Connect to existing storage like Google Drive, Dropbox, or data lakes for seamless integration.",
+        "Collaborative Workflows: Share insights and create custom workflows for real-time team collaboration.",
+        "Specialized AI Models: Access industry-specific models for tasks like forensic analysis or medical imaging.",
+        "Enterprise Security: Offer bank-grade encryption and access controls to protect sensitive data.",
+        "Developer Tools: Integrate visual AI capabilities into applications using a comprehensive SDK and REST API.",
+        "Flexible Deployment: Provide options for cloud-hosted SaaS, private cloud, or on-premises installations."
+    ],
+    "faqs": [
+        {
+            "question": "What is CoreViz Studio?",
+            "answer": "CoreViz Studio is a visual AI platform that analyzes and searches through image and video content using natural language queries and advanced computer vision."
+        },
+        {
+            "question": "How accurate is CoreViz Studio?",
+            "answer": "It achieves 95.9% accuracy in object detection and analysis using proprietary models and provides confidence scores with results."
+        },
+        {
+            "question": "What types of visual content can CoreViz process?",
+            "answer": "It can process images (JPEG, PNG, TIFF), videos (MP4, AVI, MOV), and specialized formats like medical imagery and satellite data."
+        },
+        {
+            "question": "How does CoreViz integrate with existing systems?",
+            "answer": "It supports connections to AWS S3, Google Cloud, Azure, and other systems via a comprehensive API, with most implementations up and running in days."
+        },
+        {
+            "question": "What security measures does CoreViz offer?",
+            "answer": "It provides bank-grade encryption, enterprise-level access controls, and on-premises deployment options for data sovereignty."
+        },
+        {
+            "question": "Does CoreViz offer a free plan?",
+            "answer": "Yes, it offers a free plan for individuals with 100 free credits, 1 team member, and 2 custom workflows."
+        },
+        {
+            "question": "Can CoreViz be deployed on-premises?",
+            "answer": "Yes, it offers on-premises installations for organizations with strict data governance requirements."
+        },
+        {
+            "question": "How is pricing structured?",
+            "answer": "Pricing is based on content volume and features, with tiers for individuals, teams, and enterprises, and a free trial is available."
+        },
+        {
+            "question": "What industries can benefit from CoreViz?",
+            "answer": "Industries like research, media, manufacturing, law enforcement, healthcare, and arts benefit from its visual AI capabilities."
+        },
+        {
+            "question": "How does CoreViz handle real-time content?",
+            "answer": "It processes and analyzes content in real-time, making it suitable for live monitoring and quick decisions."
+        }
+    ]
+}

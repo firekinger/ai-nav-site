@@ -1,0 +1,73 @@
+{
+    "name": "Neural Frames",
+    "description": "Neural Frames is an AI-powered platform that generates animated videos from text prompts, enabling users to create music videos, animations, and visual content effortlessly.",
+    "longDescription": "Neural Frames is an innovative AI tool that allows users to create high-quality animated videos simply by entering text prompts, leveraging advanced models like Stable Diffusion to produce frames and compile them into cohesive videos. Its mission is to make video creation accessible to everyone, from beginners to professionals, without requiring expensive software or technical expertise. The platform solves the problem of time-intensive video production by automating the generation process, enabling rapid prototyping of ideas for content creators, marketers, and educators. Users can customize aspects like style, music, and effects to fit their needs, serving industries such as entertainment, advertising, and education. Overall, Neural Frames democratizes AI-driven creativity, turning textual ideas into visual stories in minutes.",
+    "url": "https://www.neuralframes.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.neuralframes.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "neural-frames",
+    "categories": [
+        "AI Video Generator",
+        "AI Animation Generator",
+        "AI Music Video Generator",
+        "AI Creative Writing",
+        "AI Video Editor",
+        "AI Writing",
+        "AI Story Generator"
+    ],
+    "features": [
+        "Text-to-video generation converts user-provided text prompts into fully animated videos, saving time on manual creation.",
+        "Customizable animation styles allow users to select from various artistic effects and themes to match their creative vision.",
+        "Music synchronization integrates audio tracks with generated videos, ideal for creating music videos or sound-enhanced animations.",
+        "High-resolution output supports up to 4K video quality, ensuring professional-grade results for sharing or commercial use.",
+        "Prompt optimization tools help refine text inputs for better AI-generated outcomes, improving accuracy and creativity.",
+        "Video editing features enable post-generation tweaks like adding text overlays or adjusting timing, enhancing user control.",
+        "Batch generation processes multiple video prompts simultaneously, boosting efficiency for high-volume users.",
+        "Community sharing allows users to upload and browse generated videos, fostering inspiration and collaboration.",
+        "Flicker reduction technology minimizes visual artifacts in animations, resulting in smoother and more polished videos.",
+        "Real-time previews provide instant feedback on video generation progress, allowing for quick iterations."
+    ],
+    "faqs": [
+        {
+            "question": "What is Neural Frames?",
+            "answer": "Neural Frames is an AI platform that generates animated videos from text prompts using advanced AI models. It simplifies video creation for users without animation skills."
+        },
+        {
+            "question": "How do I create a video on Neural Frames?",
+            "answer": "Enter a text prompt describing your desired video, customize options like style and music, and let the AI generate it. You can preview and edit before finalizing."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Neural Frames offers a free plan with limited credits for generating a few videos. This allows users to test the platform before upgrading to paid tiers."
+        },
+        {
+            "question": "What types of videos can I make?",
+            "answer": "You can create music videos, explainer animations, abstract art videos, and more. The AI handles various styles based on your text input."
+        },
+        {
+            "question": "How long does it take to generate a video?",
+            "answer": "Generation typically takes a few minutes depending on complexity and resolution. High-quality videos may require additional processing time."
+        },
+        {
+            "question": "Can I use my own music in videos?",
+            "answer": "Yes, you can upload or integrate your own audio tracks to sync with the generated animations. This feature is available in both free and paid plans."
+        },
+        {
+            "question": "What AI technology powers Neural Frames?",
+            "answer": "It uses models like Stable Diffusion for frame generation and additional AI for animation and enhancement. This ensures high-quality, creative outputs."
+        },
+        {
+            "question": "Is Neural Frames suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and prompt-based system make it easy for beginners to create videos without prior experience."
+        },
+        {
+            "question": "How do I improve video quality?",
+            "answer": "Use detailed prompts, select higher resolutions, and apply flicker reduction. Experimenting with styles can also enhance results."
+        },
+        {
+            "question": "Can I share generated videos?",
+            "answer": "Yes, videos can be downloaded and shared freely. There's also a community gallery for uploading and viewing others' creations."
+        }
+    ]
+}

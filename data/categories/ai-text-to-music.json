@@ -1,0 +1,61 @@
+{
+    "title": "The Best 5 AI Text-to-Music Tools in 2025",
+    "summary": "Discover the transformative world of AI Text-to-Music tools, where your words become melodies. These innovative solutions empower creators, marketers, and hobbyists to effortlessly convert text into captivating musical compositions. Whether you’re looking to enhance your content, create unique soundtracks, or explore new artistic avenues, these tools offer unparalleled convenience and creativity. Unlock the potential of your ideas and elevate your projects with custom music tailored to your vision. Dive into our curated selection of AI Text-to-Music tools and start composing your next masterpiece today!",
+    "tools": [
+        {
+            "id": "159",
+            "name": "Riffusion",
+            "slug": "riffusion",
+            "description": "Riffusion is an AI-powered platform that generates music from text prompts, enabling users to create unique audio compositions effortlessly.",
+            "icon": "/logo/www.riffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-text-to-music"
+            ]
+        },
+        {
+            "id": "232",
+            "name": "Mureka",
+            "slug": "mureka",
+            "description": "Mureka is an AI-powered platform for creating and managing music and audio content.",
+            "icon": "/logo/www.mureka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-text-to-music"
+            ]
+        },
+        {
+            "id": "712",
+            "name": "Mubert",
+            "slug": "mubert",
+            "description": "Mubert is an AI-powered platform that generates royalty-free music for content creators, streamers, and businesses.",
+            "icon": "/logo/mubert.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-text-to-music"
+            ]
+        },
+        {
+            "id": "1042",
+            "name": "AI Music Generator",
+            "slug": "ai-music-generator",
+            "description": "AI Music Generator is an online platform that uses artificial intelligence to create custom music tracks based on user inputs like text descriptions, genres, and moods.",
+            "icon": "/logo/ai-music-generator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-text-to-music"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Suno",
+            "slug": "suno",
+            "description": "Suno is an AI-powered platform that transforms text prompts into original music and songs.",
+            "icon": "/logo/suno.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-text-to-music"
+            ]
+        }
+    ]
+}

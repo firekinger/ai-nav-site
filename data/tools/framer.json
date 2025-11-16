@@ -1,0 +1,64 @@
+{
+    "name": "Framer",
+    "description": "Framer is a web design and prototyping tool for creating interactive, visually stunning websites and applications.",
+    "longDescription": "Framer is a powerful web design platform that enables designers and developers to create responsive, interactive websites and prototypes without extensive coding. It combines visual design tools with code-based flexibility, making it ideal for professionals building polished user interfaces and web experiences. The platform supports teams in streamlining workflows through collaboration features and integrations with tools like Figma and Sketch. Framer’s mission is to empower creators to bring their ideas to life quickly and efficiently, bridging the gap between design and development. Its intuitive interface and robust feature set cater to both beginners and advanced users, fostering creativity and precision in web design projects. The platform also offers a growing library of templates and resources to accelerate the design process.",
+    "url": "https://www.framer.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.framer.com.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "framer",
+    "categories": [
+        "AI Design Assistant",
+        "AI App Builder",
+        "AI UX Design",
+        "AI Productivity Tools",
+        "AI Project Management",
+        "AI SEO Tools"
+    ],
+    "features": [
+        "Framer’s drag-and-drop interface allows users to create responsive layouts with ease, simplifying the design process for all skill levels.",
+        "The platform supports code components, enabling developers to integrate custom React code for advanced functionality and interactivity.",
+        "Real-time collaboration tools let teams work together seamlessly, providing feedback and iterating designs in a shared workspace.",
+        "Framer’s CMS feature enables users to manage dynamic content, making it easy to create data-driven websites like blogs or portfolios.",
+        "Built-in animations and transitions allow designers to craft engaging, interactive user experiences without external tools.",
+        "The platform offers a wide range of pre-built templates, helping users kickstart projects with professional, customizable designs.",
+        "Framer integrates with popular design tools like Figma, Sketch, and Photoshop, streamlining workflows for design teams.",
+        "SEO tools and analytics integrations help users optimize their websites for search engines and track performance metrics.",
+        "The prototyping feature enables users to create interactive mockups, allowing for user testing and stakeholder feedback before development.",
+        "Framer’s hosting solution provides fast, secure, and scalable deployment for websites, with automatic SSL and global CDN support."
+    ],
+    "faqs": [
+        {
+            "question": "What is Framer used for?",
+            "answer": "Framer is used for designing and prototyping responsive websites and applications, offering tools for visual design, animations, and code integration."
+        },
+        {
+            "question": "Does Framer require coding skills?",
+            "answer": "No, Framer’s drag-and-drop interface is beginner-friendly, but it also supports custom code for advanced users who want more control."
+        },
+        {
+            "question": "Is there a free plan available on Framer?",
+            "answer": "Yes, Framer offers a free plan with limited features, suitable for small projects or exploring the platform’s capabilities."
+        },
+        {
+            "question": "Can I collaborate with my team on Framer?",
+            "answer": "Yes, Framer provides real-time collaboration tools, allowing multiple team members to work on designs simultaneously."
+        },
+        {
+            "question": "Does Framer support website hosting?",
+            "answer": "Yes, Framer includes a hosting solution with automatic SSL, global CDN, and reliable performance for deployed websites."
+        },
+        {
+            "question": "Can I integrate Framer with other design tools?",
+            "answer": "Framer integrates seamlessly with tools like Figma, Sketch, and Photoshop to enhance design workflows."
+        },
+        {
+            "question": "Is Framer suitable for building dynamic websites?",
+            "answer": "Yes, Framer’s CMS feature allows users to manage dynamic content, making it ideal for blogs, portfolios, or e-commerce sites."
+        },
+        {
+            "question": "How does Framer handle animations?",
+            "answer": "Framer offers built-in tools to create smooth animations and transitions, enhancing user engagement without requiring external software."
+        }
+    ]
+}

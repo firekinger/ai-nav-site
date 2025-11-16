@@ -1,0 +1,70 @@
+{
+    "name": "Veo 3",
+    "description": "Veo 3 is an AI tool that generates videos with synchronized audio, including sound effects, dialogue, and ambient noise, using text descriptions or image references.",
+    "longDescription": "Veo 3 is Google's AI tool designed to generate videos with perfectly synced audio, including sound effects, dialogue, and ambient noise. It uses advanced AI technology to create realistic videos that reflect real-world physics and natural motion. Users can input text descriptions or images to generate videos, and customize audio to enhance their clips. The tool is accessible via a simple interface, suitable for users without technical skills, and supports commercial use through subscription plans and enterprise access. It aims to bring stories to life by combining video and audio generation in a seamless experience.",
+    "url": "https://veo3.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/veo3.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "veo-3-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Audio Editing",
+        "AI Sound Effect Generator",
+        "AI Lip Sync Generator",
+        "AI Video Editor",
+        "AI Social Media Post Generator",
+        "AI Productivity Tools",
+        "AI Music Generator"
+    ],
+    "features": [
+        "Automatically adds sound effects, ambient noises, and dialogue to videos with native audio generation.",
+        "Matches character speech perfectly with mouth movements for realistic lip sync.",
+        "Generates videos that reflect real-world physics for natural motion and visuals using physics-based video simulation.",
+        "Allows video generation using text descriptions or image references with multi-input prompts.",
+        "Enables easy creation of cinematic clips by integrating with Google's Flow video editor.",
+        "Provides access for enterprise users via Google's Vertex AI platform for scalable video generation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Veo 3?",
+            "answer": "Veo 3 is Google's AI tool that generates videos with synchronized audio, including sound effects and dialogue."
+        },
+        {
+            "question": "How does Veo 3 differ from Google Flow?",
+            "answer": "Veo 3 and Google Flow both use the official Google VEO3 model, but Veo 3 has no daily limits while Google Flow does."
+        },
+        {
+            "question": "What is the video length supported by Veo 3?",
+            "answer": "Currently, Veo 3 focuses on creating high-quality 8-second videos, with longer formats planned for future updates."
+        },
+        {
+            "question": "Can Veo 3 be used commercially?",
+            "answer": "Yes, Veo 3 supports commercial use through appropriate subscription plans and enterprise access."
+        },
+        {
+            "question": "What types of audio can Veo 3 create?",
+            "answer": "It can create ambient sounds, character dialogue, and realistic sound effects native to the video."
+        },
+        {
+            "question": "Can videos created with Veo 3 be shared on social media?",
+            "answer": "Yes, videos created with Veo 3 can be shared on social media platforms, making it easy to create engaging content."
+        },
+        {
+            "question": "Is Veo 3 easy to use for non-technical users?",
+            "answer": "Yes, Veo 3 offers a simple interface suitable for users without technical skills."
+        },
+        {
+            "question": "What makes Veo 3 unique?",
+            "answer": "Veo 3 stands out by combining video with perfectly synced audio, a feature few competitors offer."
+        },
+        {
+            "question": "How do I get started with Veo 3?",
+            "answer": "Sign up or log in to create an account, then enter a text prompt or upload images to generate videos."
+        },
+        {
+            "question": "Can I customize the audio in my videos?",
+            "answer": "Yes, you can add instructions for sound effects, dialogue, or ambient noise to enhance your video."
+        }
+    ]
+}

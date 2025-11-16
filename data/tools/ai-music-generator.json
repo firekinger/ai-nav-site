@@ -1,0 +1,71 @@
+{
+    "name": "AI Music Generator",
+    "description": "AI Music Generator is an online platform that uses artificial intelligence to create custom music tracks based on user inputs like text descriptions, genres, and moods.",
+    "longDescription": "AI Music Generator is a web-based tool designed to democratize music creation by leveraging advanced AI algorithms to generate original music compositions. Its mission is to empower users, from hobbyists to professional musicians, to produce high-quality tracks without needing extensive musical knowledge or equipment. The platform solves the problem of accessibility in music production by allowing users to input simple prompts, such as lyrics or style preferences, and receive fully composed songs in seconds. It serves a wide range of users including content creators, filmmakers, and educators who need royalty-free music for their projects. By integrating machine learning models trained on vast music datasets, it ensures diverse and creative outputs tailored to individual needs.",
+    "url": "https://ai-music-generator.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ai-music-generator.ai.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "ai-music-generator",
+    "categories": [
+        "AI Music Generator",
+        "AI Text-to-Music",
+        "AI Creative Writing",
+        "AI Audio Editing",
+        "AI Lyrics Generator"
+    ],
+    "features": [
+        "Users can generate complete songs or instrumentals by entering text prompts describing the desired style, mood, or theme, making music creation intuitive and accessible.",
+        "The platform offers a variety of genres and instruments to choose from, allowing for customization and experimentation in music production.",
+        "Generated tracks are royalty-free, enabling users to use them in personal or commercial projects without licensing concerns.",
+        "An editing interface lets users refine AI-generated music by adjusting elements like tempo, key, or adding vocals.",
+        "Integration with social media allows easy sharing of created music directly from the platform.",
+        "A library of pre-made templates provides starting points for users new to music generation.",
+        "Real-time collaboration features enable multiple users to work on a track simultaneously.",
+        "Export options in various formats like MP3 or WAV ensure compatibility with other software and devices.",
+        "AI-powered lyrics generation complements music creation by suggesting words that fit the melody.",
+        "Personalized playlists curate user-generated tracks based on listening history and preferences."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Music Generator?",
+            "answer": "AI Music Generator is an online tool that uses artificial intelligence to create original music based on user inputs. It allows anyone to generate songs without musical expertise."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, the platform offers a free tier with limited generations per month. Users can upgrade to paid plans for unlimited access and advanced features."
+        },
+        {
+            "question": "How do I generate a song?",
+            "answer": "Simply enter a text prompt describing the music you want, select a genre or mood, and the AI will create a track in seconds. You can then edit or regenerate as needed."
+        },
+        {
+            "question": "Are the generated tracks royalty-free?",
+            "answer": "Yes, all music created on the platform is royalty-free for personal and commercial use, as long as you adhere to the terms of service."
+        },
+        {
+            "question": "Can I collaborate with others?",
+            "answer": "The platform supports real-time collaboration, allowing multiple users to edit and refine tracks together."
+        },
+        {
+            "question": "What file formats can I export?",
+            "answer": "You can export tracks in popular formats like MP3, WAV, and MIDI for easy integration into other projects."
+        },
+        {
+            "question": "Does it support lyrics generation?",
+            "answer": "Yes, the AI can generate lyrics that match the music's style and theme, enhancing the song creation process."
+        },
+        {
+            "question": "Is the AI music original?",
+            "answer": "The AI generates original compositions based on trained models, ensuring unique outputs while drawing inspiration from various musical styles."
+        },
+        {
+            "question": "What devices is it compatible with?",
+            "answer": "It's a web-based platform accessible on desktops, tablets, and smartphones via modern browsers."
+        },
+        {
+            "question": "How does the pricing work?",
+            "answer": "Pricing includes a free plan with basic features and premium subscriptions starting at a monthly fee for unlimited generations and priority support."
+        }
+    ]
+}

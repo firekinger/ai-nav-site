@@ -1,0 +1,67 @@
+{
+    "name": "Slidebean",
+    "description": "Slidebean is an AI-powered platform that helps startups create professional pitch decks and financial models to secure investor funding.",
+    "longDescription": "Slidebean is a cloud-based presentation and fundraising platform designed to simplify the creation of investor-ready pitch decks and financial models for startups. Founded in 2014, its mission is to empower founders by providing tools and services that streamline the pitching process, allowing them to focus on content rather than design. The platform leverages AI to automate slide design, ensuring visually appealing presentations with minimal effort. Slidebean also offers expert services, including pitch deck writing and financial modeling, to help startups craft compelling stories and secure funding. With a track record of assisting over 30,000 startups that have collectively raised more than $500 million, Slidebean is a trusted resource for entrepreneurs navigating the fundraising landscape. Its user-friendly interface and comprehensive toolkit make it ideal for startups, small businesses, and consultants.",
+    "url": "https://slidebean.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/slidebean.com.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "slidebean",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Pitch Deck Generator",
+        "AI For Finance",
+        "AI Investing",
+        "AI Design Assistant",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "The AI-powered Pitch Deck Builder automates slide design, allowing users to create professional presentations quickly by focusing on content.",
+        "Financial Modeling Templates help startups organize financial data, plan funding rounds, and forecast revenue with investor-ready projections.",
+        "The Investor Finder tool connects founders with potential investors tailored to their business, streamlining the fundraising process.",
+        "Presentation Insights tracks slide views and time spent, providing analytics to refine pitches based on investor engagement.",
+        "Slidebean Agency offers custom pitch deck writing and design by a team of analysts, storytellers, and designers for tailored solutions.",
+        "The Fundraising Kit provides video tutorials, auto-generated documents, and investor-matching surveys to prepare startups for pitching.",
+        "Pre-built templates, inspired by successful startups like Airbnb and Uber, enable users to create polished pitch decks with ease.",
+        "Online collaboration allows team members to edit and sync presentations in real-time, enhancing productivity for remote teams.",
+        "Export options enable users to save presentations as PDF, PPT, or HTML for versatile sharing and compatibility."
+    ],
+    "faqs": [
+        {
+            "question": "What is Slidebean used for?",
+            "answer": "Slidebean is used to create professional pitch decks and financial models for startups, helping founders pitch investors effectively."
+        },
+        {
+            "question": "Does Slidebean offer a free plan?",
+            "answer": "Yes, Slidebean offers a free Basic Plan that allows users to create unlimited presentations with limited export and sharing options."
+        },
+        {
+            "question": "How does the AI Pitch Deck Builder work?",
+            "answer": "The AI Pitch Deck Builder automates slide design by organizing user-provided content into visually appealing templates, saving time on formatting."
+        },
+        {
+            "question": "Can Slidebean help with financial modeling?",
+            "answer": "Yes, Slidebean provides templates and expert services to create investor-ready financial models, including forecasting and budgeting tools."
+        },
+        {
+            "question": "What types of businesses use Slidebean?",
+            "answer": "Slidebean is primarily used by startups, small businesses, consultants, and academics to create pitch decks and presentations."
+        },
+        {
+            "question": "How does the Investor Finder feature work?",
+            "answer": "The Investor Finder matches startups with potential investors based on their business profile, delivering weekly investor leads to users."
+        },
+        {
+            "question": "Can I collaborate with my team on Slidebean?",
+            "answer": "Yes, Slidebean supports real-time collaboration, allowing team members to edit and sync presentations seamlessly."
+        },
+        {
+            "question": "What formats can I export my presentations to?",
+            "answer": "Slidebean presentations can be exported as PDF, PPT, or HTML, offering flexibility for sharing and presenting."
+        },
+        {
+            "question": "Does Slidebean provide professional design services?",
+            "answer": "Yes, Slidebean Agency offers custom pitch deck design and writing services by a team of experts for investor-ready presentations."
+        }
+    ]
+}

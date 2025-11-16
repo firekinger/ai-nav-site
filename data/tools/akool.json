@@ -1,0 +1,67 @@
+{
+    "name": "AKOOL",
+    "description": "AKOOL is a generative AI platform for creating personalized visual marketing and advertising content.",
+    "longDescription": "AKOOL is an award-winning generative AI platform designed to simplify and enhance visual storytelling for businesses and creators. It empowers users to produce high-quality, personalized videos and images for marketing, e-commerce, and education with minimal effort. By leveraging advanced AI tools, AKOOL streamlines content creation, making it faster, more affordable, and accessible without requiring technical skills. The platform supports a variety of industries, helping users craft engaging campaigns, training materials, and social media content. Its mission is to democratize professional-grade video production, enabling businesses to connect with global audiences effectively. Trusted by over 40,000 companies, AKOOL combines cutting-edge technology with enterprise-grade security to deliver impactful results.",
+    "url": "https://akool.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/akool.com.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "akool",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Video Generator",
+        "AI Avatar Video Generator",
+        "Image to Video",
+        "AI Image Generator",
+        "AI Background Generator",
+        "AI Video Editor",
+        "AI Marketing",
+        "AI Translate",
+        "AI Vtuber"
+    ],
+    "features": [
+        "Face Swap allows users to seamlessly swap faces in photos or videos, creating realistic, high-resolution content for marketing or entertainment.",
+        "Video Translation enables real-time translation of videos into 175+ languages with synchronized lip movements for global audience engagement.",
+        "Talking Avatars bring static images to life with natural expressions, gestures, and customizable voices for interactive presentations.",
+        "Image-to-Video converts static images into dynamic videos with AI-driven animations, music, and effects for social media or ads.",
+        "Background Customization lets users remove or change image and video backgrounds to align with branding or creative needs.",
+        "AI Image Generation creates high-quality, customizable visuals from text prompts, ideal for marketing and artistic projects.",
+        "Streaming Avatars provide hyper-realistic virtual presenters for training, events, or customer interactions, enhancing engagement.",
+        "Smart Editing Tools automatically generate polished scenes, transitions, and edits, reducing video production time.",
+        "Hyper-Personalization dynamically tailors videos with names, offers, or localized messaging for targeted campaigns."
+    ],
+    "faqs": [
+        {
+            "question": "What is AKOOL used for?",
+            "answer": "AKOOL is a generative AI platform for creating personalized videos and images for marketing, e-commerce, education, and entertainment."
+        },
+        {
+            "question": "Does AKOOL offer a free plan?",
+            "answer": "Yes, AKOOL provides a free version of its face-swap tool and a free trial for other features, with premium options for advanced functionality."
+        },
+        {
+            "question": "What types of videos are best for AKOOL’s Video Translator?",
+            "answer": "The Video Translator works best with single-speaker videos, clear audio, and good lighting for optimal translation and lip-sync results."
+        },
+        {
+            "question": "Can I use AKOOL on mobile devices?",
+            "answer": "Yes, the AKOOL app is available for iOS and Android, allowing users to access its AI tools on the go."
+        },
+        {
+            "question": "How does AKOOL ensure data privacy?",
+            "answer": "AKOOL processes uploaded content securely, adhering to strict confidentiality and privacy laws to protect user data."
+        },
+        {
+            "question": "What industries benefit from AKOOL’s tools?",
+            "answer": "AKOOL serves marketing, e-commerce, education, media, and healthcare by providing tools for personalized content and engagement."
+        },
+        {
+            "question": "How accurate is AKOOL’s face-swapping technology?",
+            "answer": "AKOOL’s face-swapping uses advanced facial recognition for 99% accuracy, ensuring realistic results even in 4K or 8K outputs."
+        },
+        {
+            "question": "Can I create custom avatars with AKOOL?",
+            "answer": "Yes, users can create custom avatars or choose from over 200 pre-built characters, adjusting appearance and voice for unique content."
+        }
+    ]
+}

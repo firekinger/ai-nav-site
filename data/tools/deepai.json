@@ -1,0 +1,56 @@
+{
+    "name": "DeepAI",
+    "description": "DeepAI provides AI-powered tools for generating and editing creative content like images, videos, music, and text.",
+    "longDescription": "DeepAI is an all-in-one creative AI platform launched in 2016, offering accessible tools for generating images, videos, music, and text through advanced machine learning algorithms. Its mission is to democratize AI technology, making it user-friendly for hobbyists, artists, and developers without requiring extensive technical expertise. The platform supports a wide range of applications, from creating digital art to integrating AI capabilities into products via simple APIs. DeepAI emphasizes radical accessibility, providing free access to basic features and affordable paid plans for advanced usage. It ensures users retain full ownership of their creations, addressing copyright concerns in AI-generated content. The platform serves as a bridge between cutting-edge AI research and practical, everyday applications across industries.",
+    "url": "https://www.deepai.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepai.org.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "deepai",
+    "categories": [
+        "AI Image Generator",
+        "AI Video Generator",
+        "AI Music Generator",
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "AI Image Generator creates unique images from text prompts, enabling users to produce digital art in various styles effortlessly.",
+        "AI Video Generator transforms text or images into short animated videos, ideal for marketing and social media content creation.",
+        "AI Music Generator composes original music tracks based on user-specified styles, benefiting musicians and content creators.",
+        "AI Chatbot generates text for stories, code, or conversations, with add-ons like Online Mode for real-time web data access.",
+        "AI Image Editor allows users to modify images using text prompts, offering tools like Super Resolution and Background Remover.",
+        "API Access enables developers to integrate DeepAI’s AI capabilities into applications for tasks like image recognition and natural language processing."
+    ],
+    "faqs": [
+        {
+            "question": "What is DeepAI used for?",
+            "answer": "DeepAI is used to create AI-generated content like images, videos, music, and text, and to integrate AI capabilities into applications via APIs."
+        },
+        {
+            "question": "Is DeepAI free to use?",
+            "answer": "DeepAI offers a free plan with limited access to its tools, while the Pro subscription at $4.99/month unlocks advanced features and higher usage limits."
+        },
+        {
+            "question": "Can I use DeepAI-generated content commercially?",
+            "answer": "Yes, content generated with DeepAI’s free tools is public domain and can be used for any legal purpose, including commercial use."
+        },
+        {
+            "question": "Does DeepAI require coding knowledge?",
+            "answer": "No, DeepAI’s user-friendly interface allows non-technical users to create content, though APIs are available for developers."
+        },
+        {
+            "question": "What is Genius Mode in DeepAI?",
+            "answer": "Genius Mode is a paid feature that enhances the AI Chatbot’s understanding and provides more detailed responses, ideal for complex queries."
+        },
+        {
+            "question": "How does DeepAI handle user data privacy?",
+            "answer": "DeepAI collects user data for service improvement but raises concerns about privacy; users should review the privacy policy for details."
+        },
+        {
+            "question": "Can I create my own AI character with DeepAI?",
+            "answer": "Yes, DeepAI allows users to create custom AI characters with basic details like name and description, though customization options are limited."
+        }
+    ]
+}

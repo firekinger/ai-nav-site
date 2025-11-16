@@ -1,0 +1,61 @@
+{
+    "title": "The Best 5 AI Gift Ideas Tools in 2025",
+    "summary": "Discover the perfect AI Gift Ideas to delight your loved ones with innovative and thoughtful presents. This category showcases a curated selection of AI-powered tools designed to inspire creativity and enhance gifting experiences. From personalized recommendations to unique creations, these solutions cater to diverse interests and preferences, ensuring you find something special for everyone. Explore our collection today and elevate your gift-giving game with cutting-edge technology that meets modern needs. Dive in now to uncover the ideal AI gifts that will leave a lasting impression!",
+    "tools": [
+        {
+            "id": "68",
+            "name": "Talkie AI",
+            "slug": "talkie-ai",
+            "description": "Talkie AI is a platform for creating and interacting with customizable AI characters for immersive chat experiences.",
+            "icon": "/logo/talkie-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gift-ideas"
+            ]
+        },
+        {
+            "id": "182",
+            "name": "The StoryGraph",
+            "slug": "the-storygraph",
+            "description": "The StoryGraph is a platform for tracking reading, discovering books, and connecting with a community of book lovers.",
+            "icon": "/logo/thestorygraph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gift-ideas"
+            ]
+        },
+        {
+            "id": "400",
+            "name": "SoBrief",
+            "slug": "sobrief",
+            "description": "SoBrief provides AI-generated book summaries in multiple formats to help users quickly grasp key insights from over 73,530 titles.",
+            "icon": "/logo/sobrief.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gift-ideas"
+            ]
+        },
+        {
+            "id": "404",
+            "name": "Algolia",
+            "slug": "algolia",
+            "description": "Algolia provides an AI-powered search and discovery platform to deliver fast, relevant digital experiences for websites and apps.",
+            "icon": "/logo/www.algolia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gift-ideas"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "Book by Anyone",
+            "slug": "book-by-anyone",
+            "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+            "icon": "/logo/www.bookbyanyone.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-gift-ideas"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Mintlify",
+    "description": "Mintlify is a platform that enables developers to create beautiful, AI-powered documentation for their software and APIs.",
+    "longDescription": "Mintlify is a modern documentation platform designed specifically for developers, allowing them to build user-friendly, SEO-optimized docs without extensive manual effort. It leverages AI to automatically generate content from code, such as API references and code snippets, streamlining the documentation process. The mission of Mintlify is to make documentation delightful and accessible, addressing the common pain point of outdated or incomplete docs in software projects. By integrating directly with code repositories like GitHub, it ensures docs stay in sync with code changes. This serves users by saving time, improving developer experience, and enhancing product adoption through clear, professional documentation. Overall, Mintlify solves the problem of documentation being an afterthought by making it an integral, automated part of the development workflow.",
+    "url": "https://mintlify.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mintlify.com.webp",
+    "category": "AI Document Extraction",
+    "categorySlug": "ai-document-extraction",
+    "slug": "mintlify",
+    "categories": [
+        "AI Document Extraction",
+        "AI Developer Tools",
+        "AI API",
+        "AI Writing",
+        "AI SEO Tools",
+        "AI Productivity Tools",
+        "AI Search Engine",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "AI-powered content generation automatically creates API references and code explanations from your codebase, reducing manual writing time.",
+        "Customizable themes and layouts allow users to design documentation sites that match their brand's aesthetic and improve user engagement.",
+        "Built-in search functionality with AI enhancements enables quick navigation and discovery of information within docs, benefiting end-users.",
+        "Integration with GitHub and other version control systems keeps documentation up-to-date with code changes automatically.",
+        "Analytics tools provide insights into how users interact with your docs, helping to identify areas for improvement.",
+        "SEO optimization features ensure documentation ranks well in search engines, driving more traffic to your project.",
+        "MDX support allows embedding interactive components and rich media directly into documentation pages.",
+        "Collaboration tools enable teams to edit and review docs in real-time, fostering better teamwork.",
+        "OpenAPI support automatically generates interactive API documentation from spec files.",
+        "Custom domain hosting lets users publish docs on their own domain for a professional appearance.",
+        "Versioning capabilities manage multiple doc versions for different software releases.",
+        "Accessibility features ensure docs are usable by a wider audience, including those with disabilities."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mintlify?",
+            "answer": "Mintlify is a platform for creating modern, AI-assisted documentation for developers. It helps build beautiful docs that integrate with codebases. It's designed to make documentation easy and effective."
+        },
+        {
+            "question": "Does Mintlify offer a free plan?",
+            "answer": "Yes, Mintlify provides a free plan for open-source projects and basic use. This includes core features with some limitations on usage. Upgrades are available for more advanced needs."
+        },
+        {
+            "question": "How does Mintlify use AI?",
+            "answer": "Mintlify uses AI to generate content like API docs and code snippets from your repository. This automates much of the writing process. It also enhances search and content suggestions."
+        },
+        {
+            "question": "Can Mintlify integrate with GitHub?",
+            "answer": "Yes, Mintlify seamlessly integrates with GitHub to pull code and auto-update docs. This keeps everything in sync with your development workflow."
+        },
+        {
+            "question": "Is Mintlify suitable for non-technical users?",
+            "answer": "While primarily for developers, Mintlify's intuitive interface allows non-technical team members to contribute. However, some coding knowledge helps for advanced customizations."
+        },
+        {
+            "question": "What makes Mintlify different from other doc tools?",
+            "answer": "Mintlify stands out with its AI automation, beautiful designs, and developer-focused features. Unlike static tools, it offers dynamic updates and analytics."
+        },
+        {
+            "question": "How do I get started with Mintlify?",
+            "answer": "Sign up on the website, connect your GitHub repo, and start building docs. Tutorials and templates are available to guide you."
+        },
+        {
+            "question": "Does Mintlify support custom domains?",
+            "answer": "Yes, paid plans allow hosting on custom domains. This gives your docs a professional, branded URL."
+        },
+        {
+            "question": "What analytics does Mintlify provide?",
+            "answer": "Mintlify offers insights into page views, search queries, and user behavior. This helps optimize your documentation."
+        },
+        {
+            "question": "Is Mintlify secure?",
+            "answer": "Yes, Mintlify uses industry-standard security practices, including encryption and access controls. It complies with data protection regulations."
+        }
+    ]
+}

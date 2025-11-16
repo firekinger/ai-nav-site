@@ -1,0 +1,74 @@
+{
+    "name": "AI Fiesta",
+    "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+    "longDescription": "AI Fiesta is a cutting-edge website that leverages artificial intelligence to assist users in organizing and enhancing parties and events. Its mission is to make celebrations more fun, personalized, and effortless by automating creative tasks that traditionally require time and effort. The platform serves users by providing tools for generating custom invitations, theme suggestions, music playlists, and even virtual party games, solving problems like lack of inspiration or time constraints in event planning. It caters to individuals, event planners, and businesses looking to add an AI twist to their festivities. Overall, AI Fiesta democratizes access to professional-level party planning through intuitive AI-driven features. By integrating user inputs with AI algorithms, it ensures every event is unique and memorable.",
+    "url": "https://aifiesta.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aifiesta.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "ai-fiesta",
+    "categories": [
+        "AI Chatbot",
+        "AI Design Assistant",
+        "AI Music Generator",
+        "AI Game Generator",
+        "AI For Finance",
+        "AI Recipe",
+        "AI Social Media",
+        "AI Calendar"
+    ],
+    "features": [
+        "AI-powered invitation generator creates personalized digital invites with custom designs and themes, saving users time on graphic design.",
+        "Smart theme suggestion tool analyzes user preferences to recommend party themes, decorations, and color schemes for a cohesive event.",
+        "Music playlist curator uses AI to build tailored playlists based on mood, genre, and guest preferences, enhancing the party atmosphere.",
+        "Virtual game creator generates interactive games and activities like trivia or icebreakers, keeping guests engaged without extra effort.",
+        "Recipe and menu planner suggests AI-curated food and drink ideas that match the party theme and dietary needs.",
+        "Budget estimator tool calculates costs for party elements and provides cost-saving tips using real-time data trends.",
+        "Guest list manager automates RSVPs and reminders, streamlining organization for hosts.",
+        "Photo booth filter generator creates fun AI-enhanced filters for event photos, adding a creative touch to memories.",
+        "Event timeline builder outlines a step-by-step schedule for the party, ensuring smooth execution.",
+        "Integration with calendar apps syncs party details automatically, reducing manual entry errors."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Fiesta?",
+            "answer": "AI Fiesta is an AI-driven platform for party planning, offering tools to generate invitations, themes, playlists, and more. It helps users create memorable events effortlessly."
+        },
+        {
+            "question": "Is AI Fiesta free to use?",
+            "answer": "Yes, AI Fiesta offers a free plan with core features, though premium options unlock advanced customizations and unlimited generations."
+        },
+        {
+            "question": "How does the AI generate party ideas?",
+            "answer": "The AI analyzes user inputs like event type, guest count, and preferences to produce tailored suggestions. It draws from vast datasets of trends and creative ideas to ensure relevance."
+        },
+        {
+            "question": "Can I integrate AI Fiesta with other apps?",
+            "answer": "Yes, it supports integrations with calendar apps, social media, and email services for seamless sharing and organization."
+        },
+        {
+            "question": "What types of events does AI Fiesta support?",
+            "answer": "It supports a wide range including birthdays, weddings, corporate events, and holidays, with customizable options for any celebration."
+        },
+        {
+            "question": "Is my data secure on AI Fiesta?",
+            "answer": "AI Fiesta prioritizes user privacy with encrypted data storage and compliance with standard security protocols. Personal information is never shared without consent."
+        },
+        {
+            "question": "How accurate are the AI suggestions?",
+            "answer": "Suggestions are highly accurate based on advanced algorithms, but users can refine them for better personalization. Feedback helps improve future recommendations."
+        },
+        {
+            "question": "Does AI Fiesta offer mobile access?",
+            "answer": "Yes, the platform is mobile-friendly, allowing users to plan on-the-go via web browsers or potential apps."
+        },
+        {
+            "question": "Can I collaborate with others on event planning?",
+            "answer": "AI Fiesta includes collaboration features where multiple users can contribute to and edit event plans in real-time."
+        },
+        {
+            "question": "What if I need help using the features?",
+            "answer": "The site provides tutorials, a help center, and customer support via chat or email for any usage questions."
+        }
+    ]
+}

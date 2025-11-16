@@ -1,0 +1,65 @@
+{
+    "name": "MagicSlides",
+    "description": "MagicSlides is an AI-powered platform that creates professional presentation slides from text, topics, or multimedia in seconds.",
+    "longDescription": "MagicSlides is an AI-driven presentation tool designed to simplify and accelerate the creation of professional slide decks for students, educators, professionals, and content creators. By leveraging advanced AI, it transforms inputs like text, YouTube videos, PDFs, URLs, or topics into polished presentations in seconds, eliminating the need for manual slide design. The platform integrates seamlessly with Google Slides and supports over 100 languages, making it accessible globally. Its mission is to save users time and effort while delivering high-quality, customizable presentations for various use cases, such as academic projects, business pitches, or creative content. MagicSlides also offers a Chrome extension and Figma plugin, enhancing its versatility across different workflows.",
+    "url": "https://www.magicslides.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.magicslides.app.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "magicslides",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Article Summarizer",
+        "AI Translate",
+        "AI Design Assistant",
+        "AI Charting",
+        "AI Pitch Deck Generator",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI-powered slide generation creates presentations from text, topics, YouTube videos, PDFs, or URLs in seconds, saving users significant time.",
+        "Seamless Google Slides integration allows users to generate and edit presentations directly within the Google Workspace environment.",
+        "Support for over 100 languages enables users worldwide to create presentations in their preferred language.",
+        "Customizable templates provide a variety of professional layouts to suit different presentation needs.",
+        "One-click presentation creation via Chrome extension extracts content from online sources like YouTube or websites for instant slide generation.",
+        "MagicChart feature generates data-driven charts based on user queries, enhancing presentation visuals.",
+        "AI PitchDeck Generator creates professional pitch decks from URLs, streamlining business proposal creation.",
+        "Figma plugin integration allows users to generate presentations directly within Figma, ideal for designers.",
+        "Multiple input options, including DOCX and PDF uploads, offer flexibility in content sources for slide creation.",
+        "Quick Theme Switcher enables users to instantly change presentation styles for a polished look."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can MagicSlides use to create presentations?",
+            "answer": "MagicSlides can generate presentations from topics, text, YouTube videos, PDFs, DOCX files, or URLs, offering versatile input options."
+        },
+        {
+            "question": "Is MagicSlides free to use?",
+            "answer": "Yes, MagicSlides offers a free plan with limited features, such as creating up to three presentations with five slides each."
+        },
+        {
+            "question": "Does MagicSlides support multiple languages?",
+            "answer": "Yes, MagicSlides supports over 100 languages, allowing users to create presentations in their preferred language."
+        },
+        {
+            "question": "Can I use MagicSlides without technical expertise?",
+            "answer": "MagicSlides is designed to be user-friendly, requiring no technical knowledge to create professional presentations quickly."
+        },
+        {
+            "question": "How does the Chrome extension work?",
+            "answer": "The Chrome extension extracts content from YouTube videos, websites, or PDFs and generates a presentation with one click, streamlining the process."
+        },
+        {
+            "question": "Can I customize the generated presentations?",
+            "answer": "Yes, MagicSlides offers customizable templates and editing options to tailor presentations to specific needs."
+        },
+        {
+            "question": "Is MagicSlides integrated with other platforms?",
+            "answer": "MagicSlides integrates with Google Slides, Figma, and supports automation with over 4000 apps for enhanced workflow efficiency."
+        },
+        {
+            "question": "What is the character limit for text input?",
+            "answer": "MagicSlides allows up to 12,000 characters (about 3,000 words) for text input on most plans, ensuring detailed prompts for better outputs."
+        }
+    ]
+}

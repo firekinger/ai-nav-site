@@ -1,0 +1,62 @@
+{
+    "name": "RIZZ AI",
+    "description": "RIZZ AI is an AI-powered dating assistant that enhances users' dating experiences with personalized conversation starters and flirting advice.",
+    "longDescription": "RIZZ AI is an innovative AI-driven platform designed to assist users in navigating the complexities of modern dating by providing tailored conversation starters, pickup lines, and relationship advice. Built on advanced language models, it analyzes user interactions and match profiles to generate witty, context-aware responses that boost confidence and engagement. The platform caters to a wide range of users, from shy individuals to busy professionals, helping them craft memorable messages and optimize their dating profiles. Its mission is to empower users to form meaningful connections while maintaining privacy, as it does not store chat records or screenshots. By combining humor, charm, and AI technology, RIZZ AI serves as a virtual dating coach, making online dating more approachable and enjoyable.",
+    "url": "https://www.rizzai.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.rizzai.ai.webp",
+    "category": "AI Dating Assistant",
+    "categorySlug": "ai-dating-assistant",
+    "slug": "rizz-ai",
+    "categories": [
+        "AI Dating Assistant",
+        "AI Dialogue Generator",
+        "AI Profile Picture Generator",
+        "AI Coaching",
+        "AI Pick-up Lines Generator",
+        "AI Photo Enhancer",
+        "AI Language Learning"
+    ],
+    "features": [
+        "AI-powered conversation starters generate personalized opening lines based on a match’s profile to spark engaging chats.",
+        "Context-aware message responses suggest witty replies to keep conversations lively and avoid awkward silences.",
+        "Profile optimization tools help users craft compelling dating bios that highlight their personality and attract matches.",
+        "RIZZ AI keyboard integration allows iPhone users to access AI-generated responses directly within dating apps for seamless communication.",
+        "Personalized dating advice provides strategies tailored to users’ unique personalities and dating scenarios to improve outcomes.",
+        "RIZZ Face AI Assistant optimizes profile pictures with enhancement suggestions to boost visual appeal on dating apps.",
+        "Privacy-focused design ensures user conversations and data are not stored, fostering trust and secure interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is RIZZ AI?",
+            "answer": "RIZZ AI is an AI-powered dating assistant that provides personalized conversation starters, witty responses, and profile optimization to enhance your dating experience."
+        },
+        {
+            "question": "Is RIZZ AI free to use?",
+            "answer": "Yes, RIZZ AI offers a free plan with core features, including 20 free credits for generating responses, though premium options may be available."
+        },
+        {
+            "question": "How does RIZZ AI protect my privacy?",
+            "answer": "RIZZ AI does not save chat records or screenshots, ensuring your conversations remain private and secure."
+        },
+        {
+            "question": "Can RIZZ AI help with my dating app profile?",
+            "answer": "Yes, RIZZ AI provides profile optimization tools and photo enhancement suggestions to make your dating profile more attractive."
+        },
+        {
+            "question": "What kind of dating advice does RIZZ AI offer?",
+            "answer": "RIZZ AI offers tailored advice on flirting, conversation strategies, and date ideas based on your personality and match’s interests."
+        },
+        {
+            "question": "Is the RIZZ AI keyboard available for all devices?",
+            "answer": "Currently, the RIZZ AI keyboard is designed for iPhone users, with potential expansions detailed on their website."
+        },
+        {
+            "question": "How does RIZZ AI generate personalized responses?",
+            "answer": "RIZZ AI analyzes your conversation history and match’s profile to create context-aware, authentic responses that align with your style."
+        },
+        {
+            "question": "Can RIZZ AI help with conversations beyond dating apps?",
+            "answer": "Yes, RIZZ AI’s suggestions can be used for social media interactions and texting to enhance overall communication."
+        }
+    ]
+}

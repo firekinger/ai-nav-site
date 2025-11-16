@@ -1,0 +1,59 @@
+{
+    "name": "Semantic Scholar",
+    "description": "Semantic Scholar is an AI-powered research tool for discovering and understanding scientific literature across various fields.",
+    "longDescription": "Semantic Scholar is a free, AI-driven platform developed by the Allen Institute for AI to enhance the discovery of scholarly research. It aggregates over 225 million academic papers, primarily focusing on published articles and preprints, with limited coverage of books and patents. The platform uses advanced natural language processing and machine learning to provide features like TLDR summaries, influential citation identification, and personalized research recommendations. It serves researchers, students, and professionals by offering tools to navigate complex literature efficiently, making it easier to find relevant papers and understand their impact. Semantic Scholar aims to accelerate scientific discovery by reducing information overload and providing meaningful insights into research trends.",
+    "url": "https://www.semanticscholar.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/semanticscholar.org.webp",
+    "category": "AI Research Papers",
+    "categorySlug": "ai-research-papers",
+    "slug": "semantic-scholar",
+    "categories": [
+        "AI Research Papers",
+        "AI Data Mining",
+        "AI Article Summarizer",
+        "AI Research Tool"
+    ],
+    "features": [
+        "AI-generated TLDR summaries provide concise overviews of papers, helping researchers quickly grasp key findings.",
+        "Influential citation identification highlights citations that significantly impact a paper, aiding in assessing research relevance.",
+        "Personalized research feeds deliver tailored paper recommendations based on user interests and saved library content.",
+        "The Semantic Scholar Academic Graph API allows programmatic access to its vast dataset for advanced research applications.",
+        "Author pages enable researchers to claim and manage their profiles, showcasing their publications and citations.",
+        "Research dashboard offers a centralized hub for tracking saved papers, recent citations, and personalized recommendations.",
+        "Field of Study classification uses machine learning to categorize papers based on titles and abstracts, improving search precision."
+    ],
+    "faqs": [
+        {
+            "question": "What is Semantic Scholar?",
+            "answer": "Semantic Scholar is an AI-powered research tool that helps users discover and understand scholarly papers across various disciplines. It uses machine learning to provide features like summaries and citation analysis."
+        },
+        {
+            "question": "Is Semantic Scholar free to use?",
+            "answer": "Yes, Semantic Scholar offers free access to its core features, including searching and reading papers, with optional account creation for enhanced features like personalized feeds."
+        },
+        {
+            "question": "What are TLDR summaries?",
+            "answer": "TLDR summaries are AI-generated, concise summaries of scientific papers, designed to help researchers quickly understand key points, currently available for computer science and biomedical papers."
+        },
+        {
+            "question": "Can I access Semantic Scholar’s data programmatically?",
+            "answer": "Yes, Semantic Scholar provides a RESTful API and downloadable datasets through the Semantic Scholar Academic Graph (S2AG) for research and engineering purposes."
+        },
+        {
+            "question": "How does Semantic Scholar classify papers?",
+            "answer": "Papers are classified into Fields of Study using a machine learning model that analyzes titles and abstracts to categorize them accurately."
+        },
+        {
+            "question": "Can I save papers or create alerts?",
+            "answer": "Users can save papers to a personal library and set email alerts for new papers matching specific search criteria or research interests."
+        },
+        {
+            "question": "Does Semantic Scholar include all types of publications?",
+            "answer": "It primarily focuses on academic articles and preprints, with limited coverage of books and no inclusion of patents."
+        },
+        {
+            "question": "How can I claim my author page?",
+            "answer": "Search for your name or paper, select 'Claim Author Page,' provide details like email and ORCID, and await approval to manage your profile."
+        }
+    ]
+}

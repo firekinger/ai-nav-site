@@ -1,0 +1,50 @@
+{
+    "name": "Baidu Chat",
+    "description": "Baidu Chat is an AI-powered conversational platform designed to assist users with information and task support.",
+    "longDescription": "Baidu Chat, developed by Baidu, one of China's leading technology companies, is an AI-driven chatbot platform aimed at providing users with intelligent conversational assistance. It leverages advanced natural language processing to answer questions, offer recommendations, and assist with various tasks in real-time. The platform is designed to cater to a wide range of users, from individuals seeking quick information to businesses looking for automated customer support solutions. Baidu Chat integrates seamlessly with other Baidu services, enhancing its utility across search, productivity, and daily life applications. Its mission is to make information access and task management more efficient through conversational AI. The service is particularly popular in China, reflecting Baidu's focus on localized user needs and language support.",
+    "url": "https://chat.baidu.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chat.baidu.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "baidu-chat",
+    "categories": [
+        "AI Chatbot",
+        "AI Research Tool",
+        "AI Task Management",
+        "AI Shopping Assistant"
+    ],
+    "features": [
+        "Baidu Chat offers real-time conversational responses, enabling users to get instant answers to queries with high accuracy.",
+        "It supports multiple languages, with a strong emphasis on Mandarin, making it accessible to a vast Chinese-speaking audience.",
+        "The platform integrates with Baidu’s search engine, providing users with enriched information directly from web results during chats.",
+        "It includes task automation features, such as setting reminders or providing recommendations, to enhance user productivity.",
+        "Baidu Chat ensures user-friendly interaction through a simple interface, suitable for both casual and professional use.",
+        "It offers personalized responses based on user history and preferences, improving the relevance of interactions over time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Baidu Chat used for?",
+            "answer": "Baidu Chat is used for conversational assistance, helping users with information retrieval, task management, and answering questions. It serves both personal and business needs with AI-driven responses."
+        },
+        {
+            "question": "Is Baidu Chat free to use?",
+            "answer": "Yes, Baidu Chat offers free access to its core features. Some advanced functionalities or integrations may require a premium subscription or specific Baidu account types."
+        },
+        {
+            "question": "Does Baidu Chat support English?",
+            "answer": "While Baidu Chat primarily focuses on Mandarin and other Chinese dialects, it also offers limited support for English and other languages. The accuracy and depth of responses may vary for non-Chinese languages."
+        },
+        {
+            "question": "Can Baidu Chat integrate with other apps?",
+            "answer": "Yes, Baidu Chat can integrate with other Baidu services like Baidu Search and certain third-party applications. This enhances its functionality for tasks like web lookups or app-specific actions."
+        },
+        {
+            "question": "Is my data safe on Baidu Chat?",
+            "answer": "Baidu Chat follows standard data protection protocols to secure user information. However, users are advised to review Baidu’s privacy policy for detailed information on data handling and storage practices."
+        },
+        {
+            "question": "Can businesses use Baidu Chat for customer support?",
+            "answer": "Yes, businesses can leverage Baidu Chat to automate customer support, answer FAQs, and provide 24/7 assistance. Customized solutions may be available for enterprise users."
+        }
+    ]
+}

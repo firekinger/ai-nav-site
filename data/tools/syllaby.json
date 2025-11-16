@@ -1,0 +1,75 @@
+{
+    "name": "Syllaby",
+    "description": "Syllaby is an AI-powered platform that streamlines the creation of viral social media videos with tools for ideation, scripting, and editing.",
+    "longDescription": "Syllaby is an AI-driven platform designed to simplify social media video content creation for businesses, marketers, and creators. It empowers users to discover trending topics, generate scripts, and produce faceless videos with AI avatars and voice cloning, all without requiring prior video production experience. The platform aims to save time and resources by automating the content creation process, from ideation to publishing. By focusing on audience-relevant questions and keywords, Syllaby enhances SEO and audience engagement, making it ideal for industries like real estate, education, and healthcare. Its mission is to make professional-grade video marketing accessible and efficient, enabling users to maintain a consistent online presence.",
+    "url": "https://syllaby.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/syllaby.io.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "syllaby",
+    "categories": [
+        "AI Video Generator",
+        "AI Script Writing",
+        "AI Voice Cloning",
+        "AI SEO Tools",
+        "AI Video Editor",
+        "AI Scheduling",
+        "AI Avatar Generator",
+        "AI Calendar",
+        "AI Thumbnail Maker"
+    ],
+    "features": [
+        "AI-driven script generation creates tailored scripts for videos, blogs, or podcasts, saving time and ensuring audience relevance.",
+        "Faceless video creation allows users to produce engaging videos using AI avatars without appearing on camera.",
+        "Voice cloning technology replicates a user’s voice or offers diverse AI voices for personalized video narration.",
+        "Keyword research tools identify trending topics and audience questions to optimize content for SEO and engagement.",
+        "Integrated video editor enables seamless trimming, effect addition, and content enhancement for professional results.",
+        "Social media scheduling automates video posting across platforms like YouTube, TikTok, and LinkedIn for efficient content management.",
+        "Character consistency ensures AI-generated characters maintain a uniform look across videos for stronger brand identity.",
+        "Content calendar tracks video performance and schedules posts to maintain a consistent online presence.",
+        "AI thumbnail generator creates eye-catching, customizable thumbnails to boost video click-through rates.",
+        "Multi-language support allows content creation in languages like English, French, German, Italian, and Spanish."
+    ],
+    "faqs": [
+        {
+            "question": "What is Syllaby?",
+            "answer": "Syllaby is an AI-powered platform that streamlines social media video creation by automating ideation, scripting, editing, and publishing."
+        },
+        {
+            "question": "Who can use Syllaby?",
+            "answer": "Businesses, marketers, content creators, and professionals across industries like real estate and healthcare can use Syllaby for video marketing."
+        },
+        {
+            "question": "Does Syllaby offer a free trial?",
+            "answer": "Yes, Syllaby provides a 7-day free trial, allowing users to explore its features and cancel anytime without obligation."
+        },
+        {
+            "question": "How does Syllaby help with SEO?",
+            "answer": "Syllaby identifies trending keywords and audience questions to create evergreen content that boosts SEO and lead generation."
+        },
+        {
+            "question": "Can I use my own voice in Syllaby videos?",
+            "answer": "Yes, Syllaby’s voice cloning feature lets you use your own voice or choose from various AI-generated voices."
+        },
+        {
+            "question": "What types of videos can I create with Syllaby?",
+            "answer": "Syllaby supports short- and long-form faceless videos, ideal for tutorials, explainer videos, product reviews, and more."
+        },
+        {
+            "question": "How are credits charged in Syllaby?",
+            "answer": "Credits are charged based on whole minutes of video (e.g., a 5-minute-13-second video costs 78 credits), with the first three image regenerations free."
+        },
+        {
+            "question": "Can I schedule videos directly to social media?",
+            "answer": "Yes, Syllaby’s content calendar allows direct scheduling and publishing to platforms like YouTube, TikTok, and LinkedIn."
+        },
+        {
+            "question": "Is my data secure with Syllaby?",
+            "answer": "Syllaby uses encryption and strict privacy policies to ensure user data security."
+        },
+        {
+            "question": "What kind of support does Syllaby offer?",
+            "answer": "Syllaby provides email support, a comprehensive knowledge base, and video tutorials for user assistance."
+        }
+    ]
+}

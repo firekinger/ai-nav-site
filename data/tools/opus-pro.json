@@ -1,0 +1,57 @@
+{
+    "name": "Opus Pro",
+    "description": "Opus Pro is an AI-powered video editing platform designed to streamline content creation for creators and businesses.",
+    "longDescription": "Opus Pro is an innovative platform that leverages artificial intelligence to simplify and accelerate video editing for content creators, marketers, and businesses. Its mission is to make professional-quality video production accessible to everyone, regardless of editing experience, by automating complex tasks. The platform analyzes long-form videos and automatically generates short, engaging clips optimized for social media platforms like TikTok, YouTube Shorts, and Instagram Reels. By using AI-driven tools, Opus Pro reduces editing time significantly, enabling users to focus on creating compelling content. It serves a wide range of users, from individual creators to large enterprises, by offering intuitive tools and scalable solutions. The platform also integrates with popular social media tools to streamline content distribution.",
+    "url": "https://www.opus.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.opus.pro.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "opus-pro",
+    "categories": [
+        "AI Video Editor",
+        "AI Social Media",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "AI Clip Generator automatically creates short, viral clips from long-form videos, saving hours of manual editing.",
+        "Auto Captioning adds accurate, customizable captions to videos, enhancing accessibility and engagement.",
+        "AI B-Roll Integration inserts relevant stock footage or visuals to enhance video storytelling effortlessly.",
+        "Dynamic Resizing adjusts video formats to suit various platforms like TikTok, Instagram, or YouTube in one click.",
+        "AI Audio Enhancement improves sound quality by reducing background noise and optimizing clarity.",
+        "Custom Branding allows users to apply consistent logos, fonts, and colors across all video outputs.",
+        "Social Media Scheduler integrates with platforms to plan and publish content directly from Opus Pro.",
+        "Multi-Language Support translates and generates captions in multiple languages for global reach.",
+        "Real-Time Collaboration enables teams to work together on video projects within the platform.",
+        "AI Trend Analysis suggests trending topics or styles based on current social media patterns."
+    ],
+    "faqs": [
+        {
+            "question": "What is Opus Pro used for?",
+            "answer": "Opus Pro is used for creating short, engaging video clips from long-form content using AI, ideal for social media platforms."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Opus Pro offers a free plan with limited features, allowing users to test core functionalities before upgrading."
+        },
+        {
+            "question": "Can Opus Pro edit videos for multiple platforms?",
+            "answer": "Yes, the platform automatically resizes and optimizes videos for platforms like TikTok, YouTube Shorts, and Instagram Reels."
+        },
+        {
+            "question": "Does Opus Pro support team collaboration?",
+            "answer": "Opus Pro includes real-time collaboration tools, enabling teams to work together on video projects seamlessly."
+        },
+        {
+            "question": "How does the AI Clip Generator work?",
+            "answer": "The AI analyzes long-form videos, identifies engaging moments, and creates short clips optimized for social media engagement."
+        },
+        {
+            "question": "Can I add my own branding to videos?",
+            "answer": "Yes, Opus Pro allows users to apply custom logos, fonts, and colors to maintain consistent branding."
+        },
+        {
+            "question": "Is Opus Pro suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and AI automation make it easy for beginners to create professional videos."
+        }
+    ]
+}

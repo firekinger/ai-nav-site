@@ -1,0 +1,70 @@
+{
+    "name": "Neighborbrite",
+    "description": "Neighborbrite is an AI-powered platform that enables users to design and visualize their dream gardens easily by uploading a yard photo and customizing styles and elements.",
+    "longDescription": "Neighborbrite is an AI-driven tool designed to help users create personalized garden designs by uploading a photo of their yard, selecting from various garden styles, and customizing details. It generates designs quickly, with over 15 million designs created, and is accessible to users in over 170 countries, supported by a community of 350,000+ and 500,000+ registered users. The platform optimizes plant suggestions based on the user's location and climate, ensuring suitability for their yard conditions. Its mission, as stated by CEO Luis Benavides, is to empower everyone to design their ideal home spaces and bring them to life seamlessly, with no app installation required. Neighborbrite solves the problem of complex landscape planning by making it simple and accessible for anyone without professional skills.",
+    "url": "https://neighborbrite.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/neighborbrite.com.webp",
+    "category": "AI Landscape Generator",
+    "categorySlug": "ai-landscape-generator",
+    "slug": "neighborbrite",
+    "categories": [
+        "AI Landscape Generator",
+        "AI Backyard Design",
+        "AI Design Generator",
+        "AI Interior Design"
+    ],
+    "features": [
+        "Users can upload a photo of their yard as the foundation for custom garden designs, allowing for personalized visualizations.",
+        "Offers a variety of garden styles for users to choose from, matching personal taste and home aesthetics to inspire creativity.",
+        "Provides customization options for specific elements like trees, fire pits, and other garden features, enhancing user control over the final design.",
+        "Optimizes plant suggestions based on the user's location and climate for thriving yard conditions, ensuring practical and sustainable recommendations.",
+        "Allows users to see their dream yard come to life and share it with friends and family, facilitating easy collaboration and feedback.",
+        "No app installation is needed, making it accessible directly through the website for immediate use on any device.",
+        "Generates designs quickly using AI technology, saving time compared to traditional landscape planning methods.",
+        "Supports users worldwide in over 170 countries, promoting global accessibility to garden design tools.",
+        "Features a user-friendly interface that requires no special skills, democratizing landscape design for beginners.",
+        "Integrates community support with over 350,000 members, enabling users to draw inspiration from others' creations."
+    ],
+    "faqs": [
+        {
+            "question": "How does Neighborbrite work?",
+            "answer": "Neighborbrite works by users uploading a photo of their yard, selecting a garden style, and customizing details to generate a design."
+        },
+        {
+            "question": "Is Neighborbrite free to use?",
+            "answer": "Yes, Neighborbrite is free to use."
+        },
+        {
+            "question": "Do I need any special skills to use Neighborbrite?",
+            "answer": "No special skills are needed to use Neighborbrite."
+        },
+        {
+            "question": "Can I customize specific elements in my garden design?",
+            "answer": "Yes, users can customize specific elements like trees, fire pits, and other garden features."
+        },
+        {
+            "question": "How does Neighborbrite recommend plants for my yard?",
+            "answer": "Neighborbrite recommends plants based on the user's location and climate to ensure they thrive."
+        },
+        {
+            "question": "Do I need to install an app to use Neighborbrite?",
+            "answer": "No, Neighborbrite is accessible directly through the website without any app installation required."
+        },
+        {
+            "question": "Can I share my generated designs?",
+            "answer": "Yes, users can share their dream yard designs with friends and family for feedback."
+        },
+        {
+            "question": "Is Neighborbrite available worldwide?",
+            "answer": "Yes, Neighborbrite is used in over 170 countries, making it globally accessible."
+        },
+        {
+            "question": "How many designs can I generate?",
+            "answer": "There is no specified limit, and over 15 million designs have been created by users."
+        },
+        {
+            "question": "Does Neighborbrite require registration?",
+            "answer": "While it has over 500,000 registered users, basic usage may not require registration, though signing up enhances community features."
+        }
+    ]
+}

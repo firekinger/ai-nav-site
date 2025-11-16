@@ -1,0 +1,63 @@
+{
+    "name": "Enso Connect",
+    "description": "Enso Connect is a digital guest experience platform for vacation rentals and hotels, offering AI-powered communication, automation, and personalized upsells.",
+    "longDescription": "Enso Connect is an AI-powered guest experience platform designed to streamline and enhance interactions for vacation rental and boutique hotel operators. Its mission is to revolutionize the hospitality industry by combining the convenience of hotel-like services with the personalized, community-driven experience of a home. The platform integrates with property management systems (PMS), smart devices, and other tools to automate guest communication, manage check-ins, and boost revenue through tailored upsells. By leveraging AI and data-driven personalization, Enso Connect helps property managers save time, improve guest satisfaction, and increase profitability. It serves hospitality professionals globally, offering a seamless, scalable solution for managing guest journeys from booking to checkout.",
+    "url": "https://ensoconnect.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ensoconnect.com.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "enso-connect",
+    "categories": [
+        "AI Chat Generator",
+        "AI CRM",
+        "AI Message Generator",
+        "AI Ebook Generator",
+        "AI Healthcare"
+    ],
+    "features": [
+        "The Boarding Pass guest app provides a customizable, web-based portal for guests to access check-in details, guidebooks, and upsells, enhancing their stay experience.",
+        "AI-powered Unified Inbox consolidates email, SMS, WhatsApp, and OTA messages, enabling efficient, multilingual guest communication.",
+        "Custom automations with 'If This Then That' logic streamline operations by automating tasks like check-in instructions and upsell offers.",
+        "EnsoAI crafts personalized, context-aware responses and translates messages instantly, reducing response times and improving guest satisfaction.",
+        "Smart lock integration enables contactless check-in, providing guests with secure, convenient access to properties.",
+        "Custom upsells and affiliate marketing tools allow operators to monetize guest interactions, increasing revenue per booking.",
+        "White-labeled guest verification ensures secure, branded identity checks, building trust and streamlining onboarding.",
+        "Digital guidebooks, integrated with Google Places API, offer personalized, up-to-date local recommendations to enhance guest experiences.",
+        "Hospitality CRM tools leverage guest data to drive repeat bookings, direct reservations, and 5-star reviews through targeted campaigns.",
+        "The Reports Dashboard provides insights into revenue, guest satisfaction, and response times, helping operators optimize performance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Enso Connect?",
+            "answer": "Enso Connect is an AI-powered platform that streamlines guest communication, automates operations, and boosts revenue for vacation rentals and boutique hotels."
+        },
+        {
+            "question": "Does Enso Connect offer a free plan?",
+            "answer": "Enso Connect does not offer a free plan but provides a free demo to explore its features before subscribing."
+        },
+        {
+            "question": "How does the Boarding Pass app work?",
+            "answer": "The Boarding Pass is a web-based guest app that guides guests through their stay with check-in details, guidebooks, and personalized upsells, accessible via a single link."
+        },
+        {
+            "question": "Can Enso Connect integrate with my property management system?",
+            "answer": "Yes, Enso Connect seamlessly integrates with popular PMS platforms like Guesty, Hostfully, and BookingSync to sync guest data and automate operations."
+        },
+        {
+            "question": "How does EnsoAI improve guest communication?",
+            "answer": "EnsoAI crafts personalized, multilingual responses and automates up to 80% of guest communications, reducing response times and enhancing guest satisfaction."
+        },
+        {
+            "question": "What kind of support does Enso Connect offer?",
+            "answer": "Enso Connect provides support through email (support@ensoconnect.com), a help center, and personalized onboarding via video calls."
+        },
+        {
+            "question": "Can Enso Connect help increase revenue?",
+            "answer": "Yes, Enso Connect’s custom upsells, affiliate marketing, and data-driven CRM campaigns boost revenue by monetizing guest interactions."
+        },
+        {
+            "question": "Is Enso Connect suitable for small property management teams?",
+            "answer": "Absolutely, its AI-driven automation and unified inbox save time for small teams, allowing them to focus on guest satisfaction and growth."
+        }
+    ]
+}

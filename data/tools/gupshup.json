@@ -1,0 +1,65 @@
+{
+    "name": "Gupshup",
+    "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+    "longDescription": "Gupshup is a leading conversational messaging platform that enables businesses to engage with customers through AI-powered chatbots and messaging APIs across over 30 channels, including WhatsApp, SMS, and RCS. Founded in 2004 and headquartered in Cupertino, California, it serves industries like retail, fintech, and healthcare, helping businesses automate customer acquisition, marketing, commerce, and support. The platform processes over 7 billion messages monthly, offering scalable, secure, and efficient communication solutions. Gupshup's mission is to create a world where businesses and consumers interact seamlessly through conversations, boosting customer lifetime value and reducing service costs. By integrating AI-driven tools and a single API for multi-channel communication, it empowers businesses to personalize customer journeys and optimize engagement. Its acquisitions, like Active.ai and Knowlarity, enhance its conversational AI and voice capabilities.",
+    "url": "https://www.gupshup.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.gupshup.io.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "gupshup",
+    "categories": [
+        "AI Chat Generator",
+        "AI Message Generator",
+        "AI Customer Service",
+        "AI Chatbot",
+        "AI Marketing",
+        "AI Voice Generator",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "Single API supports messaging across 30+ channels for seamless business communication.",
+        "AI-powered chatbots automate customer acquisition, marketing, and support to enhance efficiency.",
+        "Conversational commerce tools drive engagement from discovery to checkout, boosting sales.",
+        "AI Campaign Co-Pilot optimizes marketing campaigns with data-driven insights for higher ROI.",
+        "Gupshup Converse enables personalized, humanized customer interactions across channels.",
+        "Scalable platform handles up to 10,000 TPS with low latency and global reach.",
+        "ISO 27001 and GDPR compliance ensure secure, encrypted data handling for customer trust.",
+        "Integration with platforms like WhatsApp, Google Assistant, and Alexa enhances accessibility.",
+        "Auto Intelligent Routing optimizes message delivery across channels and carriers.",
+        "Rich conversational toolkit supports building tailored experiences for marketing and support."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gupshup's primary function?",
+            "answer": "Gupshup provides a conversational messaging platform that enables businesses to automate and personalize customer interactions across 30+ channels using AI-driven chatbots and APIs."
+        },
+        {
+            "question": "Which industries does Gupshup serve?",
+            "answer": "Gupshup serves industries like retail, e-commerce, fintech, healthcare, edtech, and media, offering tailored solutions for customer engagement and support."
+        },
+        {
+            "question": "Does Gupshup offer a free plan?",
+            "answer": "Yes, Gupshup offers a free plan with limited access to its messaging and API features, allowing businesses to test the platform."
+        },
+        {
+            "question": "How secure is Gupshup’s platform?",
+            "answer": "Gupshup is ISO 27001 certified and GDPR compliant, using TLS 1.2 256-bit AES encryption to ensure secure communication."
+        },
+        {
+            "question": "Can Gupshup integrate with WhatsApp?",
+            "answer": "Yes, Gupshup was one of the earliest global partners of WhatsApp, offering seamless integration via its WhatsApp Business API."
+        },
+        {
+            "question": "What is the scalability of Gupshup’s platform?",
+            "answer": "Gupshup’s platform supports horizontal scaling, handling up to 10,000 transactions per second with potentially unlimited peak traffic."
+        },
+        {
+            "question": "How does Gupshup improve customer engagement?",
+            "answer": "Gupshup uses AI-powered chat valorizzazionebots and data-driven interactions to personalize customer journeys, improving engagement and boosting CLTV."
+        },
+        {
+            "question": "What are Gupshup’s AI capabilities?",
+            "answer": "Gupshup offers AI-driven chatbots, voice solutions, and campaign optimization tools like AI Campaign Co-Pilot to automate and enhance customer interactions."
+        }
+    ]
+}

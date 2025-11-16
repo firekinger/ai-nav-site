@@ -1,0 +1,77 @@
+{
+    "name": "AI/ML API",
+    "description": "AI/ML API provides access to over 300 AI models through a single, unified API for developers and businesses.",
+    "longDescription": "AI/ML API is a comprehensive platform that simplifies AI integration by offering access to over 300 AI models through a single API, catering to developers and businesses worldwide. Its mission is to make advanced AI capabilities, such as text generation, image creation, and video production, accessible and cost-efficient. The platform supports seamless integration with existing systems, requiring minimal code changes for OpenAI-compatible projects. With a focus on scalability and low latency, it serves a wide range of industries, from tech startups to enterprises, for applications like chatbots and automated decision-making. By providing serverless API access or dedicated servers, AI/ML API ensures flexibility and reliability for projects of all sizes. It also fosters a community for developers to collaborate and share innovative AI projects.",
+    "url": "https://aimlapi.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aimlapi.com.webp",
+    "category": "AI Models",
+    "categorySlug": "ai-models",
+    "slug": "aiml-api",
+    "categories": [
+        "AI Models",
+        "AI Text Generator",
+        "AI Image Generator",
+        "AI Video Generator",
+        "AI Music Generator",
+        "AI API",
+        "AI Business Ideas Generator",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Unified API interface provides single-endpoint access to over 300 AI models, simplifying integration for developers.",
+        "OpenAI compatibility allows seamless switching from OpenAI projects with minimal code changes, enhancing efficiency.",
+        "Serverless deployment reduces infrastructure costs, enabling scalable AI solutions without manual intervention.",
+        "99% uptime ensures consistent service availability for reliable performance in production environments.",
+        "Advanced tracking features allow users to monitor API calls and token expenditure via a web application, optimizing usage.",
+        "Support for multiple AI modalities, including text, image, video, and audio generation, caters to diverse project needs.",
+        "Comprehensive documentation and code samples facilitate quick implementation for developers of all skill levels.",
+        "Cost-efficient pricing offers up to 80% savings compared to OpenAI, making advanced AI accessible to more users.",
+        "Global low-latency access ensures fast response times for users across different geographic locations.",
+        "Enterprise-grade security protects sensitive data and applications, meeting high compliance standards.",
+        "Flexible model selection allows users to switch between models like GPT-4, Claude, and FLUX without altering core code.",
+        "Community support through Discord and events fosters collaboration and innovation among developers.",
+        "Pay-as-you-go and enterprise plans provide flexible pricing options tailored to varying usage needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI/ML API?",
+            "answer": "AI/ML API is a platform that provides access to over 300 AI models through a single API, enabling developers to integrate advanced AI functionalities into their applications."
+        },
+        {
+            "question": "Does AI/ML API offer a free plan?",
+            "answer": "Yes, AI/ML API offers a free tier for testing and small-scale development projects, with limited requests and token usage."
+        },
+        {
+            "question": "How do I integrate AI/ML API into my project?",
+            "answer": "Sign up for an API key, replace OpenAI credentials with AI/ML API’s endpoint and key, select a model, and make API calls using provided documentation."
+        },
+        {
+            "question": "What types of AI models are available?",
+            "answer": "AI/ML API supports text, image, video, audio, and embedding models, including popular options like GPT-4, Claude, and FLUX."
+        },
+        {
+            "question": "Is AI/ML API compatible with OpenAI projects?",
+            "answer": "Yes, it’s designed to be OpenAI-compatible, allowing seamless integration with minimal code changes for existing OpenAI-based projects."
+        },
+        {
+            "question": "How does AI/ML API ensure data security?",
+            "answer": "The platform uses enterprise-grade security measures to protect sensitive data and complies with relevant data protection laws."
+        },
+        {
+            "question": "Can I use AI/ML API for enterprise-scale projects?",
+            "answer": "Yes, AI/ML API offers enterprise plans with dedicated support and server options for large-scale deployments."
+        },
+        {
+            "question": "What kind of support does AI/ML API provide?",
+            "answer": "It offers comprehensive documentation, code samples, a Discord community, and dedicated customer support for easy onboarding and troubleshooting."
+        },
+        {
+            "question": "How does pricing compare to other AI APIs?",
+            "answer": "AI/ML API is cost-efficient, offering up to 80% savings compared to OpenAI, with flexible pay-as-you-go and subscription plans."
+        },
+        {
+            "question": "Can I switch between AI models easily?",
+            "answer": "Yes, the unified API allows users to switch between models without changing core integration code, enhancing flexibility."
+        }
+    ]
+}

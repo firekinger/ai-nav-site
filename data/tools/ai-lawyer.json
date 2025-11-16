@@ -1,0 +1,61 @@
+{
+    "name": "AI Lawyer",
+    "description": "AI Lawyer is an AI-powered platform that provides instant legal advice, document drafting, and consultation services to make legal assistance accessible and affordable.",
+    "longDescription": "AI Lawyer is an innovative online tool that utilizes artificial intelligence to democratize access to legal services, allowing users to get quick answers to legal questions without needing a traditional lawyer. Its mission is to simplify complex legal processes, reduce costs, and empower individuals and small businesses with reliable legal support. The platform solves problems like high legal fees and time-consuming consultations by offering automated, on-demand services such as contract generation and legal research. Users can interact with the AI through a chat interface, receiving tailored advice based on their inputs. Overall, it bridges the gap between professional legal expertise and everyday needs, making law more approachable.",
+    "url": "https://ailawyer.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ailawyer.pro.webp",
+    "category": "AI Legal Assistant",
+    "categorySlug": "ai-legal-assistant",
+    "slug": "ai-lawyer",
+    "categories": [
+        "AI Legal Assistant",
+        "AI Document Extraction",
+        "AI Contract Generator",
+        "AI Research Tool",
+        "AI Checker"
+    ],
+    "features": [
+        "Instant legal advice through an AI chatbot that answers queries on various legal topics, saving users time and money.",
+        "Automated document drafting for contracts, agreements, and forms, customized to user specifications for accuracy and efficiency.",
+        "Legal research tools that analyze case laws and statutes, providing summaries and insights to inform decisions.",
+        "Privacy-focused consultations ensuring user data is secure while delivering confidential legal guidance.",
+        "Multi-language support for legal advice, making it accessible to non-English speakers globally.",
+        "Integration with document storage for easy management and editing of generated legal files.",
+        "Affordable subscription plans that offer unlimited access to premium features beyond basic free usage.",
+        "AI-powered risk assessment for contracts, highlighting potential issues before finalization."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Lawyer?",
+            "answer": "AI Lawyer is an AI-driven platform that provides legal advice, document creation, and research tools to help users handle legal matters efficiently."
+        },
+        {
+            "question": "Is the advice from AI Lawyer legally binding?",
+            "answer": "No, the advice is for informational purposes only and not a substitute for professional legal counsel; users should consult a licensed attorney for binding advice."
+        },
+        {
+            "question": "Does AI Lawyer offer free services?",
+            "answer": "Yes, it provides limited free access to basic features like simple queries, with premium features available via subscription."
+        },
+        {
+            "question": "How accurate is the AI's legal information?",
+            "answer": "The AI is trained on vast legal databases and updated regularly, but accuracy depends on user inputs and it's recommended to verify with experts."
+        },
+        {
+            "question": "Can I use AI Lawyer for business contracts?",
+            "answer": "Yes, it specializes in drafting and reviewing business contracts, offering templates and customizations tailored to various industries."
+        },
+        {
+            "question": "Is my data secure on AI Lawyer?",
+            "answer": "Yes, the platform uses encryption and complies with data protection regulations to ensure user privacy and security."
+        },
+        {
+            "question": "What languages does AI Lawyer support?",
+            "answer": "It supports multiple languages including English, Spanish, and others, with plans for expansion."
+        },
+        {
+            "question": "How do I get started with AI Lawyer?",
+            "answer": "Simply visit the website, sign up for a free account, and start asking legal questions via the chat interface."
+        }
+    ]
+}

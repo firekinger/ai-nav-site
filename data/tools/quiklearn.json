@@ -1,0 +1,79 @@
+{
+    "name": "Quiklearn",
+    "description": "Quiklearn is an AI-powered platform that turns course materials into interactive flashcards and quizzes to help students study smarter and retain information effectively.",
+    "longDescription": "Quiklearn is a tool designed for students to transform their course materials, particularly PDFs, into customizable flashcards and quizzes using AI technology. It aims to facilitate effective revision by adapting to how memory works, reducing the need for cramming. The platform supports learning on-the-go, allows personalization of study materials, and ensures accessibility across devices for a seamless study experience. Created by Adeola, it addresses the frustration of traditional study methods by automating the creation of study aids, helping students understand and retain information more efficiently.",
+    "url": "https://quiklearn.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/quiklearn.app.webp",
+    "category": "AI Flashcard Maker",
+    "categorySlug": "ai-flashcard-maker",
+    "slug": "quiklearn",
+    "categories": [
+        "AI Flashcard Maker",
+        "AI Quizzes",
+        "AI Quiz Generator",
+        "AI Homework Helper",
+        "AI Language Learning",
+        "AI Knowledge Management",
+        "AI Answer",
+        "AI Course",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Generates interactive flashcards from uploaded course materials to aid in memory retention.",
+        "Creates quizzes from PDFs to test understanding of specific concepts, with a maximum of 50 questions per quiz.",
+        "Allows users to add or edit questions and flashcards to personalize their study experience.",
+        "Enables studying anywhere, anytime, with data accessible across devices after signing in.",
+        "Supports practicing difficult concepts by generating quizzes and reviewing flashcards up to three times for mastery.",
+        "Currently developing AI-generated answers for custom flashcards to enhance learning."
+    ],
+    "faqs": [
+        {
+            "question": "Does it work on my phone?",
+            "answer": "Yes, Quiklearn is fully responsive and works on all devices, including smartphones and tablets."
+        },
+        {
+            "question": "Why is the pricing so reasonable?",
+            "answer": "We're offering special launch pricing for our first week, which users can lock in forever for dollar subscriptions, with prices rising after the launch period."
+        },
+        {
+            "question": "Why 50 questions per quiz and 40 flashcards per deck?",
+            "answer": "Based on user feedback, 50 questions per quiz and 40 flashcards per deck are optimal for effective learning without overwhelming users."
+        },
+        {
+            "question": "What file types can I upload?",
+            "answer": "Currently, Quiklearn supports PDF uploads for generating flashcards and quiz questions."
+        },
+        {
+            "question": "Is there a file size limit for uploads?",
+            "answer": "Yes, individual PDF files should be under 10MB for optimal processing speed."
+        },
+        {
+            "question": "What happens to my uploaded files?",
+            "answer": "Files are securely processed to generate flashcards and quizzes, currently removed after processing, with potential future storage for advanced features under strict security protocols."
+        },
+        {
+            "question": "Can I upload multiple files at once?",
+            "answer": "Currently, you can upload one PDF at a time to ensure focused, high-quality content generation for each subject."
+        },
+        {
+            "question": "From what age grade can I start using Quiklearn?",
+            "answer": "Quiklearn is suitable for middle school, high school, college, masters students, and lifelong learners."
+        },
+        {
+            "question": "Should I study first before using Quiklearn?",
+            "answer": "Not necessarily, as you can use quizzes to assess knowledge and study if needed, improving scores over time."
+        },
+        {
+            "question": "Can I add my own question to a quiz, or flashcard to deck?",
+            "answer": "Yes, you can easily add your own questions to quizzes or flashcards to decks for personalization."
+        },
+        {
+            "question": "What more can I expect from Quiklearn?",
+            "answer": "Expect continuous evolution, including AI-generated answers for custom flashcards, based on user feedback."
+        },
+        {
+            "question": "When does the launch pricing end?",
+            "answer": "Launch pricing is available for the first week after Quiklearn goes live, with monthly pricing increasing afterward."
+        }
+    ]
+}

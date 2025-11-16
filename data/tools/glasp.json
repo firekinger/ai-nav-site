@@ -1,0 +1,51 @@
+{
+    "name": "Glasp",
+    "description": "Glasp is a social web highlighter that enables users to capture, organize, and share highlights and notes from web pages and PDFs.",
+    "longDescription": "Glasp is a productivity tool designed to help users highlight, annotate, and organize content from the web and PDFs, fostering knowledge sharing and collaboration. It allows users to save key insights, tag them for easy retrieval, and share them with a community or specific groups. The platform integrates with browsers and supports cross-device synchronization, making it accessible for both personal and professional use. Glasp's mission is to create a collective knowledge base where users can learn from each other’s curated insights. By combining annotation tools with social features, it solves the problem of fragmented information and enhances collaborative learning and research.",
+    "url": "https://glasp.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/glasp.co.webp",
+    "category": "AI Productivity Tools",
+    "categorySlug": "ai-productivity-tools",
+    "slug": "glasp",
+    "categories": [
+        "AI Productivity Tools",
+        "AI Language Learning",
+        "AI Social Media"
+    ],
+    "features": [
+        "Highlight web pages and PDFs to capture key text and save it instantly.",
+        "Organize highlights with tags for efficient categorization and retrieval.",
+        "Share highlights publicly or with specific groups to foster collaboration.",
+        "Access a community feed to discover insights and highlights from other users.",
+        "Sync highlights across devices for seamless access on browser or mobile.",
+        "Export highlights to productivity tools like Notion for streamlined workflows.",
+        "Create a public profile to showcase your curated knowledge and insights.",
+        "Use browser extensions for Chrome, Safari, or Firefox for easy highlighting."
+    ],
+    "faqs": [
+        {
+            "question": "What is Glasp used for?",
+            "answer": "Glasp is used to highlight, annotate, and organize content from web pages and PDFs, allowing users to save and share insights."
+        },
+        {
+            "question": "Is Glasp free to use?",
+            "answer": "Yes, Glasp offers a free plan with core features like highlighting and sharing, though premium features may require a subscription."
+        },
+        {
+            "question": "Can I share my highlights with others?",
+            "answer": "Yes, Glasp allows you to share highlights publicly, with specific groups, or privately with selected individuals."
+        },
+        {
+            "question": "Does Glasp work on mobile devices?",
+            "answer": "Glasp supports cross-device synchronization, enabling access to highlights on mobile browsers or apps."
+        },
+        {
+            "question": "Can I export my highlights to other tools?",
+            "answer": "Yes, Glasp supports exporting highlights to tools like Notion, Obsidian, and others for seamless integration."
+        },
+        {
+            "question": "Is Glasp available as a browser extension?",
+            "answer": "Yes, Glasp offers browser extensions for Chrome, Safari, and Firefox to highlight directly from web pages."
+        }
+    ]
+}

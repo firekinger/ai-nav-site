@@ -1,0 +1,58 @@
+{
+    "name": "Dabe",
+    "description": "Dabe is a no-code AI automation platform that streamlines tasks across 250+ apps using AI agents.",
+    "longDescription": "Dabe is a no-code platform designed to automate repetitive tasks by creating specialized AI agents that integrate with over 250 apps, such as Gmail, Slack, and Notion. Users can describe tasks in plain English, and Dabe builds, tests, and executes automations in the background, eliminating the need for technical expertise. The platform aims to save time for solo operators, small teams, and large organizations by providing scalable AI-driven solutions. Its mission is to simplify workflow automation, making it accessible to non-technical users while ensuring efficiency and accuracy. Dabe offers a free plan for basic use and charges only when automations run successfully, supporting unlimited users across all plans.",
+    "url": "https://dabe.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dabe.io.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "dabe",
+    "categories": [
+        "AI Agent",
+        "No-Code&Low-Code",
+        "AI Workflow",
+        "AI Task Management",
+        "AI App Builder",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Dabe creates custom AI agents that automate tasks across 250+ apps, enhancing productivity without coding.",
+        "Users can describe tasks in plain English, allowing quick setup of automations without technical skills.",
+        "The platform integrates with tools like Gmail, Slack, and Notion, enabling seamless workflow connectivity.",
+        "Dabe tests and runs automations in the background, ensuring reliable and error-free task execution.",
+        "A free plan supports basic automation needs, with pricing applied only for successful task runs.",
+        "Unlimited users are supported on all plans, making it ideal for teams of any size.",
+        "The visual workflow builder simplifies the creation and management of complex automations.",
+        "Dabe provides templates for common tasks, speeding up the automation setup process."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dabe and how does it work?",
+            "answer": "Dabe is a no-code platform that creates AI agents to automate tasks across 250+ apps. Users describe tasks in plain English, and Dabe builds and runs the automation."
+        },
+        {
+            "question": "Do I need coding skills to use Dabe?",
+            "answer": "No, Dabe requires no coding skills; users can create automations by describing tasks in plain English or using templates."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Dabe offers a free plan for basic automation needs, with charges only for successful task executions."
+        },
+        {
+            "question": "What apps does Dabe integrate with?",
+            "answer": "Dabe connects with over 250 apps, including Gmail, Slack, Notion, and more, for seamless task automation."
+        },
+        {
+            "question": "Can multiple users access Dabe on the same plan?",
+            "answer": "Yes, Dabe supports unlimited users on all plans, making it suitable for teams of any size."
+        },
+        {
+            "question": "How does Dabe ensure automation reliability?",
+            "answer": "Dabe automatically tests and runs automations in the background, ensuring accuracy and minimizing errors."
+        },
+        {
+            "question": "What types of tasks can Dabe automate?",
+            "answer": "Dabe can automate repetitive tasks like email management, data entry, and notifications across supported apps."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "AI Video Maker",
+    "description": "AI Video Maker is an online platform that leverages artificial intelligence to simplify video creation and editing for users of all skill levels.",
+    "longDescription": "AI Video Maker is a web-based tool designed to democratize video production by using AI algorithms to generate videos from text prompts, images, or scripts. Its mission is to make professional-quality video content accessible to everyone, from marketers and educators to social media influencers, without requiring advanced technical skills or expensive software. The platform solves common problems in video creation, such as time-consuming editing and lack of creative resources, by automating processes like scene generation, voiceovers, and transitions. Users can input simple descriptions or upload assets, and the AI handles the rest, producing customizable videos in minutes. This serves a wide range of users by enabling quick content creation for business, education, or personal projects, ultimately saving time and reducing costs associated with traditional video production.",
+    "url": "https://aivideomaker.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aivideomaker.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "ai-video-maker",
+    "categories": [
+        "AI Video Generator",
+        "AI Proofreading",
+        "AI Speech Synthesis",
+        "AI Writing",
+        "AI Social Media",
+        "AI Animation Generator",
+        "AI Productivity Tools",
+        "AI Creative Writing",
+        "AI Marketing"
+    ],
+    "features": [
+        "Text-to-video generation allows users to create videos by simply entering descriptive text, automating the process of turning ideas into visual content.",
+        "AI-powered editing tools enable automatic cutting, transitions, and effects application, streamlining the post-production workflow for efficiency.",
+        "Customizable templates provide pre-designed layouts for various video types, helping users start projects quickly with professional looks.",
+        "Voiceover synthesis uses AI to generate natural-sounding narration from text, eliminating the need for recording equipment or voice actors.",
+        "Image and asset integration lets users upload photos or clips, which the AI enhances or incorporates seamlessly into videos.",
+        "Real-time previews offer instant feedback on changes, allowing users to iterate and refine videos without long rendering times.",
+        "Export options in multiple formats ensure compatibility with platforms like social media, websites, or presentations.",
+        "Collaboration features enable team members to work on projects simultaneously, fostering creative teamwork remotely.",
+        "Music and sound effect libraries powered by AI suggest and add audio elements that match the video's mood and content.",
+        "Analytics tools track video performance post-export, providing insights to improve future content creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Video Maker?",
+            "answer": "AI Video Maker is an online platform that uses artificial intelligence to create and edit videos from text, images, or scripts. It simplifies video production for users without professional skills."
+        },
+        {
+            "question": "Do I need any software to use AI Video Maker?",
+            "answer": "No, it's entirely web-based, so you can access it from any browser without downloading additional software. Just sign up and start creating."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, AI Video Maker offers a free plan with limited features and video exports. Upgrading to a paid plan unlocks more advanced tools and unlimited usage."
+        },
+        {
+            "question": "How long does it take to generate a video?",
+            "answer": "Most videos are generated in minutes, depending on complexity and length. The AI processes inputs quickly to provide fast results."
+        },
+        {
+            "question": "Can I customize the AI-generated videos?",
+            "answer": "Absolutely, users can edit elements like text, images, transitions, and audio after generation. The platform provides intuitive tools for personalization."
+        },
+        {
+            "question": "What types of videos can I create?",
+            "answer": "You can create promotional videos, educational content, social media clips, animations, and more. The AI supports a variety of styles and formats."
+        },
+        {
+            "question": "Is my data secure on the platform?",
+            "answer": "Yes, AI Video Maker uses encryption and secure servers to protect user data and projects. They comply with standard privacy regulations."
+        },
+        {
+            "question": "Does it support multiple languages?",
+            "answer": "The platform supports text inputs in multiple languages for video generation and voiceovers. However, some advanced features may be optimized for English."
+        },
+        {
+            "question": "Can I use my own music or voice?",
+            "answer": "Yes, you can upload custom audio files to integrate into your videos. The AI can also enhance or sync them automatically."
+        },
+        {
+            "question": "What if I'm not satisfied with the generated video?",
+            "answer": "You can regenerate or edit the video using the platform's tools. Paid plans often include credits for multiple attempts."
+        }
+    ]
+}

@@ -1,0 +1,1271 @@
+{
+    "title": "The Best 116 AI Video Editor Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Video Editor category, designed to streamline your video production process. These innovative tools leverage advanced algorithms to enhance editing efficiency, automate tedious tasks, and elevate your content quality. Whether you're a marketer, content creator, or educator, our curated selection of AI video editors helps you craft stunning visuals effortlessly. Explore the transformative power of AI in video editing and take your projects to the next level. Dive in now to discover the perfect tool for your needs!",
+    "tools": [
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "CapCut",
+            "slug": "capcut",
+            "description": "CapCut is an AI-powered platform for easy video editing and graphic design across multiple devices.",
+            "icon": "/logo/capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Cutout.Pro",
+            "slug": "cutout-pro",
+            "description": "Cutout.Pro is an AI-powered platform for automated photo and video editing, specializing in background removal and visual content creation.",
+            "icon": "/logo/cutout.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "VEED.IO",
+            "slug": "veed-io",
+            "description": "VEED.IO is an AI-powered online video editing platform that simplifies the creation and enhancement of professional-quality videos for creators and businesses.",
+            "icon": "/logo/veed.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "134",
+            "name": "Wondershare",
+            "slug": "wondershare",
+            "description": "Wondershare provides AI-powered software solutions for video editing, PDF management, data recovery, and mobile device management to enhance creativity and productivity.",
+            "icon": "/logo/wondershare.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "73",
+            "name": "AIFaceSwap",
+            "slug": "aifaceswap",
+            "description": "AIFaceSwap.io is a free online platform for seamlessly swapping faces in photos and videos using advanced AI technology.",
+            "icon": "/logo/aifaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "InVideo",
+            "slug": "invideo",
+            "description": "InVideo is an AI-powered video creation platform that simplifies professional-quality video production for users of all skill levels.",
+            "icon": "/logo/invideo.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "137",
+            "name": "Clipto",
+            "slug": "clipto",
+            "description": "Clipto is an AI-powered platform for transcription, video editing, and digital asset management, designed to streamline content creation.",
+            "icon": "/logo/www.clipto.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Runway",
+            "slug": "runway",
+            "description": "Runway is an AI-powered platform for creating and editing videos, images, and audio to enhance human creativity.",
+            "icon": "/logo/runwayml.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Vidnoz",
+            "slug": "vidnoz",
+            "description": "Vidnoz is an AI-powered platform for creating professional videos quickly using avatars, templates, and voiceovers.",
+            "icon": "/logo/vidnoz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "149",
+            "name": "Pollo AI",
+            "slug": "pollo-ai",
+            "description": "Pollo AI is a platform offering advanced AI-powered video generation and editing tools for creating professional-grade content.",
+            "icon": "/logo/pollo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "153",
+            "name": "Opus Pro",
+            "slug": "opus-pro",
+            "description": "Opus Pro is an AI-powered video editing platform designed to streamline content creation for creators and businesses.",
+            "icon": "/logo/www.opus.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "156",
+            "name": "Kapwing",
+            "slug": "kapwing",
+            "description": "Kapwing is an online platform for creating and editing videos, images, and GIFs with user-friendly tools.",
+            "icon": "/logo/kapwing.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "91",
+            "name": "Media.io",
+            "slug": "media-io",
+            "description": "Media.io is an online platform offering AI-powered tools for editing, converting, and enhancing audio, video, and image files directly in the browser.",
+            "icon": "/logo/media.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "179",
+            "name": "WatermarkRemover.io",
+            "slug": "watermarkremover-io",
+            "description": "WatermarkRemover.io is an online tool that uses AI to remove watermarks from images and videos, offering a user-friendly solution for content creators.",
+            "icon": "/logo/www.watermarkremover.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "181",
+            "name": "Descript",
+            "slug": "descript",
+            "description": "Descript is an all-in-one audio and video editing platform that simplifies content creation with AI-powered tools.",
+            "icon": "/logo/www.descript.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "183",
+            "name": "Vidu",
+            "slug": "vidu",
+            "description": "Vidu is an AI-powered platform for generating high-quality videos and animations from text prompts or images.",
+            "icon": "/logo/www.vidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "185",
+            "name": "Viggle AI",
+            "slug": "viggle-ai",
+            "description": "Viggle AI is an AI-powered platform for creating and editing animated videos from text prompts or images.",
+            "icon": "/logo/viggle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "Pika.art",
+            "slug": "pika-art",
+            "description": "Pika.art is an AI-powered platform for creating and editing videos and images from text prompts or existing media.",
+            "icon": "/logo/pika.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "209",
+            "name": "FlexClip",
+            "slug": "flexclip",
+            "description": "FlexClip is an online video editing platform that enables users to create professional-quality videos with ease.",
+            "icon": "/logo/www.flexclip.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "212",
+            "name": "Pictory",
+            "slug": "pictory",
+            "description": "Pictory.ai transforms text, videos, and audio into engaging, professional-quality videos using AI-driven tools.",
+            "icon": "/logo/pictory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "218",
+            "name": "Synthesia",
+            "slug": "synthesia",
+            "description": "Synthesia is an AI-powered platform for creating professional videos from text in minutes.",
+            "icon": "/logo/www.synthesia.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "227",
+            "name": "Magic Hour",
+            "slug": "magic-hour",
+            "description": "Magic Hour is an AI-powered platform for creating and editing professional-quality videos with ease.",
+            "icon": "/logo/magichour.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1283",
+            "name": "Vidfly.ai",
+            "slug": "vidfly-ai",
+            "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+            "icon": "/logo/vidfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "230",
+            "name": "Dewatermark.ai",
+            "slug": "dewatermark-ai",
+            "description": "Dewatermark.ai is an AI-powered tool for removing watermarks from images and videos, offering fast and high-quality results.",
+            "icon": "/logo/dewatermark.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "236",
+            "name": "Vizard",
+            "slug": "vizard",
+            "description": "Vizard.ai is an AI-powered video editing platform that simplifies content creation for creators, marketers, and businesses.",
+            "icon": "/logo/vizard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "256",
+            "name": "LTX Studio",
+            "slug": "ltx-studio",
+            "description": "LTX Studio is an AI-powered platform for creating and editing professional-quality videos and animations from text prompts or scripts.",
+            "icon": "/logo/ltx.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "261",
+            "name": "Captions",
+            "slug": "captions",
+            "description": "Captions is an AI-powered platform for creating, editing, and enhancing videos with automated subtitles, translations, and visual effects.",
+            "icon": "/logo/www.captions.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "268",
+            "name": "Clipfly",
+            "slug": "clipfly",
+            "description": "Clipfly is an AI-powered platform for creating and editing videos effortlessly.",
+            "icon": "/logo/www.clipfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "ScreenApp",
+            "slug": "screenapp",
+            "description": "ScreenApp is a versatile screen recording and video editing platform designed to simplify content creation and collaboration.",
+            "icon": "/logo/screenapp.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "276",
+            "name": "TopMediai",
+            "slug": "topmediai",
+            "description": "TopMediai provides AI-powered tools for audio, image, and video processing to enhance creative and professional projects.",
+            "icon": "/logo/www.topmediai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "279",
+            "name": "PhotoGrid",
+            "slug": "photogrid",
+            "description": "PhotoGrid is an online platform for creating photo collages, videos, and graphic designs with user-friendly tools.",
+            "icon": "/logo/www.photogrid.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "Piktochart",
+            "slug": "piktochart",
+            "description": "Piktochart is an online platform for creating stunning infographics, presentations, reports, and videos with AI-powered tools and templates.",
+            "icon": "/logo/piktochart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "312",
+            "name": "Creatify",
+            "slug": "creatify",
+            "description": "Creatify is an AI-powered platform that automates the creation of engaging video advertisements from product links or descriptions.",
+            "icon": "/logo/creatify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "321",
+            "name": "AKOOL",
+            "slug": "akool",
+            "description": "AKOOL is a generative AI platform for creating personalized visual marketing and advertising content.",
+            "icon": "/logo/akool.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "327",
+            "name": "AI Studios",
+            "slug": "ai-studios",
+            "description": "AI Studios is an AI-powered video generation platform that transforms text into professional videos with realistic avatars and multilingual voiceovers.",
+            "icon": "/logo/www.aistudios.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "329",
+            "name": "SwapFace",
+            "slug": "swapface",
+            "description": "SwapFace is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering free and premium tools for creative content creation.",
+            "icon": "/logo/www.swapfaces.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "330",
+            "name": "Revid AI",
+            "slug": "revid-ai",
+            "description": "Revid AI is an AI-powered platform for creating viral short videos for social media platforms like TikTok, Instagram, and YouTube.",
+            "icon": "/logo/www.revid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "339",
+            "name": "Submagic",
+            "slug": "submagic",
+            "description": "Submagic is an AI-powered platform that creates captivating short-form videos with dynamic captions, B-rolls, and smart edits to boost social media engagement.",
+            "icon": "/logo/www.submagic.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "354",
+            "name": "MyIMG",
+            "slug": "myimg",
+            "description": "MyIMG is an AI-powered platform for transforming photos into cartoons, generating images from text, and editing visuals with features like face swapping and clothes removal.",
+            "icon": "/logo/www.myimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "371",
+            "name": "AiPPT",
+            "slug": "aippt",
+            "description": "AiPPT is an AI-powered toolkit for creating professional presentations with minimal effort.",
+            "icon": "/logo/www.aippt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "375",
+            "name": "Unscreen",
+            "slug": "unscreen",
+            "description": "Unscreen is an AI-powered tool that automatically removes backgrounds from videos and GIFs for seamless editing.",
+            "icon": "/logo/www.unscreen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "397",
+            "name": "Easy With AI",
+            "slug": "easy-with-ai",
+            "description": "Easy With AI is a comprehensive directory of AI tools and resources to help users discover and utilize AI solutions across various industries.",
+            "icon": "/logo/easywithai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "407",
+            "name": "Topview AI",
+            "slug": "topview-ai",
+            "description": "Topview AI is an AI-powered video editor that transforms links or media assets into viral marketing videos with one click.",
+            "icon": "/logo/www.topview.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "444",
+            "name": "Mango Animate",
+            "slug": "mango-animate",
+            "description": "Mango Animate provides user-friendly software for creating professional animated videos, whiteboard animations, and AI-driven video content.",
+            "icon": "/logo/mangoanimate.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "448",
+            "name": "GoEnhance AI",
+            "slug": "goenhance-ai",
+            "description": "GoEnhance AI is an AI-powered platform for transforming and enhancing videos and images with advanced creative tools.",
+            "icon": "/logo/www.goenhance.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "455",
+            "name": "JoggAI",
+            "slug": "joggai",
+            "description": "JoggAI is an AI-powered video generator that creates engaging videos with lifelike AI avatars from text, URLs, or images.",
+            "icon": "/logo/www.jogg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "461",
+            "name": "DomoAI",
+            "slug": "domoai",
+            "description": "DomoAI is an AI-powered platform for transforming videos, images, and text into high-quality animations and creative styles.",
+            "icon": "/logo/www.domoai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "464",
+            "name": "Ssemble",
+            "slug": "ssemble",
+            "description": "Ssemble is an AI-powered online video editor that transforms long-form videos into engaging short-form content for social media platforms.",
+            "icon": "/logo/www.ssemble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "467",
+            "name": "Futurepedia",
+            "slug": "futurepedia",
+            "description": "Futurepedia is a comprehensive directory of AI tools designed to help professionals and enthusiasts discover and leverage AI technologies for various applications.",
+            "icon": "/logo/www.futurepedia.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "471",
+            "name": "Apowersoft",
+            "slug": "apowersoft",
+            "description": "Apowersoft provides multimedia and business solutions for recording, editing, and sharing digital content across devices.",
+            "icon": "/logo/www.apowersoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "489",
+            "name": "LOVO AI",
+            "slug": "lovo-ai",
+            "description": "LOVO AI is an AI-powered platform for generating realistic voiceovers and creating professional videos with text-to-speech technology.",
+            "icon": "/logo/lovo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "492",
+            "name": "X-Design",
+            "slug": "x-design",
+            "description": "X-Design provides AI-powered photo editing tools to create professional product visuals for e-commerce and marketing.",
+            "icon": "/logo/www.x-design.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "495",
+            "name": "Reface",
+            "slug": "reface-ai",
+            "description": "Reface is an AI-powered platform for creating realistic face swaps and animations in photos, videos, and GIFs.",
+            "icon": "/logo/reface.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "496",
+            "name": "Facetune",
+            "slug": "facetune",
+            "description": "Facetune is a mobile app for AI-powered photo and video editing, specializing in selfie enhancements and creative retouching.",
+            "icon": "/logo/www.facetuneapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "509",
+            "name": "Quso.ai",
+            "slug": "quso-ai",
+            "description": "Quso.ai is an all-in-one AI-powered platform for social media content creation, management, and analytics.",
+            "icon": "/logo/quso.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "541",
+            "name": "Deepswap",
+            "slug": "deepswap-ai",
+            "description": "Deepswap is an AI-powered platform for seamless face swapping in videos, photos, and GIFs, offering realistic results for creative and professional use.",
+            "icon": "/logo/www.deepswap.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "543",
+            "name": "Grey's Secret Room",
+            "slug": "greys-secret-room",
+            "description": "Grey's Secret Room provides AI-powered tools for virtual clothing try-ons, undressing simulations, and face swaps for photos and videos.",
+            "icon": "/logo/undressbaby.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "555",
+            "name": "FliFlik",
+            "slug": "fliflik",
+            "description": "FliFlik provides AI-powered multimedia software for editing and enhancing videos, audio, and images across multiple platforms.",
+            "icon": "/logo/fliflik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "556",
+            "name": "Deepfakes Web",
+            "slug": "deepfakes-web",
+            "description": "Deepfakes Web is an online platform that uses AI to create realistic face-swap videos for entertainment and creative purposes.",
+            "icon": "/logo/deepfakesweb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1351",
+            "name": "Hera",
+            "slug": "hera",
+            "description": "Hera is an AI-powered platform that enables users to generate and edit videos using advanced artificial intelligence tools.",
+            "icon": "/logo/hera.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "606",
+            "name": "Klap",
+            "slug": "klap",
+            "description": "Klap uses AI to transform long videos into engaging, viral-ready short clips for social media platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+            "icon": "/logo/klap.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "612",
+            "name": "DupDub",
+            "slug": "dupdub",
+            "description": "DupDub is an AI-powered platform for creating realistic voiceovers, animated avatars, and multimedia content.",
+            "icon": "/logo/www.dupdub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "630",
+            "name": "Zebracat",
+            "slug": "zebracat-ai",
+            "description": "Zebracat is an AI-powered platform that transforms text into engaging, professional-quality marketing videos in minutes.",
+            "icon": "/logo/www.zebracat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "631",
+            "name": "RecCloud",
+            "slug": "reccloud",
+            "description": "RecCloud is an AI-powered multimedia platform offering tools for video and audio creation, editing, and cloud storage.",
+            "icon": "/logo/reccloud.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "641",
+            "name": "CinemaFlow AI",
+            "slug": "cinemaflow-ai",
+            "description": "CinemaFlow AI transforms scripts into stunning visual videos using advanced AI technology with a single click.",
+            "icon": "/logo/www.cinemaflow.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "650",
+            "name": "VidMage",
+            "slug": "vidmage-ai",
+            "description": "VidMage is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering realistic results for creative and entertainment purposes.",
+            "icon": "/logo/vidmage.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "668",
+            "name": "Crayo AI",
+            "slug": "crayo-ai",
+            "description": "Crayo AI is an AI-powered platform for creating viral-ready short-form videos for social media in minutes.",
+            "icon": "/logo/crayo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "684",
+            "name": "BeArt AI",
+            "slug": "beart-ai",
+            "description": "BeArt AI is a free online platform offering AI-driven tools for seamless face swapping and editing in photos, videos, and GIFs.",
+            "icon": "/logo/beart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1312",
+            "name": "Tella",
+            "slug": "tella",
+            "description": "Tella is an online screen recorder and AI-powered video editor designed to help users create professional videos easily and efficiently.",
+            "icon": "/logo/www.tella.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "691",
+            "name": "EchoWave",
+            "slug": "echowave",
+            "description": "EchoWave is an online video and audio editor that transforms audio content into engaging videos for social media platforms.",
+            "icon": "/logo/echowave.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "707",
+            "name": "VidAU",
+            "slug": "vidau-ai",
+            "description": "VidAU is an AI-powered platform for creating high-quality video ads and content with minimal effort.",
+            "icon": "/logo/www.vidau.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1346",
+            "name": "Facy.ai",
+            "slug": "facy-ai",
+            "description": "Facy.ai is a cloud-based AI platform for face swapping in images and videos, providing free and premium tools for high-quality media editing and transformations.",
+            "icon": "/logo/facy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "743",
+            "name": "Bluedot",
+            "slug": "bluedot",
+            "description": "Bluedot provides an AI-powered note-taking and meeting recording solution for platforms like Google Meet, Zoom, and Microsoft Teams.",
+            "icon": "/logo/www.bluedothq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "792",
+            "name": "Eklipse",
+            "slug": "eklipse",
+            "description": "Eklipse is an AI-powered platform that automatically generates and edits gaming highlight clips from streams for social media sharing.",
+            "icon": "/logo/eklipse.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "820",
+            "name": "Gling",
+            "slug": "gling-ai",
+            "description": "Gling is an AI-powered video editing software designed to streamline content creation for YouTube creators by automating the removal of unwanted footage and enhancing video quality.",
+            "icon": "/logo/www.gling.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "822",
+            "name": "Komodo Decks",
+            "slug": "komodo-decks",
+            "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+            "icon": "/logo/komododecks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "838",
+            "name": "Syllaby",
+            "slug": "syllaby",
+            "description": "Syllaby is an AI-powered platform that streamlines the creation of viral social media videos with tools for ideation, scripting, and editing.",
+            "icon": "/logo/syllaby.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "844",
+            "name": "Neural Frames",
+            "slug": "neural-frames",
+            "description": "Neural Frames is an AI-powered platform that generates animated videos from text prompts, enabling users to create music videos, animations, and visual content effortlessly.",
+            "icon": "/logo/www.neuralframes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "857",
+            "name": "ImageToVideo AI",
+            "slug": "imagetovideo-ai",
+            "description": "ImageToVideo AI is an online platform that uses artificial intelligence to convert static images into dynamic videos, catering to creators, marketers, and casual users.",
+            "icon": "/logo/imagetovideoai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "862",
+            "name": "Spikes Studio",
+            "slug": "spikes-studio",
+            "description": "Spikes Studio is an AI-powered platform that automates video clipping and editing to help content creators produce engaging short-form videos from longer content for social media.",
+            "icon": "/logo/spikes.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "Hunyuan Video AI",
+            "slug": "hunyuan-video-ai",
+            "description": "Hunyuan Video AI is an advanced platform that leverages artificial intelligence to generate and edit videos from text prompts and images.",
+            "icon": "/logo/hunyuanvideoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "870",
+            "name": "AI Video Generator",
+            "slug": "ai-video-generator",
+            "description": "AI Video Generator is an online platform that uses artificial intelligence to create videos from text prompts, images, or other inputs, making video production accessible and efficient.",
+            "icon": "/logo/aivideogenerator.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "877",
+            "name": "Vidful.ai",
+            "slug": "vidful-ai",
+            "description": "Vidful.ai is an AI-powered platform that allows users to generate, edit, and enhance videos using advanced artificial intelligence tools.",
+            "icon": "/logo/vidful.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "899",
+            "name": "Viggle AI",
+            "slug": "viggle-ai-io",
+            "description": "Viggle AI is an innovative platform that uses artificial intelligence to animate static images into dynamic videos and create customizable video content effortlessly.",
+            "icon": "/logo/viggleai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "926",
+            "name": "Label Studio",
+            "slug": "label-studio",
+            "description": "Label Studio is an open-source data labeling platform designed to annotate various data types for training machine learning and AI models.",
+            "icon": "/logo/labelstud.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "967",
+            "name": "Krikey AI",
+            "slug": "krikey-ai",
+            "description": "Krikey AI is an innovative platform that harnesses artificial intelligence to simplify the creation of 3D animations, custom avatars, and AI-generated videos for creators and businesses.",
+            "icon": "/logo/www.krikey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "979",
+            "name": "Autocut",
+            "slug": "autocut",
+            "description": "Autocut is an AI-powered plugin for Adobe Premiere Pro that automates video editing tasks to streamline content creation for podcasters, YouTubers, and video professionals.",
+            "icon": "/logo/www.autocut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1005",
+            "name": "Firecut",
+            "slug": "firecut-ai",
+            "description": "Firecut is an AI-powered plugin for Adobe Premiere Pro that automates tedious video editing tasks to accelerate content creation for video professionals and creators.",
+            "icon": "/logo/firecut.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1033",
+            "name": "MyMeet.ai",
+            "slug": "mymeet-ai",
+            "description": "MyMeet.ai is an AI-powered platform that automates meeting transcription, summarization, and action item tracking to boost productivity and collaboration.",
+            "icon": "/logo/mymeet.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1038",
+            "name": "ImageMover.ai",
+            "slug": "imagemover-ai",
+            "description": "ImageMover.ai is an AI-powered platform that transforms images, text, and scripts into professional videos using advanced algorithms and templates.",
+            "icon": "/logo/imagemover.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1115",
+            "name": "AutoCaption",
+            "slug": "autocaption",
+            "description": "AutoCaption is an AI-powered platform that automatically generates animated captions and subtitles for videos to enhance engagement on social media.",
+            "icon": "/logo/www.autocaption.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1126",
+            "name": "VideoFaceSwap.io",
+            "slug": "videofaceswap-io",
+            "description": "VideoFaceSwap.io is an AI-driven platform that enables users to seamlessly swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/videofaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1146",
+            "name": "AIJourney",
+            "slug": "aijourney",
+            "description": "AIJourney is a platform that helps professionals discover, learn, and master AI tools through expert reviews, insights, and a curated directory of AI technologies.",
+            "icon": "/logo/aijourney.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1163",
+            "name": "Woxo",
+            "slug": "woxo",
+            "description": "Woxo is an AI-driven platform that simplifies video creation, allowing users to generate engaging short-form videos for social media using text prompts and customizable templates.",
+            "icon": "/logo/woxo.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1164",
+            "name": "Powder",
+            "slug": "powder",
+            "description": "Powder is an AI-powered clipping tool that automatically generates highlight clips from gaming streams and videos for content creators.",
+            "icon": "/logo/powder.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1183",
+            "name": "Bith AI",
+            "slug": "bith-ai",
+            "description": "Bith AI is an all-in-one AI-powered video editor that simplifies content creation, allowing users to generate, edit, and publish videos and images effortlessly.",
+            "icon": "/logo/bith.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1184",
+            "name": "BgRem",
+            "slug": "bgrem-ai",
+            "description": "BgRem offers AI-powered tools for creating and editing images and videos, focusing on user-friendly services for content generation.",
+            "icon": "/logo/bgrem.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1219",
+            "name": "Colossyan",
+            "slug": "colossyan",
+            "description": "Colossyan is an AI-powered platform for creating professional videos using customizable AI avatars and text-to-video technology, primarily for business training, marketing, and communication.",
+            "icon": "/logo/www.colossyan.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1406",
+            "name": "Golpo AI Video",
+            "slug": "golpo-ai-video",
+            "description": "Golpo AI Video is an AI-driven platform that enables users to generate and edit videos using advanced artificial intelligence technology.",
+            "icon": "/logo/video.golpoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1339",
+            "name": "Vidduo",
+            "slug": "vidduo",
+            "description": "Vidduo is an AI-powered platform for seamless video dubbing and translation, enabling users to adapt content across languages with natural voiceovers and lip-syncing.",
+            "icon": "/logo/www.vidduo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1329",
+            "name": "Veo",
+            "slug": "www-veo",
+            "description": "Veo is an AI-powered platform specializing in video generation and editing tools for creators and businesses.",
+            "icon": "/logo/www-veo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "Reeroll",
+            "slug": "reeroll",
+            "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+            "icon": "/logo/reeroll.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1375",
+            "name": "RunAleph",
+            "slug": "runaleph",
+            "description": "RunAleph is a platform designed for running and deploying AI models in a decentralized computing environment.",
+            "icon": "/logo/runaleph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1388",
+            "name": "FaceSwapVideo.ai",
+            "slug": "faceswapvideo-ai",
+            "description": "FaceSwapVideo.ai is an AI-powered platform that enables users to easily swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/faceswapvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1432",
+            "name": "Runway Aleph AI",
+            "slug": "runway-aleph-ai",
+            "description": "Runway Aleph AI is an advanced AI-powered video editing platform that allows users to transform existing videos using simple text prompts for tasks like changing camera angles, removing objects, and adjusting lighting.",
+            "icon": "/logo/runwayalephai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Picsart",
+            "slug": "picsart",
+            "description": "Picsart is a creative platform offering AI-powered photo and video editing tools for users of all skill levels.",
+            "icon": "/logo/picsart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Tongyi",
+            "slug": "tongyi",
+            "description": "Tongyi is an AI-powered platform by Alibaba Cloud offering versatile tools for text, coding, and multimedia tasks.",
+            "icon": "/logo/tongyi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "69",
+            "name": "Clipchamp",
+            "slug": "clipchamp",
+            "description": "Clipchamp is a user-friendly video editing platform for creating professional-quality videos.",
+            "icon": "/logo/clipchamp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "129",
+            "name": "Moonvalley",
+            "slug": "moonvalley",
+            "description": "Moonvalley is an AI research lab creating tools for high-definition video generation for filmmakers and creative professionals.",
+            "icon": "/logo/www.moonvalley.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        },
+        {
+            "id": "1435",
+            "name": "Veo 3",
+            "slug": "veo-3-ai",
+            "description": "Veo 3 is an AI tool that generates videos with synchronized audio, including sound effects, dialogue, and ambient noise, using text descriptions or image references.",
+            "icon": "/logo/veo3.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-editor"
+            ]
+        }
+    ]
+}

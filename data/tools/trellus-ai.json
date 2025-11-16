@@ -1,0 +1,72 @@
+{
+    "name": "Trellus",
+    "description": "Trellus is an AI-powered platform that provides real-time coaching to sales teams during cold calls to enhance performance and increase conversion rates.",
+    "longDescription": "Trellus is an innovative AI-driven tool designed specifically for sales professionals, offering real-time guidance and coaching during live cold calls to help reps handle objections and close deals more effectively. Its mission is to democratize access to expert sales coaching by leveraging artificial intelligence to analyze conversations on the fly, suggesting optimal responses and strategies without interrupting the flow. The platform integrates seamlessly with popular dialing systems, making it easy for sales teams to adopt and use in their daily workflows. By solving common problems like inconsistent sales techniques and high rejection rates, Trellus empowers users to improve their skills, boost confidence, and ultimately drive higher revenue for their organizations. This technology serves as a virtual sales coach, reducing the need for extensive training programs and enabling faster onboarding of new team members.",
+    "url": "https://www.trellus.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.trellus.ai.webp",
+    "category": "AI Coaching",
+    "categorySlug": "ai-coaching",
+    "slug": "trellus-ai",
+    "categories": [
+        "AI Coaching",
+        "AI Call Center",
+        "AI Sales",
+        "AI Sales Assistant",
+        "AI Cold Calling",
+        "AI Writing"
+    ],
+    "features": [
+        "Real-time AI coaching analyzes ongoing calls and provides instant suggestions to handle objections and guide conversations effectively.",
+        "Seamless integration with popular dialers like Aircall, RingCentral, and others ensures easy setup and compatibility with existing sales tools.",
+        "Objection detection uses AI to identify common buyer hesitations and offers tailored responses to overcome them on the spot.",
+        "Performance analytics track call metrics, coaching adherence, and improvement over time to help teams refine their strategies.",
+        "Customizable coaching scripts allow businesses to align AI suggestions with their specific sales processes and branding.",
+        "Non-intrusive guidance delivers tips via a heads-up display without disrupting the natural flow of the conversation.",
+        "Multi-language support enables coaching in various languages to cater to global sales teams.",
+        "Data privacy features ensure all call data is handled securely and compliantly with industry standards.",
+        "Team collaboration tools allow managers to review calls and provide additional feedback based on AI insights.",
+        "Scalable pricing models make it accessible for teams of all sizes, from startups to enterprises."
+    ],
+    "faqs": [
+        {
+            "question": "What is Trellus primarily used for?",
+            "answer": "Trellus is used for providing real-time AI coaching during sales calls, helping reps improve their techniques and close more deals. It listens to conversations and offers instant suggestions without interrupting."
+        },
+        {
+            "question": "Does Trellus integrate with my existing dialer?",
+            "answer": "Yes, Trellus integrates with popular dialers like Aircall, RingCentral, and others. This allows seamless adoption into your current sales workflow."
+        },
+        {
+            "question": "Is Trellus suitable for small teams?",
+            "answer": "Absolutely, Trellus is scalable and works well for small teams as well as large enterprises. It offers flexible plans to match team size and needs."
+        },
+        {
+            "question": "How does Trellus ensure data privacy?",
+            "answer": "Trellus adheres to strict data privacy standards, encrypting all call data and complying with regulations like GDPR. Users control data retention and access."
+        },
+        {
+            "question": "Can Trellus be customized for my company's sales script?",
+            "answer": "Yes, Trellus allows customization of coaching suggestions to align with your specific sales scripts and strategies. This ensures relevance to your business."
+        },
+        {
+            "question": "What kind of analytics does Trellus provide?",
+            "answer": "Trellus offers detailed analytics on call performance, objection handling success, and overall team improvement. These insights help managers identify areas for training."
+        },
+        {
+            "question": "Is there a free trial available for Trellus?",
+            "answer": "Trellus offers a free demo or trial period to test its features. However, full access requires a paid subscription."
+        },
+        {
+            "question": "Does Trellus support multiple languages?",
+            "answer": "Yes, Trellus provides coaching in multiple languages to support international sales teams. This feature expands its usability across global markets."
+        },
+        {
+            "question": "How does Trellus improve sales performance?",
+            "answer": "By delivering real-time tips and analyzing conversations, Trellus helps reps handle objections better and refine their pitch. This leads to higher conversion rates and more efficient calls."
+        },
+        {
+            "question": "Can managers use Trellus to monitor team calls?",
+            "answer": "Yes, managers can access call reviews and AI-generated insights to monitor and coach their teams effectively."
+        }
+    ]
+}

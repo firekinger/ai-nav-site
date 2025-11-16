@@ -1,0 +1,78 @@
+{
+    "name": "FPT.AI",
+    "description": "FPT.AI is a leading AI platform providing comprehensive artificial intelligence solutions for businesses to enhance automation, customer engagement, and data-driven decision-making.",
+    "longDescription": "FPT.AI is an advanced AI platform developed by FPT Corporation, a major technology company in Vietnam, specializing in AI technologies for enterprise applications. Its mission is to democratize AI by offering tools that help businesses automate processes, improve customer interactions, and gain insights from data. The platform addresses challenges such as inefficient customer service, manual data processing, and lack of intelligent automation by providing scalable AI solutions. It serves various industries including finance, retail, healthcare, and e-commerce, enabling users to build custom AI applications without deep technical expertise. Through its ecosystem, FPT.AI fosters innovation and digital transformation for organizations worldwide.",
+    "url": "https://fpt.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fpt.ai.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "fpt-ai",
+    "categories": [
+        "AI Chat Generator",
+        "AI Speech Recognition",
+        "AI Language Learning",
+        "AI Chatbot",
+        "AI Speech Synthesis",
+        "AI For Data Analytics",
+        "AI Workflow",
+        "AI OCR",
+        "AI Knowledge Graph",
+        "AI API",
+        "AI Predictions",
+        "AI Text Classifier"
+    ],
+    "features": [
+        "Conversational AI chatbots that allow businesses to create natural language interfaces for seamless customer support and engagement.",
+        "Speech recognition technology that converts voice inputs into text with high accuracy, supporting multiple languages for global applications.",
+        "Natural language processing tools that analyze and understand text data to extract insights and automate responses.",
+        "Optical character recognition (OCR) for digitizing documents and extracting information efficiently from images and scans.",
+        "Knowledge graph capabilities that organize and query complex data relationships to enhance search and recommendation systems.",
+        "Voice synthesis features that generate human-like speech from text, useful for virtual assistants and automated announcements.",
+        "AI analytics dashboards that provide real-time insights and predictive modeling to support business decision-making.",
+        "Customizable AI models that can be trained on specific datasets for tailored industry solutions like fraud detection or sentiment analysis.",
+        "Integration APIs that enable easy connection with existing business systems such as CRM or ERP for streamlined workflows.",
+        "Developer tools and SDKs that simplify building and deploying AI applications without extensive coding knowledge."
+    ],
+    "faqs": [
+        {
+            "question": "What is FPT.AI?",
+            "answer": "FPT.AI is an AI platform offering tools for conversational AI, speech recognition, and data analysis to help businesses automate and optimize operations. It is developed by FPT Corporation and focuses on enterprise-grade solutions."
+        },
+        {
+            "question": "How does FPT.AI help with customer service?",
+            "answer": "FPT.AI provides chatbot and virtual assistant tools that handle customer inquiries 24/7, reducing response times and improving satisfaction. These tools use natural language processing to understand and respond to queries effectively."
+        },
+        {
+            "question": "Is there a free trial available on FPT.AI?",
+            "answer": "Yes, FPT.AI offers a free trial or limited free access to core features for users to test the platform before committing to paid plans. This allows developers and businesses to explore its capabilities."
+        },
+        {
+            "question": "What industries does FPT.AI serve?",
+            "answer": "FPT.AI serves industries such as finance, retail, healthcare, e-commerce, and telecommunications by providing customizable AI solutions for automation and analytics."
+        },
+        {
+            "question": "Can I integrate FPT.AI with my existing software?",
+            "answer": "Yes, FPT.AI offers APIs and SDKs for easy integration with popular systems like CRM, ERP, and messaging platforms. This ensures seamless adoption without disrupting current workflows."
+        },
+        {
+            "question": "Does FPT.AI support multiple languages?",
+            "answer": "FPT.AI supports multiple languages, including English, Vietnamese, and others, in its speech and text processing features. This makes it suitable for global businesses."
+        },
+        {
+            "question": "What kind of AI models can I build with FPT.AI?",
+            "answer": "Users can build custom AI models for tasks like sentiment analysis, fraud detection, and predictive analytics using FPT.AI's training tools and datasets."
+        },
+        {
+            "question": "Is FPT.AI suitable for small businesses?",
+            "answer": "Yes, FPT.AI offers scalable plans that cater to small businesses, starting with free or affordable tiers for basic AI implementations like chatbots."
+        },
+        {
+            "question": "How secure is data on FPT.AI?",
+            "answer": "FPT.AI employs robust security measures including encryption and compliance with standards like GDPR to protect user data. Businesses can control data access and usage."
+        },
+        {
+            "question": "What support options does FPT.AI provide?",
+            "answer": "FPT.AI offers documentation, tutorials, community forums, and premium support for enterprise users to assist with implementation and troubleshooting."
+        }
+    ]
+}

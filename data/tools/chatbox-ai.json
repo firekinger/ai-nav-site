@@ -1,0 +1,77 @@
+{
+    "name": "Chatbox AI",
+    "description": "Chatbox AI is a versatile AI client application and intelligent assistant enhancing productivity across multiple platforms.",
+    "longDescription": "Chatbox AI is a cross-platform AI client application designed to streamline user interactions with advanced AI models, serving as a smart assistant for personal and professional tasks. It supports a wide range of AI models and APIs, enabling users to generate text, images, and code, as well as analyze documents and perform real-time web searches. The platform prioritizes data privacy by storing chat messages and settings locally, offering users control over their data. Its mission is to boost productivity and creativity by providing seamless access to cutting-edge AI tools. By integrating features like LaTeX support and customizable prompts, Chatbox AI caters to diverse needs, from academic research to software development. The application is available on Windows, macOS, Android, iOS, Linux, and web, making it accessible to a global audience.",
+    "url": "https://chatboxai.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chatboxai.app.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "chatbox-ai",
+    "categories": [
+        "AI Assistant",
+        "AI Text Generator",
+        "AI Image Generator",
+        "AI Document Extraction",
+        "AI Code Assistant",
+        "AI Search Engine",
+        "AI Translate",
+        "AI Music Generator",
+        "AI Voice Assistants"
+    ],
+    "features": [
+        "AI-powered text generation crafts compelling content like essays, emails, and code, enhancing writing efficiency.",
+        "Image generation transforms text prompts into vivid visuals, boosting creative projects.",
+        "Real-time web search delivers up-to-date facts and news, keeping users informed.",
+        "Document analysis allows users to upload files like PDFs and ask AI questions based on their content, streamlining research.",
+        "Coding assistant converts ideas into functional code, accelerating software development.",
+        "Local data storage ensures chat histories and settings remain on the user’s device, prioritizing privacy.",
+        "Multilingual support caters to a global audience, enhancing accessibility.",
+        "LaTeX and Markdown integration enables clear expression of complex academic and technical ideas.",
+        "Customizable prompts allow users to tailor AI responses for specific tasks, improving workflow efficiency.",
+        "Voice command feature enables hands-free operation, ideal for on-the-go productivity.",
+        "AI music generation creates unique compositions based on user-selected genres, fostering creativity.",
+        "Supports up to five devices simultaneously, suitable for professional and collaborative scenarios."
+    ],
+    "faqs": [
+        {
+            "question": "What is Chatbox AI?",
+            "answer": "Chatbox AI is an AI client application that integrates advanced AI models to assist with tasks like writing, coding, and document analysis across multiple platforms."
+        },
+        {
+            "question": "Is Chatbox AI free to use?",
+            "answer": "Yes, Chatbox AI offers a free plan with access to core features, though some advanced functionalities may require a paid subscription."
+        },
+        {
+            "question": "How does Chatbox AI ensure data privacy?",
+            "answer": "Chatbox AI stores all chat messages and settings locally on your device, and data sent to its AI service is used only for generating responses, not stored permanently."
+        },
+        {
+            "question": "Which platforms is Chatbox AI available on?",
+            "answer": "Chatbox AI is available on Windows, macOS, Android, iOS, Linux, and as a web application."
+        },
+        {
+            "question": "Can Chatbox AI generate images?",
+            "answer": "Yes, Chatbox AI includes an AI image generator that creates visuals from text prompts, enhancing creative projects."
+        },
+        {
+            "question": "Does Chatbox AI support coding?",
+            "answer": "Yes, its AI-powered coding assistant helps users write and debug code, turning ideas into functional programs."
+        },
+        {
+            "question": "What AI models does Chatbox AI support?",
+            "answer": "Chatbox AI supports models like GPT-4o-mini, Claude 3.5 Haiku, Gemini 2.5 Flash, and DeepSeek V3, among others."
+        },
+        {
+            "question": "Can I use Chatbox AI for academic purposes?",
+            "answer": "Yes, features like LaTeX support and document analysis make it ideal for academic research and writing."
+        },
+        {
+            "question": "How does the real-time search feature work?",
+            "answer": "The AI-powered web search fetches the latest news, facts, and data from the internet, integrated seamlessly into conversations."
+        },
+        {
+            "question": "Is there a limit to the number of devices I can use?",
+            "answer": "Chatbox AI supports up to five devices simultaneously, perfect for professional and collaborative use."
+        }
+    ]
+}

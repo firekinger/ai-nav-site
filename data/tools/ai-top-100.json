@@ -1,0 +1,63 @@
+{
+    "name": "AI Top 100",
+    "description": "AI Top 100 is a platform dedicated to ranking and showcasing the top 100 AI tools and resources for users interested in artificial intelligence technologies.",
+    "longDescription": "AI Top 100 is a comprehensive online directory that curates and ranks the leading AI tools, applications, and resources available in the market. Its mission is to help users, developers, and businesses discover high-quality AI solutions efficiently, bridging the gap between innovative AI technologies and practical applications. The website serves its users by providing detailed rankings, reviews, and categorizations, making it easier to navigate the rapidly evolving AI landscape. It solves problems such as information overload by offering curated lists and insights, enabling users to find tools that match their specific needs without extensive research. Primarily focused on the Chinese market but accessible globally, it promotes AI adoption and education through its structured content.",
+    "url": "https://www.aitop100.cn/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aitop100.cn.webp",
+    "category": "AI Tools Directory",
+    "categorySlug": "ai-tools-directory",
+    "slug": "ai-top-100",
+    "categories": [
+        "AI Tools Directory",
+        "AI Knowledge Management",
+        "AI Reviews",
+        "AI Predictions",
+        "AI Text Classifier",
+        "AI Course",
+        "AI News"
+    ],
+    "features": [
+        "Provides a ranked list of the top 100 AI tools, helping users quickly identify the most popular and effective options.",
+        "Offers detailed descriptions and reviews for each listed tool, allowing users to understand functionalities and user experiences.",
+        "Categorizes AI tools by industry and use case, making it simple to filter and find relevant resources.",
+        "Includes search functionality to browse tools by keywords, tags, or categories for personalized discovery.",
+        "Features user ratings and feedback sections, enabling community-driven insights and credibility assessments.",
+        "Updates rankings periodically based on trends, usage data, and expert evaluations to keep content current.",
+        "Provides comparison tools to evaluate multiple AI solutions side-by-side for informed decision-making.",
+        "Offers educational resources like articles and guides on AI trends, enhancing user knowledge beyond tool listings."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Top 100?",
+            "answer": "AI Top 100 is a website that ranks and lists the top 100 AI tools and resources, providing descriptions, reviews, and categorizations to help users discover AI solutions."
+        },
+        {
+            "question": "Is AI Top 100 free to use?",
+            "answer": "Yes, the core features of browsing rankings, tool descriptions, and searches are completely free, though some premium content or features might require registration."
+        },
+        {
+            "question": "How are the tools ranked on AI Top 100?",
+            "answer": "Rankings are based on a combination of user votes, expert reviews, popularity metrics, and performance data, updated regularly to reflect current trends."
+        },
+        {
+            "question": "Can I submit my own AI tool to be listed?",
+            "answer": "Yes, the website allows submissions for new AI tools, which are reviewed by the team before potential inclusion in the rankings."
+        },
+        {
+            "question": "What categories of AI tools are covered?",
+            "answer": "It covers a wide range including image generation, coding assistants, chatbots, and more, organized by industry and functionality."
+        },
+        {
+            "question": "Is the content available in English?",
+            "answer": "While the site is primarily in Chinese, some sections and tool descriptions may offer English translations or be accessible via browser tools."
+        },
+        {
+            "question": "How often is the top 100 list updated?",
+            "answer": "The list is updated monthly or as new significant tools emerge, ensuring users have access to the latest AI innovations."
+        },
+        {
+            "question": "Does AI Top 100 offer comparisons between tools?",
+            "answer": "Yes, it provides side-by-side comparison features for selected tools, highlighting key differences in features, pricing, and performance."
+        }
+    ]
+}

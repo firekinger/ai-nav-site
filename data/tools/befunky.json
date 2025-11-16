@@ -1,0 +1,62 @@
+{
+    "name": "BeFunky",
+    "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+    "longDescription": "BeFunky is a versatile online creative platform designed to simplify photo editing, graphic design, and collage creation for both casual users and professionals. Its mission is to empower everyone to express their creativity without needing advanced technical skills or expensive software. The platform provides a user-friendly interface with a wide range of tools, from basic photo adjustments to advanced AI-powered enhancements. BeFunky serves individuals, small businesses, and educators by offering accessible, cloud-based solutions for creating stunning visuals. It eliminates the need for complex desktop software, making creative tasks quick and approachable. The platform also supports mobile apps, ensuring flexibility for users on the go.",
+    "url": "https://www.befunky.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.befunky.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "befunky",
+    "categories": [
+        "AI Photo Editor",
+        "AI Graphic Design",
+        "AI Background Remover",
+        "AI Design Generator",
+        "AI Social Media",
+        "AI Productivity Tools",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Photo Editor allows users to enhance images with tools for cropping, resizing, and applying filters for professional-quality results.",
+        "AI-powered tools, like Background Remover, automatically isolate subjects from backgrounds for easy editing.",
+        "Collage Maker enables users to combine multiple photos into customizable layouts for storytelling or presentations.",
+        "Graphic Designer provides templates and design elements to create social media graphics, posters, and more.",
+        "Batch Processing lets users edit multiple photos simultaneously, saving time for bulk projects.",
+        "Touch Up tools offer portrait enhancements, such as blemish removal and teeth whitening, for polished selfies.",
+        "Customizable templates streamline the creation of professional designs for business cards, flyers, and social posts.",
+        "Mobile apps for iOS and Android allow seamless editing and designing on the go.",
+        "Cloud storage ensures users can access their projects from any device without losing progress.",
+        "Artsy Effects transform photos into stylized artworks, mimicking painting or cartoon styles.",
+        "Text Editor provides fonts and styling options to add professional text overlays to images or designs."
+    ],
+    "faqs": [
+        {
+            "question": "What is BeFunky used for?",
+            "answer": "BeFunky is used for photo editing, graphic design, and collage creation, offering tools to enhance images, create visuals, and design marketing materials."
+        },
+        {
+            "question": "Is BeFunky free to use?",
+            "answer": "BeFunky offers a free plan with access to basic photo editing and design tools, while premium features require a paid subscription."
+        },
+        {
+            "question": "Do I need to download software to use BeFunky?",
+            "answer": "No, BeFunky is a cloud-based platform accessible via web browsers, with optional mobile apps for iOS and Android."
+        },
+        {
+            "question": "Can BeFunky remove backgrounds from photos?",
+            "answer": "Yes, BeFunky’s AI-powered Background Remover automatically isolates subjects, making it easy to replace or edit backgrounds."
+        },
+        {
+            "question": "Is BeFunky suitable for professional graphic design?",
+            "answer": "BeFunky’s templates and tools are ideal for small businesses and freelancers, though advanced designers may need more specialized software."
+        },
+        {
+            "question": "Does BeFunky support batch editing?",
+            "answer": "Yes, BeFunky’s Batch Processing feature allows users to apply edits to multiple photos at once, streamlining workflows."
+        },
+        {
+            "question": "Can I use BeFunky on my phone?",
+            "answer": "Yes, BeFunky offers mobile apps for iOS and Android, enabling editing and design on mobile devices."
+        }
+    ]
+}

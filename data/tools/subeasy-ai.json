@@ -1,0 +1,73 @@
+{
+    "name": "SubEasy",
+    "description": "SubEasy.ai is an AI-powered platform that automates the generation of accurate subtitles for videos, making content creation and accessibility easier for creators and businesses.",
+    "longDescription": "SubEasy.ai is an innovative AI-driven tool designed to simplify subtitle creation for videos by automatically transcribing audio and generating synchronized subtitles. Its mission is to enhance video accessibility, support multilingual content, and save time for content creators, educators, and marketers who need quick and precise captioning. The platform leverages advanced speech recognition and natural language processing to handle various accents, languages, and audio qualities, solving common problems like manual transcription errors and time-consuming editing. By offering user-friendly interfaces and integration options, SubEasy.ai serves users ranging from individual YouTubers to large media companies, enabling them to make their content more inclusive and engaging. Ultimately, it democratizes high-quality subtitle production, reducing barriers for global audiences and improving SEO for video content.",
+    "url": "https://www.subeasy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.subeasy.ai.webp",
+    "category": "AI Subtitle Generator",
+    "categorySlug": "ai-subtitle-generator",
+    "slug": "subeasy-ai",
+    "categories": [
+        "AI Subtitle Generator",
+        "AI Speech-to-Text",
+        "AI Caption Generator",
+        "AI Audio Editing",
+        "AI Writing Assistants",
+        "AI Video Enhancer",
+        "AI Transcription"
+    ],
+    "features": [
+        "Automatic subtitle generation uses AI to transcribe video audio into accurate text subtitles, saving hours of manual work.",
+        "Multilingual support allows subtitles in over 100 languages, enabling creators to reach global audiences effortlessly.",
+        "Customizable styling options let users adjust font, color, and timing of subtitles to match their video's aesthetic and pacing.",
+        "Real-time editing tools provide an intuitive interface for refining AI-generated subtitles, ensuring precision and personalization.",
+        "Integration with popular video platforms like YouTube and Vimeo streamlines the upload and application of subtitles directly.",
+        "Speaker identification feature distinguishes between multiple speakers in a video, adding labels for clearer dialogue attribution.",
+        "Export options in various formats such as SRT, VTT, or embedded video files make it easy to use subtitles across different media.",
+        "Noise reduction AI improves transcription accuracy in videos with background noise or poor audio quality.",
+        "Batch processing enables users to generate subtitles for multiple videos simultaneously, boosting productivity for large projects.",
+        "Accessibility enhancements include options for closed captions that comply with standards like WCAG for inclusive content."
+    ],
+    "faqs": [
+        {
+            "question": "What is SubEasy.ai?",
+            "answer": "SubEasy.ai is an AI-powered platform that automatically generates subtitles for videos by transcribing audio and synchronizing text. It helps content creators add accurate captions quickly without manual effort."
+        },
+        {
+            "question": "Does SubEasy.ai support multiple languages?",
+            "answer": "Yes, SubEasy.ai supports over 100 languages for subtitle generation. This allows users to create multilingual captions, making videos accessible to diverse audiences worldwide."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "SubEasy.ai offers a free plan with limited features, such as basic subtitle generation for short videos. Users can upgrade to paid plans for advanced capabilities and higher usage limits."
+        },
+        {
+            "question": "How accurate are the AI-generated subtitles?",
+            "answer": "The subtitles are highly accurate thanks to advanced AI speech recognition, handling various accents and audio conditions. Users can edit them manually for perfection if needed."
+        },
+        {
+            "question": "Can I integrate SubEasy.ai with my video editing software?",
+            "answer": "Yes, SubEasy.ai provides export options in standard formats like SRT and VTT, compatible with most video editing tools. It also integrates directly with platforms like YouTube."
+        },
+        {
+            "question": "What file formats does SubEasy.ai accept for video uploads?",
+            "answer": "SubEasy.ai accepts common video formats such as MP4, MOV, AVI, and more. Ensure your file is under the size limit specified in your plan for smooth processing."
+        },
+        {
+            "question": "How does SubEasy.ai handle videos with multiple speakers?",
+            "answer": "The platform uses speaker identification AI to differentiate voices and label subtitles accordingly. This feature enhances clarity in interviews, podcasts, or group discussions."
+        },
+        {
+            "question": "Is SubEasy.ai suitable for professional use?",
+            "answer": "Absolutely, it's designed for both individual creators and professionals, offering high accuracy, customization, and compliance with accessibility standards for business applications."
+        },
+        {
+            "question": "Can I customize the appearance of subtitles?",
+            "answer": "Yes, users can customize font styles, colors, sizes, and positioning to fit their video's theme. This ensures subtitles are both functional and visually appealing."
+        },
+        {
+            "question": "What happens if the audio quality is poor?",
+            "answer": "SubEasy.ai's noise reduction AI improves transcription in challenging audio conditions. For best results, users can review and edit the output manually."
+        }
+    ]
+}

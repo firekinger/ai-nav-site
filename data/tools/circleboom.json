@@ -1,0 +1,67 @@
+{
+    "name": "Circleboom",
+    "description": "Circleboom is a social media management platform that helps users, brands, and SMBs grow and manage their social media presence efficiently.",
+    "longDescription": "Circleboom is a comprehensive social media management tool designed to simplify and enhance the administration of social media accounts for individuals, brands, and small to medium-sized businesses. Founded in 2019 in New Jersey, USA, it offers two primary products: Circleboom Twitter, focused on Twitter (X) account management, and Circleboom Publish, an AI-powered tool for managing multiple social media platforms. The platform emphasizes intuitive design, adhering to the Pareto Principle (80/20 rule) to provide essential features without overwhelming users. Circleboom helps users schedule posts, analyze audience engagement, and clean up accounts by removing fake or inactive followers, fostering genuine interactions. Its mission is to empower users to grow their social media presence effectively with user-friendly tools tailored to their needs.",
+    "url": "https://circleboom.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/circleboom.com.webp",
+    "category": "AI Social Media",
+    "categorySlug": "ai-social-media",
+    "slug": "circleboom",
+    "categories": [
+        "AI Social Media",
+        "AI Writing",
+        "AI Scheduling",
+        "AI Hashtag",
+        "AI Content Detector"
+    ],
+    "features": [
+        "Circleboom Twitter provides detailed analytics to track follower growth, engagement, and audience demographics, enabling data-driven strategies.",
+        "The platform’s Publish Tool allows scheduling and automation of posts across multiple platforms like Twitter, Instagram, LinkedIn, and more, saving time.",
+        "Users can delete tweets, retweets, likes, or entire Twitter archives in bulk, helping maintain a clean and professional profile.",
+        "Smart Search and hashtag tools help users find and connect with new followers or peers, expanding their social network.",
+        "The follower audit feature identifies fake, spam, or inactive accounts, improving audience quality and engagement.",
+        "Circleboom Publish integrates with Canva, Unsplash, and OpenAI to create and design visually appealing social media content.",
+        "The platform offers RSS feed integration to automatically share updates from connected feeds, keeping accounts active.",
+        "Optimal posting time suggestions help users schedule content for maximum audience engagement.",
+        "Circleboom’s mobile app provides full Twitter management functionality, offering flexibility for on-the-go users.",
+        "The bio keyword search tool helps users find and follow accounts with shared interests, enhancing community building."
+    ],
+    "faqs": [
+        {
+            "question": "What is Circleboom used for?",
+            "answer": "Circleboom is a social media management tool that helps users manage, grow, and analyze their social media accounts, particularly Twitter, with features like post scheduling, analytics, and follower audits."
+        },
+        {
+            "question": "Does Circleboom offer a free plan?",
+            "answer": "Yes, Circleboom provides a free tier for its Twitter tool, offering limited features, and a 14-day free trial for its Publish tool, with no credit card required."
+        },
+        {
+            "question": "Can I manage multiple social media platforms with Circleboom?",
+            "answer": "Circleboom Publish allows users to manage accounts on platforms like Twitter, Instagram, LinkedIn, Facebook, Pinterest, and more from a single dashboard."
+        },
+        {
+            "question": "Is Circleboom safe to use with my social media accounts?",
+            "answer": "Yes, Circleboom is an official X (Twitter) Partner, adhering to high security standards, and users can revoke access anytime via their account settings."
+        },
+        {
+            "question": "How does Circleboom help with Twitter account cleanup?",
+            "answer": "Circleboom allows users to delete tweets, retweets, likes, or entire archives and identify fake or inactive followers for removal, ensuring a cleaner profile."
+        },
+        {
+            "question": "Does Circleboom support AI-powered features?",
+            "answer": "Yes, Circleboom Publish integrates OpenAI for AI-generated post content and offers tools like hashtag generators to enhance post reach."
+        },
+        {
+            "question": "Can I schedule posts with Circleboom?",
+            "answer": "Circleboom Publish enables users to schedule and automate posts across multiple platforms, with customizable timing for optimal engagement."
+        },
+        {
+            "question": "What kind of analytics does Circleboom provide?",
+            "answer": "Circleboom offers insights into follower trends, engagement rates, language and gender stats, and optimal posting times to refine social media strategies."
+        },
+        {
+            "question": "How do I contact Circleboom support?",
+            "answer": "Users can reach Circleboom support via email at support@circleboom.com or by sending a DM on social media platforms."
+        }
+    ]
+}

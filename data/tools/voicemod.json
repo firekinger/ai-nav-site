@@ -1,0 +1,60 @@
+{
+    "name": "Voicemod",
+    "description": "Voicemod is a real-time voice changer and soundboard software for gamers, content creators, and communication platforms.",
+    "longDescription": "Voicemod is a versatile voice modulation software designed to enhance online communication, gaming, and content creation by allowing users to modify their voice in real time. It offers a wide range of voice effects, from robotic to cartoonish, catering to gamers, streamers, and social media creators. The platform integrates seamlessly with popular applications like Discord, Zoom, and gaming platforms, making it a go-to tool for immersive and entertaining interactions. Voicemod also includes a soundboard for playing custom or preloaded audio clips during calls or streams. Its mission is to provide creative tools that amplify self-expression and fun in digital spaces. The software is available for Windows, with a free tier and premium options for advanced features.",
+    "url": "https://www.voicemod.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.voicemod.net.webp",
+    "category": "AI Voice Changer",
+    "categorySlug": "ai-voice-changer",
+    "slug": "voicemod",
+    "categories": [
+        "AI Voice Changer",
+        "AI Recording",
+        "AI Sound Effect Generator",
+        "AI Digital Marketing",
+        "AI Text-to-Speech",
+        "AI Audio Enhancer"
+    ],
+    "features": [
+        "Real-time voice modulation offers over 100 voice effects to transform your voice during calls or streams for creative expression.",
+        "Customizable soundboard allows users to play preloaded or uploaded audio clips to enhance streams or conversations.",
+        "Seamless integration with platforms like Discord, Zoom, and OBS ensures smooth functionality for gaming and streaming.",
+        "Voicelab feature enables users to create custom voice filters tailored to their unique preferences.",
+        "Background noise suppression improves audio clarity by reducing unwanted sounds during voice chats.",
+        "Easy-to-use interface simplifies voice effect selection and soundboard management for beginners and professionals.",
+        "Regular updates add new voices, sound effects, and features to keep the platform fresh and engaging.",
+        "TTS (Text-to-Speech) functionality converts typed text into spoken words with various voice options for accessibility or fun.",
+        "Mobile app support allows users to control Voicemod features remotely via iOS or Android devices.",
+        "High-quality audio processing ensures minimal latency and clear voice output during real-time use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Voicemod used for?",
+            "answer": "Voicemod is used to change your voice in real time with various effects or play soundboard clips during gaming, streaming, or online communication."
+        },
+        {
+            "question": "Is Voicemod free to use?",
+            "answer": "Voicemod offers a free plan with limited voice effects and features, while the Pro version unlocks all voices, Voicelab, and additional perks."
+        },
+        {
+            "question": "Which platforms does Voicemod support?",
+            "answer": "Voicemod integrates with platforms like Discord, Zoom, OBS, Fortnite, and many others, primarily on Windows."
+        },
+        {
+            "question": "Can I create my own voice effects?",
+            "answer": "Yes, the Voicelab feature in Voicemod Pro allows users to design and save custom voice filters."
+        },
+        {
+            "question": "Does Voicemod work on Mac?",
+            "answer": "Currently, Voicemod is only available for Windows, but a Mac version is under development."
+        },
+        {
+            "question": "Is Voicemod safe to use?",
+            "answer": "Voicemod is safe, with regular updates and a reputable developer, but always download from the official website to avoid risks."
+        },
+        {
+            "question": "Can I use Voicemod for streaming?",
+            "answer": "Yes, Voicemod is popular among streamers for its voice effects and soundboard, integrating well with streaming software like OBS."
+        }
+    ]
+}

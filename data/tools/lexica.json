@@ -1,0 +1,65 @@
+{
+    "name": "Lexica",
+    "description": "Lexica is an AI-powered platform for searching and generating high-quality images using Stable Diffusion technology.",
+    "longDescription": "Lexica is a search engine and art gallery that leverages Stable Diffusion, an AI model, to generate and curate a vast collection of high-quality images based on text prompts. Founded by Sharif Shameem, the platform simplifies the process of creating and discovering AI-generated art, making it accessible to artists, designers, and content creators. Users can browse over ten million images, search for specific styles or themes, and generate custom visuals using intuitive text prompts. Lexica’s user-friendly interface and community-driven database allow for creative exploration and inspiration, transforming complex AI prompting into a more approachable process. The platform also offers tools to refine and customize images, enhancing its utility for both professional and casual users. Its mission is to democratize AI art creation, providing a versatile resource for digital media and creative projects.",
+    "url": "https://lexica.art/?utm_source=ainavdir",
+    "screenshot": "/screenshot/lexica.art.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "lexica",
+    "categories": [
+        "AI Image Generator",
+        "AI Prompt Generator",
+        "AI Art Generator",
+        "AI Creative Writing",
+        "AI Writing",
+        "AI Inspirational Quotes",
+        "AI Design Generator"
+    ],
+    "features": [
+        "AI-powered image generation creates high-quality visuals from text prompts, enabling users to produce custom artwork effortlessly.",
+        "The search engine allows users to explore millions of AI-generated images by keywords or themes, fostering inspiration and discovery.",
+        "Prompt visibility displays the exact text prompts and parameters used for each image, helping users learn effective prompting techniques.",
+        "The image editor enables users to modify existing images by tweaking prompts or adding negative prompts for refined results.",
+        "A history feature lets users revisit past creations and variations, streamlining the creative process.",
+        "Downloadable content allows users to save images for personal or commercial use, subject to licensing terms.",
+        "Community-driven galleries showcase user-generated prompts and images, encouraging collaboration and idea-sharing.",
+        "Advanced settings, such as guidance scale adjustments, provide control over image contrast and style for precise outputs.",
+        "Outpainting functionality extends image backgrounds, offering creative flexibility for expanding visuals.",
+        "Mobile apps for iOS and Android enable on-the-go image generation and browsing for user convenience."
+    ],
+    "faqs": [
+        {
+            "question": "What is Lexica.art?",
+            "answer": "Lexica.art is an AI-powered platform that uses Stable Diffusion to generate and search for high-quality images based on text prompts, serving as both a creative tool and an art gallery."
+        },
+        {
+            "question": "Is Lexica.art free to use?",
+            "answer": "Yes, Lexica offers a free plan with up to 100 image generations per month, though premium plans provide additional features and commercial licensing."
+        },
+        {
+            "question": "Can I use Lexica images commercially?",
+            "answer": "Images from the free plan are for non-commercial use only; a paid subscription is required for commercial use, per Lexica’s terms of service."
+        },
+        {
+            "question": "How do I generate images on Lexica.art?",
+            "answer": "Users input a text prompt describing the desired image, optionally add negative prompts to exclude elements, and click 'Generate' to create up to four images."
+        },
+        {
+            "question": "What is Stable Diffusion, and how does Lexica use it?",
+            "answer": "Stable Diffusion is an AI model for generating images from text; Lexica uses it to power its image creation and search functionalities."
+        },
+        {
+            "question": "Can I upload my own images to Lexica.art?",
+            "answer": "Lexica does not currently support direct image uploads for manipulation but allows users to reference existing images to guide new generations."
+        },
+        {
+            "question": "What types of images can Lexica generate?",
+            "answer": "Lexica can create a wide variety of images, including fantasy, sci-fi, landscapes, portraits, and abstract art, based on user prompts."
+        },
+        {
+            "question": "How can I improve my image results on Lexica?",
+            "answer": "Refine prompts with specific details, use negative prompts to exclude unwanted elements, and adjust the guidance scale for better control over output."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "RoomAI",
+    "description": "RoomAI is an AI-driven platform that enables users to generate and visualize interior design ideas for rooms based on uploaded photos and preferences.",
+    "longDescription": "RoomAI is an innovative AI tool designed to revolutionize interior design by allowing users to upload images of their spaces and receive instant, customized redesign suggestions. Its mission is to make professional-level interior design accessible to everyone, regardless of expertise or budget, by leveraging advanced AI algorithms to create realistic visualizations. The platform solves common problems like design indecision and high costs associated with hiring designers, offering a quick and affordable alternative. Users can experiment with various styles, colors, and layouts, helping them visualize changes before committing to real-world implementations. Overall, RoomAI empowers homeowners, renters, and designers to transform spaces efficiently and creatively.",
+    "url": "https://roomai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/roomai.com.webp",
+    "category": "AI Interior Design",
+    "categorySlug": "ai-interior-design",
+    "slug": "roomai",
+    "categories": [
+        "AI Interior Design",
+        "AI Room Planner",
+        "AI Design Generator",
+        "AI Design Assistant",
+        "AI Realistic Image Generator",
+        "AI Writing Assistants",
+        "AI Diagram Generator"
+    ],
+    "features": [
+        "Users can upload photos of their rooms and receive AI-generated redesigns in various styles, making it easy to explore different aesthetics without manual effort.",
+        "The platform offers customization options like selecting themes, colors, and furniture types to tailor designs to personal preferences.",
+        "High-quality, realistic renderings are produced quickly, allowing users to visualize changes in their actual spaces.",
+        "Multiple design variations are generated from a single upload, providing diverse ideas to choose from or combine.",
+        "Integration with e-commerce allows users to shop for suggested furniture and decor directly from the designs.",
+        "A user-friendly interface requires no design skills, democratizing interior design for beginners and professionals alike.",
+        "Supports various room types including living rooms, bedrooms, kitchens, and offices for versatile applications.",
+        "AI-powered suggestions include lighting and layout optimizations to enhance functionality and ambiance.",
+        "Export options enable users to save and share designs in high resolution for presentations or consultations.",
+        "Regular updates incorporate new design trends and AI improvements to keep suggestions current and innovative."
+    ],
+    "faqs": [
+        {
+            "question": "What is RoomAI?",
+            "answer": "RoomAI is an AI platform that generates interior design ideas based on user-uploaded room photos. It uses advanced algorithms to create realistic redesigns in various styles."
+        },
+        {
+            "question": "How do I use RoomAI?",
+            "answer": "Simply upload a photo of your room, select your preferred style and elements, and let the AI generate designs. You can then refine and download the results."
+        },
+        {
+            "question": "Is RoomAI free to use?",
+            "answer": "RoomAI offers a free tier with limited generations, while premium plans provide unlimited access and advanced features."
+        },
+        {
+            "question": "What types of rooms can I redesign with RoomAI?",
+            "answer": "You can redesign any room type, including living rooms, bedrooms, kitchens, bathrooms, and offices. The AI adapts to different spaces and purposes."
+        },
+        {
+            "question": "How accurate are the AI-generated designs?",
+            "answer": "The designs are highly realistic and based on real-world interior trends, though they serve as inspirations rather than exact blueprints. Users can iterate for better matches."
+        },
+        {
+            "question": "Can I purchase items from the generated designs?",
+            "answer": "Yes, RoomAI integrates with partner stores, allowing you to shop for furniture and decor featured in your designs directly from the platform."
+        },
+        {
+            "question": "Does RoomAI support mobile devices?",
+            "answer": "The platform is web-based and optimized for mobile, so you can upload photos and generate designs on smartphones or tablets."
+        },
+        {
+            "question": "How does RoomAI ensure privacy?",
+            "answer": "Uploaded photos are processed securely and not stored without permission. The platform complies with data protection standards to safeguard user information."
+        },
+        {
+            "question": "Can professionals use RoomAI for client work?",
+            "answer": "Yes, interior designers can use it to quickly prototype ideas for clients, saving time and enhancing presentations with AI-generated visuals."
+        },
+        {
+            "question": "What AI technology powers RoomAI?",
+            "answer": "RoomAI uses state-of-the-art generative AI models trained on vast datasets of interior designs to produce high-quality, customized outputs."
+        }
+    ]
+}

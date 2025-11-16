@@ -1,0 +1,52 @@
+{
+    "name": "Fireflies.ai",
+    "description": "Fireflies.ai is an AI-powered meeting assistant that automates note-taking, transcription, and task management for virtual and in-person meetings.",
+    "longDescription": "Fireflies.ai is an AI-driven platform designed to enhance productivity by automating meeting-related tasks, such as transcription, note-taking, and action item tracking. It integrates with popular communication tools like Zoom, Microsoft Teams, and Google Meet to record, transcribe, and summarize conversations in real-time. The platform serves professionals, teams, and organizations by reducing manual work and enabling users to focus on the discussion rather than administrative tasks. Its mission is to streamline collaboration and improve meeting efficiency through advanced AI capabilities, including voice recognition and natural language processing. Fireflies.ai also offers analytics to track meeting insights, making it valuable for businesses aiming to optimize communication and decision-making.",
+    "url": "https://fireflies.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fireflies.ai.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "fireflies-ai",
+    "categories": [
+        "AI Meeting Assistant",
+        "AI Speech-to-Text",
+        "AI Project Management",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Automatically transcribes meetings in real-time across multiple languages, ensuring accurate and accessible records.",
+        "Generates searchable meeting notes, allowing users to quickly locate specific topics or action items.",
+        "Integrates with platforms like Zoom, Teams, and Slack for seamless workflow connectivity.",
+        "Identifies and assigns action items and tasks from discussions, boosting team accountability.",
+        "Provides meeting analytics, such as talk time and sentiment analysis, to improve communication strategies.",
+        "Offers a Chrome extension to record and transcribe audio from browser-based calls or videos.",
+        "Supports collaboration by allowing users to share meeting summaries and clips with team members.",
+        "Enables keyword and topic tracking to highlight critical points discussed during meetings."
+    ],
+    "faqs": [
+        {
+            "question": "What platforms does Fireflies.ai integrate with?",
+            "answer": "Fireflies.ai integrates with communication tools like Zoom, Microsoft Teams, Google Meet, and Slack, as well as CRM platforms like Salesforce and HubSpot."
+        },
+        {
+            "question": "Is there a free plan available for Fireflies.ai?",
+            "answer": "Yes, Fireflies.ai offers a free plan with limited transcription minutes and features, suitable for individual users or small teams."
+        },
+        {
+            "question": "Can Fireflies.ai transcribe meetings in multiple languages?",
+            "answer": "Yes, it supports transcription in over 60 languages, making it ideal for global teams."
+        },
+        {
+            "question": "How secure is Fireflies.ai for sensitive meetings?",
+            "answer": "Fireflies.ai uses end-to-end encryption and complies with GDPR and SOC 2 standards to ensure data security and privacy."
+        },
+        {
+            "question": "Can I search through past meeting transcripts?",
+            "answer": "Yes, Fireflies.ai provides a searchable database of transcripts, allowing users to find specific keywords or topics easily."
+        },
+        {
+            "question": "Does Fireflies.ai work for in-person meetings?",
+            "answer": "Yes, it can record and transcribe in-person meetings using a mobile app or a connected device."
+        }
+    ]
+}

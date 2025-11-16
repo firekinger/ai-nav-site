@@ -1,0 +1,67 @@
+{
+    "name": "Checksub",
+    "description": "Checksub is an AI-powered platform for automatic subtitle generation, translation, and editing to make videos more accessible and engaging.",
+    "longDescription": "Checksub is a web-based service that utilizes artificial intelligence to streamline the creation and management of subtitles for videos. Its mission is to empower content creators, businesses, and educators by providing tools that automate transcription, translation, and synchronization, thereby saving time and reducing the need for manual labor. The platform addresses common challenges like language barriers and accessibility issues in video content, enabling users to reach global audiences effortlessly. By integrating advanced AI algorithms, Checksub ensures high accuracy in subtitle generation while offering user-friendly editing capabilities. Overall, it serves as a comprehensive solution for enhancing video content in various industries such as marketing, education, and entertainment.",
+    "url": "https://www.checksub.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.checksub.com.webp",
+    "category": "AI Caption Generator",
+    "categorySlug": "ai-caption-generator",
+    "slug": "checksub",
+    "categories": [
+        "AI Caption Generator",
+        "AI Transcription",
+        "AI Translate",
+        "AI Subtitle Generator",
+        "AI Writing Assistants",
+        "AI Content Detector",
+        "AI Project Management",
+        "AI Writing",
+        "AI Video Enhancer"
+    ],
+    "features": [
+        "AI-driven automatic transcription converts video audio into accurate subtitles quickly, reducing manual effort.",
+        "Multilingual translation supports over 100 languages, allowing users to expand their content's global reach.",
+        "Subtitle synchronization ensures perfect timing alignment with video footage for a professional finish.",
+        "Intuitive editing tools enable easy customization of subtitle style, font, and positioning to match branding needs.",
+        "Export options in multiple formats like SRT, VTT, and ASS facilitate seamless integration with various platforms.",
+        "Burn-in feature embeds subtitles directly into videos for platforms that don't support separate subtitle files.",
+        "Collaboration mode allows teams to work together on subtitling projects in real-time.",
+        "Integration with popular video hosts such as YouTube and Vimeo streamlines the upload and subtitling process.",
+        "Accuracy enhancement through AI learning from user corrections to improve future transcriptions.",
+        "Support for various video formats ensures compatibility with a wide range of media files."
+    ],
+    "faqs": [
+        {
+            "question": "What is Checksub used for?",
+            "answer": "Checksub is used for generating, translating, and editing subtitles for videos using AI technology. It helps make content accessible and suitable for international audiences."
+        },
+        {
+            "question": "Does Checksub offer a free plan?",
+            "answer": "Yes, Checksub provides a free plan with limited minutes of subtitling to allow users to test the core features. Upgrading to paid plans unlocks unlimited access and advanced functionalities."
+        },
+        {
+            "question": "How accurate is the AI transcription?",
+            "answer": "The AI transcription is highly accurate for clear audio, often exceeding 95% accuracy. Users can edit and correct subtitles easily for optimal results."
+        },
+        {
+            "question": "Which languages does Checksub support?",
+            "answer": "Checksub supports over 100 languages for translation and transcription. This includes major languages like English, Spanish, French, and many others."
+        },
+        {
+            "question": "Can I collaborate with others on Checksub?",
+            "answer": "Yes, Checksub offers collaboration tools where multiple users can work on the same project simultaneously. This is ideal for teams handling large video projects."
+        },
+        {
+            "question": "How do I export subtitles from Checksub?",
+            "answer": "Subtitles can be exported in various formats such as SRT, VTT, or burned directly into the video. The process is straightforward via the platform's export menu."
+        },
+        {
+            "question": "Is Checksub suitable for professional video production?",
+            "answer": "Absolutely, Checksub is designed for professional use with features like customizable styles and high-accuracy AI. It's used by marketers, educators, and filmmakers alike."
+        },
+        {
+            "question": "What file formats are supported?",
+            "answer": "Checksub supports common video formats like MP4, MOV, AVI, and more. Audio files can also be uploaded for transcription."
+        }
+    ]
+}

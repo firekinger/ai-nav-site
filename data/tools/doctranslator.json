@@ -1,0 +1,71 @@
+{
+    "name": "DocTranslator",
+    "description": "DocTranslator is an online platform that provides fast and accurate document translation services while preserving the original formatting and layout.",
+    "longDescription": "DocTranslator is a web-based tool designed to translate documents in various formats such as PDF, Word, Excel, and more, into over 100 languages without altering the original structure. Its mission is to make document translation accessible, efficient, and cost-effective for individuals and businesses worldwide, eliminating the need for manual reformatting after translation. The platform leverages advanced machine translation technology, powered by AI engines like Google Translate, to deliver quick results. It serves users by solving common problems like language barriers in international communication, academic research, and global business operations. By focusing on format preservation, it ensures that translated documents look professional and identical to the originals. Overall, DocTranslator democratizes translation services, making them available to non-experts without requiring software installations.",
+    "url": "https://doctranslator.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/doctranslator.com.webp",
+    "category": "AI Translate",
+    "categorySlug": "ai-translate",
+    "slug": "doctranslator",
+    "categories": [
+        "AI Translate",
+        "AI Chat Generator",
+        "AI API",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Supports translation of multiple file formats including PDF, DOCX, XLSX, PPTX, and images, ensuring versatility for different user needs.",
+        "Preserves the original layout, fonts, images, and formatting during translation, saving time on post-translation edits.",
+        "Offers translations in over 100 languages, powered by AI for accurate and context-aware results.",
+        "Provides free access with no file size limits for basic translations, making it accessible for casual users.",
+        "Features a simple drag-and-drop interface for uploading files, enhancing user-friendliness and efficiency.",
+        "Ensures fast processing times, often completing translations in seconds to minutes depending on document size.",
+        "Includes OCR technology for translating scanned documents or images with text, expanding its utility to non-digital sources.",
+        "Maintains user privacy by not storing uploaded files after translation, adding a layer of data security.",
+        "Allows batch translation of multiple files at once, beneficial for high-volume users like businesses.",
+        "Integrates machine learning to improve translation quality over time based on user feedback and advancements.",
+        "Offers an API for developers to integrate translation capabilities into their own applications."
+    ],
+    "faqs": [
+        {
+            "question": "What file formats does DocTranslator support?",
+            "answer": "DocTranslator supports a wide range of formats including PDF, Word (DOCX), Excel (XLSX), PowerPoint (PPTX), and image files like JPG and PNG. It also handles scanned documents via OCR technology."
+        },
+        {
+            "question": "Is DocTranslator really free to use?",
+            "answer": "Yes, DocTranslator offers free translations with no limits on file size or number of translations for basic use. Premium features or high-volume usage may require a paid plan."
+        },
+        {
+            "question": "How accurate are the translations?",
+            "answer": "Translations are powered by advanced AI like Google Translate, providing high accuracy for most languages. However, for specialized or nuanced content, human review is recommended."
+        },
+        {
+            "question": "Does it preserve the original document formatting?",
+            "answer": "Yes, one of the core benefits is that it maintains the exact layout, fonts, and images of the original document in the translated version."
+        },
+        {
+            "question": "How many languages does it support?",
+            "answer": "DocTranslator supports over 100 languages, including major ones like English, Spanish, Chinese, French, and Arabic, as well as many regional dialects."
+        },
+        {
+            "question": "Is my data secure when using DocTranslator?",
+            "answer": "Yes, the platform does not store your files after translation and uses secure connections to protect your data during the process."
+        },
+        {
+            "question": "Can I translate scanned documents or images?",
+            "answer": "Absolutely, DocTranslator uses OCR (Optical Character Recognition) to extract and translate text from scanned PDFs or images."
+        },
+        {
+            "question": "What if I need to translate a large number of documents?",
+            "answer": "For bulk translations, you can upload multiple files at once. For enterprise-level needs, consider their API or contact support for customized solutions."
+        },
+        {
+            "question": "Does DocTranslator require any software installation?",
+            "answer": "No, it's entirely web-based, so you can access it from any browser without downloading or installing anything."
+        },
+        {
+            "question": "How long does a translation take?",
+            "answer": "Most translations are completed in seconds to a few minutes, depending on the file size and complexity."
+        }
+    ]
+}

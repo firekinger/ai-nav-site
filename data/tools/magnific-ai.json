@@ -1,0 +1,65 @@
+{
+    "name": "Magnific AI",
+    "description": "Magnific AI is an advanced AI-powered tool for upscaling and enhancing images with high-resolution detail and creative customization.",
+    "longDescription": "Magnific AI is a cutting-edge web-based platform designed to upscale and enhance images using advanced artificial intelligence algorithms. Founded by Javi Lopez and Emilio Nicolas, it transforms low-resolution images into high-resolution versions, adding intricate details and improving overall quality. The platform allows users to guide the enhancement process through natural language prompts and adjustable settings, making it accessible to both professionals and enthusiasts. It caters to photographers, graphic designers, digital artists, and businesses seeking high-quality visual content for various applications. Magnific AI’s intuitive interface and in-depth tutorials support users of all skill levels, ensuring a seamless creative experience. Its mission is to empower creators by providing a powerful, user-friendly tool to elevate their visual projects with stunning, AI-driven enhancements.",
+    "url": "https://magnific.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/magnific.ai.webp",
+    "category": "AI Image Upscaler",
+    "categorySlug": "ai-image-upscaler",
+    "slug": "magnific-ai",
+    "categories": [
+        "AI Image Upscaler",
+        "AI Image Enhancer",
+        "AI Style Transfer",
+        "AI Creative Writing",
+        "AI Photo Enhancer",
+        "AI Graphic Design",
+        "AI Art Generator"
+    ],
+    "features": [
+        "AI-powered upscaling increases image resolution up to 16x, making visuals suitable for printing or detailed viewing.",
+        "Detail enhancement adds intricate textures and elements, improving clarity and depth in images.",
+        "Natural language prompts allow users to customize enhancements by describing desired changes, ensuring personalized results.",
+        "Creativity slider enables control over the level of AI-generated details, balancing realism and artistic interpretation.",
+        "Style transfer feature applies artistic styles to images, transforming visuals into unique creative works.",
+        "Supports multiple image formats like PNG, JPG, BMP, and GIF for versatile compatibility.",
+        "Optimized settings for specific image types, such as portraits, landscapes, or illustrations, ensure tailored enhancements.",
+        "Fast processing delivers high-resolution results quickly, streamlining creative workflows.",
+        "Intuitive interface makes the platform accessible to users of all skill levels, from beginners to professionals.",
+        "In-depth tutorials and community support guide users in mastering advanced upscaling techniques."
+    ],
+    "faqs": [
+        {
+            "question": "What is Magnific AI used for?",
+            "answer": "Magnific AI is used to upscale and enhance images, transforming low-resolution visuals into high-resolution versions with added details for professional and creative applications."
+        },
+        {
+            "question": "Does Magnific AI offer a free trial?",
+            "answer": "Magnific AI does not offer a free trial or free plan; users must subscribe to a paid plan starting at $39 per month to access its features."
+        },
+        {
+            "question": "What types of images can Magnific AI enhance?",
+            "answer": "Magnific AI can enhance a wide range of images, including portraits, landscapes, illustrations, digital art, and AI-generated visuals, with tailored optimization options."
+        },
+        {
+            "question": "How does the Creativity slider work?",
+            "answer": "The Creativity slider allows users to control the level of AI-generated details, enabling them to balance between realistic enhancements and creative reinterpretations."
+        },
+        {
+            "question": "Can I use Magnific AI for professional projects?",
+            "answer": "Yes, Magnific AI is designed for professionals in photography, graphic design, and digital art, offering high-quality enhancements for commercial use."
+        },
+        {
+            "question": "What are the subscription plans for Magnific AI?",
+            "answer": "Magnific AI offers three paid plans—Pro ($39/month), Premium ($99/month), and Enterprise ($299/month)—with varying token allocations for upscaling tasks."
+        },
+        {
+            "question": "Does Magnific AI support style transfer?",
+            "answer": "Yes, Magnific AI includes a style transfer feature that lets users apply artistic styles to images, adding creative flair to their visuals."
+        },
+        {
+            "question": "What happens to unused credits in Magnific AI?",
+            "answer": "Unused credits in Magnific AI expire at the end of each billing cycle, which has been a point of criticism for some users."
+        }
+    ]
+}

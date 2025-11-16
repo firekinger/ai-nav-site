@@ -1,0 +1,68 @@
+{
+    "name": "VMock",
+    "description": "VMock is an AI-driven career acceleration platform that provides personalized resume, cover letter, and interview feedback to students and professionals.",
+    "longDescription": "VMock is a SMART Career Platform that leverages artificial intelligence, machine learning, and data science to empower students and professionals in their career development. It offers tailored feedback on resumes, cover letters, LinkedIn profiles, and interview skills, helping users optimize their job applications and stand out in competitive job markets. The platform is widely used by over 250 leading universities and business schools globally, providing 24/7 access to career preparation tools. VMock’s mission is to accelerate career goals by delivering instant, personalized guidance based on employer criteria and industry standards. It addresses challenges like crafting recruiter-ready documents and preparing for interviews by offering actionable insights and benchmarking against peer groups. The platform also supports career advisors with analytics to align education and employment goals.",
+    "url": "https://www.vmock.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vmock.com.webp",
+    "category": "AI Resume Builder",
+    "categorySlug": "ai-resume-builder",
+    "slug": "vmock",
+    "categories": [
+        "AI Resume Builder",
+        "AI Job Description Generator",
+        "AI Interview Assistant",
+        "AI Cover Letter Generator",
+        "AI Linkedin Headshot",
+        "AI Language Learning"
+    ],
+    "features": [
+        "SMART Resume provides instant feedback on resume formatting, content, and impact, benchmarked against industry standards and peer groups.",
+        "Resume Optimizer tailors resumes to specific job descriptions, enhancing compatibility with Applicant Tracking Systems (ATS).",
+        "Cover Letter Module offers real-time feedback to create job-specific cover letters with optimized keywords and formatting.",
+        "SMART Interview platform delivers 360-degree feedback on mock interviews, covering behavioral, technical, and knowledge-based questions.",
+        "Elevator Pitch module analyzes body language, speech content, and enunciation to improve users’ interview pitch delivery.",
+        "Aspire optimizes LinkedIn profiles with personalized recommendations to boost visibility and recruiter search rankings.",
+        "Career Fit provides a Fit Score to assess alignment between a user’s skills and target career paths, offering actionable improvement plans.",
+        "SMART Editor suggests line-by-line edits to enhance resume bullet points and achieve all-star profile strength.",
+        "Network Feedback module allows users to share resumes with career advisors or peers for additional input.",
+        "Mock Interview sets offer practice for over 100 career tracks, with customizable questions from a dedicated library."
+    ],
+    "faqs": [
+        {
+            "question": "What is VMock and who can use it?",
+            "answer": "VMock is an AI-driven career platform that provides feedback on resumes, cover letters, and interviews, primarily for students and alumni of partnered universities and professionals seeking career guidance."
+        },
+        {
+            "question": "How does VMock provide resume feedback?",
+            "answer": "VMock analyzes resumes in PDF format, scoring them on impact, presentation, and competencies, and provides detailed line-by-line feedback benchmarked against peer groups and employer standards."
+        },
+        {
+            "question": "Is VMock free to use?",
+            "answer": "VMock is typically free for students at partnered institutions with limited uploads (e.g., 10 per year), but additional access or professional use may require a subscription or institutional partnership."
+        },
+        {
+            "question": "How many resume uploads are allowed annually?",
+            "answer": "Most partnered institutions allow 10 resume uploads per academic year, with resets typically in July or upon request to support teams."
+        },
+        {
+            "question": "Can VMock help with interview preparation?",
+            "answer": "Yes, VMock’s SMART Interview platform offers mock interviews with AI-driven feedback on content, diction, and non-verbal communication for various career tracks."
+        },
+        {
+            "question": "Does VMock support cover letter creation?",
+            "answer": "VMock’s Cover Letter Module provides real-time feedback to create tailored cover letters with optimized keywords and formatting for specific job applications."
+        },
+        {
+            "question": "How does the Career Fit feature work?",
+            "answer": "Career Fit assesses a user’s resume against target careers, providing a Fit Score and actionable feedback to bridge skill gaps for desired roles."
+        },
+        {
+            "question": "Can I use VMock on mobile devices?",
+            "answer": "VMock is optimized for desktops or laptops, but some features like Elevator Pitch support Android devices, with iOS support planned."
+        },
+        {
+            "question": "How does VMock ensure feedback is relevant?",
+            "answer": "VMock uses data science, machine learning, and employer criteria to deliver personalized feedback tailored to specific industries and job roles."
+        }
+    ]
+}

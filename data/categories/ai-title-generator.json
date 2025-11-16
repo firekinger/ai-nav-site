@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Title Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Title Generator tools, designed to help you craft compelling titles that capture attention and drive engagement. Whether you're a content creator, marketer, or business owner, these innovative solutions streamline the title creation process, saving you time while enhancing your content's appeal. With customizable options and smart algorithms, you can generate unique titles tailored to your audience. Explore our curated selection of AI Title Generators today and elevate your content strategy to new heights!",
+    "tools": [
+        {
+            "id": "602",
+            "name": "Pikzels",
+            "slug": "pikzels",
+            "description": "Pikzels is an AI-powered platform for creating viral YouTube thumbnails and titles in seconds.",
+            "icon": "/logo/pikzels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-title-generator"
+            ]
+        },
+        {
+            "id": "947",
+            "name": "Writefull",
+            "slug": "writefull",
+            "description": "Writefull is an AI-powered writing assistant that helps researchers, students, and professionals improve their academic and scientific texts through intelligent language suggestions and editing tools.",
+            "icon": "/logo/www.writefull.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-title-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Mindgrasp",
+    "description": "Mindgrasp is an AI-powered learning platform that transforms educational content into personalized study tools for students and professionals.",
+    "longDescription": "Mindgrasp is an innovative AI-driven platform designed to enhance learning efficiency by converting lectures, documents, and videos into structured study aids like notes, flashcards, and quizzes. Its mission is to help users learn faster and retain information better, catering to students, educators, professionals, and lifelong learners. By leveraging advanced AI, Mindgrasp processes various media types, including PDFs, YouTube videos, and live recordings, to generate concise summaries and actionable insights. The platform supports over 30 languages and integrates with learning management systems like Canvas and Blackboard, making it accessible and versatile. It addresses the challenge of time-consuming study processes by automating content analysis, enabling users to focus on comprehension and application. Mindgrasp is trusted by over 20,000 users globally, including students from top universities like Stanford and MIT.",
+    "url": "https://www.mindgrasp.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mindgrasp.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "mindgrasp-ai",
+    "categories": [
+        "AI Assistant",
+        "AI Article Summarizer",
+        "AI Flashcard Maker",
+        "AI Quiz Generator",
+        "AI Notes Generator",
+        "AI Language Learning",
+        "AI Course",
+        "AI Image Recognition",
+        "AI Transcription",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Automatically generates concise notes from uploaded documents, videos, or lectures, saving users time on manual note-taking.",
+        "Creates personalized flashcards from study materials to enhance memorization and active recall.",
+        "Produces custom quizzes based on uploaded content to test knowledge and identify learning gaps.",
+        "Offers an AI tutor that provides instant, accurate answers to questions about uploaded materials or web-sourced information.",
+        "Summarizes complex PDFs, books, and videos into digestible overviews for quick review.",
+        "Supports multilingual processing, allowing users to generate study aids in over 30 languages.",
+        "Integrates with Canvas and Blackboard for seamless use within educational ecosystems.",
+        "Provides a Chrome extension to analyze content directly from websites, including Panopto lecture recordings.",
+        "Enables live lecture recording and real-time note generation for enhanced classroom productivity.",
+        "Supports multiple file formats, including PDFs, DOCX, MP3, MP4, PowerPoint, and YouTube links.",
+        "Offers bionic reading and focus reading modes to assist neurodivergent users and improve comprehension.",
+        "Allows unlimited uploads with no daily usage limits across all pricing plans.",
+        "Provides image and diagram analysis to extract insights from visual content in study materials."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can I upload to Mindgrasp?",
+            "answer": "Mindgrasp supports PDFs, DOCX, MP3, MP4, PowerPoint, YouTube/Vimeo links, images, diagrams, and live lecture recordings."
+        },
+        {
+            "question": "Is Mindgrasp free to use?",
+            "answer": "Mindgrasp offers a free trial requiring a credit card, but core features are accessible only through paid plans starting at $5.99/month."
+        },
+        {
+            "question": "How does the AI tutor work?",
+            "answer": "The AI tutor answers questions about uploaded content or searches the web for relevant references, providing detailed, accurate responses."
+        },
+        {
+            "question": "Can Mindgrasp help with exam preparation?",
+            "answer": "Yes, Mindgrasp creates flashcards and quizzes from your materials to support active recall and exam readiness."
+        },
+        {
+            "question": "Does Mindgrasp support non-English content?",
+            "answer": "Mindgrasp supports over 30 languages, allowing users to generate study aids from content in various languages."
+        },
+        {
+            "question": "Is Mindgrasp suitable for professionals?",
+            "answer": "Yes, professionals can use Mindgrasp to convert meeting notes, training materials, or research into actionable insights."
+        },
+        {
+            "question": "Can I use Mindgrasp on mobile devices?",
+            "answer": "Mindgrasp is available via iOS app, mobile browser, and Chrome extension for on-the-go access."
+        },
+        {
+            "question": "Does Mindgrasp integrate with learning management systems?",
+            "answer": "Yes, Mindgrasp integrates with Canvas and Blackboard for seamless educational workflows."
+        },
+        {
+            "question": "How secure is my data on Mindgrasp?",
+            "answer": "Mindgrasp uses advanced AI protocols and standard safety measures to protect user data, though users should avoid sharing sensitive information."
+        },
+        {
+            "question": "Can Mindgrasp process images or graphs?",
+            "answer": "Mindgrasp’s Premium plan includes image analysis, but it may not fully process complex graphs or diagrams."
+        }
+    ]
+}

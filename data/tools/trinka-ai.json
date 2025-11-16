@@ -1,0 +1,73 @@
+{
+    "name": "Trinka AI",
+    "description": "Trinka AI is an advanced AI-powered grammar checker and writing assistant tailored for academic, technical, and professional writing.",
+    "longDescription": "Trinka AI is an innovative online platform that leverages artificial intelligence to enhance writing quality, particularly for academic and technical content. Its mission is to assist researchers, students, and professionals in producing error-free, polished documents by providing intelligent suggestions for grammar, style, and clarity. The tool addresses common challenges faced by non-native English speakers and those in specialized fields like science and medicine, where precision is crucial. By integrating advanced AI algorithms, Trinka goes beyond basic proofreading to offer context-aware improvements, such as technical terminology checks and publication-ready formatting. Ultimately, it serves users by saving time, reducing errors, and improving the overall impact of their written work.",
+    "url": "https://www.trinka.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.trinka.ai.webp",
+    "category": "AI Grammar Checker",
+    "categorySlug": "ai-grammar-checker",
+    "slug": "trinka-ai",
+    "categories": [
+        "AI Grammar Checker",
+        "AI Writing Assistants",
+        "AI Language Learning",
+        "AI Plagiarism Checker",
+        "AI Writing",
+        "AI Book Writing",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Trinka's AI-driven grammar checker identifies and corrects complex grammatical errors, ensuring high accuracy in academic writing.",
+        "The style guide adherence feature helps users conform to specific academic styles like APA, MLA, or AMA, streamlining the formatting process.",
+        "Technical word choice suggestions provide alternatives for precise terminology, benefiting researchers in scientific fields.",
+        "Plagiarism detection scans content against a vast database to ensure originality and avoid unintentional copying.",
+        "Auto-editing mode applies bulk corrections with one click, saving time for large documents.",
+        "Consistency checks maintain uniform terminology and phrasing throughout the text, enhancing readability.",
+        "Publication readiness tools prepare manuscripts for journal submissions by checking compliance with guidelines.",
+        "Real-time feedback provides instant suggestions as users type, improving writing efficiency.",
+        "Customizable settings allow users to tailor the AI to their specific writing needs or preferences.",
+        "Integration with Microsoft Word and web browsers enables seamless use across platforms."
+    ],
+    "faqs": [
+        {
+            "question": "What is Trinka AI primarily used for?",
+            "answer": "Trinka AI is primarily used for grammar checking and language enhancement in academic and technical writing. It helps users produce polished, error-free documents suitable for research papers, theses, and professional reports."
+        },
+        {
+            "question": "Does Trinka offer a free version?",
+            "answer": "Yes, Trinka provides a free plan with basic features like grammar checking and limited suggestions. For advanced tools like plagiarism detection, users need to upgrade to a premium subscription."
+        },
+        {
+            "question": "How does Trinka differ from other grammar checkers?",
+            "answer": "Trinka is specialized for academic and technical writing, offering context-aware suggestions for scientific terminology and style guides. Unlike general tools, it focuses on precision and publication readiness."
+        },
+        {
+            "question": "Can Trinka detect plagiarism?",
+            "answer": "Yes, Trinka includes a plagiarism checker that scans against billions of web pages and academic databases. It highlights potential issues and provides similarity reports."
+        },
+        {
+            "question": "Is Trinka suitable for non-native English speakers?",
+            "answer": "Absolutely, Trinka is designed to assist non-native speakers by providing advanced language corrections and explanations. It helps improve clarity and fluency in complex writing tasks."
+        },
+        {
+            "question": "What integrations does Trinka support?",
+            "answer": "Trinka integrates with Microsoft Word, Google Docs, and web browsers like Chrome. This allows users to access its features directly within their preferred writing environments."
+        },
+        {
+            "question": "How accurate is Trinka's AI?",
+            "answer": "Trinka's AI is highly accurate, trained on millions of academic papers for context-specific suggestions. It continually improves through machine learning to handle nuanced language issues."
+        },
+        {
+            "question": "Can I use Trinka for non-academic writing?",
+            "answer": "While optimized for academic use, Trinka can be used for general writing like business emails or blogs. However, its strengths lie in technical and research-oriented content."
+        },
+        {
+            "question": "What are the pricing options for Trinka?",
+            "answer": "Trinka offers a free basic plan and premium subscriptions starting at around $20 per month. Premium plans include unlimited checks, advanced features, and priority support."
+        },
+        {
+            "question": "Does Trinka ensure data privacy?",
+            "answer": "Yes, Trinka prioritizes user privacy with secure data handling and compliance with GDPR standards. Documents are not stored without permission."
+        }
+    ]
+}

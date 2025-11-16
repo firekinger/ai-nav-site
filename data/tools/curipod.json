@@ -1,0 +1,71 @@
+{
+    "name": "Curipod",
+    "description": "Curipod is an AI-driven platform that empowers teachers to create engaging, interactive lessons in minutes.",
+    "longDescription": "Curipod is an innovative educational tool that leverages artificial intelligence to help teachers design and deliver interactive lessons tailored to their students' needs. Its mission is to make teaching more efficient and engaging by reducing the time spent on lesson planning while enhancing student participation and learning outcomes. The platform solves common problems in education, such as time constraints for teachers and lack of student engagement, by providing AI-generated content that can be customized easily. Users, primarily educators, can generate lessons on various subjects, incorporate interactive elements like polls and quizzes, and track student progress in real-time. Overall, Curipod serves as a bridge between technology and education, making high-quality, interactive teaching accessible to all.",
+    "url": "https://curipod.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/curipod.com.webp",
+    "category": "AI Lesson Plan Generator",
+    "categorySlug": "ai-lesson-plan-generator",
+    "slug": "curipod",
+    "categories": [
+        "AI Lesson Plan Generator",
+        "AI Course",
+        "AI Productivity Tools",
+        "AI Homework Helper",
+        "AI Quiz Generator"
+    ],
+    "features": [
+        "AI-powered lesson generator creates complete, customizable lesson plans in seconds based on teacher inputs, saving time and effort.",
+        "Interactive elements such as polls, word clouds, and drawings encourage student participation and make learning fun.",
+        "Real-time feedback and analytics allow teachers to monitor student understanding and adjust lessons on the fly.",
+        "Standards-aligned content ensures lessons meet educational requirements across various curricula and grade levels.",
+        "Collaboration tools enable teachers to share and co-edit lessons with colleagues, fostering a community of educators.",
+        "Mobile-friendly interface supports seamless access for both teachers and students on any device.",
+        "Integration with popular tools like Google Classroom streamlines workflow and assignment distribution.",
+        "Customizable templates provide a starting point for lessons, adaptable to different teaching styles and subjects.",
+        "Student response system collects instant inputs, helping teachers gauge comprehension during live sessions.",
+        "Export options allow lessons to be downloaded or shared outside the platform for broader use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Curipod?",
+            "answer": "Curipod is an AI platform designed for teachers to create interactive lessons quickly. It uses AI to generate content and includes tools for engagement like polls and quizzes."
+        },
+        {
+            "question": "Is Curipod free to use?",
+            "answer": "Yes, Curipod offers a free plan with access to core features, though premium options are available for advanced functionalities."
+        },
+        {
+            "question": "How does the AI lesson generator work?",
+            "answer": "Teachers input a topic or standard, and the AI generates a full lesson plan with interactive slides. It can be customized further to fit specific needs."
+        },
+        {
+            "question": "Can Curipod be used for all grade levels?",
+            "answer": "Yes, Curipod supports lessons for various grade levels, from elementary to high school, with content adaptable to different ages and subjects."
+        },
+        {
+            "question": "Does Curipod integrate with other educational tools?",
+            "answer": "Curipod integrates with tools like Google Classroom and Microsoft Teams, making it easy to assign and manage lessons within existing workflows."
+        },
+        {
+            "question": "How does Curipod ensure student privacy?",
+            "answer": "Curipod complies with data protection regulations like GDPR and COPPA, ensuring student data is secure and not shared without consent."
+        },
+        {
+            "question": "What subjects does Curipod support?",
+            "answer": "Curipod covers a wide range of subjects including math, science, language arts, and social studies, with AI generating relevant content for each."
+        },
+        {
+            "question": "Can teachers collaborate on lessons in Curipod?",
+            "answer": "Yes, teachers can share and co-edit lessons with colleagues, promoting teamwork and resource sharing within educational communities."
+        },
+        {
+            "question": "Is there a mobile app for Curipod?",
+            "answer": "Curipod is accessible via web browsers on mobile devices, with a responsive design for easy use on smartphones and tablets."
+        },
+        {
+            "question": "How does Curipod help with student engagement?",
+            "answer": "It includes interactive features like real-time polls and drawings that encourage active participation, making lessons more dynamic and fun."
+        }
+    ]
+}

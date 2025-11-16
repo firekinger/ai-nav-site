@@ -1,0 +1,67 @@
+{
+    "name": "Crayo AI",
+    "description": "Crayo AI is an AI-powered platform for creating viral-ready short-form videos for social media in minutes.",
+    "longDescription": "Crayo AI is an innovative platform designed to simplify and accelerate short-form video creation for content creators, marketers, and businesses targeting platforms like TikTok, Instagram Reels, and YouTube Shorts. By leveraging artificial intelligence, it automates the entire video production process, from script generation to editing, enabling users to produce engaging, professional-grade content without advanced editing skills. The platform aims to make video creation accessible, fast, and scalable, helping users craft viral-ready clips in seconds. Its mission is to empower creators to streamline their workflow and maximize audience engagement with minimal effort. Crayo AI supports a variety of video styles, such as story videos, split-screen, and fake text exchanges, tailored for social media trends. It is trusted by over2.1 million users, indicating its popularity and effectiveness in the content creation space.",
+    "url": "https://crayo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/crayo.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "crayo-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Script Writing",
+        "AI Voice Over",
+        "AI Subtitle Generator",
+        "AI Social Media Post Generator",
+        "AI Video Editor",
+        "AI Writing",
+        "AI Image Generator",
+        "AI Content Detector"
+    ],
+    "features": [
+        "AI Script Generator creates engaging video scripts from text prompts, saving time for creators.",
+        "Auto-generated captions add eye-catching subtitles to videos, enhancing viewer engagement.",
+        "Customizable templates allow users to align videos with their brand identity effortlessly.",
+        "Professional AI voiceovers provide realistic narration without the need for manual recording.",
+        "Split-screen video creation transforms YouTube or TikTok URLs into engaging split-style videos.",
+        "Fake text video generator creates realistic text exchange videos with customizable themes.",
+        "Rapid video production generates fully edited videos in under three minutes for quick content deployment.",
+        "Multi-platform optimization ensures videos are tailored for TikTok, Instagram, and YouTube.",
+        "AI image generation creates custom visuals based on text prompts for unique video content.",
+        "Stock video and music integration enhances videos with trending clips and audio tracks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Crayo AI used for?",
+            "answer": "Crayo AI is used to create short-form, viral-ready videos for social media platforms like TikTok, Instagram Reels, and YouTube Shorts, automating scriptwriting, editing, and voiceovers."
+        },
+        {
+            "question": "Is there a free plan available for Crayo AI?",
+            "answer": "Yes, Crayo AI offers limited free-tier access with basic features like AI-generated content suggestions, though full functionality requires a paid subscription."
+        },
+        {
+            "question": "Can I use Crayo AI without video editing experience?",
+            "answer": "Absolutely, Crayo AI’s user-friendly interface and AI automation allow beginners to create professional videos without editing skills."
+        },
+        {
+            "question": "What types of videos can I create with Crayo AI?",
+            "answer": "Crayo AI supports story videos, split-screen videos, fake text exchange videos, and gameplay videos optimized for social media."
+        },
+        {
+            "question": "Does Crayo AI support multiple platforms?",
+            "answer": "Yes, Crayo AI optimizes videos for platforms like TikTok, Instagram, and YouTube to maximize engagement."
+        },
+        {
+            "question": "How fast can I create a video with Crayo AI?",
+            "answer": "Crayo AI can generate a fully edited video in under three minutes, ideal for quick content creation."
+        },
+        {
+            "question": "Are the AI-generated voiceovers realistic?",
+            "answer": "Crayo AI provides professional AI voiceovers, though some users note they can sound slightly robotic with limited customization options."
+        },
+        {
+            "question": "Can I monetize videos created with Crayo AI?",
+            "answer": "While Crayo AI creates monetizable content, using stock clips may pose risks for monetization or advertising due to copyright concerns."
+        }
+    ]
+}

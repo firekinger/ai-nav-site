@@ -1,0 +1,55 @@
+{
+    "name": "Kling AI",
+    "description": "Kling AI is a next-generation AI creative studio for generating imaginative videos and images from text prompts.",
+    "longDescription": "Kling AI, developed by Kuaishou, is an advanced AI-powered platform designed to streamline the creation of professional-quality videos and images using state-of-the-art generative AI technology. Its mission is to empower content creators, marketers, and businesses by providing accessible tools to transform text prompts, scripts, or storyboards into engaging visual content. The platform supports a seamless workflow from ideation to production, eliminating the need for advanced editing skills or expensive equipment. By offering both free and paid plans, Kling AI caters to a wide range of users, from individual creators to enterprise clients. The platform also provides developer APIs, enabling integration into custom applications for enhanced creative automation. Recent milestones include reaching 22 million users and facilitating over 500 million creations within its first year.",
+    "url": "https://www.klingai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/klingai.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "kling-ai",
+    "categories": [
+        "AI Video Generator",
+        "Text to Video",
+        "AI Image Generator",
+        "AI Design Assistant",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Text-to-video generation creates cinema-grade videos from written prompts, enabling quick production of engaging content.",
+        "Image generation transforms text descriptions into high-quality images, ideal for marketing and creative projects.",
+        "Advanced editing tools allow users to refine videos with camera movement controls and creative effects for professional results.",
+        "Script-to-storyboard functionality streamlines the creative process by converting scripts into visual storyboards.",
+        "Developer APIs provide video and image generation capabilities for integration into custom applications.",
+        "Smart scene APIs enable precise control over video elements like motion paths and scene transitions for dynamic outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kling AI used for?",
+            "answer": "Kling AI is used to create professional videos and images from text prompts, streamlining content creation for creators and businesses."
+        },
+        {
+            "question": "Does Kling AI offer a free plan?",
+            "answer": "Yes, Kling AI offers a free plan with limited access to its core features, allowing users to test its capabilities."
+        },
+        {
+            "question": "Can I integrate Kling AI into my own applications?",
+            "answer": "Yes, Kling AI provides developer APIs for video and image generation, enabling seamless integration into custom platforms."
+        },
+        {
+            "question": "What kind of videos can I create with Kling AI?",
+            "answer": "You can create cinema-grade videos with dynamic scenes, camera movements, and creative effects using text prompts or scripts."
+        },
+        {
+            "question": "How do I contact Kling AI support?",
+            "answer": "You can reach Kling AI support via email at support@klingai.com or through the contact page on their website."
+        },
+        {
+            "question": "Is Kling AI suitable for beginners?",
+            "answer": "Yes, Kling AI’s user-friendly interface requires no editing skills, making it accessible for beginners and professionals alike."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan offers limited credits and access to features, with premium options available for higher usage and advanced tools."
+        }
+    ]
+}

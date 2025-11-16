@@ -1,0 +1,81 @@
+{
+    "name": "YOU-TLDR",
+    "description": "YOU-TLDR is a free AI-powered web app that enables users to summarize, download, search, and interact with YouTube videos in any language.",
+    "longDescription": "YOU-TLDR is an innovative AI-driven platform designed to distill lengthy YouTube videos into concise summaries, making content consumption faster and more efficient. It leverages advanced algorithms to analyze video transcripts and generate key insights, transcripts, and interactive features. The tool supports multiple languages, allowing global users to access information in their native tongue without watching entire videos. By providing downloads, searches, and chat interactions, it enhances productivity and learning. Its mission is to unlock knowledge from video content effortlessly, solving the issue of time constraints in information gathering. This makes it ideal for students, professionals, and casual learners seeking quick overviews.",
+    "url": "https://www.you-tldr.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.you-tldr.com.webp",
+    "category": "AI Video Summarizer",
+    "categorySlug": "ai-video-summarizer",
+    "slug": "you-tldr",
+    "categories": [
+        "AI Video Summarizer",
+        "AI Youtube Summary",
+        "AI Transcriber",
+        "AI Translate",
+        "AI Video Search",
+        "AI Chat Generator",
+        "AI Report Generator",
+        "AI Productivity Tools",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Instantly generates concise summaries of any YouTube video to deliver key insights without watching the full content.",
+        "Fetches and provides transcripts in the user's native language with just one click for easy reading.",
+        "Extracts and highlights essential points from videos to help users grasp main ideas quickly.",
+        "Allows downloading of summaries, transcripts, and audio files for offline access and reference.",
+        "Enables searching within video transcripts to locate specific information efficiently.",
+        "Offers an interactive AI chat feature to ask questions and get responses based on video content.",
+        "Supports summarization and interaction in multiple languages for global accessibility.",
+        "Utilizes advanced AI algorithms for accurate and reliable video analysis and summarization.",
+        "Features a simple user interface where users paste a YouTube URL to start processing.",
+        "Aids in language learning by providing translated transcripts and summaries of educational videos.",
+        "Saves significant time by condensing long videos into digestible TLDR formats.",
+        "Provides free access to all core functionalities without requiring subscriptions or payments."
+    ],
+    "faqs": [
+        {
+            "question": "What is YOU-TLDR?",
+            "answer": "YOU-TLDR is an AI-powered web app that summarizes YouTube videos, generates transcripts, and allows interaction with video content in multiple languages."
+        },
+        {
+            "question": "How do I use YOU-TLDR?",
+            "answer": "Simply visit the website, paste the URL of the YouTube video into the provided field, and the tool will automatically generate summaries and transcripts."
+        },
+        {
+            "question": "Is YOU-TLDR free to use?",
+            "answer": "Yes, YOU-TLDR offers all its core features for free, with no subscription or payment required."
+        },
+        {
+            "question": "What languages does YOU-TLDR support?",
+            "answer": "It supports summarization, transcripts, and interactions in any language, making it accessible worldwide."
+        },
+        {
+            "question": "Can I download the summaries or transcripts?",
+            "answer": "Yes, users can easily download summaries, transcripts, and even audio files from the processed videos."
+        },
+        {
+            "question": "How accurate are the video summaries?",
+            "answer": "The summaries are generated using advanced AI algorithms, providing precise and reliable insights based on the video's content."
+        },
+        {
+            "question": "Is there a limit on the video length YOU-TLDR can handle?",
+            "answer": "YOU-TLDR can process videos of various lengths, though extremely long videos may take additional time to analyze."
+        },
+        {
+            "question": "Can I search for specific information within a video?",
+            "answer": "Yes, the tool allows searching within the transcript to find and highlight specific terms or topics."
+        },
+        {
+            "question": "Does YOU-TLDR work on mobile devices?",
+            "answer": "As a web-based app, YOU-TLDR is accessible on any device with a browser, including mobiles and tablets."
+        },
+        {
+            "question": "How does the interactive chat feature work?",
+            "answer": "Users can ask questions about the video content via chat, and the AI responds based on the analyzed transcript and summary."
+        },
+        {
+            "question": "Is my data private when using YOU-TLDR?",
+            "answer": "YOU-TLDR does not store personal data or video URLs beyond the processing session, ensuring user privacy."
+        }
+    ]
+}

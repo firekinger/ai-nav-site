@@ -1,0 +1,63 @@
+{
+    "name": "Hex",
+    "description": "Hex is a collaborative, AI-powered analytics workspace for data science and decision-making.",
+    "longDescription": "Hex is a cloud-based platform designed to streamline data science and analytics by integrating SQL, Python, R, and no-code tools into a collaborative workspace. Its mission is to empower teams, regardless of technical expertise, to explore data, build models, and share insights efficiently. Hex addresses the fragmentation of traditional data tools by offering a unified interface that supports everything from ad-hoc queries to interactive data apps. By fostering collaboration and minimizing data movement, it enhances productivity and decision-making for data teams. The platform integrates with modern data stacks like Snowflake and dbt, making it ideal for organizations seeking scalable, secure analytics solutions. Recently, Hex raised $70M in Series C funding to advance its agentic analytics capabilities.",
+    "url": "https://hex.tech/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hex.tech.webp",
+    "category": "AI For Data Analytics",
+    "categorySlug": "ai-for-data-analytics",
+    "slug": "hex",
+    "categories": [
+        "AI For Data Analytics",
+        "AI Productivity Tools",
+        "No-Code&Low-Code",
+        "AI Charting",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Unified workspace integrates SQL, Python, R, and no-code tools for seamless data analysis and visualization.",
+        "Collaborative notebook interface enables teams to work together on data projects in real-time, similar to Google Docs.",
+        "Interactive data apps allow users to publish dashboards and reports for non-technical stakeholders to explore.",
+        "AI-driven Hex Magic features assist with query writing, debugging, and data analysis to boost productivity.",
+        "Deep integrations with Snowflake, dbt, and Spark enable efficient data processing and model deployment.",
+        "Secure data connections ensure safe access to data warehouses with encrypted credentials and minimal data movement.",
+        "Review system supports peer feedback and protected project status, enhancing collaboration and quality control.",
+        "No-code chart cells provide easy visualization options for users without coding expertise.",
+        "GitHub and GitLab export capabilities create an audit trail for project versioning and collaboration.",
+        "Configurable caching layer optimizes query costs without long-term data storage, ideal for cost-conscious teams."
+    ],
+    "faqs": [
+        {
+            "question": "What is Hex used for?",
+            "answer": "Hex is a platform for collaborative data science and analytics, allowing teams to analyze data, build models, and share interactive reports using SQL, Python, R, or no-code tools."
+        },
+        {
+            "question": "Does Hex offer a free plan?",
+            "answer": "Yes, Hex offers a free plan with limited usage quotas, suitable for individuals or small teams to explore its core features."
+        },
+        {
+            "question": "How does Hex integrate with existing data stacks?",
+            "answer": "Hex connects seamlessly with data warehouses like Snowflake and tools like dbt, enabling direct queries and enriched schemas for efficient workflows."
+        },
+        {
+            "question": "Is Hex suitable for non-technical users?",
+            "answer": "Yes, Hex’s no-code chart cells and interactive apps allow non-technical users to visualize and explore data without coding expertise."
+        },
+        {
+            "question": "How does Hex ensure data security?",
+            "answer": "Hex uses encrypted data connections, ephemeral data storage, and SSO support to ensure secure access and compliance with privacy regulations."
+        },
+        {
+            "question": "Can Hex support complex machine learning projects?",
+            "answer": "Yes, Hex supports advanced ML workflows, including data clustering and predictive modeling, with Python and R integration."
+        },
+        {
+            "question": "How does Hex’s collaboration feature work?",
+            "answer": "Hex’s collaborative notebook and review system allow teams to work together, request peer reviews, and track changes, similar to Git-based workflows."
+        },
+        {
+            "question": "What is Hex Magic?",
+            "answer": "Hex Magic is a set of AI-driven tools that assist with writing queries, debugging code, and generating insights to accelerate data tasks."
+        }
+    ]
+}

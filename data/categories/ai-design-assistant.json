@@ -1,0 +1,2371 @@
+{
+    "title": "The Best 215 AI Design Assistant Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Design Assistant category, where cutting-edge tools streamline your design process. These innovative solutions enhance productivity, inspire creativity, and simplify complex tasks, making design accessible for everyone—from beginners to professionals. Whether you need assistance with graphic design, branding, or user experience, our curated selection of AI tools is here to elevate your projects. Explore the future of design and transform your ideas into stunning visuals today! Dive in and discover the perfect AI design assistant for your needs.",
+    "tools": [
+        {
+            "id": "2",
+            "name": "Google Gemini",
+            "slug": "google-gemini",
+            "description": "Google Gemini is an AI-powered platform offering conversational and multimodal capabilities to enhance productivity and creativity.",
+            "icon": "/logo/gemini.google.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "130",
+            "name": "OpenAI",
+            "slug": "openai",
+            "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+            "icon": "/logo/openai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Character.AI",
+            "slug": "character-ai",
+            "description": "Character.AI enables users to create and interact with AI-powered chatbots for entertainment and creative expression.",
+            "icon": "/logo/character.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Remove.bg",
+            "slug": "remove-bg",
+            "description": "Remove.bg is a tool for automatically removing backgrounds from images with ease.",
+            "icon": "/logo/remove.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "105",
+            "name": "Shutterstock",
+            "slug": "shutterstock",
+            "description": "Shutterstock provides a global marketplace for licensing royalty-free images, videos, and music for creative projects.",
+            "icon": "/logo/shutterstock.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Miro",
+            "slug": "miro",
+            "description": "Miro is a visual collaboration platform that enables teams to brainstorm, plan, and manage projects in real-time or asynchronously.",
+            "icon": "/logo/miro.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Kimi",
+            "slug": "kimi",
+            "description": "Kimi is an AI-powered assistant designed to enhance productivity through advanced text analysis, multimodal processing, and real-time information retrieval.",
+            "icon": "/logo/kimi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Gamma",
+            "slug": "gamma",
+            "description": "Gamma is an AI-powered platform for creating presentations, documents, and web pages with minimal design effort.",
+            "icon": "/logo/gamma.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "33",
+            "name": "DeepAI",
+            "slug": "deepai",
+            "description": "DeepAI provides AI-powered tools for generating and editing creative content like images, videos, music, and text.",
+            "icon": "/logo/deepai.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "49",
+            "name": "Midjourney",
+            "slug": "midjourney",
+            "description": "Midjourney is an AI-powered platform for generating stunning images from text prompts.",
+            "icon": "/logo/midjourney.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "35",
+            "name": "ZeroGPT",
+            "slug": "zerogpt",
+            "description": "ZeroGPT provides AI-powered tools to detect AI-generated content and enhance writing with plagiarism checks, grammar correction, and more.",
+            "icon": "/logo/zerogpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "51",
+            "name": "Kling AI",
+            "slug": "kling-ai",
+            "description": "Kling AI is a next-generation AI creative studio for generating imaginative videos and images from text prompts.",
+            "icon": "/logo/klingai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "TurboScribe",
+            "slug": "turboscribe",
+            "description": "TurboScribe is an AI-powered platform that transcribes audio and video files into accurate text with support for over 98 languages.",
+            "icon": "/logo/turboscribe.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "34",
+            "name": "Fotor",
+            "slug": "fotor",
+            "description": "Fotor is an all-in-one online photo editing and graphic design platform that empowers users to create stunning visuals with AI-powered tools and templates.",
+            "icon": "/logo/fotor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "43",
+            "name": "Leonardo.Ai",
+            "slug": "leonardo-ai",
+            "description": "Leonardo.Ai is an AI-driven platform for generating high-quality visual assets for creative projects.",
+            "icon": "/logo/leonardo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "47",
+            "name": "Pixlr",
+            "slug": "pixlr",
+            "description": "Pixlr is an AI-powered online photo editing and design platform for creating stunning visuals.",
+            "icon": "/logo/pixlr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Meta AI",
+            "slug": "meta-ai",
+            "description": "Meta AI provides an AI-powered assistant for personalized answers, image generation, and seamless integration across Meta platforms.",
+            "icon": "/logo/meta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "VEED.IO",
+            "slug": "veed-io",
+            "description": "VEED.IO is an AI-powered online video editing platform that simplifies the creation and enhancement of professional-quality videos for creators and businesses.",
+            "icon": "/logo/veed.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Monica",
+            "slug": "monica",
+            "description": "Monica is an AI-powered assistant enhancing productivity through chat, writing, coding, and search across multiple platforms.",
+            "icon": "/logo/monica.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "134",
+            "name": "Wondershare",
+            "slug": "wondershare",
+            "description": "Wondershare provides AI-powered software solutions for video editing, PDF management, data recovery, and mobile device management to enhance creativity and productivity.",
+            "icon": "/logo/wondershare.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Candy AI",
+            "slug": "candy-ai",
+            "description": "Candy AI is an AI-powered platform for creating and interacting with personalized virtual companions for immersive chats and emotional connection.",
+            "icon": "/logo/candy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "73",
+            "name": "AIFaceSwap",
+            "slug": "aifaceswap",
+            "description": "AIFaceSwap.io is a free online platform for seamlessly swapping faces in photos and videos using advanced AI technology.",
+            "icon": "/logo/aifaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "InVideo",
+            "slug": "invideo",
+            "description": "InVideo is an AI-powered video creation platform that simplifies professional-quality video production for users of all skill levels.",
+            "icon": "/logo/invideo.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Runway",
+            "slug": "runway",
+            "description": "Runway is an AI-powered platform for creating and editing videos, images, and audio to enhance human creativity.",
+            "icon": "/logo/runwayml.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "27",
+            "name": "Yiyan",
+            "slug": "yiyan",
+            "description": "Yiyan is an AI-powered platform by Baidu offering conversational and creative tools for users.",
+            "icon": "/logo/yiyan.baidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "142",
+            "name": "v0",
+            "slug": "v0",
+            "description": "v0 is an AI-powered platform for generating and customizing UI components and web applications using natural language prompts.",
+            "icon": "/logo/v0.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "143",
+            "name": "Krea AI",
+            "slug": "krea-ai",
+            "description": "Krea AI is a platform for generating and editing images and videos using advanced AI tools.",
+            "icon": "/logo/www.krea.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "84",
+            "name": "Chichi-pui",
+            "slug": "chichi-pui",
+            "description": "Chichi-pui is a Japanese platform for creating and sharing AI-generated illustrations, photos, and gravure images, fostering a vibrant community of AI art enthusiasts.",
+            "icon": "/logo/chichi-pui.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "157",
+            "name": "NovelAI",
+            "slug": "novelai",
+            "description": "NovelAI is an AI-powered platform for generating creative writing and visual storytelling content.",
+            "icon": "/logo/novelai.net.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "158",
+            "name": "Framer",
+            "slug": "framer",
+            "description": "Framer is a web design and prototyping tool for creating interactive, visually stunning websites and applications.",
+            "icon": "/logo/www.framer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "169",
+            "name": "PicLumen",
+            "slug": "piclumen",
+            "description": "PicLumen is an AI-powered platform for generating and editing high-quality images for creative and professional use.",
+            "icon": "/logo/www.piclumen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Zeemo",
+            "slug": "zeemo",
+            "description": "Zeemo is an AI-powered platform that simplifies video captioning and translation for content creators and businesses.",
+            "icon": "/logo/zeemo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FlowGPT",
+            "slug": "flowgpt",
+            "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+            "icon": "/logo/flowgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "BeFunky",
+            "slug": "befunky",
+            "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+            "icon": "/logo/www.befunky.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "197",
+            "name": "Udio",
+            "slug": "udio",
+            "description": "Udio is an AI-powered platform for creating high-quality, royalty-free music tailored to user preferences.",
+            "icon": "/logo/www.udio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "203",
+            "name": "Recraft",
+            "slug": "recraft",
+            "description": "Recraft is an AI-powered design platform for creating professional-grade graphics, illustrations, and digital art.",
+            "icon": "/logo/www.recraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "204",
+            "name": "iFoto",
+            "slug": "ifoto",
+            "description": "iFoto is an AI-powered platform for enhancing and editing photos for personal and e-commerce use.",
+            "icon": "/logo/www.ifoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "206",
+            "name": "Topaz Labs",
+            "slug": "topaz-labs",
+            "description": "Topaz Labs offers AI-powered software for enhancing photo and video quality, catering to photographers, videographers, and creative professionals.",
+            "icon": "/logo/www.topazlabs.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "Pika.art",
+            "slug": "pika-art",
+            "description": "Pika.art is an AI-powered platform for creating and editing videos and images from text prompts or existing media.",
+            "icon": "/logo/pika.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "Kittl",
+            "slug": "kittl",
+            "description": "Kittl is an AI-powered design platform for creating professional-grade graphics and branding materials.",
+            "icon": "/logo/www.kittl.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "216",
+            "name": "Looka",
+            "slug": "looka",
+            "description": "Looka is an AI-powered platform for designing logos and building brand identities.",
+            "icon": "/logo/looka.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Stitch",
+            "slug": "stitch",
+            "description": "Stitch is an AI-powered tool by Google Labs that generates UI designs and frontend code for web and mobile applications from text or image prompts.",
+            "icon": "/logo/stitch.withgoogle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "219",
+            "name": "Meshy",
+            "slug": "meshy",
+            "description": "Meshy is an AI-powered platform for creating high-quality 3D models and assets from text or images.",
+            "icon": "/logo/www.meshy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "230",
+            "name": "Dewatermark.ai",
+            "slug": "dewatermark-ai",
+            "description": "Dewatermark.ai is an AI-powered tool for removing watermarks from images and videos, offering fast and high-quality results.",
+            "icon": "/logo/dewatermark.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "232",
+            "name": "Mureka",
+            "slug": "mureka",
+            "description": "Mureka is an AI-powered platform for creating and managing music and audio content.",
+            "icon": "/logo/www.mureka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "238",
+            "name": "Imagine.art",
+            "slug": "imagine-art",
+            "description": "Imagine.art is an AI-powered platform for generating and editing creative images and artworks.",
+            "icon": "/logo/www.imagine.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "Yodayo",
+            "slug": "yodayo",
+            "description": "Yodayo is an AI-powered creative platform for anime fans to generate art, interact with AI characters, and engage in a vibrant community.",
+            "icon": "/logo/yodayo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "243",
+            "name": "CaveDuck",
+            "slug": "caveduck",
+            "description": "CaveDuck provides an AI-powered conversational platform for interactive and engaging user experiences.",
+            "icon": "/logo/caveduck.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "247",
+            "name": "Airbrush",
+            "slug": "airbrush",
+            "description": "Airbrush provides AI-powered tools for creating and editing high-quality images and videos for personal and professional use.",
+            "icon": "/logo/airbrush.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "249",
+            "name": "Whimsical",
+            "slug": "whimsical",
+            "description": "Whimsical is a collaborative platform for creating flowcharts, wireframes, mind maps, and project documentation to streamline team workflows.",
+            "icon": "/logo/whimsical.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "253",
+            "name": "Fish Audio",
+            "slug": "fish-audio",
+            "description": "Fish Audio provides AI-powered tools for music creation, voice generation, and audio editing.",
+            "icon": "/logo/fish.audio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "260",
+            "name": "Fal.ai",
+            "slug": "fal-ai",
+            "description": "Fal.ai provides a platform for building and deploying AI-powered applications with a focus on real-time generative AI solutions.",
+            "icon": "/logo/fal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "266",
+            "name": "Mermaid Chart",
+            "slug": "mermaid-chart",
+            "description": "Mermaid Chart is a platform for creating and sharing interactive diagrams and flowcharts using text-based code.",
+            "icon": "/logo/www.mermaidchart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "280",
+            "name": "Vectorizer.AI",
+            "slug": "vectorizer-ai",
+            "description": "Vectorizer.AI converts raster images into high-quality vector graphics using advanced AI technology.",
+            "icon": "/logo/vectorizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "282",
+            "name": "Presentations.AI",
+            "slug": "presentations-ai",
+            "description": "Presentations.AI is an AI-powered platform for creating professional presentations quickly and easily.",
+            "icon": "/logo/www.presentations.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "291",
+            "name": "Stable Diffusion Online",
+            "slug": "stable-diffusion-online",
+            "description": "Stable Diffusion Online is a user-friendly platform for generating high-quality AI images from text prompts using the Stable Diffusion XL model.",
+            "icon": "/logo/stablediffusionweb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "303",
+            "name": "Chad AI",
+            "slug": "chad-ai",
+            "description": "Chad AI provides a Russian-language AI chatbot powered by advanced neural networks for text, code, and image generation without VPN or registration.",
+            "icon": "/logo/chadgpt.ru.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "304",
+            "name": "GitMind",
+            "slug": "gitmind",
+            "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+            "icon": "/logo/gitmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "311",
+            "name": "ImagePrompt.org",
+            "slug": "imageprompt-org",
+            "description": "ImagePrompt.org is an AI-powered platform for creating and transforming image prompts to generate stunning AI art.",
+            "icon": "/logo/imageprompt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "324",
+            "name": "MyMap AI",
+            "slug": "mymap-ai",
+            "description": "MyMap AI is an AI-powered platform that transforms ideas into visual mind maps, flowcharts, and presentations through a chat interface.",
+            "icon": "/logo/www.mymap.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "338",
+            "name": "Design Bundles",
+            "slug": "design-bundles",
+            "description": "Design Bundles provides premium and free digital design resources for crafters, graphic designers, and businesses.",
+            "icon": "/logo/designbundles.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "342",
+            "name": "PopAi",
+            "slug": "popai",
+            "description": "PopAi is an AI-powered tool designed to enhance productivity through document interaction, presentation creation, and image generation.",
+            "icon": "/logo/www.popai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "354",
+            "name": "MyIMG",
+            "slug": "myimg",
+            "description": "MyIMG is an AI-powered platform for transforming photos into cartoons, generating images from text, and editing visuals with features like face swapping and clothes removal.",
+            "icon": "/logo/www.myimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Hyper3D",
+            "slug": "hyper3d",
+            "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+            "icon": "/logo/hyper3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Wsup.ai",
+            "slug": "wsup-ai",
+            "description": "Wsup.ai is a free platform for engaging in uncensored conversations and roleplay with customizable AI characters.",
+            "icon": "/logo/wsup.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "362",
+            "name": "AI Novel",
+            "slug": "ai-novel",
+            "description": "AI Novel is a platform for creating, sharing, and exploring AI-generated novels and web stories.",
+            "icon": "/logo/ai-novel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "364",
+            "name": "LogoAI",
+            "slug": "logoai",
+            "description": "LogoAI is an AI-powered platform that enables businesses to create professional logos and cohesive brand identities effortlessly.",
+            "icon": "/logo/www.logoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "365",
+            "name": "Kaiber",
+            "slug": "kaiber",
+            "description": "Kaiber is an AI-powered creative platform for generating stunning videos, animations, and visuals from text, images, or audio inputs.",
+            "icon": "/logo/www.kaiber.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "366",
+            "name": "Flowith",
+            "slug": "flowith",
+            "description": "Flowith is an AI-powered creation workspace designed to enhance productivity and streamline complex tasks through an intuitive canvas-based interface.",
+            "icon": "/logo/flowith.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "368",
+            "name": "Namelix",
+            "slug": "namelix",
+            "description": "Namelix is an AI-powered tool that generates unique, brandable business names and logos based on user-provided keywords.",
+            "icon": "/logo/namelix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "370",
+            "name": "Flux AI",
+            "slug": "flux-ai",
+            "description": "Flux AI is an advanced AI-powered platform for generating high-quality images and videos from text prompts.",
+            "icon": "/logo/flux1.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "371",
+            "name": "AiPPT",
+            "slug": "aippt",
+            "description": "AiPPT is an AI-powered toolkit for creating professional presentations with minimal effort.",
+            "icon": "/logo/www.aippt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "375",
+            "name": "Unscreen",
+            "slug": "unscreen",
+            "description": "Unscreen is an AI-powered tool that automatically removes backgrounds from videos and GIFs for seamless editing.",
+            "icon": "/logo/www.unscreen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "381",
+            "name": "AutoDraw",
+            "slug": "autodraw",
+            "description": "AutoDraw is a web-based tool that uses AI to transform rough sketches into polished illustrations, making drawing accessible to everyone.",
+            "icon": "/logo/autodraw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "390",
+            "name": "Relume",
+            "slug": "relume",
+            "description": "Relume is an AI-powered website builder that accelerates the creation of sitemaps, wireframes, and designs for Webflow and Figma users.",
+            "icon": "/logo/www.relume.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "394",
+            "name": "Sudowrite",
+            "slug": "sudowrite",
+            "description": "Sudowrite is an AI-powered writing assistant designed to help fiction writers overcome creative blocks and enhance their storytelling process.",
+            "icon": "/logo/sudowrite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "396",
+            "name": "Dzine",
+            "slug": "dzine",
+            "description": "Dzine is an AI-powered platform for intuitive image generation and editing, designed for creators of all skill levels.",
+            "icon": "/logo/www.dzine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "409",
+            "name": "AIChatting",
+            "slug": "aichatting",
+            "description": "AIChatting is a free online platform for engaging with AI chatbots and generating text content.",
+            "icon": "/logo/www.aichatting.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "410",
+            "name": "Phot.AI",
+            "slug": "phot-ai",
+            "description": "Phot.AI is an AI-powered platform for seamless photo editing and visual design, catering to e-commerce, content creators, and professionals.",
+            "icon": "/logo/www.phot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "413",
+            "name": "Xmind AI",
+            "slug": "xmind-ai",
+            "description": "Xmind AI is a cloud-based tool for AI-powered mind mapping and collaborative brainstorming to enhance creativity and productivity.",
+            "icon": "/logo/xmind.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "414",
+            "name": "Flux AI",
+            "slug": "flux-ai-io",
+            "description": "Flux AI provides advanced AI-powered tools for generating high-quality images and videos from text and image inputs.",
+            "icon": "/logo/flux-ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "415",
+            "name": "Mage",
+            "slug": "mage",
+            "description": "Mage is an AI-powered platform for generating high-quality images and videos from text prompts using Stable Diffusion models.",
+            "icon": "/logo/www.mage.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "416",
+            "name": "Rezi",
+            "slug": "rezi",
+            "description": "Rezi is an AI-powered resume builder designed to create ATS-optimized resumes and cover letters to enhance job seekers' chances of landing interviews.",
+            "icon": "/logo/www.rezi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "458",
+            "name": "SlidesGPT",
+            "slug": "slidesgpt",
+            "description": "SlidesGPT is an AI-powered platform that generates professional PowerPoint presentations, Google Slides, and PDFs from text prompts.",
+            "icon": "/logo/slidesgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "477",
+            "name": "Lummi",
+            "slug": "lummi-ai",
+            "description": "Lummi provides a library of AI-generated, royalty-free stock photos, illustrations, and 3D assets for creative projects.",
+            "icon": "/logo/www.lummi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "483",
+            "name": "Craft",
+            "slug": "craft",
+            "description": "Craft is a versatile note-taking and document creation platform designed to organize ideas, tasks, and projects with a focus on aesthetics and collaboration.",
+            "icon": "/logo/www.craft.do.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "506",
+            "name": "STUDIO",
+            "slug": "studio",
+            "description": "STUDIO is a no-code platform for creating and publishing professional websites with ease.",
+            "icon": "/logo/studio.design.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "512",
+            "name": "Generated Photos",
+            "slug": "generated-photos",
+            "description": "Generated Photos provides AI-generated, copyright-free headshot and full-body images for creative and commercial use.",
+            "icon": "/logo/generated.photos.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "516",
+            "name": "Customuse",
+            "slug": "customuse",
+            "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+            "icon": "/logo/customuse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "518",
+            "name": "Wegic",
+            "slug": "wegic-ai",
+            "description": "Wegic is an AI-powered website builder that creates and manages professional websites through conversational interactions, requiring no coding skills.",
+            "icon": "/logo/wegic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "536",
+            "name": "MagicSlides",
+            "slug": "magicslides",
+            "description": "MagicSlides is an AI-powered platform that creates professional presentation slides from text, topics, or multimedia in seconds.",
+            "icon": "/logo/www.magicslides.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "542",
+            "name": "Autoppt",
+            "slug": "autoppt",
+            "description": "Autoppt is an AI-powered tool that creates professional PowerPoint presentations and mind maps quickly using customizable templates.",
+            "icon": "/logo/autoppt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "Book by Anyone",
+            "slug": "book-by-anyone",
+            "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+            "icon": "/logo/www.bookbyanyone.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "561",
+            "name": "Pixelied",
+            "slug": "pixelied",
+            "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+            "icon": "/logo/pixelied.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "578",
+            "name": "Logomaster.ai",
+            "slug": "logomaster-ai",
+            "description": "Logomaster.ai is an AI-powered platform that enables users to create professional logos quickly and easily without design skills.",
+            "icon": "/logo/logomaster.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "583",
+            "name": "Mobirise",
+            "slug": "mobirise",
+            "description": "Mobirise is a free, offline website builder for creating responsive, mobile-first websites without coding.",
+            "icon": "/logo/mobirise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "662",
+            "name": "Visily",
+            "slug": "visily-ai",
+            "description": "Visily is an AI-powered UI design platform for creating high-fidelity wireframes and prototypes quickly, tailored for non-designers and teams.",
+            "icon": "/logo/www.visily.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "600",
+            "name": "3D AI Studio",
+            "slug": "3d-ai-studio",
+            "description": "3D AI Studio is an AI-powered platform for generating high-quality 3D models from text or images in seconds.",
+            "icon": "/logo/www.3daistudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "602",
+            "name": "Pikzels",
+            "slug": "pikzels",
+            "description": "Pikzels is an AI-powered platform for creating viral YouTube thumbnails and titles in seconds.",
+            "icon": "/logo/pikzels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "627",
+            "name": "Edraw.AI",
+            "slug": "edraw-ai",
+            "description": "Edraw.AI is an AI-powered platform for creating professional diagrams, flowcharts, and mind maps to enhance visual collaboration and productivity.",
+            "icon": "/logo/www.edraw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "630",
+            "name": "Zebracat",
+            "slug": "zebracat-ai",
+            "description": "Zebracat is an AI-powered platform that transforms text into engaging, professional-quality marketing videos in minutes.",
+            "icon": "/logo/www.zebracat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "633",
+            "name": "Locofy",
+            "slug": "locofy-ai",
+            "description": "Locofy.ai converts Figma and Adobe XD designs into production-ready frontend code, accelerating web and mobile app development.",
+            "icon": "/logo/www.locofy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "648",
+            "name": "Vizcom",
+            "slug": "vizcom-ai",
+            "description": "Vizcom is an AI-powered design tool that transforms sketches into photorealistic renderings for creative professionals.",
+            "icon": "/logo/www.vizcom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "682",
+            "name": "Logo Diffusion",
+            "slug": "logo-diffusion",
+            "description": "Logo Diffusion is an AI-powered platform for creating custom logos and brand assets quickly from text prompts or sketches.",
+            "icon": "/logo/logodiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "683",
+            "name": "Flair AI",
+            "slug": "flair-ai",
+            "description": "Flair AI is an AI-powered design tool for creating professional product photography and branded visual content for e-commerce.",
+            "icon": "/logo/flair.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "727",
+            "name": "BlackInk AI",
+            "slug": "blackink-ai",
+            "description": "BlackInk AI is an AI-powered platform that generates unique, custom tattoo designs in seconds based on user prompts.",
+            "icon": "/logo/blackink.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "749",
+            "name": "TeleportHQ",
+            "slug": "teleporthq",
+            "description": "TeleportHQ is a low-code platform for building responsive websites and UI components with AI-driven design and code export capabilities.",
+            "icon": "/logo/teleporthq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "757",
+            "name": "ImgGen AI",
+            "slug": "imggen-ai",
+            "description": "ImgGen AI is a free online platform for generating and enhancing high-quality images using AI-driven tools.",
+            "icon": "/logo/imggen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "758",
+            "name": "Slidebean",
+            "slug": "slidebean",
+            "description": "Slidebean is an AI-powered platform that helps startups create professional pitch decks and financial models to secure investor funding.",
+            "icon": "/logo/slidebean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "782",
+            "name": "BetterPic",
+            "slug": "betterpic",
+            "description": "BetterPic uses AI to transform casual photos into professional 4K headshots for business and personal use.",
+            "icon": "/logo/www.betterpic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "797",
+            "name": "The New Black",
+            "slug": "the-new-black-ai",
+            "description": "The New Black is an AI-powered platform that revolutionizes fashion design by generating unique clothing, bags, and shoe designs in seconds.",
+            "icon": "/logo/thenewblack.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "814",
+            "name": "Pokecut",
+            "slug": "pokecut",
+            "description": "Pokecut is an AI-powered online photo editing platform that transforms ordinary images into professional-quality visuals with ease.",
+            "icon": "/logo/www.pokecut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "819",
+            "name": "SologoAI",
+            "slug": "sologoai",
+            "description": "SologoAI is an AI-powered platform for creating customizable logos and brand kits for commercial use.",
+            "icon": "/logo/www.sologo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "828",
+            "name": "Tatship",
+            "slug": "tatship",
+            "description": "Tatship is a platform for designing and virtually trying on tattoos to help users make informed decisions before getting inked.",
+            "icon": "/logo/tatship.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "829",
+            "name": "Zoviz",
+            "slug": "zoviz",
+            "description": "Zoviz is an AI-powered platform for creating unique logos and comprehensive brand kits instantly.",
+            "icon": "/logo/zoviz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "846",
+            "name": "Supermeme.ai",
+            "slug": "supermeme-ai",
+            "description": "Supermeme.ai is an AI-powered platform that allows users to generate customized memes quickly for social media, marketing, and entertainment.",
+            "icon": "/logo/supermeme.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "852",
+            "name": "DaVinci AI",
+            "slug": "davinci-ai",
+            "description": "DaVinci AI is a cutting-edge platform that uses artificial intelligence to create high-quality images and art from text descriptions.",
+            "icon": "/logo/davinci.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "853",
+            "name": "Rendair.ai",
+            "slug": "rendair-ai",
+            "description": "Rendair.ai is an AI-driven platform that enables users to generate high-quality interior design renders and visualizations quickly and effortlessly.",
+            "icon": "/logo/www.rendair.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "854",
+            "name": "ColorMagic",
+            "slug": "colormagic",
+            "description": "ColorMagic is an AI-powered platform that generates custom color palettes based on user-provided keywords for design and creative projects.",
+            "icon": "/logo/colormagic.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "858",
+            "name": "Zarla",
+            "slug": "zarla",
+            "description": "Zarla is an AI-powered website builder that helps users create professional, customized websites in minutes without coding expertise.",
+            "icon": "/logo/www.zarla.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "861",
+            "name": "Visual Electric",
+            "slug": "visual-electric",
+            "description": "Visual Electric is an AI-powered platform that enables users to generate high-quality images from text prompts, focusing on creative and professional visual design.",
+            "icon": "/logo/visualelectric.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "880",
+            "name": "Midlibrary",
+            "slug": "midlibrary",
+            "description": "Midlibrary is a comprehensive online catalog of artistic styles, artists, and parameters designed specifically for users of the Midjourney AI image generation tool.",
+            "icon": "/logo/midlibrary.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "BannerBear",
+            "slug": "bannerbear",
+            "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+            "icon": "/logo/www.bannerbear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "LiveChatAI",
+            "slug": "livechatai",
+            "description": "LiveChatAI is an AI-powered platform that enables businesses to create and deploy customized chatbots trained on their own content for efficient customer support and engagement.",
+            "icon": "/logo/livechatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "909",
+            "name": "Pietra Studio",
+            "slug": "pietra-studio",
+            "description": "Pietra Studio is a platform empowering creators and entrepreneurs to launch and scale e-commerce brands with tools for design, manufacturing, and fulfillment.",
+            "icon": "/logo/www.pietrastudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "934",
+            "name": "Linguix",
+            "slug": "linguix",
+            "description": "Linguix is an AI-powered writing assistant that helps users improve grammar, style, and content quality in real-time across various platforms.",
+            "icon": "/logo/linguix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "935",
+            "name": "Spacely AI",
+            "slug": "spacely-ai",
+            "description": "Spacely AI is an innovative AI-powered platform that enables users to generate professional interior design ideas, visualizations, and floor plans for homes and spaces effortlessly.",
+            "icon": "/logo/www.spacely.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "950",
+            "name": "A1.art",
+            "slug": "a1-art",
+            "description": "A1.art is an AI-powered platform that enables users to generate unique digital artworks from text prompts effortlessly.",
+            "icon": "/logo/a1.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "961",
+            "name": "Smallppt",
+            "slug": "smallppt",
+            "description": "Smallppt is an AI-powered platform that enables users to create professional PowerPoint presentations quickly and effortlessly.",
+            "icon": "/logo/smallppt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "962",
+            "name": "Privee AI",
+            "slug": "privee-ai",
+            "description": "Privee AI is a platform that enables users to create and interact with personalized AI companions for private, uncensored conversations.",
+            "icon": "/logo/www.priveeai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "963",
+            "name": "accessiBe",
+            "slug": "accessibe",
+            "description": "accessiBe provides AI-driven web accessibility solutions to make websites compliant with ADA and WCAG standards for people with disabilities.",
+            "icon": "/logo/accessibe.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "968",
+            "name": "VisionStory AI",
+            "slug": "visionstory-ai",
+            "description": "VisionStory AI is an AI-powered platform that enables users to create engaging visual stories from text prompts, combining narrative generation with image creation.",
+            "icon": "/logo/www.visionstory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "974",
+            "name": "Archivinci",
+            "slug": "archivinci",
+            "description": "Archivinci is an AI-powered platform that transforms architectural sketches and ideas into professional renders and designs.",
+            "icon": "/logo/www.archivinci.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "993",
+            "name": "Pebblely",
+            "slug": "pebblely",
+            "description": "Pebblely is an AI-powered tool that generates professional product photos for e-commerce and marketing purposes.",
+            "icon": "/logo/pebblely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "994",
+            "name": "My CV Creator",
+            "slug": "my-cv-creator",
+            "description": "My CV Creator is an online platform that enables users to build professional resumes, CVs, and cover letters using AI-powered tools and templates.",
+            "icon": "/logo/www.mycvcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "997",
+            "name": "PageOn.ai",
+            "slug": "pageon-ai",
+            "description": "PageOn.ai is an AI-powered platform that enables users to generate professional landing pages instantly without any coding expertise.",
+            "icon": "/logo/www.pageon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "MyArchitectAI",
+            "slug": "myarchitectai",
+            "description": "MyArchitectAI is an AI-driven platform that transforms sketches, ideas, and descriptions into photorealistic architectural renders and designs quickly and efficiently.",
+            "icon": "/logo/www.myarchitectai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1373",
+            "name": "Serif.ai",
+            "slug": "serif-ai",
+            "description": "Serif.ai is an AI-powered platform specializing in typography and creative design tools for generating and editing fonts, graphics, and visual elements.",
+            "icon": "/logo/www.serif.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1016",
+            "name": "Sloyd",
+            "slug": "sloyd-ai",
+            "description": "Sloyd is an AI-powered platform that enables users to generate high-quality 3D models instantly from text prompts, streamlining creative workflows for designers and developers.",
+            "icon": "/logo/www.sloyd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1022",
+            "name": "AI Carousels",
+            "slug": "ai-carousels",
+            "description": "AI Carousels is an AI-powered platform designed to help users create engaging carousel posts for social media quickly and effortlessly.",
+            "icon": "/logo/www.aicarousels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1045",
+            "name": "Image Upscaling",
+            "slug": "image-upscaling",
+            "description": "Image-Upscaling.net is an online platform that utilizes AI technology to upscale and enhance image resolutions, making low-quality images sharper and larger without losing detail.",
+            "icon": "/logo/image-upscaling.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1050",
+            "name": "Designify",
+            "slug": "designify",
+            "description": "Designify is an AI-powered online tool that automatically removes backgrounds from images and enhances them for professional designs, catering to e-commerce and creative needs.",
+            "icon": "/logo/www.designify.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1053",
+            "name": "OCMaker",
+            "slug": "ocmaker",
+            "description": "OCMaker is an AI-powered platform that enables users to create and customize original characters for stories, games, and art.",
+            "icon": "/logo/www.ocmaker.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1055",
+            "name": "Collov AI",
+            "slug": "collov-ai",
+            "description": "Collov AI is an AI-powered platform that enables users to generate personalized interior design ideas, virtual stagings, and home furnishing recommendations through advanced artificial intelligence.",
+            "icon": "/logo/collov.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1081",
+            "name": "Common Sense Machines",
+            "slug": "common-sense-machines-ai",
+            "description": "CSM.ai is an AI platform that transforms 2D images or text into interactive 3D models and scenes for creative and professional use.",
+            "icon": "/logo/www.csm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1083",
+            "name": "Codia AI",
+            "slug": "codia-ai",
+            "description": "Codia AI is an innovative platform that uses artificial intelligence to convert screenshots and designs into editable code for various frameworks, streamlining the development process for designers and developers.",
+            "icon": "/logo/codia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1084",
+            "name": "cre8tiveAI",
+            "slug": "cre8tiveai",
+            "description": "cre8tiveAI is an AI-driven online platform offering advanced photo editing tools to enhance, retouch, and transform images effortlessly.",
+            "icon": "/logo/cre8tiveai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1361",
+            "name": "AI CharaLab",
+            "slug": "ai-charalab",
+            "description": "AI CharaLab offers a free online AI character generator that creates lifelike characters based on user descriptions or photos, supporting various styles like realistic, anime, 3D, and fantasy.",
+            "icon": "/logo/aicharalab.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1088",
+            "name": "Kombai",
+            "slug": "kombai",
+            "description": "Kombai is an AI-powered tool that converts Figma designs into high-quality, production-ready front-end code to streamline web development.",
+            "icon": "/logo/kombai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1093",
+            "name": "Imagewith.AI",
+            "slug": "imagewith-ai",
+            "description": "Imagewith.AI is an AI-powered online platform offering advanced image editing tools to enhance, upscale, and manipulate images effortlessly.",
+            "icon": "/logo/www.imagewith.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1098",
+            "name": "HomeVisualizer.ai",
+            "slug": "homevisualizer-ai",
+            "description": "HomeVisualizer.ai is an AI-powered platform that enables users to generate and visualize home interior designs effortlessly.",
+            "icon": "/logo/www.homevisualizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1114",
+            "name": "FluxAI Pro",
+            "slug": "fluxai-pro",
+            "description": "FluxAI.pro is an online platform that leverages the advanced Flux AI model to generate high-quality images from text descriptions, catering to creative professionals and hobbyists alike.",
+            "icon": "/logo/fluxai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1117",
+            "name": "Contrast",
+            "slug": "contrast",
+            "description": "Contrast is an AI-powered platform for enhancing image contrast, analyzing visuals, and generating accessible designs for creative and professional use.",
+            "icon": "/logo/www.getcontrast.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1133",
+            "name": "Upsampler",
+            "slug": "upsampler",
+            "description": "Upsampler is an AI-driven platform that specializes in upscaling and enhancing images to higher resolutions while preserving quality.",
+            "icon": "/logo/upsampler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1144",
+            "name": "My Color Analysis",
+            "slug": "my-color-analysis-ai",
+            "description": "My Color Analysis is an AI-powered platform that analyzes users' photos to determine their personal color season and recommend flattering colors for fashion, makeup, and hair.",
+            "icon": "/logo/mycoloranalysis.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1155",
+            "name": "Fashn.ai",
+            "slug": "fashn-ai",
+            "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+            "icon": "/logo/fashn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1166",
+            "name": "Glorify",
+            "slug": "glorify",
+            "description": "Glorify is a design tool that enables entrepreneurs and marketers to create marketing visuals, offering features like AI-powered tools, template libraries, and collaboration capabilities.",
+            "icon": "/logo/glorify.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1168",
+            "name": "Stablecog",
+            "slug": "stablecog",
+            "description": "Stablecog is a free, multilingual, and open-source AI image generator that creates stunning art from text prompts or input images using models like Stable Diffusion, FLUX, and Kandinsky.",
+            "icon": "/logo/stablecog.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1170",
+            "name": "Logomakerr.ai",
+            "slug": "logomakerr-ai",
+            "description": "Logomakerr.ai is an AI-powered platform that allows users to generate professional logos quickly based on simple inputs like company name and industry.",
+            "icon": "/logo/logomakerr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1173",
+            "name": "Palette Maker",
+            "slug": "palette-maker",
+            "description": "Palette Maker is an online tool that leverages AI to generate, customize, and extract color palettes for designers and creative professionals.",
+            "icon": "/logo/palettemaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1174",
+            "name": "FluxPro.ai",
+            "slug": "fluxpro-ai",
+            "description": "FluxPro.ai is an advanced AI platform that enables users to generate high-quality, realistic images from text prompts using the state-of-the-art Flux.1 Pro model.",
+            "icon": "/logo/fluxpro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1192",
+            "name": "InstaText",
+            "slug": "instatext",
+            "description": "InstaText is an AI-powered writing assistant that enhances text by providing instant suggestions for grammar, style, clarity, and rephrasing to improve overall writing quality.",
+            "icon": "/logo/instatext.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1196",
+            "name": "Kaedim",
+            "slug": "kaedim",
+            "description": "Kaedim is an AI-powered platform that transforms 2D images into production-ready 3D models to accelerate content creation for game developers and creators.",
+            "icon": "/logo/www.kaedim3d.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1199",
+            "name": "RoomAI",
+            "slug": "roomai",
+            "description": "RoomAI is an AI-driven platform that enables users to generate and visualize interior design ideas for rooms based on uploaded photos and preferences.",
+            "icon": "/logo/roomai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1202",
+            "name": "ResumeTrick",
+            "slug": "resumetrick",
+            "description": "ResumeTrick is an AI-powered online platform that simplifies resume and cover letter creation with customizable templates and intelligent suggestions to help job seekers stand out.",
+            "icon": "/logo/resumetrick.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1209",
+            "name": "Luw.ai",
+            "slug": "luw-ai",
+            "description": "Luw.ai is an AI-powered platform that revolutionizes home design by providing tools for instant interior and exterior visualizations and transformations.",
+            "icon": "/logo/luw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1216",
+            "name": "PagePilot.ai",
+            "slug": "pagepilot-ai",
+            "description": "PagePilot.ai is an AI-powered platform that enables users to quickly generate professional, high-converting landing pages for businesses, products, or marketing campaigns.",
+            "icon": "/logo/pagepilot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1222",
+            "name": "Ludo.ai",
+            "slug": "ludo-ai",
+            "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+            "icon": "/logo/ludo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1227",
+            "name": "CopilotKit",
+            "slug": "copilotkit-ai",
+            "description": "CopilotKit is an agentic framework that enables developers to build AI copilots into applications, offering customizable UI components and support for various LLM and agent frameworks.",
+            "icon": "/logo/www.copilotkit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1322",
+            "name": "Artany.ai",
+            "slug": "artany-ai",
+            "description": "Artany.ai is an AI-powered platform that enables users to generate stunning artworks and images from text prompts, catering to artists, designers, and creative enthusiasts.",
+            "icon": "/logo/www.artany.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1314",
+            "name": "Bhindi",
+            "slug": "bhindi",
+            "description": "Bhindi.io is an AI-powered platform that offers tools for creative design and image generation, helping users create visual content effortlessly.",
+            "icon": "/logo/bhindi.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1367",
+            "name": "ImgFX",
+            "slug": "imgfx",
+            "description": "ImgFX is an AI-powered platform for generating and editing images with advanced effects and creative tools.",
+            "icon": "/logo/imgfx.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "ImaginePro",
+            "slug": "imaginepro-ai",
+            "description": "ImaginePro is an AI-powered platform that enables users to generate high-quality images and designs for professional and creative purposes.",
+            "icon": "/logo/www.imaginepro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1268",
+            "name": "Redesignr",
+            "slug": "redesignr-ai",
+            "description": "Redesignr.ai is an AI-driven platform that allows users to upload photos of their rooms and generate redesigned interior spaces in various styles.",
+            "icon": "/logo/redesignr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1347",
+            "name": "ImageFX",
+            "slug": "imagefx",
+            "description": "ImageFX is an AI-driven platform that enables users to generate, edit, and apply effects to images using advanced artificial intelligence tools.",
+            "icon": "/logo/imagefx.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "ThumbnailCreator",
+            "slug": "thumbnailcreator",
+            "description": "ThumbnailCreator is an AI-powered online tool designed to generate professional YouTube thumbnails quickly, helping content creators boost click-through rates and video views.",
+            "icon": "/logo/www.thumbnailcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1353",
+            "name": "Supercraft",
+            "slug": "supercraft-ai",
+            "description": "Supercraft.ai is an AI-powered platform that enables users to create and customize advanced AI agents and workflows for various applications.",
+            "icon": "/logo/supercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1282",
+            "name": "Refont",
+            "slug": "refont-ai",
+            "description": "Refont is an AI Font Generator that allows users to create beautiful typography, including calligraphy, signatures, and fancy fonts, instantly and without design skills.",
+            "icon": "/logo/refont.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1304",
+            "name": "Psynth",
+            "slug": "psynth-ai",
+            "description": "Psynth is an AI-powered software that transforms patient test results, intake data, and clinical observations into accurate, top-quality diagnostic reports for psychologists in minutes.",
+            "icon": "/logo/www.psynth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1240",
+            "name": "Stackie",
+            "slug": "stackie-ai",
+            "description": "Stackie.ai is an AI-powered platform that assists developers in building, optimizing, and managing technology stacks for software projects.",
+            "icon": "/logo/stackie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1354",
+            "name": "Muka AI",
+            "slug": "muka-ai",
+            "description": "Muka AI is an innovative platform that leverages artificial intelligence to generate and edit images for creative and professional use.",
+            "icon": "/logo/www.muka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1258",
+            "name": "Madespace",
+            "slug": "madespace-ai",
+            "description": "Madespace is an AI-powered interior design platform that enables users to create, shop for, and get expert help on room designs without needing design skills.",
+            "icon": "/logo/madespace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1263",
+            "name": "Rewrait",
+            "slug": "rewrait",
+            "description": "Rewrait is an AI-powered writing assistant that offers context-aware rewriting, grammar checking, style improvements, multilingual support, and productivity tools as a superior alternative to Grammarly and QuillBot.",
+            "icon": "/logo/rewrait.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1269",
+            "name": "Shockvue",
+            "slug": "shockvue",
+            "description": "Shockvue is an AI image editor that allows users to edit images by simply describing the desired changes, offering a quick and intuitive editing experience.",
+            "icon": "/logo/www.shockvueapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1272",
+            "name": "ReadyBase",
+            "slug": "readybase-ai",
+            "description": "ReadyBase is an AI-powered platform that transforms raw data such as notes, research, images, and files into polished, brand-compliant PDFs in seconds.",
+            "icon": "/logo/readybase.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1305",
+            "name": "HairstyleAI",
+            "slug": "hairstyleai",
+            "description": "HairstyleAI is an AI-driven platform that enables users to virtually try on various hairstyles, colors, and cuts using their uploaded photos for personalized styling insights.",
+            "icon": "/logo/hairstyleai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1330",
+            "name": "Open Lovable",
+            "slug": "open-lovable",
+            "description": "Open Lovable is a free, open-source AI website builder that transforms any website into customizable React/Next.js applications in seconds.",
+            "icon": "/logo/open-lovable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1331",
+            "name": "Nano Banana",
+            "slug": "nano-banana-pro",
+            "description": "Nano Banana is an AI-driven platform specializing in creative image generation and editing with a focus on whimsical, fruit-inspired designs.",
+            "icon": "/logo/nano-banana.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1337",
+            "name": "AISplash",
+            "slug": "aisplash",
+            "description": "AISplash is an AI-powered platform that enables users to generate creative and customized images for various purposes, focusing on artistic and marketing needs.",
+            "icon": "/logo/aisplash.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1362",
+            "name": "ShotVA",
+            "slug": "shotva",
+            "description": "ShotVA is an AI-powered platform that generates professional headshots and virtual avatars from user-uploaded photos.",
+            "icon": "/logo/shotva.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1380",
+            "name": "Memu Pro",
+            "slug": "memu-pro",
+            "description": "Memu Pro is an AI-driven platform for generating and customizing personalized memes using intelligent tools.",
+            "icon": "/logo/memu.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1385",
+            "name": "RapidNative",
+            "slug": "rapidnative",
+            "description": "RapidNative is an AI-powered platform that enables rapid development of native mobile applications without extensive coding expertise.",
+            "icon": "/logo/www.rapidnative.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1390",
+            "name": "Grok Video",
+            "slug": "grok-video-ai",
+            "description": "Grok Video is an AI-powered platform that transforms images and text prompts into professional videos, offering daily free credits and premium plans.",
+            "icon": "/logo/grokvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1398",
+            "name": "Illustro",
+            "slug": "illustro",
+            "description": "Illustro is an AI-powered platform for generating custom illustrations and graphics from text descriptions.",
+            "icon": "/logo/illustro.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1411",
+            "name": "Grok Imagine Art",
+            "slug": "grok-imagine-art",
+            "description": "Grok Imagine Art is an AI-powered platform for generating and exploring artistic images using advanced generative models.",
+            "icon": "/logo/grok-imagine.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1416",
+            "name": "Runway Aleph",
+            "slug": "runway-aleph",
+            "description": "Runway Aleph is an AI-driven platform specializing in video generation and creative design tools to empower users in producing high-quality multimedia content.",
+            "icon": "/logo/runwayaleph.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1418",
+            "name": "Ideart",
+            "slug": "ideart-ai",
+            "description": "Ideart.ai is an AI-driven platform that transforms user ideas into stunning visual art and designs.",
+            "icon": "/logo/ideart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1419",
+            "name": "Qwen Images",
+            "slug": "qwen-images",
+            "description": "Qwen Images is an AI-powered platform dedicated to generating and editing images using advanced multimodal models.",
+            "icon": "/logo/qwenimages.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1422",
+            "name": "Qwen Image AI",
+            "slug": "qwen-image-ai",
+            "description": "Qwen Image AI is an innovative platform providing AI-driven tools for image generation, editing, and analysis powered by advanced models from Alibaba's Qwen family.",
+            "icon": "/logo/qwenimageai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "1433",
+            "name": "GrokImagine",
+            "slug": "grokimagine-ai",
+            "description": "GrokImagine.ai is an AI-powered platform that enables users to generate high-quality images from text descriptions using advanced AI models.",
+            "icon": "/logo/grokimagine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Suno",
+            "slug": "suno",
+            "description": "Suno is an AI-powered platform that transforms text prompts into original music and songs.",
+            "icon": "/logo/suno.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Hailuo AI Video",
+            "slug": "hailuo-ai-video",
+            "description": "Hailuo AI Video transforms text and images into stunning AI-generated videos for creators and businesses.",
+            "icon": "/logo/hailuoai.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "65",
+            "name": "Ideogram",
+            "slug": "ideogram",
+            "description": "Ideogram is an AI-powered platform that transforms text prompts into stunning, hyper-realistic images to boost creativity.",
+            "icon": "/logo/ideogram.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Bolt.new",
+            "slug": "bolt-new",
+            "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+            "icon": "/logo/bolt.new.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "94",
+            "name": "PixVerse",
+            "slug": "pixverse",
+            "description": "PixVerse is an AI-powered platform that transforms text and images into stunning, high-quality videos for creators and businesses.",
+            "icon": "/logo/pixverse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Dribbble",
+            "slug": "dribbble",
+            "description": "Dribbble is a community platform for designers to showcase their work, connect with peers, and find job opportunities.",
+            "icon": "/logo/dribbble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "121",
+            "name": "WizGenerator",
+            "slug": "wizgenerator",
+            "description": "WizGenerator offers a suite of free AI-powered tools for creating diverse content, from text to images, for personal and professional use.",
+            "icon": "/logo/wizgenerator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        },
+        {
+            "id": "985",
+            "name": "BrandWell",
+            "slug": "brandwell-ai",
+            "description": "BrandWell.ai is an AI-powered platform that helps users generate professional brand identities, including names, logos, and marketing assets, to build strong brands quickly and affordably.",
+            "icon": "/logo/brandwell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-assistant"
+            ]
+        }
+    ]
+}

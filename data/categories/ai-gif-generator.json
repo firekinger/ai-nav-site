@@ -1,0 +1,61 @@
+{
+    "title": "The Best 5 AI GIF Generator Tools in 2025",
+    "summary": "Discover the power of creativity with our AI GIF Generator category! These innovative tools enable you to effortlessly create eye-catching GIFs that enhance your digital content, engage your audience, and elevate your social media presence. With user-friendly interfaces and customizable options, you can transform images and videos into dynamic animations in just a few clicks. Whether you're a marketer, content creator, or simply looking to add flair to your messages, our AI GIF generators are designed to meet your needs. Explore our collection today and unleash your creativity!",
+    "tools": [
+        {
+            "id": "329",
+            "name": "SwapFace",
+            "slug": "swapface",
+            "description": "SwapFace is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering free and premium tools for creative content creation.",
+            "icon": "/logo/www.swapfaces.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gif-generator"
+            ]
+        },
+        {
+            "id": "375",
+            "name": "Unscreen",
+            "slug": "unscreen",
+            "description": "Unscreen is an AI-powered tool that automatically removes backgrounds from videos and GIFs for seamless editing.",
+            "icon": "/logo/www.unscreen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gif-generator"
+            ]
+        },
+        {
+            "id": "415",
+            "name": "Mage",
+            "slug": "mage",
+            "description": "Mage is an AI-powered platform for generating high-quality images and videos from text prompts using Stable Diffusion models.",
+            "icon": "/logo/www.mage.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gif-generator"
+            ]
+        },
+        {
+            "id": "523",
+            "name": "Deepfake Maker",
+            "slug": "deepfake-maker",
+            "description": "Deepfake Maker is an online AI-powered platform for creating face swaps and deepfake content in photos, videos, and GIFs.",
+            "icon": "/logo/deepfakemaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gif-generator"
+            ]
+        },
+        {
+            "id": "684",
+            "name": "BeArt AI",
+            "slug": "beart-ai",
+            "description": "BeArt AI is a free online platform offering AI-driven tools for seamless face swapping and editing in photos, videos, and GIFs.",
+            "icon": "/logo/beart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-gif-generator"
+            ]
+        }
+    ]
+}

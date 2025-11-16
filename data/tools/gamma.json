@@ -1,0 +1,57 @@
+{
+    "name": "Gamma",
+    "description": "Gamma is an AI-powered platform for creating presentations, documents, and web pages with minimal design effort.",
+    "longDescription": "Gamma is an innovative AI-driven tool designed to simplify the creation of professional presentations, documents, and web pages. By leveraging advanced AI algorithms, it automates formatting and design, allowing users to focus on content rather than layout. The platform supports a wide range of users, including educators, marketers, and startups, by offering customizable templates and real-time collaboration features. Its mission is to streamline content creation, making it accessible for users without design or coding skills. Gamma’s intuitive interface and versatile output options, such as webpages and PDFs, cater to diverse professional and creative needs. The tool also integrates rich media and analytics to enhance engagement and track audience interaction.",
+    "url": "https://gamma.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gamma.app.webp",
+    "category": "AI PPT Maker",
+    "categorySlug": "ai-ppt-maker",
+    "slug": "gamma",
+    "categories": [
+        "AI PPT Maker",
+        "AI Design Assistant",
+        "AI Project Management",
+        "AI For Data Analytics",
+        "AI Website Builder"
+    ],
+    "features": [
+        "AI-powered content generation creates polished presentations from simple text prompts, saving users time on design.",
+        "Customizable templates provide pre-designed layouts for presentations, websites, and documents, ensuring professional aesthetics.",
+        "Real-time collaboration allows teams to edit and provide feedback simultaneously, enhancing group productivity.",
+        "Rich media integration enables embedding of videos, GIFs, and charts to create dynamic and engaging content.",
+        "Advanced analytics track audience engagement with slides, helping users refine presentations for better impact.",
+        "One-click restyling instantly transforms the look of a presentation or webpage with a variety of stylish themes.",
+        "Export options allow users to save projects as PDFs, PowerPoint files, or shareable web links for versatile distribution.",
+        "Data visualization tools convert complex metrics into clear charts and infographics, improving audience understanding."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gamma used for?",
+            "answer": "Gamma is used to create presentations, documents, and web pages using AI to automate design and formatting, making it ideal for professionals, educators, and creators."
+        },
+        {
+            "question": "Does Gamma offer a free plan?",
+            "answer": "Yes, Gamma offers a free tier with access to basic tools, though advanced features like analytics and custom fonts require a paid plan."
+        },
+        {
+            "question": "Can I collaborate with my team on Gamma?",
+            "answer": "Yes, Gamma supports real-time collaboration, allowing team members to edit and review content simultaneously via shared links."
+        },
+        {
+            "question": "What types of content can I create with Gamma?",
+            "answer": "Gamma enables users to create presentations, documents, landing pages, and portfolios with customizable templates and media integration."
+        },
+        {
+            "question": "How does Gamma’s AI assist in content creation?",
+            "answer": "Gamma’s AI generates drafts from text prompts, summarizes content, and applies expert-designed layouts to ensure professional results."
+        },
+        {
+            "question": "Can I export my Gamma projects to other formats?",
+            "answer": "Yes, Gamma allows exporting to PDF and PowerPoint, though some formatting adjustments may be needed for Google Slides."
+        },
+        {
+            "question": "Is coding or design experience required to use Gamma?",
+            "answer": "No, Gamma’s intuitive interface and AI-driven design make it accessible to users without coding or design skills."
+        }
+    ]
+}

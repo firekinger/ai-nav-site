@@ -1,0 +1,75 @@
+{
+    "name": "Salesforge",
+    "description": "Salesforge.ai is an AI-powered sales engagement platform that automates personalized cold email outreach to boost sales efficiency and conversion rates.",
+    "longDescription": "Salesforge.ai is an innovative AI-driven platform designed to transform sales processes by automating and personalizing email campaigns for businesses. Its mission is to empower sales teams to scale outreach efforts without sacrificing personalization, helping them connect with prospects more effectively and close deals faster. The platform solves common sales challenges like low response rates and time-consuming manual email writing by leveraging AI to generate tailored content and manage sequences intelligently. Users benefit from features that integrate with existing email systems, ensuring deliverability and compliance while providing analytics to optimize performance. Overall, Salesforge serves B2B companies, sales professionals, and marketers seeking to enhance their lead generation and nurturing strategies through advanced automation.",
+    "url": "https://www.salesforge.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.salesforge.ai.webp",
+    "category": "AI Sales Assistant",
+    "categorySlug": "ai-sales-assistant",
+    "slug": "salesforge-ai",
+    "categories": [
+        "AI Sales Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI CRM",
+        "AI Writing",
+        "AI Sales",
+        "AI Workflow",
+        "AI Research Tool",
+        "AI Email Assistant"
+    ],
+    "features": [
+        "AI-powered email personalization generates custom messages based on prospect data, increasing engagement and response rates.",
+        "Sequence automation allows users to build and manage multi-step email campaigns effortlessly, saving time on follow-ups.",
+        "Inbox rotation feature distributes emails across multiple accounts to improve deliverability and avoid spam filters.",
+        "A/B testing tools enable experimentation with email variations to identify the most effective content and strategies.",
+        "Real-time analytics provide insights into open rates, clicks, and replies, helping refine sales tactics.",
+        "Integration with CRM systems like Salesforce streamlines data flow and keeps customer information up-to-date.",
+        "AI-driven content generation creates compelling subject lines and body text tailored to industry and audience.",
+        "Email warm-up functionality prepares new inboxes for high-volume sending to maintain sender reputation.",
+        "Prospect research tools pull in relevant data to enrich emails with context-specific details.",
+        "Compliance features ensure emails adhere to regulations like GDPR and CAN-SPAM for risk-free outreach."
+    ],
+    "faqs": [
+        {
+            "question": "What is Salesforge.ai primarily used for?",
+            "answer": "Salesforge.ai is used for automating and personalizing cold email outreach to help sales teams generate leads and close deals more efficiently."
+        },
+        {
+            "question": "Does Salesforge offer a free trial?",
+            "answer": "Yes, Salesforge provides a 14-day free trial that gives access to core features, allowing users to test the platform before committing to a paid plan."
+        },
+        {
+            "question": "How does the AI personalization work?",
+            "answer": "The AI analyzes prospect data such as industry, role, and behavior to generate tailored email content that resonates personally, improving engagement without manual effort."
+        },
+        {
+            "question": "Can Salesforge integrate with my existing CRM?",
+            "answer": "Yes, it integrates seamlessly with popular CRMs like Salesforce and HubSpot, enabling synchronized data and automated workflows."
+        },
+        {
+            "question": "Is Salesforge suitable for small businesses?",
+            "answer": "Absolutely, its scalable plans and easy-to-use interface make it ideal for small businesses looking to automate sales outreach affordably."
+        },
+        {
+            "question": "How does Salesforge ensure email deliverability?",
+            "answer": "It uses inbox rotation, warm-up sequences, and best practices to maintain high deliverability rates and avoid spam folders."
+        },
+        {
+            "question": "What kind of analytics does Salesforge provide?",
+            "answer": "Salesforge offers detailed metrics on email performance, including opens, clicks, replies, and conversions, to help optimize campaigns."
+        },
+        {
+            "question": "Is there customer support available?",
+            "answer": "Yes, Salesforge provides email, chat, and knowledge base support, with premium plans offering dedicated account managers."
+        },
+        {
+            "question": "Can I use my own email accounts with Salesforge?",
+            "answer": "Yes, you can connect multiple email accounts, and the platform handles sending to maximize reach and reputation."
+        },
+        {
+            "question": "What makes Salesforge different from other sales tools?",
+            "answer": "Salesforge stands out with its advanced AI for hyper-personalization and focus on deliverability, reducing the guesswork in sales outreach."
+        }
+    ]
+}

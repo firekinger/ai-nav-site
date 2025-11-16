@@ -1,0 +1,65 @@
+{
+    "name": "Smartlead",
+    "description": "Smartlead.ai is an AI-powered cold email outreach platform designed to enhance lead generation and sales automation with high deliverability.",
+    "longDescription": "Smartlead.ai is a robust cold email marketing platform that leverages AI to streamline and scale email outreach for businesses, particularly B2B agencies, sales teams, and recruiters. Its mission is to transform cold emails into reliable revenue streams by prioritizing email deliverability and automation. The platform allows users to manage unlimited mailboxes, automate email warm-ups, and integrate multi-channel outreach, ensuring emails land in primary inboxes rather than spam folders. By offering tools like a unified inbox and advanced analytics, Smartlead simplifies lead management and campaign optimization. It supports seamless integrations with CRMs and other tools, making it a versatile solution for businesses aiming to enhance their sales processes. Trusted by over 87,000 businesses, Smartlead focuses on delivering scalable, user-friendly solutions for lead generation and engagement.",
+    "url": "https://www.smartlead.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.smartlead.ai.webp",
+    "category": "AI Email Marketing",
+    "categorySlug": "ai-email-marketing",
+    "slug": "smartlead-ai",
+    "categories": [
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Writing Assistants",
+        "AI CRM",
+        "AI Report Generator",
+        "AI Email Assistant",
+        "AI Sales Assistant"
+    ],
+    "features": [
+        "Unlimited mailboxes allow users to connect and manage multiple email accounts without restrictions, enabling scalable outreach campaigns.",
+        "AI-driven email warm-ups mimic human behavior to build sender reputation, reducing the likelihood of emails landing in spam folders.",
+        "The unified master inbox (unibox) consolidates all outreach channels and responses, streamlining lead management and follow-ups.",
+        "Multi-channel outreach supports email, SMS, WhatsApp, and LinkedIn, allowing users to engage leads across multiple platforms.",
+        "Advanced analytics provide insights into open rates, reply rates, and campaign performance, enabling data-driven optimization.",
+        "Dynamic IP rotation enhances deliverability by preventing emails from being flagged as spam through varied sending patterns.",
+        "Email verification tools, including SPF, DKIM, and DMARC checkers, reduce bounce rates and improve sender reputation.",
+        "Integration with CRMs like HubSpot, Salesforce, and Zapier ensures seamless data syncing and workflow automation.",
+        "Spintax and personalization features enable hyper-personalized email content, increasing engagement and response rates.",
+        "Automated subsequences adapt follow-ups based on lead behavior, improving campaign efficiency and relevance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Smartlead.ai primarily used for?",
+            "answer": "Smartlead.ai is used for automating cold email outreach, generating leads, and managing multi-channel sales campaigns with high deliverability."
+        },
+        {
+            "question": "Does Smartlead.ai offer a free plan?",
+            "answer": "Yes, Smartlead.ai provides a 14-day free trial with access to all features, no credit card required."
+        },
+        {
+            "question": "How does Smartlead.ai improve email deliverability?",
+            "answer": "It uses AI-driven warm-ups, dynamic IP rotation, and email verification tools to ensure emails land in primary inboxes."
+        },
+        {
+            "question": "Can Smartlead.ai integrate with other tools?",
+            "answer": "Yes, it integrates with CRMs like HubSpot, Salesforce, and Zapier, as well as tools like Clay and Slack for seamless workflows."
+        },
+        {
+            "question": "What is the unibox feature in Smartlead.ai?",
+            "answer": "The unibox is a centralized inbox that consolidates all outreach channels, responses, and follow-ups for efficient lead management."
+        },
+        {
+            "question": "Is Smartlead.ai suitable for agencies?",
+            "answer": "Yes, its unlimited mailboxes, white-label options, and robust analytics make it ideal for agencies scaling client campaigns."
+        },
+        {
+            "question": "How does Smartlead.ai handle spam issues?",
+            "answer": "It uses unlimited warm-ups, spam rescue monitoring, and domain rotation to maintain high deliverability and avoid spam folders."
+        },
+        {
+            "question": "Can I personalize emails with Smartlead.ai?",
+            "answer": "Yes, Smartlead.ai offers spintax and AI-driven personalization to craft tailored emails that boost engagement."
+        }
+    ]
+}

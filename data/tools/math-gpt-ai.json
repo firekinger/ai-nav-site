@@ -1,0 +1,72 @@
+{
+    "name": "Math GPT",
+    "description": "Math GPT is an AI-driven platform that assists users in solving mathematical problems and understanding concepts through advanced language models.",
+    "longDescription": "Math GPT is an innovative website that leverages GPT-based AI technology to provide instant solutions to a wide range of mathematical queries, from basic arithmetic to advanced calculus. Its mission is to make mathematics accessible and comprehensible for students, educators, and professionals by breaking down complex problems into understandable steps. The platform serves users by offering step-by-step explanations, generating practice problems, and facilitating interactive learning experiences. It solves specific problems like homework assistance, exam preparation, and real-world application of math concepts by using natural language processing to interpret and respond to user inputs effectively. Overall, Math GPT aims to democratize math education through AI, reducing the barriers to learning and fostering a deeper understanding of mathematical principles.",
+    "url": "https://math-gpt.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/math-gpt.ai.webp",
+    "category": "AI Math",
+    "categorySlug": "ai-math",
+    "slug": "math-gpt-ai",
+    "categories": [
+        "AI Math",
+        "AI Tutorial",
+        "AI Language Learning",
+        "AI Charting",
+        "AI Homework Helper",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Instant equation solving that provides accurate answers to algebraic, geometric, and calculus problems, saving users time on complex calculations.",
+        "Step-by-step explanations that break down solutions into manageable parts, helping users learn the reasoning behind each answer.",
+        "Interactive problem generation that creates customized math exercises based on user-specified topics and difficulty levels, enhancing practice sessions.",
+        "Concept clarification tool that explains mathematical theories and definitions in simple language, aiding comprehension for learners at all levels.",
+        "Graphing capabilities that visualize functions and data sets, making abstract concepts more tangible and easier to understand.",
+        "Multi-language support that allows users to input queries and receive responses in various languages, broadening accessibility worldwide.",
+        "Integration with educational tools, enabling seamless use alongside textbooks or online courses for supplemented learning.",
+        "Personalized learning paths that track user progress and suggest targeted improvements, fostering continuous skill development.",
+        "Real-time collaboration features that let multiple users work on problems together, ideal for group study or tutoring sessions.",
+        "Error detection in user-provided solutions, offering corrections and alternative approaches to build problem-solving skills."
+    ],
+    "faqs": [
+        {
+            "question": "What types of math problems can Math GPT solve?",
+            "answer": "Math GPT can handle a variety of problems including algebra, geometry, trigonometry, calculus, and statistics. It provides detailed solutions for equations, proofs, and word problems."
+        },
+        {
+            "question": "Is Math GPT suitable for beginners?",
+            "answer": "Yes, it's designed for all levels, offering simple explanations for basic concepts while scaling up to advanced topics. Beginners can start with foundational problems and build from there."
+        },
+        {
+            "question": "How accurate are the solutions provided by Math GPT?",
+            "answer": "The AI strives for high accuracy by drawing from extensive mathematical datasets. However, users should verify complex solutions, as AI may occasionally require refinements based on specific contexts."
+        },
+        {
+            "question": "Can I use Math GPT for homework help?",
+            "answer": "Absolutely, it assists with homework by solving problems and explaining steps. It's a great tool for learning, but encourage understanding the process rather than just copying answers."
+        },
+        {
+            "question": "Does Math GPT support graphing?",
+            "answer": "Yes, it includes graphing features to plot functions, inequalities, and data visualizations. This helps users see mathematical relationships graphically."
+        },
+        {
+            "question": "Is there a mobile app for Math GPT?",
+            "answer": "Currently, Math GPT is web-based, but it's optimized for mobile browsers. A dedicated app may be in development for future releases."
+        },
+        {
+            "question": "How does Math GPT handle user privacy?",
+            "answer": "User queries are processed securely, and personal data is not stored without consent. The platform adheres to standard privacy policies to protect user information."
+        },
+        {
+            "question": "Can teachers use Math GPT in classrooms?",
+            "answer": "Yes, educators can generate problems, explanations, and quizzes for students. It serves as an interactive teaching aid to enhance classroom engagement."
+        },
+        {
+            "question": "What makes Math GPT different from other math solvers?",
+            "answer": "It combines AI natural language understanding with comprehensive math capabilities, offering conversational interactions unlike static calculators. This makes learning more intuitive and personalized."
+        },
+        {
+            "question": "Is there a limit to free usage?",
+            "answer": "The free plan allows a certain number of queries per day, with premium options for unlimited access. This ensures core features are accessible without cost barriers."
+        }
+    ]
+}

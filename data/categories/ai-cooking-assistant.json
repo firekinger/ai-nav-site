@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Cooking Assistant Tools in 2025",
+    "summary": "Discover the future of culinary creativity with our AI Cooking Assistant category. These innovative tools simplify meal planning, enhance recipe discovery, and provide personalized cooking tips tailored to your taste preferences. Whether you're a novice cook or a seasoned chef, our AI solutions help you save time, reduce food waste, and elevate your cooking skills. Explore our curated selection of AI cooking assistants today and transform your kitchen experience into a seamless and enjoyable journey. Start cooking smarter—dive into our tools now!",
+    "tools": [
+        {
+            "id": "1112",
+            "name": "Planfit",
+            "slug": "planfit-ai",
+            "description": "Planfit is an AI-powered fitness platform that provides personalized workout plans and training guidance to help users achieve their fitness goals efficiently.",
+            "icon": "/logo/planfit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-cooking-assistant"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Doubao",
+            "slug": "doubao",
+            "description": "Doubao is an AI-powered conversational assistant platform by ByteDance, offering multimodal solutions for text, image, and audio tasks.",
+            "icon": "/logo/doubao.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-cooking-assistant"
+            ]
+        }
+    ]
+}

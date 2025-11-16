@@ -1,0 +1,69 @@
+{
+    "name": "Guidde",
+    "description": "Guidde is an AI-powered platform for creating and sharing video documentation and tutorials quickly and efficiently.",
+    "longDescription": "Guidde is a generative AI platform designed to streamline the creation of video-based documentation, tutorials, and how-to guides for software and processes, enabling users to produce content up to 11 times faster. It eliminates the need for advanced design or video editing skills by automating tasks like narration, captions, and visual enhancements. The platform serves businesses, customer success teams, and educators by simplifying knowledge sharing for onboarding, training, and customer support. Guidde’s mission is to enhance productivity by making knowledge transfer intuitive and scalable, reducing support burdens and accelerating software adoption. Its AI-driven tools, such as text-to-voice and analytics, help users create professional-grade content accessible to global audiences in over 100 languages. Market-leading companies rely on Guidde to improve team performance and customer self-service.",
+    "url": "https://www.guidde.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.guidde.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "guidde",
+    "categories": [
+        "AI Video Generator",
+        "AI Text-to-Speech",
+        "AI Knowledge Management",
+        "AI Customer Service",
+        "AI Course",
+        "AI Writing",
+        "AI For Data Analytics",
+        "AI Translate",
+        "AI Workflow"
+    ],
+    "features": [
+        "Generative AI creates step-by-step video guides automatically, saving users significant time on content production.",
+        "Text-to-voice functionality generates natural-sounding voiceovers in over 100 languages for global accessibility.",
+        "Drag-and-drop video editor simplifies customization, enabling users to enhance videos without technical expertise.",
+        "AI-generated audio and captions automatically highlight key workflow steps, improving clarity for viewers.",
+        "Custom branding allows users to align videos with their organization’s visual identity for a professional look.",
+        "Blur sensitive information feature ensures privacy by obscuring confidential data in recordings.",
+        "Video analytics track engagement metrics like watch time and views, helping users optimize content effectiveness.",
+        "In-app content delivery provides contextual learning, reducing support tickets by enabling real-time guidance.",
+        "Integration with tools like Slack and CRM systems streamlines sharing and workflow efficiency.",
+        "Dual-format content generation creates synchronized video and text outputs for versatile use.",
+        "Channels feature personalizes content by role, team, or language, ensuring relevant access with built-in permissions.",
+        "Automated how-to video capture records processes directly from browsers, simplifying documentation creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Guidde used for?",
+            "answer": "Guidde is used to create AI-powered video tutorials and documentation for software processes, customer support, employee training, and onboarding, streamlining knowledge sharing."
+        },
+        {
+            "question": "Does Guidde offer a free plan?",
+            "answer": "Yes, Guidde offers a free trial with access to its Business plan features, though some advanced functionalities may require a paid subscription."
+        },
+        {
+            "question": "Can Guidde integrate with other tools?",
+            "answer": "Guidde integrates with tools like Slack and CRM systems, but some integrations are limited to higher-tier enterprise plans."
+        },
+        {
+            "question": "How does Guidde’s AI voiceover feature work?",
+            "answer": "Guidde’s text-to-voice feature converts written text into natural-sounding voiceovers in multiple languages, with customizable pauses and pronunciation for polished narration."
+        },
+        {
+            "question": "Is Guidde suitable for large enterprises?",
+            "answer": "Guidde may not fully support large enterprises needing complex documentation consolidation, but it excels for streamlined video-based training and support."
+        },
+        {
+            "question": "How fast can I create a video with Guidde?",
+            "answer": "Guidde’s AI enables users to create professional how-to videos in an average of 3 minutes or less, directly from a browser."
+        },
+        {
+            "question": "Can I edit videos created by Guidde?",
+            "answer": "Yes, Guidde’s drag-and-drop editor allows users to easily edit videos, add shapes, text, or adjust timing for polished results."
+        },
+        {
+            "question": "Does Guidde support multiple languages?",
+            "answer": "Guidde supports over 100 languages for voiceovers and captions, making it ideal for global teams and audiences."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Fadr",
+    "description": "Fadr is an AI-powered music creation platform for remixing, stem separation, and DJing.",
+    "longDescription": "Fadr is an innovative web platform that leverages advanced AI technology to simplify music production for both beginners and professionals. It allows users to upload songs and use AI tools to extract stems, detect key, tempo, and chords, and create remixes or mashups effortlessly. The platform’s mission is to amplify musical creativity without replacing artists, offering intuitive tools that handle technical synchronization while leaving creative control to the user. With 95% of its features available for free, Fadr makes music production accessible to a wide audience. Its premium Fadr Plus plan unlocks advanced features like lossless WAV downloads and individual drum stem separation, catering to professional needs. Fadr also integrates with platforms like SoundCloud, enabling users to share their creations easily.",
+    "url": "https://fadr.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fadr.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "fadr",
+    "categories": [
+        "AI Stems Splitter",
+        "AI Music Generator",
+        "AI Song Remixer",
+        "AI Vocal Remover",
+        "Chord AI",
+        "AI Midi Generator",
+        "AI Audio Editing",
+        "AI Instrumental Generator"
+    ],
+    "features": [
+        "AI-powered stem separation extracts vocals, drums, bass, and up to 16 instrument types from any song for detailed editing.",
+        "The Remix tool enables users to create mashups and remixes by combining stems with automatic key and tempo synchronization.",
+        "SynthGPT generates playable instruments from text descriptions, allowing innovative sound design.",
+        "DrumGPT creates customizable drum kits from text prompts, enhancing music production flexibility.",
+        "The DJ Beta feature supports real-time AI-synchronized live DJ performances and transitions.",
+        "Chord detection automatically identifies and visualizes chord progressions, simplifying music analysis.",
+        "MIDI extraction converts melodies and harmonies into MIDI files for use in digital audio workstations (DAWs).",
+        "Voice Swap allows users to extract and replace vocals in tracks, enabling creative vocal experimentation.",
+        "High-quality MP3 and lossless WAV downloads ensure professional-grade audio output for projects.",
+        "Unlimited storage in the Fadr Plus plan provides ample space for tracks and projects.",
+        "The Stems Plugin integrates stem separation directly into DAWs for seamless workflow enhancement."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fadr and what does it do?",
+            "answer": "Fadr is an AI-powered music creation platform that extracts stems, detects tempo/key/chords, and enables remixes, mashups, and DJ performances. Most features are free, with advanced options in the Fadr Plus plan."
+        },
+        {
+            "question": "Is Fadr free to use?",
+            "answer": "Yes, Fadr Basic is free with unlimited access to core features like stem separation and remixing, while Fadr Plus offers premium features for $10/month or $100/year."
+        },
+        {
+            "question": "Can Fadr separate vocals and instruments from any song?",
+            "answer": "Yes, Fadr’s AI can extract vocals, drums, bass, and up to 16 instrument types from any uploaded song, regardless of genre or audio quality."
+        },
+        {
+            "question": "Does Fadr support live DJ performances?",
+            "answer": "Fadr’s DJ Beta feature allows real-time stem mixing and transitions with AI synchronization for professional live DJ sets."
+        },
+        {
+            "question": "Can I use Fadr without music production experience?",
+            "answer": "Absolutely, Fadr’s user-friendly interface and AI automation make it accessible for beginners, handling technical aspects like synchronization."
+        },
+        {
+            "question": "What is SynthGPT, and how does it work?",
+            "answer": "SynthGPT is a Fadr feature that creates playable instruments from text descriptions, generating unique sounds for music production."
+        },
+        {
+            "question": "Can I download stems for use in my DAW?",
+            "answer": "Yes, Fadr allows downloading stems as MP3s (free plan) or WAVs (Fadr Plus), and the Stems Plugin integrates directly into DAWs."
+        },
+        {
+            "question": "Does Fadr support MIDI files?",
+            "answer": "Fadr extracts MIDI files for vocals, bass, drums, and melodies, which can be used in other music production software."
+        },
+        {
+            "question": "How do I contact Fadr support?",
+            "answer": "Use the contact form on fadr.com, email contact@fadr.com, or send a DM to @fadrmusic on Instagram."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Muse.ai",
+    "description": "Muse.ai is an AI-powered video hosting platform that enables intelligent search, management, and sharing of video content.",
+    "longDescription": "Muse.ai is a cutting-edge video platform that leverages artificial intelligence to make video content searchable and accessible like never before. Its mission is to revolutionize how individuals and businesses handle video libraries by providing tools for automatic transcription, smart search, and collaborative sharing. The platform solves problems related to video overload by allowing users to quickly find specific moments within videos using natural language queries, eliminating the need for manual tagging or sifting through hours of footage. It serves creators, educators, businesses, and teams by offering secure storage, embedding options, and analytics to enhance productivity and engagement. Overall, Muse.ai empowers users to unlock the full potential of their video assets through AI-driven insights and seamless integration.",
+    "url": "https://muse.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/muse.ai.webp",
+    "category": "AI Video Search",
+    "categorySlug": "ai-video-search",
+    "slug": "muse-ai",
+    "categories": [
+        "AI Video Search",
+        "AI Transcription",
+        "AI Knowledge Management",
+        "AI Text Classifier",
+        "AI Writing Assistants",
+        "AI Text Generator",
+        "AI Caption Generator"
+    ],
+    "features": [
+        "AI-powered video search allows users to find exact moments in videos using natural language queries, saving time on manual review.",
+        "Automatic transcription and captioning generate accurate text from video audio, improving accessibility and SEO.",
+        "Video embedding and sharing tools enable easy integration into websites or apps with customizable players and privacy controls.",
+        "Intelligent tagging and organization use AI to categorize content automatically, simplifying large video library management.",
+        "Collaboration features let teams comment, annotate, and work together on videos in real-time.",
+        "Analytics provide insights into viewer engagement, such as watch time and drop-off points, to optimize content.",
+        "Secure storage ensures videos are protected with encryption and access permissions for sensitive materials.",
+        "Mobile app support allows uploading and accessing videos on the go for convenient management.",
+        "Customizable playlists and collections help users curate and present video content effectively.",
+        "Integration with tools like Zoom and Google Drive streamlines importing and exporting video workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Muse.ai primarily used for?",
+            "answer": "Muse.ai is used for hosting, searching, and managing video content with AI tools. It helps users organize large video libraries and find specific information quickly."
+        },
+        {
+            "question": "Does Muse.ai offer a free plan?",
+            "answer": "Yes, Muse.ai provides a free plan with limited storage and features. Users can upgrade to paid plans for more capacity and advanced tools."
+        },
+        {
+            "question": "How does the AI search work on Muse.ai?",
+            "answer": "The AI search analyzes video content, audio, and visuals to allow natural language queries. For example, you can search for 'show me the part about climate change' and it pinpoints the exact segment."
+        },
+        {
+            "question": "Can I collaborate with others on Muse.ai?",
+            "answer": "Yes, Muse.ai supports team collaboration with features like shared access, comments, and annotations. This is ideal for educational or business teams reviewing videos together."
+        },
+        {
+            "question": "Is Muse.ai suitable for businesses?",
+            "answer": "Absolutely, businesses use Muse.ai for internal training videos, marketing content, and analytics. It offers enterprise-level security and scalability."
+        },
+        {
+            "question": "What file formats does Muse.ai support?",
+            "answer": "Muse.ai supports common video formats like MP4, MOV, and AVI. It also handles audio files for transcription purposes."
+        },
+        {
+            "question": "How secure is video storage on Muse.ai?",
+            "answer": "Muse.ai uses encryption and customizable privacy settings to secure videos. Users can control who accesses their content, making it suitable for confidential materials."
+        },
+        {
+            "question": "Can I embed Muse.ai videos on my website?",
+            "answer": "Yes, Muse.ai provides embed codes for easy integration into websites or blogs. The player is customizable and responsive."
+        },
+        {
+            "question": "Does Muse.ai provide video analytics?",
+            "answer": "Yes, it offers detailed analytics on viewer behavior, such as play counts and engagement metrics. This helps creators refine their content strategy."
+        },
+        {
+            "question": "Is there a mobile app for Muse.ai?",
+            "answer": "Yes, Muse.ai has a mobile app for iOS and Android. It allows uploading, searching, and viewing videos on the go."
+        }
+    ]
+}

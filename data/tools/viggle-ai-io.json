@@ -1,0 +1,75 @@
+{
+    "name": "Viggle AI",
+    "description": "Viggle AI is an innovative platform that uses artificial intelligence to animate static images into dynamic videos and create customizable video content effortlessly.",
+    "longDescription": "Viggle AI is a cutting-edge AI-powered tool designed to transform static images and prompts into animated videos, making video creation accessible to everyone from beginners to professionals. Its mission is to democratize video production by leveraging advanced AI models to handle complex animations without requiring extensive editing skills. The platform serves users by solving the problem of time-consuming video editing, allowing quick generation of high-quality content for social media, marketing, or entertainment purposes. It integrates features like motion capture and style transfer to enhance creativity and efficiency. Overall, Viggle AI empowers creators to bring ideas to life rapidly, fostering innovation in digital content creation.",
+    "url": "https://viggleai.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/viggleai.io.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "viggle-ai-io",
+    "categories": [
+        "AI Video Generator",
+        "AI Prompt Generator",
+        "AI Style Transfer",
+        "AI Writing",
+        "AI Video Editor",
+        "AI Creative Writing",
+        "AI Animation Generator",
+        "AI Story Generator",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "Animate feature allows users to turn static photos into lively videos by adding realistic movements, saving time on manual animation.",
+        "Mix tool enables blending of multiple videos or images to create unique composites, enhancing creative storytelling options.",
+        "Prompt-based video generation lets users describe scenes in text to automatically produce customized videos, simplifying the creative process.",
+        "Character animation uses AI to apply human-like motions to characters in images, ideal for game developers and animators.",
+        "Style transfer applies artistic styles to videos, allowing users to mimic famous art styles or aesthetics for personalized content.",
+        "High-resolution output ensures generated videos are of professional quality, suitable for commercial use.",
+        "User-friendly interface makes it easy for non-experts to navigate and create content without a steep learning curve.",
+        "Batch processing supports generating multiple animations at once, boosting productivity for large projects.",
+        "Integration with social media platforms facilitates direct sharing of created videos, streamlining workflow.",
+        "Customizable motion controls give users fine-tuned adjustments to animations for precise results."
+    ],
+    "faqs": [
+        {
+            "question": "What is Viggle AI primarily used for?",
+            "answer": "Viggle AI is mainly used for animating static images into videos and generating AI-driven video content from text prompts. It helps users create engaging visuals quickly without advanced editing software."
+        },
+        {
+            "question": "Does Viggle AI offer a free version?",
+            "answer": "Yes, Viggle AI provides a free plan with limited credits for trying out core features. Users can upgrade to paid plans for unlimited access and advanced functionalities."
+        },
+        {
+            "question": "How does the Animate feature work?",
+            "answer": "The Animate feature takes a static image and applies AI-generated movements to make it dynamic. Users upload an image and select motion types, and the AI processes it into a video."
+        },
+        {
+            "question": "Can I use Viggle AI for commercial purposes?",
+            "answer": "Yes, videos generated with Viggle AI can be used commercially, but users should review the terms of service for any restrictions on usage rights."
+        },
+        {
+            "question": "What file formats does Viggle AI support?",
+            "answer": "Viggle AI supports common image formats like JPEG and PNG for input, and exports videos in MP4 format. This ensures compatibility with most devices and platforms."
+        },
+        {
+            "question": "Is there a mobile app for Viggle AI?",
+            "answer": "Currently, Viggle AI is web-based, but it is optimized for mobile browsers. A dedicated app may be in development based on user demand."
+        },
+        {
+            "question": "How secure is my data on Viggle AI?",
+            "answer": "Viggle AI uses encryption and secure servers to protect user data and uploaded content. They do not store personal information without consent and comply with privacy regulations."
+        },
+        {
+            "question": "Can I collaborate with others on Viggle AI projects?",
+            "answer": "While direct collaboration features are limited, users can share project links or exported files for feedback. Future updates may include team collaboration tools."
+        },
+        {
+            "question": "What AI models power Viggle AI?",
+            "answer": "Viggle AI is powered by advanced generative AI models specialized in video synthesis and motion detection. These models are trained on vast datasets to ensure realistic outputs."
+        },
+        {
+            "question": "How long does it take to generate a video?",
+            "answer": "Video generation typically takes a few seconds to minutes, depending on complexity and resolution. Users receive notifications when processing is complete."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Pippit AI",
+    "description": "Pippit AI is an AI-powered platform for creating and managing marketing videos, images, and avatars for e-commerce and social media.",
+    "longDescription": "Pippit AI, powered by CapCut, is a subscription-based content creation platform designed to streamline video and image production for e-commerce businesses and social media marketers. It leverages advanced AI tools to automate the creation of marketing content, enabling users to generate professional videos, images, and avatars with minimal effort. The platform supports scalable content production by offering features like one-click video creation, bulk image editing, and automated publishing across multiple platforms. Its mission is to optimize content workflows, reduce production time, and enhance engagement through analytics-driven insights. Pippit serves businesses and creators by providing commercially licensed templates and tools, making it easier to create shoppable content that drives sales. It is particularly valuable for users seeking to elevate their brand presence without requiring advanced design skills.",
+    "url": "https://pippit.capcut.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pippit.capcut.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "pippit-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Digital Marketing",
+        "AI Social Media Post Generator",
+        "AI Photo Editor",
+        "AI Product Manager",
+        "AI Project Management"
+    ],
+    "features": [
+        "One-click video creation generates engaging marketing videos from product links, simplifying content production for e-commerce.",
+        "Bulk image editing allows users to create professional product photos in batches, saving time and ensuring consistency.",
+        "Realistic AI avatars and multilingual voices enhance social commerce by creating relatable and globally accessible content.",
+        "Auto-publishing and scheduling enable users to plan and distribute content across multiple platforms effortlessly.",
+        "Advanced analytics provide insights into content performance, helping users refine their marketing strategies.",
+        "Commercially licensed templates and assets offer a wide range of pre-cleared resources for confident content creation.",
+        "Background removal tools transform any setting into a professional backdrop, enhancing visual appeal.",
+        "AI script generator creates compelling scripts to streamline video production and improve storytelling.",
+        "Shoppable content integration allows users to add product links, enabling seamless transitions from discovery to purchase.",
+        "Intuitive interface ensures users of all skill levels can create high-quality content with ease."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pippit AI?",
+            "answer": "Pippit AI is an AI-powered platform by CapCut that automates the creation of marketing videos, images, and avatars for e-commerce and social media."
+        },
+        {
+            "question": "Is Pippit AI free to use?",
+            "answer": "Pippit AI offers a free plan with limited credits and features, with the option to upgrade to a paid subscription for advanced tools and higher quotas."
+        },
+        {
+            "question": "Can I use Pippit content for commercial purposes?",
+            "answer": "Most content generated on Pippit AI is licensed for commercial use on TikTok and CapCut, with some assets also licensed for platforms like Facebook and Instagram."
+        },
+        {
+            "question": "How does Pippit AI help with content scheduling?",
+            "answer": "Pippit allows users to create and schedule content in advance for automatic publishing across multiple social media platforms, saving time and effort."
+        },
+        {
+            "question": "What kind of analytics does Pippit provide?",
+            "answer": "Pippit’s analytics dashboard offers advanced insights into content performance, helping users optimize their creative strategies and boost engagement."
+        },
+        {
+            "question": "Does Pippit require design skills?",
+            "answer": "No, Pippit’s intuitive interface and AI tools enable users of all skill levels to create professional content without design expertise."
+        },
+        {
+            "question": "How can I cancel my Pippit subscription?",
+            "answer": "Users can cancel auto-renewal by accessing the 'Subscription' section and selecting 'Disable auto-renewal,' with further assistance available via commercepro.support@capcut.com."
+        },
+        {
+            "question": "Can Pippit integrate with e-commerce platforms?",
+            "answer": "Yes, Pippit syncs with platforms like Shopify and TikTok Shop to automate dynamic marketing content creation from product listings."
+        }
+    ]
+}

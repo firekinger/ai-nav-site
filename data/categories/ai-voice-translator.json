@@ -1,0 +1,160 @@
+{
+    "title": "The Best 14 AI Voice Translator Tools in 2025",
+    "summary": "Unlock seamless communication across languages with our AI Voice Translator tools. Designed to break down language barriers, these innovative solutions offer real-time translation, enhancing both personal and professional interactions. Experience the convenience of instant voice translation, ensuring clarity and understanding in any conversation. Whether you're traveling, conducting business, or connecting with friends worldwide, our curated selection of AI voice translators is here to meet your needs. Explore the tools in this category today and elevate your communication experience!",
+    "tools": [
+        {
+            "id": "38",
+            "name": "ElevenLabs",
+            "slug": "elevenlabs",
+            "description": "ElevenLabs provides advanced AI-powered text-to-speech and voice cloning tools for realistic audio creation.",
+            "icon": "/logo/elevenlabs.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "NoteGPT",
+            "slug": "notegpt",
+            "description": "NoteGPT is an AI-powered learning assistant that summarizes content and generates notes to enhance learning efficiency.",
+            "icon": "/logo/notegpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Transkriptor",
+            "slug": "transkriptor",
+            "description": "Transkriptor provides AI-powered transcription and subtitle generation for audio and video content.",
+            "icon": "/logo/transkriptor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "Luvvoice",
+            "slug": "luvvoice",
+            "description": "Luvvoice provides AI-powered text-to-speech and voice cloning for creating realistic audio content.",
+            "icon": "/logo/luvvoice.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "225",
+            "name": "PlayHT",
+            "slug": "playht",
+            "description": "PlayHT is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/play.ht.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "TTSMaker",
+            "slug": "ttsmaker",
+            "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+            "icon": "/logo/ttsmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "253",
+            "name": "Fish Audio",
+            "slug": "fish-audio",
+            "description": "Fish Audio provides AI-powered tools for music creation, voice generation, and audio editing.",
+            "icon": "/logo/fish.audio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "332",
+            "name": "Krisp",
+            "slug": "krisp",
+            "description": "Krisp is an AI-powered platform that enhances online meetings by removing background noise, transcribing, and summarizing conversations for improved productivity.",
+            "icon": "/logo/krisp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "347",
+            "name": "Murf AI",
+            "slug": "murf-ai",
+            "description": "Murf AI is an AI-powered text-to-speech platform that creates realistic voiceovers for various content needs.",
+            "icon": "/logo/murf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "350",
+            "name": "Voicemaker",
+            "slug": "voicemaker",
+            "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+            "icon": "/logo/voicemaker.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "891",
+            "name": "Synthflow.ai",
+            "slug": "synthflow-ai",
+            "description": "Synthflow.ai is a no-code platform for building AI voice agents that automate customer interactions, handle calls, and streamline business operations.",
+            "icon": "/logo/synthflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "1262",
+            "name": "TransGull",
+            "slug": "transgull",
+            "description": "TransGull is an AI-powered translation platform offering solutions for conversations, live speech, images, and videos to overcome language barriers.",
+            "icon": "/logo/transgull.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "Sayfone",
+            "slug": "sayfone",
+            "description": "Sayfone is an AI-powered platform that enables users to generate realistic synthetic voices for phone calls, messages, and customer service applications.",
+            "icon": "/logo/www.sayfone.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        },
+        {
+            "id": "1317",
+            "name": "Vaanee",
+            "slug": "vaanee",
+            "description": "Vaanee Labs offers AI-driven voice cloning, text-to-speech, speech-to-speech translation, and video dubbing services with multilingual and hyper-realistic voice generation capabilities.",
+            "icon": "/logo/www.vaanee.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-translator"
+            ]
+        }
+    ]
+}

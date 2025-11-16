@@ -1,0 +1,65 @@
+{
+    "name": "ImageColorizer",
+    "description": "ImageColorizer uses AI to colorize and restore black-and-white photos, enhancing old images with vibrant colors and clarity.",
+    "longDescription": "ImageColorizer is an AI-powered online platform designed to revitalize old black-and-white photos by adding natural, vibrant colors and restoring damaged or faded images. Its mission is to make photo restoration and colorization accessible to everyone, requiring no technical skills. The platform leverages advanced AI algorithms trained on millions of images to deliver high-quality, realistic results in just minutes. It caters to individuals, historians, and genealogy enthusiasts looking to preserve cherished memories or historical imagery. The cloud-based tool offers both free and premium versions, ensuring flexibility for casual users and professionals alike. Additionally, it provides dedicated apps for Windows and Mac, enhancing user convenience across devices.",
+    "url": "https://imagecolorizer.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/imagecolorizer.com.webp",
+    "category": "AI Colorize",
+    "categorySlug": "ai-colorize",
+    "slug": "imagecolorizer",
+    "categories": [
+        "AI Colorize",
+        "AI Photo Restoration",
+        "AI Image Enhancer",
+        "AI Portrait Generator",
+        "AI Image Upscaler",
+        "Object Remover AI",
+        "AI Image Description Generator"
+    ],
+    "features": [
+        "AI Colorize automatically adds realistic colors to black-and-white photos, breathing new life into old images.",
+        "AI Enhance sharpens blurry or low-quality photos, improving clarity and detail for a polished look.",
+        "AI Retouch refines portraits by smoothing imperfections and enhancing facial features while preserving natural appearance.",
+        "AI Repair removes scratches, tears, and stains from damaged photos, restoring them to near-original condition.",
+        "AI Object Remover eliminates unwanted elements like creases or spots, maintaining the photo’s integrity.",
+        "Photo upscaling increases image resolution by up to 200% without losing quality, ideal for printing or archiving.",
+        "Cloud-based access allows users to restore photos from any device with an internet connection.",
+        "Dedicated Windows and Mac apps provide a seamless, integrated experience for desktop users.",
+        "Batch processing enables users to colorize or restore multiple photos efficiently, saving time.",
+        "No watermark is added to processed images, ensuring clean outputs for personal or commercial use."
+    ],
+    "faqs": [
+        {
+            "question": "Is ImageColorizer free to use?",
+            "answer": "Yes, ImageColorizer offers a free tier with daily credits for basic colorization and restoration, with premium options for advanced features."
+        },
+        {
+            "question": "How long does it take to restore an old photo?",
+            "answer": "Restoring a photo typically takes a few minutes, thanks to ImageColorizer’s fast AI-driven technology."
+        },
+        {
+            "question": "Can I use ImageColorizer on my Mac?",
+            "answer": "Yes, ImageColorizer provides a dedicated Mac app, downloadable from their website, for a seamless experience."
+        },
+        {
+            "question": "Does ImageColorizer add watermarks to photos?",
+            "answer": "No, processed images are watermark-free, making them suitable for personal or commercial use."
+        },
+        {
+            "question": "Can I enlarge old photos without losing quality?",
+            "answer": "Yes, the AI Restore tool upscales photos by up to 200%, preserving fine details and maintaining high quality."
+        },
+        {
+            "question": "Is technical expertise required to use ImageColorizer?",
+            "answer": "No, the platform is user-friendly, requiring no Photoshop skills, with a simple interface guiding users through the process."
+        },
+        {
+            "question": "Can ImageColorizer repair damaged photos?",
+            "answer": "Yes, the AI Repair tool automatically fixes scratches, tears, and other imperfections in old or damaged photos."
+        },
+        {
+            "question": "Is there a limit to the number of photos I can colorize?",
+            "answer": "There’s no limit on the number of photos, but free users may face restrictions on file size or batch uploads."
+        }
+    ]
+}

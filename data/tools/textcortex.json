@@ -1,0 +1,39 @@
+{
+    "name": "TextCortex",
+    "description": "TextCortex is an AI platform for enterprise knowledge management and content creation, transforming data into actionable insights.",
+    "longDescription": "TextCortex is an AI-powered platform designed to enhance enterprise knowledge management and content creation by integrating with over 30,000 apps and websites. It enables businesses to automate workflows, generate personalized content, and retrieve precise information using advanced AI models like GPT. The platform prioritizes user data security with GDPR-compliant EU infrastructure and third-party security evaluations. TextCortex serves global teams with multilingual support, catering to professionals, marketers, and developers seeking efficient, tailored AI solutions. Its mission is to streamline workflows, combat information overload, and boost creativity through a customizable and collaborative AI experience. By offering a free plan and seamless integrations, it empowers users to work smarter across various platforms.",
+    "url": "https://textcortex.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/textcortex.com.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "textcortex",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Knowledge Management",
+        "AI Writing",
+        "AI Workflow",
+        "AI Language Learning",
+        "AI Text-to-Speech",
+        "AI SEO Tools",
+        "AI API",
+        "AI Assistant",
+        "AI Social Media Post Generator",
+        "AI Email Marketing"
+    ],
+    "features": [
+        "ZenoChat provides a customizable AI assistant for generating personalized content across multiple platforms, enhancing productivity.",
+        "The browser extension enables AI-driven writing assistance on over 30,000 apps and sites, ensuring seamless workflow integration.",
+        "Knowledge Bases allow users to input data to tailor AI responses to specific tones and styles, improving content relevance.",
+        "Multilingual support for over 25 languages facilitates global team collaboration and content creation.",
+        "The Creator Suite offers 60+ templates for tasks like email writing and social media posts, streamlining content production.",
+        "Text-to-speech functionality converts text to audio, aiding users with visual or reading impairments.",
+        "The Text Generation API enables developers to integrate AI content creation into custom applications.",
+        "SEO-optimized content creation tools help users draft and refine articles quickly, boosting online visibility.",
+        "Collaborative knowledge management ensures precise information retrieval for team-based projects.",
+        "Offline mode allows users to access AI features without an internet connection, enhancing flexibility and security.",
+        "Integration with tools like Microsoft Suite, Notion, and Slack streamlines workflows within existing platforms.",
+        "Snippets & Shortcuts feature saves time by creating custom shortcuts for frequently used phrases.",
+        "The platform supports summarizing complex documents and PDFs, extracting key insights efficiently."
+    ],
+    "faqs": []
+}

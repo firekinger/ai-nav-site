@@ -1,0 +1,69 @@
+{
+    "name": "FumeDev",
+    "description": "FumeDev is an AI-powered platform that assists developers with intelligent coding tools and automation to streamline software development.",
+    "longDescription": "FumeDev is a cutting-edge AI platform designed to enhance software development by providing intelligent assistance for coding tasks. Its mission is to empower developers by automating repetitive processes, reducing errors, and accelerating project timelines through advanced AI technologies. The platform serves users by integrating seamlessly with existing development environments, offering solutions to common challenges like code debugging and optimization. By leveraging machine learning models, FumeDev helps both novice and experienced developers improve productivity and focus on creative aspects of programming. It addresses industry needs for faster innovation in a rapidly evolving tech landscape. Overall, FumeDev aims to democratize access to high-quality development tools.",
+    "url": "https://www.fumedev.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.fumedev.com.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "fumedev",
+    "categories": [
+        "AI Code Assistant",
+        "AI Workflow",
+        "AI Project Management"
+    ],
+    "features": [
+        "AI-driven code completion that provides real-time suggestions for efficient coding, reducing manual input time.",
+        "Automated bug detection and resolution tools that identify and fix errors quickly, minimizing debugging efforts.",
+        "Intelligent code refactoring capabilities that optimize existing code for better performance and readability.",
+        "Natural language query support allowing developers to ask questions in plain English and receive relevant code solutions.",
+        "Integration with popular IDEs and version control systems for a seamless workflow experience.",
+        "Collaborative AI agents that assist in team-based projects by generating shared code snippets and documentation.",
+        "Performance analytics that analyze code efficiency and suggest improvements based on best practices.",
+        "Secure code scanning to detect vulnerabilities and ensure compliance with security standards.",
+        "Customizable AI models that adapt to specific programming languages and user preferences.",
+        "Project management automation that helps plan tasks, estimate timelines, and track progress using AI insights."
+    ],
+    "faqs": [
+        {
+            "question": "What is FumeDev?",
+            "answer": "FumeDev is an AI-powered platform that provides tools for coding assistance, automation, and development optimization. It helps developers by offering intelligent features like code suggestions and bug fixes."
+        },
+        {
+            "question": "Does FumeDev offer a free plan?",
+            "answer": "Yes, FumeDev provides a free tier with access to core features, though with some limitations on usage and advanced functionalities. Users can upgrade to paid plans for unlimited access."
+        },
+        {
+            "question": "How does FumeDev integrate with my existing tools?",
+            "answer": "FumeDev supports integrations with popular IDEs like VS Code and GitHub, allowing seamless incorporation into your workflow. Setup is straightforward via plugins or APIs."
+        },
+        {
+            "question": "Is FumeDev suitable for beginners?",
+            "answer": "Absolutely, FumeDev's intuitive AI tools make it accessible for beginners by providing guided code suggestions and explanations. It helps new developers learn while building projects."
+        },
+        {
+            "question": "What programming languages does FumeDev support?",
+            "answer": "FumeDev supports a wide range of languages including Python, JavaScript, Java, and more, with ongoing updates for additional languages."
+        },
+        {
+            "question": "How secure is FumeDev for handling code?",
+            "answer": "FumeDev prioritizes security with encrypted data handling and AI-driven vulnerability scans. It does not store your code without permission and complies with industry standards."
+        },
+        {
+            "question": "Can FumeDev help with team collaboration?",
+            "answer": "Yes, it offers collaborative features where AI agents can generate shared code and documentation for teams. This enhances productivity in group projects."
+        },
+        {
+            "question": "What makes FumeDev different from other AI coding tools?",
+            "answer": "FumeDev stands out with its focus on end-to-end development automation, including project management and performance optimization, beyond just code completion."
+        },
+        {
+            "question": "How do I get started with FumeDev?",
+            "answer": "Sign up on the website, install any necessary plugins, and start using the AI features directly in your IDE. Tutorials are available for quick onboarding."
+        },
+        {
+            "question": "Does FumeDev use my data for training?",
+            "answer": "FumeDev respects user privacy and only uses anonymized data for improvements if opted in. You control data sharing settings."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Contract Management Tools in 2025",
+    "summary": "Unlock the power of AI Contract Management to streamline your contract lifecycle with efficiency and precision. These innovative tools automate document creation, enhance compliance tracking, and facilitate seamless collaboration, saving you time and reducing risks. Whether you're a legal professional or a business owner, AI-driven solutions simplify complex processes, ensuring you stay ahead in today’s fast-paced environment. Explore our curated selection of AI Contract Management tools and transform how you handle contracts—start optimizing your workflow today!",
+    "tools": [
+        {
+            "id": "539",
+            "name": "Vanta",
+            "slug": "vanta",
+            "description": "Vanta automates security and compliance processes for businesses, streamlining certifications like SOC 2, ISO 27001, and HIPAA.",
+            "icon": "/logo/www.vanta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-management"
+            ]
+        },
+        {
+            "id": "762",
+            "name": "Nanonets",
+            "slug": "nanonets",
+            "description": "Nanonets provides AI-driven document processing and workflow automation for businesses.",
+            "icon": "/logo/nanonets.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-management"
+            ]
+        },
+        {
+            "id": "1415",
+            "name": "Genie3",
+            "slug": "genie3-ai",
+            "description": "Genie3.ai is an AI-powered platform that assists users in drafting, reviewing, and managing legal documents efficiently.",
+            "icon": "/logo/genie3.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-management"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Uhmegle",
+    "description": "Uhmegle is a free, anonymous video and text chat platform connecting users worldwide with strangers for spontaneous conversations.",
+    "longDescription": "Uhmegle is a modern alternative to Omegle, designed to facilitate anonymous video and text chats with strangers across the globe. The platform aims to provide a safe, engaging, and user-friendly environment for users to meet new people, share ideas, and explore diverse cultures without requiring registration. By prioritizing user privacy through end-to-end encryption and robust moderation, Uhmegle ensures a respectful community for casual socializing or meaningful connections. It caters to users seeking spontaneous interactions, language practice, or global networking, offering features like interest-based matching and country selection to enhance user experience. The platform’s intuitive design and cross-device compatibility make it accessible for a wide audience, from introverts practicing social skills to extroverts seeking new connections.",
+    "url": "https://uhmegle.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/uhmegle.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "uhmegle",
+    "categories": [
+        "AI Chatbot",
+        "AI Checker",
+        "AI Dating Assistant",
+        "AI Social Media"
+    ],
+    "features": [
+        "Anonymous chat ensures user privacy by not requiring personal information or registration for video and text conversations.",
+        "Interest-based matching connects users with strangers who share similar hobbies or topics for more relevant interactions.",
+        "Country selector allows users to filter and chat with people from specific regions, fostering global connections.",
+        "End-to-end encryption protects all communications, ensuring secure and private conversations.",
+        "AI-powered moderation swiftly detects and filters inappropriate behavior to maintain a safe community.",
+        "Human moderation complements AI tools to enforce community guidelines and ensure respectful interactions.",
+        "Multi-language support enables users to communicate in their preferred language, enhancing accessibility.",
+        "Cross-platform compatibility provides a seamless experience across desktops, tablets, and smartphones.",
+        "Interactive tools like stickers, emojis, and effects keep conversations lively and engaging.",
+        "No-signup requirement allows instant access to chats, making the platform quick and hassle-free to use."
+    ],
+    "faqs": [
+        {
+            "question": "Is Uhmegle free to use?",
+            "answer": "Yes, Uhmegle is completely free to use with no hidden costs or premium features requiring payment."
+        },
+        {
+            "question": "Do I need to create an account to use Uhmegle?",
+            "answer": "No, Uhmegle requires no registration, allowing users to start chatting instantly."
+        },
+        {
+            "question": "How does Uhmegle ensure user safety?",
+            "answer": "Uhmegle employs end-to-end encryption, AI-powered moderation, and human moderators to maintain a safe and respectful environment."
+        },
+        {
+            "question": "Can I choose who I chat with on Uhmegle?",
+            "answer": "While you can’t select specific individuals, you can use interest-based matching or the country selector to connect with preferred users."
+        },
+        {
+            "question": "Is Uhmegle suitable for minors?",
+            "answer": "Uhmegle is designed for users 18 and older, and minors are advised to use age-appropriate platforms."
+        },
+        {
+            "question": "Does Uhmegle store my chat data?",
+            "answer": "No, Uhmegle does not record or store video or text chats, ensuring temporary and private conversations."
+        },
+        {
+            "question": "Can I use Uhmegle on my mobile device?",
+            "answer": "Yes, Uhmegle is accessible via mobile web browsers, offering a smooth experience on smartphones and tablets."
+        }
+    ]
+}

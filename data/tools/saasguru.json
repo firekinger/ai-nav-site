@@ -1,0 +1,73 @@
+{
+    "name": "saasguru",
+    "description": "saasguru is an AI-powered platform offering personalized training, certification preparation, and career resources for Salesforce and cloud technologies.",
+    "longDescription": "saasguru is an innovative edtech platform designed to help professionals and aspiring experts in Salesforce and other cloud technologies achieve certifications and advance their careers. It leverages AI to create personalized learning paths, making education more efficient and tailored to individual needs. The platform addresses the skills gap in the SaaS industry by providing comprehensive resources like courses, mock exams, and community support. Its mission is to empower users with the knowledge and confidence to excel in high-demand cloud roles. By combining technology with expert-led content, saasguru solves problems related to traditional learning methods, such as lack of personalization and outdated materials. Overall, it serves as a one-stop solution for career growth in the dynamic world of SaaS and cloud computing.",
+    "url": "https://www.saasguru.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.saasguru.co.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "saasguru",
+    "categories": [
+        "AI Language Learning",
+        "AI CRM",
+        "AI Course",
+        "AI Job Description Generator",
+        "AI Quiz Generator",
+        "AI For Data Analytics",
+        "AI Coaching"
+    ],
+    "features": [
+        "AI-driven personalized learning paths adapt to each user's skill level and progress, ensuring efficient certification preparation.",
+        "Comprehensive mock exams simulate real Salesforce certification tests, helping users build confidence and identify knowledge gaps.",
+        "Expert-led video courses cover a wide range of Salesforce topics, providing in-depth knowledge and practical insights.",
+        "Community forums and mentorship programs connect users with industry professionals for guidance and networking opportunities.",
+        "Progress tracking dashboards offer real-time analytics on learning performance, enabling users to monitor and optimize their study efforts.",
+        "Integration with Salesforce Trailhead enhances learning by combining official resources with saasguru's AI tools.",
+        "Career resources including resume builders and interview preparation tips support users in landing cloud-related jobs.",
+        "Mobile app access allows flexible learning on-the-go, fitting into busy professional schedules.",
+        "Regular webinars and live sessions provide updates on Salesforce ecosystem changes and best practices.",
+        "Certification success guarantees with refund policies motivate users to commit to their learning goals."
+    ],
+    "faqs": [
+        {
+            "question": "What is saasguru primarily used for?",
+            "answer": "saasguru is primarily used for preparing users for Salesforce and cloud certifications through AI-personalized training and resources. It helps professionals upskill and advance in SaaS careers."
+        },
+        {
+            "question": "Does saasguru offer free resources?",
+            "answer": "Yes, saasguru provides free access to blogs, webinars, and some introductory content. Core features like full courses require a subscription, but free trials are available."
+        },
+        {
+            "question": "How does the AI personalization work on saasguru?",
+            "answer": "The AI analyzes your current skills, learning pace, and goals to create a customized study plan. It adjusts content recommendations and difficulty levels in real-time for optimal results."
+        },
+        {
+            "question": "What certifications does saasguru support?",
+            "answer": "saasguru supports a range of Salesforce certifications including Admin, Developer, Architect, and more, plus other cloud platforms like AWS and Microsoft Azure."
+        },
+        {
+            "question": "Is saasguru suitable for beginners?",
+            "answer": "Absolutely, saasguru caters to beginners with foundational courses and guided paths. It builds skills progressively, making it accessible for those new to Salesforce."
+        },
+        {
+            "question": "How much does saasguru cost?",
+            "answer": "Pricing starts with free access to basic resources, while premium plans range from $29 to $99 per month depending on features and duration. Annual subscriptions offer discounts."
+        },
+        {
+            "question": "Can I get a refund if I don't pass my certification?",
+            "answer": "saasguru offers a success guarantee on select plans, providing refunds or extended access if you don't pass after following their program."
+        },
+        {
+            "question": "Does saasguru have a mobile app?",
+            "answer": "Yes, saasguru has a mobile app for iOS and Android, allowing users to access courses, track progress, and take quizzes anytime, anywhere."
+        },
+        {
+            "question": "How does saasguru differ from Salesforce Trailhead?",
+            "answer": "While Trailhead is free and official, saasguru enhances it with AI personalization, mock exams, and career tools for a more structured certification journey."
+        },
+        {
+            "question": "Is there community support on saasguru?",
+            "answer": "Yes, saasguru features forums, mentorship programs, and a global community of learners and experts for collaboration and advice."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "accessiBe",
+    "description": "accessiBe provides AI-driven web accessibility solutions to make websites compliant with ADA and WCAG standards for people with disabilities.",
+    "longDescription": "accessiBe is a technology company that specializes in AI-powered tools to enhance web accessibility, ensuring websites are usable by individuals with disabilities. Its mission is to promote digital inclusivity by automating the process of making online content compliant with international accessibility standards like WCAG 2.1 and ADA. The platform uses artificial intelligence to scan, remediate, and maintain website accessibility in real-time, reducing the need for manual coding changes. This serves businesses by helping them avoid legal risks associated with non-compliance while improving user experience for a broader audience. Overall, accessiBe solves the problem of inaccessible web design by offering an efficient, scalable solution that integrates seamlessly with existing sites.",
+    "url": "https://accessibe.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/accessibe.com.webp",
+    "category": "AI Legal Assistant",
+    "categorySlug": "ai-legal-assistant",
+    "slug": "accessibe",
+    "categories": [
+        "AI Legal Assistant",
+        "AI SEO Tools",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "AI-Powered Remediation automatically detects and fixes accessibility issues on websites in real-time, ensuring ongoing compliance without manual intervention.",
+        "Accessibility Widget allows users to customize their browsing experience with options like text size adjustment, color contrast changes, and keyboard navigation enhancements.",
+        "Compliance Monitoring continuously scans sites for new content and updates, maintaining WCAG and ADA standards to prevent legal liabilities.",
+        "Screen Reader Optimization ensures that website elements are properly read aloud, benefiting visually impaired users by improving navigation and content consumption.",
+        "Keyboard Navigation Support enables full site interaction using only a keyboard, aiding users with motor disabilities who cannot use a mouse.",
+        "Seizure-Safe Profile reduces flashing elements and animations to prevent triggering photosensitive epilepsy.",
+        "ADHD-Friendly Mode minimizes distractions by simplifying layouts and reducing visual noise for better focus.",
+        "Blind Users Profile integrates seamlessly with popular screen readers like JAWS and NVDA for enhanced compatibility.",
+        "Cognitive Disability Support provides tools like reading guides and simplified text to assist users with learning disabilities.",
+        "Easy Integration requires just one line of code to install, making it simple for developers to add to any website.",
+        "24/7 Accessibility Auditing offers detailed reports on compliance status, helping businesses track and improve their accessibility efforts."
+    ],
+    "faqs": [
+        {
+            "question": "What is accessiBe?",
+            "answer": "accessiBe is an AI-based platform that automates web accessibility adjustments to make websites compliant with standards like WCAG and ADA. It helps businesses ensure their sites are usable by people with disabilities."
+        },
+        {
+            "question": "How does accessiBe work?",
+            "answer": "It uses AI to scan and remediate accessibility issues in real-time, with a widget that allows users to personalize their experience. Installation involves adding a single line of code to the website."
+        },
+        {
+            "question": "Is accessiBe compliant with legal standards?",
+            "answer": "Yes, it targets compliance with WCAG 2.1 AA and ADA Title III, helping sites meet international accessibility requirements. However, full compliance may require additional manual checks."
+        },
+        {
+            "question": "What is the cost of accessiBe?",
+            "answer": "Pricing starts at around $49 per month for basic plans, with higher tiers for larger sites or advanced features. A 7-day free trial is available to test the service."
+        },
+        {
+            "question": "Can accessiBe be integrated with any website?",
+            "answer": "Yes, it works with most CMS platforms like WordPress, Shopify, and custom sites via simple JavaScript integration."
+        },
+        {
+            "question": "Does accessiBe affect website performance?",
+            "answer": "The tool is designed to be lightweight, with minimal impact on load times, ensuring it enhances accessibility without slowing down the site."
+        },
+        {
+            "question": "What disabilities does accessiBe support?",
+            "answer": "It addresses visual, motor, cognitive, and neurological disabilities through features like screen reader support, keyboard navigation, and seizure-safe modes."
+        },
+        {
+            "question": "Is manual coding required after installing accessiBe?",
+            "answer": "No, the AI handles most remediations automatically, though complex sites may benefit from occasional manual optimizations."
+        },
+        {
+            "question": "How does accessiBe differ from other accessibility tools?",
+            "answer": "Unlike manual auditing services, accessiBe uses AI for continuous, automated fixes, providing a more efficient and cost-effective solution for ongoing compliance."
+        },
+        {
+            "question": "Does accessiBe offer customer support?",
+            "answer": "Yes, it provides 24/7 support, including accessibility experts to assist with implementation and troubleshooting."
+        }
+    ]
+}

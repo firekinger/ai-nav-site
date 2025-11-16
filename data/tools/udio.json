@@ -1,0 +1,76 @@
+{
+    "name": "Udio",
+    "description": "Udio is an AI-powered platform for creating high-quality, royalty-free music tailored to user preferences.",
+    "longDescription": "Udio is an innovative AI-driven music creation platform designed to empower users, from beginners to professional musicians, to generate original, high-quality tracks effortlessly. By leveraging advanced artificial intelligence, Udio allows users to create music in various genres by inputting text prompts or customizing parameters like style, mood, and instrumentation. The platform aims to democratize music production, making it accessible to those without technical expertise or expensive equipment. It serves content creators, filmmakers, game developers, and hobbyists by providing royalty-free music for personal and commercial projects. Udio’s mission is to inspire creativity and streamline the music-making process through intuitive AI tools. The platform continuously evolves, incorporating user feedback to enhance its generative capabilities and user experience.",
+    "url": "https://www.udio.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.udio.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "udio",
+    "categories": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Design Assistant",
+        "AI Digital Marketing",
+        "AI Audio Editing"
+    ],
+    "features": [
+        "AI-generated music allows users to create original tracks in various genres using text prompts or customizable settings.",
+        "Royalty-free licensing enables users to utilize generated music for personal or commercial projects without legal concerns.",
+        "Customizable parameters let users adjust mood, tempo, instruments, and vocals to tailor tracks to specific needs.",
+        "High-quality audio output ensures professional-grade sound suitable for videos, games, or streaming platforms.",
+        "User-friendly interface simplifies music creation for beginners while offering advanced options for experienced users.",
+        "Multi-genre support provides flexibility to generate music ranging from pop and classical to electronic and hip-hop.",
+        "Instant music generation delivers tracks in seconds, streamlining workflows for time-sensitive projects.",
+        "Collaboration tools allow users to share and refine tracks with team members or the Udio community.",
+        "Lyric generation integrates AI-crafted lyrics into tracks, enabling users to create full songs with vocals.",
+        "Export options support multiple file formats like MP3 and WAV for seamless integration into various platforms.",
+        "Cloud-based storage ensures users can access and manage their music projects from any device.",
+        "Stem separation allows users to isolate vocals, drums, or instruments for remixing or fine-tuning.",
+        "Real-time previews let users listen to tracks during creation to make immediate adjustments.",
+        "Community sharing enables users to publish their creations and explore music made by others on the platform.",
+        "Regular updates introduce new AI models and features to enhance music quality and creative possibilities."
+    ],
+    "faqs": [
+        {
+            "question": "What is Udio, and how does it work?",
+            "answer": "Udio is an AI-powered platform that generates original music based on user inputs like text prompts or style preferences. Users can customize genres, moods, and instruments to create tracks, which are produced instantly by advanced AI algorithms."
+        },
+        {
+            "question": "Is Udio free to use?",
+            "answer": "Udio offers a free plan with limited track generation and basic features, while premium plans unlock higher quotas and advanced customization options."
+        },
+        {
+            "question": "Can I use Udio’s music for commercial projects?",
+            "answer": "Yes, Udio provides royalty-free music that can be used for commercial purposes, such as videos, games, or advertisements, depending on the plan."
+        },
+        {
+            "question": "Do I need music production experience to use Udio?",
+            "answer": "No, Udio’s intuitive interface is designed for beginners and professionals alike, requiring no prior music production knowledge."
+        },
+        {
+            "question": "What music genres does Udio support?",
+            "answer": "Udio supports a wide range of genres, including pop, rock, classical, electronic, hip-hop, and more, with customizable options for each."
+        },
+        {
+            "question": "Can I generate lyrics with Udio?",
+            "answer": "Yes, Udio’s lyric generation feature creates AI-crafted lyrics that can be integrated into your tracks for complete song production."
+        },
+        {
+            "question": "How long does it take to generate a track on Udio?",
+            "answer": "Tracks are generated in seconds, allowing users to quickly create and refine music for their projects."
+        },
+        {
+            "question": "Can I collaborate with others on Udio?",
+            "answer": "Yes, Udio offers collaboration tools to share tracks with team members or the community for feedback and refinement."
+        },
+        {
+            "question": "What file formats does Udio support for export?",
+            "answer": "Udio supports exporting tracks in popular formats like MP3 and WAV, compatible with most platforms and software."
+        },
+        {
+            "question": "Is my music stored securely on Udio?",
+            "answer": "Yes, Udio uses cloud-based storage to securely save your projects, accessible from any device with an internet connection."
+        }
+    ]
+}

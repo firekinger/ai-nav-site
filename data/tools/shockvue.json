@@ -1,0 +1,84 @@
+{
+    "name": "Shockvue",
+    "description": "Shockvue is an AI image editor that allows users to edit images by simply describing the desired changes, offering a quick and intuitive editing experience.",
+    "longDescription": "Shockvue is designed to edit images using artificial intelligence, enabling users to make changes by verbal descriptions. It supports features like remixing photos and focusing on specific areas of an image. The editor provides four variations of edits simultaneously for users to choose from. It eliminates the need for manual pixel-pushing and overthinking, focusing on delivering instant visual results. Users can try the service for free through its website. Shockvue caters to designers and creators who want to turn ideas into visuals quickly without complex tools.",
+    "url": "https://www.shockvueapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.shockvueapp.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "shockvue",
+    "categories": [
+        "AI Photo Editor",
+        "AI Text Generator",
+        "AI Voice Assistants",
+        "AI Image Combiner",
+        "AI Design Assistant",
+        "AI Image Generator",
+        "AI Image Description Generator",
+        "AI Writing Assistants",
+        "AI Creative Writing",
+        "AI Image Enhancer"
+    ],
+    "features": [
+        "Users can edit images by describing the changes they want in text for intuitive modifications.",
+        "The AI supports speaking edits for a hands-free experience, making it accessible on the go.",
+        "It allows remixing of photos to create new variations and creative outputs effortlessly.",
+        "Users can focus on specific zones of an image for targeted edits without affecting the whole picture.",
+        "Shockvue generates four variations of edits at once, providing options to select the best result.",
+        "It eliminates the need for manual pixel-pushing, streamlining the editing process.",
+        "The editing process is designed to be instant and efficient, saving time for users.",
+        "No overthinking is required, making it user-friendly for beginners and professionals alike.",
+        "The service provides instant visual results, enhancing productivity in creative tasks.",
+        "Users can try Shockvue for free, allowing easy access to its core features."
+    ],
+    "faqs": [
+        {
+            "question": "Is Shockvue free to use?",
+            "answer": "Yes, you can try Shockvue for free on its website."
+        },
+        {
+            "question": "How do I edit images with Shockvue?",
+            "answer": "You can edit images by describing the changes you want using words or voice."
+        },
+        {
+            "question": "Can I speak my edits instead of typing?",
+            "answer": "Yes, Shockvue supports speaking edits for a hands-free experience."
+        },
+        {
+            "question": "Does Shockvue offer multiple edit variations?",
+            "answer": "Yes, it provides four variations of edits at once for you to choose from."
+        },
+        {
+            "question": "Do I need to manually adjust pixels with Shockvue?",
+            "answer": "No, Shockvue eliminates the need for manual pixel-pushing with AI automation."
+        },
+        {
+            "question": "Can I focus on specific parts of an image?",
+            "answer": "Yes, you can focus on specific zones of an image for targeted edits."
+        },
+        {
+            "question": "Is the editing process quick with Shockvue?",
+            "answer": "Yes, Shockvue is designed to deliver instant visual results."
+        },
+        {
+            "question": "Do I need to overthink my edits with Shockvue?",
+            "answer": "No, the process is straightforward and requires no overthinking."
+        },
+        {
+            "question": "Can I remix photos with Shockvue?",
+            "answer": "Yes, it allows remixing of photos to create new variations."
+        },
+        {
+            "question": "Where can I try Shockvue?",
+            "answer": "You can try it for free at shockvueapp.com."
+        },
+        {
+            "question": "Is Shockvue suitable for designers?",
+            "answer": "Yes, it's built for designers and creators to turn ideas into visuals quickly."
+        },
+        {
+            "question": "Does Shockvue use AI models like Qwen?",
+            "answer": "Yes, features like Qwen image edit are available for advanced editing."
+        }
+    ]
+}

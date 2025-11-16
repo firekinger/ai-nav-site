@@ -1,0 +1,62 @@
+{
+    "name": "Archivinci",
+    "description": "Archivinci is an AI-powered platform that transforms architectural sketches and ideas into professional renders and designs.",
+    "longDescription": "Archivinci is an innovative AI tool designed specifically for architects, designers, and creatives to streamline the process of visualizing architectural concepts. Its mission is to democratize high-quality architectural rendering by leveraging advanced AI algorithms to convert simple sketches, text descriptions, or basic models into photorealistic images and detailed plans. The platform solves common problems in the architecture industry, such as time-consuming manual rendering and the need for expensive software, by providing fast, accessible, and cost-effective solutions. Users can upload their ideas and receive customized outputs tailored to various styles, from modern to classical architecture. Overall, Archivinci empowers professionals and hobbyists alike to iterate on designs quickly and bring their visions to life without extensive technical expertise.",
+    "url": "https://www.archivinci.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.archivinci.com.webp",
+    "category": "AI Design Generator",
+    "categorySlug": "ai-design-generator",
+    "slug": "archivinci",
+    "categories": [
+        "AI Design Generator",
+        "AI Image Generator",
+        "AI Realistic Image Generator",
+        "AI Design Assistant",
+        "AI Creative Writing",
+        "AI Interior Design"
+    ],
+    "features": [
+        "AI-powered sketch-to-render conversion that turns hand-drawn sketches into photorealistic architectural images in minutes, saving users significant time on manual work.",
+        "Text-to-design generation allowing users to describe architectural ideas in words and receive detailed visual renders, enhancing creativity and ideation.",
+        "Style customization options that let users apply various architectural styles, materials, and lighting to their renders for personalized results.",
+        "High-resolution output exports in formats suitable for presentations, portfolios, or further editing in professional software.",
+        "Iterative refinement tools enabling users to tweak and regenerate designs based on feedback, improving accuracy and satisfaction.",
+        "Integration with popular design tools like SketchUp or AutoCAD for seamless workflow incorporation.",
+        "Cloud-based processing that handles complex computations without requiring powerful local hardware.",
+        "Collaboration features for sharing projects and gathering input from teams in real-time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Archivinci used for?",
+            "answer": "Archivinci is used to generate architectural renders and designs from sketches or text inputs using AI. It helps architects and designers visualize ideas quickly without traditional rendering software."
+        },
+        {
+            "question": "Do I need any special software to use Archivinci?",
+            "answer": "No, Archivinci is a web-based platform that requires only a browser and internet connection. You can upload files from common design tools if needed."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Archivinci offers a limited free trial for new users to test core features. After that, subscription plans are required for full access."
+        },
+        {
+            "question": "How accurate are the AI-generated renders?",
+            "answer": "The renders are highly accurate based on input quality, with options for refinements. Users often achieve professional-grade results with minimal adjustments."
+        },
+        {
+            "question": "Can I use Archivinci for interior design?",
+            "answer": "Yes, Archivinci supports interior design renders, allowing users to generate detailed room layouts, furniture placements, and lighting scenarios."
+        },
+        {
+            "question": "What file formats does Archivinci support for export?",
+            "answer": "Exports are available in high-resolution PNG, JPEG, and sometimes 3D formats like OBJ, depending on the plan."
+        },
+        {
+            "question": "Is my data secure on Archivinci?",
+            "answer": "Yes, Archivinci uses encryption and secure servers to protect user data and designs. Projects are private unless shared explicitly."
+        },
+        {
+            "question": "How long does it take to generate a render?",
+            "answer": "Most renders are generated in under a minute, though complex designs may take a few minutes depending on server load."
+        }
+    ]
+}

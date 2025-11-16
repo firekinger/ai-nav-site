@@ -1,0 +1,61 @@
+{
+    "name": "Runway Aleph AI",
+    "description": "Runway Aleph AI is an advanced AI-powered video editing platform that allows users to transform existing videos using simple text prompts for tasks like changing camera angles, removing objects, and adjusting lighting.",
+    "longDescription": "Runway Aleph AI is an innovative in-context video model developed by Runway that enables multi-task video editing and generation through natural language prompts. Its mission is to revolutionize post-production workflows by making professional-grade video manipulations accessible to creators without requiring complex software or expertise. Users can upload existing footage and describe desired changes, such as altering perspectives or enhancing visuals, which the AI executes with high fidelity. This solves key problems in video editing by consolidating multiple tasks into a single, efficient process, saving time and reducing the need for specialized skills. Ultimately, it empowers filmmakers, content creators, and marketers to produce polished videos more creatively and rapidly.",
+    "url": "https://runwayalephai.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/runwayalephai.ai.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "runway-aleph-ai",
+    "categories": [
+        "AI Video Editor",
+        "Text to Video",
+        "Object Remover AI",
+        "AI Video Generator",
+        "AI Animation Generator",
+        "AI Story Generator"
+    ],
+    "features": [
+        "Text-to-video transformation allows users to edit existing footage by simply describing changes in natural language, streamlining the editing process for quick results.",
+        "Camera angle adjustment enables generating novel views like reverse shots or low angles from original video, providing flexible creative control without reshooting.",
+        "Object removal feature lets users eliminate unwanted elements from videos seamlessly, maintaining visual consistency and improving scene cleanliness.",
+        "Relighting and style adjustment modifies lighting conditions or artistic styles in videos via prompts, enhancing mood and aesthetics effortlessly.",
+        "VFX matte generation creates precise masks for visual effects integration, simplifying compositing tasks for professional outputs.",
+        "Multi-task editing consolidates various post-production operations into one AI workflow, boosting efficiency for complex video projects.",
+        "In-context analysis understands the video's content to apply edits accurately, ensuring realistic and context-aware modifications."
+    ],
+    "faqs": [
+        {
+            "question": "What is Runway Aleph AI?",
+            "answer": "Runway Aleph AI is an AI video editing tool that transforms existing videos using text prompts for edits like object removal and camera changes."
+        },
+        {
+            "question": "How does Runway Aleph AI work?",
+            "answer": "Users upload a video and input text descriptions of desired edits; the AI then generates the modified version based on the context of the original footage."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Runway offers a free plan with 125 one-time credits, allowing limited access to core features like video editing for exploration."
+        },
+        {
+            "question": "What types of video edits can I perform?",
+            "answer": "You can change camera angles, remove objects, adjust lighting, relight scenes, and apply style changes through simple text prompts."
+        },
+        {
+            "question": "Do I need technical skills to use it?",
+            "answer": "No, the platform is designed for ease of use, requiring only descriptive text inputs rather than advanced editing knowledge."
+        },
+        {
+            "question": "What file formats are supported?",
+            "answer": "It supports common video formats like MP4 and MOV, with processing based on the uploaded footage's resolution and length."
+        },
+        {
+            "question": "How long does processing take?",
+            "answer": "Edits typically complete in seconds to minutes, depending on video length and complexity, thanks to the AI's efficient model."
+        },
+        {
+            "question": "Is Runway Aleph AI suitable for professional use?",
+            "answer": "Yes, it handles high-fidelity edits ideal for filmmakers and marketers, though paid plans offer more credits for extensive projects."
+        }
+    ]
+}

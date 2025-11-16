@@ -1,0 +1,76 @@
+{
+    "name": "ChatDOC",
+    "description": "ChatDOC is an AI-powered platform that allows users to interact with documents through natural language chat, enabling quick extraction of insights, summaries, and answers from PDFs and other files.",
+    "longDescription": "ChatDOC is an innovative AI tool designed to transform how users engage with documents by turning them into interactive chat interfaces. It enables uploading of various file types like PDFs, Word documents, and scans, where users can ask questions in plain English and receive accurate, context-aware responses. The platform's mission is to democratize access to information trapped in dense documents, making it easier for professionals, researchers, and students to save time on manual reading and analysis. By leveraging advanced AI models, ChatDOC solves common problems such as inefficient knowledge retrieval and comprehension of complex texts. It emphasizes privacy and accuracy, ensuring that responses are backed by direct citations from the source material. Overall, it serves as a virtual assistant for document-heavy workflows, enhancing productivity across industries.",
+    "url": "https://chatdoc.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chatdoc.com.webp",
+    "category": "AI Document Extraction",
+    "categorySlug": "ai-document-extraction",
+    "slug": "chatdoc",
+    "categories": [
+        "AI Document Extraction",
+        "AI Chat Generator",
+        "AI Knowledge Management",
+        "AI PDF",
+        "AI Summarizer",
+        "AI Article Summarizer",
+        "AI Workflow",
+        "AI Language Learning",
+        "AI Research Tool",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Users can upload multiple document formats including PDFs, DOCX, and scans, allowing seamless integration with existing files for instant AI analysis.",
+        "The chat interface enables natural language questioning, providing quick and precise answers drawn directly from the document's content to facilitate efficient information retrieval.",
+        "Automatic summarization generates concise overviews of lengthy documents, helping users grasp key points without reading everything manually.",
+        "Multi-document chatting allows users to query across several files simultaneously, enabling comparative analysis and comprehensive insights.",
+        "Source citation feature ensures transparency by linking AI responses to specific pages or sections in the original document, building trust in the information provided.",
+        "Table extraction and analysis tools convert complex data in documents into understandable formats, simplifying tasks like data comparison or trend identification.",
+        "Customizable AI prompts let users tailor queries for specific needs, such as generating reports or extracting quotes, enhancing versatility for professional use.",
+        "Secure document handling prioritizes user privacy with encrypted uploads and no long-term storage without permission, making it suitable for sensitive information.",
+        "Integration with productivity tools allows exporting chat results to apps like Notion or Google Docs, streamlining workflow incorporation.",
+        "Real-time collaboration features enable team members to share document chats, fostering group discussions and collective knowledge building."
+    ],
+    "faqs": [
+        {
+            "question": "What types of documents can I upload to ChatDOC?",
+            "answer": "ChatDOC supports a variety of formats including PDFs, Word documents (DOCX), scanned images, and text files. This allows users to work with most common document types without needing conversions."
+        },
+        {
+            "question": "Is ChatDOC free to use?",
+            "answer": "Yes, ChatDOC offers a free plan with basic features and limited uploads. For advanced capabilities like unlimited documents or priority support, users can upgrade to paid plans."
+        },
+        {
+            "question": "How does the AI ensure accurate answers?",
+            "answer": "The AI analyzes the document's content using advanced language models and provides responses with direct citations to the source material. This minimizes errors and allows users to verify information easily."
+        },
+        {
+            "question": "Can I chat with multiple documents at once?",
+            "answer": "Absolutely, ChatDOC's multi-document feature lets you upload and query several files simultaneously. This is ideal for cross-referencing information from different sources."
+        },
+        {
+            "question": "Is my data secure on ChatDOC?",
+            "answer": "ChatDOC uses encryption for uploads and does not store documents long-term without user consent. It adheres to strict privacy standards to protect sensitive information."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan includes a limited number of uploads and queries per month, with basic summarization features. Upgrading unlocks unlimited access and advanced tools like custom AI models."
+        },
+        {
+            "question": "Can ChatDOC summarize long reports?",
+            "answer": "Yes, the summarization tool can condense extensive documents into key highlights, saving time for users dealing with research papers or business reports."
+        },
+        {
+            "question": "Does ChatDOC support non-English documents?",
+            "answer": "ChatDOC primarily works with English but has capabilities for multilingual support in queries and responses. Full non-English document handling may vary by language."
+        },
+        {
+            "question": "How do I integrate ChatDOC with other tools?",
+            "answer": "ChatDOC offers export options to tools like Google Workspace or Microsoft Office. API integrations are available for pro users to embed it into custom workflows."
+        },
+        {
+            "question": "What makes ChatDOC different from other AI chat tools?",
+            "answer": "Unlike general chatbots, ChatDOC is specialized for document interaction, providing context-specific answers with citations. It focuses on accuracy and efficiency for knowledge extraction tasks."
+        }
+    ]
+}

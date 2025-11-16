@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Face Swap Video Tools in 2025",
+    "summary": "Discover the exciting world of AI Face Swap Video tools, where creativity meets cutting-edge technology. These innovative solutions allow you to seamlessly swap faces in videos, enhancing your content for entertainment, marketing, or personal projects. With user-friendly interfaces and powerful algorithms, you can create stunning visuals that captivate your audience. Whether you're a content creator, marketer, or just looking to have fun, these tools offer endless possibilities. Explore our curated selection of AI Face Swap Video tools today and elevate your video projects to the next level!",
+    "tools": [
+        {
+            "id": "556",
+            "name": "Deepfakes Web",
+            "slug": "deepfakes-web",
+            "description": "Deepfakes Web is an online platform that uses AI to create realistic face-swap videos for entertainment and creative purposes.",
+            "icon": "/logo/deepfakesweb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-face-swap-video"
+            ]
+        },
+        {
+            "id": "1346",
+            "name": "Facy.ai",
+            "slug": "facy-ai",
+            "description": "Facy.ai is a cloud-based AI platform for face swapping in images and videos, providing free and premium tools for high-quality media editing and transformations.",
+            "icon": "/logo/facy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-face-swap-video"
+            ]
+        }
+    ]
+}

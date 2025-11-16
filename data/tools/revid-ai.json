@@ -1,0 +1,77 @@
+{
+    "name": "Revid AI",
+    "description": "Revid AI is an AI-powered platform for creating viral short videos for social media platforms like TikTok, Instagram, and YouTube.",
+    "longDescription": "Revid AI is an innovative platform designed to simplify video creation by leveraging artificial intelligence to generate engaging, viral-ready short videos for social media. It enables creators, marketers, and businesses to transform text, audio, or existing content into professional-grade videos without requiring advanced editing skills. By analyzing millions of viral videos, Revid AI crafts scripts and visuals optimized for maximum engagement. The platform supports a wide range of users, from individual content creators to businesses aiming to boost their social media presence. Its mission is to streamline content creation, saving users time while helping them grow their audience through high-impact videos.",
+    "url": "https://www.revid.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.revid.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "revid-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Social Media Post Generator",
+        "AI Script Writing",
+        "AI Translate",
+        "Video to Video",
+        "AI Video Editor",
+        "AI Social Media",
+        "AI Music Generator",
+        "Text to Video"
+    ],
+    "features": [
+        "AI-driven script generation creates engaging video scripts based on trending content, ensuring high viewer retention.",
+        "Auto-mode functionality automates repetitive tasks, allowing users to focus on creativity and produce videos quickly.",
+        "Customizable templates enable users to create professional-grade videos tailored to their brand with minimal effort.",
+        "AI talking avatar creation produces lifelike virtual influencers for personalized video content.",
+        "Multi-language caption generation supports 32 languages, making videos accessible to global audiences.",
+        "Content repurposing tools convert blogs, tweets, or podcasts into engaging short videos for social media.",
+        "Intuitive drag-and-drop editor simplifies video editing, enabling quick adjustments without technical expertise.",
+        "High-quality video exports support various resolutions and formats optimized for platforms like TikTok and YouTube.",
+        "Viral content analysis uses insights from over 3 million videos to optimize scripts and visuals for engagement.",
+        "Audio-to-video conversion transforms podcasts or voice recordings into visually appealing videos.",
+        "AI music video generator creates waveform videos and lyric videos to enhance music-related content.",
+        "YouTube clip maker automatically extracts highlights from long-form videos to create viral-ready shorts."
+    ],
+    "faqs": [
+        {
+            "question": "What is Revid AI used for?",
+            "answer": "Revid AI is used to create viral short videos for platforms like TikTok, Instagram, and YouTube by transforming text, audio, or existing content into engaging videos."
+        },
+        {
+            "question": "Does Revid AI offer a free plan?",
+            "answer": "Yes, Revid AI provides a free plan with 70 welcome AI credits and access to the video editor, but exporting videos requires a paid subscription."
+        },
+        {
+            "question": "Can I create videos in multiple languages?",
+            "answer": "Yes, Revid AI supports video creation in 32 languages, including multi-language caption generation for global accessibility."
+        },
+        {
+            "question": "Do videos created with Revid AI have watermarks?",
+            "answer": "No, videos created with Revid AI do not have watermarks, ensuring clean, professional output."
+        },
+        {
+            "question": "How does Revid AI optimize videos for virality?",
+            "answer": "Revid AI analyzes millions of viral videos to generate scripts and visuals designed to maximize engagement and shares."
+        },
+        {
+            "question": "Can I repurpose existing content with Revid AI?",
+            "answer": "Yes, Revid AI can convert blogs, tweets, LinkedIn posts, or podcasts into short, engaging videos optimized for social media."
+        },
+        {
+            "question": "Is video editing experience required to use Revid AI?",
+            "answer": "No, Revid AI’s intuitive interface and AI automation make it easy for users without editing skills to create professional videos."
+        },
+        {
+            "question": "What platforms are supported for video exports?",
+            "answer": "Revid AI optimizes videos for TikTok, YouTube Shorts, Instagram Reels, and other social media platforms."
+        },
+        {
+            "question": "Does Revid AI offer an API for developers?",
+            "answer": "No, Revid AI does not currently offer an API for developers, focusing instead on user-friendly video creation tools."
+        },
+        {
+            "question": "How long does it take to create a video with Revid AI?",
+            "answer": "On average, users can create a video in about 8 minutes, thanks to AI automation and intuitive tools."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Book by Anyone",
+    "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+    "longDescription": "Book by Anyone is an online platform that leverages AI to generate personalized, satirical books tailored to the recipient’s personality and humor. Users input details about the author or recipient, select from AI-suggested titles and cover designs, and receive a professionally printed 240-page book in paperback or hardcover. The service is designed for creating unique, comedic gifts for occasions like birthdays, holidays, or retirements. Its mission is to deliver laughter and memorable experiences through easy-to-use, high-quality book creation. The platform ensures fast delivery and offers a 30-day money-back guarantee for customer satisfaction. It solves the problem of finding thoughtful, entertaining gifts by combining personalization with AI-driven creativity.",
+    "url": "https://www.bookbyanyone.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.bookbyanyone.com.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "book-by-anyone",
+    "categories": [
+        "AI Writing",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI Gift Ideas",
+        "AI Design Assistant",
+        "AI Joke",
+        "AI Photo Editor",
+        "AI Shopping Assistant"
+    ],
+    "features": [
+        "AI-generated content creates a 240-page satirical book tailored to the recipient’s details for a humorous, personalized gift.",
+        "Users can customize book titles, cover designs, and themes to match the recipient’s personality or occasion.",
+        "Books are available in 6\"x9\" paperback or hardcover formats, meeting standard publishing quality for a professional look.",
+        "Standard shipping delivers books in 7-10 business days, with expedited options for 6-7 days, ensuring timely gifting.",
+        "A 30-day money-back guarantee allows returns with a prepaid shipping label for full refunds, enhancing customer confidence.",
+        "The platform supports photo uploads to incorporate personal images into the book design for added customization.",
+        "An intuitive interface enables users to create a book in under two minutes, simplifying the gift-making process.",
+        "AI-suggested titles and table of contents provide creative, funny options that align with user inputs.",
+        "Free shipping is offered in some cases, reducing costs for certain orders based on promotions or regions.",
+        "Order tracking allows users to monitor delivery status and order additional copies directly from the website."
+    ],
+    "faqs": [
+        {
+            "question": "What is Book by Anyone?",
+            "answer": "Book by Anyone is a platform that uses AI to create personalized, satirical 240-page books as humorous gifts, printed in paperback or hardcover."
+        },
+        {
+            "question": "How long does it take to create a book?",
+            "answer": "The book creation process takes about two minutes, as users input details, select titles, and choose designs on the intuitive platform."
+        },
+        {
+            "question": "How long is the delivery time?",
+            "answer": "Standard shipping takes 7-10 business days, while expedited shipping delivers in 6-7 business days."
+        },
+        {
+            "question": "Can I return the book if I’m not satisfied?",
+            "answer": "Yes, Book by Anyone offers a 30-day money-back guarantee; contact hi@bookbyanyone.com for a prepaid return label and full refund."
+        },
+        {
+            "question": "Are the books high quality?",
+            "answer": "Books are printed in a standard 6\"x9\" size, available in paperback or hardcover, with professional-quality design and materials."
+        },
+        {
+            "question": "Can I include personal photos in the book?",
+            "answer": "Yes, users can upload photos to incorporate into the book’s design for a more personalized touch."
+        },
+        {
+            "question": "What types of books can I create?",
+            "answer": "You can create satirical books in various genres, like fiction or motivational, tailored to the recipient’s humor and personality."
+        },
+        {
+            "question": "Is free shipping available?",
+            "answer": "Free shipping is offered in some cases, depending on promotions or regions, as noted during the checkout process."
+        },
+        {
+            "question": "How do I track my order?",
+            "answer": "You can track your order and order additional copies through the 'My Orders' section on the Book by Anyone website."
+        },
+        {
+            "question": "Is the website safe to use?",
+            "answer": "Yes, Book by Anyone is considered legitimate and safe, with a high trust score and positive customer reviews."
+        }
+    ]
+}

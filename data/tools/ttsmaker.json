@@ -1,0 +1,66 @@
+{
+    "name": "TTSMaker",
+    "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+    "longDescription": "TTSMaker is an online text-to-speech (TTS) platform designed to transform written text into high-quality, natural-sounding audio for various applications. It supports multiple languages and voice styles, catering to users such as content creators, educators, and businesses. The platform aims to make voiceover creation accessible and efficient, eliminating the need for expensive recording equipment or professional voice actors. By leveraging advanced AI technology, TTSMaker delivers realistic speech outputs suitable for videos, audiobooks, presentations, and accessibility features. The service offers both free and premium plans to accommodate different user needs, with options for commercial use. Its user-friendly interface ensures quick and easy audio generation for all skill levels.",
+    "url": "https://ttsmaker.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ttsmaker.com.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "ttsmaker",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Translator",
+        "AI Voice Changer",
+        "AI Digital Marketing",
+        "AI Course",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Converts text to speech in over 100 languages and regional accents, enabling global accessibility.",
+        "Offers a variety of voice styles, including male, female, and unique character voices, for diverse applications.",
+        "Provides a free plan with up to 20,000 characters per week, ideal for small projects or testing.",
+        "Supports commercial use with premium plans, allowing users to create professional-grade audio for business purposes.",
+        "Allows customization of speech speed, pitch, and volume to match specific project requirements.",
+        "Generates downloadable MP3 files for easy integration into videos, presentations, or other media.",
+        "Features a simple, intuitive interface that requires no technical expertise to create audio.",
+        "Includes real-time preview functionality to listen and adjust audio before finalizing.",
+        "Supports API integration for developers to embed TTS functionality into apps or platforms.",
+        "Ensures high-quality, natural-sounding audio through advanced AI-driven voice synthesis.",
+        "Offers multilingual support for creating audio in languages like Spanish, Chinese, and Arabic.",
+        "Provides options for background music integration to enhance audio outputs for creative projects."
+    ],
+    "faqs": [
+        {
+            "question": "What is TTSMaker used for?",
+            "answer": "TTSMaker converts text into natural-sounding speech for applications like video voiceovers, audiobooks, e-learning, and accessibility tools."
+        },
+        {
+            "question": "Is there a free version of TTSMaker?",
+            "answer": "Yes, TTSMaker offers a free plan with up to 20,000 characters per week for non-commercial use."
+        },
+        {
+            "question": "Can I use TTSMaker audio for commercial projects?",
+            "answer": "Yes, premium plans include commercial use rights, allowing audio use in professional or monetized projects."
+        },
+        {
+            "question": "What languages does TTSMaker support?",
+            "answer": "TTSMaker supports over 100 languages and regional accents, including English, Spanish, Chinese, and more."
+        },
+        {
+            "question": "How can I customize the audio output?",
+            "answer": "Users can adjust speech speed, pitch, volume, and select from various voice styles to suit their needs."
+        },
+        {
+            "question": "Is technical expertise required to use TTSMaker?",
+            "answer": "No, TTSMaker’s intuitive interface makes it easy for anyone to generate audio without technical skills."
+        },
+        {
+            "question": "Can I integrate TTSMaker into my application?",
+            "answer": "Yes, TTSMaker offers API integration for developers to add text-to-speech functionality to their platforms."
+        },
+        {
+            "question": "What file format does TTSMaker provide for audio downloads?",
+            "answer": "TTSMaker generates audio in MP3 format, compatible with most media platforms."
+        }
+    ]
+}

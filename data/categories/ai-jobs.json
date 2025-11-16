@@ -1,0 +1,94 @@
+{
+    "title": "The Best 9 AI Jobs Tools in 2025",
+    "summary": "Discover the future of work with our 'AI Jobs' category, where innovative tools meet career advancement. This collection is designed to help you navigate the evolving job landscape, offering AI-driven solutions for job searching, resume optimization, and interview preparation. Unlock the potential of automation to streamline your job hunt and enhance your professional skills. Whether you're a job seeker or a hiring manager, these tools are tailored to meet your needs. Explore our curated selection today and take the next step in your career journey!",
+    "tools": [
+        {
+            "id": "652",
+            "name": "Huntr",
+            "slug": "huntr",
+            "description": "Huntr is a job search platform that streamlines application tracking, resume building, and interview preparation with AI-powered tools.",
+            "icon": "/logo/huntr.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "677",
+            "name": "GrabJobs",
+            "slug": "grabjobs",
+            "description": "GrabJobs is a global job search platform connecting job seekers with employers through AI-driven tools and chat-based applications.",
+            "icon": "/logo/grabjobs.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "704",
+            "name": "EarnBetter",
+            "slug": "earnbetter",
+            "description": "EarnBetter is a free AI-powered platform that streamlines job searches by optimizing resumes, matching jobs, and providing tailored application tools.",
+            "icon": "/logo/earnbetter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "754",
+            "name": "Sonara",
+            "slug": "sonara-ai",
+            "description": "Sonara is an AI-powered job search automation platform that streamlines job hunting by matching and applying to relevant opportunities.",
+            "icon": "/logo/www.sonara.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "775",
+            "name": "Swooped",
+            "slug": "swooped",
+            "description": "Swooped is an AI-powered job search platform that optimizes resumes and cover letters to help job seekers land remote jobs faster.",
+            "icon": "/logo/swooped.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "776",
+            "name": "LazyApply",
+            "slug": "lazyapply",
+            "description": "LazyApply automates job applications across platforms like LinkedIn and Indeed to streamline the job search process.",
+            "icon": "/logo/lazyapply.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "847",
+            "name": "Jobhire.ai",
+            "slug": "jobhire-ai",
+            "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+            "icon": "/logo/jobhire.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        },
+        {
+            "id": "1198",
+            "name": "Interviews.chat",
+            "slug": "interviews-chat",
+            "description": "Interviews.chat is an AI-powered platform designed to help users prepare for job interviews through simulated conversations and personalized feedback.",
+            "icon": "/logo/www.interviews.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-jobs"
+            ]
+        }
+    ]
+}

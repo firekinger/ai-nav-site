@@ -1,0 +1,325 @@
+{
+    "title": "The Best 29 AI Note Taker Tools in 2025",
+    "summary": "Discover the power of AI Note Takers, designed to streamline your note-taking process and enhance productivity. These innovative tools automatically capture, organize, and summarize your thoughts, ensuring you never miss a detail during meetings, lectures, or brainstorming sessions. With features like voice recognition and smart categorization, AI Note Takers transform the way you manage information, saving you time and effort. Explore our curated selection of top-notch AI Note Takers today and elevate your note-taking experience to new heights!",
+    "tools": [
+        {
+            "id": "5",
+            "name": "Notion",
+            "slug": "notion",
+            "description": "Notion is an all-in-one workspace for note-taking, project management, and team collaboration with AI-powered tools.",
+            "icon": "/logo/notion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "TurboScribe",
+            "slug": "turboscribe",
+            "description": "TurboScribe is an AI-powered platform that transcribes audio and video files into accurate text with support for over 98 languages.",
+            "icon": "/logo/turboscribe.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "95",
+            "name": "Otter.ai",
+            "slug": "otter-ai",
+            "description": "Otter.ai provides AI-powered transcription and meeting assistant tools to enhance productivity in meetings and note-taking.",
+            "icon": "/logo/otter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "NoteGPT",
+            "slug": "notegpt",
+            "description": "NoteGPT is an AI-powered learning assistant that summarizes content and generates notes to enhance learning efficiency.",
+            "icon": "/logo/notegpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Notta",
+            "slug": "notta",
+            "description": "Notta is an AI-powered transcription and note-taking platform that converts audio and video into text with real-time collaboration features.",
+            "icon": "/logo/www.notta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "174",
+            "name": "Read AI",
+            "slug": "read-ai",
+            "description": "Read AI provides AI-powered tools to enhance meeting productivity and communication insights.",
+            "icon": "/logo/www.read.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "181",
+            "name": "Descript",
+            "slug": "descript",
+            "description": "Descript is an all-in-one audio and video editing platform that simplifies content creation with AI-powered tools.",
+            "icon": "/logo/www.descript.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Zeemo",
+            "slug": "zeemo",
+            "description": "Zeemo is an AI-powered platform that simplifies video captioning and translation for content creators and businesses.",
+            "icon": "/logo/zeemo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "107",
+            "name": "Knowt",
+            "slug": "knowt",
+            "description": "Knowt is an AI-powered study platform offering free tools like flashcards and quizzes to enhance student learning.",
+            "icon": "/logo/knowt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "248",
+            "name": "Happy Scribe",
+            "slug": "happy-scribe",
+            "description": "Happy Scribe provides AI-powered transcription and subtitle services for audio and video content.",
+            "icon": "/logo/www.happyscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "254",
+            "name": "Goodnotes",
+            "slug": "goodnotes",
+            "description": "Goodnotes is a digital note-taking app designed for handwritten notes and document annotation on tablets and desktops.",
+            "icon": "/logo/www.goodnotes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "283",
+            "name": "tl;dv",
+            "slug": "tldv",
+            "description": "tl;dv is an AI-powered platform for recording, transcribing, and summarizing virtual meetings on Zoom and Google Meet.",
+            "icon": "/logo/tldv.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "305",
+            "name": "Freed",
+            "slug": "freed",
+            "description": "Freed is an AI-powered medical scribe that automates clinical documentation to save clinicians time.",
+            "icon": "/logo/www.getfreed.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "306",
+            "name": "Vatis Tech",
+            "slug": "vatis-tech",
+            "description": "Vatis Tech provides AI-powered speech-to-text technology for accurate and efficient transcription of audio and video data.",
+            "icon": "/logo/vatis.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "346",
+            "name": "StudyFetch",
+            "slug": "studyfetch",
+            "description": "StudyFetch is an AI-powered platform that transforms course materials into personalized study tools like flashcards, quizzes, and notes, with an AI tutor for enhanced learning.",
+            "icon": "/logo/www.studyfetch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "483",
+            "name": "Craft",
+            "slug": "craft",
+            "description": "Craft is a versatile note-taking and document creation platform designed to organize ideas, tasks, and projects with a focus on aesthetics and collaboration.",
+            "icon": "/logo/www.craft.do.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "564",
+            "name": "mymind",
+            "slug": "mymind",
+            "description": "mymind is a private, AI-enhanced platform for saving and organizing notes, bookmarks, images, and articles effortlessly.",
+            "icon": "/logo/mymind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "665",
+            "name": "Limitless",
+            "slug": "limitless-ai",
+            "description": "Limitless provides AI-powered wearable technology and software to enhance memory and productivity by capturing and analyzing conversations.",
+            "icon": "/logo/www.limitless.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "743",
+            "name": "Bluedot",
+            "slug": "bluedot",
+            "description": "Bluedot provides an AI-powered note-taking and meeting recording solution for platforms like Google Meet, Zoom, and Microsoft Teams.",
+            "icon": "/logo/www.bluedothq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "783",
+            "name": "Solvely",
+            "slug": "solvely-ai",
+            "description": "Solvely is an AI-powered homework assistant providing step-by-step solutions for math, science, and other academic subjects.",
+            "icon": "/logo/solvely.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "872",
+            "name": "VoiceNotes",
+            "slug": "voicenotes",
+            "description": "VoiceNotes is an AI-powered note-taking app that allows users to capture ideas via voice, transcribe them automatically, and organize thoughts intelligently.",
+            "icon": "/logo/voicenotes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "953",
+            "name": "Reflect",
+            "slug": "reflect",
+            "description": "Reflect is an AI-powered note-taking app that helps users capture, organize, and connect ideas through networked notes and intelligent features.",
+            "icon": "/logo/reflect.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "970",
+            "name": "Penseum",
+            "slug": "penseum",
+            "description": "Penseum is an AI-powered study platform that transforms notes, lectures, and textbooks into personalized flashcards, quizzes, and summaries to enhance learning efficiency.",
+            "icon": "/logo/penseum.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "MyJotBot",
+            "slug": "myjotbot",
+            "description": "MyJotBot is an AI-powered personal assistant for jotting down notes, organizing ideas, and enhancing productivity through intelligent automation.",
+            "icon": "/logo/myjotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "1013",
+            "name": "Whisper Transcribe",
+            "slug": "whisper-transcribe",
+            "description": "Whisper Transcribe is an online platform that uses AI to transcribe audio and video files into text with high accuracy and support for multiple languages.",
+            "icon": "/logo/www.whispertranscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "1075",
+            "name": "Sembly AI",
+            "slug": "sembly-ai",
+            "description": "Sembly AI is an AI notetaker designed for teams and professionals, offering features like transcription, meeting summaries, and actionable insights for various meeting types.",
+            "icon": "/logo/www.sembly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "Avoma",
+            "slug": "avoma",
+            "description": "Avoma is an all-in-one AI platform that automates note-taking, scheduling, coaching, and revenue intelligence to enhance business efficiency and growth.",
+            "icon": "/logo/www.avoma.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "1286",
+            "name": "Mumble Note",
+            "slug": "mumble-note",
+            "description": "Mumble Note is the fastest AI voice notetaker that instantly converts spoken meetings, tasks, ideas, and notes into organized outputs like summaries, to-dos, and transcripts.",
+            "icon": "/logo/www.mumblenote.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        },
+        {
+            "id": "62",
+            "name": "NotebookLM",
+            "slug": "notebooklm",
+            "description": "NotebookLM is an AI-powered research and note-taking tool that helps users summarize, analyze, and interact with complex information from various sources.",
+            "icon": "/logo/notebooklm.google.webp",
+            "isFree": true,
+            "categories": [
+                "ai-note-taker"
+            ]
+        }
+    ]
+}

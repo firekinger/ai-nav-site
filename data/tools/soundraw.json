@@ -1,0 +1,64 @@
+{
+    "name": "SOUNDRAW",
+    "description": "SOUNDRAW is an AI-powered music generator that creates customizable, royalty-free tracks for creators and businesses.",
+    "longDescription": "SOUNDRAW is an innovative AI music composition platform designed to empower creators, artists, and businesses by generating royalty-free music tailored to specific needs. By leveraging proprietary AI trained on original in-house beats, it ensures copyright-safe tracks for various media, including videos, podcasts, and games. Users can specify genre, mood, tempo, and instruments, enabling rapid music creation without musical expertise. The platform aims to democratize music production, reducing the time spent searching for background tracks and offering seamless integration for commercial and personal projects. Its flexible licensing and customization options make it a valuable tool for content creators and enterprises alike.",
+    "url": "https://soundraw.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/soundraw.io.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "soundraw",
+    "categories": [
+        "AI Music Generator",
+        "AI Writing",
+        "AI API",
+        "AI Commercial Generator",
+        "AI Video Generator",
+        "AI Podcast"
+    ],
+    "features": [
+        "Generate unique, royalty-free music by selecting genre, mood, length, and instruments in seconds.",
+        "Customize tracks by adjusting tempo, song structure, or individual instruments to fit specific project needs.",
+        "Download up to 50 tracks daily in WAV format for easy use across various media platforms.",
+        "Integrate SOUNDRAW’s AI music generation via API for scalable, real-time music creation in apps or services.",
+        "Edit tracks with intuitive tools to shorten intros, reposition choruses, or sync with video timelines.",
+        "Access a Google Chrome plugin for seamless music creation and editing within the browser.",
+        "Use tracks for commercial purposes, including videos, ads, and in-store music, under a flexible license.",
+        "Share in-progress tracks with clients or teams via URL for collaborative feedback.",
+        "Ensure copyright safety with AI trained solely on original, in-house produced music.",
+        "Modify tracks with vocals or instruments for distribution on platforms like Spotify with an Artist plan."
+    ],
+    "faqs": [
+        {
+            "question": "What is SOUNDRAW used for?",
+            "answer": "SOUNDRAW is an AI music generator that creates royalty-free, customizable tracks for videos, podcasts, games, and other media projects."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, SOUNDRAW offers a free plan for experimenting with AI-generated music, but tracks are limited to in-app use only."
+        },
+        {
+            "question": "Can I use SOUNDRAW music commercially?",
+            "answer": "Yes, with an active subscription, you can use SOUNDRAW’s music for commercial purposes like ads, videos, or in-store playback."
+        },
+        {
+            "question": "Do I need to credit SOUNDRAW for the music?",
+            "answer": "No, crediting SOUNDRAW is not required, though it’s appreciated if you choose to do so."
+        },
+        {
+            "question": "Can I distribute SOUNDRAW tracks on Spotify?",
+            "answer": "You can distribute modified tracks (e.g., with added vocals) on Spotify with an Artist plan, but not with the Creator plan."
+        },
+        {
+            "question": "What happens to my content if I cancel my subscription?",
+            "answer": "Content published with SOUNDRAW tracks during an active subscription can remain published, except for unmodified lo-fi content."
+        },
+        {
+            "question": "Does SOUNDRAW offer an API for developers?",
+            "answer": "Yes, SOUNDRAW provides a Music API for integrating AI-generated music into apps or services."
+        },
+        {
+            "question": "How does SOUNDRAW ensure copyright safety?",
+            "answer": "SOUNDRAW trains its AI exclusively on original, in-house music, eliminating copyright risks for users."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Wegic",
+    "description": "Wegic is an AI-powered website builder that creates and manages professional websites through conversational interactions, requiring no coding skills.",
+    "longDescription": "Wegic is an innovative AI-driven platform that simplifies website creation by allowing users to design, develop, and manage professional websites through a chat-based interface. Powered by advanced AI, including the GPT-4o model, it transforms user inputs into fully functional, customizable websites in as little as 60 seconds. The platform serves a diverse audience, including small business owners, entrepreneurs, photographers, and educators, eliminating the need for technical expertise or external agencies. Wegic’s mission is to make website creation accessible, fast, and stress-free, enabling users to establish a strong online presence with ease. Its AI assistants guide users through the entire process, from ideation to publishing, while offering multilingual support to cater to a global audience. In the past six months, Wegic has powered over 300,000 websites across 220+ countries, demonstrating its scalability and user-friendly approach.",
+    "url": "https://wegic.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/wegic.ai.webp",
+    "category": "AI Website Builder",
+    "categorySlug": "ai-website-builder",
+    "slug": "wegic-ai",
+    "categories": [
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Chat Generator",
+        "AI Website Designer",
+        "AI Translate",
+        "AI Shopping Assistant",
+        "AI SEO Tools",
+        "AI Design Assistant",
+        "AI Web Scraping"
+    ],
+    "features": [
+        "Conversational AI interface enables users to create websites by chatting naturally, simplifying the design process for non-technical users.",
+        "Rapid website generation creates multi-page, professional websites in as little as 60 seconds, saving time and effort.",
+        "No-code platform allows users to build and customize websites without any coding or design knowledge, broadening accessibility.",
+        "Multilingual support lets users communicate with the AI and create websites in their preferred language, enhancing global reach.",
+        "One-click publishing streamlines website deployment with custom domain options, making launches quick and hassle-free.",
+        "AI-driven customization provides tailored design suggestions and adjustments to align with user preferences and brand identity.",
+        "Mobile-responsive designs ensure websites look and function seamlessly across all devices, improving user experience.",
+        "Integrated payment solutions allow users to connect accounts and collect funds directly through their websites, ideal for e-commerce.",
+        "AI Manager automatically updates and optimizes websites based on visitor data, boosting performance and revenue.",
+        "SEO optimization tools enhance website visibility and performance on search engines, driving more traffic.",
+        "Free plan offers 120 credits monthly to build up to three websites with basic features, making it accessible for beginners."
+    ],
+    "faqs": [
+        {
+            "question": "What is Wegic?",
+            "answer": "Wegic is an AI-powered website builder that creates and manages professional websites through simple conversations, requiring no coding skills."
+        },
+        {
+            "question": "Do I need coding experience to use Wegic?",
+            "answer": "No, Wegic’s no-code platform allows anyone to create and customize websites without technical expertise, using a chat-based interface."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Wegic offers a free plan with 120 credits monthly, sufficient to build and publish up to three websites with basic features."
+        },
+        {
+            "question": "How long does it take to create a website with Wegic?",
+            "answer": "Wegic can generate a fully functional, multi-page website in as little as 60 seconds through its conversational AI interface."
+        },
+        {
+            "question": "Can I customize my website’s design?",
+            "answer": "Yes, Wegic allows extensive customization of layouts, colors, fonts, and sections to match your brand or personal vision."
+        },
+        {
+            "question": "Does Wegic support multiple languages?",
+            "answer": "Yes, Wegic offers multilingual support, allowing users to communicate with the AI and create websites in various languages."
+        },
+        {
+            "question": "Can I use Wegic for e-commerce websites?",
+            "answer": "Yes, Wegic supports e-commerce by enabling integrated payment solutions and product showcase features for online stores."
+        },
+        {
+            "question": "Is Wegic suitable for beginners?",
+            "answer": "Absolutely, Wegic’s intuitive chat-based interface and AI guidance make it ideal for users with no design or coding experience."
+        },
+        {
+            "question": "How does Wegic ensure my website is mobile-friendly?",
+            "answer": "Wegic automatically generates mobile-responsive designs, ensuring your website looks and performs well on all devices."
+        },
+        {
+            "question": "What happens if I need to edit my website after publishing?",
+            "answer": "You can easily modify your website by continuing the conversation with Wegic’s AI, which supports real-time edits and updates."
+        }
+    ]
+}

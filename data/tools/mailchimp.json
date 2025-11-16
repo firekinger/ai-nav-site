@@ -1,0 +1,62 @@
+{
+    "name": "Mailchimp",
+    "description": "Mailchimp is an all-in-one marketing platform specializing in email marketing, automation, and analytics to help businesses engage customers and drive growth.",
+    "longDescription": "Mailchimp is a leading email marketing and automation platform designed to help businesses of all sizes create, send, and track email campaigns. Founded in 2001 and now owned by Intuit, it provides tools to manage customer data, design professional emails, and automate marketing workflows. The platform integrates with e-commerce, social media, and CRM systems to enhance personalization and campaign effectiveness. Mailchimp’s mission is to empower small and medium-sized businesses with accessible, user-friendly marketing solutions. Its robust analytics and AI-driven insights help users optimize campaigns for better engagement and conversions. The platform also offers website building and transactional email services for comprehensive digital marketing.",
+    "url": "https://www.mailchimp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mailchimp.com.webp",
+    "category": "AI Email Marketing",
+    "categorySlug": "ai-email-marketing",
+    "slug": "mailchimp",
+    "categories": [
+        "AI Email Marketing",
+        "AI Digital Marketing",
+        "AI CRM",
+        "AI Product Manager",
+        "AI For Data Analytics",
+        "AI Social Media"
+    ],
+    "features": [
+        "Email campaign management enables users to create and send professional emails using customizable templates and a drag-and-drop editor for enhanced engagement.",
+        "Marketing automation allows businesses to set up automated workflows, such as welcome emails and abandoned cart reminders, saving time and improving customer retention.",
+        "Advanced analytics provide detailed reports on open rates, click-through rates, and conversions to optimize campaign performance.",
+        "Audience segmentation tools help target specific customer groups based on behavior, demographics, or purchase history for personalized marketing.",
+        "E-commerce integrations with platforms like Shopify and WooCommerce sync customer data for targeted campaigns and product recommendations.",
+        "Creative Assistant uses AI to generate branded designs for emails, social posts, and landing pages, streamlining content creation.",
+        "Social media integration enables users to schedule and post content across platforms like Instagram and Facebook directly from Mailchimp.",
+        "Transactional email services allow developers to send personalized, automated emails like order confirmations using API integration."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mailchimp used for?",
+            "answer": "Mailchimp is used for email marketing, automation, and analytics, helping businesses create targeted campaigns, manage customer data, and track performance."
+        },
+        {
+            "question": "Does Mailchimp offer a free plan?",
+            "answer": "Yes, Mailchimp’s Free plan allows up to 500 contacts and 1,000 monthly email sends, but it includes limited features and Mailchimp branding."
+        },
+        {
+            "question": "Can I integrate Mailchimp with my e-commerce store?",
+            "answer": "Mailchimp integrates with platforms like Shopify, WooCommerce, and Magento to sync customer data and automate personalized campaigns."
+        },
+        {
+            "question": "What are the limitations of the Free plan?",
+            "answer": "The Free plan lacks advanced automation, A/B testing, email scheduling, and supports only one audience and 500 contacts."
+        },
+        {
+            "question": "How does Mailchimp’s pricing work?",
+            "answer": "Pricing is based on contact count and email sends, with plans like Essentials ($13/month), Standard ($20/month), and Premium ($350/month) for 500 contacts."
+        },
+        {
+            "question": "Can I schedule social media posts with Mailchimp?",
+            "answer": "Yes, Standard and Premium plans allow scheduling social media posts, but the Free plan does not support this feature."
+        },
+        {
+            "question": "Does Mailchimp support SMS marketing?",
+            "answer": "SMS marketing is available as a paid add-on in select countries for users with a paid marketing plan, requiring credit purchases."
+        },
+        {
+            "question": "How does Mailchimp’s automation work?",
+            "answer": "Automation features allow users to create workflows like welcome sequences or product follow-ups, triggered by customer actions, to save time and boost engagement."
+        }
+    ]
+}

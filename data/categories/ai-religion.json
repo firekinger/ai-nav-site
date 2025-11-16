@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Religion Tools in 2025",
+    "summary": "Discover the transformative power of AI in the realm of religion with our curated selection of tools designed to enhance spiritual exploration and community engagement. From automated sermon generation to personalized spiritual guidance, these innovative solutions address the diverse needs of faith leaders and congregants alike. Unlock new insights, foster deeper connections, and streamline religious practices with cutting-edge technology. Explore our AI Religion category today and find the perfect tools to elevate your spiritual journey and community outreach!",
+    "tools": [
+        {
+            "id": "199",
+            "name": "Hint",
+            "slug": "hint",
+            "description": "Hint is an AI-powered platform for personalized astrology insights and horoscope predictions.",
+            "icon": "/logo/hint.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-religion"
+            ]
+        },
+        {
+            "id": "453",
+            "name": "Tarotoo",
+            "slug": "tarotoo",
+            "description": "Tarotoo offers free AI-powered tarot and psychic readings to guide users in life, love, and career decisions.",
+            "icon": "/logo/tarotoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-religion"
+            ]
+        },
+        {
+            "id": "638",
+            "name": "Tarteel AI",
+            "slug": "tarteel-ai",
+            "description": "Tarteel AI is an AI-powered Quran memorization app that provides real-time recitation feedback and progress tracking for Muslims worldwide.",
+            "icon": "/logo/www.tarteel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-religion"
+            ]
+        },
+        {
+            "id": "851",
+            "name": "Magisterium AI",
+            "slug": "magisterium-ai",
+            "description": "Magisterium AI is an artificial intelligence platform that provides accurate answers to questions about the Catholic faith based on official Church teachings.",
+            "icon": "/logo/www.magisterium.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-religion"
+            ]
+        }
+    ]
+}

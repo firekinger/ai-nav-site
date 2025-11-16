@@ -1,0 +1,62 @@
+{
+    "name": "Prolific",
+    "description": "Prolific connects researchers with participants for high-quality online research and data collection.",
+    "longDescription": "Prolific is an online platform that facilitates high-quality human data collection for researchers, AI developers, and organizations. Founded in 2014 at Oxford University, it empowers academic and commercial research by connecting vetted participants with studies, surveys, and experiments. The platform emphasizes ethical recruitment, fair compensation, and diverse participant pools to ensure reliable data. It serves users by offering a self-service model for fast, scalable data collection, solving the problem of accessing representative and engaged participants. Prolific’s mission is to power world-changing research and AI development through trusted human insights. Over 35,000 researchers and organizations rely on Prolific for their data needs.",
+    "url": "https://www.prolific.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/prolific.com.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "prolific",
+    "categories": [
+        "AI Research Tool",
+        "AI Consulting",
+        "AI Research Papers",
+        "AI Project Management"
+    ],
+    "features": [
+        "Recruitment of vetted participants from diverse OECD countries ensures high-quality and representative data for research.",
+        "Self-service study setup allows researchers to design and launch surveys or experiments quickly without technical expertise.",
+        "Flexible integrations with external survey tools like Qualtrics and Google Forms streamline the research process.",
+        "Fair compensation for participants, with hourly rates of £6-12, encourages engagement and reliable responses.",
+        "Advanced targeting filters enable researchers to select participants based on demographics, behaviors, or custom criteria.",
+        "Real-time data collection provides fast results, ideal for time-sensitive research projects.",
+        "Participant management tools allow researchers to monitor responses and ensure study compliance.",
+        "Ethical recruitment practices prioritize participant privacy and consent, building trust in the platform.",
+        "Scalable participant pool of over 200,000 active users supports large-scale studies and AI data needs.",
+        "Dedicated support through help centers for researchers and participants ensures a smooth user experience."
+    ],
+    "faqs": [
+        {
+            "question": "What is Prolific used for?",
+            "answer": "Prolific connects researchers with participants for online studies, surveys, and experiments, enabling high-quality data collection for academic and commercial purposes."
+        },
+        {
+            "question": "Is Prolific free to use?",
+            "answer": "Prolific offers free account creation for researchers, but costs apply based on participant recruitment and study scale, with transparent pricing."
+        },
+        {
+            "question": "How much do participants earn on Prolific?",
+            "answer": "Participants earn £6-12 per hour for completing studies, with payments processed securely via PayPal."
+        },
+        {
+            "question": "Who can participate in Prolific studies?",
+            "answer": "Participants from most OECD countries (except Turkey, Lithuania, Colombia, and Costa Rica) can join, provided they meet study-specific criteria."
+        },
+        {
+            "question": "How does Prolific ensure data quality?",
+            "answer": "Prolific uses vetted participants, strict screening processes, and engagement monitoring to deliver reliable and high-quality data."
+        },
+        {
+            "question": "Can I integrate Prolific with other survey tools?",
+            "answer": "Yes, Prolific supports integrations with tools like Qualtrics, SurveyMonkey, and Google Forms for seamless study setup."
+        },
+        {
+            "question": "Is Prolific secure and ethical?",
+            "answer": "Prolific prioritizes participant privacy, complies with data protection laws, and ensures ethical treatment through fair pay and consent."
+        },
+        {
+            "question": "How quickly can I get results on Prolific?",
+            "answer": "Prolific’s real-time recruitment allows researchers to collect data within hours, depending on study size and targeting."
+        }
+    ]
+}

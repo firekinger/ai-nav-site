@@ -1,0 +1,62 @@
+{
+    "name": "Chattr",
+    "description": "Chattr is an AI-powered platform that streamlines frontline hiring through automation and conversational AI.",
+    "longDescription": "Chattr is an AI-driven hiring automation platform designed to simplify and accelerate the recruitment process for frontline and hourly workforce businesses, such as restaurants and retail. Founded in 2018 in Tampa, Florida, it aims to eliminate outdated hiring processes that cost businesses time and money by automating repetitive tasks like job postings, applicant screening, and interview scheduling. The platform leverages conversational AI to engage applicants instantly, providing a seamless and interactive experience that improves candidate retention and reduces time-to-hire. Chattr's mission is to make hiring the easiest part of a manager's day, freeing them to focus on team management and business growth. By integrating with existing systems like job boards and HR tools, it offers a scalable, user-friendly solution tailored to high-volume hiring needs. Its innovative approach has led to significant results, such as an 87% increase in application completion and an 88% reduction in time-to-hire for some clients.",
+    "url": "https://chattr.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chattr.ai.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "chattr-ai",
+    "categories": [
+        "AI Recruiting",
+        "AI Chat Generator",
+        "AI Workflow",
+        "AI Job Description Generator"
+    ],
+    "features": [
+        "Chattr automates job postings across hundreds of job boards, optimizing visibility and attracting more applicants.",
+        "The conversational AI assistant engages candidates 24/7, answering questions and guiding them through the application process.",
+        "Automated applicant screening uses AI to pre-qualify candidates with relevant questions, saving managers time.",
+        "The platform schedules interviews automatically, aligning candidate and manager availability for convenience.",
+        "One-click hiring allows managers to make quick hiring decisions, streamlining the recruitment process.",
+        "Chattr's mobile onboarding feature automates paperwork, background checks, and e-Verify, ensuring new hires are work-ready faster.",
+        "Analytics and reporting tools provide data-driven insights to optimize hiring strategies and improve decision-making.",
+        "Integration with existing HR systems, calendars, and video platforms ensures a seamless workflow for hiring teams.",
+        "The platform reduces time-to-hire by up to 88%, enabling businesses to fill positions quickly.",
+        "Chattr's user-friendly interface allows quick setup, with some clients deploying it across multiple locations in a single day."
+    ],
+    "faqs": [
+        {
+            "question": "What is Chattr's primary function?",
+            "answer": "Chattr automates the frontline hiring process, from job postings to onboarding, using AI to streamline recruitment and save time."
+        },
+        {
+            "question": "How does Chattr improve applicant engagement?",
+            "answer": "Chattr uses a conversational AI interface to engage applicants instantly, answering questions and guiding them through applications 24/7."
+        },
+        {
+            "question": "Can Chattr integrate with existing HR systems?",
+            "answer": "Yes, Chattr integrates with leading job boards, HR systems, calendars, and video platforms for a seamless hiring process."
+        },
+        {
+            "question": "How quickly can Chattr be implemented?",
+            "answer": "Chattr can be deployed in minutes, with some clients setting up multiple locations in a single day."
+        },
+        {
+            "question": "Does Chattr support onboarding new hires?",
+            "answer": "Yes, Chattr automates onboarding tasks like paperwork, background checks, and e-Verify to get new hires ready faster."
+        },
+        {
+            "question": "What industries benefit most from Chattr?",
+            "answer": "Chattr is designed for frontline industries like restaurants, retail, and senior living, where high-volume hiring is common."
+        },
+        {
+            "question": "How does Chattr reduce time-to-hire?",
+            "answer": "By automating screening, scheduling, and hiring tasks, Chattr can reduce time-to-hire by up to 88%, as reported by clients."
+        },
+        {
+            "question": "Is Chattr suitable for small businesses?",
+            "answer": "Yes, Chattr is tailored for small businesses, offering an intuitive, scalable solution for hourly workforce hiring."
+        }
+    ]
+}

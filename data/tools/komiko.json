@@ -1,0 +1,72 @@
+{
+    "name": "Komiko",
+    "description": "Komiko is an AI-powered platform for creating comics, manga, anime art, and animations, helping users design characters, generate images, and produce professional-grade content efficiently.",
+    "longDescription": "Komiko is an innovative AI platform designed to empower creators in visualizing and producing anime, comics, and manga content. It leverages advanced AI models to streamline the creative process, from character design to animation generation. The mission of Komiko is to make high-quality art and animation accessible to both amateurs and professionals, reducing time-consuming tasks and allowing focus on storytelling and creativity. By integrating tools like text-to-image generation and frame interpolation, it solves common problems in traditional art workflows, such as inconsistency in character appearances and manual in-betweening. Trusted by over 100,000 active creators, Komiko supports the transformation of ideas into polished comics and animations using industry-leading AI technologies.",
+    "url": "https://komiko.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/komiko.app.webp",
+    "category": "AI Anime Generator",
+    "categorySlug": "ai-anime-generator",
+    "slug": "komiko",
+    "categories": [
+        "AI Anime Generator",
+        "AI Comic Generator",
+        "AI Manga Generator",
+        "AI Animation Generator",
+        "AI Character",
+        "AI Colorize",
+        "AI Sketch Generator",
+        "Text to Image",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Consistent Character Design ensures characters maintain uniformity across comics using an extensive database and the OC Maker tool, benefiting users by simplifying multi-panel creations.",
+        "Freeform Creation on Canvas allows users to build comics, manhwa, and manga on an AI-powered infinite canvas with text-to-image generation, panel layouts, and speech bubbles for enhanced storytelling.",
+        "Keyframe to Animation Generation transforms keyframes into fluid animations using AI models like Veo and Kling, accelerating professional workflows with in-betweening and upscaling.",
+        "Line Art Colorization applies artistic colors to sketches via AI trained on millions of images, enabling users to quickly produce vibrant, high-quality colored artwork from line drawings.",
+        "Sketch Simplification uses AI to clean up sketches by removing noise while preserving key lines, resulting in professional-grade line art ready for further editing.",
+        "Animation In-betweening generates natural transitions between 2-5 keyframes based on user prompts, allowing rapid creation of smooth animations without manual frame drawing.",
+        "Frame Interpolation adds frames between existing ones to improve motion smoothness and frame rates, enhancing video quality through advanced machine learning algorithms."
+    ],
+    "faqs": [
+        {
+            "question": "Is Komiko free to use?",
+            "answer": "Yes, Komiko offers a free plan with limited zaps (credits) for testing its AI tools. Users can earn additional free zaps by completing daily tasks."
+        },
+        {
+            "question": "What can I create with Komiko?",
+            "answer": "You can create comics, manga, anime-style art, and animations using AI-powered tools for character design, image generation, and video production."
+        },
+        {
+            "question": "How does the character consistency feature work?",
+            "answer": "It uses an extensive character database and the OC Maker to ensure characters appear consistent across different panels and scenes in your comics."
+        },
+        {
+            "question": "Can I animate my keyframes on Komiko?",
+            "answer": "Yes, the keyframe to animation tool transforms your keyframes into fluid animations with AI models, including in-betweening for smooth transitions."
+        },
+        {
+            "question": "Does Komiko support line art colorization?",
+            "answer": "Absolutely, you can upload sketches and use AI to apply colors based on prompts, generating high-quality colored images quickly."
+        },
+        {
+            "question": "What AI models power Komiko?",
+            "answer": "Komiko is powered by advanced models like GPT-4o, Flux, Gemini, Kling, Hailuo AI, Vidu, Google Veo, Luma Ray, PixVerse AI, AniSora, Magi-1, and Hedra."
+        },
+        {
+            "question": "Is Komiko suitable for professional artists?",
+            "answer": "Yes, it offers professional-grade tools to speed up workflows, such as sketch simplification and frame interpolation, allowing artists to focus on creativity."
+        },
+        {
+            "question": "How do I get started with Komiko?",
+            "answer": "Sign up on the website, explore the free zaps, and use tools like the canvas for creation or OC Maker for character design."
+        },
+        {
+            "question": "Can I earn more credits without paying?",
+            "answer": "Yes, by completing daily tasks, you can earn additional zaps to use the AI features for free."
+        },
+        {
+            "question": "Does Komiko have a mobile app?",
+            "answer": "Currently, Komiko is accessible via its web platform, with no mention of a dedicated mobile app."
+        }
+    ]
+}

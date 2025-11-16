@@ -1,0 +1,82 @@
+{
+    "name": "Convex",
+    "description": "Convex is an open-source reactive database and backend platform for building real-time, full-stack web and mobile applications.",
+    "longDescription": "Convex is an open-source, reactive database and backend-as-a-service platform designed to simplify full-stack application development for web and mobile developers. Its mission is to empower developers to build fast, reliable, and dynamic apps without managing complex backend infrastructure or database administration. By integrating TypeScript-based queries, real-time updates, and serverless functions, Convex eliminates the need for developers to handle state management, WebSockets, or cache invalidation. It serves both human developers and AI-driven coding platforms, offering a seamless developer experience with strong consistency and scalability. The platform supports frameworks like React and Next.js, enabling rapid prototyping and deployment. Convex��s team, with experience from companies like Dropbox, aims to redefine how software is built on the internet.",
+    "url": "https://www.convex.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.convex.dev.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "convex",
+    "categories": [
+        "AI Developer Tools",
+        "AI Code Generator",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "TypeScript-based queries allow developers to write backend logic and database schemas in pure TypeScript, ensuring type safety and autocompletion.",
+        "Real-time updates automatically sync database changes to the frontend, eliminating the need for manual state management or WebSockets.",
+        "Serverless functions run in an isolated environment within the database, providing efficient access to data and scheduling capabilities.",
+        "Built-in authentication integrates with providers like Clerk and Auth0, simplifying user management and security.",
+        "AI coding support enables AI-driven platforms to generate accurate backend code with fewer errors, leveraging Convex��s structured APIs.",
+        "Cron jobs and scheduled tasks are natively supported, allowing developers to automate backend workflows effortlessly.",
+        "Vector search and RAG components facilitate AI-driven features like semantic search and retrieval-augmented generation.",
+        "Optional schemas provide flexibility for rapid prototyping while allowing strict enforcement for production apps.",
+        "Open-source backend enables self-hosting and local development, giving developers full control over their infrastructure.",
+        "Integration with React and React Native ensures seamless development for web and mobile applications.",
+        "Convex Dashboard offers real-time logs and data visualization, enhancing debugging and observability.",
+        "Built-in file storage simplifies managing assets without external services like S3.",
+        "Transactional queries ensure data consistency, preventing corruption even in AI-generated code scenarios.",
+        "Generous free tier allows developers to build and test applications without upfront costs.",
+        "Components library provides pre-built solutions for common backend needs, reducing development time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Convex?",
+            "answer": "Convex is an open-source reactive database and backend platform that simplifies building real-time, full-stack applications using TypeScript."
+        },
+        {
+            "question": "Is Convex free to use?",
+            "answer": "Yes, Convex offers a generous free tier for building and testing applications, with paid plans for larger-scale projects."
+        },
+        {
+            "question": "Can I use Convex for mobile apps?",
+            "answer": "Yes, Convex supports mobile app development, particularly with React Native, and plans to expand mobile support further."
+        },
+        {
+            "question": "How does Convex handle real-time updates?",
+            "answer": "Convex��s reactive database tracks query dependencies and automatically updates the frontend when data changes, without requiring WebSockets."
+        },
+        {
+            "question": "Is Convex open source?",
+            "answer": "Yes, Convex��s backend is open source, allowing developers to self-host or contribute via GitHub."
+        },
+        {
+            "question": "Does Convex support AI-driven development?",
+            "answer": "Yes, Convex is optimized for AI coding platforms, offering structured APIs and TypeScript schemas for accurate code generation."
+        },
+        {
+            "question": "How is Convex different from Supabase?",
+            "answer": "Unlike Supabase, which packages existing technologies, Convex rethinks application architecture with transactional queries and real-time sync."
+        },
+        {
+            "question": "Can Convex integrate with external services?",
+            "answer": "Yes, Convex��s action functions allow seamless integration with external APIs like OpenAI or Stripe."
+        },
+        {
+            "question": "Do I need to use TypeScript with Convex?",
+            "answer": "No, Convex supports JavaScript, Python, and Rust, but TypeScript is recommended for its type safety and developer experience."
+        },
+        {
+            "question": "What database does Convex use?",
+            "answer": "Convex uses a custom reactive database, now powered by PlanetScale for Postgres, optimized for real-time and scalability."
+        },
+        {
+            "question": "How do I get started with Convex?",
+            "answer": "Sign up with GitHub, follow the quickstart guide, and use the Convex CLI to initialize a project in minutes."
+        },
+        {
+            "question": "Is Convex suitable for production apps?",
+            "answer": "Yes, Convex is battle-tested for production, with features like auto-scaling and a robust dashboard, though self-hosting is less recommended for large-scale apps."
+        }
+    ]
+}

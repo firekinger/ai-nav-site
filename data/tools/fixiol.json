@@ -1,0 +1,72 @@
+{
+    "name": "Fixiol",
+    "description": "Fixiol is an AI-powered platform designed to assist developers in identifying and fixing code errors efficiently.",
+    "longDescription": "Fixiol is an innovative AI tool that leverages advanced machine learning algorithms to analyze and repair code issues in various programming languages. Its mission is to streamline the debugging process, reducing the time developers spend on troubleshooting and allowing them to focus on creative aspects of software development. By integrating with popular IDEs and code editors, Fixiol provides real-time suggestions and automated fixes for common errors, syntax problems, and performance bottlenecks. The platform serves users ranging from novice coders to experienced engineers, solving problems like bug detection and code optimization in a user-friendly manner. Ultimately, Fixiol aims to democratize high-quality coding assistance, making it accessible without requiring extensive expertise in AI or debugging tools.",
+    "url": "https://fixiol.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fixiol.com.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "fixiol",
+    "categories": [
+        "AI Code Assistant",
+        "AI Checker",
+        "AI Developer Tools",
+        "AI Productivity Tools",
+        "AI Code Review",
+        "AI Project Management"
+    ],
+    "features": [
+        "Automated code scanning detects syntax errors and logical bugs in real-time, saving developers hours of manual review.",
+        "Intelligent fix suggestions provide one-click solutions for common issues, enhancing coding efficiency and accuracy.",
+        "Support for multiple programming languages including Python, JavaScript, and Java ensures versatility across projects.",
+        "Integration with popular IDEs like VS Code and Cursor allows seamless workflow without switching tools.",
+        "Performance optimization recommendations analyze code for efficiency improvements, reducing runtime and resource usage.",
+        "Collaborative features enable team-based code reviews with AI-assisted insights shared among developers.",
+        "Customizable error alerts notify users of potential issues before they become critical problems.",
+        "Learning mode offers explanations for fixes, helping users improve their coding skills over time.",
+        "Version control integration tracks changes and suggests reverts for erroneous modifications.",
+        "Secure code analysis ensures that sensitive data remains protected during the debugging process."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fixiol?",
+            "answer": "Fixiol is an AI-driven platform that helps developers fix code errors and optimize their programs. It uses machine learning to provide automated suggestions and repairs."
+        },
+        {
+            "question": "Does Fixiol support my programming language?",
+            "answer": "Yes, Fixiol supports a wide range of languages including Python, JavaScript, Java, and more. Check the documentation for the full list and any upcoming additions."
+        },
+        {
+            "question": "Is there a free version of Fixiol?",
+            "answer": "Fixiol offers a free plan with limited features for individual users. Premium plans unlock advanced capabilities and unlimited usage."
+        },
+        {
+            "question": "How does Fixiol integrate with my IDE?",
+            "answer": "Fixiol provides plugins for popular IDEs like VS Code and Cursor. Simply install the extension and connect your account for seamless integration."
+        },
+        {
+            "question": "Can Fixiol handle large codebases?",
+            "answer": "Yes, Fixiol is designed to scale with project size, efficiently analyzing large codebases without significant performance drops."
+        },
+        {
+            "question": "Is my code secure when using Fixiol?",
+            "answer": "Fixiol employs robust security measures to protect your code during analysis. Data is processed locally where possible, and we adhere to strict privacy standards."
+        },
+        {
+            "question": "How accurate are Fixiol's fix suggestions?",
+            "answer": "Fixiol's suggestions are highly accurate, trained on vast datasets of code. However, users should review changes to ensure they align with project needs."
+        },
+        {
+            "question": "Can teams use Fixiol collaboratively?",
+            "answer": "Yes, team plans allow multiple users to collaborate on code reviews with shared AI insights and comments."
+        },
+        {
+            "question": "What if Fixiol suggests a wrong fix?",
+            "answer": "Users can provide feedback on suggestions to improve the AI. The platform also includes an undo feature for quick reversions."
+        },
+        {
+            "question": "Does Fixiol offer customer support?",
+            "answer": "Yes, Fixiol provides email support and a community forum for users. Premium subscribers get priority assistance."
+        }
+    ]
+}

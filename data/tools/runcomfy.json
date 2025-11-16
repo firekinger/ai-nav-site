@@ -1,0 +1,72 @@
+{
+    "name": "RunComfy",
+    "description": "RunComfy is a cloud-based platform that simplifies ComfyUI workflows for AI-driven image and video creation using high-speed GPUs.",
+    "longDescription": "RunComfy is a premier cloud-based platform designed to streamline the use of ComfyUI, a powerful node-based GUI for Stable Diffusion and other AI models. It eliminates the need for complex technical setups, allowing artists and creators to focus on generating high-quality images and videos. By providing a fully configured ComfyUI environment, RunComfy ensures seamless transitions between local and cloud workflows. The platform supports a wide range of models, including SDXL, Flux.1, and AnimateDiff, catering to both beginners and advanced users. Its mission is to empower AI art creation by offering accessible, high-performance tools and reproducible workflows. RunComfy also fosters collaboration through shareable workflow links and provides robust technical support via Discord.",
+    "url": "https://www.runcomfy.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.runcomfy.com.webp",
+    "category": "AI Art Generator",
+    "categorySlug": "ai-art-generator",
+    "slug": "runcomfy",
+    "categories": [
+        "AI Art Generator",
+        "AI Image Generator",
+        "AI Workflow",
+        "AI Video Generator",
+        "AI 3D Model Generator",
+        "AI Course"
+    ],
+    "features": [
+        "Automated Workflow Setup instantly configures a full ComfyUI environment in the cloud, eliminating manual setup and reducing errors.",
+        "Cloud Save Feature creates reproducible snapshots of workflows, including custom nodes, models, and OS settings, for easy sharing and reuse.",
+        "High-Speed GPU Options range from 16GB to 80GB VRAM, enabling fast processing for complex AI models and large-scale projects.",
+        "Seamless Model Integration allows users to download models from Civitai, Hugging Face, and Google Drive up to 25x faster than local uploads.",
+        "Custom Node Management through ComfyUI-Manager enables easy installation and customization of nodes for tailored creative workflows.",
+        "Ready-to-Use Workflows provide over 100 curated ComfyUI workflows for tasks like text-to-video and image generation, updated daily.",
+        "Private Machine Instances ensure secure, dedicated environments for each user session, with private storage for models and files.",
+        "Collaborative Environment supports AI educators with cloud saving, flexible GPU options, and tools for teaching ComfyUI in workshops.",
+        "Instant Preview Feedback allows dynamic adjustments to prompts and settings, streamlining the creative process and minimizing trial and error.",
+        "Non-Destructive Workflows enable users to backtrack and tweak projects without restarting, boosting efficiency and creative exploration."
+    ],
+    "faqs": [
+        {
+            "question": "What is RunComfy?",
+            "answer": "RunComfy is a cloud-based platform that automates ComfyUI workflow setup for AI-driven image and video creation, eliminating technical configuration hassles."
+        },
+        {
+            "question": "Does RunComfy offer a free plan?",
+            "answer": "Yes, RunComfy provides a free plan with limited access to ComfyUI workflows on a public server, with no credit card required."
+        },
+        {
+            "question": "Can I upload my own models or LoRAs?",
+            "answer": "Yes, users can securely upload models and LoRAs, stored in private storage accessible across sessions without needing to re-upload."
+        },
+        {
+            "question": "How does RunComfy ensure workflow reproducibility?",
+            "answer": "RunComfy’s Cloud Save feature creates snapshots of workflows, including JSON, OS, Python environment, custom nodes, and models, shareable via links."
+        },
+        {
+            "question": "What kind of GPU options are available?",
+            "answer": "RunComfy offers on-demand GPU machines with VRAM ranging from 16GB to 80GB, suitable for various model sizes and complexities."
+        },
+        {
+            "question": "Can I install custom nodes on RunComfy?",
+            "answer": "Yes, users can easily install and manage custom nodes using the integrated ComfyUI-Manager for a tailored experience."
+        },
+        {
+            "question": "Is technical support available for RunComfy users?",
+            "answer": "RunComfy provides technical support via Discord and email at hi@runcomfy.com, with additional resources in their Ultimate Guide to ComfyUI."
+        },
+        {
+            "question": "What types of workflows does RunComfy support?",
+            "answer": "RunComfy supports over 100 curated workflows for tasks like video-to-video, text-to-video, image generation, upscaling, and 3D modeling."
+        },
+        {
+            "question": "Can I share my workflows with others?",
+            "answer": "Yes, workflows can be shared via simple links, allowing others to access your exact creative setup instantly."
+        },
+        {
+            "question": "Is RunComfy suitable for AI art education?",
+            "answer": "RunComfy supports AI educators with a collaborative, high-performance environment ideal for classes, workshops, and tutorials."
+        }
+    ]
+}

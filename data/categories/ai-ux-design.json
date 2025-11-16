@@ -1,0 +1,138 @@
+{
+    "title": "The Best 12 AI UX Design Tools in 2025",
+    "summary": "Discover the transformative power of AI UX Design tools, where cutting-edge technology meets user-centric design. This category features innovative solutions that streamline the design process, enhance user experiences, and optimize interfaces with data-driven insights. Whether you're a designer seeking inspiration or a business aiming to elevate your digital presence, these tools simplify complex tasks and foster creativity. Explore our curated selection of AI UX Design tools today and unlock the potential to create intuitive, engaging user experiences that resonate with your audience!",
+    "tools": [
+        {
+            "id": "158",
+            "name": "Framer",
+            "slug": "framer",
+            "description": "Framer is a web design and prototyping tool for creating interactive, visually stunning websites and applications.",
+            "icon": "/logo/www.framer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Stitch",
+            "slug": "stitch",
+            "description": "Stitch is an AI-powered tool by Google Labs that generates UI designs and frontend code for web and mobile applications from text or image prompts.",
+            "icon": "/logo/stitch.withgoogle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "311",
+            "name": "ImagePrompt.org",
+            "slug": "imageprompt-org",
+            "description": "ImagePrompt.org is an AI-powered platform for creating and transforming image prompts to generate stunning AI art.",
+            "icon": "/logo/imageprompt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "366",
+            "name": "Flowith",
+            "slug": "flowith",
+            "description": "Flowith is an AI-powered creation workspace designed to enhance productivity and streamline complex tasks through an intuitive canvas-based interface.",
+            "icon": "/logo/flowith.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "381",
+            "name": "AutoDraw",
+            "slug": "autodraw",
+            "description": "AutoDraw is a web-based tool that uses AI to transform rough sketches into polished illustrations, making drawing accessible to everyone.",
+            "icon": "/logo/autodraw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "644",
+            "name": "Dora",
+            "slug": "dora",
+            "description": "Dora is an AI-powered no-code platform for designing and publishing stunning 3D animated websites.",
+            "icon": "/logo/www.dora.run.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "1083",
+            "name": "Codia AI",
+            "slug": "codia-ai",
+            "description": "Codia AI is an innovative platform that uses artificial intelligence to convert screenshots and designs into editable code for various frameworks, streamlining the development process for designers and developers.",
+            "icon": "/logo/codia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "1191",
+            "name": "Plerdy",
+            "slug": "plerdy",
+            "description": "Plerdy is a SaaS platform offering tools for website optimization, user behavior analysis, SEO enhancement, and conversion rate improvement to boost online performance.",
+            "icon": "/logo/www.plerdy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "1428",
+            "name": "ZINQ AI",
+            "slug": "zinq-ai",
+            "description": "ZINQ AI is a platform for creating engaging, AI-powered forms that facilitate conversational data collection and boost user interaction rates.",
+            "icon": "/logo/zinq.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Dribbble",
+            "slug": "dribbble",
+            "description": "Dribbble is a community platform for designers to showcase their work, connect with peers, and find job opportunities.",
+            "icon": "/logo/dribbble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ux-design"
+            ]
+        }
+    ]
+}

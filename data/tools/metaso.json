@@ -1,0 +1,57 @@
+{
+    "name": "Metaso",
+    "description": "Metaso.cn is a multilingual AI-powered search engine focused on AI and cosmology research.",
+    "longDescription": "Metaso.cn is an advanced, ad-free search engine designed to facilitate in-depth research in artificial intelligence and cosmology. Its mission is to provide researchers, professionals, and enthusiasts with access to relevant, high-quality information through an intuitive and multilingual platform. By leveraging AI-driven algorithms, Metaso optimizes search results for accuracy and depth, addressing the needs of users seeking specialized knowledge. The platform supports multiple languages, including Chinese, making it accessible to a global audience. It aims to bridge language barriers and enhance collaboration in complex scientific fields. Metaso serves as a valuable tool for both academic and casual users interested in staying updated on cutting-edge trends.",
+    "url": "https://www.metaso.cn/?utm_source=ainavdir",
+    "screenshot": "/screenshot/metaso.cn.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "metaso",
+    "categories": [
+        "AI Research Tool",
+        "AI Translate",
+        "AI Productivity Tools",
+        "AI Research Papers",
+        "AI Knowledge Base"
+    ],
+    "features": [
+        "Ad-free search delivers clean, distraction-free results for focused research.",
+        "Multilingual support enables users to search in languages like Chinese and English, broadening accessibility.",
+        "Advanced AI algorithms optimize search results for relevance and depth in AI and cosmology topics.",
+        "Intuitive interface simplifies navigation, making research accessible to all user levels.",
+        "Workflow options allow structured searches, enhancing efficiency for complex queries.",
+        "Literature search includes access to Chinese and English academic resources for comprehensive insights.",
+        "Image and video search capabilities provide multimedia results for enriched exploration.",
+        "Podcast search feature aggregates relevant audio content for on-the-go learning."
+    ],
+    "faqs": [
+        {
+            "question": "What is Metaso.cn used for?",
+            "answer": "Metaso.cn is a specialized search engine for researching AI and cosmology, offering ad-free, multilingual results tailored to academic and professional needs."
+        },
+        {
+            "question": "Is Metaso.cn free to use?",
+            "answer": "Yes, Metaso.cn offers free access to its core search features, including web, literature, and multimedia searches."
+        },
+        {
+            "question": "Does Metaso.cn support non-English searches?",
+            "answer": "Yes, it supports multiple languages, including Chinese, making it accessible to non-English speakers."
+        },
+        {
+            "question": "How does Metaso.cn differ from Google?",
+            "answer": "Metaso.cn focuses on AI and cosmology, provides ad-free results, and uses AI-driven algorithms for specialized, in-depth searches."
+        },
+        {
+            "question": "Can I use Metaso.cn for academic research?",
+            "answer": "Absolutely, its literature search feature and optimized results make it ideal for academic research in AI and cosmology."
+        },
+        {
+            "question": "Is my data safe on Metaso.cn?",
+            "answer": "Users should review Metaso.cn’s privacy policy to understand data handling, as specific details on security practices are limited."
+        },
+        {
+            "question": "Does Metaso.cn offer customization options?",
+            "answer": "Currently, Metaso.cn has limited customization, which may not suit users seeking highly personalized search experiences."
+        }
+    ]
+}

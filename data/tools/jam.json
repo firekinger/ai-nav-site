@@ -1,0 +1,69 @@
+{
+    "name": "Jam",
+    "description": "Jam is a browser extension that streamlines bug reporting by capturing technical details and replays for developers.",
+    "longDescription": "Jam is a browser-based tool designed to simplify and accelerate bug reporting for software development teams. Its mission is to eliminate the friction between QA, support, and engineering teams by providing developer-ready bug reports with minimal effort. By integrating with developer tools, Jam auto-captures console logs, network errors, and user actions, enabling faster debugging and resolution. The platform serves startups to Fortune 100 companies, empowering non-technical users to contribute to quality assurance. With AI-driven features, Jam reduces manual work in bug reproduction, saving significant time in the development lifecycle. It supports integrations with tools like Jira, GitHub, and Slack to fit seamlessly into existing workflows.",
+    "url": "https://jam.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/jam.dev.webp",
+    "category": "AI Report Writing",
+    "categorySlug": "ai-report-writing",
+    "slug": "jam",
+    "categories": [
+        "AI Report Writing",
+        "AI Developer Tools",
+        "AI Workflow",
+        "AI Project Management",
+        "AI Testing",
+        "Log Management",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Jam auto-captures console logs, network errors, and device info to create developer-ready bug reports in seconds.",
+        "The instant replay feature records the last 30 seconds of user actions to help developers reproduce bugs effortlessly.",
+        "AI-generated titles, descriptions, and repro steps streamline bug report creation for faster resolution.",
+        "Jam integrates with Jira, GitHub, Linear, and Slack to automate workflows and reduce manual data entry.",
+        "The browser extension supports Chromium-based browsers like Chrome, Edge, and Brave for broad compatibility.",
+        "Jam for Incognito allows bug reporting in private browsing modes without compromising security.",
+        "The Team Workspace feature enables sharing of bug reports, screenshots, and videos for collaborative debugging.",
+        "AES-256 encryption and SOC 2 Type II compliance ensure data security for enterprise users.",
+        "Jam for iOS provides mobile screen recording tailored for bug reporting on mobile devices.",
+        "The blur tool allows users to obscure sensitive information in bug reports for enhanced privacy."
+    ],
+    "faqs": [
+        {
+            "question": "What is Jam used for?",
+            "answer": "Jam is a browser extension that simplifies bug reporting by capturing technical logs, replays, and user actions to create developer-ready reports."
+        },
+        {
+            "question": "Is Jam free to use?",
+            "answer": "Yes, Jam offers a free plan with core bug reporting features, though some advanced features may require a paid subscription."
+        },
+        {
+            "question": "Which browsers does Jam support?",
+            "answer": "Jam supports Chromium-based browsers like Chrome, Edge, Arc, Brave, and Opera, but not Firefox or Safari."
+        },
+        {
+            "question": "Can Jam be used offline?",
+            "answer": "Jam has reduced functionality offline, as many features require an active internet connection."
+        },
+        {
+            "question": "How does Jam integrate with other tools?",
+            "answer": "Jam integrates with Jira, GitHub, Linear, Notion, and Slack to send bug reports directly to your team's workflows."
+        },
+        {
+            "question": "Does Jam support mobile bug reporting?",
+            "answer": "Yes, Jam for iOS offers screen recording for bug reporting on mobile devices."
+        },
+        {
+            "question": "How secure is Jam for enterprise use?",
+            "answer": "Jam uses AES-256 encryption and is SOC 2 Type II compliant, ensuring data security for enterprise users."
+        },
+        {
+            "question": "What is the instant replay feature?",
+            "answer": "Instant replay records the last 30 seconds of user actions, allowing developers to see exactly what led to a bug."
+        },
+        {
+            "question": "Can non-technical users use Jam?",
+            "answer": "Yes, Jam is designed for anyone to create detailed bug reports without technical expertise."
+        }
+    ]
+}

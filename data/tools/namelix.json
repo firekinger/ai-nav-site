@@ -1,0 +1,61 @@
+{
+    "name": "Namelix",
+    "description": "Namelix is an AI-powered tool that generates unique, brandable business names and logos based on user-provided keywords.",
+    "longDescription": "Namelix is an innovative AI-driven platform designed to help entrepreneurs and businesses create short, memorable, and brandable business names. Using advanced generative AI and machine learning, it analyzes user-input keywords to produce creative name suggestions tailored to specific industries or niches. The platform also checks domain availability, ensuring names are practical for online use, and offers logo design integration for a cohesive brand identity. By learning from user preferences through saved names, Namelix refines its recommendations over time, making it an efficient tool for startups and small businesses. It addresses the challenge of finding affordable, impactful names in a market where short domains are costly and generic names lack distinction. The user-friendly interface makes it accessible to both novice and experienced entrepreneurs seeking to establish a strong brand presence.",
+    "url": "https://namelix.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/namelix.com.webp",
+    "category": "AI Business Name Generator",
+    "categorySlug": "ai-business-name-generator",
+    "slug": "namelix",
+    "categories": [
+        "AI Business Name Generator",
+        "AI Product Manager",
+        "AI Logo Generator",
+        "AI Marketing",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Generates short, catchy business names using AI, tailored to user keywords for brand relevance.",
+        "Checks domain availability instantly, ensuring names are viable for online use.",
+        "Offers logo design integration through Brandmark, providing a visual brand identity.",
+        "Adapts to user preferences by learning from saved names, improving suggestions over time.",
+        "Allows filtering by name length, style, or domain extension for personalized results.",
+        "Supports up to five keyword inputs to generate hundreds of relevant name options.",
+        "Provides a compare feature to evaluate names based on length, pronounceability, and domain availability.",
+        "Delivers industry-specific name suggestions to align with the user’s business niche."
+    ],
+    "faqs": [
+        {
+            "question": "What is Namelix used for?",
+            "answer": "Namelix uses AI to generate unique, brandable business names and logos based on user-provided keywords, helping entrepreneurs establish a strong brand identity."
+        },
+        {
+            "question": "Is Namelix free to use?",
+            "answer": "Yes, Namelix offers a free plan for generating business names, with premium features like logo design available for a fee."
+        },
+        {
+            "question": "Can Namelix check domain availability?",
+            "answer": "Yes, Namelix automatically checks domain availability for generated names, focusing on common extensions like .com."
+        },
+        {
+            "question": "How does Namelix improve its name suggestions?",
+            "answer": "Namelix’s algorithm learns from names users save or like, refining future recommendations to better match their preferences."
+        },
+        {
+            "question": "Does Namelix offer logo design services?",
+            "answer": "Yes, Namelix integrates with Brandmark to provide logo design options, with premium packages starting at $49."
+        },
+        {
+            "question": "Can I filter names by specific criteria?",
+            "answer": "Yes, users can filter names by length, style, keywords, or domain extensions to suit their branding needs."
+        },
+        {
+            "question": "Does Namelix guarantee unique names?",
+            "answer": "Namelix generates unique names but does not guarantee trademark availability, so users should conduct a trademark search."
+        },
+        {
+            "question": "What industries does Namelix support?",
+            "answer": "Namelix supports various industries like tech, fashion, and health by tailoring names to user-specified keywords and niches."
+        }
+    ]
+}

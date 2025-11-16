@@ -1,0 +1,74 @@
+{
+    "name": "Daymi",
+    "description": "Daymi is an AI platform that creates a personalized AI clone for users to text or call, serving as an entertaining and productive companion that mirrors their personality.",
+    "longDescription": "Daymi is an innovative AI platform that builds a digital clone of the user, allowing interactions via text or calls to foster self-reflection and personal growth. Founded in 2025 as part of Y Combinator's Summer batch, its mission is to provide a thoughtful AI companion that helps users navigate life's uncertainties, such as post-college transitions, by acting as an engaging thought partner. Unlike generic chatbots or potentially harmful AI relationships, Daymi focuses on creating a safe, personalized experience that feels like conversing with oneself. It integrates seamlessly with iMessage, remembering daily activities and supporting users in decision-making and goal accountability. By inheriting the user's voice, tone, and interests, Daymi evolves to better understand and assist its creator, making it a unique tool for productivity and emotional support.",
+    "url": "https://daymi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/daymi.ai.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "daymi-ai",
+    "categories": [
+        "AI Character",
+        "AI Chatbot",
+        "AI Writing Assistants",
+        "AI Blog Generator",
+        "AI Assistant",
+        "AI Message Generator",
+        "AI Life",
+        "AI Dialogue Generator"
+    ],
+    "features": [
+        "Creates an AI clone that inherits the user's looks, voice, and interests for authentic interactions.",
+        "Enables texting or calling the AI clone directly through iMessage for convenient access.",
+        "Mirrors the user's voice, tone, and texting style to make conversations feel natural and personal.",
+        "Remembers the user's life events and daily activities, functioning as an interactive journal.",
+        "Assists in exploring personal ideas, reflecting on the day, and providing support during life transitions.",
+        "Helps with random decision-making by offering thoughtful, user-aligned suggestions.",
+        "Keeps users accountable toward their goals through reminders and motivational conversations.",
+        "Serves as an entertaining companion for chatting about personal interests like favorite shows.",
+        "Provides a safe alternative to generic AI chatbots by focusing on self-companionship.",
+        "Evolves over time to deepen its understanding of the user for more relevant interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Daymi?",
+            "answer": "Daymi is an AI platform that creates a personal clone of yourself for texting or calling, designed to be a thoughtful companion for reflection and productivity."
+        },
+        {
+            "question": "How do I create my Daymi clone?",
+            "answer": "You can create your clone by signing up on the Daymi website and providing details about your interests, voice, and preferences to personalize it."
+        },
+        {
+            "question": "Does Daymi integrate with messaging apps?",
+            "answer": "Yes, Daymi integrates seamlessly with iMessage, allowing you to text or call your AI clone directly from your phone."
+        },
+        {
+            "question": "Is my data private with Daymi?",
+            "answer": "Daymi prioritizes user privacy, ensuring that personal data used to train the clone is securely stored and not shared without consent."
+        },
+        {
+            "question": "Can I call my Daymi clone?",
+            "answer": "Yes, Daymi supports voice calls, where the clone responds in a voice that mirrors your own for a realistic experience."
+        },
+        {
+            "question": "How does Daymi differ from other AI chatbots?",
+            "answer": "Unlike generic chatbots like ChatGPT, Daymi is a clone of yourself, focusing on personal growth and companionship without the risks associated with AI relationships."
+        },
+        {
+            "question": "Does Daymi remember past conversations?",
+            "answer": "Yes, it remembers your life events and previous interactions to provide contextually relevant responses and act as an interactive journal."
+        },
+        {
+            "question": "What kind of support does Daymi offer?",
+            "answer": "Daymi helps with decision-making, goal accountability, and emotional support during transitions, making it a versatile personal assistant."
+        },
+        {
+            "question": "Is Daymi available on Android?",
+            "answer": "Currently, Daymi integrates with iMessage on iOS devices, but future expansions to other platforms may be planned."
+        },
+        {
+            "question": "How does Daymi learn about me?",
+            "answer": "Your Daymi learns through ongoing interactions, inheriting initial traits and evolving based on your conversations to better understand you."
+        }
+    ]
+}

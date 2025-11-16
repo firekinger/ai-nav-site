@@ -1,0 +1,69 @@
+{
+    "name": "Origin",
+    "description": "Origin is a financial wellness platform that provides employees with AI-powered tools and personalized guidance to manage their finances effectively.",
+    "longDescription": "Origin is a comprehensive financial wellness platform designed to help companies offer robust financial benefits to their employees, focusing on improving financial health and reducing stress. Its mission is to make financial planning accessible and personalized, using AI to deliver tailored advice and resources that address individual needs. The platform solves common problems like debt management, emergency savings, and retirement planning by integrating tools, coaching, and financial products in one place. It serves users by providing actionable insights and support, empowering employees to achieve financial stability and confidence. Through employer-sponsored programs, Origin bridges the gap between workplace benefits and personal finance, fostering a more productive and satisfied workforce. Overall, it transforms how people interact with their money, making complex financial decisions simpler and more intuitive.",
+    "url": "https://www.useorigin.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.useorigin.com.webp",
+    "category": "AI For Finance",
+    "categorySlug": "ai-for-finance",
+    "slug": "origin",
+    "categories": [
+        "AI For Finance",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "AI-powered personalized financial plans that analyze user data to create customized strategies for saving, investing, and debt reduction.",
+        "Access to certified financial planners for one-on-one coaching sessions to address specific financial goals and challenges.",
+        "Integrated budgeting tools that track expenses, set goals, and provide real-time insights to improve spending habits.",
+        "Emergency savings accounts with high-yield options to help users build financial security quickly and easily.",
+        "Debt management resources including loan options and repayment planners to reduce financial burdens efficiently.",
+        "Investment guidance features that recommend portfolios based on risk tolerance and long-term objectives.",
+        "Educational content library with articles, videos, and webinars to enhance financial literacy.",
+        "Seamless integration with payroll systems for automated contributions to savings or retirement accounts.",
+        "Mobile app for on-the-go access to financial dashboards, alerts, and progress tracking.",
+        "Customizable employee benefits portal for companies to tailor offerings to their workforce needs.",
+        "Data-driven insights and reports for employers to measure the impact of financial wellness programs on employee satisfaction."
+    ],
+    "faqs": [
+        {
+            "question": "What is Origin?",
+            "answer": "Origin is a financial wellness platform that helps companies provide their employees with tools, coaching, and resources for better money management. It uses AI to personalize financial advice and plans."
+        },
+        {
+            "question": "How does Origin use AI?",
+            "answer": "Origin employs AI to analyze users' financial data and generate tailored plans for budgeting, saving, and investing. This ensures recommendations are relevant and effective for individual circumstances."
+        },
+        {
+            "question": "Is Origin free for employees?",
+            "answer": "Origin is provided as a benefit by employers, so it's free for employees to use through their company's program. However, companies pay for the platform subscription."
+        },
+        {
+            "question": "What kind of financial tools does Origin offer?",
+            "answer": "Origin offers budgeting trackers, savings accounts, debt management tools, investment advice, and access to financial coaches. All are integrated into a user-friendly dashboard."
+        },
+        {
+            "question": "Can individuals sign up for Origin without an employer?",
+            "answer": "Currently, Origin is designed for employer-sponsored programs, so individuals cannot sign up independently. It's aimed at enhancing workplace benefits."
+        },
+        {
+            "question": "How secure is my data on Origin?",
+            "answer": "Origin uses bank-level encryption and complies with industry standards to protect user data. They prioritize privacy and security in all financial transactions and advice."
+        },
+        {
+            "question": "What benefits do employers get from using Origin?",
+            "answer": "Employers gain insights into workforce financial health, which can improve retention and productivity. The platform also provides customizable reports and easy integration with HR systems."
+        },
+        {
+            "question": "Does Origin provide investment advice?",
+            "answer": "Yes, Origin offers AI-driven investment recommendations and access to advisors for personalized portfolio strategies. It's not a brokerage but guides users toward better decisions."
+        },
+        {
+            "question": "How does Origin help with debt?",
+            "answer": "Origin provides tools to track debt, create repayment plans, and access low-interest loans. AI helps prioritize payments for faster debt reduction."
+        },
+        {
+            "question": "Is there a mobile app for Origin?",
+            "answer": "Yes, Origin has a mobile app that allows users to manage finances, view plans, and get alerts on the go. It's available for iOS and Android."
+        }
+    ]
+}

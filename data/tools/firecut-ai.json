@@ -1,0 +1,73 @@
+{
+    "name": "Firecut",
+    "description": "Firecut is an AI-powered plugin for Adobe Premiere Pro that automates tedious video editing tasks to accelerate content creation for video professionals and creators.",
+    "longDescription": "Firecut is an innovative AI plugin designed specifically for Adobe Premiere Pro, aiming to revolutionize video editing by automating repetitive and time-consuming tasks. Its mission is to empower creators, YouTubers, podcasters, and filmmakers to produce high-quality videos faster, reducing editing time from hours to minutes. By leveraging advanced AI algorithms, Firecut analyzes footage to detect and remove silences, generate chapters, and apply intelligent cuts, solving the common problem of manual editing drudgery. It serves users by integrating seamlessly into their existing workflow, enhancing productivity without requiring a steep learning curve. Ultimately, Firecut helps users focus on creative aspects rather than technical tedium, making professional-grade editing accessible and efficient.",
+    "url": "https://firecut.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/firecut.ai.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "firecut-ai",
+    "categories": [
+        "AI Video Editor",
+        "AI Book Writing",
+        "AI Caption Generator",
+        "AI Noise Cancellation",
+        "AI Writing",
+        "AI Podcast Editing"
+    ],
+    "features": [
+        "Silence Remover automatically detects and cuts out awkward pauses in footage, streamlining the editing process and saving hours of manual work.",
+        "Chapter Generator uses AI to identify key moments and create timestamped chapters, making videos more navigable for viewers on platforms like YouTube.",
+        "Multi-track Editor handles complex projects with multiple audio and video tracks, intelligently syncing and editing them for cohesive results.",
+        "Smart Zoom feature dynamically zooms in on the speaker's face during dialogues, enhancing viewer engagement without manual keyframing.",
+        "B-roll Integration suggests and inserts relevant stock footage or clips to fill gaps, enriching the narrative flow of videos.",
+        "Noise Reduction applies AI-powered audio enhancements to clean up background noise, improving overall sound quality.",
+        "Caption Generator automatically creates accurate subtitles and captions, boosting accessibility and SEO for video content.",
+        "Sequence Optimizer analyzes the entire timeline to suggest optimal cuts and transitions for a polished final edit.",
+        "Batch Processing allows users to apply edits to multiple clips or projects simultaneously, ideal for high-volume content creators.",
+        "Custom Presets enable saving and reusing personalized editing styles, ensuring consistency across videos.",
+        "Real-time Preview provides instant feedback on AI-suggested edits, allowing quick adjustments before finalizing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Firecut AI?",
+            "answer": "Firecut AI is a plugin for Adobe Premiere Pro that uses artificial intelligence to automate video editing tasks like removing silences and generating chapters. It helps users edit videos faster and more efficiently."
+        },
+        {
+            "question": "Does Firecut offer a free trial?",
+            "answer": "Yes, Firecut provides a free trial that allows users to test its core features with limited usage. This helps potential customers evaluate the plugin before committing to a paid plan."
+        },
+        {
+            "question": "Is Firecut compatible with other editing software?",
+            "answer": "Currently, Firecut is designed specifically as a plugin for Adobe Premiere Pro. It does not support other editing software like Final Cut Pro or DaVinci Resolve at this time."
+        },
+        {
+            "question": "How does the Silence Remover work?",
+            "answer": "The Silence Remover analyzes audio tracks to detect periods of silence and automatically cuts them out. Users can adjust sensitivity settings to fine-tune what qualifies as silence, ensuring precise edits."
+        },
+        {
+            "question": "Can Firecut handle multi-language videos?",
+            "answer": "Yes, Firecut supports multiple languages for features like caption generation and chapter creation. Its AI is trained on diverse datasets to handle various accents and dialects effectively."
+        },
+        {
+            "question": "What are the system requirements for Firecut?",
+            "answer": "Firecut requires Adobe Premiere Pro CC 2019 or later, running on Windows 10/11 or macOS 10.15+. A stable internet connection is needed for AI processing, and a GPU is recommended for optimal performance."
+        },
+        {
+            "question": "How secure is my footage when using Firecut?",
+            "answer": "Firecut processes footage securely with encryption and does not store your files permanently on their servers. All data is handled in compliance with privacy standards to protect user content."
+        },
+        {
+            "question": "Can I use Firecut for podcast editing?",
+            "answer": "Absolutely, Firecut's audio-focused features like silence removal and chapter generation make it ideal for editing podcasts imported into Premiere Pro. It streamlines audio cleanup and segmentation efficiently."
+        },
+        {
+            "question": "What pricing plans does Firecut offer?",
+            "answer": "Firecut has subscription plans starting from a basic tier for individuals to advanced options for teams, with pricing based on usage and features. Details are available on their website, including annual discounts."
+        },
+        {
+            "question": "Does Firecut integrate with stock footage libraries?",
+            "answer": "Yes, Firecut can suggest and integrate B-roll from connected stock libraries, helping users enhance their videos without leaving the editing environment."
+        }
+    ]
+}

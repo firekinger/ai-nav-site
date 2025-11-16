@@ -1,0 +1,70 @@
+{
+    "name": "YouLearn",
+    "description": "YouLearn is an AI-powered platform that transforms educational content into personalized study tools like notes, quizzes, and AI tutoring.",
+    "longDescription": "YouLearn is an AI-driven educational platform designed to enhance learning by transforming uploaded content, such as PDFs, YouTube videos, and slides, into concise notes, personalized quizzes, and interactive AI tutoring sessions. Founded in 2023 by Achyut Krishna Byanjankar, Soami Kapadia, and David Yu, it aims to democratize high-quality education for students, educators, and professionals worldwide. The platform addresses the challenges of dense textbooks and lengthy lectures by providing clear summaries, targeted practice tests, and real-time AI assistance to deepen understanding. By streamlining study processes, YouLearn helps users save time, improve retention, and achieve academic success. Its user-centric design, built by recent college students, ensures it meets the practical needs of modern learners. With over 150,000 monthly active users, YouLearn is rapidly growing as a go-to tool for personalized education.",
+    "url": "https://www.youlearn.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.youlearn.ai.webp",
+    "category": "AI Tutorial",
+    "categorySlug": "ai-tutorial",
+    "slug": "youlearn",
+    "categories": [
+        "AI Tutorial",
+        "AI Summarizer",
+        "AI Quiz Generator",
+        "AI Homework Helper",
+        "AI Notes Generator",
+        "AI Language Learning",
+        "AI Flashcard Maker",
+        "AI For Data Analytics",
+        "AI Knowledge Management",
+        "AI Chatbot"
+    ],
+    "features": [
+        "Upload content like PDFs, YouTube videos, or slides to generate instant summaries and key insights for efficient learning.",
+        "Engage in one-on-one AI tutor chats to clarify complex concepts and receive tailored explanations.",
+        "Create personalized quizzes from uploaded materials to test knowledge and identify weak areas.",
+        "Generate concise, auto-organized notes from lectures or texts to streamline study sessions.",
+        "Track learning progress with detailed feedback and pinpoint specific content areas for review.",
+        "Use the Chrome extension to add YouTube videos or public PDFs to YouLearn with one click.",
+        "Organize multiple learning resources in dedicated spaces for structured study management.",
+        "Access flashcards and mind maps automatically created from uploaded content to aid memorization.",
+        "Leverage the 'Sources Included' feature to verify the origin of AI-generated information for credible learning.",
+        "Participate in interactive simulations and gamified modules to reinforce understanding.",
+        "Use voice mode to interact with the AI tutor for hands-free learning and guidance.",
+        "Create practice exams with full answer breakdowns to prepare effectively for assessments."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can I upload to YouLearn?",
+            "answer": "You can upload PDFs, YouTube videos, slides, and recorded lectures, which the AI analyzes to create study tools."
+        },
+        {
+            "question": "Is there a free plan available on YouLearn?",
+            "answer": "Yes, YouLearn offers a free plan with limited access, including one content link, one PDF upload (up to 20 MB), and three AI messages daily."
+        },
+        {
+            "question": "How does the AI tutor work?",
+            "answer": "The AI tutor engages in conversational chats, answering questions, explaining concepts, and providing guidance based on your uploaded materials."
+        },
+        {
+            "question": "Can I use YouLearn for exam preparation?",
+            "answer": "Yes, YouLearn generates personalized quizzes and practice exams with detailed answer breakdowns to help you prepare effectively."
+        },
+        {
+            "question": "Is YouLearn suitable for professionals?",
+            "answer": "Absolutely, professionals can use YouLearn to summarize industry reports, research papers, or training materials for efficient learning."
+        },
+        {
+            "question": "Does YouLearn support mobile devices?",
+            "answer": "Yes, YouLearn is available on both Android and iOS platforms for convenient access."
+        },
+        {
+            "question": "How does the 'Sources Included' feature work?",
+            "answer": "It indicates the origin of AI-generated information, enhancing trust and credibility in the study materials provided."
+        },
+        {
+            "question": "Can teachers use YouLearn to create quizzes?",
+            "answer": "Yes, teachers can upload content and generate custom quizzes tailored to their students’ needs."
+        }
+    ]
+}

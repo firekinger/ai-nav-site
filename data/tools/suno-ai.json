@@ -1,0 +1,73 @@
+{
+    "name": "Suno",
+    "description": "Suno is an AI-powered platform that enables users to generate original music and songs from text prompts.",
+    "longDescription": "Suno is an innovative AI music creation tool that democratizes music production by allowing anyone to generate full songs, including lyrics, vocals, and instrumentals, using simple text descriptions. Its mission is to make music creation accessible to non-musicians and professionals alike, breaking down barriers in the creative process. The platform leverages advanced AI models to interpret user prompts and produce high-quality audio tracks in various genres and styles. It serves users by solving the problem of needing musical skills or equipment to create songs, enabling quick ideation for artists, content creators, and hobbyists. Suno also fosters a community where users can share and collaborate on AI-generated music.",
+    "url": "https://sunoai.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sunoai.ai.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "suno-ai",
+    "categories": [
+        "AI Music Generator",
+        "AI Song Generator",
+        "AI Speech Synthesis",
+        "AI Lyrics Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Prompt Generator"
+    ],
+    "features": [
+        "Text-to-music generation allows users to create complete songs by inputting descriptive prompts, making music production effortless and intuitive.",
+        "Custom lyric generation uses AI to produce original lyrics based on user ideas, enhancing creativity without requiring writing expertise.",
+        "Vocal synthesis creates realistic singing voices in multiple styles, enabling personalized tracks without hiring vocalists.",
+        "Instrumental mode focuses on generating backing tracks or beats, ideal for producers needing quick musical foundations.",
+        "Genre and style customization lets users specify elements like rock, pop, or classical to tailor the output to their preferences.",
+        "Song extension feature builds upon existing clips to create longer compositions, supporting iterative music development.",
+        "Community sharing allows users to publish and collaborate on tracks, fostering a creative ecosystem.",
+        "Download and export options enable users to save high-quality audio files for personal or professional use.",
+        "Prompt refinement tools help users iterate on ideas to improve AI-generated results.",
+        "Integration with social media for easy sharing of created music directly from the platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is Suno?",
+            "answer": "Suno is an AI platform that generates original music and songs from text prompts, allowing users to create tracks without musical expertise."
+        },
+        {
+            "question": "How does Suno generate music?",
+            "answer": "Users input text descriptions, and Suno's AI models interpret them to produce lyrics, vocals, and instrumentals in various styles."
+        },
+        {
+            "question": "Is Suno free to use?",
+            "answer": "Yes, Suno offers a free tier with daily credits for generating songs, though premium plans provide more credits and features."
+        },
+        {
+            "question": "Can I use Suno-generated music commercially?",
+            "answer": "Free tier music is for non-commercial use, but paid subscribers can use tracks commercially with certain restrictions outlined in the terms."
+        },
+        {
+            "question": "What genres does Suno support?",
+            "answer": "Suno supports a wide range including pop, rock, hip-hop, classical, and more, with users able to specify custom styles in prompts."
+        },
+        {
+            "question": "How do I share my Suno creations?",
+            "answer": "Users can share tracks directly on the platform's community feed or export and post on social media."
+        },
+        {
+            "question": "Does Suno require any musical knowledge?",
+            "answer": "No, Suno is designed for all users, from beginners to experts, as it handles the technical aspects via AI."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan provides limited daily credits for song generation and restricts commercial usage."
+        },
+        {
+            "question": "Can I edit Suno-generated songs?",
+            "answer": "Users can refine prompts to regenerate or extend songs, but direct audio editing is not currently available within the platform."
+        },
+        {
+            "question": "Is Suno safe for creating original content?",
+            "answer": "Suno generates original content based on prompts, but users should ensure their inputs don't infringe on copyrights."
+        }
+    ]
+}

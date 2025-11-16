@@ -1,0 +1,75 @@
+{
+    "name": "ImageFX",
+    "description": "ImageFX is an AI-driven platform that enables users to generate, edit, and apply effects to images using advanced artificial intelligence tools.",
+    "longDescription": "ImageFX is a web-based AI tool designed to revolutionize image creation and manipulation by leveraging machine learning algorithms to produce high-quality visuals from user inputs. Its mission is to make professional-grade image editing accessible to everyone, from hobbyists to designers, without requiring expensive software or advanced skills. The platform solves problems like time-consuming manual editing by automating processes such as background removal, style transfers, and text-to-image generation. Users can upload their own photos or start from scratch, applying AI-powered effects to achieve creative results quickly. Overall, ImageFX serves as a bridge between complex AI technology and everyday creative needs, empowering users to bring their ideas to life visually.",
+    "url": "https://imagefx.me/?utm_source=ainavdir",
+    "screenshot": "/screenshot/imagefx.me.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "imagefx",
+    "categories": [
+        "AI Image Generator",
+        "AI Image Enhancer",
+        "AI Style Transfer",
+        "AI Background Remover",
+        "AI Design Assistant",
+        "AI Social Media Post Generator",
+        "AI Image Upscaler",
+        "AI Art Generator",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "Text-to-image generation allows users to create custom images from descriptive prompts, saving time on manual design work.",
+        "AI-powered image editing tools enable seamless removal of backgrounds or objects, enhancing photo quality effortlessly.",
+        "Style transfer feature applies artistic styles from famous artworks or custom themes to user-uploaded images for unique results.",
+        "Upscaling and enhancement automatically improve image resolution and clarity using advanced algorithms, ideal for low-quality photos.",
+        "Filter and effect library offers a wide range of AI-generated filters to transform images with one click, boosting creativity.",
+        "Batch processing supports editing multiple images at once, streamlining workflows for professionals and bulk tasks.",
+        "Real-time preview provides instant feedback on changes, allowing users to iterate quickly without committing to edits.",
+        "Integration with social media enables direct sharing of generated images, simplifying content creation for online platforms.",
+        "Customizable AI models let users fine-tune generation parameters for personalized outputs tailored to specific needs.",
+        "Collaboration tools allow multiple users to work on image projects together in real-time, fostering team creativity."
+    ],
+    "faqs": [
+        {
+            "question": "What is ImageFX primarily used for?",
+            "answer": "ImageFX is mainly used for AI-based image generation and editing, helping users create or modify visuals quickly. It caters to both casual users and professionals needing efficient tools."
+        },
+        {
+            "question": "Is there a free version of ImageFX?",
+            "answer": "Yes, ImageFX offers a free plan with limited daily generations and basic features. Users can upgrade to premium for unlimited access and advanced tools."
+        },
+        {
+            "question": "How do I generate an image using ImageFX?",
+            "answer": "Simply enter a text description in the prompt field, select any desired styles or parameters, and click generate. The AI will produce the image in seconds, which you can then edit further."
+        },
+        {
+            "question": "Can I use ImageFX for commercial purposes?",
+            "answer": "Yes, images generated on ImageFX can be used commercially, but check the terms for any restrictions on premium features. Always ensure your prompts don't infringe on copyrights."
+        },
+        {
+            "question": "What file formats does ImageFX support?",
+            "answer": "ImageFX supports common formats like JPEG, PNG, and GIF for uploads and downloads. It also allows exporting in high-resolution formats for professional use."
+        },
+        {
+            "question": "Is my data secure on ImageFX?",
+            "answer": "ImageFX uses encryption and secure servers to protect user data and uploaded images. However, users should avoid uploading sensitive information."
+        },
+        {
+            "question": "Does ImageFX require any software installation?",
+            "answer": "No, ImageFX is entirely web-based, so you can access it from any browser without downloads. It works on desktops, tablets, and mobiles."
+        },
+        {
+            "question": "How accurate are the AI-generated images?",
+            "answer": "The accuracy depends on the detail in your prompt; clear descriptions yield better results. ImageFX continually improves its models for higher fidelity."
+        },
+        {
+            "question": "Can I collaborate with others on ImageFX?",
+            "answer": "Yes, the platform includes collaboration features for sharing projects and editing in real-time. Invite team members via email or link."
+        },
+        {
+            "question": "What if I encounter an error while using ImageFX?",
+            "answer": "Check your internet connection first, then try refreshing the page. If issues persist, contact support through the help section with details of the error."
+        }
+    ]
+}

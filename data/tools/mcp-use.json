@@ -1,0 +1,87 @@
+{
+    "name": "mcp-use",
+    "description": "mcp-use is a cloud platform for building, discovering, and deploying Model Context Protocol (MCP) servers to connect large language models to external tools and data sources.",
+    "longDescription": "mcp-use is an open-source platform and library that enables developers to connect any large language model (LLM) to MCP servers, facilitating the creation of custom AI agents with access to external tools without vendor lock-in. Its mission is to standardize AI integrations through the Model Context Protocol (MCP), making it easier for applications to provide real-time context to LLMs from diverse sources like APIs, databases, and file systems. By offering a registry of community-built servers and easy configuration tools, mcp-use solves the challenge of extending AI capabilities beyond isolated models, empowering developers to build more powerful and versatile AI applications. The platform serves AI developers, researchers, and businesses by promoting an open ecosystem for AI tool connectivity, akin to a universal adapter for artificial intelligence.",
+    "url": "https://mcp-use.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mcp-use.com.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "mcp-use",
+    "categories": [
+        "AI Agent",
+        "Large Language Models (LLMs)",
+        "AI Tools Directory",
+        "Open Source AI Models",
+        "AI API",
+        "AI Workflow",
+        "AI Data Mining",
+        "AI Developer Tools",
+        "AI Voice Assistants"
+    ],
+    "features": [
+        "Connect any LLM to any MCP server using a flexible JSON-based configuration for seamless integration.",
+        "Browse and discover a registry of community-built MCP servers for tools like file operations, APIs, and databases.",
+        "Create custom AI agents with tool access using LangChain-compatible LLM providers.",
+        "Dynamically select the most appropriate MCP server based on the task requirements for optimized performance.",
+        "Run MCP servers in secure cloud sandboxes with optional E2B execution to ensure safety.",
+        "Stream agent results in real-time and automatically log full interactions for better debugging.",
+        "Utilize the CLI tool to connect LLMs to MCP servers directly from the command line.",
+        "Leverage the TypeScript library (mcp-use-ts) for JavaScript-based LLM and MCP integrations.",
+        "Build voice assistants powered by mcp-use for interactive AI applications.",
+        "Use the code builder tool to create and customize MCP solutions quickly.",
+        "Access comprehensive documentation and quickstart guides for rapid setup and onboarding.",
+        "Follow security best practices provided to safely handle powerful capabilities like file access and code execution.",
+        "Support multiple MCP servers simultaneously for complex AI workflows.",
+        "Integrate with external services like Slack, GitHub, or databases through MCP intermediaries."
+    ],
+    "faqs": [
+        {
+            "question": "What is mcp-use?",
+            "answer": "mcp-use is an open-source library and cloud platform that allows developers to connect large language models (LLMs) to Model Context Protocol (MCP) servers, enabling AI agents to access external tools and data."
+        },
+        {
+            "question": "What is the Model Context Protocol (MCP)?",
+            "answer": "MCP is an open standard that standardizes how applications provide context to LLMs from external sources, acting like a universal connector for AI integrations."
+        },
+        {
+            "question": "How do I get started with mcp-use?",
+            "answer": "Install the mcp-use package via PyPI, configure your MCP servers using JSON, create an LLM instance, and run an agent with a simple query as shown in the quickstart guide."
+        },
+        {
+            "question": "Is mcp-use free to use?",
+            "answer": "Yes, mcp-use is open-source and offers free access to its core features, including the library and platform registry, with optional paid enhancements possibly available."
+        },
+        {
+            "question": "Which LLMs are supported by mcp-use?",
+            "answer": "mcp-use supports any LangChain-compatible LLM providers, such as ChatOpenAI, allowing flexibility in choosing your preferred model."
+        },
+        {
+            "question": "Can I run MCP servers securely?",
+            "answer": "Yes, mcp-use supports running servers in secure cloud sandboxes and provides security best practices to handle capabilities like network requests and code execution safely."
+        },
+        {
+            "question": "Is there a community for mcp-use users?",
+            "answer": "Yes, you can join the Discord server for discussions, support, and collaboration with other developers."
+        },
+        {
+            "question": "How can I contribute to mcp-use?",
+            "answer": "Set up your development environment with Python 3.11+, Git, and Node, then submit pull requests on the GitHub repository following the development guide."
+        },
+        {
+            "question": "What are MCP servers?",
+            "answer": "MCP servers act as intermediaries between LLMs and external tools or services, such as APIs, databases, or file systems, to provide real-time context."
+        },
+        {
+            "question": "Does mcp-use support TypeScript?",
+            "answer": "Yes, the mcp-use-ts library allows connecting LangChain.js-compatible LLMs with MCP servers in TypeScript environments."
+        },
+        {
+            "question": "Can I build custom solutions with mcp-use?",
+            "answer": "Yes, use the builder tool at mcp-use.com/builder to create and customize your own MCP-based solutions easily."
+        },
+        {
+            "question": "What security measures should I follow?",
+            "answer": "Always review MCP server capabilities, use sandboxes for execution, and follow the provided best practices to avoid risks from powerful features."
+        }
+    ]
+}

@@ -1,0 +1,897 @@
+{
+    "title": "The Best 81 AI Course Tools in 2025",
+    "summary": "Unlock the future of learning with our curated selection of AI courses! Designed for enthusiasts and professionals alike, these courses empower you to harness the power of artificial intelligence, enhancing your skills and career prospects. Discover interactive lessons, expert insights, and practical applications that cater to all levels of expertise. Whether you're looking to upskill or dive into AI for the first time, our resources are tailored to meet your needs. Explore our AI Course category today and take the first step towards mastering the technology that’s shaping tomorrow!",
+    "tools": [
+        {
+            "id": "115",
+            "name": "Perchance",
+            "slug": "perchance",
+            "description": "Perchance is a platform for creating and using random text and AI-powered content generators, offering tools for storytelling, character creation, and image generation.",
+            "icon": "/logo/perchance.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "32",
+            "name": "Civitai",
+            "slug": "civitai",
+            "description": "Civitai is a platform for sharing, creating, and exploring AI-generated media, specializing in open-source generative AI models.",
+            "icon": "/logo/civitai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "128",
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "description": "Anthropic builds safe, interpretable AI systems like Claude to assist users in various tasks.",
+            "icon": "/logo/www.anthropic.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "111",
+            "name": "Replit",
+            "slug": "replit",
+            "description": "Replit is an AI-powered online platform for coding, collaborating, and deploying software in various programming languages directly from the browser.",
+            "icon": "/logo/replit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "50",
+            "name": "Course Hero",
+            "slug": "course-hero",
+            "description": "Course Hero is an online learning platform providing access to millions of course-specific study resources and tutoring services for students.",
+            "icon": "/logo/coursehero.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "89",
+            "name": "DataCamp",
+            "slug": "datacamp",
+            "description": "DataCamp is an online learning platform offering interactive courses in data science, AI, and programming for all skill levels.",
+            "icon": "/logo/datacamp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Vidnoz",
+            "slug": "vidnoz",
+            "description": "Vidnoz is an AI-powered platform for creating professional videos quickly using avatars, templates, and voiceovers.",
+            "icon": "/logo/vidnoz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "91",
+            "name": "Media.io",
+            "slug": "media-io",
+            "description": "Media.io is an online platform offering AI-powered tools for editing, converting, and enhancing audio, video, and image files directly in the browser.",
+            "icon": "/logo/media.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "173",
+            "name": "Napkin AI",
+            "slug": "napkin-ai",
+            "description": "Napkin AI transforms ideas into visual content using AI-powered tools for diagrams, flowcharts, and infographics.",
+            "icon": "/logo/www.napkin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "187",
+            "name": "Cognito Education",
+            "slug": "cognito-education",
+            "description": "Cognito Education provides free, high-quality video lessons and resources for GCSE and A-Level students.",
+            "icon": "/logo/cognitoedu.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "198",
+            "name": "TurboLearn AI",
+            "slug": "turbolearn-ai",
+            "description": "TurboLearn AI provides AI-powered tools to enhance learning through personalized note-taking and study aids.",
+            "icon": "/logo/www.turbolearn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "Luvvoice",
+            "slug": "luvvoice",
+            "description": "Luvvoice provides AI-powered text-to-speech and voice cloning for creating realistic audio content.",
+            "icon": "/logo/luvvoice.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "107",
+            "name": "Knowt",
+            "slug": "knowt",
+            "description": "Knowt is an AI-powered study platform offering free tools like flashcards and quizzes to enhance student learning.",
+            "icon": "/logo/knowt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "218",
+            "name": "Synthesia",
+            "slug": "synthesia",
+            "description": "Synthesia is an AI-powered platform for creating professional videos from text in minutes.",
+            "icon": "/logo/www.synthesia.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "225",
+            "name": "PlayHT",
+            "slug": "playht",
+            "description": "PlayHT is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/play.ht.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "TTSMaker",
+            "slug": "ttsmaker",
+            "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+            "icon": "/logo/ttsmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "244",
+            "name": "UpLearn",
+            "slug": "uplearn",
+            "description": "UpLearn provides AI-driven online courses to help students excel in A-Level exams.",
+            "icon": "/logo/uplearn.co.uk.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "245",
+            "name": "Animaker",
+            "slug": "animaker",
+            "description": "Animaker is a cloud-based platform for creating animated videos and presentations with easy-to-use templates and AI-powered tools.",
+            "icon": "/logo/www.animaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "285",
+            "name": "Language Reactor",
+            "slug": "language-reactor",
+            "description": "Language Reactor is a powerful tool for immersive language learning through videos and interactive subtitles.",
+            "icon": "/logo/www.languagereactor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "302",
+            "name": "D-ID",
+            "slug": "d-id",
+            "description": "D-ID is an AI-powered platform for creating realistic video avatars and conversational agents to enhance digital communication.",
+            "icon": "/logo/www.d-id.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "331",
+            "name": "Coddy",
+            "slug": "coddy",
+            "description": "Coddy is an AI-enhanced platform offering interactive, hands-on coding courses for learners of all ages and skill levels.",
+            "icon": "/logo/coddy.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "343",
+            "name": "Algor Education",
+            "slug": "algor-education",
+            "description": "Algor Education transforms any content into AI-powered visual and interactive study tools for students, educators, and professionals.",
+            "icon": "/logo/www.algoreducation.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "346",
+            "name": "StudyFetch",
+            "slug": "studyfetch",
+            "description": "StudyFetch is an AI-powered platform that transforms course materials into personalized study tools like flashcards, quizzes, and notes, with an AI tutor for enhanced learning.",
+            "icon": "/logo/www.studyfetch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "347",
+            "name": "Murf AI",
+            "slug": "murf-ai",
+            "description": "Murf AI is an AI-powered text-to-speech platform that creates realistic voiceovers for various content needs.",
+            "icon": "/logo/murf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "350",
+            "name": "Voicemaker",
+            "slug": "voicemaker",
+            "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+            "icon": "/logo/voicemaker.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "371",
+            "name": "AiPPT",
+            "slug": "aippt",
+            "description": "AiPPT is an AI-powered toolkit for creating professional presentations with minimal effort.",
+            "icon": "/logo/www.aippt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "381",
+            "name": "AutoDraw",
+            "slug": "autodraw",
+            "description": "AutoDraw is a web-based tool that uses AI to transform rough sketches into polished illustrations, making drawing accessible to everyone.",
+            "icon": "/logo/autodraw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "388",
+            "name": "Typecast",
+            "slug": "typecast",
+            "description": "Typecast is an AI voice generator that transforms text into realistic, emotion-driven speech and creates engaging video content with virtual avatars.",
+            "icon": "/logo/typecast.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "392",
+            "name": "SpeechGen.io",
+            "slug": "speechgen-io",
+            "description": "SpeechGen.io is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/speechgen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "397",
+            "name": "Easy With AI",
+            "slug": "easy-with-ai",
+            "description": "Easy With AI is a comprehensive directory of AI tools and resources to help users discover and utilize AI solutions across various industries.",
+            "icon": "/logo/easywithai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "400",
+            "name": "SoBrief",
+            "slug": "sobrief",
+            "description": "SoBrief provides AI-generated book summaries in multiple formats to help users quickly grasp key insights from over 73,530 titles.",
+            "icon": "/logo/sobrief.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "403",
+            "name": "Quizgecko",
+            "slug": "quizgecko",
+            "description": "Quizgecko is an AI-powered platform that transforms content into quizzes, flashcards, and study materials for enhanced learning.",
+            "icon": "/logo/quizgecko.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "428",
+            "name": "LabEx",
+            "slug": "labex",
+            "description": "LabEx provides hands-on labs for learning tech skills in Linux, DevOps, Cybersecurity, Programming, and Data Science.",
+            "icon": "/logo/labex.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "433",
+            "name": "PromptHero",
+            "slug": "prompthero",
+            "description": "PromptHero is a search engine and community platform for discovering and sharing AI-generated art prompts for models like Stable Diffusion, Midjourney, and DALL-E.",
+            "icon": "/logo/prompthero.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "450",
+            "name": "RunComfy",
+            "slug": "runcomfy",
+            "description": "RunComfy is a cloud-based platform that simplifies ComfyUI workflows for AI-driven image and video creation using high-speed GPUs.",
+            "icon": "/logo/www.runcomfy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "457",
+            "name": "Inner AI",
+            "slug": "inner-ai",
+            "description": "Inner AI is a platform that leverages artificial intelligence to organize thoughts, enhance creativity, and streamline task completion.",
+            "icon": "/logo/innerai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "486",
+            "name": "SlidesAI",
+            "slug": "slidesai",
+            "description": "SlidesAI is an AI-powered tool that transforms text into professional presentations for Google Slides and PowerPoint.",
+            "icon": "/logo/www.slidesai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "489",
+            "name": "LOVO AI",
+            "slug": "lovo-ai",
+            "description": "LOVO AI is an AI-powered platform for generating realistic voiceovers and creating professional videos with text-to-speech technology.",
+            "icon": "/logo/lovo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "511",
+            "name": "Mindgrasp",
+            "slug": "mindgrasp-ai",
+            "description": "Mindgrasp is an AI-powered learning platform that transforms educational content into personalized study tools for students and professionals.",
+            "icon": "/logo/www.mindgrasp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "521",
+            "name": "AlfaPTE",
+            "slug": "alfapte",
+            "description": "AlfaPTE is a leading platform for PTE exam preparation, offering AI-driven mock tests and study resources.",
+            "icon": "/logo/alfapte.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "534",
+            "name": "Learn Prompting",
+            "slug": "learn-prompting",
+            "description": "Learn Prompting is an e-learning platform offering free and paid courses on prompt engineering and generative AI to enhance AI interaction skills.",
+            "icon": "/logo/learnprompting.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "572",
+            "name": "Songtell",
+            "slug": "songtell",
+            "description": "Songtell uses AI to analyze and uncover the hidden meanings behind song lyrics, enhancing music appreciation for fans and educators.",
+            "icon": "/logo/songtell.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "582",
+            "name": "SmallTalk2Me",
+            "slug": "smalltalk2me",
+            "description": "SmallTalk2Me is an AI-powered platform designed to enhance English speaking and writing skills through personalized feedback and simulations.",
+            "icon": "/logo/smalltalk2.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "597",
+            "name": "LabLab.ai",
+            "slug": "lablab-ai",
+            "description": "LabLab.ai is a platform that hosts AI hackathons and fosters innovation by connecting developers with cutting-edge AI technologies.",
+            "icon": "/logo/lablab.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "607",
+            "name": "Synthesis",
+            "slug": "synthesis",
+            "description": "Synthesis provides AI-driven math tutoring and team-based learning programs to foster problem-solving and critical thinking in children.",
+            "icon": "/logo/synthesis.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "615",
+            "name": "Trancy",
+            "slug": "trancy",
+            "description": "Trancy is a language learning platform offering AI-powered bilingual subtitles and translation tools for immersive learning on video and web content.",
+            "icon": "/logo/www.trancy.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "653",
+            "name": "Videomaker.me",
+            "slug": "videomaker-me",
+            "description": "Videomaker.me is an AI-powered platform for creating high-quality videos from text or images with synchronized audio and cinematic effects.",
+            "icon": "/logo/videomaker.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "674",
+            "name": "Vocareum",
+            "slug": "vocareum",
+            "description": "Vocareum provides a cloud-based platform for hands-on learning and assessment in AI, data science, and cloud computing education.",
+            "icon": "/logo/www.vocareum.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "680",
+            "name": "AnimateAI",
+            "slug": "animateai",
+            "description": "AnimateAI is an all-in-one AI-powered video generation tool for creating stunning animation videos quickly and cost-effectively.",
+            "icon": "/logo/animateai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "698",
+            "name": "Easygenerator",
+            "slug": "easygenerator",
+            "description": "Easygenerator is an e-learning authoring tool that simplifies course creation for non-experts, enabling organizations to share knowledge efficiently.",
+            "icon": "/logo/www.easygenerator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "724",
+            "name": "SummarizeYou",
+            "slug": "summarizeyou",
+            "description": "SummarizeYou is an AI-powered tool that instantly generates concise summaries of YouTube videos, extracting key points without requiring user login.",
+            "icon": "/logo/summarizeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "728",
+            "name": "PDF To Brainrot",
+            "slug": "pdf-to-brainrot",
+            "description": "PDF To Brainrot transforms PDFs into engaging TikTok-style 'brainrot' videos to make learning fun and effective.",
+            "icon": "/logo/pdftobrainrot.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "767",
+            "name": "Guidde",
+            "slug": "guidde",
+            "description": "Guidde is an AI-powered platform for creating and sharing video documentation and tutorials quickly and efficiently.",
+            "icon": "/logo/www.guidde.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "777",
+            "name": "Elai.io",
+            "slug": "elai-io",
+            "description": "Elai.io is an AI-powered platform that transforms text into high-quality, interactive video content with digital human presenters.",
+            "icon": "/logo/elai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "911",
+            "name": "Mathful",
+            "slug": "mathful",
+            "description": "Mathful is an AI-powered math solver that provides instant, step-by-step solutions to a wide range of mathematical problems, helping students learn and excel in math.",
+            "icon": "/logo/mathful.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "919",
+            "name": "Lakera",
+            "slug": "lakera-ai",
+            "description": "Lakera is an AI security platform that protects generative AI applications from adversarial threats like prompt injections and ensures safe, compliant AI deployments.",
+            "icon": "/logo/www.lakera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "970",
+            "name": "Penseum",
+            "slug": "penseum",
+            "description": "Penseum is an AI-powered study platform that transforms notes, lectures, and textbooks into personalized flashcards, quizzes, and summaries to enhance learning efficiency.",
+            "icon": "/logo/penseum.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "981",
+            "name": "Packback",
+            "slug": "packback",
+            "description": "Packback is an AI-powered educational platform that enhances student engagement and learning through inquiry-based discussions and automated feedback in higher education settings.",
+            "icon": "/logo/packback.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1025",
+            "name": "AI Top 100",
+            "slug": "ai-top-100",
+            "description": "AI Top 100 is a platform dedicated to ranking and showcasing the top 100 AI tools and resources for users interested in artificial intelligence technologies.",
+            "icon": "/logo/www.aitop100.cn.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "Devv",
+            "slug": "devv-ai",
+            "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+            "icon": "/logo/devv.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1091",
+            "name": "Presenti.ai",
+            "slug": "presenti-ai",
+            "description": "Presenti.ai is an AI-driven platform that helps users create professional presentations quickly and easily from simple text prompts.",
+            "icon": "/logo/presenti.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1099",
+            "name": "AcademyOcean",
+            "slug": "academyocean",
+            "description": "AcademyOcean is an AI-powered learning management system designed to help businesses create interactive online academies for employee training, customer onboarding, and knowledge sharing.",
+            "icon": "/logo/academyocean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1104",
+            "name": "CyberSquare",
+            "slug": "cybersquare",
+            "description": "CyberSquare provides coding, AI, and robotics education solutions for schools, offering a comprehensive suite of products to enhance computer science curriculum from KG 1 to plus two.",
+            "icon": "/logo/cybersquare.org.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1116",
+            "name": "Deep English",
+            "slug": "deep-english",
+            "description": "Deep English is an online platform offering free English lessons, podcasts, and stories to improve listening comprehension and fluency for language learners.",
+            "icon": "/logo/deepenglish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1129",
+            "name": "TutorAI",
+            "slug": "tutorai",
+            "description": "TutorAI is an AI-driven platform that generates personalized, interactive learning courses on any topic to make education accessible and tailored to individual needs.",
+            "icon": "/logo/tutorai.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1146",
+            "name": "AIJourney",
+            "slug": "aijourney",
+            "description": "AIJourney is a platform that helps professionals discover, learn, and master AI tools through expert reviews, insights, and a curated directory of AI technologies.",
+            "icon": "/logo/aijourney.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1158",
+            "name": "PartyRock",
+            "slug": "partyrock",
+            "description": "PartyRock is an AWS-powered generative AI playground that lets users build and share fun AI apps without coding.",
+            "icon": "/logo/partyrock.aws.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1162",
+            "name": "MarsCode",
+            "slug": "marscode",
+            "description": "MarsCode is an AI-powered integrated development environment (IDE) that provides intelligent coding assistance to streamline software development for programmers.",
+            "icon": "/logo/www.marscode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1176",
+            "name": "To Teach",
+            "slug": "to-teach-ai",
+            "description": "To Teach is an AI-powered platform designed to assist educators in creating personalized lesson plans, activities, and teaching resources efficiently.",
+            "icon": "/logo/www.to-teach.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1180",
+            "name": "saasguru",
+            "slug": "saasguru",
+            "description": "saasguru is an AI-powered platform offering personalized training, certification preparation, and career resources for Salesforce and cloud technologies.",
+            "icon": "/logo/www.saasguru.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1206",
+            "name": "Memrizz",
+            "slug": "memrizz",
+            "description": "Memrizz is an AI-powered flashcard generator that helps students create high-quality flashcards and quizzes from notes, PDFs, videos, and lectures to enhance studying efficiency.",
+            "icon": "/logo/www.memrizz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1235",
+            "name": "Curipod",
+            "slug": "curipod",
+            "description": "Curipod is an AI-driven platform that empowers teachers to create engaging, interactive lessons in minutes.",
+            "icon": "/logo/curipod.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1271",
+            "name": "Quiklearn",
+            "slug": "quiklearn",
+            "description": "Quiklearn is an AI-powered platform that turns course materials into interactive flashcards and quizzes to help students study smarter and retain information effectively.",
+            "icon": "/logo/quiklearn.app.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1342",
+            "name": "nFactorial AI",
+            "slug": "nfactorial-ai",
+            "description": "nFactorial AI is an educational platform offering intensive bootcamps and courses focused on artificial intelligence, machine learning, and software development to empower aspiring tech professionals.",
+            "icon": "/logo/nfactorialai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1414",
+            "name": "Genie 3 World",
+            "slug": "genie-3-world",
+            "description": "Genie 3 World offers a revolutionary platform for creating and interacting with immersive 3D virtual environments using text prompts, powered by DeepMind's advanced world model technology.",
+            "icon": "/logo/genie3world.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "1027",
+            "name": "SummaryTube",
+            "slug": "summarytube",
+            "description": "SummaryTube is an AI-powered online tool that generates free summaries and key insights from YouTube videos to help users save time.",
+            "icon": "/logo/summarytube.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "69",
+            "name": "Clipchamp",
+            "slug": "clipchamp",
+            "description": "Clipchamp is a user-friendly video editing platform for creating professional-quality videos.",
+            "icon": "/logo/clipchamp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        },
+        {
+            "id": "94",
+            "name": "PixVerse",
+            "slug": "pixverse",
+            "description": "PixVerse is an AI-powered platform that transforms text and images into stunning, high-quality videos for creators and businesses.",
+            "icon": "/logo/pixverse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-course"
+            ]
+        }
+    ]
+}

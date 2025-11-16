@@ -1,0 +1,1161 @@
+{
+    "title": "The Best 105 AI Content Detector Tools in 2025",
+    "summary": "Discover the power of AI Content Detectors, designed to help you identify and analyze AI-generated text with precision. These innovative tools enhance content authenticity, ensuring originality and compliance with quality standards. Whether you're a marketer, educator, or content creator, leveraging AI detection can safeguard your work from plagiarism and maintain credibility. Explore our curated selection of top-notch AI Content Detectors to elevate your content strategy and stay ahead in the digital landscape. Dive in now and find the perfect tool to meet your needs!",
+    "tools": [
+        {
+            "id": "163",
+            "name": "Undetectable AI",
+            "slug": "undetectable-ai",
+            "description": "Undetectable AI provides tools to create and detect AI-generated content while ensuring it appears human-written.",
+            "icon": "/logo/undetectable.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "Originality.ai",
+            "slug": "originality-ai",
+            "description": "Originality.ai provides AI-driven tools to detect AI-generated content and ensure content authenticity for writers and publishers.",
+            "icon": "/logo/originality.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "242",
+            "name": "Copyleaks",
+            "slug": "copyleaks",
+            "description": "Copyleaks provides AI-powered solutions for plagiarism detection, content authenticity, and text analysis.",
+            "icon": "/logo/copyleaks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "295",
+            "name": "WriteHuman",
+            "slug": "writehuman",
+            "description": "WriteHuman transforms AI-generated text into authentic, human-like content that bypasses AI detection tools.",
+            "icon": "/logo/writehuman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "393",
+            "name": "Decopy AI",
+            "slug": "decopy-ai",
+            "description": "Decopy AI provides advanced AI tools for detecting, humanizing, and summarizing content to ensure authenticity and enhance writing clarity.",
+            "icon": "/logo/decopy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1293",
+            "name": "AI Pro",
+            "slug": "ai-pro",
+            "description": "AI Pro is an AI-powered platform designed to generate high-quality, SEO-optimized articles and content for bloggers, marketers, and businesses.",
+            "icon": "/logo/ai-pro.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "406",
+            "name": "ZeroGPT Plus",
+            "slug": "zerogpt-plus",
+            "description": "ZeroGPT Plus offers a free AI content detector and humanizer to identify and refine AI-generated text from models like ChatGPT, GPT-4, Gemini, and Claude.",
+            "icon": "/logo/www.zerogpt.plus.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "436",
+            "name": "Taplio",
+            "slug": "taplio",
+            "description": "Taplio is an AI-powered tool designed to enhance LinkedIn presence through content creation, scheduling, and analytics.",
+            "icon": "/logo/taplio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "439",
+            "name": "BypassGPT",
+            "slug": "bypassgpt-ai",
+            "description": "BypassGPT is an AI humanizer tool that transforms AI-generated text into undetectable, human-like content to bypass AI detection systems.",
+            "icon": "/logo/www.bypassgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "468",
+            "name": "Resemble AI",
+            "slug": "resemble-ai",
+            "description": "Resemble AI provides enterprise-grade AI voice generation and deepfake detection solutions for realistic synthetic audio.",
+            "icon": "/logo/www.resemble.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "Mapify",
+            "slug": "mapify",
+            "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+            "icon": "/logo/mapify.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "490",
+            "name": "Walter Writes AI",
+            "slug": "walter-writes-ai",
+            "description": "Walter Writes AI transforms AI-generated text into human-like, undetectable content for students, professionals, and creators.",
+            "icon": "/logo/walterwrites.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "Writer",
+            "slug": "writer",
+            "description": "Writer is a generative AI platform designed to enhance enterprise productivity through AI-driven content creation and management.",
+            "icon": "/logo/writer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "509",
+            "name": "Quso.ai",
+            "slug": "quso-ai",
+            "description": "Quso.ai is an all-in-one AI-powered platform for social media content creation, management, and analytics.",
+            "icon": "/logo/quso.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "517",
+            "name": "ContentStudio",
+            "slug": "contentstudio",
+            "description": "ContentStudio is a unified social media management and content marketing platform for creating, scheduling, and analyzing content across multiple channels.",
+            "icon": "/logo/contentstudio.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "525",
+            "name": "RedQuill",
+            "slug": "redquill",
+            "description": "RedQuill is an AI-powered platform for generating and sharing personalized spicy and erotic stories.",
+            "icon": "/logo/www.redquill.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "535",
+            "name": "AIKTP",
+            "slug": "aiktp",
+            "description": "AIKTP is an AI-powered platform for generating SEO-optimized content and managing WordPress sites efficiently.",
+            "icon": "/logo/aiktp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "538",
+            "name": "AssemblyAI",
+            "slug": "assemblyai",
+            "description": "AssemblyAI provides advanced Speech AI models to transcribe and analyze voice data via a developer-friendly API.",
+            "icon": "/logo/www.assemblyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "540",
+            "name": "Winston AI",
+            "slug": "winston-ai",
+            "description": "Winston AI provides industry-leading AI content detection and plagiarism checking for publishers and educators.",
+            "icon": "/logo/gowinston.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "552",
+            "name": "EdrawMax",
+            "slug": "edrawmax",
+            "description": "EdrawMax is an all-in-one diagramming tool powered by AI for creating professional flowcharts, mind maps, and over 280 types of diagrams.",
+            "icon": "/logo/www.edrawmax.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "564",
+            "name": "mymind",
+            "slug": "mymind",
+            "description": "mymind is a private, AI-enhanced platform for saving and organizing notes, bookmarks, images, and articles effortlessly.",
+            "icon": "/logo/mymind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "569",
+            "name": "Faceless Video",
+            "slug": "faceless-video",
+            "description": "Faceless Video automates the creation and posting of AI-generated faceless videos for social media platforms like TikTok and YouTube.",
+            "icon": "/logo/faceless.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "604",
+            "name": "Story.com",
+            "slug": "story-com",
+            "description": "Story.com is an AI-powered platform for creating and consuming interactive stories and videos with consistent characters.",
+            "icon": "/logo/www.story.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "606",
+            "name": "Klap",
+            "slug": "klap",
+            "description": "Klap uses AI to transform long videos into engaging, viral-ready short clips for social media platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+            "icon": "/logo/klap.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "620",
+            "name": "Tavily",
+            "slug": "tavily",
+            "description": "Tavily is a real-time search engine optimized for AI agents and RAG workflows, providing fast and secure APIs for web search and content extraction.",
+            "icon": "/logo/www.tavily.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "623",
+            "name": "Dr.Oracle",
+            "slug": "dr-oracle-ai",
+            "description": "Dr.Oracle is an AI-powered medical research platform providing evidence-based answers and guideline-directed medical insights.",
+            "icon": "/logo/droracle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "634",
+            "name": "Wavel AI",
+            "slug": "wavel-ai",
+            "description": "Wavel AI provides AI-powered solutions for creating and localizing multilingual video and audio content with dubbing, voiceovers, and subtitles.",
+            "icon": "/logo/wavel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "637",
+            "name": "Blaze AI",
+            "slug": "blaze-ai",
+            "description": "Blaze AI is an AI-driven platform that streamlines content creation and marketing for businesses, producing brand-aligned content in seconds.",
+            "icon": "/logo/www.blaze.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "647",
+            "name": "Detecting-AI",
+            "slug": "detecting-ai",
+            "description": "Detecting-AI offers a powerful tool to identify and flag AI-generated content from models like ChatGPT, ensuring content authenticity.",
+            "icon": "/logo/detecting-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "668",
+            "name": "Crayo AI",
+            "slug": "crayo-ai",
+            "description": "Crayo AI is an AI-powered platform for creating viral-ready short-form videos for social media in minutes.",
+            "icon": "/logo/crayo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "686",
+            "name": "Flim",
+            "slug": "flim-ai",
+            "description": "Flim is an AI-powered visual inspiration platform offering a vast database of film stills and video clips for creatives.",
+            "icon": "/logo/flim.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1312",
+            "name": "Tella",
+            "slug": "tella",
+            "description": "Tella is an online screen recorder and AI-powered video editor designed to help users create professional videos easily and efficiently.",
+            "icon": "/logo/www.tella.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "689",
+            "name": "Opinion Stage",
+            "slug": "opinion-stage",
+            "description": "Opinion Stage is a platform for creating interactive quizzes, polls, surveys, and forms to boost engagement and gather insights.",
+            "icon": "/logo/www.opinionstage.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "714",
+            "name": "Dubverse",
+            "slug": "dubverse-ai",
+            "description": "Dubverse is an AI-powered platform for multilingual video dubbing, text-to-speech, and subtitle generation to make content globally accessible.",
+            "icon": "/logo/dubverse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "724",
+            "name": "SummarizeYou",
+            "slug": "summarizeyou",
+            "description": "SummarizeYou is an AI-powered tool that instantly generates concise summaries of YouTube videos, extracting key points without requiring user login.",
+            "icon": "/logo/summarizeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "726",
+            "name": "Circleboom",
+            "slug": "circleboom",
+            "description": "Circleboom is a social media management platform that helps users, brands, and SMBs grow and manage their social media presence efficiently.",
+            "icon": "/logo/circleboom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "728",
+            "name": "PDF To Brainrot",
+            "slug": "pdf-to-brainrot",
+            "description": "PDF To Brainrot transforms PDFs into engaging TikTok-style 'brainrot' videos to make learning fun and effective.",
+            "icon": "/logo/pdftobrainrot.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "732",
+            "name": "Short AI",
+            "slug": "short-ai",
+            "description": "Short AI is an AI-powered platform for creating viral, faceless short-form videos for social media platforms like YouTube and TikTok.",
+            "icon": "/logo/www.short.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "734",
+            "name": "Studyflash",
+            "slug": "studyflash-ai",
+            "description": "Studyflash is an AI-powered platform that automates flashcard creation and optimizes study plans for efficient learning.",
+            "icon": "/logo/studyflash.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "736",
+            "name": "PlagiarismCheck.org",
+            "slug": "plagiarismcheck-org",
+            "description": "PlagiarismCheck.org provides an AI-powered tool to detect plagiarism and AI-generated content, ensuring originality for educators, students, and content creators.",
+            "icon": "/logo/plagiarismcheck.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "738",
+            "name": "Quetext",
+            "slug": "quetext",
+            "description": "Quetext is a plagiarism detection and writing assistant platform that ensures content originality and enhances writing quality for students, educators, and professionals.",
+            "icon": "/logo/www.quetext.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "751",
+            "name": "Supademo",
+            "slug": "supademo",
+            "description": "Supademo enables businesses to create and share AI-powered interactive product demos to drive engagement and conversions.",
+            "icon": "/logo/supademo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "755",
+            "name": "Covers.ai",
+            "slug": "covers-ai",
+            "description": "Covers.ai provides AI-powered tools for artists, creators, and fans to generate viral music covers, remixes, and TikTok content.",
+            "icon": "/logo/www.covers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "765",
+            "name": "Humanize AI",
+            "slug": "humanize-ai-com",
+            "description": "Humanize AI transforms AI-generated text into natural, human-like content that bypasses AI detection tools.",
+            "icon": "/logo/humanizeai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "766",
+            "name": "Summarizer Best",
+            "slug": "summarizer-best",
+            "description": "Summarizer Best is an AI-powered tool that condenses long texts, articles, and documents into concise summaries.",
+            "icon": "/logo/summarizer.best.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "768",
+            "name": "Ready Player Me",
+            "slug": "ready-player-me",
+            "description": "Ready Player Me is a cross-platform avatar creation platform that enables developers to integrate customizable 3D avatars into games and apps.",
+            "icon": "/logo/readyplayer.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "771",
+            "name": "Boomy",
+            "slug": "boomy",
+            "description": "Boomy is an AI-powered platform that enables users to create and monetize original music effortlessly.",
+            "icon": "/logo/boomy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "784",
+            "name": "AIcut",
+            "slug": "aicut",
+            "description": "AIcut.pro is an AI-powered platform for creating engaging faceless short videos from text for social media platforms like YouTube, TikTok, and Instagram.",
+            "icon": "/logo/www.aicut.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "792",
+            "name": "Eklipse",
+            "slug": "eklipse",
+            "description": "Eklipse is an AI-powered platform that automatically generates and edits gaming highlight clips from streams for social media sharing.",
+            "icon": "/logo/eklipse.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "TTSOpenAI",
+            "slug": "ttsopenai",
+            "description": "TTSOpenAI provides advanced AI-powered text-to-speech services to convert text into natural-sounding audio for various applications.",
+            "icon": "/logo/ttsopenai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "803",
+            "name": "Wirestock",
+            "slug": "wirestock",
+            "description": "Wirestock is a platform for creators to sell photos, videos, and AI-generated art on major marketplaces.",
+            "icon": "/logo/wirestock.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "806",
+            "name": "AI Undetect",
+            "slug": "ai-undetect",
+            "description": "AI Undetect provides tools to rewrite AI-generated text into human-like content, bypassing AI detection systems.",
+            "icon": "/logo/www.aiundetect.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "808",
+            "name": "Everypixel",
+            "slug": "everypixel",
+            "description": "Everypixel is an AI-powered stock image search engine that aggregates and curates high-quality photos and vectors from multiple sources.",
+            "icon": "/logo/www.everypixel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "815",
+            "name": "BypassAI",
+            "slug": "bypassai",
+            "description": "BypassAI transforms AI-generated text into human-like content to evade AI detection and ensure originality.",
+            "icon": "/logo/bypassai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "817",
+            "name": "Junia AI",
+            "slug": "junia-ai",
+            "description": "Junia AI is an AI-powered platform designed to create SEO-optimized, long-form content that enhances online visibility and drives organic traffic.",
+            "icon": "/logo/www.junia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "825",
+            "name": "SendFame",
+            "slug": "sendfame",
+            "description": "SendFame is an AI-powered platform for creating personalized celebrity video messages and custom music for personal and parody use.",
+            "icon": "/logo/sendfame.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "827",
+            "name": "SciSpace",
+            "slug": "scispace",
+            "description": "SciSpace is an AI-powered platform that streamlines academic research by helping users discover, analyze, and create research papers efficiently.",
+            "icon": "/logo/scispace.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "846",
+            "name": "Supermeme.ai",
+            "slug": "supermeme-ai",
+            "description": "Supermeme.ai is an AI-powered platform that allows users to generate customized memes quickly for social media, marketing, and entertainment.",
+            "icon": "/logo/supermeme.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "850",
+            "name": "TLDR This",
+            "slug": "tldr-this",
+            "description": "TLDR This is an AI-powered summarization tool that condenses long articles, documents, and texts into concise summaries and key points.",
+            "icon": "/logo/www.tldrthis.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "857",
+            "name": "ImageToVideo AI",
+            "slug": "imagetovideo-ai",
+            "description": "ImageToVideo AI is an online platform that uses artificial intelligence to convert static images into dynamic videos, catering to creators, marketers, and casual users.",
+            "icon": "/logo/imagetovideoai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "858",
+            "name": "Zarla",
+            "slug": "zarla",
+            "description": "Zarla is an AI-powered website builder that helps users create professional, customized websites in minutes without coding expertise.",
+            "icon": "/logo/www.zarla.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "Hunyuan Video AI",
+            "slug": "hunyuan-video-ai",
+            "description": "Hunyuan Video AI is an advanced platform that leverages artificial intelligence to generate and edit videos from text prompts and images.",
+            "icon": "/logo/hunyuanvideoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "868",
+            "name": "RPRP.ai",
+            "slug": "rprp-ai",
+            "description": "RPRP.ai is an AI-powered platform that enables users to engage in immersive role-playing experiences with customizable AI characters.",
+            "icon": "/logo/rprp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "870",
+            "name": "AI Video Generator",
+            "slug": "ai-video-generator",
+            "description": "AI Video Generator is an online platform that uses artificial intelligence to create videos from text prompts, images, or other inputs, making video production accessible and efficient.",
+            "icon": "/logo/aivideogenerator.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "879",
+            "name": "Summarize.ing",
+            "slug": "summarize-ing",
+            "description": "Summarize.ing is an AI-driven platform that provides quick and accurate summaries of articles, web pages, and other text content to help users save time on reading.",
+            "icon": "/logo/summarize.ing.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "BannerBear",
+            "slug": "bannerbear",
+            "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+            "icon": "/logo/www.bannerbear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "895",
+            "name": "TransMonkey",
+            "slug": "transmonkey-ai",
+            "description": "TransMonkey is an AI-powered platform that translates videos, audio, and text into multiple languages with voice dubbing and subtitles for global content accessibility.",
+            "icon": "/logo/www.transmonkey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "903",
+            "name": "EbookMaker.ai",
+            "slug": "ebookmaker-ai",
+            "description": "EbookMaker.ai is an AI-powered platform that simplifies ebook creation by generating content, covers, and layouts from user prompts.",
+            "icon": "/logo/ebookmaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "917",
+            "name": "SEO Writing AI",
+            "slug": "seo-writing-ai",
+            "description": "SEO Writing AI is an AI-driven platform that automates the creation of SEO-optimized content for blogs, articles, and marketing purposes.",
+            "icon": "/logo/seowriting.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "927",
+            "name": "Uncensored",
+            "slug": "uncensored",
+            "description": "Uncensored.com is a platform providing unrestricted AI-powered chat and content generation for users seeking free expression without censorship.",
+            "icon": "/logo/uncensored.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "932",
+            "name": "AI Humanizer",
+            "slug": "ai-humanizer",
+            "description": "AI Humanizer is an online tool that transforms AI-generated text into natural, human-like content to bypass AI detection systems.",
+            "icon": "/logo/aihumanizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "933",
+            "name": "Vocalize.fm",
+            "slug": "vocalize-fm",
+            "description": "Vocalize.fm is an AI-driven platform that enables users to generate high-quality podcasts and audio content from text using advanced voice synthesis technology.",
+            "icon": "/logo/www.vocalize.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1010",
+            "name": "Hypotenuse AI",
+            "slug": "hypotenuse-ai",
+            "description": "Hypotenuse AI is an AI-powered platform that generates high-quality content for marketing, e-commerce, and blogging to help businesses create engaging written material efficiently.",
+            "icon": "/logo/www.hypotenuse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1013",
+            "name": "Whisper Transcribe",
+            "slug": "whisper-transcribe",
+            "description": "Whisper Transcribe is an online platform that uses AI to transcribe audio and video files into text with high accuracy and support for multiple languages.",
+            "icon": "/logo/www.whispertranscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1024",
+            "name": "YouTube Summarized",
+            "slug": "youtube-summarized",
+            "description": "YouTube Summarized is an AI-powered tool that generates concise summaries of YouTube videos, helping users quickly grasp key points without watching the entire content.",
+            "icon": "/logo/youtubesummarized.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1032",
+            "name": "Checksub",
+            "slug": "checksub",
+            "description": "Checksub is an AI-powered platform for automatic subtitle generation, translation, and editing to make videos more accessible and engaging.",
+            "icon": "/logo/www.checksub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1062",
+            "name": "Kive",
+            "slug": "kive-ai",
+            "description": "Kive is an AI-powered platform that helps creatives organize, search, and collaborate on visual assets like images and videos.",
+            "icon": "/logo/kive.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1082",
+            "name": "StoryChief",
+            "slug": "storychief",
+            "description": "StoryChief is a content marketing platform that enables teams to plan, create, optimize, and distribute content across multiple channels efficiently.",
+            "icon": "/logo/www.storychief.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1092",
+            "name": "AI or Not",
+            "slug": "ai-or-not",
+            "description": "AI or Not is an online AI detection tool that analyzes images and audio to determine if they are generated by artificial intelligence or are authentic human-created content.",
+            "icon": "/logo/www.aiornot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1099",
+            "name": "AcademyOcean",
+            "slug": "academyocean",
+            "description": "AcademyOcean is an AI-powered learning management system designed to help businesses create interactive online academies for employee training, customer onboarding, and knowledge sharing.",
+            "icon": "/logo/academyocean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1105",
+            "name": "Music AI",
+            "slug": "music-ai",
+            "description": "Music AI provides state-of-the-art, ethical AI solutions for audio and music applications, including stem separation, voice transfers, and metadata classification, to empower businesses and creators in audio production.",
+            "icon": "/logo/music.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "SaveDay",
+            "slug": "saveday",
+            "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+            "icon": "/logo/www.save.day.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1163",
+            "name": "Woxo",
+            "slug": "woxo",
+            "description": "Woxo is an AI-driven platform that simplifies video creation, allowing users to generate engaging short-form videos for social media using text prompts and customizable templates.",
+            "icon": "/logo/woxo.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1165",
+            "name": "Jellypod",
+            "slug": "jellypod-ai",
+            "description": "Jellypod is an AI-powered platform that converts newsletter subscriptions into personalized podcasts for convenient audio consumption.",
+            "icon": "/logo/jellypod.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1167",
+            "name": "AHelp",
+            "slug": "ahelp",
+            "description": "AHelp is a comprehensive platform offering AI-powered tools for writing, homework, and research to enhance efficiency and save time for students and professionals.",
+            "icon": "/logo/ahelp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1195",
+            "name": "SiteGPT",
+            "slug": "sitegpt-ai",
+            "description": "SiteGPT is an AI platform that enables users to create custom chatbots trained on their website's content for personalized customer support and engagement.",
+            "icon": "/logo/sitegpt.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1202",
+            "name": "ResumeTrick",
+            "slug": "resumetrick",
+            "description": "ResumeTrick is an AI-powered online platform that simplifies resume and cover letter creation with customizable templates and intelligent suggestions to help job seekers stand out.",
+            "icon": "/logo/resumetrick.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1210",
+            "name": "Uncheck AI",
+            "slug": "uncheck-ai",
+            "description": "Uncheck AI offers an AI checker and humanizer to scan and make AI-generated content undetectable, serving users with tools to enhance text for various applications.",
+            "icon": "/logo/uncheck.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1231",
+            "name": "Clearscope",
+            "slug": "clearscope",
+            "description": "Clearscope is an AI-powered SEO content optimization platform that helps users create and refine content to improve search engine rankings through data-driven insights.",
+            "icon": "/logo/www.clearscope.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1233",
+            "name": "uPass.ai",
+            "slug": "upass-ai",
+            "description": "uPass.ai is an AI-powered platform that humanizes AI-generated text to make it undetectable by AI content detectors, helping users create authentic-looking content.",
+            "icon": "/logo/upass.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1339",
+            "name": "Vidduo",
+            "slug": "vidduo",
+            "description": "Vidduo is an AI-powered platform for seamless video dubbing and translation, enabling users to adapt content across languages with natural voiceovers and lip-syncing.",
+            "icon": "/logo/www.vidduo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1246",
+            "name": "TraceRoot",
+            "slug": "traceroot-ai",
+            "description": "TraceRoot is an AI-powered platform dedicated to tracing the origins of digital content to detect if it is human-created or AI-generated, offering tools for authenticity verification.",
+            "icon": "/logo/traceroot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1266",
+            "name": "Movely AI",
+            "slug": "movely-ai",
+            "description": "Movely AI is an online platform that generates AI videos and edits photos using a simple one-tap animation system and a library of over 1,000 professionally designed templates.",
+            "icon": "/logo/movelyai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1244",
+            "name": "Revyu.ai",
+            "slug": "revyu-ai",
+            "description": "Revyu.ai is an AI-powered platform that enables businesses to generate, analyze, and manage customer reviews to boost online reputation and sales.",
+            "icon": "/logo/www.revyu.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1252",
+            "name": "Geordy AI",
+            "slug": "geordy-ai",
+            "description": "Geordy AI transforms any URL into Generative Engine Optimization (GEO) ready content to enhance visibility and engagement in AI-driven search systems.",
+            "icon": "/logo/geordy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1263",
+            "name": "Rewrait",
+            "slug": "rewrait",
+            "description": "Rewrait is an AI-powered writing assistant that offers context-aware rewriting, grammar checking, style improvements, multilingual support, and productivity tools as a superior alternative to Grammarly and QuillBot.",
+            "icon": "/logo/rewrait.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1307",
+            "name": "Workbookly",
+            "slug": "workbookly",
+            "description": "Workbookly is an AI-powered platform for creating, managing, and customizing digital workbooks for education, productivity, and professional development.",
+            "icon": "/logo/workbookly.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1380",
+            "name": "Memu Pro",
+            "slug": "memu-pro",
+            "description": "Memu Pro is an AI-driven platform for generating and customizing personalized memes using intelligent tools.",
+            "icon": "/logo/memu.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1384",
+            "name": "Syndy",
+            "slug": "syndy-ai",
+            "description": "Syndy is an AI-powered copywriting assistant that transforms ideas into engaging LinkedIn posts while preserving the user's authentic voice.",
+            "icon": "/logo/syndy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "37",
+            "name": "Turnitin",
+            "slug": "turnitin",
+            "description": "Turnitin provides plagiarism detection and academic integrity solutions to enhance student learning and assessment.",
+            "icon": "/logo/turnitin.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1317",
+            "name": "Vaanee",
+            "slug": "vaanee",
+            "description": "Vaanee Labs offers AI-driven voice cloning, text-to-speech, speech-to-speech translation, and video dubbing services with multilingual and hyper-realistic voice generation capabilities.",
+            "icon": "/logo/www.vaanee.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-content-detector"
+            ]
+        },
+        {
+            "id": "1359",
+            "name": "Social Walls",
+            "slug": "social-walls",
+            "description": "Social Walls is a platform that aggregates and displays social media content in real-time for events, brands, and digital signage.",
+            "icon": "/logo/socialwalls.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-content-detector"
+            ]
+        }
+    ]
+}

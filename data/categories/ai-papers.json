@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Papers Tools in 2025",
+    "summary": "Discover cutting-edge insights with our 'AI Papers' category, where you can access a curated collection of groundbreaking research and publications in artificial intelligence. These resources empower researchers, developers, and enthusiasts to stay ahead of the curve, fostering innovation and informed decision-making. By exploring these papers, you’ll gain valuable knowledge that can enhance your projects and inspire new ideas. Dive into the world of AI research today and unlock the potential of these transformative tools. Start exploring our AI Papers now!",
+    "tools": [
+        {
+            "id": "1160",
+            "name": "PaperGuide",
+            "slug": "paperguide-ai",
+            "description": "PaperGuide.ai is an AI-powered platform that assists researchers and students in understanding, summarizing, and analyzing academic papers efficiently.",
+            "icon": "/logo/paperguide.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-papers"
+            ]
+        }
+    ]
+}

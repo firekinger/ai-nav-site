@@ -1,0 +1,67 @@
+{
+    "name": "PhantomBuster",
+    "description": "PhantomBuster is a cloud-based automation platform for data extraction and lead generation across social media and web platforms.",
+    "longDescription": "PhantomBuster is a technology company founded in 2016 that provides a cloud-based platform for automating data scraping and lead generation tasks across major websites and social media networks like LinkedIn, Instagram, and Twitter. It offers over 150 pre-built automation scripts, called Phantoms, and customizable workflows to streamline repetitive tasks without requiring coding skills. The platform is designed for businesses, marketers, and growth hackers to efficiently collect and enrich lead data, automate outreach, and integrate with CRMs like HubSpot and Salesforce. By operating in the cloud, PhantomBuster ensures tasks run 24/7, saving users time and effort. Its mission is to simplify lead generation and data management, enabling users to scale their outreach and business growth effectively.",
+    "url": "https://phantombuster.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/phantombuster.com.webp",
+    "category": "AI Web Scraping",
+    "categorySlug": "ai-web-scraping",
+    "slug": "phantombuster",
+    "categories": [
+        "AI Web Scraping",
+        "AI Lead Generation",
+        "AI Productivity Tools",
+        "AI Social Media",
+        "AI CRM",
+        "AI Data Mining",
+        "AI Workflow",
+        "AI Linkedin Photo Generator"
+    ],
+    "features": [
+        "Extracts data from LinkedIn, Instagram, Twitter, and other platforms to create comprehensive lead lists for marketing and sales.",
+        "Automates actions like sending LinkedIn connection requests, messages, or social media follows to engage prospects efficiently.",
+        "Enriches lead data with verified emails and phone numbers through integrations with tools like Dropcontact and Icypeas.",
+        "Provides over 150 pre-built Phantoms for specific tasks, such as scraping LinkedIn profiles or exporting Facebook group members.",
+        "Supports customizable workflows by chaining multiple Phantoms to create end-to-end automation sequences.",
+        "Integrates with CRMs like HubSpot, Salesforce, and Pipedrive to keep lead data updated and actionable.",
+        "Operates in the cloud, allowing automations to run 24/7 without requiring local resources.",
+        "Offers a browser extension to automatically retrieve session cookies for seamless account connections.",
+        "Includes AI-powered features, such as generating personalized outreach messages using GPT technology.",
+        "Exports data to CSV files or integrates with Zapier and Make for flexible data management.",
+        "Provides detailed reports to track time saved and automation performance for better campaign insights."
+    ],
+    "faqs": [
+        {
+            "question": "What is PhantomBuster used for?",
+            "answer": "PhantomBuster is used for automating data extraction and lead generation tasks on platforms like LinkedIn, Instagram, and Twitter, helping users scale outreach and manage data efficiently."
+        },
+        {
+            "question": "Does PhantomBuster require coding skills?",
+            "answer": "No, PhantomBuster offers pre-built Phantoms and workflows that allow users to automate tasks without coding knowledge, though advanced users can customize via APIs."
+        },
+        {
+            "question": "Is PhantomBuster safe to use with LinkedIn?",
+            "answer": "PhantomBuster is safe when used within platform guidelines, but users must follow safety limits to avoid triggering anti-bot defenses on LinkedIn or other platforms."
+        },
+        {
+            "question": "Can PhantomBuster integrate with my CRM?",
+            "answer": "Yes, PhantomBuster integrates with CRMs like HubSpot, Salesforce, and Pipedrive, and supports additional integrations via Zapier and Make."
+        },
+        {
+            "question": "Does PhantomBuster offer a free plan?",
+            "answer": "PhantomBuster provides a 14-day free trial with limited features, but it no longer offers a permanent free plan."
+        },
+        {
+            "question": "How does the PhantomBuster browser extension work?",
+            "answer": "The browser extension automatically retrieves session cookies for connected accounts, simplifying the setup process for Phantoms on platforms like LinkedIn."
+        },
+        {
+            "question": "Can I automate Instagram follows with PhantomBuster?",
+            "answer": "Yes, PhantomBuster offers Phantoms to automate actions like following, liking, or commenting on Instagram based on hashtags or profiles."
+        },
+        {
+            "question": "What are PhantomBuster Workflows?",
+            "answer": "Workflows are guided automation sequences that combine multiple Phantoms to perform complex tasks, such as collecting leads and sending follow-up messages."
+        }
+    ]
+}

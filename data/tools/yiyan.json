@@ -1,0 +1,51 @@
+{
+    "name": "Yiyan",
+    "description": "Yiyan is an AI-powered platform by Baidu offering conversational and creative tools for users.",
+    "longDescription": "Yiyan, developed by Baidu, is an AI-driven platform designed to provide conversational, creative, and productivity tools for individuals and businesses. It leverages Baidu's advanced AI models to assist users in tasks such as text generation, answering queries, and creating content. The platform aims to enhance efficiency and creativity by offering intuitive, user-friendly interfaces. Yiyan serves a wide range of users, from casual individuals to professionals seeking AI assistance. It competes with global AI platforms by focusing on localized content and multilingual capabilities. The service is accessible via web and integrates with Baidu's ecosystem for seamless user experiences.",
+    "url": "https://yiyan.baidu.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/yiyan.baidu.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "yiyan",
+    "categories": [
+        "AI Chatbot",
+        "AI Text Generator",
+        "AI Translate",
+        "AI Design Assistant",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Conversational AI responds to user queries with accurate, context-aware answers, enhancing productivity.",
+        "Text generation creates articles, reports, or creative writing based on user prompts, saving time.",
+        "Multilingual support allows users to interact and generate content in multiple languages, broadening accessibility.",
+        "Content summarization condenses lengthy texts into concise summaries for quick insights.",
+        "Creative tools enable users to generate poems, stories, or marketing copy with AI assistance.",
+        "Integration with Baidu services provides a seamless experience across Baidu's ecosystem."
+    ],
+    "faqs": [
+        {
+            "question": "What is Yiyan used for?",
+            "answer": "Yiyan is an AI platform for generating text, answering questions, and assisting with creative and professional tasks."
+        },
+        {
+            "question": "Is Yiyan free to use?",
+            "answer": "Yiyan offers a free plan with limited features, while premium features may require a subscription."
+        },
+        {
+            "question": "Can Yiyan generate content in multiple languages?",
+            "answer": "Yes, Yiyan supports multilingual content generation, including Chinese, English, and other languages."
+        },
+        {
+            "question": "How does Yiyan compare to other AI platforms like ChatGPT?",
+            "answer": "Yiyan offers similar conversational and creative capabilities but is optimized for Baidu's ecosystem and Chinese-speaking users."
+        },
+        {
+            "question": "Is Yiyan suitable for professional use?",
+            "answer": "Yes, Yiyan provides tools for writing, summarization, and data analysis, making it useful for professionals."
+        },
+        {
+            "question": "Does Yiyan require a Baidu account?",
+            "answer": "A Baidu account may be required for full access to features and integration with Baidu services."
+        }
+    ]
+}

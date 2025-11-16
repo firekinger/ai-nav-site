@@ -1,0 +1,56 @@
+{
+    "name": "DocsBot",
+    "description": "DocsBot is an AI-powered platform that creates custom chatbots for answering questions based on your documentation and content.",
+    "longDescription": "DocsBot is an innovative AI platform designed to help businesses and individuals create custom chatbots that provide instant, accurate answers by leveraging their own documentation, websites, or other content sources. The platform uses advanced natural language processing to understand user queries and deliver contextually relevant responses, enhancing customer support and user engagement. It aims to streamline workflows by automating responses to common inquiries, reducing the need for manual intervention. DocsBot serves a wide range of users, from small businesses to developers, by offering easy integration with platforms like Slack, WordPress, and Zapier. Its mission is to make knowledge accessible and actionable through intelligent automation. The service is particularly valuable for organizations looking to improve efficiency and provide 24/7 support without extensive coding knowledge.",
+    "url": "https://docsbot.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/docsbot.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "docsbot",
+    "categories": [
+        "AI Chatbot",
+        "AI Customer Service",
+        "AI Developer Tools",
+        "AI Translate"
+    ],
+    "features": [
+        "DocsBot allows users to create custom AI chatbots trained on their specific documentation, ensuring accurate and tailored responses.",
+        "The platform supports integration with multiple channels like Slack, WordPress, and Zapier for seamless deployment.",
+        "It offers real-time indexing of web content, enabling chatbots to provide up-to-date answers from dynamic sources.",
+        "DocsBot provides analytics to track chatbot performance and user interactions, helping optimize engagement.",
+        "Users can customize chatbot behavior and responses without needing advanced programming skills.",
+        "The service includes a question-answering API for developers to embed AI responses into custom applications.",
+        "DocsBot supports multiple languages, making it accessible for global audiences.",
+        "It offers secure data handling to ensure user content and interactions remain private and protected."
+    ],
+    "faqs": [
+        {
+            "question": "What is DocsBot used for?",
+            "answer": "DocsBot is used to create AI-powered chatbots that answer user questions based on custom documentation, websites, or other content sources, improving customer support and engagement."
+        },
+        {
+            "question": "Does DocsBot offer a free plan?",
+            "answer": "Yes, DocsBot offers a free plan with limited features, allowing users to test the platform before upgrading to paid tiers."
+        },
+        {
+            "question": "Can I integrate DocsBot with my website?",
+            "answer": "Yes, DocsBot supports easy integration with websites via plugins like WordPress or custom API implementations."
+        },
+        {
+            "question": "How does DocsBot ensure data privacy?",
+            "answer": "DocsBot employs secure data handling practices and encryption to protect user content and interactions."
+        },
+        {
+            "question": "Do I need coding skills to use DocsBot?",
+            "answer": "No, DocsBot is designed to be user-friendly, allowing non-technical users to create and customize chatbots with ease."
+        },
+        {
+            "question": "Can DocsBot handle multiple languages?",
+            "answer": "Yes, DocsBot supports multilingual capabilities, enabling chatbots to respond in various languages."
+        },
+        {
+            "question": "What types of content can DocsBot use for training?",
+            "answer": "DocsBot can be trained on documentation, websites, PDFs, or any text-based content provided by the user."
+        }
+    ]
+}

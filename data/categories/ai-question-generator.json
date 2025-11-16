@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Question Generator Tools in 2025",
+    "summary": "Unlock the power of inquiry with our AI Question Generator tools! Designed to enhance learning, boost creativity, and streamline content creation, these innovative solutions help you generate insightful questions tailored to your needs. Whether you're an educator, content creator, or simply curious, our tools save you time and spark engaging discussions. Explore our curated selection of AI Question Generators today and elevate your questioning game. Dive in now to discover how these tools can transform your approach to knowledge and creativity!",
+    "tools": [
+        {
+            "id": "513",
+            "name": "Thetawise",
+            "slug": "thetawise-ai",
+            "description": "Thetawise is an AI-powered math tutor providing instant help and step-by-step solutions for students.",
+            "icon": "/logo/thetawise.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-question-generator"
+            ]
+        },
+        {
+            "id": "537",
+            "name": "Re:amaze",
+            "slug": "reamaze",
+            "description": "Re:amaze is a cloud-based helpdesk and customer messaging platform for eCommerce and businesses to support, engage, and convert customers.",
+            "icon": "/logo/www.reamaze.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-question-generator"
+            ]
+        },
+        {
+            "id": "1061",
+            "name": "EduBrain.ai",
+            "slug": "edubrain-ai",
+            "description": "EduBrain.ai is an AI-powered homework helper that provides quick, accurate, and stress-free solutions for students across various subjects and academic levels.",
+            "icon": "/logo/edubrain.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-question-generator"
+            ]
+        },
+        {
+            "id": "1077",
+            "name": "Outset",
+            "slug": "outset-ai",
+            "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+            "icon": "/logo/outset.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-question-generator"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "nichesss",
+            "slug": "nichesss",
+            "description": "nichesss is an AI-powered copywriting software that generates various types of content, such as blog posts, ads, social media content, and more, by clicking a button.",
+            "icon": "/logo/nichesss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-question-generator"
+            ]
+        },
+        {
+            "id": "1424",
+            "name": "NTRVSTA",
+            "slug": "ntrvsta",
+            "description": "NTRVSTA is an AI-powered platform that automates interviews to make hiring more efficient, fair, and engaging for companies and candidates.",
+            "icon": "/logo/www.ntrvsta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-question-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Crikk",
+    "description": "Crikk is an AI-powered text-to-speech platform that converts text, PDFs, and images into natural-sounding audio for enhanced reading and productivity.",
+    "longDescription": "Crikk is a sophisticated AI-driven text-to-speech tool designed to transform written content, including PDFs, text documents, and images, into high-quality, natural-sounding audio. Its mission is to make reading more accessible and efficient, helping users consume information faster while multitasking or on the go. The platform supports over 100 languages and offers customizable voice options, making it ideal for students, professionals, and content creators. By highlighting text as it reads, Crikk enhances comprehension and retention, backed by studies showing the benefits of simultaneous reading and listening. Developed by Monster Incorporation Inc., Crikk aims to streamline content consumption and voiceover creation with a user-friendly interface available on web, Android, and iOS platforms.",
+    "url": "https://crikk.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/crikk.com.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "crikk",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Over",
+        "AI Translate",
+        "AI OCR",
+        "AI Audio Editing",
+        "AI Voice Changer",
+        "AI Language Learning",
+        "AI Writing",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Converts text, PDFs, and images into natural-sounding audio, enabling users to listen to content while multitasking.",
+        "Supports over 100 languages with multiple accents, catering to a global audience.",
+        "Highlights words and sentences in real-time during audio playback, improving comprehension and retention.",
+        "Offers adjustable speaking speeds up to 9x, allowing users to consume content faster.",
+        "Provides over 300 natural-sounding AI voices, including emotional styles like cheerful or sad, for diverse voiceover needs.",
+        "Includes built-in OCR to extract text from images, such as handwritten notes or scanned documents, for audio conversion.",
+        "Allows users to create and download MP3 voiceovers for videos, presentations, or audiobooks with customizable settings.",
+        "Features a free plan with unlimited text-to-speech for select voices, making it accessible without cost.",
+        "Supports file formats like EPUB, DOCX, and Markdown, enhancing compatibility with various document types.",
+        "Enables voiceover generation without registration for quick, hassle-free use."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Crikk convert to audio?",
+            "answer": "Crikk can convert text, PDFs, images, and documents like EPUB and DOCX into natural-sounding audio, including handwritten notes via OCR."
+        },
+        {
+            "question": "Is Crikk available for free?",
+            "answer": "Yes, Crikk offers a free plan with unlimited text-to-speech for select voices, though premium voices and features require a paid subscription."
+        },
+        {
+            "question": "Which languages does Crikk support?",
+            "answer": "Crikk supports over 100 languages, including English, Spanish, French, Arabic, and more, with multiple accents for popular languages."
+        },
+        {
+            "question": "Can I create voiceovers for commercial use with Crikk?",
+            "answer": "Yes, Crikk allows users to create and download MP3 voiceovers for commercial projects like videos and presentations."
+        },
+        {
+            "question": "How does Crikk improve reading comprehension?",
+            "answer": "Crikk highlights words as they are read aloud, combining listening and reading to enhance retention, as supported by studies."
+        },
+        {
+            "question": "What platforms is Crikk available on?",
+            "answer": "Crikk is available on web, Android, and iOS platforms, accessible through a single account."
+        },
+        {
+            "question": "Does Crikk require registration to use?",
+            "answer": "No registration is required for generating voiceovers with free voices, but an account is needed for premium features."
+        },
+        {
+            "question": "Can I adjust the voice settings in Crikk?",
+            "answer": "Yes, Crikk allows customization of voice style, pitch, and speaking speed for tailored audio output."
+        }
+    ]
+}

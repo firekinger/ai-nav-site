@@ -1,0 +1,57 @@
+{
+    "name": "NotebookLM",
+    "description": "NotebookLM is an AI-powered research and note-taking tool that helps users summarize, analyze, and interact with complex information from various sources.",
+    "longDescription": "NotebookLM, developed by Google Labs, is an AI-powered research assistant designed to help users organize, synthesize, and understand complex information from documents, websites, and multimedia sources. Leveraging Google’s Gemini 1.5 Pro model, it transforms raw data into actionable insights by generating summaries, FAQs, timelines, and audio discussions. It serves students, researchers, professionals, and teams by streamlining workflows and enhancing productivity within Google Workspace. The tool ensures data privacy by grounding responses in user-uploaded sources without using them for training. NotebookLM Plus, a premium version, offers higher usage limits and enterprise-grade features for advanced needs. Its intuitive interface makes it accessible for both personal and collaborative projects.",
+    "url": "https://notebooklm.google/?utm_source=ainavdir",
+    "screenshot": "/screenshot/notebooklm.google.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "notebooklm",
+    "categories": [
+        "AI Research Tool",
+        "AI Note Taker",
+        "AI Summarizer",
+        "AI Music Generator",
+        "AI Project Management",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Upload and analyze diverse sources like PDFs, Google Docs, Slides, web URLs, and audio files to create comprehensive notebooks for research or projects.",
+        "Generate concise summaries, FAQs, timelines, or study guides from uploaded content to streamline information processing and comprehension.",
+        "Create Audio Overviews that transform documents into engaging, podcast-style discussions with AI hosts for an interactive learning experience.",
+        "Discover Sources feature allows users to find and add relevant web content to notebooks with one click, enhancing research efficiency.",
+        "Ground responses in user-uploaded sources with inline citations to ensure accuracy and transparency in AI-generated answers.",
+        "Integrate seamlessly with Google Workspace for collaborative workflows, enabling teams to manage and share notebooks securely.",
+        "Support up to 100 notebooks with 50 sources each on the free plan, with NotebookLM Plus offering 5x higher limits for power users."
+    ],
+    "faqs": [
+        {
+            "question": "What types of files can I upload to NotebookLM?",
+            "answer": "NotebookLM supports PDFs, Google Docs, Google Slides, web URLs, YouTube videos with transcripts, and audio files like MP3 or WAV."
+        },
+        {
+            "question": "Is NotebookLM free to use?",
+            "answer": "Yes, NotebookLM offers a generous free plan with up to 100 notebooks, 50 sources per notebook, and 3 Audio Overviews per day, with higher limits available via paid plans."
+        },
+        {
+            "question": "How does NotebookLM ensure data privacy?",
+            "answer": "NotebookLM grounds responses in user-uploaded sources, does not use personal data for training, and stores data securely within your Google Cloud project for enterprise users."
+        },
+        {
+            "question": "Can I share my notebooks with others?",
+            "answer": "Yes, notebooks can be shared publicly or with specific users via a link, allowing others to explore, ask questions, and access summaries or audio overviews."
+        },
+        {
+            "question": "What is the Audio Overview feature?",
+            "answer": "Audio Overview generates podcast-style discussions from your sources, with two AI hosts summarizing and connecting topics for an engaging listening experience."
+        },
+        {
+            "question": "How does NotebookLM differ from other AI tools?",
+            "answer": "Unlike general LLMs, NotebookLM focuses on user-uploaded sources, providing cited, context-specific responses and tools like study guides or FAQs tailored to your content."
+        },
+        {
+            "question": "Is NotebookLM suitable for enterprise use?",
+            "answer": "NotebookLM Enterprise offers enhanced security, compliance, and administrative features, making it ideal for businesses and teams within Google Cloud."
+        }
+    ]
+}

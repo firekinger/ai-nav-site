@@ -1,0 +1,74 @@
+{
+    "name": "ClackyAI",
+    "description": "ClackyAI is an AI-powered coding platform that accelerates software development by automating tasks and transforming issue descriptions into pull requests.",
+    "longDescription": "ClackyAI is an advanced AI-driven coding studio designed to enhance programming efficiency and automate development processes. Its mission is to revolutionize software development by enabling 10x faster coding through agentic AI capabilities. The platform serves developers by providing full codebase awareness, allowing seamless navigation and manipulation of code. It solves problems like time-consuming setup and collaboration issues by offering real-time online operations and multi-tasking features. Users benefit from its task time machine for auditing changes and ensuring project consistency. Additionally, it integrates AI for suggestions, code reviews, bug fixes, and environment management.",
+    "url": "https://clacky.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/clacky.ai.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "clackyai",
+    "categories": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Review",
+        "AI Assistant",
+        "AI Task Management",
+        "AI Project Management"
+    ],
+    "features": [
+        "Transforms natural language issue descriptions directly into pull requests for automated code generation and faster development cycles.",
+        "Provides full codebase awareness to help developers understand, navigate, and manipulate entire projects efficiently.",
+        "Features a task time machine for visualizing, controlling, and auditing AI-driven code changes over time.",
+        "Supports collaborative multi-tasking, enabling multiple users to work on projects simultaneously in real-time.",
+        "Offers code snapshot technologies to capture and review code states at various development points for better oversight.",
+        "Includes AI-assisted suggestions, code reviews, bug fixes, and idea generation to enhance coding productivity.",
+        "Provides precise environment control for consistent and instant development setup without manual configuration.",
+        "Enables real-time online operation for immediate access, updates, and seamless workflow integration.",
+        "Features seamless AI integration to automate complex tasks and maintain full-project context using LLMs.",
+        "Includes Auto-Check and Auto-Fix capabilities to automatically review terminal logs, console outputs, and syntax after execution.",
+        "Handles instant dev environment setup to reduce time spent on configuration and increase focus on coding.",
+        "Supports coordinated planning and execution for complex coding projects through AI-driven tools."
+    ],
+    "faqs": [
+        {
+            "question": "What is ClackyAI?",
+            "answer": "ClackyAI is an AI-powered coding platform designed to accelerate software development by automating tasks from issue descriptions to pull requests. It uses agentic AI to handle coding at 10x speed."
+        },
+        {
+            "question": "Is ClackyAI free to use?",
+            "answer": "Yes, ClackyAI offers a free Hobby plan for trying out features. New users also get a 7-day free trial of the Pro plan with 1,000 credits."
+        },
+        {
+            "question": "What are the main features of ClackyAI?",
+            "answer": "Key features include full codebase awareness, task time machine, collaborative multi-tasking, AI-assisted code generation, bug fixes, and environment setup."
+        },
+        {
+            "question": "How does ClackyAI help with coding projects?",
+            "answer": "It automates code generation from natural language, provides AI suggestions and reviews, fixes bugs, and manages project context for efficient development."
+        },
+        {
+            "question": "Does ClackyAI support team collaboration?",
+            "answer": "Yes, it enables real-time collaborative multi-tasking, allowing teams to work together seamlessly on coding projects."
+        },
+        {
+            "question": "What is the Task Time Machine in ClackyAI?",
+            "answer": "The Task Time Machine is a feature that offers complete visualization and control over AI-driven changes, enabling developers to audit and manage code modifications effectively."
+        },
+        {
+            "question": "How do credits work in ClackyAI?",
+            "answer": "Credits are consumed for actions like file editing and task runs, while regular conversations are free. Every 5 file editing actions cost 50 credits at a discounted rate."
+        },
+        {
+            "question": "Is ClackyAI cloud-based?",
+            "answer": "Yes, ClackyAI is a cloud development environment (CDE) with real-time online operation and no need for local installation."
+        },
+        {
+            "question": "Can ClackyAI handle complex projects?",
+            "answer": "Yes, it maintains full-project context, coordinates planning, and executes tasks using LLMs, making it suitable for complex coding projects."
+        },
+        {
+            "question": "How can I join the ClackyAI community?",
+            "answer": "You can join the community via the Discord link provided on the website for support, engagement, and discussions."
+        }
+    ]
+}

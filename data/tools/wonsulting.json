@@ -1,0 +1,64 @@
+{
+    "name": "Wonsulting",
+    "description": "Wonsulting is a career development platform that provides AI-powered tools and consulting services to help job seekers optimize their resumes, LinkedIn profiles, and job search strategies.",
+    "longDescription": "Wonsulting is a career consulting company founded by Jonathan Javier and Jerry Lee, aimed at empowering underrepresented professionals to land high-paying jobs in competitive industries like tech and finance. It offers a range of services including personalized coaching, resume reviews, and networking advice to bridge the gap between job seekers and employers. The platform integrates AI technology through tools like WonsultingAI, which automates resume building and cover letter generation to make the job application process more efficient. By focusing on accessibility, Wonsulting provides resources for free or at low cost, targeting students, recent graduates, and career changers. Ultimately, its mission is to democratize career success by providing actionable strategies and tools that help users stand out in the job market.",
+    "url": "https://www.wonsulting.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.wonsulting.com.webp",
+    "category": "AI Resume Builder",
+    "categorySlug": "ai-resume-builder",
+    "slug": "wonsulting",
+    "categories": [
+        "AI Resume Builder",
+        "AI Coaching",
+        "AI Recruiting",
+        "AI Linkedin Photo Generator",
+        "AI Cover Letter Generator",
+        "AI Influencer",
+        "AI Job Description Generator",
+        "AI Interview Assistant"
+    ],
+    "features": [
+        "AI-powered resume builder that scans and optimizes resumes to match job descriptions, increasing the chances of passing applicant tracking systems.",
+        "LinkedIn profile optimization service that uses AI to suggest improvements for better visibility and networking opportunities.",
+        "Personalized career coaching sessions with experts to develop tailored job search strategies and interview preparation.",
+        "Cover letter generator that creates customized letters based on user input and job requirements, saving time and improving quality.",
+        "Free webinars and resources on job search tactics, resume writing, and industry insights to educate users at no cost.",
+        "Networking templates and scripts to help users connect with professionals and recruiters effectively.",
+        "Job tracking tools to organize applications, follow-ups, and interview schedules in one place.",
+        "Community forums and events for users to share experiences and gain peer support in their career journeys."
+    ],
+    "faqs": [
+        {
+            "question": "What is Wonsulting?",
+            "answer": "Wonsulting is a career development platform offering AI tools and consulting services to help job seekers land roles in competitive fields. It focuses on resume optimization, LinkedIn strategies, and personalized coaching."
+        },
+        {
+            "question": "Does Wonsulting offer free services?",
+            "answer": "Yes, Wonsulting provides free resources like webinars, templates, and basic AI tools. Premium features such as one-on-one coaching require payment."
+        },
+        {
+            "question": "How does the AI resume builder work?",
+            "answer": "The AI resume builder analyzes your existing resume and job descriptions to suggest edits, keywords, and formatting improvements. It helps tailor your resume to pass ATS filters and appeal to recruiters."
+        },
+        {
+            "question": "Who is Wonsulting best suited for?",
+            "answer": "Wonsulting is ideal for students, recent graduates, career changers, and underrepresented professionals seeking jobs in tech, finance, and other industries. It caters to those needing guidance in job searching and personal branding."
+        },
+        {
+            "question": "Can I get personalized coaching?",
+            "answer": "Yes, Wonsulting offers paid one-on-one coaching sessions with career experts. These sessions cover resume reviews, interview prep, and customized job search plans."
+        },
+        {
+            "question": "Is Wonsulting affiliated with any companies?",
+            "answer": "Wonsulting partners with various companies for recruitment events but operates independently. It focuses on empowering job seekers rather than direct hiring."
+        },
+        {
+            "question": "How do I get started with WonsultingAI?",
+            "answer": "Sign up on the website, upload your resume, and input job details. The AI will generate suggestions, and you can iterate for free or upgrade for advanced features."
+        },
+        {
+            "question": "What makes Wonsulting different from other career sites?",
+            "answer": "Wonsulting emphasizes AI integration for efficiency and focuses on underrepresented groups with affordable, actionable advice. It combines technology with human expertise for comprehensive support."
+        }
+    ]
+}

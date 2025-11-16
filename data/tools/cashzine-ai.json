@@ -1,0 +1,71 @@
+{
+    "name": "Cashzine AI",
+    "description": "Cashzine AI is an online platform providing AI-powered tools for image editing, including background removal, upscaling, and sketching animation generation.",
+    "longDescription": "Cashzine AI is a web-based service that leverages advanced artificial intelligence to offer tools for enhancing and editing images and videos. Its mission is to simplify design workflows for designers, photographers, and content creators by automating complex tasks. The platform solves problems like manual background removal and low-resolution issues through precise AI-driven solutions. Users can upload images to generate high-quality results quickly, without needing specialized software or skills. It emphasizes accessibility, making professional-grade editing available to a broad audience. Overall, Cashzine AI aims to boost creativity and efficiency in visual content creation.",
+    "url": "https://cashzineapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cashzineapp.com.webp",
+    "category": "AI Background Remover",
+    "categorySlug": "ai-background-remover",
+    "slug": "cashzine-ai",
+    "categories": [
+        "AI Background Remover",
+        "AI Image Upscaler",
+        "AI Video Upscaler",
+        "AI Animation Generator",
+        "AI Image Enhancer",
+        "AI Passport Photo",
+        "AI Photo Editor",
+        "AI Writing"
+    ],
+    "features": [
+        "AI-powered background removal that quickly and accurately eliminates backgrounds from images, enabling users to create clean, professional visuals in seconds.",
+        "Image and video upscaling using next-generation AI to enhance resolution and quality, ideal for improving low-quality media.",
+        "Generation of sketching animation videos from uploaded images, allowing users to transform static photos into dynamic animated content.",
+        "Creation of professional ID photos with automatic AI adjustments for lighting, cropping, and enhancements to meet standard requirements.",
+        "User-friendly interface that requires no authentication, making it easy for anyone to access and use the tools immediately.",
+        "Download option for processed images and videos, ensuring users can save and utilize their edited content offline.",
+        "High-precision AI algorithms that deliver sharp and reliable results, reducing the need for manual corrections."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cashzine AI?",
+            "answer": "Cashzine AI is an online platform offering AI-driven tools for image and video editing, such as background removal, upscaling, and animation generation. It helps users create high-quality visuals efficiently."
+        },
+        {
+            "question": "Is Cashzine AI free to use?",
+            "answer": "Yes, the service is currently completely free with no authentication required. However, premium features may be introduced in the future."
+        },
+        {
+            "question": "How do I use the background removal tool?",
+            "answer": "Simply upload an image to the platform, and the AI will automatically remove the background, providing a sharp result ready for download."
+        },
+        {
+            "question": "Can I upscale videos on Cashzine AI?",
+            "answer": "Yes, the platform supports video upscaling using advanced AI to improve quality and resolution."
+        },
+        {
+            "question": "What is the sketching animation feature?",
+            "answer": "This tool allows you to upload an image, which the AI converts into a video showing a sketching animation process, downloadable for use."
+        },
+        {
+            "question": "Does Cashzine AI require any software installation?",
+            "answer": "No, it's a web-based service accessible directly through your browser without any downloads or installations."
+        },
+        {
+            "question": "Is there customer support available?",
+            "answer": "The platform does not provide dedicated support or maintenance, but you can contact them via the form on the website for inquiries."
+        },
+        {
+            "question": "Can I use Cashzine AI for commercial purposes?",
+            "answer": "Yes, but users are responsible for ensuring their created content complies with laws and does not infringe on third-party rights."
+        },
+        {
+            "question": "What file formats are supported for uploads?",
+            "answer": "Common image formats like JPEG and PNG are supported for uploads, with generated outputs in standard video formats."
+        },
+        {
+            "question": "Will Cashzine AI store my uploaded images?",
+            "answer": "The platform does not specify data storage policies, but users should assume images are processed temporarily for the service."
+        }
+    ]
+}

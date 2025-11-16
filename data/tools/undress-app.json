@@ -1,0 +1,57 @@
+{
+    "name": "Undress.app",
+    "description": "Undress.app uses AI to generate altered images by removing clothing from photos, offering users a tool for creative or personal use.",
+    "longDescription": "Undress.app is an AI-powered web platform designed to digitally alter images by removing clothing, primarily for creative, artistic, or personal exploration. The website leverages advanced machine learning models to process uploaded images and generate realistic results based on user inputs. It targets users seeking to experiment with AI-driven image manipulation, often for entertainment or visualization purposes. The platform emphasizes ease of use, requiring minimal technical expertise, and provides options for customization to suit individual preferences. While controversial due to its sensitive applications, the service aims to cater to niche creative needs with a focus on privacy and user control.",
+    "url": "https://undress.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/undress.app.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "undress-app",
+    "categories": [
+        "AI Photo Editor",
+        "AI Clothing Removal",
+        "AI Art Generator",
+        "AI Character",
+        "AI Image Recognition"
+    ],
+    "features": [
+        "AI-driven clothing removal generates realistic image alterations from user-uploaded photos.",
+        "User-friendly interface simplifies the process of uploading and editing images with minimal steps.",
+        "Customizable output options allow users to adjust the level of alteration for personalized results.",
+        "Fast processing delivers edited images quickly using advanced machine learning algorithms.",
+        "Privacy-focused design ensures user-uploaded images are handled securely during processing.",
+        "Cross-device compatibility supports usage on desktops, tablets, and mobile devices.",
+        "Multiple image formats are supported for uploads, enhancing user flexibility.",
+        "Downloadable results enable users to save and share their edited images as needed."
+    ],
+    "faqs": [
+        {
+            "question": "What is the primary function of Undress.app?",
+            "answer": "Undress.app uses AI to digitally remove clothing from uploaded images, creating altered visuals for creative or personal use."
+        },
+        {
+            "question": "Is Undress.app free to use?",
+            "answer": "The platform offers a free plan with limited features, while premium options unlock advanced capabilities and higher usage limits."
+        },
+        {
+            "question": "How does Undress.app ensure user privacy?",
+            "answer": "The platform employs secure processing and does not store user images long-term, prioritizing data privacy."
+        },
+        {
+            "question": "What types of images can I upload to Undress.app?",
+            "answer": "Users can upload various image formats, such as JPEG and PNG, for processing, as long as they meet size and quality requirements."
+        },
+        {
+            "question": "Can I customize the results of the image processing?",
+            "answer": "Yes, Undress.app provides options to adjust the level of clothing removal or other parameters for tailored outputs."
+        },
+        {
+            "question": "Is the platform suitable for professional use?",
+            "answer": "While primarily for creative or personal use, professionals in art or design may find it useful for specific visualization projects."
+        },
+        {
+            "question": "What are the ethical considerations of using Undress.app?",
+            "answer": "Users are encouraged to use the platform responsibly, respecting consent and privacy, as the technology can raise ethical concerns."
+        }
+    ]
+}

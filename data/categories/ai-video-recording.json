@@ -1,0 +1,127 @@
+{
+    "title": "The Best 12 AI Video Recording Tools in 2025",
+    "summary": "Unlock the power of AI Video Recording tools to elevate your content creation process. Designed for professionals and enthusiasts alike, these innovative solutions streamline video production, enhance editing efficiency, and improve overall quality. Whether you're creating tutorials, marketing videos, or personal projects, AI-driven features like automated editing and smart enhancements save you time and effort. Explore our curated selection of AI Video Recording tools today and transform your video projects into captivating visual experiences. Start your journey towards effortless video creation now!",
+    "tools": [
+        {
+            "id": "201",
+            "name": "Veo",
+            "slug": "veo",
+            "description": "Veo provides AI-powered sports video recording and analysis solutions for teams and athletes.",
+            "icon": "/logo/www.veo.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "ScreenApp",
+            "slug": "screenapp",
+            "description": "ScreenApp is a versatile screen recording and video editing platform designed to simplify content creation and collaboration.",
+            "icon": "/logo/screenapp.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "284",
+            "name": "HitPaw",
+            "slug": "hitpaw",
+            "description": "HitPaw offers AI-powered multimedia editing tools for video, audio, and image enhancement.",
+            "icon": "/logo/www.hitpaw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "335",
+            "name": "Vidyard",
+            "slug": "vidyard",
+            "description": "Vidyard is an online video platform that empowers businesses to create, host, and analyze videos to enhance sales, marketing, and customer engagement.",
+            "icon": "/logo/www.vidyard.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "471",
+            "name": "Apowersoft",
+            "slug": "apowersoft",
+            "description": "Apowersoft provides multimedia and business solutions for recording, editing, and sharing digital content across devices.",
+            "icon": "/logo/www.apowersoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "631",
+            "name": "RecCloud",
+            "slug": "reccloud",
+            "description": "RecCloud is an AI-powered multimedia platform offering tools for video and audio creation, editing, and cloud storage.",
+            "icon": "/logo/reccloud.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "743",
+            "name": "Bluedot",
+            "slug": "bluedot",
+            "description": "Bluedot provides an AI-powered note-taking and meeting recording solution for platforms like Google Meet, Zoom, and Microsoft Teams.",
+            "icon": "/logo/www.bluedothq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "777",
+            "name": "Elai.io",
+            "slug": "elai-io",
+            "description": "Elai.io is an AI-powered platform that transforms text into high-quality, interactive video content with digital human presenters.",
+            "icon": "/logo/elai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "822",
+            "name": "Komodo Decks",
+            "slug": "komodo-decks",
+            "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+            "icon": "/logo/komododecks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        },
+        {
+            "id": "44",
+            "name": "Loom",
+            "slug": "loom",
+            "description": "Loom is a video messaging platform that enables users to record and share screen and camera videos for effective asynchronous communication.",
+            "icon": "/logo/loom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-recording"
+            ]
+        }
+    ]
+}

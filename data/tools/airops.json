@@ -1,0 +1,73 @@
+{
+    "name": "Airops",
+    "description": "Airops is a no-code platform that enables users to build, deploy, and scale AI-powered applications and workflows effortlessly.",
+    "longDescription": "Airops is a user-friendly platform designed to democratize AI development by allowing individuals and businesses to create custom AI applications without writing code. Its mission is to accelerate innovation and automate processes across industries by simplifying AI integration. Users can leverage pre-built AI models, integrations, and tools to solve real-world problems, from automating customer service to optimizing data analysis. The platform serves developers, business professionals, and non-technical users alike, making AI accessible and scalable. By focusing on no-code solutions, Airops reduces the barriers to entry in AI adoption, enabling faster prototyping and deployment. Overall, it empowers users to transform ideas into functional AI apps that drive efficiency and growth.",
+    "url": "https://www.airops.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.airops.com.webp",
+    "category": "AI App Builder",
+    "categorySlug": "ai-app-builder",
+    "slug": "airops",
+    "categories": [
+        "AI App Builder",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Tools Directory",
+        "AI For Data Analytics",
+        "AI Chatbot",
+        "AI Predictions"
+    ],
+    "features": [
+        "No-code builder allows users to drag and drop components to create AI workflows quickly, eliminating the need for programming skills.",
+        "Pre-built AI models and templates enable rapid prototyping of applications for tasks like data processing and automation.",
+        "Seamless integrations with popular tools such as databases, APIs, and cloud services enhance connectivity and functionality.",
+        "Scalable deployment options let users host and run AI apps in the cloud with automatic scaling for high demand.",
+        "Collaboration tools facilitate team-based development, allowing multiple users to work on projects simultaneously.",
+        "Analytics and monitoring features provide insights into app performance and usage for continuous improvement.",
+        "Customizable AI agents can be built to handle specific business logic, improving operational efficiency.",
+        "Secure data handling ensures compliance with privacy standards while processing sensitive information.",
+        "Version control tracks changes in AI apps, making it easy to iterate and rollback if needed.",
+        "Extensive library of AI blocks supports advanced functionalities like natural language processing and machine learning."
+    ],
+    "faqs": [
+        {
+            "question": "What is Airops?",
+            "answer": "Airops is a no-code platform for building and deploying AI applications. It allows users to create custom workflows using drag-and-drop tools without needing coding expertise."
+        },
+        {
+            "question": "Does Airops offer a free plan?",
+            "answer": "Yes, Airops provides a free tier with limited features for users to test and build basic AI apps. Upgrading to paid plans unlocks advanced capabilities and higher usage limits."
+        },
+        {
+            "question": "How do I integrate Airops with other tools?",
+            "answer": "Airops supports seamless integrations via APIs and pre-built connectors to services like Google Workspace, Slack, and databases. Users can configure these in the builder interface."
+        },
+        {
+            "question": "Is Airops suitable for non-technical users?",
+            "answer": "Absolutely, its no-code interface is designed for beginners, with intuitive tools and tutorials to guide users through creating AI apps."
+        },
+        {
+            "question": "What kind of AI apps can I build with Airops?",
+            "answer": "You can build a variety of apps, including automation bots, data analyzers, chatbots, and predictive models, tailored to business or personal needs."
+        },
+        {
+            "question": "How secure is data on Airops?",
+            "answer": "Airops prioritizes security with encryption, compliance certifications, and user-controlled access permissions to protect sensitive data."
+        },
+        {
+            "question": "Can I collaborate with my team on Airops?",
+            "answer": "Yes, the platform includes collaboration features like shared workspaces and real-time editing for team-based project development."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "Airops offers documentation, community forums, and premium support for paid users, including live chat and dedicated assistance."
+        },
+        {
+            "question": "How does scaling work on Airops?",
+            "answer": "Apps deployed on Airops can automatically scale based on traffic, with options to monitor and adjust resources via the dashboard."
+        },
+        {
+            "question": "Is there a limit to the number of apps I can build?",
+            "answer": "Free plans have limits on app complexity and deployments, while paid tiers allow unlimited builds and advanced features."
+        }
+    ]
+}

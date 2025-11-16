@@ -1,0 +1,76 @@
+{
+    "name": "BoltAI",
+    "description": "BoltAI is a native macOS application that provides instant access to various AI models like ChatGPT, enhancing productivity through seamless integration into daily workflows.",
+    "longDescription": "BoltAI is a powerful macOS app designed to bring AI capabilities directly to your desktop, allowing users to interact with multiple AI models without leaving their applications. Its mission is to make AI accessible, private, and efficient for Mac users, solving the problem of fragmented AI tools by offering a unified interface. The app supports models from providers like OpenAI, Anthropic, and others, ensuring secure data handling and customizable experiences. It serves developers, writers, and professionals by enabling quick AI assistance for tasks such as coding, content creation, and research. Overall, BoltAI streamlines workflows by embedding AI into familiar Mac environments, reducing the need for web-based interfaces.",
+    "url": "https://boltai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/boltai.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "boltai",
+    "categories": [
+        "AI Assistant",
+        "AI Productivity Tools",
+        "AI App Builder",
+        "Prompt Engineering",
+        "Large Language Models (LLMs)",
+        "AI Workflow",
+        "AI Writing",
+        "AI Developer Tools",
+        "AI Chat Generator",
+        "AI Task Management"
+    ],
+    "features": [
+        "Instant AI access allows users to invoke ChatGPT and other models directly within any Mac app for quick responses without switching contexts.",
+        "Support for multiple AI models including GPT, Claude, and Mistral enables users to choose the best tool for specific tasks, enhancing flexibility.",
+        "Custom assistants let users create tailored AI helpers with predefined prompts and behaviors to automate repetitive tasks efficiently.",
+        "Secure API key management ensures that user data remains private and protected on their local machine.",
+        "Prompt library provides a collection of ready-to-use prompts for common scenarios, saving time on crafting queries from scratch.",
+        "Integration with macOS features like Spotlight and menu bar offers seamless accessibility across the system.",
+        "Offline capabilities for certain models allow AI usage without an internet connection, ideal for privacy-conscious users.",
+        "Customizable shortcuts and hotkeys speed up interactions, boosting productivity for power users.",
+        "Team collaboration features enable sharing of custom assistants and prompts within organizations.",
+        "Regular updates and model integrations keep the app current with the latest AI advancements."
+    ],
+    "faqs": [
+        {
+            "question": "What is BoltAI?",
+            "answer": "BoltAI is a macOS application that integrates various AI models like ChatGPT into your workflow, allowing instant access from any app. It focuses on privacy and efficiency for Mac users."
+        },
+        {
+            "question": "Does BoltAI require an internet connection?",
+            "answer": "While most features rely on API calls to AI providers, which need internet, some models can run offline if supported locally."
+        },
+        {
+            "question": "Is BoltAI free to use?",
+            "answer": "BoltAI offers a free trial, but full access requires a one-time purchase or subscription. The trial allows testing core features with limitations."
+        },
+        {
+            "question": "Which AI models does BoltAI support?",
+            "answer": "BoltAI supports popular models from OpenAI (like GPT-4), Anthropic (Claude), Mistral, and more, with easy switching between them."
+        },
+        {
+            "question": "How does BoltAI ensure data privacy?",
+            "answer": "API keys are stored securely on your Mac, and data isn't shared with third parties beyond the AI providers you choose. It emphasizes local processing where possible."
+        },
+        {
+            "question": "Can I create custom AI assistants in BoltAI?",
+            "answer": "Yes, users can build custom assistants with specific prompts, behaviors, and integrations to suit their needs, such as for coding or writing."
+        },
+        {
+            "question": "Is BoltAI compatible with all Mac versions?",
+            "answer": "BoltAI requires macOS Ventura or later and is optimized for Apple Silicon, but it works on Intel Macs as well."
+        },
+        {
+            "question": "How do I install BoltAI?",
+            "answer": "Download the app from the official website, boltai.com, and follow the installation prompts; it's a straightforward native Mac app setup."
+        },
+        {
+            "question": "What makes BoltAI different from web-based AI tools?",
+            "answer": "BoltAI provides native macOS integration, faster access via shortcuts, and better privacy compared to browser-based alternatives."
+        },
+        {
+            "question": "Does BoltAI support team use?",
+            "answer": "Yes, it includes features for sharing custom assistants and prompts, making it suitable for teams and collaborative environments."
+        }
+    ]
+}

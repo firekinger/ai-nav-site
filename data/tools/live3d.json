@@ -1,0 +1,64 @@
+{
+    "name": "Live3D",
+    "description": "Live3D is a comprehensive VTuber software suite for creating and animating virtual avatars for streaming and content creation.",
+    "longDescription": "Live3D is a leading VTuber software suite designed to empower content creators, streamers, and artists to craft and animate 3D virtual avatars for live streaming, video production, and interactive experiences. Its mission is to bridge the virtual and real worlds by providing user-friendly tools for both beginners and professionals to create engaging digital personas. The platform includes VTuber Maker, VTuber Editor, VTuber Gallery, and VTuber Extension, catering to over one million users worldwide. By leveraging advanced face and hand tracking technology, Live3D enables creators to bring avatars to life with real-time animations. It also offers custom model commissions and a variety of free and premium resources to enhance VTuber content. The platform is particularly popular among VTubers, YouTubers, and streamers seeking to elevate their virtual presence.",
+    "url": "https://live3d.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/live3d.io.webp",
+    "category": "AI Avatar Video Generator",
+    "categorySlug": "ai-avatar-video-generator",
+    "slug": "live3d",
+    "categories": [
+        "AI Avatar Video Generator",
+        "AI Animation Generator",
+        "AI Art Generator",
+        "AI Anime Art",
+        "AI Social Media",
+        "AI Video Generator"
+    ],
+    "features": [
+        "VTuber Maker enables real-time avatar animation using webcam-based face and hand tracking for immersive live streaming.",
+        "VTuber Editor allows users to customize VRM models with props, paints, and animations for unique avatar designs.",
+        "VTuber Gallery provides a collection of pre-made avatars and poses for quick content creation and reference.",
+        "Twitch Extension enhances stream interactivity with virtual effects and animations tailored to audience engagement.",
+        "High-precision full-body motion capture supports dynamic avatar movements using only a webcam or additional devices like Leap Motion.",
+        "Custom model commission service offers professional 3D and 2D VTuber model creation with features like lip sync and eye-tracking.",
+        "AnimeGenius, an AI-powered tool, generates high-quality anime-style art based on user prompts or reference images.",
+        "OBS virtual camera integration ensures seamless streaming with high-resolution VTuber content.",
+        "Rich asset library includes backgrounds, overlays, and stickers to enhance VTuber streams and videos.",
+        "Multi-dressing feature allows avatars to switch outfits seamlessly during live streams or recordings."
+    ],
+    "faqs": [
+        {
+            "question": "What is Live3D used for?",
+            "answer": "Live3D is a VTuber software suite for creating, animating, and streaming 3D virtual avatars for content creators, streamers, and artists."
+        },
+        {
+            "question": "Does Live3D offer a free version?",
+            "answer": "Yes, Live3D provides a free version with basic features, while advanced tools require a paid subscription."
+        },
+        {
+            "question": "Can I create my own VTuber avatar with Live3D?",
+            "answer": "You cannot directly create 3D models in VTuber Maker, but you can use VRoid Studio to design VRM models and import them into VTuber Editor for customization."
+        },
+        {
+            "question": "What platforms does Live3D support?",
+            "answer": "Live3D currently supports Windows PCs, with plans to develop applications for other platforms like macOS and mobile devices."
+        },
+        {
+            "question": "Does Live3D support 2D avatars?",
+            "answer": "Live3D primarily focuses on 3D avatars, but it offers limited 2D model support; for robust 2D solutions, alternatives like VTube Studio are recommended."
+        },
+        {
+            "question": "How accurate is Live3D’s tracking technology?",
+            "answer": "Live3D uses advanced face and hand tracking technology via webcam, providing high-precision motion capture for lifelike avatar animations."
+        },
+        {
+            "question": "Can I use Live3D for commercial projects?",
+            "answer": "Yes, Live3D’s paid subscriptions allow for commercial use, while the free version includes watermarks and is limited to non-commercial use."
+        },
+        {
+            "question": "What is AnimeGenius on Live3D?",
+            "answer": "AnimeGenius is an AI-powered tool by Live3D that generates anime-style art based on text prompts or reference images for creative projects."
+        }
+    ]
+}

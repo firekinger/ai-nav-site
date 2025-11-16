@@ -1,0 +1,54 @@
+{
+    "name": "Gauthmath",
+    "description": "Gauthmath is an AI-powered homework helper that provides instant math and science solutions with expert tutoring.",
+    "longDescription": "Gauthmath is an innovative educational platform designed to assist students with homework in math, science, and other subjects by leveraging AI technology and live expert tutors. Its mission is to make high-quality education accessible globally, offering free and personalized learning experiences. Users can snap a photo of a problem, and the app delivers step-by-step solutions, fostering understanding rather than just providing answers. The platform supports a wide range of topics, from basic arithmetic to advanced calculus, and adapts to individual learning styles. Gauthmath also offers premium features like Gauth PLUS for enhanced tutoring and ad-free access, ensuring flexibility for diverse user needs. It has gained popularity among students for its speed, accuracy, and 24/7 availability.",
+    "url": "https://www.gauthmath.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gauthmath.com.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "gauthmath",
+    "categories": [
+        "AI Homework Helper",
+        "AI Math",
+        "AI Tutorial",
+        "AI Image Recognition"
+    ],
+    "features": [
+        "Photo-based problem solver allows users to snap a picture of a math or science question for instant AI-driven solutions, saving time and effort.",
+        "Step-by-step explanations provide detailed breakdowns of solutions, helping students understand the methodology behind answers.",
+        "24/7 live tutoring connects users with expert tutors for personalized guidance anytime, ensuring support for urgent homework needs.",
+        "AI calculator offers quick and accurate computations for complex equations, enhancing problem-solving efficiency.",
+        "Multi-subject support covers math, physics, chemistry, and biology, making it a versatile tool for various academic challenges.",
+        "Ad-free experience with Gauth PLUS subscription improves user focus and provides unlimited solutions for premium users."
+    ],
+    "faqs": [
+        {
+            "question": "What subjects does Gauthmath cover?",
+            "answer": "Gauthmath supports math, physics, chemistry, biology, and more, covering topics from basic arithmetic to advanced calculus."
+        },
+        {
+            "question": "Is Gauthmath free to use?",
+            "answer": "Yes, Gauthmath offers free access to its core AI solver and limited solutions, with premium features available via Gauth PLUS."
+        },
+        {
+            "question": "How does the photo solver work?",
+            "answer": "Users take a photo of a problem, and Gauthmath’s AI automatically recognizes and solves it, providing step-by-step explanations."
+        },
+        {
+            "question": "Can I access Gauthmath at any time?",
+            "answer": "Gauthmath provides 24/7 access to AI solutions and live tutors, ensuring help is available whenever needed."
+        },
+        {
+            "question": "Is Gauthmath safe for students?",
+            "answer": "Gauthmath prioritizes user privacy, requiring minimal personal data and offering secure tutoring, though parental supervision is advised for younger users."
+        },
+        {
+            "question": "What is Gauth PLUS?",
+            "answer": "Gauth PLUS is a premium subscription offering unlimited solutions, ad-free access, and priority tutoring for enhanced support."
+        },
+        {
+            "question": "Does Gauthmath help with exam preparation?",
+            "answer": "Yes, Gauthmath’s AI and tutors assist with practice problems and explanations, aiding students in preparing for exams like SAT or AP."
+        }
+    ]
+}

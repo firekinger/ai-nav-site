@@ -1,0 +1,74 @@
+{
+    "name": "Aftershoot",
+    "description": "Aftershoot is an AI-powered software that automates photo culling, editing, and retouching for photographers.",
+    "longDescription": "Aftershoot is an AI-driven platform designed to streamline the post-processing workflow for professional and aspiring photographers. By automating tedious tasks like culling, editing, and retouching, it allows users to focus on capturing images rather than spending hours on manual edits. The software learns from users' editing preferences to deliver personalized results that align with their unique style. Operating locally on Windows and MacOS, Aftershoot eliminates the need for constant internet connectivity, making it accessible and efficient. Its mission is to save photographers time, enhance their work-life balance, and boost productivity without compromising creative control. The platform supports a wide range of cameras and image formats, catering to diverse photography workflows.",
+    "url": "https://aftershoot.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aftershoot.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "aftershoot",
+    "categories": [
+        "AI Photo Editor",
+        "AI Photo Enhancer",
+        "AI Workflow",
+        "AI Proofreading",
+        "AI Creative Writing",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI-powered culling automatically selects the best images based on sharpness, expression, and composition, reducing manual sorting time by up to 90%.",
+        "AI editing adjusts exposure, color balance, and details to match the user’s style, delivering consistent, professional-grade results.",
+        "AI retouching enhances portraits with natural skin smoothing, blemish removal, and teeth whitening, saving hours of manual work.",
+        "Local processing allows users to cull and edit photos offline, ensuring flexibility and no dependency on internet speed.",
+        "One-click export integrates seamlessly with Lightroom, Capture One, and Photoshop for a smooth workflow transition.",
+        "Custom AI profiles learn from user edits to replicate their unique editing style across new photo sets.",
+        "Pre-built AI styles from the Aftershoot Marketplace provide quick, professional edits adaptable to individual images.",
+        "Non-destructive culling ensures no images are deleted, preserving all originals for manual review if needed.",
+        "Survey Mode enables side-by-side image comparison for faster final selections.",
+        "Spray Can Tool allows users to tag and organize images with a single click, enhancing efficiency.",
+        "Supports all major RAW formats and JPEGs, ensuring compatibility with virtually any camera.",
+        "Flat-fee pricing offers unlimited culling and editing without per-image charges, making it cost-effective."
+    ],
+    "faqs": [
+        {
+            "question": "What is Aftershoot used for?",
+            "answer": "Aftershoot is an AI-powered software that automates photo culling, editing, and retouching, helping photographers save time and focus on capturing images."
+        },
+        {
+            "question": "Does Aftershoot require an internet connection?",
+            "answer": "No, Aftershoot operates locally on your computer, allowing you to cull and edit photos without an internet connection."
+        },
+        {
+            "question": "Can Aftershoot learn my editing style?",
+            "answer": "Yes, Aftershoot’s AI observes your editing choices and creates a custom AI profile to replicate your unique style across new photos."
+        },
+        {
+            "question": "Is there a free trial available for Aftershoot?",
+            "answer": "Yes, Aftershoot offers a 30-day free trial for users to test its culling and editing features."
+        },
+        {
+            "question": "What image formats does Aftershoot support?",
+            "answer": "Aftershoot supports all major RAW formats and JPEGs, ensuring compatibility with images from virtually any camera."
+        },
+        {
+            "question": "How does Aftershoot compare to other culling tools like Photo Mechanic?",
+            "answer": "Unlike Photo Mechanic, which requires manual culling, Aftershoot uses AI to automate the process, saving significant time while allowing manual overrides."
+        },
+        {
+            "question": "Can I use Aftershoot with Lightroom or Capture One?",
+            "answer": "Yes, Aftershoot integrates seamlessly with Lightroom, Capture One, and Photoshop via one-click export for a smooth workflow."
+        },
+        {
+            "question": "Does Aftershoot delete my original images during culling?",
+            "answer": "No, Aftershoot’s culling is non-destructive, preserving all original images for manual review if needed."
+        },
+        {
+            "question": "What are the system requirements for Aftershoot?",
+            "answer": "Aftershoot requires a Windows or MacOS computer with at least 8GB of RAM and a relatively modern CPU."
+        },
+        {
+            "question": "How does Aftershoot’s pricing work?",
+            "answer": "Aftershoot offers a flat-fee model for unlimited culling and editing, eliminating per-image charges, though specific pricing details are available on their website."
+        }
+    ]
+}

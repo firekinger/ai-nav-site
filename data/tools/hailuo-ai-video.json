@@ -1,0 +1,61 @@
+{
+    "name": "Hailuo AI Video",
+    "description": "Hailuo AI Video transforms text and images into stunning AI-generated videos for creators and businesses.",
+    "longDescription": "Hailuo AI Video, developed by Chinese company MiniMax, is an innovative AI-powered platform designed to generate high-quality, 6-second video clips from text prompts or images. Launched in September 2024, it aims to simplify video content creation for social media, marketing, and storytelling by offering a user-friendly interface and advanced AI technology. The platform supports creators, marketers, and businesses by automating video production, reducing the need for traditional editing skills. While currently limited to short clips, future updates plan to extend video length and add features like image-to-video conversion. Hailuo AI prioritizes user data privacy with GDPR compliance and ethical AI practices, ensuring a secure and trustworthy environment. Its accessibility, including a free plan, makes it a compelling tool for rapid content creation.",
+    "url": "https://hailuoai.video/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hailuoai.video.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "hailuo-ai-video",
+    "categories": [
+        "AI Video Generator",
+        "Text to Video",
+        "Image to Video",
+        "AI Design Assistant",
+        "AI Social Media"
+    ],
+    "features": [
+        "Text-to-Video Generation: Converts text prompts into vivid 6-second video clips, enabling quick content creation for social media and marketing.",
+        "Image-to-Video Conversion: Transforms static images into dynamic video scenes with smooth motion, ideal for animating photos.",
+        "User-Friendly Interface: Offers an intuitive platform navigable even with a language barrier, enhanced by browser translation tools.",
+        "High-Quality Output: Produces 720p videos at 25 FPS, delivering professional-grade visuals suitable for online platforms.",
+        "Prompt Optimization: Refines user prompts with a 'tip word optimization' feature to improve video output quality.",
+        "Subject Reference Model: Ensures consistent character appearances across video scenes for cohesive storytelling.",
+        "Watermark-Free Downloads: Provides paid users with watermark-free videos, enhancing professional usability.",
+        "Integration Support: Seamlessly connects with tools like Canva, Google Drive, and Zapier for efficient content workflows."
+    ],
+    "faqs": [
+        {
+            "question": "Is Hailuo AI Video free to use?",
+            "answer": "Yes, Hailuo AI Video offers a free plan with daily time-limited credits and basic features, though paid plans provide additional benefits like watermark-free downloads."
+        },
+        {
+            "question": "Can I use Hailuo AI Video for commercial projects?",
+            "answer": "Commercial use is restricted in the free plan; check the terms of service for specific guidelines on commercial usage with paid subscriptions."
+        },
+        {
+            "question": "What is the maximum video length on Hailuo AI Video?",
+            "answer": "Currently, videos are limited to 6 seconds, but MiniMax plans to extend clip length in future updates."
+        },
+        {
+            "question": "Does Hailuo AI Video support English prompts?",
+            "answer": "Yes, the platform accepts English prompts, making it accessible to non-Chinese-speaking users."
+        },
+        {
+            "question": "Can I edit videos after they are generated?",
+            "answer": "Hailuo AI Video does not offer built-in editing tools; users must use external software for post-generation edits."
+        },
+        {
+            "question": "What types of scenes can Hailuo AI Video create?",
+            "answer": "It can generate cinematic, fantasy, animated, and realistic scenes, though complex scenes may have minor inconsistencies."
+        },
+        {
+            "question": "Is there a limit to the number of videos I can create?",
+            "answer": "The free plan has daily credit limits, but there are no strict limits on video generation for paid users."
+        },
+        {
+            "question": "How does Hailuo AI Video ensure data privacy?",
+            "answer": "The platform complies with GDPR regulations and prioritizes ethical AI practices to safeguard user data."
+        }
+    ]
+}

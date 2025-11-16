@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Comic Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Comic Generator category! These innovative tools empower users to effortlessly create captivating comics, transforming ideas into vibrant visuals in minutes. Whether you're a seasoned artist or a storytelling enthusiast, our AI-driven solutions simplify the comic creation process, offering customizable characters, dynamic scenes, and engaging dialogues. Say goodbye to creative blocks and hello to endless possibilities! Explore our curated selection of AI Comic Generators today and bring your stories to life with ease. Dive in and start creating your masterpiece now!",
+    "tools": [
+        {
+            "id": "664",
+            "name": "Autodraft AI",
+            "slug": "autodraft-ai",
+            "description": "Autodraft AI is a platform for creating 2D animations, comics, and webtoons using AI-driven tools for visual storytelling.",
+            "icon": "/logo/autodraft.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-comic-generator"
+            ]
+        },
+        {
+            "id": "718",
+            "name": "Glif",
+            "slug": "glif",
+            "description": "Glif is a low-code platform for creating AI-powered mini-apps and chatbots that generate multimedia content.",
+            "icon": "/logo/glif.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-comic-generator"
+            ]
+        },
+        {
+            "id": "835",
+            "name": "Bylo.ai",
+            "slug": "bylo-ai",
+            "description": "Bylo.ai is an AI-powered platform that transforms text prompts into high-quality images and offers creative photo editing tools.",
+            "icon": "/logo/bylo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-comic-generator"
+            ]
+        },
+        {
+            "id": "1097",
+            "name": "Komiko",
+            "slug": "komiko",
+            "description": "Komiko is an AI-powered platform for creating comics, manga, anime art, and animations, helping users design characters, generate images, and produce professional-grade content efficiently.",
+            "icon": "/logo/komiko.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-comic-generator"
+            ]
+        }
+    ]
+}

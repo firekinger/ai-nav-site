@@ -1,0 +1,72 @@
+{
+    "name": "Image Upscaling",
+    "description": "Image-Upscaling.net is an online platform that utilizes AI technology to upscale and enhance image resolutions, making low-quality images sharper and larger without losing detail.",
+    "longDescription": "Image-Upscaling.net is a web-based tool designed to help users improve the quality and size of their images using advanced AI algorithms. Its mission is to make high-resolution image enhancement accessible to everyone, from casual users to professionals, without the need for expensive software. The platform solves common problems like pixelation in enlarged photos by intelligently reconstructing details and reducing noise. It serves users by providing a simple, upload-and-process interface that delivers quick results, ideal for photography, graphic design, and digital archiving. By leveraging machine learning models trained on vast datasets, it ensures natural-looking upscales that preserve original colors and textures. Overall, it democratizes image enhancement, empowering users to revive old photos or prepare images for printing and high-definition displays.",
+    "url": "https://image-upscaling.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/image-upscaling.net.webp",
+    "category": "AI Image Upscaler",
+    "categorySlug": "ai-image-upscaler",
+    "slug": "image-upscaling",
+    "categories": [
+        "AI Image Upscaler",
+        "AI Image Enhancer",
+        "AI Photo Restoration",
+        "AI Noise Cancellation",
+        "AI Design Assistant",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "AI-driven upscaling that enlarges images up to 4x while maintaining sharpness and detail, perfect for restoring low-resolution photos.",
+        "Noise reduction technology that automatically cleans up artifacts in images, resulting in clearer and more professional outputs.",
+        "Batch processing capability allowing users to upscale multiple images simultaneously, saving time for bulk tasks.",
+        "Support for various image formats including JPEG, PNG, and TIFF, ensuring compatibility with most user needs.",
+        "User-friendly interface with drag-and-drop upload for quick and easy image enhancement without technical expertise.",
+        "Real-time preview of upscaled results before downloading, enabling users to verify quality instantly.",
+        "Free access to core upscaling features with optional premium upgrades for higher resolutions and faster processing.",
+        "Secure processing that handles images on the server-side without storing user data, prioritizing privacy.",
+        "Customizable upscaling levels, letting users choose between 2x, 4x, or higher magnifications based on their requirements.",
+        "Integration with cloud storage for direct uploads from services like Google Drive or Dropbox."
+    ],
+    "faqs": [
+        {
+            "question": "What is Image-Upscaling.net?",
+            "answer": "Image-Upscaling.net is an online AI tool for enlarging and enhancing images. It uses machine learning to improve resolution without quality loss."
+        },
+        {
+            "question": "Is the service free to use?",
+            "answer": "Yes, the core upscaling features are free with limitations on file size and quantity. Premium plans offer unlimited access and advanced options."
+        },
+        {
+            "question": "How does the AI upscaling work?",
+            "answer": "The AI analyzes the image's patterns and reconstructs missing details using trained models. This results in natural-looking enlargements superior to traditional methods."
+        },
+        {
+            "question": "What file formats are supported?",
+            "answer": "It supports common formats like JPEG, PNG, BMP, and TIFF. Ensure your file is under the size limit for free users."
+        },
+        {
+            "question": "Can I upscale multiple images at once?",
+            "answer": "Yes, batch processing is available for multiple files. This feature is especially useful for photographers or designers handling large sets."
+        },
+        {
+            "question": "Is my data secure on the platform?",
+            "answer": "Images are processed securely and not stored after download. The platform uses encryption to protect user privacy."
+        },
+        {
+            "question": "What are the limitations of the free version?",
+            "answer": "Free users may face restrictions on maximum resolution, file size, and daily uploads. Upgrading removes these limits."
+        },
+        {
+            "question": "How long does upscaling take?",
+            "answer": "Processing typically takes a few seconds to minutes, depending on image size and server load. Premium users get priority queuing."
+        },
+        {
+            "question": "Can I use it for professional work?",
+            "answer": "Absolutely, it's suitable for professional photo editing and printing. Many users rely on it for high-quality enlargements in design projects."
+        },
+        {
+            "question": "Does it work on mobile devices?",
+            "answer": "Yes, the website is mobile-responsive. You can upload and upscale images directly from your phone or tablet."
+        }
+    ]
+}

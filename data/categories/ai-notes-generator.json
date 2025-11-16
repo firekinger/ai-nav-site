@@ -1,0 +1,116 @@
+{
+    "title": "The Best 10 AI Notes Generator Tools in 2025",
+    "summary": "Unlock the power of efficient note-taking with our AI Notes Generator category. These innovative tools streamline the process of capturing, organizing, and summarizing information, making it easier than ever to enhance productivity and retain knowledge. Whether you're a student, professional, or lifelong learner, AI notes generators help you save time and improve comprehension. Explore our curated selection of cutting-edge tools designed to meet your unique needs and transform the way you take notes. Dive in now and discover how AI can elevate your note-taking experience!",
+    "tools": [
+        {
+            "id": "24",
+            "name": "Liner",
+            "slug": "liner",
+            "description": "Liner is an AI-powered research and productivity tool designed to streamline web browsing and information gathering.",
+            "icon": "/logo/getliner.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "198",
+            "name": "TurboLearn AI",
+            "slug": "turbolearn-ai",
+            "description": "TurboLearn AI provides AI-powered tools to enhance learning through personalized note-taking and study aids.",
+            "icon": "/logo/www.turbolearn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "299",
+            "name": "YouLearn",
+            "slug": "youlearn",
+            "description": "YouLearn is an AI-powered platform that transforms educational content into personalized study tools like notes, quizzes, and AI tutoring.",
+            "icon": "/logo/www.youlearn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "511",
+            "name": "Mindgrasp",
+            "slug": "mindgrasp-ai",
+            "description": "Mindgrasp is an AI-powered learning platform that transforms educational content into personalized study tools for students and professionals.",
+            "icon": "/logo/www.mindgrasp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "809",
+            "name": "Upheal",
+            "slug": "upheal",
+            "description": "Upheal is an AI-powered platform that automates progress notes and provides analytics for mental health professionals.",
+            "icon": "/logo/www.upheal.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "822",
+            "name": "Komodo Decks",
+            "slug": "komodo-decks",
+            "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+            "icon": "/logo/komododecks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "Castmagic",
+            "slug": "castmagic",
+            "description": "Castmagic is an AI-powered platform that transforms audio and video content into ready-to-use assets like transcripts, show notes, and social media posts.",
+            "icon": "/logo/castmagic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "1206",
+            "name": "Memrizz",
+            "slug": "memrizz",
+            "description": "Memrizz is an AI-powered flashcard generator that helps students create high-quality flashcards and quizzes from notes, PDFs, videos, and lectures to enhance studying efficiency.",
+            "icon": "/logo/www.memrizz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "1298",
+            "name": "Autosana",
+            "slug": "autosana-ai",
+            "description": "Autosana.ai is an AI-powered platform that automates the transcription and summarization of medical consultations to streamline documentation for healthcare professionals.",
+            "icon": "/logo/autosana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        },
+        {
+            "id": "1240",
+            "name": "Stackie",
+            "slug": "stackie-ai",
+            "description": "Stackie.ai is an AI-powered platform that assists developers in building, optimizing, and managing technology stacks for software projects.",
+            "icon": "/logo/stackie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-notes-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Visla",
+    "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+    "longDescription": "Visla is an all-in-one video creation and editing platform that leverages AI to simplify the production of high-quality videos for businesses, educators, and content creators. Founded in 2020 by Dr. Huipin Zhang, a former Zoom engineer, its mission is to make video storytelling accessible without requiring technical expertise. The platform supports a range of inputs like scripts, PDFs, audio, or webpages, transforming them into polished videos with AI-generated voiceovers, stock footage, and subtitles. It serves marketing, sales, education, and customer support teams by streamlining video production and enabling collaboration. Visla’s enterprise-grade features, such as SOC 2 compliance and SSO, ensure secure and scalable solutions for large organizations. Its intuitive tools empower users to create engaging content quickly, addressing the growing demand for video in communication and marketing.",
+    "url": "https://www.visla.us/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.visla.us.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "visla",
+    "categories": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI Avatar Generator",
+        "AI Voice Cloning",
+        "AI Video Translator",
+        "AI Video Recording",
+        "AI Writing Assistants",
+        "AI Marketing",
+        "AI Course",
+        "AI API",
+        "AI Stock Video Generator",
+        "AI Transcription"
+    ],
+    "features": [
+        "AI Video Generator transforms scripts, PDFs, or ideas into polished videos with voiceovers and stock footage, saving time for users.",
+        "AI Avatars create realistic virtual presenters from photos or text prompts, enabling branded video content without on-camera presence.",
+        "AI Video Editor provides intuitive tools to rearrange scenes, add graphics, or swap footage, making editing accessible to non-experts.",
+        "Screen Recording captures video, screen, or step-by-step processes, ideal for tutorials and presentations.",
+        "Collaborative Workspaces allow teams to organize projects, review edits, and collaborate seamlessly on video content.",
+        "Multilingual Support generates voiceovers, subtitles, and text in multiple languages, expanding audience reach globally.",
+        "Voice Cloning creates personalized, natural-sounding voiceovers in multiple languages for consistent branding.",
+        "Premium Stock Library offers access to millions of royalty-free videos from Storyblocks and Getty Images for professional visuals.",
+        "Teleprompter Feature helps users maintain eye contact and speak fluently during recordings, enhancing video quality.",
+        "Auto-Transcription generates accurate captions, improving accessibility and viewer engagement.",
+        "Video Montage Creation curates clips and images into engaging montages with AI-driven transitions and music.",
+        "Scene-Based Editing divides videos into manageable segments for easy customization and professional transitions.",
+        "API Integration enables developers to incorporate Visla’s video creation tools into existing workflows for automation.",
+        "SOC 2 Compliance ensures secure data handling, making it suitable for enterprise-level video production."
+    ],
+    "faqs": [
+        {
+            "question": "What is Visla’s AI Video Generator?",
+            "answer": "Visla’s AI Video Generator turns inputs like scripts, PDFs, or audio into polished videos with voiceovers, stock footage, and subtitles. It simplifies video creation for users without editing skills."
+        },
+        {
+            "question": "Does Visla offer a free plan?",
+            "answer": "Yes, Visla provides a free plan with limited credits for AI video creation, editing, and recording features. Users can upgrade to paid plans for more credits and advanced tools."
+        },
+        {
+            "question": "Can I create videos from a webpage?",
+            "answer": "Yes, Visla can convert webpage content into videos by extracting key information and images, ideal for blogs or product pages."
+        },
+        {
+            "question": "Is Visla suitable for enterprise teams?",
+            "answer": "Visla offers enterprise-grade features like SSO, SOC 2 compliance, and API integration, making it ideal for large teams needing scalable video production."
+        },
+        {
+            "question": "How does Visla support educators?",
+            "answer": "Visla helps educators create course modules, training videos, and announcements with AI-driven script-to-video tools and multilingual support."
+        },
+        {
+            "question": "Can I customize videos to match my brand?",
+            "answer": "Yes, Visla allows customization of fonts, colors, logos, and intros/outros to ensure videos align with your brand identity."
+        },
+        {
+            "question": "What types of inputs can Visla process?",
+            "answer": "Visla accepts scripts, PDFs, audio, webpages, or raw ideas, transforming them into professional videos with AI assistance."
+        },
+        {
+            "question": "Does Visla support team collaboration?",
+            "answer": "Visla’s Workspaces and Teamspaces enable teams to organize projects, share assets, and collaborate on video edits efficiently."
+        },
+        {
+            "question": "Can I use my own media in Visla?",
+            "answer": "Yes, Visla’s Private Stock Library allows users to upload and organize proprietary media with AI-driven tagging for easy integration."
+        },
+        {
+            "question": "Is Visla’s platform secure?",
+            "answer": "Visla ensures security with SOC 2 Type II compliance and Single Sign-On (SSO) for safe, streamlined access."
+        }
+    ]
+}

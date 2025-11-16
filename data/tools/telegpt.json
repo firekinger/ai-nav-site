@@ -1,0 +1,74 @@
+{
+    "name": "TeleGPT",
+    "description": "TeleGPT is an AI-powered platform that integrates advanced chatbot capabilities into Telegram for enhanced user interactions and automation.",
+    "longDescription": "TeleGPT is a innovative service that brings the power of GPT-based AI directly into the Telegram messaging app, allowing users to create and interact with intelligent chatbots. Its mission is to make AI accessible and seamless within everyday communication tools, eliminating the need for separate apps or interfaces. By leveraging large language models, TeleGPT enables users to automate responses, generate content, and provide virtual assistance through Telegram bots. This solves problems like inefficient customer support, content creation bottlenecks, and the need for quick information retrieval in messaging environments. Users benefit from its easy integration, making AI a natural part of their daily chats and workflows. Overall, TeleGPT democratizes AI usage by embedding it into one of the world's most popular messaging platforms.",
+    "url": "https://telegpt.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/telegpt.org.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "telegpt",
+    "categories": [
+        "AI Chatbot",
+        "AI Chat Generator",
+        "AI Assistant",
+        "AI Writing",
+        "AI Language Learning",
+        "AI Message Generator",
+        "AI API"
+    ],
+    "features": [
+        "Users can create custom AI chatbots powered by GPT models directly within Telegram for personalized interactions and automation.",
+        "The platform offers seamless integration with Telegram, allowing instant deployment of bots without complex coding.",
+        "Advanced natural language processing enables bots to understand and respond to user queries in a conversational manner, improving engagement.",
+        "TeleGPT provides content generation tools, such as text creation, summarization, and translation, accessible via chat commands.",
+        "It includes analytics features to track bot performance, user interactions, and engagement metrics for optimization.",
+        "Multi-language support ensures bots can communicate effectively with global audiences in various languages.",
+        "Customizable prompts allow users to fine-tune bot behavior and responses to fit specific needs or industries.",
+        "Secure data handling ensures user privacy while processing conversations through encrypted Telegram channels.",
+        "Integration with external APIs enables bots to fetch real-time data, like weather or news, for dynamic responses.",
+        "Collaborative features let multiple users manage and update bots for team-based applications.",
+        "Mobile-first design optimizes the experience for on-the-go use within the Telegram app."
+    ],
+    "faqs": [
+        {
+            "question": "What is TeleGPT?",
+            "answer": "TeleGPT is an AI platform that integrates GPT-powered chatbots into Telegram, enabling users to create intelligent bots for automation and interaction. It leverages advanced language models to provide seamless AI experiences within the messaging app."
+        },
+        {
+            "question": "How do I create a bot with TeleGPT?",
+            "answer": "To create a bot, sign up on the TeleGPT website, connect your Telegram account, and use the intuitive dashboard to customize your bot's prompts and behaviors. No coding experience is required for basic setups."
+        },
+        {
+            "question": "Is TeleGPT free to use?",
+            "answer": "Yes, TeleGPT offers a free plan with limited features and usage quotas. Premium plans are available for advanced capabilities and higher limits."
+        },
+        {
+            "question": "What kind of tasks can TeleGPT bots perform?",
+            "answer": "Bots can handle tasks like answering questions, generating content, providing customer support, scheduling reminders, and integrating with other services. They use AI to respond intelligently to user inputs."
+        },
+        {
+            "question": "Does TeleGPT support multiple languages?",
+            "answer": "Yes, it supports multiple languages through its underlying GPT models, allowing bots to communicate effectively with users worldwide."
+        },
+        {
+            "question": "How secure is TeleGPT?",
+            "answer": "TeleGPT prioritizes security by using Telegram's encryption and not storing sensitive user data beyond what's necessary for bot functionality. All interactions are processed securely."
+        },
+        {
+            "question": "Can I integrate TeleGPT with other apps?",
+            "answer": "Yes, TeleGPT allows integration with external APIs and services, enabling bots to pull in data from sources like weather APIs or databases for enriched responses."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan has restrictions on the number of bots, daily messages, and advanced features like custom training. Upgrading to premium unlocks unlimited access."
+        },
+        {
+            "question": "Is coding required to use TeleGPT?",
+            "answer": "No coding is needed for most users, as the platform provides a user-friendly interface for bot creation. Advanced users can add custom scripts if desired."
+        },
+        {
+            "question": "How does TeleGPT differ from standard Telegram bots?",
+            "answer": "Unlike basic Telegram bots, TeleGPT bots are powered by AI for natural, context-aware conversations, making them more intelligent and versatile."
+        }
+    ]
+}

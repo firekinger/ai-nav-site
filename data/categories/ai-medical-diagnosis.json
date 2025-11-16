@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Medical Diagnosis Tools in 2025",
+    "summary": "Discover the transformative power of AI Medical Diagnosis tools, designed to enhance healthcare efficiency and accuracy. These innovative solutions leverage advanced algorithms to assist healthcare professionals in diagnosing conditions faster and more reliably, ultimately improving patient outcomes. By streamlining the diagnostic process, these tools reduce human error and save valuable time. Whether you're a medical practitioner or a health tech enthusiast, exploring our curated selection of AI Medical Diagnosis tools will empower you to stay at the forefront of medical innovation. Dive in now to find the perfect solution for your needs!",
+    "tools": [
+        {
+            "id": "824",
+            "name": "Docus",
+            "slug": "docus-ai",
+            "description": "Docus is an AI-powered health platform providing personalized health insights and expert medical second opinions.",
+            "icon": "/logo/docus.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-medical-diagnosis"
+            ]
+        },
+        {
+            "id": "1119",
+            "name": "Skinive",
+            "slug": "skinive",
+            "description": "Skinive is an AI-powered platform that enables users to analyze skin conditions using smartphone photos for early detection and health monitoring.",
+            "icon": "/logo/skinive.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-medical-diagnosis"
+            ]
+        },
+        {
+            "id": "1135",
+            "name": "MediSearch",
+            "slug": "medisearch",
+            "description": "MediSearch is an AI-powered search engine that delivers trustworthy, science-based answers to medical and health-related questions.",
+            "icon": "/logo/medisearch.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-medical-diagnosis"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "AI Studios",
+    "description": "AI Studios is an AI-powered video generation platform that transforms text into professional videos with realistic avatars and multilingual voiceovers.",
+    "longDescription": "AI Studios, developed by DeepBrain AI, is a comprehensive platform designed to simplify video creation by leveraging artificial intelligence to produce studio-quality videos from text inputs. It empowers users, including marketers, educators, and content creators, to generate engaging videos without the need for cameras, actors, or complex editing software. The platform supports over 110 languages, enabling global reach through AI-driven dubbing and translation. Its mission is to streamline video production, reduce costs, and enhance accessibility for businesses and individuals. By integrating tools like ChatGPT for script generation and offering customizable avatars, AI Studios addresses the growing demand for scalable, high-quality video content. Trusted by brands like Lenovo and Hyundai, it provides a secure and ethical AI solution with robust data protection.",
+    "url": "https://www.aistudios.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aistudios.com.webp",
+    "category": "Text to Video",
+    "categorySlug": "text-to-video",
+    "slug": "ai-studios",
+    "categories": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Dubbing",
+        "AI Translate",
+        "AI Video Editor",
+        "AI Script Writing",
+        "AI Social Media Post Generator",
+        "AI Chatbot",
+        "AI Detector",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "Text-to-Video Automation converts scripts or prompts into complete videos with AI avatars and voiceovers in minutes, eliminating the need for manual filming.",
+        "Hyper-Realistic AI Avatars offer over 2,000 lifelike options with precise lip-sync and gestures for engaging, human-like communication.",
+        "Multilingual Voiceover Support provides AI-generated voiceovers in over 110 languages, enabling global content localization.",
+        "Custom Avatar Creation allows users to create personalized full-body or photo-based avatars for branded video projects.",
+        "AI Dubbing automatically translates and syncs video audio with natural lip movements in over 30 languages for seamless localization.",
+        "Generative AI Scenes generate custom visuals and backgrounds tailored to the video’s script, enhancing visual appeal.",
+        "Auto Subtitle Generation creates and translates subtitles, making videos accessible to diverse audiences.",
+        "Cloud-Based Editing enables video creation and collaboration from any device without requiring high-end hardware.",
+        "YouTube Video Downloader allows users to download and edit YouTube videos in HD for repurposing across platforms.",
+        "AI Script Assistant integrates ChatGPT to generate, edit, and translate video scripts, streamlining content creation.",
+        "Bulk Video Generation supports automated video production from spreadsheets or topics, ideal for social media campaigns.",
+        "Real-Time Conversational Avatars enable interactive, human-like conversations for training or customer service applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Studios used for?",
+            "answer": "AI Studios is used to create professional-grade videos from text, ideal for marketing, training, education, and social media content creation."
+        },
+        {
+            "question": "Do I need video editing skills to use AI Studios?",
+            "answer": "No, AI Studios is designed to be user-friendly, allowing anyone to create high-quality videos without prior editing experience."
+        },
+        {
+            "question": "Is there a free plan available for AI Studios?",
+            "answer": "Yes, AI Studios offers a free demo to experience its core features, though some advanced functionalities may require a paid plan."
+        },
+        {
+            "question": "Can AI Studios videos be translated into multiple languages?",
+            "answer": "Yes, AI Studios supports AI dubbing and voiceovers in over 110 languages, with automatic lip-sync for natural results."
+        },
+        {
+            "question": "How secure is AI Studios for enterprise use?",
+            "answer": "AI Studios adheres to ISO 27001 and GDPR standards, ensuring robust data protection and compliance for enterprise users."
+        },
+        {
+            "question": "Can I create custom avatars with AI Studios?",
+            "answer": "Yes, users can create personalized avatars from photos or videos, tailored to specific branding or project needs."
+        },
+        {
+            "question": "How long does it take to generate a video?",
+            "answer": "With a prepared script, AI Studios can generate a complete video in just minutes, depending on complexity."
+        },
+        {
+            "question": "Can AI Studios integrate with other platforms?",
+            "answer": "Yes, AI Studios offers API integration to automate video production and enhance workflows with existing systems."
+        }
+    ]
+}

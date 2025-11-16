@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 Minecraft AI Tools in 2025",
+    "summary": "Discover the exciting world of Minecraft AI tools, designed to enhance your gaming experience and streamline your creative projects. From intelligent NPCs to automated building assistants, these innovative solutions empower players to unlock new possibilities and optimize gameplay. Whether you're a seasoned builder or a casual player, our curated selection of AI tools will help you solve challenges, save time, and elevate your Minecraft adventures. Dive in and explore the transformative potential of Minecraft AI tools today!",
+    "tools": [
+        {
+            "id": "516",
+            "name": "Customuse",
+            "slug": "customuse",
+            "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+            "icon": "/logo/customuse.com.webp",
+            "isFree": true,
+            "categories": [
+                "minecraft-ai"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "VidMage",
+    "description": "VidMage is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering realistic results for creative and entertainment purposes.",
+    "longDescription": "VidMage is an advanced AI-driven face swap platform designed to enable users to effortlessly swap faces in photos, videos, and GIFs with high precision and realism. Its mission is to empower creators, marketers, and casual users to transform digital content for fun, social media, or professional projects without requiring technical expertise. The platform leverages cutting-edge neural networks to ensure natural blending of facial features, maintaining expressions and lighting for photorealistic outcomes. Available both online and as a Mac application, VidMage prioritizes user privacy with offline processing options and supports a variety of use cases, from meme creation to cinematic edits. It caters to a global audience, offering a user-friendly interface and watermark-free results, even on its free plan. By streamlining complex editing tasks, VidMage makes creative expression accessible to all.",
+    "url": "https://vidmage.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vidmage.ai.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "vidmage-ai",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Photo Editor",
+        "AI Video Editor",
+        "AI Meme Generator",
+        "AI Celebrity Voice Generator",
+        "Gender Swap AI",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "Photo Face Swap allows users to upload images and swap faces with realistic, seamless blending for social media or personal projects.",
+        "Video Face Swap enables face replacement in pre-recorded videos, preserving natural motion and lip-syncing for engaging content.",
+        "Multi-Face Swap supports swapping up to four faces in a single image or video, ideal for group photos or cinematic edits.",
+        "Real-Time Face Swap, available via the Mac app, overlays faces during live video calls or streams on platforms like Zoom and OBS.",
+        "Facial Feature Swap lets users modify specific facial elements like eyes or mouth for precise, stylized edits.",
+        "Batch Face Swap processes up to 50 images simultaneously for premium users, enhancing efficiency for large-scale projects.",
+        "Offline Processing on the Mac app ensures maximum privacy by handling face swaps locally without internet dependency.",
+        "No Watermarks ensures all outputs, even on the free plan, are clean and professional for sharing or commercial use.",
+        "GIF Face Swap supports animated image transformations, perfect for creating viral memes or dynamic content.",
+        "Gender Swap allows users to experiment with gender transformations in photos or videos for creative or humorous results.",
+        "Celebrity Face Swap lets users blend their face with iconic figures like movie stars or pop icons for fun edits.",
+        "High-Quality Output delivers studio-quality results with accurate facial blending and natural lighting adjustments."
+    ],
+    "faqs": [
+        {
+            "question": "What is VidMage used for?",
+            "answer": "VidMage is an AI-powered tool for swapping faces in photos, videos, and GIFs, used for creating memes, social media content, or professional video edits."
+        },
+        {
+            "question": "Is VidMage free to use?",
+            "answer": "Yes, VidMage offers a free plan with up to 20 image swaps per day and video face swaps, with no watermarks or sign-up required."
+        },
+        {
+            "question": "Can I swap faces in videos?",
+            "answer": "Yes, VidMage supports video face swapping with natural motion and lip-syncing, compatible with formats like MP4 and MOV."
+        },
+        {
+            "question": "Does VidMage support real-time face swapping?",
+            "answer": "Real-time face swapping is available through the VidMage Camera Mac app, ideal for live streams or video calls on platforms like Zoom."
+        },
+        {
+            "question": "How many faces can I swap in one image?",
+            "answer": "VidMage allows swapping up to four faces in a single image, perfect for group photos or multi-character edits."
+        },
+        {
+            "question": "Is my data safe with VidMage?",
+            "answer": "VidMage prioritizes privacy with offline processing on its Mac app, ensuring data security for sensitive or professional use."
+        },
+        {
+            "question": "Can I use VidMage for commercial projects?",
+            "answer": "Yes, VidMage’s watermark-free outputs and premium plans support commercial use, such as marketing campaigns or branded content."
+        },
+        {
+            "question": "What formats does VidMage support?",
+            "answer": "VidMage supports JPG, PNG, GIF, WEBP for images, and MP4, MOV, M4V for videos, ensuring broad compatibility."
+        },
+        {
+            "question": "Do I need editing skills to use VidMage?",
+            "answer": "No, VidMage’s intuitive interface and automated AI make face swapping easy for users without editing experience."
+        },
+        {
+            "question": "Can I swap specific facial features?",
+            "answer": "Yes, the Mac app allows precise swapping of individual features like eyes or mouth for customized, subtle edits."
+        }
+    ]
+}

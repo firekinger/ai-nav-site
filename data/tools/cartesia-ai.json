@@ -1,0 +1,75 @@
+{
+    "name": "Cartesia",
+    "description": "Cartesia is an AI platform specializing in real-time generative voice technology for developers to create interactive and immersive audio experiences.",
+    "longDescription": "Cartesia is an innovative AI company focused on advancing generative voice technology through its flagship model, Sonic, which enables real-time, low-latency voice generation. Founded to democratize access to high-quality AI audio tools, Cartesia's mission is to empower developers and creators to integrate expressive voice capabilities into applications like games, virtual assistants, and interactive media. By addressing key challenges such as latency and audio fidelity, the platform solves problems in traditional voice synthesis, making it suitable for dynamic, real-world use cases. Cartesia serves users by providing scalable APIs and tools that facilitate seamless integration, fostering innovation in AI-driven audio experiences. Overall, it bridges the gap between advanced AI research and practical application development.",
+    "url": "https://cartesia.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cartesia.ai.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "cartesia-ai",
+    "categories": [
+        "AI Voice Generator",
+        "AI Audio Editing",
+        "AI Voice Cloning",
+        "AI Models",
+        "AI API",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Tools Directory",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Real-time voice generation with under 200ms latency, enabling seamless interactive applications like live chatbots or gaming.",
+        "High-fidelity audio output that produces natural, expressive voices with emotional nuance, enhancing user engagement.",
+        "Multimodal input support, allowing users to generate voice from text, audio clips, or other data sources for versatile creativity.",
+        "API integration for developers to easily embed generative voice into apps, websites, or services without complex setup.",
+        "Multilingual capabilities supporting various languages and accents, broadening accessibility for global audiences.",
+        "Custom voice cloning feature that lets users create personalized voices based on short audio samples, ideal for branding.",
+        "Scalable cloud infrastructure ensuring reliable performance for high-volume usage in enterprise environments.",
+        "Developer playground for free testing and experimentation with Sonic models, accelerating prototyping and learning.",
+        "Advanced audio controls for adjusting pitch, speed, and style, giving users fine-tuned customization over outputs.",
+        "Integration with popular frameworks and SDKs, simplifying adoption for coders in diverse tech stacks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cartesia?",
+            "answer": "Cartesia is an AI company that develops real-time generative voice technology, primarily through its Sonic model, to enable expressive audio in applications. It focuses on low-latency solutions for developers."
+        },
+        {
+            "question": "What is Sonic?",
+            "answer": "Sonic is Cartesia's flagship generative voice model designed for real-time audio synthesis. It supports multimodal inputs and delivers high-quality, natural-sounding voices with minimal delay."
+        },
+        {
+            "question": "Does Cartesia offer a free plan?",
+            "answer": "Yes, Cartesia provides a free playground for testing and limited API credits for new users. This allows experimentation without initial costs, though premium features require a paid plan."
+        },
+        {
+            "question": "How can I integrate Cartesia's API?",
+            "answer": "You can integrate the API by signing up for an account, obtaining an API key, and using the provided SDKs or documentation to embed it into your application. Examples are available in multiple programming languages."
+        },
+        {
+            "question": "What languages does Cartesia support?",
+            "answer": "Cartesia supports multiple languages including English, Spanish, French, and more, with various accents for realistic voice generation. Additional languages are being added over time."
+        },
+        {
+            "question": "Is Cartesia suitable for enterprise use?",
+            "answer": "Yes, Cartesia offers scalable infrastructure and enterprise plans with enhanced support, security, and customization options for large-scale deployments."
+        },
+        {
+            "question": "How does Cartesia ensure audio quality?",
+            "answer": "Cartesia uses advanced generative AI models trained on diverse datasets to produce high-fidelity, expressive audio. Users can fine-tune parameters for optimal results."
+        },
+        {
+            "question": "What are the pricing options?",
+            "answer": "Pricing is based on usage tiers, starting from free limited access to paid plans with higher credits and features. Details are available on their website after signing up."
+        },
+        {
+            "question": "Can I create custom voices with Cartesia?",
+            "answer": "Yes, Cartesia allows voice cloning from short audio samples to create custom voices. This feature is useful for personalized applications like virtual assistants."
+        },
+        {
+            "question": "What industries benefit from Cartesia?",
+            "answer": "Industries like gaming, education, customer service, and entertainment benefit from Cartesia's real-time voice tech for interactive and immersive experiences."
+        }
+    ]
+}

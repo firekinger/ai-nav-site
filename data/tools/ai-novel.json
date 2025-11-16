@@ -1,0 +1,61 @@
+{
+    "name": "AI Novel",
+    "description": "AI Novel is a platform for creating, sharing, and exploring AI-generated novels and web stories.",
+    "longDescription": "AI Novel is an innovative platform designed to empower writers and readers by leveraging artificial intelligence to generate compelling novels and interactive web stories. Its mission is to redefine storytelling by providing tools that spark creativity and foster collaboration within a vibrant community of creators and readers. The platform supports a variety of genres, from fantasy to romance, and allows users to generate stories from prompts or build their own narratives with AI assistance. By offering features like novel generation and community forums, AI Novel caters to both aspiring writers seeking inspiration and readers looking for unique, AI-crafted stories. It emphasizes accessibility, enabling users to create and share content globally, while fostering discussions through dedicated reader and writer groups.",
+    "url": "https://ai-novel.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ai-novel.com.webp",
+    "category": "AI Story Generator",
+    "categorySlug": "ai-story-generator",
+    "slug": "ai-novel",
+    "categories": [
+        "AI Story Generator",
+        "AI Novel",
+        "AI Design Assistant",
+        "AI Prompt Generator",
+        "AI Social Media",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI Novel Generator creates complete stories or outlines from user prompts, enabling rapid story creation across multiple genres.",
+        "Reader's Corner offers a community hub for readers to discuss, review, and engage with AI-generated novels and web stories.",
+        "Chat Novel Forum facilitates discussions on AI-driven storytelling trends, plot twists, and narrative ideas.",
+        "AI Author Cookbook provides a space for writers to share, learn, and discuss AI writing techniques and prompts.",
+        "Multi-genre support allows users to generate stories in diverse categories like fantasy, thriller, romance, and xianxia.",
+        "Patron connection tools enable writers to build audiences and connect with supporters for their creative projects.",
+        "Interactive story prompts spark creativity by offering customizable starting points for novel creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Novel used for?",
+            "answer": "AI Novel is a platform for generating, sharing, and exploring AI-crafted novels and web stories across various genres."
+        },
+        {
+            "question": "Is AI Novel free to use?",
+            "answer": "Yes, AI Novel offers a free plan with unlimited access to its novel generator, though some features may have limitations."
+        },
+        {
+            "question": "Can I create my own stories with AI Novel?",
+            "answer": "Users can input prompts or ideas to generate unique stories, which can be customized and expanded using AI tools."
+        },
+        {
+            "question": "What genres does AI Novel support?",
+            "answer": "AI Novel supports a wide range of genres, including fantasy, romance, thriller, mystery, xianxia, and more."
+        },
+        {
+            "question": "How can I connect with other writers or readers?",
+            "answer": "AI Novel provides community forums like Reader's Corner and Chat Novel Forum for collaboration and discussion."
+        },
+        {
+            "question": "Can I share my AI-generated stories?",
+            "answer": "Yes, users can share their stories within the platform’s community or connect with patrons to distribute their work."
+        },
+        {
+            "question": "Does AI Novel offer tools for writers?",
+            "answer": "The AI Author Cookbook and story prompts provide resources to help writers refine their craft and generate ideas."
+        },
+        {
+            "question": "Is there a limit to how many stories I can generate?",
+            "answer": "The free plan allows unlimited story generation, but advanced features may require a premium subscription."
+        }
+    ]
+}

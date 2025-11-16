@@ -1,0 +1,105 @@
+{
+    "title": "The Best 9 AI Resume Checker Tools in 2025",
+    "summary": "Unlock your career potential with our AI Resume Checker tools! Designed to enhance your job application process, these innovative solutions analyze your resume for clarity, keyword optimization, and overall impact. Benefit from personalized feedback that helps you stand out in a competitive job market. Whether you're a seasoned professional or just starting out, our AI tools provide the insights you need to craft a compelling resume. Explore our curated selection of AI Resume Checkers today and take the first step towards your dream job!",
+    "tools": [
+        {
+            "id": "466",
+            "name": "Mercor",
+            "slug": "mercor",
+            "description": "Mercor is an AI-powered hiring platform that connects skilled professionals with global job opportunities.",
+            "icon": "/logo/mercor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "652",
+            "name": "Huntr",
+            "slug": "huntr",
+            "description": "Huntr is a job search platform that streamlines application tracking, resume building, and interview preparation with AI-powered tools.",
+            "icon": "/logo/huntr.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "775",
+            "name": "Swooped",
+            "slug": "swooped",
+            "description": "Swooped is an AI-powered job search platform that optimizes resumes and cover letters to help job seekers land remote jobs faster.",
+            "icon": "/logo/swooped.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "843",
+            "name": "Talent Titan",
+            "slug": "talent-titan",
+            "description": "Talent Titan is an AI-powered platform that connects businesses with top talent through intelligent matching and recruitment tools.",
+            "icon": "/logo/talenttitan.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "847",
+            "name": "Jobhire.ai",
+            "slug": "jobhire-ai",
+            "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+            "icon": "/logo/jobhire.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "869",
+            "name": "TalentRecruit",
+            "slug": "talentrecruit",
+            "description": "TalentRecruit is an AI-powered recruitment software platform designed to streamline talent acquisition and hiring processes for businesses.",
+            "icon": "/logo/www.talentrecruit.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "1236",
+            "name": "Interviewer.ai",
+            "slug": "interviewer-ai",
+            "description": "Interviewer.ai is an AI-powered platform that automates job interviews, screens candidates, and provides data-driven insights to streamline the hiring process for businesses.",
+            "icon": "/logo/interviewer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "1424",
+            "name": "NTRVSTA",
+            "slug": "ntrvsta",
+            "description": "NTRVSTA is an AI-powered platform that automates interviews to make hiring more efficient, fair, and engaging for companies and candidates.",
+            "icon": "/logo/www.ntrvsta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        },
+        {
+            "id": "1395",
+            "name": "AutoForm AI",
+            "slug": "autoform-ai",
+            "description": "AutoForm AI is an AI-powered platform that automates the process of filling out online forms, particularly for job applications, to save users time and effort.",
+            "icon": "/logo/autoform.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-checker"
+            ]
+        }
+    ]
+}

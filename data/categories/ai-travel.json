@@ -1,0 +1,83 @@
+{
+    "title": "The Best 7 AI Travel Tools in 2025",
+    "summary": "Discover the future of travel with our AI Travel tools, designed to enhance your journey from planning to exploration. These innovative solutions streamline itinerary creation, optimize travel routes, and provide personalized recommendations, ensuring a seamless travel experience. Whether you're a frequent flyer or an occasional adventurer, our curated selection of AI tools addresses your unique travel needs, saving you time and effort. Dive into the world of AI-driven travel solutions and transform the way you explore. Start your journey today by exploring our AI Travel tools!",
+    "tools": [
+        {
+            "id": "122",
+            "name": "Aura",
+            "slug": "aura",
+            "description": "Aura provides comprehensive digital security and identity theft protection for individuals and families.",
+            "icon": "/logo/aura.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "286",
+            "name": "Bark",
+            "slug": "bark",
+            "description": "Bark is a parental control platform that monitors children's online activity to ensure their safety.",
+            "icon": "/logo/www.bark.us.webp",
+            "isFree": false,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "761",
+            "name": "Picarta",
+            "slug": "picarta-ai",
+            "description": "Picarta uses AI to predict the geographic location of photos with high accuracy.",
+            "icon": "/logo/picarta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "1130",
+            "name": "Wonderplan",
+            "slug": "wonderplan-ai",
+            "description": "Wonderplan.ai is a personal AI-powered trip planner that creates custom travel itineraries tailored to users' interests and budgets.",
+            "icon": "/logo/wonderplan.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "1136",
+            "name": "TripPlanner AI",
+            "slug": "tripplanner-ai",
+            "description": "TripPlanner AI is an innovative platform that uses artificial intelligence to create personalized travel itineraries and optimize trip planning for users worldwide.",
+            "icon": "/logo/tripplanner.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "1368",
+            "name": "OdysseyGPT",
+            "slug": "odysseygpt-ai",
+            "description": "OdysseyGPT is an AI-powered platform that uses advanced GPT technology to assist users in planning personalized travel adventures and itineraries.",
+            "icon": "/logo/www.odysseygpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Suno",
+            "slug": "suno",
+            "description": "Suno is an AI-powered platform that transforms text prompts into original music and songs.",
+            "icon": "/logo/suno.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-travel"
+            ]
+        }
+    ]
+}

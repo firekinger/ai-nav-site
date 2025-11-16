@@ -1,0 +1,64 @@
+{
+    "name": "DeepSwapper",
+    "description": "DeepSwapper is an AI-powered platform for seamless face swapping in photos and videos.",
+    "longDescription": "DeepSwapper is an innovative AI-driven platform that enables users to effortlessly swap faces in photos, videos, and GIFs with high precision and realistic results. Leveraging advanced AI technology, including its proprietary DeepSwapperX model, the website offers a user-friendly interface for creating professional-grade face swaps for creative, marketing, or entertainment purposes. It supports both single and multi-face swaps, making it ideal for individual portraits or complex group scenes. The platform prioritizes user privacy by securely handling uploads and not storing data longer than necessary. DeepSwapper caters to a global audience, offering unlimited swaps without watermarks, appealing to both casual users and professionals. Its mission is to make face-swapping technology accessible, fun, and efficient for all.",
+    "url": "https://www.deepswapper.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.deepswapper.com.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "deepswapper",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Writing",
+        "AI Creative Writing",
+        "AI Realistic Image Generator",
+        "AI Social Media Post Generator",
+        "AI Productivity Tools",
+        "AI Movie Script Generator"
+    ],
+    "features": [
+        "AI-powered face swapping creates realistic and seamless face exchanges in photos and videos for professional or creative use.",
+        "Multi-face swap capability allows users to change multiple faces in a single image or video, ideal for group content.",
+        "No watermark feature ensures clean, professional outputs suitable for marketing or personal projects.",
+        "User-friendly interface enables beginners to perform face swaps easily without technical expertise.",
+        "Supports various file formats, including images, videos, and GIFs, for versatile content creation.",
+        "Instant preview feature lets users adjust face swaps before finalizing and downloading results.",
+        "Fast processing completes face swaps in minutes, depending on content complexity and user plan.",
+        "Privacy protection ensures uploaded images and videos are encrypted and not stored unnecessarily.",
+        "Community sharing options allow users to share creations directly to social media platforms."
+    ],
+    "faqs": [
+        {
+            "question": "Is DeepSwapper free to use?",
+            "answer": "Yes, DeepSwapper offers a free plan with unlimited face swaps, though premium plans unlock additional features like faster processing and video swaps."
+        },
+        {
+            "question": "What types of files can I use for face swapping?",
+            "answer": "DeepSwapper supports images, videos, and GIFs, allowing versatile content creation for various use cases."
+        },
+        {
+            "question": "How long does it take to process a face swap?",
+            "answer": "Processing typically takes a few minutes, depending on the complexity of the swap and the selected pricing plan."
+        },
+        {
+            "question": "Can I swap multiple faces in one image or video?",
+            "answer": "Yes, DeepSwapper supports multi-face swaps, making it perfect for group photos or complex video scenes."
+        },
+        {
+            "question": "Is my data safe with DeepSwapper?",
+            "answer": "DeepSwapper prioritizes privacy, encrypting uploads and deleting them after processing to ensure data security."
+        },
+        {
+            "question": "Do face swaps include watermarks?",
+            "answer": "No, DeepSwapper provides watermark-free results for both free and premium users."
+        },
+        {
+            "question": "Can I share my face swaps on social media?",
+            "answer": "Yes, DeepSwapper offers built-in options to share creations directly to various social media platforms."
+        },
+        {
+            "question": "What is the DeepSwapperX model?",
+            "answer": "DeepSwapperX is the proprietary AI model used by DeepSwapper to deliver high-precision and realistic face swaps."
+        }
+    ]
+}

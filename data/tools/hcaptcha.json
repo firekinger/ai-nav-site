@@ -1,0 +1,56 @@
+{
+    "name": "hCaptcha",
+    "description": "hCaptcha provides a privacy-focused CAPTCHA solution to protect websites from bots while enhancing user experience.",
+    "longDescription": "hCaptcha is a CAPTCHA service designed to protect websites from bots and automated abuse while prioritizing user privacy. Unlike traditional CAPTCHAs, it minimizes data collection and complies with global privacy regulations like GDPR and CCPA. It serves businesses, developers, and website owners by offering a secure, user-friendly way to verify human users. The platform uses advanced AI to generate challenges that are easy for humans but difficult for bots. hCaptcha also supports enterprise solutions with customizable options for high-security needs. Its mission is to make the internet safer and more accessible without compromising user trust.",
+    "url": "https://www.hcaptcha.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.hcaptcha.com.webp",
+    "category": "AI Detector",
+    "categorySlug": "ai-detector",
+    "slug": "hcaptcha",
+    "categories": [
+        "AI Detector",
+        "AI Checker"
+    ],
+    "features": [
+        "hCaptcha offers image-based challenges that are intuitive for users to solve, improving user experience while ensuring security.",
+        "The platform uses AI-driven bot detection to distinguish human users from automated scripts effectively.",
+        "It provides a free tier for websites with up to 1 million verifications per month, making it accessible for small businesses.",
+        "hCaptcha supports seamless integration with websites via APIs and plugins for platforms like WordPress and Cloudflare.",
+        "The service is designed to comply with GDPR, CCPA, and other privacy regulations, minimizing user data collection.",
+        "Enterprise plans offer advanced analytics and customizable CAPTCHA challenges for high-security applications.",
+        "hCaptcha provides accessibility options, such as audio challenges, to support users with visual impairments.",
+        "It offers a reward system for users solving CAPTCHAs, contributing to AI training datasets ethically.",
+        "The platform supports multiple languages, ensuring global usability for diverse audiences.",
+        "hCaptcha’s lightweight design ensures fast loading times, reducing website performance impact."
+    ],
+    "faqs": [
+        {
+            "question": "What is hCaptcha and how does it work?",
+            "answer": "hCaptcha is a privacy-focused CAPTCHA service that protects websites from bots by presenting users with image-based challenges. It uses AI to verify human users while minimizing data collection."
+        },
+        {
+            "question": "Is hCaptcha free to use?",
+            "answer": "Yes, hCaptcha offers a free plan for websites with up to 1 million verifications per month. Paid plans are available for higher usage or advanced features."
+        },
+        {
+            "question": "How does hCaptcha protect user privacy?",
+            "answer": "hCaptcha complies with GDPR and CCPA, collecting minimal user data compared to traditional CAPTCHAs. It prioritizes privacy without sacrificing security."
+        },
+        {
+            "question": "Can hCaptcha be integrated with my website?",
+            "answer": "Yes, hCaptcha provides APIs and plugins for easy integration with platforms like WordPress, Shopify, and Cloudflare."
+        },
+        {
+            "question": "What makes hCaptcha different from other CAPTCHA services?",
+            "answer": "hCaptcha focuses on user privacy, offers accessibility features, and uses AI-driven challenges that are harder for bots but easier for humans."
+        },
+        {
+            "question": "Does hCaptcha support accessibility for all users?",
+            "answer": "Yes, hCaptcha includes audio challenges and other accessibility options to accommodate users with visual or other impairments."
+        },
+        {
+            "question": "What are the benefits of hCaptcha’s enterprise plan?",
+            "answer": "The enterprise plan offers advanced analytics, customizable challenges, and priority support for high-security and high-traffic websites."
+        }
+    ]
+}

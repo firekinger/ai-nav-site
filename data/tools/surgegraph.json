@@ -1,0 +1,71 @@
+{
+    "name": "SurgeGraph",
+    "description": "SurgeGraph is an AI-powered SEO content platform that enables users to generate, optimize, and publish high-performing content for better search engine rankings.",
+    "longDescription": "SurgeGraph is an advanced AI-driven tool designed to revolutionize SEO content creation by automating and optimizing the process for marketers, bloggers, and businesses. Its mission is to help users achieve higher search engine visibility through data-backed content strategies that align with Google's algorithms and user intent. The platform solves common problems like keyword research overload, content quality inconsistencies, and time-consuming optimization by leveraging AI to streamline workflows. Users can create surge-optimized content that drives organic traffic, with features tailored for scalability across various industries. Overall, SurgeGraph empowers creators to focus on strategy rather than manual tasks, making SEO accessible and effective for both novices and experts.",
+    "url": "https://surgegraph.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/surgegraph.io.webp",
+    "category": "AI SEO Tools",
+    "categorySlug": "ai-seo-tools",
+    "slug": "surgegraph",
+    "categories": [
+        "AI SEO Tools",
+        "AI Writing",
+        "AI Marketing",
+        "AI Digital Marketing",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "AI Content Generation automatically creates high-quality, SEO-optimized articles based on user inputs, saving time and ensuring relevance to target keywords.",
+        "SERP Analysis provides in-depth insights into search engine results pages, helping users understand competitor strategies and identify ranking opportunities.",
+        "Keyword Research tools uncover high-potential keywords with metrics like search volume and competition, enabling data-driven content planning.",
+        "Content Optimization suggests improvements for on-page SEO elements like headings, meta tags, and internal links to boost search performance.",
+        "Internal Linking AI recommends strategic links within content to improve site structure and user navigation, enhancing overall SEO health.",
+        "Entity Optimization integrates semantic SEO by incorporating relevant entities and topics to align with Google's knowledge graph.",
+        "Content Briefing creates detailed outlines and briefs for writers, ensuring alignment with SEO goals from the start.",
+        "Performance Tracking monitors content rankings and traffic post-publication, offering actionable insights for ongoing improvements.",
+        "Collaboration Features allow teams to work together on content projects with real-time editing and feedback loops.",
+        "Export Options enable seamless integration with CMS platforms like WordPress for easy publishing of optimized content."
+    ],
+    "faqs": [
+        {
+            "question": "What is SurgeGraph?",
+            "answer": "SurgeGraph is an AI-powered platform for SEO content creation and optimization. It helps users generate and refine content to improve search engine rankings."
+        },
+        {
+            "question": "How does SurgeGraph use AI?",
+            "answer": "SurgeGraph employs AI to analyze SERPs, generate content, and suggest optimizations based on algorithms and data. This automates tedious SEO tasks for better efficiency."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, SurgeGraph offers a free trial to test its features. However, full access requires a paid subscription after the trial period."
+        },
+        {
+            "question": "What types of content can I create with SurgeGraph?",
+            "answer": "You can create blog posts, articles, product descriptions, and more. The platform supports various formats optimized for SEO."
+        },
+        {
+            "question": "How does SurgeGraph improve SEO?",
+            "answer": "It optimizes content for keywords, entities, and user intent while analyzing competitors. This leads to higher rankings and increased organic traffic."
+        },
+        {
+            "question": "Can I integrate SurgeGraph with my website?",
+            "answer": "Yes, it integrates with popular CMS like WordPress for direct publishing. Exports are available in multiple formats for easy implementation."
+        },
+        {
+            "question": "What pricing plans does SurgeGraph offer?",
+            "answer": "SurgeGraph has tiered plans starting from basic to enterprise levels. Pricing depends on features like content volume and advanced AI tools."
+        },
+        {
+            "question": "Is SurgeGraph suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and AI guidance make it accessible for SEO novices. Tutorials and support are available to get started quickly."
+        },
+        {
+            "question": "How secure is my data on SurgeGraph?",
+            "answer": "SurgeGraph uses industry-standard encryption and privacy measures. User data is protected and not shared without consent."
+        },
+        {
+            "question": "Does SurgeGraph support multiple languages?",
+            "answer": "Yes, it supports content generation in multiple languages. This helps users target global audiences effectively."
+        }
+    ]
+}

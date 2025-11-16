@@ -1,0 +1,57 @@
+{
+    "name": "Bark",
+    "description": "Bark is a parental control platform that monitors children's online activity to ensure their safety.",
+    "longDescription": "Bark is a parental control and monitoring service designed to help parents keep their children safe online by using AI to detect potential risks in digital content. It monitors text messages, emails, social media, and other platforms for signs of cyberbullying, sexting, depression, or predatory behavior. The platform alerts parents to concerning activity without invading their child's privacy by showing only relevant snippets rather than full conversations. Bark's mission is to empower families to navigate the digital world confidently, offering peace of mind through proactive safety tools. It serves parents of children and teens, as well as schools, by providing insights and recommendations to address online dangers. The service is subscription-based and compatible with iOS, Android, and various web platforms.",
+    "url": "https://www.bark.us/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.bark.us.webp",
+    "category": "AI Parenting",
+    "categorySlug": "ai-parenting",
+    "slug": "bark",
+    "categories": [
+        "AI Parenting",
+        "AI Social Media",
+        "AI Travel"
+    ],
+    "features": [
+        "Bark monitors text messages, emails, and social media for potential dangers like cyberbullying or predatory behavior, alerting parents to issues.",
+        "The platform uses AI to analyze content and detect signs of depression, anxiety, or inappropriate interactions, ensuring timely parental intervention.",
+        "Bark provides customizable monitoring settings, allowing parents to tailor alerts to their child's specific needs and age group.",
+        "It offers screen time management tools to help parents set healthy limits on device usage for their children.",
+        "Bark supports monitoring across multiple platforms, including Instagram, Snapchat, TikTok, and YouTube, ensuring comprehensive coverage.",
+        "The service includes location tracking to help parents know their child's whereabouts in real-time.",
+        "Bark delivers actionable insights and expert recommendations to guide parents in addressing concerning online behavior.",
+        "It ensures child privacy by sharing only relevant content snippets with parents, avoiding full access to all communications.",
+        "Bark for Schools provides monitoring solutions for educational institutions to enhance student safety online.",
+        "The platform integrates with iOS, Android, and web browsers for seamless monitoring across devices."
+    ],
+    "faqs": [
+        {
+            "question": "What does Bark monitor on my child's device?",
+            "answer": "Bark monitors texts, emails, social media platforms, and apps for signs of cyberbullying, sexting, or other risks, alerting parents to potential issues."
+        },
+        {
+            "question": "Is Bark compatible with all devices?",
+            "answer": "Bark works with iOS, Android, and various web platforms, ensuring broad compatibility for monitoring children's devices."
+        },
+        {
+            "question": "Does Bark invade my child's privacy?",
+            "answer": "Bark prioritizes privacy by only sharing relevant snippets of concerning content with parents, not full conversations."
+        },
+        {
+            "question": "Can Bark help manage screen time?",
+            "answer": "Yes, Bark includes tools to set screen time limits and schedules to promote healthy device usage habits."
+        },
+        {
+            "question": "How does Bark differ from other parental control apps?",
+            "answer": "Bark uses AI to proactively detect emotional and safety risks, offering targeted alerts and expert guidance, unlike many apps that focus solely on blocking content."
+        },
+        {
+            "question": "Is there a free version of Bark?",
+            "answer": "Bark is a subscription-based service, but it offers a 7-day free trial to test its features."
+        },
+        {
+            "question": "Can Bark be used for schools?",
+            "answer": "Yes, Bark for Schools provides monitoring solutions to help educational institutions protect students from online risks."
+        }
+    ]
+}

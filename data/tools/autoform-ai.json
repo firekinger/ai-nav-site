@@ -1,0 +1,74 @@
+{
+    "name": "AutoForm AI",
+    "description": "AutoForm AI is an AI-powered platform that automates the process of filling out online forms, particularly for job applications, to save users time and effort.",
+    "longDescription": "AutoForm AI is an innovative tool designed to streamline the tedious task of completing online forms by leveraging artificial intelligence to auto-populate fields based on user-provided data such as resumes or profiles. Its mission is to empower job seekers, professionals, and anyone dealing with repetitive form-filling by reducing manual input and minimizing errors. The platform serves users by integrating with various websites and applications, extracting relevant information intelligently, and ensuring data privacy and accuracy. It solves common problems like time consumption and fatigue associated with applying to multiple jobs or registering for services. By automating these processes, AutoForm AI allows users to focus on more important aspects of their careers or daily tasks. Overall, it represents a step forward in using AI for productivity enhancement in administrative workflows.",
+    "url": "https://autoform.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/autoform.ai.webp",
+    "category": "AI Forms",
+    "categorySlug": "ai-forms",
+    "slug": "autoform-ai",
+    "categories": [
+        "AI Forms",
+        "AI Resume Checker",
+        "AI Resume Builder",
+        "AI Document Extraction",
+        "AI Productivity Tools",
+        "AI Workflow",
+        "AI Assistant",
+        "AI Checker"
+    ],
+    "features": [
+        "AI-powered auto-filling automatically populates form fields from uploaded resumes or user profiles, saving significant time on repetitive tasks.",
+        "Seamless integration with popular job boards and websites enables one-click form submissions without manual data entry.",
+        "Customizable templates allow users to tailor form responses to specific job requirements or personal preferences for better accuracy.",
+        "Data privacy controls ensure that sensitive information is handled securely and compliant with relevant regulations.",
+        "Error detection algorithms identify and correct inconsistencies in form data to prevent submission failures.",
+        "Batch processing capability lets users apply to multiple opportunities simultaneously with minimal effort.",
+        "User-friendly dashboard provides analytics on application progress and success rates for informed decision-making.",
+        "Mobile compatibility allows form filling on-the-go via smartphones or tablets for added convenience.",
+        "Resume parsing technology extracts key details like skills and experience to match form requirements intelligently.",
+        "Collaboration tools enable teams to share profiles and automate group applications or registrations."
+    ],
+    "faqs": [
+        {
+            "question": "What is AutoForm AI primarily used for?",
+            "answer": "AutoForm AI is mainly used to automate the filling of online forms, especially job applications, by using AI to pull data from resumes. This helps users apply to jobs faster without manual typing."
+        },
+        {
+            "question": "Does AutoForm AI support all websites?",
+            "answer": "It integrates with many popular job boards and form-based sites, but compatibility may vary. Users can request support for specific sites if needed."
+        },
+        {
+            "question": "Is my data secure with AutoForm AI?",
+            "answer": "Yes, the platform employs encryption and privacy measures to protect user data. It complies with data protection standards and does not store information without consent."
+        },
+        {
+            "question": "Can I use AutoForm AI for free?",
+            "answer": "AutoForm AI offers a free plan with limited features, such as a certain number of form fills per month. Upgrading to premium unlocks unlimited access and advanced tools."
+        },
+        {
+            "question": "How accurate is the auto-filling feature?",
+            "answer": "The AI is highly accurate for standard forms, using advanced parsing to match data correctly. Users can review and edit suggestions before submission to ensure precision."
+        },
+        {
+            "question": "Does it work with PDF forms?",
+            "answer": "Currently, it focuses on web-based forms, but PDF support is in development. For now, users can convert PDFs to web formats for compatibility."
+        },
+        {
+            "question": "Can I customize the information filled in forms?",
+            "answer": "Yes, users can edit profiles and templates to customize responses. This ensures tailored applications that reflect individual qualifications."
+        },
+        {
+            "question": "What if the AI makes a mistake in filling a form?",
+            "answer": "The platform includes an error-checking system and allows manual overrides. If issues persist, support is available to refine the AI's performance."
+        },
+        {
+            "question": "Is AutoForm AI suitable for non-job related forms?",
+            "answer": "Absolutely, it can handle various online forms like registrations or surveys. Its versatility extends beyond job applications to general productivity tasks."
+        },
+        {
+            "question": "How do I get started with AutoForm AI?",
+            "answer": "Sign up on the website, upload your resume, and install any necessary browser extensions. Then, navigate to a form and let the AI handle the rest."
+        }
+    ]
+}

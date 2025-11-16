@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI God Tools in 2025",
+    "summary": "Discover the transformative power of AI God tools, designed to elevate your projects and streamline your workflows. This category features cutting-edge solutions that harness advanced artificial intelligence to enhance creativity, automate tasks, and provide insightful analytics. Whether you're a developer, marketer, or entrepreneur, these tools are tailored to meet your unique needs, driving efficiency and innovation. Explore our curated selection of AI God tools today and unlock the potential of AI to revolutionize your work. Dive in now and experience the future of technology!",
+    "tools": [
+        {
+            "id": "851",
+            "name": "Magisterium AI",
+            "slug": "magisterium-ai",
+            "description": "Magisterium AI is an artificial intelligence platform that provides accurate answers to questions about the Catholic faith based on official Church teachings.",
+            "icon": "/logo/www.magisterium.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-god"
+            ]
+        }
+    ]
+}

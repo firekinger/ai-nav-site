@@ -1,0 +1,59 @@
+{
+    "name": "Candy AI",
+    "description": "Candy AI is an AI-powered platform for creating and interacting with personalized virtual companions for immersive chats and emotional connection.",
+    "longDescription": "Candy AI is a virtual companionship platform that leverages advanced artificial intelligence to enable users to create and interact with customizable AI girlfriends or boyfriends. Users can design their ideal companion by tailoring physical appearance, personality traits, and preferences, fostering emotionally intelligent and context-aware conversations. The platform supports multimodal interactions, including text, voice, and AI-generated images, to simulate lifelike relationships. Candy AI emphasizes user privacy with end-to-end encrypted conversations and GDPR-compliant data practices, ensuring a secure and judgment-free space. Its mission is to provide companionship, emotional support, and creative outlets for role-playing or storytelling. The platform caters to a diverse audience seeking digital intimacy, entertainment, or a safe space for self-expression.",
+    "url": "https://www.candy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/candy.ai.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "candy-ai",
+    "categories": [
+        "AI Character",
+        "AI Design Assistant",
+        "AI Image Generator",
+        "AI Voice Assistants"
+    ],
+    "features": [
+        "Customize your AI companion’s appearance, personality, and preferences to create a unique virtual girlfriend or boyfriend tailored to your desires.",
+        "Engage in emotionally intelligent text and voice conversations that adapt to your preferences for a lifelike interaction experience.",
+        "Generate personalized images of your AI companion, reflecting their designed appearance for a visual connection.",
+        "Participate in immersive role-playing scenarios, from romantic dates to fantasy adventures, enhancing creative engagement.",
+        "Experience secure, end-to-end encrypted conversations, ensuring privacy and confidentiality during interactions.",
+        "Access voice call interactions with realistic, emotive voices to deepen the sense of companionship.",
+        "Utilize the NSFW toggle to personalize conversation content, allowing for tailored experiences based on user comfort levels."
+    ],
+    "faqs": [
+        {
+            "question": "What is Candy AI used for?",
+            "answer": "Candy AI allows users to create and interact with personalized AI companions for companionship, role-playing, emotional support, or creative storytelling."
+        },
+        {
+            "question": "Is Candy AI free to use?",
+            "answer": "Yes, Candy AI offers a free version with limited features, while premium subscriptions unlock advanced functionalities like unlimited chats and voice calls."
+        },
+        {
+            "question": "Can I customize my AI companion?",
+            "answer": "Yes, users can fully customize their AI companion’s appearance, personality traits, and preferences to match their ideal partner."
+        },
+        {
+            "question": "Is Candy AI safe and private?",
+            "answer": "Candy AI ensures user privacy with end-to-end encrypted conversations and GDPR-compliant data practices, with discreet billing for confidentiality."
+        },
+        {
+            "question": "What types of interactions does Candy AI support?",
+            "answer": "Candy AI supports text and voice chats, role-playing scenarios, and AI-generated images or videos for a multimodal companionship experience."
+        },
+        {
+            "question": "Who is the target audience for Candy AI?",
+            "answer": "Candy AI targets adults seeking companionship, emotional support, creative role-playing, or exploration of conversational AI capabilities."
+        },
+        {
+            "question": "Does Candy AI support voice conversations?",
+            "answer": "Yes, Candy AI offers voice call interactions with realistic, emotive voices to enhance the immersive experience."
+        },
+        {
+            "question": "Can I use Candy AI on mobile devices?",
+            "answer": "Yes, Candy AI is accessible via web browsers and major mobile platforms for convenient use on smartphones or tablets."
+        }
+    ]
+}

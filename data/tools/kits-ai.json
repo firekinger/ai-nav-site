@@ -1,0 +1,75 @@
+{
+    "name": "Kits AI",
+    "description": "Kits AI provides studio-quality AI music tools for producers to streamline workflows and enhance music creation.",
+    "longDescription": "Kits AI is an industry-leading AI audio platform designed to revolutionize music production by offering tools for voice cloning, vocal separation, and AI mastering. It empowers musicians, producers, and content creators to create professional-quality vocals and instrumentals without the need for expensive studio sessions. The platform emphasizes ethical AI use, ensuring all voices are licensed responsibly with fair compensation for artists through revenue-sharing models. By integrating seamlessly with digital audio workstations (DAWs), Kits AI simplifies workflows, enabling users to focus on creativity. It also supports remote collaboration, allowing artists to share and refine vocals effortlessly. The platform is backed by notable investors and music industry figures, underscoring its credibility and innovation in AI-driven music production.",
+    "url": "https://www.kits.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.kits.ai.webp",
+    "category": "AI Voice Cloning",
+    "categorySlug": "ai-voice-cloning",
+    "slug": "kits-ai",
+    "categories": [
+        "AI Voice Cloning",
+        "AI Vocal Remover",
+        "AI Mastering",
+        "AI Instrumental Generator",
+        "AI Text-to-Speech",
+        "AI Voice Changer",
+        "AI Music Generator"
+    ],
+    "features": [
+        "AI Voice Cloning creates realistic, custom AI voices for demos, backing vocals, or creative projects using just 30 seconds to 60 minutes of audio input.",
+        "Vocal Separator isolates vocals from tracks, removing background noise, echoes, or reverb for clean audio outputs.",
+        "Instrument Converter transforms recordings, like hums or beatboxing, into production-ready instrumentals such as cello or electronic bass.",
+        "AI Mastering enhances tracks, stems, or samples to achieve professional, studio-quality sound with minimal effort.",
+        "Royalty-Free Voice Library offers over 100 ethically sourced AI voices for commercial use without licensing concerns.",
+        "Instant Voice Cloning generates demo-ready AI voices quickly, streamlining the creative process for producers.",
+        "Text-to-Speech converts text into natural-sounding vocals, ideal for music, podcasts, or audiobooks.",
+        "Voice Blending combines multiple AI or real voices to create unique vocal effects for innovative music production.",
+        "DAW Integration enables drag-and-drop functionality for seamless use within popular music production software.",
+        "Key and BPM Finder identifies the key and tempo of tracks to simplify music production and remixing workflows.",
+        "API Access allows developers to integrate Kits AI’s voice generation tools into custom applications for advanced use cases.",
+        "Vocal Enhancer refines clarity, tone, and depth of vocal recordings for polished, professional tracks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kits AI used for?",
+            "answer": "Kits AI is used for creating AI-generated vocals, cloning voices, isolating vocals, and mastering tracks to streamline music production."
+        },
+        {
+            "question": "Is Kits AI free to use?",
+            "answer": "Kits AI offers a free tier for testing core features, with premium plans starting at $9.99/month for advanced tools and higher usage limits."
+        },
+        {
+            "question": "Can I clone my own voice with Kits AI?",
+            "answer": "Yes, you can clone your voice by uploading 30-60 minutes of high-quality, dry vocal recordings to train a custom AI voice model."
+        },
+        {
+            "question": "Are the AI voices royalty-free?",
+            "answer": "Kits AI provides a library of over 100 royalty-free voices, ensuring users can use them commercially without licensing issues."
+        },
+        {
+            "question": "How does the Vocal Separator work?",
+            "answer": "The Vocal Separator tool isolates vocals from a track, removing background noise, harmonies, or effects to produce clean acapellas."
+        },
+        {
+            "question": "Can I integrate Kits AI with my DAW?",
+            "answer": "Yes, Kits AI offers drag-and-drop integration with popular DAWs, making it easy to incorporate AI vocals into your workflow."
+        },
+        {
+            "question": "What audio quality is required for voice cloning?",
+            "answer": "High-quality, dry, monophonic vocals in 16-bit .wav format with consistent volume and no effects are recommended for optimal cloning results."
+        },
+        {
+            "question": "Does Kits AI support instrument creation?",
+            "answer": "Yes, the Instrument Converter transforms recordings like hums into production-ready instrumentals, such as strings or bass."
+        },
+        {
+            "question": "Is Kits AI suitable for beginners?",
+            "answer": "Kits AI’s user-friendly interface makes it accessible for beginners, though advanced features may require some learning."
+        },
+        {
+            "question": "How does Kits AI ensure ethical AI use?",
+            "answer": "Kits AI uses ethically licensed voices with artist consent and fair compensation through revenue-sharing models."
+        }
+    ]
+}

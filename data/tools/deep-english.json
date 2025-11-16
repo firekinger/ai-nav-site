@@ -1,0 +1,72 @@
+{
+    "name": "Deep English",
+    "description": "Deep English is an online platform offering free English lessons, podcasts, and stories to improve listening comprehension and fluency for language learners.",
+    "longDescription": "Deep English is a dedicated website for English language learners, providing audio-based lessons and stories to enhance listening and speaking skills. Its mission is to make learning English fun and effective by using real-life stories narrated at varying speeds, helping users build natural fluency without traditional rote methods. The platform addresses common challenges like poor listening comprehension and lack of engaging content by delivering weekly free lessons via email and podcasts. It serves a global audience of non-native speakers, from beginners to advanced learners, seeking to improve their English for personal or professional reasons. Additionally, Deep English offers premium courses for those wanting structured guidance and deeper practice. Overall, it promotes immersive learning to achieve effortless English communication.",
+    "url": "https://deepenglish.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepenglish.com.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "deep-english",
+    "categories": [
+        "AI Language Learning",
+        "AI Speech Recognition",
+        "AI Podcast",
+        "AI Course",
+        "AI Story Generator",
+        "AI Grammar Checker"
+    ],
+    "features": [
+        "Free weekly English lessons delivered via email, featuring audio stories to boost listening skills and vocabulary.",
+        "Podcasts with true stories told at fast and slow speeds, helping users adapt to natural speech patterns and improve comprehension.",
+        "Fluency-boosting courses that include speaking exercises and tips to enhance pronunciation and confidence in conversations.",
+        "Lesson transcripts and quizzes that allow users to follow along, test understanding, and reinforce key language concepts.",
+        "Community support through forums where learners can discuss lessons, share progress, and get motivation from peers.",
+        "Mobile-optimized access to all content, enabling convenient learning on smartphones or tablets anytime, anywhere.",
+        "Advanced topic-specific courses, such as business English or idiomatic expressions, tailored to practical real-world use.",
+        "Downloadable audio files for offline listening, ensuring users can practice even without an internet connection.",
+        "Personalized progress tracking to monitor improvement in listening and speaking abilities over time.",
+        "Engaging storytelling method that makes learning feel like entertainment rather than a chore, increasing user retention."
+    ],
+    "faqs": [
+        {
+            "question": "What is Deep English?",
+            "answer": "Deep English is an online platform that provides free English lessons and podcasts focused on improving listening and fluency through engaging stories. It uses a unique method of narrating stories at different speeds to help learners build comprehension skills."
+        },
+        {
+            "question": "Is Deep English completely free?",
+            "answer": "Yes, Deep English offers free weekly lessons, podcasts, and basic resources. However, there are optional paid courses for more advanced or structured learning experiences."
+        },
+        {
+            "question": "How do the lessons work?",
+            "answer": "Lessons involve listening to stories told at fast and slow speeds, accompanied by transcripts and quizzes. This method helps users improve their ability to understand natural English speech."
+        },
+        {
+            "question": "Who is Deep English for?",
+            "answer": "Deep English is designed for non-native English speakers of all levels who want to enhance their listening, speaking, and fluency skills. It's particularly useful for those seeking engaging, story-based learning rather than traditional grammar-focused methods."
+        },
+        {
+            "question": "Can I access Deep English on my phone?",
+            "answer": "Yes, the website is mobile-friendly, and audio content can be downloaded for offline use. This allows flexible learning on the go."
+        },
+        {
+            "question": "Does Deep English offer certificates?",
+            "answer": "Deep English does not provide formal certificates, but completing courses can help build practical skills. Users can track their own progress through the platform's tools."
+        },
+        {
+            "question": "How often are new lessons released?",
+            "answer": "New free lessons are released weekly via email and the podcast. Premium content may have different schedules based on courses."
+        },
+        {
+            "question": "Is there a community for learners?",
+            "answer": "Yes, Deep English has a forum where users can discuss lessons, ask questions, and connect with other learners. This fosters a supportive environment for practice and motivation."
+        },
+        {
+            "question": "What makes Deep English different from other language apps?",
+            "answer": "Deep English emphasizes story-based listening at varying speeds to mimic real conversations, unlike apps that focus heavily on gamified grammar or vocabulary drills. It aims for natural fluency through immersion."
+        },
+        {
+            "question": "Can I use Deep English for business English?",
+            "answer": "Yes, there are advanced courses specifically for business English, covering professional vocabulary, idioms, and communication skills."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Landing AI",
+    "description": "Landing AI is a platform that empowers businesses to build, train, and deploy custom computer vision models for visual inspection and automation tasks.",
+    "longDescription": "Landing AI is a company founded by AI expert Andrew Ng, focused on making computer vision technology accessible to non-experts through its cloud-based platform, LandingLens. Its mission is to democratize AI by enabling companies to solve real-world problems like defect detection and quality control without needing extensive data science resources. The platform allows users to upload images, label data, train models, and deploy them seamlessly for industries such as manufacturing, agriculture, and life sciences. It addresses challenges like manual inspection inefficiencies by automating processes with high accuracy, reducing costs and errors. Overall, Landing AI serves businesses by bridging the gap between AI potential and practical implementation, fostering innovation in visual AI applications.",
+    "url": "https://landing.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/landing.ai.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "landing-ai",
+    "categories": [
+        "AI Image Recognition",
+        "AI Models",
+        "AI Data Mining",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Intuitive data labeling tools enable users to annotate images quickly and accurately, streamlining the preparation phase for model training.",
+        "Automated model training uses pre-built algorithms to create custom computer vision models without requiring coding expertise, saving time and resources.",
+        "Seamless deployment options allow models to be integrated into cloud or on-premise environments, ensuring flexibility for various business needs.",
+        "Real-time model monitoring and analytics provide insights into performance, helping users optimize and maintain AI solutions over time.",
+        "Industry-specific templates accelerate development for tasks like defect detection in manufacturing or crop analysis in agriculture.",
+        "Collaboration features support team-based workflows, allowing multiple users to work on projects simultaneously for efficient AI development.",
+        "Scalable infrastructure handles large datasets and high-volume deployments, making it suitable for enterprise-level applications.",
+        "Integration with existing systems via APIs enables easy incorporation of AI models into current business processes and tools."
+    ],
+    "faqs": [
+        {
+            "question": "What is Landing AI?",
+            "answer": "Landing AI is a platform for building and deploying computer vision AI models. It was founded by Andrew Ng to make AI accessible for visual inspection tasks."
+        },
+        {
+            "question": "How does LandingLens work?",
+            "answer": "LandingLens allows users to upload images, label data, train models, and deploy them via an intuitive interface. No advanced coding is required, making it user-friendly for businesses."
+        },
+        {
+            "question": "What industries does Landing AI serve?",
+            "answer": "Landing AI primarily serves manufacturing, agriculture, life sciences, and other sectors needing visual inspection. It helps automate quality control and detection processes."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, Landing AI offers a free trial for users to test the platform's features. This allows exploration of core functionalities before committing to a paid plan."
+        },
+        {
+            "question": "Do I need AI expertise to use Landing AI?",
+            "answer": "No, the platform is designed for users without deep AI knowledge. It provides guided tools and templates to simplify model creation and deployment."
+        },
+        {
+            "question": "Can models be deployed on-premise?",
+            "answer": "Yes, Landing AI supports both cloud and on-premise deployments. This ensures data security and compliance for sensitive applications."
+        },
+        {
+            "question": "What kind of support does Landing AI provide?",
+            "answer": "Landing AI offers technical support, documentation, and training resources. Enterprise users can access dedicated assistance for implementation."
+        },
+        {
+            "question": "How accurate are the models built with Landing AI?",
+            "answer": "Model accuracy depends on data quality and training, but the platform achieves high precision through advanced algorithms. Users can iterate to improve results."
+        }
+    ]
+}

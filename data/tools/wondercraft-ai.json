@@ -1,0 +1,76 @@
+{
+    "name": "Wondercraft",
+    "description": "Wondercraft is an AI-powered platform for creating studio-quality podcasts, audiobooks, and ads effortlessly.",
+    "longDescription": "Wondercraft is an innovative AI-driven audio creation platform designed to simplify the production of professional-grade podcasts, audiobooks, advertisements, and other audio content. By leveraging advanced text-to-speech technology, voice cloning, and AI scripting, it enables users to transform written content into engaging audio without requiring expensive equipment or technical expertise. Founded in 2023, Wondercraft aims to democratize audio storytelling, making it accessible to creators, businesses, and organizations worldwide. The platform supports collaborative workflows and multilingual content creation, catering to diverse audiences. Its intuitive interface and extensive voice library empower users to craft polished audio experiences quickly, reducing production time from weeks to minutes. Wondercraft is particularly valued by top brands like Spotify and Amazon for its ability to streamline communication and produce high-quality audio at scale.",
+    "url": "https://www.wondercraft.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.wondercraft.ai.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "wondercraft-ai",
+    "categories": [
+        "AI Music Generator",
+        "AI Podcast Editing",
+        "AI Voice Cloning",
+        "AI Audio Editing",
+        "AI Script Writing",
+        "AI Writing Assistants",
+        "AI Advertising",
+        "AI Text-to-Speech",
+        "AI Writing",
+        "AI Ebook Generator"
+    ],
+    "features": [
+        "AI-powered script generation converts text, URLs, or notes into polished podcast scripts in seconds, streamlining content creation.",
+        "Voice cloning allows users to replicate their own voice or create custom AI voices for personalized audio narration.",
+        "Multilingual support enables content creation in over 30 languages, making audio accessible to global audiences.",
+        "Parrot Mode mimics a user’s speaking style, adding nuanced inflection to AI-generated voices for natural delivery.",
+        "Royalty-free music and sound effects library enhances audio projects with professional-grade audio elements.",
+        "Collaborative editing tools allow teams to work together, refine scripts, and manage approvals within the platform.",
+        "One-click publishing to platforms like Spotify and Apple Podcasts simplifies distribution for podcasters.",
+        "AI-generated show notes and video clips provide additional content to complement audio productions.",
+        "Dubbing feature translates and adapts audio content into 19+ languages with optional human translator checks.",
+        "Intuitive timeline editor enables drag-and-drop audio mixing, accessible to beginners and professionals alike."
+    ],
+    "faqs": [
+        {
+            "question": "What types of audio content can I create with Wondercraft?",
+            "answer": "Wondercraft allows you to create podcasts, audiobooks, advertisements, meditations, and educational audio content with ease."
+        },
+        {
+            "question": "Is Wondercraft free to use?",
+            "answer": "Yes, Wondercraft offers a free Starter plan with 6 credits monthly (6 minutes of AI audio) and access to 40 AI voices."
+        },
+        {
+            "question": "Can I clone my own voice on Wondercraft?",
+            "answer": "Yes, Wondercraft’s voice cloning feature lets you upload a voice sample to create a personalized AI voice for your projects."
+        },
+        {
+            "question": "Does Wondercraft support multiple languages?",
+            "answer": "Wondercraft supports over 30 languages, enabling users to create and translate audio content for global audiences."
+        },
+        {
+            "question": "Do I need audio production experience to use Wondercraft?",
+            "answer": "No, Wondercraft’s user-friendly interface and drag-and-drop editor make it accessible for beginners and professionals."
+        },
+        {
+            "question": "Can I collaborate with my team on Wondercraft?",
+            "answer": "Yes, Wondercraft offers collaborative tools for teams to edit, provide feedback, and manage approvals within the platform."
+        },
+        {
+            "question": "How long does it take to create a podcast with Wondercraft?",
+            "answer": "With Wondercraft, you can generate, edit, and export a podcast episode in just a few minutes."
+        },
+        {
+            "question": "Can I turn written content like blogs or PDFs into audio?",
+            "answer": "Yes, Wondercraft can transform blog posts, PDFs, or notes into professional-sounding podcasts or audiobooks."
+        },
+        {
+            "question": "Does Wondercraft offer royalty-free music and sound effects?",
+            "answer": "Yes, Wondercraft provides a library of royalty-free music and an AI sound effects generator for enhanced audio production."
+        },
+        {
+            "question": "Can I publish my podcast directly from Wondercraft?",
+            "answer": "Yes, Wondercraft supports one-click publishing to major platforms like Spotify and Apple Podcasts."
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "title": "The Best 28 AI For Finance Tools in 2025",
+    "summary": "Unlock the future of finance with our curated selection of AI tools designed to enhance decision-making, streamline operations, and optimize investments. From predictive analytics to automated reporting, these innovative solutions empower finance professionals to work smarter and more efficiently. Whether you're looking to improve risk management or enhance customer insights, our AI for Finance category offers the resources you need to stay ahead in a competitive landscape. Explore our tools today and transform your financial strategies with cutting-edge technology!",
+    "tools": [
+        {
+            "id": "101",
+            "name": "Shop",
+            "slug": "shop",
+            "description": "Shop is a digital shopping assistant app that streamlines online shopping with order tracking, personalized recommendations, and fast checkouts.",
+            "icon": "/logo/shop.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "Aura",
+            "slug": "aura",
+            "description": "Aura provides comprehensive digital security and identity theft protection for individuals and families.",
+            "icon": "/logo/aura.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "449",
+            "name": "AInvest",
+            "slug": "ainvest",
+            "description": "AInvest provides AI-powered tools for stock and cryptocurrency trading, offering real-time market analysis and personalized investment insights.",
+            "icon": "/logo/www.ainvest.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "659",
+            "name": "StockStory",
+            "slug": "stockstory",
+            "description": "StockStory provides AI-driven stock market analysis and research for individual investors.",
+            "icon": "/logo/stockstory.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "758",
+            "name": "Slidebean",
+            "slug": "slidebean",
+            "description": "Slidebean is an AI-powered platform that helps startups create professional pitch decks and financial models to secure investor funding.",
+            "icon": "/logo/slidebean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "768",
+            "name": "Ready Player Me",
+            "slug": "ready-player-me",
+            "description": "Ready Player Me is a cross-platform avatar creation platform that enables developers to integrate customizable 3D avatars into games and apps.",
+            "icon": "/logo/readyplayer.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "Datarails",
+            "slug": "datarails",
+            "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+            "icon": "/logo/www.datarails.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "840",
+            "name": "Scenario",
+            "slug": "scenario",
+            "description": "Scenario is an AI-powered platform for creating and managing production-ready visual assets with precision and creative control.",
+            "icon": "/logo/www.scenario.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "842",
+            "name": "PromptLayer",
+            "slug": "promptlayer",
+            "description": "PromptLayer is a platform designed to help developers track, manage, and optimize their interactions with large language models like GPT.",
+            "icon": "/logo/www.promptlayer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "867",
+            "name": "Composer",
+            "slug": "composer",
+            "description": "Composer is a no-code platform that empowers users to build, backtest, and automate AI-powered investment strategies for automated trading.",
+            "icon": "/logo/www.composer.trade.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "875",
+            "name": "DealMachine",
+            "slug": "dealmachine",
+            "description": "DealMachine is a real estate investing platform that empowers users to discover off-market deals, manage leads, and automate marketing through mobile and web tools.",
+            "icon": "/logo/dealmachine.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "888",
+            "name": "Incite AI",
+            "slug": "incite-ai",
+            "description": "Incite AI is an AI-powered platform that provides real-time market insights, trading signals, and predictive analytics to help investors make informed decisions in the stock market.",
+            "icon": "/logo/www.inciteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "978",
+            "name": "Tradytics",
+            "slug": "tradytics",
+            "description": "Tradytics is an AI-driven platform providing data analytics, trade ideas, and tools for stock and options traders to make informed decisions.",
+            "icon": "/logo/tradytics.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "990",
+            "name": "Origin",
+            "slug": "origin",
+            "description": "Origin is a financial wellness platform that provides employees with AI-powered tools and personalized guidance to manage their finances effectively.",
+            "icon": "/logo/www.useorigin.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1041",
+            "name": "Orum",
+            "slug": "orum",
+            "description": "Orum is a fintech platform that provides instant money movement infrastructure, enabling businesses to send and receive payments quickly and reliably using AI-optimized payment rails.",
+            "icon": "/logo/www.orum.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1065",
+            "name": "Danelfin",
+            "slug": "danelfin",
+            "description": "Danelfin is an AI-powered platform that provides stock rankings, scores, and insights to help investors identify high-potential stocks and optimize their portfolios.",
+            "icon": "/logo/danelfin.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1066",
+            "name": "Upmetrics",
+            "slug": "upmetrics",
+            "description": "Upmetrics is an AI-powered platform that helps entrepreneurs and businesses create professional business plans, financial forecasts, and pitch decks efficiently.",
+            "icon": "/logo/upmetrics.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "Avoma",
+            "slug": "avoma",
+            "description": "Avoma is an all-in-one AI platform that automates note-taking, scheduling, coaching, and revenue intelligence to enhance business efficiency and growth.",
+            "icon": "/logo/www.avoma.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1134",
+            "name": "Morpher",
+            "slug": "morpher",
+            "description": "Morpher is a blockchain-based trading platform offering zero-fee access to global markets including stocks, crypto, commodities, and more with high leverage and infinite liquidity.",
+            "icon": "/logo/www.morpher.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1154",
+            "name": "Maximo AI",
+            "slug": "maximo-ai",
+            "description": "Maximo AI is a platform offering advanced AI-driven solutions to optimize business operations and asset management.",
+            "icon": "/logo/maximoai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1178",
+            "name": "Clarity AI",
+            "slug": "clarity-ai",
+            "description": "Clarity AI is a sustainability technology platform that leverages artificial intelligence to provide actionable environmental, social, and governance (ESG) insights for investors and corporations.",
+            "icon": "/logo/clarity.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1189",
+            "name": "Stack AI",
+            "slug": "stack-ai",
+            "description": "Stack AI is a platform for deploying AI agents to automate enterprise back-office processes and enhance operational efficiency.",
+            "icon": "/logo/www.stack-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1205",
+            "name": "Moning",
+            "slug": "moning",
+            "description": "Moning is a comprehensive investment platform that empowers users to track, analyze, and optimize their stock portfolios with a focus on dividend investing and financial independence.",
+            "icon": "/logo/moning.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1302",
+            "name": "CloudKeeper",
+            "slug": "cloudkeeper",
+            "description": "CloudKeeper is a FinOps platform that leverages AI to help businesses optimize cloud costs, automate savings, and provide expert consulting for efficient cloud management.",
+            "icon": "/logo/www.cloudkeeper.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1426",
+            "name": "SalesRender",
+            "slug": "salesrender",
+            "description": "SalesRender is an AI-powered CRM platform designed to automate sales processes, manage customer relationships, and boost revenue through intelligent tools.",
+            "icon": "/logo/salesrender.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        },
+        {
+            "id": "1368",
+            "name": "OdysseyGPT",
+            "slug": "odysseygpt-ai",
+            "description": "OdysseyGPT is an AI-powered platform that uses advanced GPT technology to assist users in planning personalized travel adventures and itineraries.",
+            "icon": "/logo/www.odysseygpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-for-finance"
+            ]
+        }
+    ]
+}

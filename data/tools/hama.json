@@ -1,0 +1,69 @@
+{
+    "name": "Hama",
+    "description": "Hama is an AI-powered web application that enables users to easily remove unwanted objects, people, or backgrounds from images with high precision.",
+    "longDescription": "Hama is an innovative online tool designed to simplify photo editing by leveraging artificial intelligence to erase specific elements from images without requiring advanced skills. Its mission is to make professional-level image cleanup accessible to everyone, from casual users to photographers, by automating complex editing tasks. The platform solves common problems like removing photobombers, distractions, or imperfections in photos, allowing users to achieve clean, polished results in seconds. It serves users by providing a user-friendly interface where they can upload images and use AI to intelligently fill in erased areas with realistic backgrounds. Overall, Hama democratizes image editing, saving time and effort while maintaining high-quality outputs.",
+    "url": "https://www.hama.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.hama.app.webp",
+    "category": "AI Eraser",
+    "categorySlug": "ai-eraser",
+    "slug": "hama",
+    "categories": [
+        "AI Eraser",
+        "Object Remover AI",
+        "AI Photo Restoration",
+        "AI Inpainting",
+        "AI Photo Editor",
+        "AI Image Enhancer",
+        "AI Document Extraction",
+        "AI Proofreading"
+    ],
+    "features": [
+        "AI-powered object removal allows users to erase unwanted elements like people or items from photos with a simple brush tool, ensuring seamless integration of the background.",
+        "Intelligent inpainting technology automatically fills in erased areas with contextually appropriate content, maintaining the image's natural look and feel.",
+        "High-resolution support enables editing of large images without quality loss, benefiting professional photographers and designers.",
+        "Batch processing feature lets users edit multiple images at once, streamlining workflows for bulk photo cleanup.",
+        "Mobile-friendly interface provides easy access on smartphones, allowing on-the-go editing without needing desktop software.",
+        "Custom brush sizes and precision tools give users control over the editing process for detailed adjustments.",
+        "Free trial uploads offer limited edits without subscription, making it accessible for testing the AI capabilities.",
+        "Export options in various formats ensure compatibility with other tools and platforms for further use.",
+        "Real-time previews show edits instantly, helping users refine their changes before finalizing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Hama primarily used for?",
+            "answer": "Hama is mainly used for removing unwanted objects, people, or backgrounds from images using AI technology. It helps users clean up photos quickly without needing professional editing software."
+        },
+        {
+            "question": "Is Hama free to use?",
+            "answer": "Yes, Hama offers a free plan with limited features and uploads. Users can upgrade to premium for unlimited access and advanced tools."
+        },
+        {
+            "question": "How does the AI object removal work?",
+            "answer": "Users upload an image, select the area to erase with a brush, and the AI intelligently removes it while filling the space with matching background details. This process is automated and typically takes seconds."
+        },
+        {
+            "question": "What image formats does Hama support?",
+            "answer": "Hama supports common formats like JPEG, PNG, and WEBP for uploads and exports. It handles high-resolution files up to certain limits depending on the plan."
+        },
+        {
+            "question": "Can I use Hama on my mobile device?",
+            "answer": "Yes, Hama's web app is optimized for mobile browsers, allowing users to edit images directly from their phones or tablets."
+        },
+        {
+            "question": "Is my data secure on Hama?",
+            "answer": "Hama prioritizes user privacy by not storing images after processing unless specified. All uploads are handled securely with encryption."
+        },
+        {
+            "question": "What are the limitations of the free version?",
+            "answer": "The free version limits the number of daily uploads and may include watermarks on exports. Premium plans remove these restrictions and add more features."
+        },
+        {
+            "question": "Does Hama require any software installation?",
+            "answer": "No, Hama is a web-based tool that runs entirely in your browser, requiring no downloads or installations."
+        },
+        {
+            "question": "Can Hama edit videos?",
+            "answer": "Currently, Hama focuses on static images and does not support video editing. Future updates may include video features."
+        }
+    ]
+}

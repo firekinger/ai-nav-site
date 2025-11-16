@@ -1,0 +1,56 @@
+{
+    "name": "VMake",
+    "description": "VMake provides AI-powered tools for creating and editing professional-grade images and videos for e-commerce and marketing.",
+    "longDescription": "VMake is an AI-driven platform designed to streamline the creation and editing of high-quality images and videos, primarily for e-commerce businesses, marketers, and content creators. Its mission is to simplify visual content production by offering intuitive tools that enhance product photography and video marketing without requiring advanced technical skills. The platform leverages advanced AI algorithms to automate tasks like background removal, image enhancement, and video generation, making it accessible for users to produce professional-grade visuals efficiently. VMake serves small businesses, online sellers, and social media marketers by providing cost-effective solutions to boost their brand’s visual appeal. It aims to save time and resources while delivering polished, market-ready content that drives engagement and sales.",
+    "url": "https://vmake.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vmake.ai.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "vmake",
+    "categories": [
+        "AI Photo Editor",
+        "AI Video Generator",
+        "AI Digital Marketing",
+        "AI Background Remover"
+    ],
+    "features": [
+        "AI-powered background removal instantly eliminates image backgrounds for clean, professional product photos.",
+        "Image enhancement tools automatically adjust lighting, color, and clarity to create visually appealing product images.",
+        "Video generation converts static product images into engaging, high-quality marketing videos with customizable templates.",
+        "Batch processing allows users to edit multiple images or videos simultaneously, saving time for large-scale projects.",
+        "AI-driven product description generation creates compelling copy to complement visuals for e-commerce listings.",
+        "Customizable templates provide ready-to-use designs tailored for social media, ads, and online stores.",
+        "Cloud-based storage enables users to access and manage their projects from anywhere with an internet connection.",
+        "Real-time preview lets users see edits instantly, ensuring precise control over the final output."
+    ],
+    "faqs": [
+        {
+            "question": "What is VMake used for?",
+            "answer": "VMake is used for creating and editing professional images and videos for e-commerce, marketing, and social media using AI-powered tools."
+        },
+        {
+            "question": "Does VMake offer a free plan?",
+            "answer": "Yes, VMake provides a free plan with limited access to its core features, suitable for small projects or testing."
+        },
+        {
+            "question": "Can I use VMake for bulk image editing?",
+            "answer": "Yes, VMake supports batch processing, allowing users to edit multiple images or videos at once for efficiency."
+        },
+        {
+            "question": "Is VMake suitable for non-technical users?",
+            "answer": "Absolutely, VMake’s intuitive interface and AI automation make it easy for users without technical skills to create professional visuals."
+        },
+        {
+            "question": "What types of businesses benefit from VMake?",
+            "answer": "VMake is ideal for e-commerce sellers, social media marketers, and small businesses looking to create high-quality visual content."
+        },
+        {
+            "question": "Can VMake generate videos from images?",
+            "answer": "Yes, VMake’s AI can transform static product images into engaging marketing videos with customizable templates."
+        },
+        {
+            "question": "Does VMake support integration with e-commerce platforms?",
+            "answer": "VMake offers compatibility with major e-commerce platforms to streamline product listing creation, though specific integrations may vary."
+        }
+    ]
+}

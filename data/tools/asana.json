@@ -1,0 +1,84 @@
+{
+    "name": "Asana",
+    "description": "Asana is a collaborative work management platform that helps teams organize tasks, track projects, and achieve goals efficiently.",
+    "longDescription": "Asana is a web and mobile application designed for project management and team collaboration, enabling users to create tasks, assign responsibilities, set deadlines, and monitor progress in real-time. Founded in 2008 by former Facebook engineers, its mission is to help teams work more effectively by reducing the chaos of disorganized work and fostering clarity and accountability. The platform serves a wide range of users, from small businesses to large enterprises, by solving problems like miscommunication, missed deadlines, and inefficient workflows through intuitive tools and integrations. Asana integrates with numerous other services like Google Workspace, Slack, and Microsoft Teams, making it a versatile hub for productivity. Recently, Asana has incorporated AI features to automate insights, summaries, and recommendations, enhancing decision-making and efficiency. Overall, it empowers users to focus on high-impact work rather than administrative overhead.",
+    "url": "https://asana.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/asana.com.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "asana",
+    "categories": [
+        "AI Project Management",
+        "AI Task Management",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Report Writing",
+        "AI Article Summarizer"
+    ],
+    "features": [
+        "Task management allows users to create, assign, and prioritize tasks with due dates, subtasks, and custom fields for better organization and accountability.",
+        "Project timelines provide a visual Gantt chart view to map out dependencies, milestones, and progress, helping teams stay on schedule.",
+        "Boards offer a Kanban-style interface for workflow visualization, enabling drag-and-drop task movement across stages like 'To Do,' 'In Progress,' and 'Done.'",
+        "Workload management helps distribute tasks evenly among team members, preventing burnout by showing capacity and availability.",
+        "Goals tracking connects individual tasks to company objectives, allowing users to measure progress and align efforts with strategic priorities.",
+        "Forms enable the creation of intake requests that automatically generate tasks or projects, streamlining external submissions and approvals.",
+        "Automations allow users to set up rules for repetitive processes, such as notifying team members or updating statuses without manual intervention.",
+        "Reporting dashboards provide real-time insights into project status, task completion rates, and team performance metrics.",
+        "Integrations with over 200 apps like Zoom, Salesforce, and Adobe Creative Cloud extend Asana's functionality across tools.",
+        "Mobile apps for iOS and Android ensure users can access and update projects on the go, maintaining productivity outside the office.",
+        "Custom rules and templates let teams tailor workflows to their specific needs, saving time on setup for recurring projects.",
+        "AI-powered smart summaries generate concise overviews of project updates, helping users quickly catch up on progress.",
+        "Collaboration tools like comments, attachments, and mentions facilitate team communication directly within tasks.",
+        "Portfolio management oversees multiple projects at once, providing high-level views for executives and managers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Asana used for?",
+            "answer": "Asana is primarily used for project management, allowing teams to organize tasks, track progress, and collaborate effectively. It helps in planning workflows, assigning responsibilities, and ensuring deadlines are met."
+        },
+        {
+            "question": "Does Asana have a free version?",
+            "answer": "Yes, Asana offers a free Basic plan that includes core features like unlimited tasks, projects, and messaging for small teams. Advanced features like timelines and custom fields require a paid subscription."
+        },
+        {
+            "question": "How does Asana integrate with other tools?",
+            "answer": "Asana integrates with over 200 apps, including Google Workspace, Microsoft Office, Slack, and Zoom, allowing seamless data flow and automation between platforms."
+        },
+        {
+            "question": "Is Asana suitable for large enterprises?",
+            "answer": "Yes, Asana's Enterprise plan provides advanced security, scalability, and admin controls tailored for large organizations. It supports unlimited users and includes features like SAML authentication and data export."
+        },
+        {
+            "question": "What are Asana's AI features?",
+            "answer": "Asana AI includes smart summaries for project updates, intelligent editing suggestions, and workflow recommendations to automate and optimize team processes. These features help in generating insights and reducing manual work."
+        },
+        {
+            "question": "How secure is Asana?",
+            "answer": "Asana employs enterprise-grade security measures, including data encryption, two-factor authentication, and compliance with standards like GDPR and SOC 2. Users can control access permissions at granular levels."
+        },
+        {
+            "question": "Can I use Asana for personal tasks?",
+            "answer": "Absolutely, individuals can use Asana's free plan for personal to-do lists, habit tracking, or small projects without needing a team."
+        },
+        {
+            "question": "What is the difference between Asana and Trello?",
+            "answer": "Asana offers more structured task management with timelines and workloads, while Trello focuses on visual boards. Asana is better for complex projects, whereas Trello suits simpler, card-based workflows."
+        },
+        {
+            "question": "How do I get started with Asana?",
+            "answer": "Sign up for a free account on the Asana website, create your first project, invite team members, and start adding tasks. Tutorials and templates are available to guide new users."
+        },
+        {
+            "question": "Does Asana support mobile access?",
+            "answer": "Yes, Asana has dedicated apps for iOS and Android, allowing users to manage tasks, receive notifications, and collaborate from anywhere."
+        },
+        {
+            "question": "What pricing plans does Asana offer?",
+            "answer": "Asana has Basic (free), Premium ($10.99/user/month), Business ($24.99/user/month), and Enterprise (custom pricing) plans, each adding more features like advanced reporting and integrations."
+        },
+        {
+            "question": "Can Asana handle agile project management?",
+            "answer": "Yes, with boards, sprints, and custom fields, Asana supports agile methodologies, allowing teams to adapt quickly to changes."
+        }
+    ]
+}

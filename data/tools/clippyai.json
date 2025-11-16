@@ -1,0 +1,74 @@
+{
+    "name": "ClippyAI",
+    "description": "ClippyAI revives the iconic Microsoft Office assistant as an AI-powered tool to help users with productivity tasks, writing, and more through conversational AI.",
+    "longDescription": "ClippyAI is a modern revival of the classic Microsoft Clippy paperclip assistant, now powered by advanced AI to provide helpful guidance in various applications. Its mission is to make technology more approachable and fun by assisting users with everyday tasks, from drafting emails to generating ideas. The platform solves problems like writer's block or productivity hurdles by offering instant, context-aware suggestions in a whimsical interface. It serves users ranging from professionals to casual creators, integrating seamlessly into workflows via browser extensions or apps. By leveraging AI models, ClippyAI aims to enhance user efficiency while bringing nostalgia to modern computing. Overall, it bridges the gap between retro charm and cutting-edge AI functionality.",
+    "url": "https://clippyai.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/clippyai.co.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "clippyai",
+    "categories": [
+        "AI Assistant",
+        "AI Productivity Tools",
+        "AI Writing",
+        "AI Task Management",
+        "AI Code Assistant",
+        "AI Chat Generator",
+        "AI Writing Assistants",
+        "AI Browsers"
+    ],
+    "features": [
+        "AI-powered conversational assistance that responds to user queries in real-time, mimicking the helpful style of the original Clippy for an engaging experience.",
+        "Integration with productivity tools like word processors and browsers, allowing seamless insertion of suggestions directly into documents or workflows.",
+        "Content generation capabilities, such as drafting emails, articles, or code snippets, to boost creativity and save time.",
+        "Customizable personas where users can adjust Clippy's behavior, tone, or expertise to fit specific needs like professional advice or casual chit-chat.",
+        "Real-time editing and feedback on written content, highlighting improvements in grammar, style, and clarity for better communication.",
+        "Task management features that help organize to-do lists, set reminders, and prioritize activities through natural language interactions.",
+        "Nostalgic interface options that recreate the classic Clippy animations while incorporating modern AI enhancements for a fun user experience.",
+        "Multi-language support enabling assistance in various languages, making it accessible to a global audience.",
+        "Privacy-focused data handling that ensures user interactions are secure and not stored without consent.",
+        "Continuous learning from user feedback to improve suggestions and adapt to individual preferences over time."
+    ],
+    "faqs": [
+        {
+            "question": "What is ClippyAI?",
+            "answer": "ClippyAI is an AI-driven revival of the Microsoft Office assistant Clippy, designed to help with productivity, writing, and tasks via conversational AI. It combines nostalgia with modern technology to assist users in various applications."
+        },
+        {
+            "question": "Is ClippyAI free to use?",
+            "answer": "Yes, ClippyAI offers a free tier with core features, though premium plans unlock advanced capabilities like unlimited usage and custom integrations."
+        },
+        {
+            "question": "How does ClippyAI integrate with my tools?",
+            "answer": "It integrates via browser extensions or APIs, allowing it to work within apps like Google Docs, Microsoft Office, or web browsers for seamless assistance."
+        },
+        {
+            "question": "Can ClippyAI help with coding?",
+            "answer": "Yes, it can generate code snippets, debug suggestions, and explain programming concepts in simple terms, making it useful for developers."
+        },
+        {
+            "question": "Is my data safe with ClippyAI?",
+            "answer": "ClippyAI prioritizes privacy with encrypted interactions and options to control data storage, ensuring user information is handled securely."
+        },
+        {
+            "question": "What makes ClippyAI different from other AI assistants?",
+            "answer": "It stands out with its nostalgic Clippy interface, fun animations, and focus on approachable, context-aware help tailored to productivity and creativity."
+        },
+        {
+            "question": "Does ClippyAI support multiple languages?",
+            "answer": "Yes, it supports several languages, allowing users worldwide to interact and receive assistance in their preferred tongue."
+        },
+        {
+            "question": "How do I customize Clippy's behavior?",
+            "answer": "Users can adjust settings for tone, expertise level, and appearance through the dashboard, personalizing the AI to their needs."
+        },
+        {
+            "question": "Can ClippyAI be used on mobile devices?",
+            "answer": "Yes, it's accessible via mobile browsers or dedicated apps, providing on-the-go assistance for tasks and queries."
+        },
+        {
+            "question": "What AI models power ClippyAI?",
+            "answer": "It uses advanced language models like those from OpenAI or similar, fine-tuned for helpful, engaging responses."
+        }
+    ]
+}

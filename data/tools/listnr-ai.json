@@ -1,0 +1,70 @@
+{
+    "name": "Listnr AI",
+    "description": "Listnr AI is an advanced platform that transforms text into lifelike speech, offering over 1,000 voices in 142+ languages for content creators, educators, and businesses.",
+    "longDescription": "Listnr AI is a cutting-edge text-to-speech (TTS) and voice generation platform designed to create realistic, human-like audio content for diverse applications. Founded by Aravind Bala, it aims to eliminate the need for expensive voice actors or recording equipment by providing an intuitive interface and advanced AI technology. The platform serves content creators, educators, businesses, and developers by offering scalable solutions for voiceovers, audiobooks, podcasts, and more. It supports accessibility for individuals with visual impairments or dyslexia by converting text into natural-sounding audio. Listnr AI also provides tools like voice cloning and podcast hosting, making it a versatile solution for audio and video content creation. Its mission is to make high-quality audio production fast, accessible, and cost-effective for a global audience.",
+    "url": "https://listnr.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/listnr.ai.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "listnr-ai",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Podcast",
+        "AI Voice Generator",
+        "AI Audio Editing",
+        "AI Video Generator",
+        "AI API",
+        "AI Writing"
+    ],
+    "features": [
+        "Text-to-Speech Conversion: Transforms text into natural-sounding speech in over 1,000 voices across 142+ languages, enabling global content creation.",
+        "Voice Cloning: Allows users to create digital replicas of their own voices for personalized audio projects, enhancing brand consistency.",
+        "Emotion Fine-Tuning: Adjusts voice tones to convey specific emotions like excitement or calm, creating engaging and relatable audio content.",
+        "Customizable Punctuation and Pauses: Offers precise control over pacing and rhythm to ensure clear and natural-sounding voiceovers.",
+        "Podcast Hosting: Enables users to create, host, and distribute podcasts on platforms like Spotify and Apple Podcasts directly from the platform.",
+        "API Integration: Provides developers with a low-latency TTS API to embed lifelike voices into apps, games, or customer service platforms.",
+        "Multi-Language Support: Supports over 142 languages, allowing creators to produce localized voiceovers for diverse audiences.",
+        "Audio Export Options: Allows users to download audio files in MP3 or WAV formats for seamless integration into various projects.",
+        "Text-to-Video Generation: Converts text or audio into animated videos, ideal for creating engaging social media content or presentations.",
+        "Embeddable Audio Player: Generates embed codes for audio players to integrate into websites, enhancing audience reach and engagement."
+    ],
+    "faqs": [
+        {
+            "question": "What is Listnr AI used for?",
+            "answer": "Listnr AI is used to convert text into realistic speech for applications like podcasts, audiobooks, video voiceovers, and e-learning content."
+        },
+        {
+            "question": "Does Listnr AI offer a free plan?",
+            "answer": "Yes, Listnr AI offers a free plan with 1,000 words per month, allowing users to test its core text-to-speech features."
+        },
+        {
+            "question": "Can I use Listnr AI for commercial purposes?",
+            "answer": "Yes, Listnr AI supports both personal and commercial use, depending on the selected subscription plan."
+        },
+        {
+            "question": "How many voices and languages does Listnr AI support?",
+            "answer": "Listnr AI offers over 1,000 voices in more than 142 languages, covering a wide range of accents and styles."
+        },
+        {
+            "question": "Is Listnr AI suitable for people with dyslexia?",
+            "answer": "Yes, its natural-sounding voices can enhance comprehension and provide a smoother reading experience for individuals with dyslexia."
+        },
+        {
+            "question": "Can I clone my own voice with Listnr AI?",
+            "answer": "Yes, Listnr AI’s voice cloning feature allows users to create a digital replica of their voice for personalized audio content."
+        },
+        {
+            "question": "Does Listnr AI integrate with other platforms?",
+            "answer": "Yes, Listnr AI offers API integration for embedding TTS capabilities into websites, apps, and platforms like Windows and Microsoft."
+        },
+        {
+            "question": "Can Listnr AI convert books into audiobooks?",
+            "answer": "Yes, users can upload book text, select a voice, and generate an audiobook in minutes."
+        },
+        {
+            "question": "How customizable are the voiceovers on Listnr AI?",
+            "answer": "Users can adjust pitch, speed, pauses, and emotions to create tailored, high-quality voiceovers that match their content needs."
+        }
+    ]
+}

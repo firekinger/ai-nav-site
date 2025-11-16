@@ -1,0 +1,62 @@
+{
+    "name": "Anthropic",
+    "description": "Anthropic builds safe, interpretable AI systems like Claude to assist users in various tasks.",
+    "longDescription": "Anthropic is an AI safety and research company focused on developing reliable, interpretable, and steerable AI systems, with its flagship product being Claude, a conversational AI assistant. Founded by former OpenAI researchers, including Dario and Daniela Amodei, the company emphasizes responsible AI development to ensure safety and alignment with human values. Claude competes with models like ChatGPT, offering capabilities for tasks such as coding, data analysis, and creative writing. Anthropic serves a wide range of users, from individuals to enterprises, through its API and applications, prioritizing ethical AI use. The company collaborates with major partners like Amazon Web Services and Google Cloud to enhance accessibility and scalability. Its mission is to advance AI research while mitigating potential risks to humanity.",
+    "url": "https://www.anthropic.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.anthropic.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "anthropic",
+    "categories": [
+        "AI Chatbot",
+        "AI Research Tool",
+        "AI Code Generator",
+        "AI For Data Analytics",
+        "AI Project Management",
+        "AI Course"
+    ],
+    "features": [
+        "Claude, an AI assistant, handles complex tasks like coding, data analysis, and brainstorming with high accuracy and safety.",
+        "The Anthropic API allows developers to integrate Claude into custom applications for enhanced functionality.",
+        "Claude Code accelerates coding by understanding codebases, debugging, and automating routine tasks.",
+        "Integrations with tools like Jira, Zapier, and Google Workspace enable seamless workflow enhancements.",
+        "Constitutional AI ensures Claude’s outputs align with human values, reducing harmful or biased responses.",
+        "Artifacts feature lets users create shareable tools, visualizations, and apps through natural language.",
+        "Advanced research mode conducts in-depth web and data searches, delivering cited reports in minutes.",
+        "Voice mode allows users to interact with Claude conversationally, ideal for on-the-go assistance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Claude and how does it work?",
+            "answer": "Claude is Anthropic’s AI assistant designed for tasks like coding, writing, and analysis, using advanced language models to provide accurate, safe responses."
+        },
+        {
+            "question": "Is Claude free to use?",
+            "answer": "Claude offers a free plan with limited usage, while Pro and Max plans provide higher quotas and access to advanced models like Claude 3.7 Sonnet."
+        },
+        {
+            "question": "How does Anthropic ensure AI safety?",
+            "answer": "Anthropic uses Constitutional AI to align Claude with human values, rigorously testing models to minimize harmful outputs and enhance reliability."
+        },
+        {
+            "question": "Can Claude be integrated with other tools?",
+            "answer": "Yes, Claude supports integrations with platforms like Jira, Zapier, and Google Workspace to enhance productivity and workflow automation."
+        },
+        {
+            "question": "What makes Claude different from other AI models?",
+            "answer": "Claude prioritizes safety, interpretability, and human-aligned responses, offering superior performance in coding and complex reasoning tasks."
+        },
+        {
+            "question": "Who can use Anthropic’s services?",
+            "answer": "Anthropic serves individuals, developers, enterprises, and educational institutions, with tailored plans for various use cases."
+        },
+        {
+            "question": "Does Claude support coding tasks?",
+            "answer": "Yes, Claude Code excels at debugging, code generation, and understanding codebases, saving developers significant time."
+        },
+        {
+            "question": "Can Claude access real-time data?",
+            "answer": "Claude’s advanced research mode can search the web and connected tools, providing up-to-date information with citations."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Wirestock",
+    "description": "Wirestock is a platform for creators to sell photos, videos, and AI-generated art on major marketplaces.",
+    "longDescription": "Wirestock is a pioneering platform designed to empower creators by simplifying the process of selling photos, videos, illustrations, and AI-generated art across major stock content marketplaces like Shutterstock, Adobe Stock, and Getty Images. Founded in 2018, it leverages AI to streamline content submission, metadata creation, and distribution, saving creators time while maximizing their reach and earnings. The platform fosters a community of over 350,000 creators, offering tools like Easy Submission and a Discord bot for AI image generation. Its mission is to make monetizing creativity accessible and efficient, particularly for photographers, videographers, and digital artists. Wirestock also provides opportunities through creative AI challenges and partnerships with brands for custom content. Creators retain full copyright ownership while benefiting from a single dashboard to track sales and royalties.",
+    "url": "https://wirestock.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/wirestock.io.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "wirestock",
+    "categories": [
+        "AI Image Generator",
+        "AI Marketing",
+        "AI Photography",
+        "AI Content Detector",
+        "AI Creative Writing",
+        "AI Image Description Generator",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Easy Submission tool automatically generates metadata, titles, and keywords, streamlining content uploads for creators.",
+        "Distributes content to major stock marketplaces like Shutterstock, Adobe Stock, and Getty Images, increasing sales potential.",
+        "AI-powered image generation allows creators to produce and sell unique AI art via Wirestock’s marketplace.",
+        "Single dashboard tracks sales and royalties across multiple marketplaces, simplifying earnings management.",
+        "Digital model and property release creation enables quick and compliant content submission.",
+        "Extra Channels program connects creators with brands for custom image and video shoots, boosting income opportunities.",
+        "Daily AI image and video challenges offer cash prizes and recognition, fostering community engagement.",
+        "Mobile app supports seamless uploads, release management, and sales tracking on the go.",
+        "Higher royalty rates on partnered marketplaces due to Wirestock’s large portfolio and download volume.",
+        "Free to use with a 15% commission on partner marketplace sales and up to 50% on specific partnerships, ensuring no upfront costs."
+    ],
+    "faqs": [
+        {
+            "question": "How does Wirestock help creators sell their content?",
+            "answer": "Wirestock distributes photos, videos, and AI art to major stock marketplaces and its own platform, handling metadata and submissions to maximize reach and sales."
+        },
+        {
+            "question": "Is Wirestock free to use?",
+            "answer": "Yes, Wirestock is free to join, with a 15% commission on sales through partner marketplaces and up to 50% on certain partnerships."
+        },
+        {
+            "question": "Can I retain copyright ownership of my content?",
+            "answer": "Creators retain 100% copyright ownership of their content, with Wirestock facilitating non-exclusive licensing for sales."
+        },
+        {
+            "question": "What is the Easy Submission tool?",
+            "answer": "The Easy Submission tool uses AI to automatically generate titles, descriptions, and keywords, simplifying the content upload process."
+        },
+        {
+            "question": "How do I get paid through Wirestock?",
+            "answer": "Creators are paid via PayPal or Payoneer once their account balance exceeds $30, with payouts processed monthly."
+        },
+        {
+            "question": "What are Wirestock’s AI challenges?",
+            "answer": "Wirestock hosts daily AI image and video challenges where creators can compete for cash prizes and showcase their skills."
+        },
+        {
+            "question": "Can I upload the same content to other marketplaces?",
+            "answer": "You can upload content to different marketplaces via Wirestock and personal accounts, but not the same content to the same marketplace."
+        },
+        {
+            "question": "What types of content can I sell on Wirestock?",
+            "answer": "Creators can sell photos, videos, vectors, illustrations, and AI-generated art on Wirestock’s platform and partner marketplaces."
+        }
+    ]
+}

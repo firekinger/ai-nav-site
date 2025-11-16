@@ -1,0 +1,58 @@
+{
+    "name": "HeadshotPro",
+    "description": "HeadshotPro provides AI-generated professional headshots for individuals and teams.",
+    "longDescription": "HeadshotPro is an AI-powered platform designed to create professional-grade headshots without the need for physical photoshoots. Users upload selfies, and the platform’s artificial intelligence generates high-quality, customizable headshots in various styles and backgrounds. It caters to professionals, teams, and businesses seeking polished images for LinkedIn, company websites, or marketing materials. The service streamlines the process by offering fast turnaround times and eliminating the logistical challenges of traditional photography. HeadshotPro aims to deliver cost-effective, studio-quality results accessible to anyone with an internet connection.",
+    "url": "https://www.headshotpro.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.headshotpro.com.webp",
+    "category": "AI Headshot Generator",
+    "categorySlug": "ai-headshot-generator",
+    "slug": "headshotpro",
+    "categories": [
+        "AI Headshot Generator",
+        "AI Photography",
+        "AI Image Enhancer",
+        "AI Business Ideas Generator",
+        "AI Portrait Generator",
+        "AI Influencer",
+        "AI Design Generator"
+    ],
+    "features": [
+        "AI-generated headshots create professional images from user-uploaded selfies in minutes.",
+        "Customizable styles allow users to choose backgrounds, attire, and lighting for tailored results.",
+        "Team packages enable businesses to generate consistent headshots for multiple employees.",
+        "High-resolution downloads ensure images are suitable for professional and commercial use.",
+        "Fast delivery provides headshots within hours, bypassing traditional photoshoot delays.",
+        "User-friendly interface simplifies the process of uploading photos and selecting preferences.",
+        "Multiple output options offer various poses and formats for diverse professional needs."
+    ],
+    "faqs": [
+        {
+            "question": "How does HeadshotPro create professional headshots?",
+            "answer": "Users upload selfies, and the AI generates headshots by enhancing features, adjusting lighting, and applying professional styles and backgrounds."
+        },
+        {
+            "question": "Do I need professional photos to use HeadshotPro?",
+            "answer": "No, simple selfies taken with a smartphone are sufficient for the AI to create high-quality headshots."
+        },
+        {
+            "question": "Can I customize the headshot’s background or attire?",
+            "answer": "Yes, HeadshotPro offers options to select different backgrounds, outfits, and lighting styles to suit your needs."
+        },
+        {
+            "question": "How long does it take to receive my headshots?",
+            "answer": "Headshots are typically delivered within a few hours after uploading your photos and selecting preferences."
+        },
+        {
+            "question": "Is HeadshotPro suitable for team or corporate use?",
+            "answer": "Yes, HeadshotPro offers team packages to create consistent, professional headshots for entire organizations."
+        },
+        {
+            "question": "Are the generated headshots high-resolution?",
+            "answer": "Yes, all headshots are available in high-resolution, suitable for professional profiles and marketing materials."
+        },
+        {
+            "question": "What if I’m not satisfied with my headshots?",
+            "answer": "HeadshotPro offers revisions or refunds depending on the package, ensuring customer satisfaction."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Phot.AI",
+    "description": "Phot.AI is an AI-powered platform for seamless photo editing and visual design, catering to e-commerce, content creators, and professionals.",
+    "longDescription": "Phot.AI is a comprehensive AI-driven platform designed to simplify photo editing and graphic design for users ranging from e-commerce sellers to content creators and professional designers. Its mission is to streamline complex editing tasks by integrating advanced AI tools, eliminating the need for multiple software platforms or extensive technical skills. The platform addresses common pain points such as repetitive tasks, creative blocks, and the need for quick, professional-quality visuals for marketing, social media, or personal use. By offering intuitive tools like background removal and object erasing, Phot.AI empowers users to create stunning visuals efficiently. It also plans to expand with features like batch editing and plugins for Adobe and Figma, enhancing its utility for diverse creative workflows.",
+    "url": "https://www.phot.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.phot.ai.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "phot-ai",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "Object Remover AI",
+        "AI Image Enhancer",
+        "AI Digital Marketing",
+        "AI Social Media Post Generator",
+        "AI Design Assistant",
+        "AI Productivity Tools",
+        "AI Image Upscaler"
+    ],
+    "features": [
+        "AI Background Remover instantly eliminates image backgrounds, allowing users to create clean, professional visuals with one tap.",
+        "AI Object Remover erases unwanted elements like photobombers or logos, ensuring distraction-free images.",
+        "AI Photo Enhancer improves blurry or low-light images by sharpening details and adjusting lighting for high-quality results.",
+        "AI Image Extender expands images beyond their original frame, enabling seamless content addition without quality loss.",
+        "Professional Templates provide customizable designs for social media, promotions, and events, saving time for creators.",
+        "Background Replacement swaps image backgrounds with custom or AI-generated options, ideal for product photography.",
+        "Batch Editing (upcoming) allows users to edit multiple images simultaneously, boosting efficiency for high-volume tasks.",
+        "Social Media Optimization resizes and formats images for platforms like Instagram, Amazon, and Shopify without pixelation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Phot.AI used for?",
+            "answer": "Phot.AI is an AI-powered platform for photo editing and visual design, ideal for creating professional-grade visuals for e-commerce, social media, and marketing."
+        },
+        {
+            "question": "Is Phot.AI free to use?",
+            "answer": "Phot.AI offers a free plan with limited features, while Phot.AI Pro provides advanced tools and unlimited exports via a subscription."
+        },
+        {
+            "question": "Do I need design skills to use Phot.AI?",
+            "answer": "No, Phot.AI’s intuitive interface and AI-driven tools make professional editing accessible without requiring design expertise."
+        },
+        {
+            "question": "Can Phot.AI handle bulk editing?",
+            "answer": "Batch editing is an upcoming feature that will allow users to edit multiple images at once for efficient content management."
+        },
+        {
+            "question": "What platforms is Phot.AI optimized for?",
+            "answer": "Phot.AI supports image optimization for Instagram, YouTube, Amazon, Shopify, Etsy, and more, ensuring platform-specific formatting."
+        },
+        {
+            "question": "Does Phot.AI integrate with other design tools?",
+            "answer": "Phot.AI is developing plugins for Adobe and Figma to streamline creative workflows, with releases planned soon."
+        },
+        {
+            "question": "Can I remove objects from photos with Phot.AI?",
+            "answer": "Yes, the AI Object Remover allows users to erase unwanted elements like text, logos, or distractions with a single tap."
+        }
+    ]
+}

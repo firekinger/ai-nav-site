@@ -1,0 +1,82 @@
+{
+    "name": "Luw.ai",
+    "description": "Luw.ai is an AI-powered platform that revolutionizes home design by providing tools for instant interior and exterior visualizations and transformations.",
+    "longDescription": "Luw.ai is a leading AI architecture app that enables users to design and visualize home interiors and exteriors using advanced AI models. With tools like Interior AI V2 and Exterior AI V2, users can upload photos for instant redesigns, while features like Sketch AI and Magic Prompt AI allow for creative transformations without design skills. The platform supports over 300,000 designers and has generated 25 million designs, offering functionalities across iOS, macOS, and web platforms. It also includes specialized tools like 3DGen for 3D model creation and Video AI PRO for dynamic 3D flythroughs, catering to both professional and personal design needs. Luw.ai solves the problem of time-consuming manual design by providing quick, AI-driven solutions that make professional-level design accessible to everyone.",
+    "url": "https://luw.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/luw.ai.webp",
+    "category": "AI Interior Design",
+    "categorySlug": "ai-interior-design",
+    "slug": "luw-ai",
+    "categories": [
+        "AI Interior Design",
+        "AI Landscape Generator",
+        "AI 3D Model Generator",
+        "Object Remover AI",
+        "AI Sketch Generator",
+        "AI Design Generator",
+        "AI Design Assistant",
+        "AI Room Planner",
+        "AI Floor Plan Generator",
+        "AI Video Generator",
+        "AI Pattern Generator"
+    ],
+    "features": [
+        "Interior AI V2 redesigns interiors by uploading a photo for AI-generated transformations, allowing users to visualize changes instantly.",
+        "Exterior AI V2 redesigns exteriors using a photo for AI-generated visualizations, helping users preview home facade updates.",
+        "Sketch AI renders drafts or sketches by uploading images and selecting styles, turning rough ideas into polished designs.",
+        "Magic Prompt AI transforms images using simple text descriptions for quick edits, simplifying the design modification process.",
+        "Magic Wand AI V2 removes, adds, or replaces objects in images and exports in HD, providing precise editing control.",
+        "Video AI PRO creates 3D flythroughs from designs with dynamic motions, offering immersive virtual tours.",
+        "Mood Board AI renders mood boards in spaces or creates new ones, aiding in conceptualizing design themes.",
+        "Resizer AI V2 resizes and enhances image quality, reducing noise and improving details for better outputs.",
+        "V2 AI ArchiGPT chats with an AI for architecture advice, including feng shui and design recommendations, serving as a virtual consultant.",
+        "Fluw AI generates lifelike photos and illustrations for various projects, enhancing creative possibilities.",
+        "AI Remove Furniture removes furniture and objects from interior images to create empty room visuals, ideal for staging.",
+        "Change Background AI generates professional marketing images using AI-powered product advertising, boosting promotional efforts.",
+        "Pattern AI creates tileable patterns and textures for design applications, useful for custom materials.",
+        "V2 AI 3DGen generates 3D models from text and exports as 3D files, facilitating 3D prototyping.",
+        "Floor Planner AI V2 creates interactive floor plans using the iOS app, streamlining layout planning."
+    ],
+    "faqs": [
+        {
+            "question": "Is Luw.ai free to use?",
+            "answer": "Yes, the platform offers free access as indicated by 'Get started - It's Free,' allowing users to try core features without cost."
+        },
+        {
+            "question": "Who can use Luw.ai?",
+            "answer": "It is designed for homeowners, designers, and architects who want to visualize and transform spaces using AI tools."
+        },
+        {
+            "question": "What devices support Luw.ai?",
+            "answer": "The platform is available on iOS, macOS, and web, making it accessible across multiple devices."
+        },
+        {
+            "question": "How fast is the AI rendering process?",
+            "answer": "AI render time is approximately 10 seconds, enabling quick iterations and efficient design workflows."
+        },
+        {
+            "question": "What types of designs can I create with Luw.ai?",
+            "answer": "You can create interior redesigns, exterior transformations, 3D models, mood boards, patterns, and video flythroughs using various AI tools."
+        },
+        {
+            "question": "Does Luw.ai require design skills?",
+            "answer": "No, the AI handles complex transformations, allowing users without professional skills to achieve stunning results through simple uploads and prompts."
+        },
+        {
+            "question": "Can I export my designs from Luw.ai?",
+            "answer": "Yes, features support exporting in HD images, 3D files, and other formats for use in projects or sharing."
+        },
+        {
+            "question": "Is there a mobile app for Luw.ai?",
+            "answer": "Yes, Luw.ai offers apps for iOS and macOS, in addition to the web platform."
+        },
+        {
+            "question": "How accurate are the AI-generated designs?",
+            "answer": "The AI uses advanced models for realistic and high-quality visualizations, though accuracy depends on the input photo quality and clarity of prompts."
+        },
+        {
+            "question": "Can professionals use Luw.ai for client projects?",
+            "answer": "Absolutely, over 300,000 designers use it professionally to accelerate design processes and create marketing materials."
+        }
+    ]
+}

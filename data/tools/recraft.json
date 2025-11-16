@@ -1,0 +1,61 @@
+{
+    "name": "Recraft",
+    "description": "Recraft is an AI-powered design platform for creating professional-grade graphics, illustrations, and digital art.",
+    "longDescription": "Recraft is an innovative AI design platform that empowers users to create professional-quality graphics, illustrations, and digital art with ease. By leveraging advanced AI algorithms, it enables both designers and non-designers to generate visually stunning assets for branding, marketing, and creative projects. The platform supports a wide range of design needs, from logos and icons to complex illustrations, all customizable to suit specific styles or brand guidelines. Recraft aims to democratize design by offering intuitive tools that simplify the creative process while maintaining high-quality outputs. It serves individuals, businesses, and creative teams looking to streamline their design workflows. The platform also integrates features for collaboration and iterative design, making it a versatile tool for modern creative demands.",
+    "url": "https://www.recraft.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.recraft.ai.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "recraft",
+    "categories": [
+        "AI Design Assistant",
+        "AI Image Generator",
+        "AI Vector Graphics",
+        "AI Background Remover",
+        "Text to Image",
+        "AI Productivity Tools",
+        "AI Mockup Generator"
+    ],
+    "features": [
+        "AI-generated designs allow users to create professional-grade graphics, such as logos and illustrations, in minutes.",
+        "Customizable templates enable users to tailor designs to match specific brand styles or project requirements.",
+        "Vector editing tools provide precise control over shapes, colors, and layouts for high-quality outputs.",
+        "Style consistency feature ensures all designs align with predefined brand aesthetics across projects.",
+        "Collaboration tools allow teams to work together seamlessly on design projects in real time.",
+        "Export options support multiple formats, including PNG, SVG, and PDF, for versatile use across platforms.",
+        "AI upscaling enhances low-resolution images into sharp, high-quality visuals suitable for print or digital use.",
+        "Mockup generation creates realistic previews of designs applied to products like packaging or apparel.",
+        "Background removal tool instantly isolates subjects in images for cleaner, professional compositions.",
+        "Text-to-image conversion transforms written descriptions into detailed visual designs effortlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Recraft used for?",
+            "answer": "Recraft is used to create professional-grade graphics, illustrations, and digital art using AI-powered tools, ideal for branding, marketing, and creative projects."
+        },
+        {
+            "question": "Is there a free plan available on Recraft?",
+            "answer": "Yes, Recraft offers a free plan with access to core design tools, though some advanced features may require a paid subscription."
+        },
+        {
+            "question": "Can non-designers use Recraft effectively?",
+            "answer": "Absolutely, Recraft’s intuitive AI tools and templates make it easy for non-designers to create high-quality visuals without prior design experience."
+        },
+        {
+            "question": "What file formats does Recraft support for export?",
+            "answer": "Recraft supports exports in multiple formats, including PNG, SVG, and PDF, suitable for both digital and print applications."
+        },
+        {
+            "question": "Does Recraft allow team collaboration?",
+            "answer": "Yes, Recraft includes collaboration tools that enable teams to work together on design projects in real time."
+        },
+        {
+            "question": "Can I create brand-consistent designs with Recraft?",
+            "answer": "Recraft’s style consistency feature ensures all designs align with your brand’s aesthetic guidelines."
+        },
+        {
+            "question": "How does Recraft’s AI upscaling work?",
+            "answer": "Recraft’s AI upscaling enhances low-resolution images into high-quality visuals, making them suitable for professional use."
+        }
+    ]
+}

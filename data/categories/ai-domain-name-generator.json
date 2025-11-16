@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Domain Name Generator Tools in 2025",
+    "summary": "Unlock your online potential with our AI Domain Name Generator tools! Designed to spark creativity and streamline the naming process, these innovative solutions help you find the perfect domain name that resonates with your brand. Enjoy benefits like instant suggestions, keyword optimization, and unique combinations tailored to your vision. Whether you're launching a startup or revamping your online presence, our AI tools simplify your search and save you time. Explore our curated selection today and discover the ideal domain name that sets you apart!",
+    "tools": [
+        {
+            "id": "506",
+            "name": "STUDIO",
+            "slug": "studio",
+            "description": "STUDIO is a no-code platform for creating and publishing professional websites with ease.",
+            "icon": "/logo/studio.design.webp",
+            "isFree": true,
+            "categories": [
+                "ai-domain-name-generator"
+            ]
+        },
+        {
+            "id": "985",
+            "name": "BrandWell",
+            "slug": "brandwell-ai",
+            "description": "BrandWell.ai is an AI-powered platform that helps users generate professional brand identities, including names, logos, and marketing assets, to build strong brands quickly and affordably.",
+            "icon": "/logo/brandwell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-domain-name-generator"
+            ]
+        }
+    ]
+}

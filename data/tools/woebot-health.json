@@ -1,0 +1,71 @@
+{
+    "name": "Woebot Health",
+    "description": "Woebot Health is an AI-powered platform offering conversational mental health support through a chatbot designed to deliver cognitive behavioral therapy techniques.",
+    "longDescription": "Woebot Health is a digital mental health company that provides an AI chatbot named Woebot, which engages users in therapeutic conversations to help manage stress, anxiety, and depression. Founded by clinical psychologists, its mission is to make mental health support accessible, affordable, and stigma-free by leveraging evidence-based techniques like cognitive behavioral therapy (CBT). The platform serves users by offering on-demand, personalized interactions that teach coping skills and track mood over time, acting as a supplement to traditional therapy. It solves problems such as long wait times for therapists and high costs by providing immediate, 24/7 support via mobile apps. Woebot uses natural language processing to understand user inputs and respond empathetically, helping users build resilience and improve emotional well-being. Overall, it aims to democratize mental health care through innovative AI technology.",
+    "url": "https://woebothealth.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/woebothealth.com.webp",
+    "category": "AI Mental Health",
+    "categorySlug": "ai-mental-health",
+    "slug": "woebot-health",
+    "categories": [
+        "AI Mental Health",
+        "AI Therapist",
+        "AI Fitness",
+        "AI Healthcare",
+        "AI Coaching"
+    ],
+    "features": [
+        "Woebot's AI chatbot delivers personalized CBT-based conversations to help users manage daily stress and build emotional resilience.",
+        "The platform offers mood tracking tools that allow users to monitor their emotional states and identify patterns over time.",
+        "Users receive evidence-based coping strategies and exercises tailored to their specific needs, such as anxiety or sleep issues.",
+        "Woebot provides 24/7 availability, ensuring support is accessible anytime without scheduling appointments.",
+        "Integration with mobile apps enables seamless, on-the-go interactions for convenient mental health check-ins.",
+        "The chatbot uses empathetic language and humor to create engaging, non-judgmental conversations that reduce stigma around mental health.",
+        "Progress reports and insights help users visualize improvements and stay motivated in their mental health journey.",
+        "Woebot supports enterprise solutions for workplaces, offering scalable mental health resources for employees.",
+        "Privacy-focused design ensures user data is handled securely with HIPAA compliance for health-related information.",
+        "Customizable modules address specific concerns like postpartum depression or chronic pain management."
+    ],
+    "faqs": [
+        {
+            "question": "What is Woebot?",
+            "answer": "Woebot is an AI-powered chatbot developed by Woebot Health that provides mental health support through conversational therapy based on cognitive behavioral techniques. It helps users manage emotions and build coping skills via daily interactions."
+        },
+        {
+            "question": "Is Woebot a replacement for therapy?",
+            "answer": "No, Woebot is designed as a supplement to professional therapy, not a replacement. It offers tools and support for everyday mental health but recommends seeking human therapists for serious issues."
+        },
+        {
+            "question": "How does Woebot ensure privacy?",
+            "answer": "Woebot adheres to strict privacy standards, including HIPAA compliance, to protect user data. Conversations are encrypted, and personal information is not shared without consent."
+        },
+        {
+            "question": "Can I use Woebot for free?",
+            "answer": "Yes, Woebot offers a free version with core features like basic conversations and mood tracking. Premium features may require a subscription for more advanced tools."
+        },
+        {
+            "question": "What devices is Woebot available on?",
+            "answer": "Woebot is accessible via mobile apps on iOS and Android devices, as well as through web-based platforms for broader compatibility."
+        },
+        {
+            "question": "How personalized is the support from Woebot?",
+            "answer": "Woebot personalizes interactions based on user inputs, mood logs, and progress, adapting responses and recommendations to individual needs over time."
+        },
+        {
+            "question": "Is Woebot backed by science?",
+            "answer": "Yes, Woebot is developed by clinical psychologists and supported by research, including clinical trials showing its effectiveness in reducing symptoms of anxiety and depression."
+        },
+        {
+            "question": "Can businesses use Woebot for employees?",
+            "answer": "Woebot Health offers enterprise solutions tailored for workplaces, providing mental health support to improve employee well-being and productivity."
+        },
+        {
+            "question": "What if Woebot detects a crisis?",
+            "answer": "In cases of detected crisis, Woebot provides resources like emergency hotlines and encourages users to seek immediate professional help."
+        },
+        {
+            "question": "How often should I interact with Woebot?",
+            "answer": "Users are encouraged to check in daily for optimal benefits, but interactions can be as frequent or infrequent as needed, with reminders available to maintain consistency."
+        }
+    ]
+}

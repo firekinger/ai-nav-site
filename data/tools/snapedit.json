@@ -1,0 +1,58 @@
+{
+    "name": "SnapEdit",
+    "description": "SnapEdit is an AI-powered photo editing platform designed to simplify and enhance image editing for users of all skill levels.",
+    "longDescription": "SnapEdit is an innovative online photo editing tool that leverages artificial intelligence to streamline and enhance the image editing process. Its mission is to make professional-quality photo editing accessible to everyone, from casual users to content creators, without requiring advanced technical skills. The platform offers a range of AI-driven tools to remove unwanted objects, enhance image quality, and apply creative effects with minimal effort. By automating complex editing tasks, SnapEdit saves users time and delivers polished results suitable for personal, social media, or professional use. The website emphasizes user-friendly design and fast processing, catering to a global audience seeking efficient photo editing solutions.",
+    "url": "https://snapedit.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/snapedit.app.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "snapedit",
+    "categories": [
+        "AI Photo Editor",
+        "AI Image Segmentation",
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "AI Object Removal: Effortlessly remove unwanted objects or people from photos with a single click, ensuring clean and professional results.",
+        "Background Removal: Automatically remove or replace image backgrounds to create transparent or customized visuals for various purposes.",
+        "Image Enhancement: Enhance photo quality by improving sharpness, brightness, and color balance using AI-driven algorithms.",
+        "One-Tap Filters: Apply a variety of artistic filters and effects to photos for quick, creative transformations.",
+        "Portrait Retouching: Smooth skin, whiten teeth, and enhance facial features with AI-powered portrait editing tools.",
+        "Batch Editing: Process multiple images simultaneously to save time for users handling large photo collections.",
+        "Mobile App Integration: Access SnapEdit’s tools via a mobile app for convenient editing on the go.",
+        "High-Resolution Export: Download edited images in high resolution, suitable for printing or professional use."
+    ],
+    "faqs": [
+        {
+            "question": "What is SnapEdit used for?",
+            "answer": "SnapEdit is used for editing photos with AI-powered tools to remove objects, enhance quality, and apply creative effects easily."
+        },
+        {
+            "question": "Is SnapEdit free to use?",
+            "answer": "SnapEdit offers a free plan with access to core features, though some advanced tools may require a premium subscription."
+        },
+        {
+            "question": "Do I need editing experience to use SnapEdit?",
+            "answer": "No, SnapEdit’s intuitive interface and AI automation make it easy for beginners and professionals alike."
+        },
+        {
+            "question": "Can I use SnapEdit on my phone?",
+            "answer": "Yes, SnapEdit provides a mobile app for iOS and Android, allowing seamless editing on mobile devices."
+        },
+        {
+            "question": "What types of images can I edit with SnapEdit?",
+            "answer": "SnapEdit supports various image formats like JPEG and PNG, suitable for portraits, landscapes, and product photos."
+        },
+        {
+            "question": "Does SnapEdit store my photos?",
+            "answer": "SnapEdit temporarily processes your images but does not store them long-term, ensuring user privacy."
+        },
+        {
+            "question": "Can I remove backgrounds from images?",
+            "answer": "Yes, SnapEdit’s AI-powered background removal tool allows you to create transparent or custom backgrounds effortlessly."
+        }
+    ]
+}

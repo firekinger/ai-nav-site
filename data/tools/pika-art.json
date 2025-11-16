@@ -1,0 +1,60 @@
+{
+    "name": "Pika.art",
+    "description": "Pika.art is an AI-powered platform for creating and editing videos and images from text prompts or existing media.",
+    "longDescription": "Pika.art is an innovative AI-driven platform designed to simplify video and image creation for creators, marketers, and businesses. By leveraging advanced artificial intelligence, it enables users to generate professional-quality videos and images from text prompts or edit existing media with ease. The platform aims to democratize creative production, making it accessible to users regardless of their technical or design expertise. Pika.art serves a wide range of use cases, from social media content creation to marketing campaigns, by offering intuitive tools and customizable templates. Its mission is to empower users to bring their ideas to life quickly and efficiently through AI technology.",
+    "url": "https://pika.art/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pika.art.webp",
+    "category": "Text to Video",
+    "categorySlug": "text-to-video",
+    "slug": "pika-art",
+    "categories": [
+        "Text to Video",
+        "Text to Image",
+        "AI Video Editor",
+        "AI Photo Editor",
+        "AI Social Media Post Generator",
+        "AI Design Assistant",
+        "AI Marketing"
+    ],
+    "features": [
+        "Text-to-video generation creates engaging videos from simple text prompts, enabling rapid content production.",
+        "Image-to-video conversion transforms static images into dynamic video content with AI-driven animations.",
+        "Video editing tools allow users to refine and customize videos with effects, transitions, and text overlays.",
+        "Text-to-image generation produces high-quality images from descriptive prompts for versatile creative use.",
+        "Customizable templates provide pre-designed options to streamline video and image creation for various purposes.",
+        "Real-time preview feature lets users view and adjust their creations instantly for efficient workflows.",
+        "Social media integration enables direct export to platforms like Instagram and TikTok for seamless sharing.",
+        "AI-driven style transfer applies artistic styles to videos and images for unique visual outputs.",
+        "Cloud-based processing ensures fast rendering and accessibility from any device with an internet connection."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pika.art used for?",
+            "answer": "Pika.art is used to create and edit videos and images using AI, ideal for social media, marketing, and creative projects."
+        },
+        {
+            "question": "Do I need design skills to use Pika.art?",
+            "answer": "No, Pika.art’s intuitive interface and AI tools make it easy for users with no design experience to create professional content."
+        },
+        {
+            "question": "Is there a free plan available on Pika.art?",
+            "answer": "Yes, Pika.art offers a free plan with limited features, allowing users to try its core functionalities."
+        },
+        {
+            "question": "Can I export my creations to social media directly?",
+            "answer": "Yes, Pika.art supports direct exports to platforms like Instagram and TikTok for seamless content sharing."
+        },
+        {
+            "question": "What types of media can I create with Pika.art?",
+            "answer": "You can create videos and images from text prompts, edit existing media, or convert images to videos using AI tools."
+        },
+        {
+            "question": "Does Pika.art support high-resolution outputs?",
+            "answer": "Yes, Pika.art supports high-resolution video and image outputs, suitable for professional use."
+        },
+        {
+            "question": "Can I use Pika.art for commercial projects?",
+            "answer": "Yes, Pika.art allows commercial use of generated content, but check the terms for specific licensing details."
+        }
+    ]
+}

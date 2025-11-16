@@ -1,0 +1,90 @@
+{
+    "name": "WriteHybrid",
+    "description": "WriteHybrid is an AI humanizer tool that transforms AI-generated text into undetectable, human-like content, offering plans starting with 500 free words monthly.",
+    "longDescription": "WriteHybrid is an advanced AI humanizer designed to make AI-generated content appear natural and bypass major AI detection tools like GPTZero, Turnitin, and Originality.ai. It serves students, professionals, and content creators by humanizing text for essays, blog posts, marketing copy, and academic papers while preserving the original meaning. The tool processes content quickly, with results in under 30 seconds, and ensures complete privacy and security by not storing user data. With a 99%+ bypass rate, it helps users avoid penalties from AI detectors and improve content readability and engagement. Founded on the principle of blending AI efficiency with human-like authenticity, WriteHybrid empowers users to leverage AI writing tools without detection risks.",
+    "url": "https://www.writehybrid.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.writehybrid.com.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "writehybrid",
+    "categories": [
+        "Humanizer AI",
+        "Undetectable AI",
+        "AI Rewriter",
+        "Bypass AI",
+        "AI Writing",
+        "AI Text Generator",
+        "AI Research Tool",
+        "AI Marketing",
+        "AI Blog Generator",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Consistently bypasses major AI detection tools like GPTZero, Turnitin, and Originality.ai with a 99%+ bypass rate.",
+        "Processes AI text in under 30 seconds while maintaining quality and readability.",
+        "Preserves the original meaning and context of the content while making it appear human-written.",
+        "Offers 500 free words monthly, with the option to earn additional credits through referrals.",
+        "Supports multiple content types, including essays, blog posts, marketing copy, and academic papers.",
+        "Ensures complete privacy and security by not storing user data.",
+        "Provides multiple rewrite tones and team access in higher-tier plans.",
+        "Includes email support for Starter and Pro plans, with dedicated support for the Agency plan.",
+        "Allows users to choose from plans like Starter (20,000 words/mo), Pro (60,000 words/mo), and Agency (150,000 words/mo).",
+        "Enables instant humanization of AI text, making it ready for use without delays.",
+        "Features a high user satisfaction rate, rated 4.6/5 by over 6,000 professionals.",
+        "Has been trusted by 50,000+ professionals, with over 20 million words humanized."
+    ],
+    "faqs": [
+        {
+            "question": "What is WriteHybrid?",
+            "answer": "WriteHybrid is an AI humanizer tool that transforms AI-generated content into undetectable, human-like text."
+        },
+        {
+            "question": "How does WriteHybrid bypass AI detectors?",
+            "answer": "It uses advanced technology to make AI content appear natural, consistently bypassing tools like GPTZero and Turnitin."
+        },
+        {
+            "question": "Is there a free plan?",
+            "answer": "Yes, it offers 500 free words monthly with no credit card required."
+        },
+        {
+            "question": "Can I earn more credits?",
+            "answer": "Yes, you can earn unlimited additional words by referring friends to WriteHybrid."
+        },
+        {
+            "question": "What types of content can I humanize?",
+            "answer": "You can humanize essays, blog posts, marketing copy, academic papers, and any AI-generated text."
+        },
+        {
+            "question": "How fast is the processing?",
+            "answer": "The tool humanizes AI text in under 30 seconds."
+        },
+        {
+            "question": "Is my data secure?",
+            "answer": "Yes, your content is processed securely and never stored, ensuring complete privacy."
+        },
+        {
+            "question": "What plans are available?",
+            "answer": "Plans include Starter ($19/mo for 20,000 words), Pro ($49/mo for 60,000 words), and Agency ($99/mo for 150,000 words)."
+        },
+        {
+            "question": "Can I cancel my plan?",
+            "answer": "Yes, you can change or cancel your plan anytime with no hidden fees."
+        },
+        {
+            "question": "Who can use WriteHybrid?",
+            "answer": "It is designed for students, professionals, and content creators."
+        },
+        {
+            "question": "Does it preserve the original meaning?",
+            "answer": "Yes, unlike basic paraphrasing tools, it maintains the exact meaning and context."
+        },
+        {
+            "question": "What is the bypass rate?",
+            "answer": "It has a 99%+ bypass rate for major AI detection tools."
+        },
+        {
+            "question": "Do I need a credit card for the free trial?",
+            "answer": "No, no credit card is required to start with 500 free words."
+        }
+    ]
+}

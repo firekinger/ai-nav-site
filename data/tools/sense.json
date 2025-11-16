@@ -1,0 +1,64 @@
+{
+    "name": "Sense",
+    "description": "Sense provides an AI-powered talent engagement platform to streamline recruiting and enhance candidate experiences.",
+    "longDescription": "Sense is a leading AI-powered talent engagement platform designed to transform the recruitment process for enterprises by blending personalized, omnichannel candidate experiences with enhanced recruiter efficiency. Founded in 2016, Sense aims to revolutionize how companies attract, engage, and hire talent by leveraging automation and AI technologies. The platform serves over 1,000 organizations, including major brands like Coca-Cola and Dell, to accelerate hiring, strengthen employer branding, and improve candidate satisfaction. Sense combines cutting-edge technology with a human-centric approach, ensuring both recruiters and candidates benefit from seamless, efficient, and engaging interactions. Its mission is to empower recruiting teams to exceed their targets while delivering exceptional candidate experiences. The company is headquartered in San Francisco, with additional operations in Bengaluru, India.",
+    "url": "https://www.sensehq.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.sensehq.com.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "sense",
+    "categories": [
+        "AI Recruiting",
+        "AI Chatbot",
+        "AI Message Generator",
+        "AI Voice Generator",
+        "AI CRM",
+        "AI For Data Analytics",
+        "AI Scheduling"
+    ],
+    "features": [
+        "Recruiting Automation streamlines repetitive tasks like sourcing and screening, saving recruiters time and improving efficiency.",
+        "Talent CRM enables personalized candidate relationship management, fostering stronger connections throughout the hiring process.",
+        "AI Chatbot engages candidates with real-time, conversational support, enhancing their experience and reducing drop-off rates.",
+        "Text Messaging facilitates two-way communication with candidates, ensuring quick and effective engagement.",
+        "Candidate Matching uses AI to align candidate skills and preferences with job requirements, improving hire quality.",
+        "Interview Scheduling automates the coordination of interviews, reducing scheduling conflicts and delays.",
+        "Employee Referrals simplifies referral program management, boosting internal talent sourcing and engagement.",
+        "Voice AI provides conversational automation for candidate interactions, improving accessibility and responsiveness.",
+        "Analytics & Insights delivers data-driven recruitment metrics, enabling teams to optimize strategies and performance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Sense’s primary function?",
+            "answer": "Sense is an AI-powered talent engagement platform that streamlines recruiting by automating tasks and enhancing candidate experiences."
+        },
+        {
+            "question": "Who can use Sense’s platform?",
+            "answer": "Sense is designed for enterprise recruiting teams, staffing agencies, and organizations in industries like healthcare, retail, and technology."
+        },
+        {
+            "question": "Does Sense offer a free plan?",
+            "answer": "Sense does not offer a free plan; pricing details are available by contacting their sales team for a customized quote."
+        },
+        {
+            "question": "How does Sense’s AI Chatbot work?",
+            "answer": "The AI Chatbot engages candidates in real-time conversations, answering queries and guiding them through the hiring process to improve engagement."
+        },
+        {
+            "question": "Can Sense integrate with existing HR systems?",
+            "answer": "Yes, Sense integrates with various HR and applicant tracking systems to streamline workflows and enhance recruitment processes."
+        },
+        {
+            "question": "What industries does Sense serve?",
+            "answer": "Sense serves industries including financial services, healthcare, retail, logistics, manufacturing, staffing, and technology."
+        },
+        {
+            "question": "How does Sense improve candidate experience?",
+            "answer": "Sense uses personalized, omnichannel communication and automation to ensure candidates receive timely, engaging, and relevant interactions."
+        },
+        {
+            "question": "Where is Sense headquartered?",
+            "answer": "Sense is headquartered in San Francisco, California, with an additional office in Bengaluru, Karnataka, India."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "AI for Work",
+    "description": "AI for Work provides a comprehensive library of over 2,000 job-specific ChatGPT prompts to enhance professional productivity across various industries.",
+    "longDescription": "AI for Work is a platform designed to empower professionals by offering a free, extensive database of over 2,000 job-specific ChatGPT prompts tailored for roles in marketing, sales, law, HR, education, and more. Founded in 2023 by Ali Abassi, the platform aims to streamline workflows and boost efficiency through AI-driven solutions. It serves a diverse user base, including professionals from companies like Shopify, Apple, and Google, by providing tools to work smarter and faster. The mission is to harness AI and automation to save time, promote sustainable work practices, and support a shorter workweek. The platform also offers resources like newsletters and consulting services to help organizations integrate AI effectively. It is particularly valuable for professionals seeking to incorporate generative AI into their daily tasks without requiring advanced technical skills.",
+    "url": "https://www.aiforwork.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aiforwork.co.webp",
+    "category": "Prompt Engineering",
+    "categorySlug": "prompt-engineering",
+    "slug": "ai-for-work",
+    "categories": [
+        "Prompt Engineering",
+        "AI Prompt Generator",
+        "AI Productivity Tools",
+        "AI Workflow",
+        "AI Marketing",
+        "AI Sales",
+        "AI Recruiting",
+        "AI Legal Assistant",
+        "AI Language Learning",
+        "AI Customer Service"
+    ],
+    "features": [
+        "Access to over 2,000 job-specific ChatGPT prompts to streamline tasks in marketing, sales, HR, law, and more.",
+        "Free database of GPT-4 prompts designed to enhance productivity across various professional roles.",
+        "Industry-specific resources tailored for sectors like education, retail, IT, and customer service.",
+        "Newsletter providing updates on AI tools, trends, and productivity tips for professionals.",
+        "Custom GPTs to support specialized tasks, improving efficiency and output quality.",
+        "Consulting services to help organizations implement AI and automation strategies.",
+        "User-friendly prompt starter interface for generating tailored prompts based on specific needs.",
+        "Educational tools to help professionals stay ahead of AI trends and best practices.",
+        "Business plan generator that creates market research, growth strategies, and investor pitch materials in minutes.",
+        "Community access for professionals to share insights and collaborate on AI-driven workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI for Work?",
+            "answer": "AI for Work is a platform offering over 2,000 free ChatGPT prompts tailored for professionals in various industries to boost productivity and streamline tasks."
+        },
+        {
+            "question": "Is AI for Work free to use?",
+            "answer": "Yes, AI for Work provides free access to its core library of over 2,000 job-specific prompts, though some advanced features may require consulting services."
+        },
+        {
+            "question": "What industries does AI for Work support?",
+            "answer": "The platform supports professionals in marketing, sales, HR, law, education, IT, customer service, retail, and more with tailored AI prompts."
+        },
+        {
+            "question": "How can I generate a custom prompt?",
+            "answer": "Users can input their specific needs into the prompt starter interface, and the platform generates a tailored ChatGPT prompt to meet their requirements."
+        },
+        {
+            "question": "Does AI for Work offer resources beyond prompts?",
+            "answer": "Yes, it provides newsletters, consulting services, and educational tools to help professionals integrate AI into their workflows."
+        },
+        {
+            "question": "Who can benefit from using AI for Work?",
+            "answer": "Professionals from various fields, including those at companies like Shopify and Google, can use AI for Work to enhance efficiency and productivity."
+        },
+        {
+            "question": "Can AI for Work help with business planning?",
+            "answer": "Yes, the platform offers a business plan generator that includes market research, growth strategies, and investor pitch materials."
+        },
+        {
+            "question": "Is technical expertise required to use AI for Work?",
+            "answer": "No, the platform is designed to be user-friendly, allowing professionals without advanced technical skills to leverage AI effectively."
+        }
+    ]
+}

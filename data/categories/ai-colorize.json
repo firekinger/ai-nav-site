@@ -1,0 +1,193 @@
+{
+    "title": "The Best 17 AI Colorize Tools in 2025",
+    "summary": "Discover the transformative power of AI Colorize tools, designed to breathe life into your black-and-white images and enhance your creative projects. These innovative solutions utilize advanced algorithms to automatically add vibrant colors, saving you time and effort while delivering stunning results. Whether you're a photographer, designer, or simply looking to revitalize old memories, AI Colorize tools offer an effortless way to elevate your visuals. Explore our curated selection of top-notch tools and unlock a world of color today!",
+    "tools": [
+        {
+            "id": "204",
+            "name": "iFoto",
+            "slug": "ifoto",
+            "description": "iFoto is an AI-powered platform for enhancing and editing photos for personal and e-commerce use.",
+            "icon": "/logo/www.ifoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "281",
+            "name": "Remini",
+            "slug": "remini",
+            "description": "Remini enhances and restores images and videos using advanced AI technology.",
+            "icon": "/logo/remini.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "421",
+            "name": "Evoto AI",
+            "slug": "evoto-ai",
+            "description": "Evoto AI provides advanced AI-powered photo editing and retouching tools to streamline photography workflows.",
+            "icon": "/logo/www.evoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "446",
+            "name": "Neural.love",
+            "slug": "neural-love",
+            "description": "Neural.love is an AI-powered platform for creating and enhancing images, videos, and audio with user-friendly tools.",
+            "icon": "/logo/neural.love.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "Hotpot.ai",
+            "slug": "hotpot-ai",
+            "description": "Hotpot.ai is an AI-powered platform for creating and enhancing images, graphics, and written content to boost creativity and productivity.",
+            "icon": "/logo/hotpot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "608",
+            "name": "ImageColorizer",
+            "slug": "imagecolorizer",
+            "description": "ImageColorizer uses AI to colorize and restore black-and-white photos, enhancing old images with vibrant colors and clarity.",
+            "icon": "/logo/imagecolorizer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "660",
+            "name": "Palette.fm",
+            "slug": "palette-fm",
+            "description": "Palette.fm is an AI-powered tool that colorizes black-and-white photos and videos with realistic and customizable results.",
+            "icon": "/logo/palette.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "737",
+            "name": "Claid.ai",
+            "slug": "claid-ai",
+            "description": "Claid.ai is an AI-powered platform that enhances product photography for e-commerce by automating image editing and generation.",
+            "icon": "/logo/claid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "746",
+            "name": "ColorifyAI",
+            "slug": "colorifyai",
+            "description": "ColorifyAI is an AI-powered platform that generates custom coloring pages from text prompts or images, fostering creativity for kids and adults.",
+            "icon": "/logo/colorifyai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "757",
+            "name": "ImgGen AI",
+            "slug": "imggen-ai",
+            "description": "ImgGen AI is a free online platform for generating and enhancing high-quality images using AI-driven tools.",
+            "icon": "/logo/imggen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "821",
+            "name": "PhotoRestore.io",
+            "slug": "photorestore-io",
+            "description": "PhotoRestore.io is a free AI-powered platform for restoring and enhancing old, damaged, or blurry photos to preserve cherished memories.",
+            "icon": "/logo/www.photorestore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "839",
+            "name": "Retouch4me",
+            "slug": "retouch4me",
+            "description": "Retouch4me provides AI-powered plugins and standalone apps for professional photo and video retouching, designed for ease and natural results.",
+            "icon": "/logo/retouch4.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "1084",
+            "name": "cre8tiveAI",
+            "slug": "cre8tiveai",
+            "description": "cre8tiveAI is an AI-driven online platform offering advanced photo editing tools to enhance, retouch, and transform images effortlessly.",
+            "icon": "/logo/cre8tiveai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "1097",
+            "name": "Komiko",
+            "slug": "komiko",
+            "description": "Komiko is an AI-powered platform for creating comics, manga, anime art, and animations, helping users design characters, generate images, and produce professional-grade content efficiently.",
+            "icon": "/logo/komiko.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "1155",
+            "name": "Fashn.ai",
+            "slug": "fashn-ai",
+            "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+            "icon": "/logo/fashn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "1370",
+            "name": "ImgEnhancer AI",
+            "slug": "imgenhancer-ai",
+            "description": "ImgEnhancer AI is an online platform that uses artificial intelligence to enhance and improve the quality of images through advanced editing tools.",
+            "icon": "/logo/imgenhancer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        },
+        {
+            "id": "1239",
+            "name": "Pinin",
+            "slug": "pinin-ai",
+            "description": "Pinin is an AI-powered platform for restoring and enhancing old, damaged, or blurry photos, including colorization of black-and-white images.",
+            "icon": "/logo/pinin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-colorize"
+            ]
+        }
+    ]
+}

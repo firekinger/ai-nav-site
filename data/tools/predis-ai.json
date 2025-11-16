@@ -1,0 +1,74 @@
+{
+    "name": "Predis.ai",
+    "description": "Predis.ai is an AI-powered platform for creating, scheduling, and managing social media content to enhance brand engagement.",
+    "longDescription": "Predis.ai is an AI-driven social media management tool designed to simplify content creation, scheduling, and analytics for brands, influencers, and marketers. Its mission is to streamline social media strategies by automating the generation of engaging posts, videos, and ads tailored to a brand’s identity. The platform supports multiple social media channels, including Instagram, Facebook, TikTok, and LinkedIn, enabling users to maintain a consistent online presence. By leveraging AI, Predis.ai provides data-driven insights, such as competitor analysis and hashtag recommendations, to boost reach and engagement. It caters to small businesses, e-commerce owners, and social media managers seeking efficient, professional content solutions without requiring design expertise.",
+    "url": "https://predis.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/predis.ai.webp",
+    "category": "AI Social Media Post Generator",
+    "categorySlug": "ai-social-media-post-generator",
+    "slug": "predis-ai",
+    "categories": [
+        "AI Social Media Post Generator",
+        "AI Writing",
+        "AI Hashtag",
+        "AI Scheduling",
+        "AI Product Description Generator",
+        "AI Language Learning",
+        "AI Video Generator",
+        "AI For Data Analytics",
+        "AI Project Management",
+        "AI Stock Video Generator"
+    ],
+    "features": [
+        "AI-powered content generation creates branded posts, videos, and carousels from simple text prompts, saving time and effort.",
+        "Content scheduling allows users to plan and automate posts across multiple platforms for consistent engagement.",
+        "Competitor analysis provides AI-driven insights into competitors’ strategies to optimize content performance.",
+        "Hashtag generator suggests relevant, high-reach hashtags to increase post visibility on platforms like Instagram.",
+        "Multi-language support enables content creation in over 18 languages to reach global audiences.",
+        "Stock image integration with platforms like Pexels and Unsplash provides access to high-quality visuals directly in the editor.",
+        "Brand customization ensures content aligns with a user’s logo, colors, and tone for consistent branding.",
+        "Social media analytics track post performance to help users refine their strategies.",
+        "Team collaboration features allow multiple users to manage campaigns and streamline content approvals.",
+        "Animation tools add motion to static or video content with customizable styles for engaging ads.",
+        "Content calendar planning helps users organize and schedule posts for weeks or months in advance.",
+        "API integration enables the creation of social media content through text-based inputs for advanced users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Predis.ai used for?",
+            "answer": "Predis.ai is used to create, schedule, and manage AI-generated social media content, including posts, videos, and ads, tailored to a brand’s identity."
+        },
+        {
+            "question": "Does Predis.ai offer a free plan?",
+            "answer": "Yes, Predis.ai offers a free plan with limited credits for generating content, allowing users to test core features before upgrading."
+        },
+        {
+            "question": "Which platforms does Predis.ai support?",
+            "answer": "Predis.ai supports major platforms like Instagram, Facebook, TikTok, LinkedIn, YouTube, and X (formerly Twitter) for seamless content publishing."
+        },
+        {
+            "question": "Can I customize content to match my brand?",
+            "answer": "Yes, users can input their logo, colors, fonts, and tone to ensure all generated content aligns with their brand identity."
+        },
+        {
+            "question": "How does the hashtag generator work?",
+            "answer": "The AI analyzes keywords or images to suggest relevant, high-reach hashtags, improving post discoverability on platforms like Instagram."
+        },
+        {
+            "question": "Is there a learning curve for using Predis.ai?",
+            "answer": "While user-friendly, some features may require initial exploration, but tutorials and support help users quickly master the platform."
+        },
+        {
+            "question": "Can I collaborate with my team on Predis.ai?",
+            "answer": "Yes, Predis.ai offers team collaboration tools, allowing multiple users to work on campaigns and manage content approvals."
+        },
+        {
+            "question": "Does Predis.ai support video content creation?",
+            "answer": "Yes, it generates videos, reels, and animated ads, with options to customize styles and add stock footage."
+        },
+        {
+            "question": "How does the competitor analysis feature work?",
+            "answer": "The AI analyzes competitors’ social media performance to provide insights and recommendations for improving your content strategy."
+        }
+    ]
+}

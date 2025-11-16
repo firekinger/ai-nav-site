@@ -1,0 +1,56 @@
+{
+    "name": "DataCamp",
+    "description": "DataCamp is an online learning platform offering interactive courses in data science, AI, and programming for all skill levels.",
+    "longDescription": "DataCamp is an interactive online learning platform designed to teach data science, artificial intelligence, and programming skills through hands-on courses and real-world projects. Its mission is to democratize data and AI skills, making high-quality education accessible to individuals, students, educators, and businesses worldwide. The platform supports learners at all levels, from beginners to experts, with a focus on practical, in-browser coding exercises and expert-led tutorials. DataCamp serves over 16 million learners, including those from 80% of Fortune 1000 companies, by providing flexible, self-paced learning paths. It also offers specialized programs like DataCamp for Classrooms, which provides free access to educators and students, and DataCamp for Business, which helps organizations upskill their teams. By combining short videos, interactive exercises, and certifications, DataCamp ensures learners gain in-demand skills applicable to careers in data analysis, engineering, and AI.",
+    "url": "https://www.datacamp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/datacamp.com.webp",
+    "category": "AI Course",
+    "categorySlug": "ai-course",
+    "slug": "datacamp",
+    "categories": [
+        "AI Course",
+        "AI Code Assistant",
+        "AI Coaching",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Interactive in-browser coding exercises allow learners to practice skills like Python, SQL, and R without software installation.",
+        "Career and Skill Tracks provide structured learning paths to master specific roles like Data Scientist or Data Analyst.",
+        "Industry-recognized certifications validate skills in data science, AI, and analytics, enhancing professional credibility.",
+        "DataLab offers a cloud-based notebook for data analysis, collaboration, and sharing insights without local setup.",
+        "DataCamp Mobile enables on-the-go learning with bite-sized lessons and coding practice via iOS and Android apps.",
+        "Real-world projects simulate practical scenarios to build portfolio-ready experience for career advancement.",
+        "AI-assisted learning provides instant feedback and code explanations to accelerate skill development.",
+        "Custom learning paths for businesses allow organizations to tailor training to team-specific needs."
+    ],
+    "faqs": [
+        {
+            "question": "What types of courses does DataCamp offer?",
+            "answer": "DataCamp offers over 570 courses in data science, AI, machine learning, and programming, covering languages like Python, SQL, R, and tools like Tableau and Power BI."
+        },
+        {
+            "question": "Is DataCamp suitable for beginners with no coding experience?",
+            "answer": "Yes, DataCamp provides beginner-friendly courses in Python, SQL, and AI, requiring no prior coding experience, with interactive exercises to build skills gradually."
+        },
+        {
+            "question": "Does DataCamp offer a free plan?",
+            "answer": "DataCamp offers a free plan that includes access to the first chapter of each course, allowing users to explore content before subscribing."
+        },
+        {
+            "question": "Can students and educators access DataCamp for free?",
+            "answer": "Through DataCamp Classrooms, verified educators and their students can access over 470 courses for free for six months, renewable upon reapplication."
+        },
+        {
+            "question": "What are DataCamp certifications, and are they recognized?",
+            "answer": "DataCamp offers certifications for Data Scientist and Data Analyst roles, which are industry-recognized but not accredited, valued based on employer perception."
+        },
+        {
+            "question": "How does DataCamp support business teams?",
+            "answer": "DataCamp for Business provides team management tools, custom learning paths, and advanced reporting to upskill organizations in data and AI literacy."
+        },
+        {
+            "question": "Can I learn on DataCamp using a mobile device?",
+            "answer": "Yes, DataCamp Mobile apps for iOS and Android offer micro-learning and coding practice for flexible, on-the-go education."
+        }
+    ]
+}

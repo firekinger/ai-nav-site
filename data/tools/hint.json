@@ -1,0 +1,58 @@
+{
+    "name": "Hint",
+    "description": "Hint is an AI-powered platform for personalized astrology insights and horoscope predictions.",
+    "longDescription": "Hint is a digital astrology platform that leverages artificial intelligence to deliver personalized horoscopes, birth chart analyses, and astrological insights tailored to individual users. By combining advanced algorithms with astrological data, Hint provides daily, weekly, and monthly predictions to help users navigate life decisions. The platform aims to make astrology accessible, engaging, and relevant for modern users seeking guidance in personal growth, relationships, and career paths. It serves both casual users interested in daily horoscopes and dedicated astrology enthusiasts looking for in-depth natal chart interpretations. Hint's mission is to blend traditional astrology with cutting-edge technology to empower users with actionable insights. The platform is designed to be user-friendly, offering a seamless experience across web and mobile devices.",
+    "url": "https://hint.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hint.app.webp",
+    "category": "AI Charting",
+    "categorySlug": "ai-charting",
+    "slug": "hint",
+    "categories": [
+        "AI Religion",
+        "AI Dream Interpreter",
+        "AI Mental Health",
+        "AI Charting"
+    ],
+    "features": [
+        "Delivers personalized daily horoscopes based on users' birth charts for accurate, tailored predictions.",
+        "Provides detailed natal chart analyses to uncover insights about personality, strengths, and life paths.",
+        "Offers compatibility reports to assess relationship dynamics using astrological data.",
+        "Includes AI-driven predictive insights for career, love, and personal growth tailored to user profiles.",
+        "Features a user-friendly mobile app for accessing astrological content on the go.",
+        "Allows users to track astrological transits and their impacts on daily life.",
+        "Provides guided meditation sessions aligned with astrological events to promote mindfulness.",
+        "Enables customization of astrological notifications for key celestial events.",
+        "Offers in-depth monthly and yearly forecasts for long-term planning and reflection.",
+        "Integrates a community feature for users to share insights and discuss astrology topics."
+    ],
+    "faqs": [
+        {
+            "question": "What makes Hint different from other astrology apps?",
+            "answer": "Hint uses AI to provide highly personalized horoscopes and birth chart analyses, combining traditional astrology with advanced algorithms for precise insights."
+        },
+        {
+            "question": "Is a free plan available on Hint?",
+            "answer": "Yes, Hint offers a free plan with access to daily horoscopes and basic features, while premium plans unlock advanced analyses and reports."
+        },
+        {
+            "question": "Do I need to know my exact birth time to use Hint?",
+            "answer": "While an exact birth time enhances the accuracy of your birth chart, Hint can still provide general insights with just your birth date."
+        },
+        {
+            "question": "Can Hint help with relationship compatibility?",
+            "answer": "Yes, Hint offers compatibility reports that analyze astrological alignments between partners to provide insights into relationship dynamics."
+        },
+        {
+            "question": "Is Hint suitable for astrology beginners?",
+            "answer": "Absolutely, Hint is designed for all levels, offering easy-to-understand horoscopes for beginners and detailed analyses for advanced users."
+        },
+        {
+            "question": "How often are horoscopes updated on Hint?",
+            "answer": "Hint updates daily horoscopes every 24 hours and provides weekly and monthly forecasts for ongoing guidance."
+        },
+        {
+            "question": "Can I access Hint on my phone?",
+            "answer": "Yes, Hint offers a mobile app for iOS and Android, allowing users to access their astrological insights anytime, anywhere."
+        }
+    ]
+}

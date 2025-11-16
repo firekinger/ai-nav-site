@@ -1,0 +1,56 @@
+{
+    "name": "Meta AI",
+    "description": "Meta AI provides an AI-powered assistant for personalized answers, image generation, and seamless integration across Meta platforms.",
+    "longDescription": "Meta AI is an artificial intelligence platform developed by Meta, designed to enhance user experiences through a conversational AI assistant available on its website and integrated into Meta's apps like Facebook, Instagram, WhatsApp, and Messenger. Launched to make AI accessible, it leverages Meta’s Llama models to deliver tailored responses, generate images, and assist with tasks like planning or content creation. The platform aims to connect users with information and creative tools seamlessly, drawing on user-shared data from Meta products to provide personalized interactions. It also features a public 'Discover' feed showcasing user interactions, though this has raised privacy concerns due to the visibility of sensitive queries. Meta AI serves both casual users seeking quick answers and creators needing AI-driven content, positioning itself as a versatile tool in the AI ecosystem.",
+    "url": "https://www.meta.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/meta.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "meta-ai",
+    "categories": [
+        "AI Chatbot",
+        "AI Image Generator",
+        "AI Social Media",
+        "AI Voice Assistants",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "The AI assistant delivers personalized answers based on user preferences and Meta profile data, enhancing relevance across platforms.",
+        "Real-time image generation creates visuals from text prompts, enabling users to design artwork or social media content instantly.",
+        "Voice interaction allows natural conversations with the AI on mobile apps, improving accessibility and engagement.",
+        "Integration with Meta apps enables seamless use in chats, feeds, or searches without leaving platforms like WhatsApp or Instagram.",
+        "The Discover feed showcases public AI interactions, inspiring users with creative prompts and community ideas.",
+        "Photo editing tools let users modify images by adding, removing, or changing elements via simple text instructions.",
+        "Multimodal input on smart glasses supports visual queries, identifying objects or providing contextual answers in real-time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Meta AI used for?",
+            "answer": "Meta AI is an assistant that helps with tasks like answering questions, generating images, and editing photos, integrated across Meta’s apps and website."
+        },
+        {
+            "question": "Is Meta AI free to use?",
+            "answer": "Yes, Meta AI’s core features are free, though advanced features may require subscriptions in the future."
+        },
+        {
+            "question": "How does Meta AI personalize responses?",
+            "answer": "It uses data you share on Meta platforms, like your profile and interactions, to tailor answers to your preferences."
+        },
+        {
+            "question": "Can I keep my Meta AI chats private?",
+            "answer": "Chats are private by default, but sharing to the public Discover feed requires a deliberate multistep process."
+        },
+        {
+            "question": "What devices support Meta AI?",
+            "answer": "Meta AI is available on the web, Meta’s mobile apps, Ray-Ban Meta glasses, and Meta Quest devices."
+        },
+        {
+            "question": "Does Meta AI support voice commands?",
+            "answer": "Yes, voice interaction is available on the Meta AI app, with options for celebrity voices like John Cena."
+        },
+        {
+            "question": "Can Meta AI generate images in real-time?",
+            "answer": "Yes, it creates images as you type, available in beta on WhatsApp and the Meta AI website in the U.S."
+        }
+    ]
+}

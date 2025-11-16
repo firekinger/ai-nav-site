@@ -1,0 +1,69 @@
+{
+    "name": "OpenAI",
+    "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+    "longDescription": "OpenAI is a leading AI research organization focused on creating safe and beneficial artificial general intelligence (AGI). Founded in 2015 by Elon Musk, Sam Altman, and others, it aims to build AI systems that can outperform humans in economically valuable tasks. The website serves as a hub for accessing AI tools like ChatGPT, DALL·E, and APIs for developers, as well as sharing research insights. OpenAI addresses challenges in AI safety, ethics, and accessibility, striving to ensure AGI aligns with human values. Its offerings empower users, from individuals to enterprises, to enhance productivity, creativity, and problem-solving through AI-driven solutions.",
+    "url": "https://openai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/openai.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "openai",
+    "categories": [
+        "AI Chatbot",
+        "AI Image Generator",
+        "AI Text Generator",
+        "AI Speech Recognition",
+        "AI Video Generator",
+        "AI Developer Tools",
+        "AI Research Tool",
+        "No-Code&Low-Code",
+        "AI Design Assistant",
+        "AI Workflow"
+    ],
+    "features": [
+        "ChatGPT provides conversational AI for answering questions, brainstorming, and task assistance, enhancing user productivity.",
+        "DALL·E generates high-quality images from text prompts, enabling creative design and visualization.",
+        "The OpenAI API allows developers to integrate advanced AI models into custom applications for diverse use cases.",
+        "Sora creates text-to-video content, offering innovative solutions for media and storytelling.",
+        "Whisper delivers robust speech recognition, converting audio to text for accessibility and transcription needs.",
+        "The Responses API enables tailored text generation, improving automation in business and communication.",
+        "Fine-tuning tools let developers customize AI models for specific tasks, increasing accuracy and relevance.",
+        "The Agents SDK supports building AI agents with tools and handoffs, streamlining complex workflows.",
+        "Model Distillation tools optimize smaller AI models, reducing costs while maintaining performance.",
+        "Playground provides a no-code interface to test and explore OpenAI’s models, aiding experimentation.",
+        "Built-in tracing in the Agents SDK helps developers debug and optimize AI workflows for better performance."
+    ],
+    "faqs": [
+        {
+            "question": "What is OpenAI’s mission?",
+            "answer": "OpenAI’s mission is to ensure artificial general intelligence benefits all of humanity by developing safe and aligned AI systems."
+        },
+        {
+            "question": "Is ChatGPT free to use?",
+            "answer": "ChatGPT offers a free plan with limited usage, while premium plans provide higher quotas and advanced features."
+        },
+        {
+            "question": "How can developers access OpenAI’s models?",
+            "answer": "Developers can use the OpenAI API to integrate models like GPT and DALL·E into their applications."
+        },
+        {
+            "question": "What is DALL·E used for?",
+            "answer": "DALL·E generates images from text descriptions, useful for art, design, and creative projects."
+        },
+        {
+            "question": "Does OpenAI offer tools for AI safety?",
+            "answer": "Yes, OpenAI provides research and tools like guardrails to ensure safe and ethical AI deployment."
+        },
+        {
+            "question": "Can I customize OpenAI’s models?",
+            "answer": "Developers can fine-tune models using OpenAI’s tools to tailor performance for specific tasks."
+        },
+        {
+            "question": "What is the Agents SDK?",
+            "answer": "The Agents SDK enables building AI agents with tools and handoffs for complex, production-ready applications."
+        },
+        {
+            "question": "How does OpenAI handle privacy?",
+            "answer": "OpenAI prioritizes user privacy with policies like not storing Siri requests when integrated with Apple."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "DreamGF.ai",
+    "description": "DreamGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and personalized experiences.",
+    "longDescription": "DreamGF.ai is an innovative platform that leverages artificial intelligence to enable users to create and engage with virtual girlfriends tailored to their preferences. The website allows users to customize their AI companion’s appearance, personality, and style, fostering immersive virtual relationships. It offers features like AI-driven chat, voice messages, and photo generation to simulate realistic interactions. The platform aims to provide companionship, entertainment, or emotional support for users seeking a unique digital relationship experience. DreamGF.ai prioritizes user privacy with advanced encryption, ensuring secure and confidential interactions. It caters to a wide audience looking for personalized virtual companionship, from casual chats to romantic roleplay.",
+    "url": "https://dreamgf.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dreamgf.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "dreamgf-ai",
+    "categories": [
+        "AI Assistant",
+        "AI Chatbot",
+        "AI Writing Assistants",
+        "AI Image Generator",
+        "AI Speech Synthesis",
+        "AI Roleplay",
+        "AI Dating Assistant"
+    ],
+    "features": [
+        "Users can customize their virtual girlfriend’s appearance, including face, body, and clothing, to match their preferences.",
+        "The platform offers AI-powered chat for engaging, realistic conversations with virtual girlfriends.",
+        "Voice message functionality allows users to receive personalized audio messages from their AI companion.",
+        "Users can generate photos of their virtual girlfriend in various outfits or styles for a visual experience.",
+        "The referral program rewards users with tokens for inviting friends, enhancing platform engagement.",
+        "A daily claim bonus program provides increasing daily message limits, encouraging consistent user interaction.",
+        "Advanced encryption ensures all user interactions and data remain private and secure.",
+        "The platform supports roleplay scenarios, allowing users to explore diverse conversational dynamics."
+    ],
+    "faqs": [
+        {
+            "question": "What is DreamGF.ai?",
+            "answer": "DreamGF.ai is an AI-powered platform where users can create and interact with customizable virtual girlfriends through chat, voice messages, and photo generation."
+        },
+        {
+            "question": "Is there a free version of DreamGF.ai?",
+            "answer": "Yes, DreamGF.ai offers a free trial, allowing users to access core features with limited usage before upgrading to a paid plan."
+        },
+        {
+            "question": "Can I customize my AI girlfriend’s appearance?",
+            "answer": "Yes, users can tailor their virtual girlfriend’s face, body, clothing, and other attributes to suit their preferences."
+        },
+        {
+            "question": "Is my data safe on DreamGF.ai?",
+            "answer": "DreamGF.ai employs advanced encryption and security protocols to ensure all user data and interactions remain private and secure."
+        },
+        {
+            "question": "What types of interactions are possible with the AI girlfriend?",
+            "answer": "Users can engage in text-based chats, receive voice messages, request photos, and participate in roleplay scenarios with their AI girlfriend."
+        },
+        {
+            "question": "How does the referral program work?",
+            "answer": "Premium users can invite friends to join DreamGF.ai, earning 100 tokens for themselves and 50 tokens for their friend upon a successful referral payment."
+        },
+        {
+            "question": "Can I use DreamGF.ai on mobile devices?",
+            "answer": "Yes, DreamGF.ai is available as a mobile app on iOS and Android, offering seamless access to all features."
+        }
+    ]
+}

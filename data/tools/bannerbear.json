@@ -1,0 +1,77 @@
+{
+    "name": "BannerBear",
+    "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+    "longDescription": "BannerBear is a powerful automation tool designed for developers, marketers, and businesses to create dynamic images and videos at scale without manual design work. Its mission is to streamline content creation by providing an API that integrates with various applications, enabling users to generate personalized visuals based on templates and data inputs. The platform solves problems related to time-consuming graphic design tasks, such as creating product banners, social media posts, or personalized certificates, by automating the process. It serves users by offering seamless integrations with tools like Zapier, Airtable, and more, making it ideal for e-commerce platforms, real estate listings, and marketing campaigns. Additionally, BannerBear incorporates AI features for tasks like image tagging and moderation to enhance efficiency and accuracy.",
+    "url": "https://www.bannerbear.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.bannerbear.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "bannerbear",
+    "categories": [
+        "AI Image Generator",
+        "AI Design Assistant",
+        "AI Image Description Generator",
+        "AI Video Generator",
+        "AI Marketing",
+        "AI Product Photography",
+        "AI Social Media",
+        "AI Content Detector",
+        "AI Design Generator"
+    ],
+    "features": [
+        "The API allows users to generate images automatically by populating templates with dynamic data, saving time on repetitive design tasks.",
+        "Template editor enables easy creation and customization of image templates with layers, text, and effects for professional results.",
+        "AI-powered auto-tagging detects and categorizes elements in images, improving organization and searchability.",
+        "Video generation feature automates the creation of short videos from templates, ideal for social media and ads.",
+        "Integration with webhooks and APIs from other services like Shopify or Google Sheets streamlines workflows.",
+        "Image moderation using AI helps filter inappropriate content automatically for safer automated outputs.",
+        "Batch processing supports generating thousands of images simultaneously, perfect for large-scale campaigns.",
+        "QR code generation integrates seamlessly into images for interactive marketing materials.",
+        "Multi-language support allows text rendering in various languages, broadening global accessibility.",
+        "Analytics and usage tracking provide insights into API calls and credit consumption for better management.",
+        "Custom fonts and assets uploading ensure brand consistency across generated content.",
+        "Synchronous and asynchronous generation modes offer flexibility based on performance needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is BannerBear used for?",
+            "answer": "BannerBear is used for automating the creation of images and videos using APIs, which is particularly helpful for marketers and developers needing to generate customized content at scale. It eliminates manual design work by filling templates with data dynamically."
+        },
+        {
+            "question": "Does BannerBear offer a free plan?",
+            "answer": "Yes, BannerBear provides a free plan with limited credits, allowing users to test the platform's features before committing to a paid subscription."
+        },
+        {
+            "question": "How does the API integration work?",
+            "answer": "The API integrates by sending JSON payloads with data to populate image or video templates, returning generated files via URLs. It supports various programming languages and tools like Zapier for no-code integrations."
+        },
+        {
+            "question": "What AI features does BannerBear have?",
+            "answer": "BannerBear includes AI for auto-tagging images, detecting objects or text, and moderating content to ensure appropriateness. These features enhance automation and accuracy in content generation."
+        },
+        {
+            "question": "Can I use BannerBear for e-commerce?",
+            "answer": "Absolutely, BannerBear is ideal for e-commerce by generating product images, banners, and personalized visuals dynamically from product data feeds."
+        },
+        {
+            "question": "How secure is BannerBear?",
+            "answer": "BannerBear ensures security through encrypted API calls, data privacy compliance, and options for private templates. It does not store user data beyond what's necessary for generation."
+        },
+        {
+            "question": "What file formats does it support?",
+            "answer": "BannerBear supports output in PNG, JPG, WEBP for images, and MP4 for videos, with customizable quality settings."
+        },
+        {
+            "question": "Is there a limit on template complexity?",
+            "answer": "Templates can be complex with multiple layers, but performance may vary; BannerBear recommends optimizing for faster generation times."
+        },
+        {
+            "question": "How do credits work in BannerBear?",
+            "answer": "Credits are consumed per generation task, with different costs for images, videos, or AI features; plans offer varying monthly credit allowances."
+        },
+        {
+            "question": "Can I collaborate with a team on BannerBear?",
+            "answer": "Yes, team plans allow multiple users to access shared templates and projects, with role-based permissions for collaboration."
+        }
+    ]
+}

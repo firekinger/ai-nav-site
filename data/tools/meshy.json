@@ -1,0 +1,58 @@
+{
+    "name": "Meshy",
+    "description": "Meshy is an AI-powered platform for creating high-quality 3D models and assets from text or images.",
+    "longDescription": "Meshy is an innovative AI platform designed to simplify and accelerate the creation of 3D models and assets for artists, game developers, and designers. By leveraging advanced generative AI, it enables users to generate detailed 3D models from text prompts or 2D images in minutes, eliminating the need for complex modeling software expertise. The platform caters to industries like gaming, animation, and virtual reality, offering tools to streamline workflows and enhance creative output. Meshy’s mission is to democratize 3D content creation, making it accessible to both professionals and hobbyists. Its user-friendly interface and powerful AI capabilities reduce production time and costs, empowering users to bring their creative visions to life efficiently.",
+    "url": "https://www.meshy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.meshy.ai.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "meshy",
+    "categories": [
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "AI Design Generator",
+        "AI Animation Generator",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Text-to-3D generation allows users to create detailed 3D models by entering text descriptions, enabling rapid prototyping.",
+        "Image-to-3D conversion transforms 2D images into high-quality 3D models, simplifying asset creation for visual projects.",
+        "High-quality texture generation produces realistic textures for 3D models, enhancing visual fidelity for games and animations.",
+        "Customizable output settings let users adjust model resolution and style to meet specific project requirements.",
+        "Fast processing delivers 3D models in minutes, significantly reducing production timelines for creative workflows.",
+        "Integration with popular 3D software like Blender and Unity ensures seamless compatibility with existing tools.",
+        "Preview mode allows users to visualize 3D models before finalizing, ensuring accuracy and satisfaction.",
+        "Community gallery showcases user-generated models, providing inspiration and resources for creators.",
+        "API access enables developers to integrate Meshy’s AI capabilities into their own applications or workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Meshy used for?",
+            "answer": "Meshy is used to generate 3D models and assets from text or images, primarily for gaming, animation, and virtual reality projects."
+        },
+        {
+            "question": "Does Meshy offer a free plan?",
+            "answer": "Yes, Meshy offers a free plan with limited credits for generating 3D models, suitable for testing and small projects."
+        },
+        {
+            "question": "How long does it take to create a 3D model with Meshy?",
+            "answer": "Meshy can generate 3D models in just a few minutes, depending on the complexity and user settings."
+        },
+        {
+            "question": "Can I use Meshy models in other software?",
+            "answer": "Yes, Meshy models are compatible with popular 3D software like Blender, Unity, and Unreal Engine."
+        },
+        {
+            "question": "What types of inputs does Meshy support?",
+            "answer": "Meshy supports text prompts and 2D images as inputs for generating 3D models and textures."
+        },
+        {
+            "question": "Is Meshy suitable for beginners?",
+            "answer": "Yes, Meshy’s intuitive interface makes it accessible for beginners while offering advanced features for professionals."
+        },
+        {
+            "question": "Can I customize the style of the 3D models?",
+            "answer": "Yes, Meshy allows users to adjust styles and resolutions to match their creative needs."
+        }
+    ]
+}

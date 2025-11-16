@@ -1,0 +1,62 @@
+{
+    "name": "HeyGen",
+    "description": "HeyGen is an AI-powered platform for creating and localizing professional videos with customizable avatars and voiceovers.",
+    "longDescription": "HeyGen is an innovative AI-driven video creation platform designed to simplify and accelerate video production for businesses, marketers, and creators. By leveraging advanced generative AI, it allows users to transform text, audio, or scripts into engaging, high-quality videos featuring lifelike AI avatars without the need for cameras or production crews. The platform supports over 40 languages, enabling seamless localization and personalization of content for global audiences. HeyGen’s mission is to make visual storytelling accessible to all, eliminating the complexities and costs of traditional video production. It serves a wide range of use cases, including marketing, eLearning, and corporate training, empowering users to create professional content efficiently. Trusted by over 85,000 businesses, HeyGen combines ease of use with powerful customization tools to deliver impactful videos.",
+    "url": "https://app.heygen.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/app.heygen.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "heygen",
+    "categories": [
+        "AI Video Generator",
+        "AI Avatar Video Generator",
+        "AI Video Translator",
+        "AI Marketing",
+        "AI Developer Tools",
+        "Text to Video"
+    ],
+    "features": [
+        "AI Avatars: Choose from over 100 customizable AI avatars or create personalized ones to deliver lifelike video presentations.",
+        "Text-to-Video: Convert scripts or text prompts into professional videos in minutes, streamlining content creation.",
+        "Multilingual Support: Generate videos in over 40 languages with 300+ voice options for global reach and localization.",
+        "Brand Kit Integration: Apply logos, colors, and fonts to ensure consistent, on-brand video content across projects.",
+        "Video Translation: Automatically translate and dub videos into multiple languages with synchronized lip movements.",
+        "Interactive Avatars: Create avatars that engage audiences with dynamic, conversational responses in real-time.",
+        "API Integration: Automate video production and integrate HeyGen’s tools into existing workflows via a robust API.",
+        "Customizable Templates: Use pre-designed templates or start from a blank canvas for tailored video creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is HeyGen used for?",
+            "answer": "HeyGen is used to create AI-generated videos with customizable avatars for marketing, education, training, and social media content."
+        },
+        {
+            "question": "Does HeyGen offer a free plan?",
+            "answer": "Yes, HeyGen provides a free plan with limited features, allowing users to test its AI video creation tools at no cost."
+        },
+        {
+            "question": "Can I create videos in multiple languages?",
+            "answer": "HeyGen supports over 40 languages, enabling users to create and translate videos for global audiences with ease."
+        },
+        {
+            "question": "Do I need video editing skills to use HeyGen?",
+            "answer": "No, HeyGen’s intuitive interface and AI-driven tools make it easy for users with no editing experience to create professional videos."
+        },
+        {
+            "question": "Can I customize avatars to match my brand?",
+            "answer": "Yes, HeyGen allows users to customize avatars with specific expressions, clothing, and branding elements like logos and colors."
+        },
+        {
+            "question": "How does HeyGen’s API work?",
+            "answer": "HeyGen’s API enables developers to automate video creation, integrate with other platforms, and generate content programmatically."
+        },
+        {
+            "question": "Is HeyGen suitable for small businesses?",
+            "answer": "Yes, HeyGen’s affordable plans and user-friendly tools make it ideal for small teams to create high-quality videos without large budgets."
+        },
+        {
+            "question": "Can I repurpose existing content with HeyGen?",
+            "answer": "HeyGen allows users to update, localize, or reformat existing videos for new campaigns, maximizing content value."
+        }
+    ]
+}

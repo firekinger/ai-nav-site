@@ -1,0 +1,75 @@
+{
+    "name": "Aivo3",
+    "description": "Aivo3 is an AI-powered platform specializing in voice generation and conversion for creative and professional applications.",
+    "longDescription": "Aivo3 is an innovative AI platform designed to generate and manipulate voices using advanced machine learning algorithms. Its mission is to democratize access to high-quality voice synthesis, enabling users to create custom audio content without expensive equipment or professional skills. The website serves content creators, marketers, educators, and businesses by providing tools to produce realistic voiceovers, convert text to speech, and even clone voices for personalized applications. It solves problems related to accessibility in audio production, such as language barriers and time constraints, by offering quick and customizable solutions. Users can integrate these features into various projects, from podcasts to virtual assistants, enhancing engagement and efficiency. Overall, Aivo3 aims to push the boundaries of AI in audio technology, making voice-related tasks more intuitive and scalable.",
+    "url": "https://aivo3.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aivo3.com.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "aivo3",
+    "categories": [
+        "AI Voice Generator",
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Audio Editing",
+        "AI Writing",
+        "AI API",
+        "AI Podcast Editing",
+        "AI Voice Over",
+        "AI Voice Assistants"
+    ],
+    "features": [
+        "Text-to-speech conversion that transforms written content into natural-sounding audio in multiple languages, benefiting users who need quick voiceovers for videos or presentations.",
+        "Voice cloning technology allows users to replicate specific voices from short audio samples, enabling personalized audio experiences for branding or entertainment.",
+        "Real-time voice modulation adjusts pitch, tone, and speed on the fly, helping podcasters and educators customize audio to fit their audience's preferences.",
+        "Multi-language support with accents and dialects ensures accurate pronunciation across global regions, solving localization challenges for international content creators.",
+        "Integration APIs for seamless embedding into apps or websites, allowing developers to add voice features without building from scratch.",
+        "Audio editing tools provide effects like noise reduction and background music addition, streamlining the post-production process for professional results.",
+        "Custom voice model training lets users fine-tune AI models with their data, improving accuracy for niche applications like audiobooks.",
+        "Secure cloud storage for generated audio files ensures easy access and sharing while maintaining user privacy.",
+        "Batch processing capability handles multiple voice generation tasks simultaneously, saving time for high-volume users like marketing teams.",
+        "Analytics dashboard tracks usage and performance metrics, helping users optimize their audio content strategies."
+    ],
+    "faqs": [
+        {
+            "question": "What is Aivo3 primarily used for?",
+            "answer": "Aivo3 is mainly used for AI-driven voice generation and conversion, allowing users to create custom audio content like voiceovers and text-to-speech outputs."
+        },
+        {
+            "question": "Does Aivo3 offer a free plan?",
+            "answer": "Yes, Aivo3 provides a free tier with limited features and generation credits, suitable for testing and small projects. Users can upgrade for more advanced capabilities."
+        },
+        {
+            "question": "How accurate is the voice cloning feature?",
+            "answer": "The voice cloning is highly accurate with sufficient sample audio, producing realistic replicas. It improves with more data and may require fine-tuning for best results."
+        },
+        {
+            "question": "Can I use Aivo3 for commercial purposes?",
+            "answer": "Yes, commercial use is allowed under the terms of service, but premium plans are recommended for unlimited exports and higher quality outputs."
+        },
+        {
+            "question": "What languages does Aivo3 support?",
+            "answer": "Aivo3 supports over 50 languages with various accents and dialects. It uses AI to ensure natural pronunciation and intonation."
+        },
+        {
+            "question": "Is my data secure on Aivo3?",
+            "answer": "Aivo3 employs encryption and secure storage practices to protect user data and generated audio. They comply with standard privacy regulations."
+        },
+        {
+            "question": "How do I integrate Aivo3 into my app?",
+            "answer": "Integration is done via APIs provided in the developer documentation. You can generate voices programmatically with simple API calls."
+        },
+        {
+            "question": "What file formats are supported for output?",
+            "answer": "Outputs are available in MP3, WAV, and OGG formats. Users can choose based on their needs for quality or file size."
+        },
+        {
+            "question": "Can I customize voice emotions?",
+            "answer": "Yes, Aivo3 allows customization of emotions like happy, sad, or neutral through its modulation tools. This adds expressiveness to the generated speech."
+        },
+        {
+            "question": "How long does voice generation take?",
+            "answer": "Generation typically takes seconds to minutes depending on length and complexity. Real-time options are available for shorter clips."
+        }
+    ]
+}

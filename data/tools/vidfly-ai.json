@@ -1,0 +1,75 @@
+{
+    "name": "Vidfly.ai",
+    "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+    "longDescription": "Vidfly.ai is an innovative AI tool designed to simplify video production by automating the creation process using advanced artificial intelligence. Its mission is to democratize video content creation, making it accessible to individuals and businesses without requiring extensive editing skills or expensive equipment. The platform solves problems like time-consuming video editing and high production costs by enabling users to input text or ideas and receive polished videos in minutes. It serves users in marketing, social media, education, and entertainment by providing customizable templates and AI enhancements. Overall, Vidfly.ai empowers creators to produce engaging content efficiently, fostering creativity and productivity in digital media.",
+    "url": "https://vidfly.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vidfly.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "vidfly-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI Voice Over",
+        "AI Social Media Post Generator",
+        "AI Marketing",
+        "AI Writing Assistants",
+        "AI Animation Generator",
+        "AI Video Search",
+        "AI Video Translator"
+    ],
+    "features": [
+        "Text-to-video generation allows users to convert written scripts into dynamic videos with automated visuals and animations, saving time on manual editing.",
+        "AI-powered voiceovers provide natural-sounding narration in multiple languages and accents, enhancing video accessibility and engagement.",
+        "Customizable templates offer pre-designed layouts for various purposes like social media posts or ads, enabling quick personalization.",
+        "Image integration feature lets users upload photos to incorporate into videos, creating personalized and visually appealing content.",
+        "Real-time editing tools allow for on-the-fly adjustments to video elements, ensuring flexibility during the creation process.",
+        "Export options in multiple formats support easy sharing on platforms like YouTube, Instagram, or TikTok, streamlining distribution.",
+        "Collaboration mode enables team members to work on video projects simultaneously, improving workflow for businesses.",
+        "Analytics dashboard provides insights into video performance, helping users optimize content for better audience reach.",
+        "Stock media library offers royalty-free assets like music and clips to enhance video quality without additional costs.",
+        "Mobile app integration allows users to create and edit videos on the go, increasing convenience for mobile-first creators."
+    ],
+    "faqs": [
+        {
+            "question": "What is Vidfly.ai?",
+            "answer": "Vidfly.ai is an AI platform for generating videos from text or images. It uses machine learning to automate video creation, making it easy for users to produce content without advanced skills."
+        },
+        {
+            "question": "How does the text-to-video feature work?",
+            "answer": "Users input a script or description, and the AI generates visuals, animations, and voiceovers automatically. You can customize elements like style and length before finalizing."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Vidfly.ai offers a free tier with limited video generations and features. Upgrading to paid plans unlocks unlimited access and advanced tools."
+        },
+        {
+            "question": "What types of videos can I create?",
+            "answer": "You can create social media clips, marketing ads, educational tutorials, and more. The platform supports various formats tailored to different platforms."
+        },
+        {
+            "question": "Does Vidfly.ai support multiple languages?",
+            "answer": "Yes, it supports voiceovers and text inputs in multiple languages. This makes it suitable for global users creating localized content."
+        },
+        {
+            "question": "How secure is my data on Vidfly.ai?",
+            "answer": "Vidfly.ai uses encryption and secure servers to protect user data. Videos and inputs are not shared without permission, adhering to privacy standards."
+        },
+        {
+            "question": "Can I collaborate with others on projects?",
+            "answer": "Yes, the collaboration feature allows multiple users to edit videos in real-time. This is ideal for teams working on shared content."
+        },
+        {
+            "question": "What file formats can I export videos in?",
+            "answer": "Videos can be exported in MP4, MOV, and other common formats. Options for resolution and quality are available to suit different needs."
+        },
+        {
+            "question": "Is Vidfly.ai suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and AI automation make it beginner-friendly. No prior video editing experience is required to get started."
+        },
+        {
+            "question": "How does pricing work?",
+            "answer": "Pricing is tiered with free, basic, and premium plans. Paid plans offer more generations, higher quality, and additional features like priority support."
+        }
+    ]
+}

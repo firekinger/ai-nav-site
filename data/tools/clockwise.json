@@ -1,0 +1,71 @@
+{
+    "name": "Clockwise",
+    "description": "Clockwise is an AI-powered calendar optimization tool that helps users and teams manage time more effectively by automating scheduling and maximizing focus time.",
+    "longDescription": "Clockwise is an intelligent calendar assistant that leverages AI to streamline scheduling and time management for individuals and teams. Its mission is to eliminate scheduling chaos, reduce interruptions, and create more space for focused, productive work. By analyzing calendars, it automatically suggests optimal meeting times, resolves conflicts, and blocks out periods for deep concentration. The platform integrates seamlessly with tools like Google Calendar, Outlook, and Slack, making it easy to adopt without disrupting existing workflows. Ultimately, Clockwise helps users achieve better work-life balance by giving them control over their time and reducing the mental load of manual coordination.",
+    "url": "https://www.getclockwise.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getclockwise.com.webp",
+    "category": "AI Calendar",
+    "categorySlug": "ai-calendar",
+    "slug": "clockwise",
+    "categories": [
+        "AI Calendar",
+        "AI Productivity Tools",
+        "AI Scheduling",
+        "AI Project Management",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "AI-driven scheduling that automatically finds the best meeting times across multiple calendars to minimize conflicts and save time.",
+        "Focus Time blocks that protect dedicated periods for uninterrupted deep work, enhancing productivity and reducing burnout.",
+        "Slack integration allowing users to update availability and schedule meetings directly from chat, streamlining team communication.",
+        "Calendar analytics providing insights into time allocation, helping users identify inefficiencies and improve habits.",
+        "Auto-resolve feature that intelligently adjusts meetings to avoid overlaps and respects individual preferences like work hours.",
+        "Customizable rules for meeting types, locations, and durations to tailor the AI to personal or team needs.",
+        "Team coordination tools that sync calendars across groups for better collaboration and reduced back-and-forth emails.",
+        "Integration with video conferencing tools like Zoom to automatically add links and details to scheduled events.",
+        "Mobile app support for on-the-go calendar management and real-time updates.",
+        "Privacy-focused design ensuring user data is secure while delivering personalized AI recommendations."
+    ],
+    "faqs": [
+        {
+            "question": "What is Clockwise?",
+            "answer": "Clockwise is an AI-powered tool that optimizes calendars to maximize focus time and automate scheduling. It helps individuals and teams manage their time more efficiently by reducing conflicts and protecting periods for productive work."
+        },
+        {
+            "question": "Does Clockwise offer a free plan?",
+            "answer": "Yes, Clockwise provides a free plan with core features like basic scheduling and focus time blocking. Upgraded plans unlock advanced analytics and team features."
+        },
+        {
+            "question": "How does Clockwise integrate with my calendar?",
+            "answer": "Clockwise seamlessly connects to Google Calendar, Outlook, and other popular apps. Once integrated, it analyzes and optimizes your schedule without requiring manual input."
+        },
+        {
+            "question": "Can Clockwise help with team scheduling?",
+            "answer": "Absolutely, Clockwise coordinates across team calendars to find optimal meeting times and resolve conflicts. It also supports Slack for quick team updates."
+        },
+        {
+            "question": "Is Clockwise secure for business use?",
+            "answer": "Yes, Clockwise prioritizes data privacy with enterprise-grade security measures. It complies with standards like SOC 2 and GDPR to protect user information."
+        },
+        {
+            "question": "What makes Clockwise different from other calendar tools?",
+            "answer": "Clockwise uses AI to proactively optimize your schedule, creating more focus time automatically, unlike traditional calendars that require manual adjustments."
+        },
+        {
+            "question": "Does Clockwise work on mobile devices?",
+            "answer": "Yes, Clockwise has a mobile app for iOS and Android, allowing users to manage their calendars and receive updates on the go."
+        },
+        {
+            "question": "How does Clockwise improve productivity?",
+            "answer": "By blocking focus time and automating scheduling, Clockwise reduces interruptions and helps users allocate time more effectively for high-priority tasks."
+        },
+        {
+            "question": "Can I customize Clockwise's AI suggestions?",
+            "answer": "Yes, users can set preferences for work hours, meeting types, and priorities to tailor the AI's recommendations to their needs."
+        },
+        {
+            "question": "What integrations does Clockwise support?",
+            "answer": "Clockwise integrates with Google Workspace, Microsoft 365, Slack, Zoom, and more to enhance its scheduling capabilities."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "YouTube Summarized",
+    "description": "YouTube Summarized is an AI-powered tool that generates concise summaries of YouTube videos, helping users quickly grasp key points without watching the entire content.",
+    "longDescription": "YouTube Summarized is a web-based platform that leverages artificial intelligence to analyze and condense YouTube videos into digestible summaries. Its mission is to save users time by extracting essential information, key insights, and highlights from lengthy videos, making it ideal for busy professionals, students, and researchers. The tool addresses the problem of information overload in the digital age by providing quick access to video content's core messages. Users simply input a YouTube URL, and the AI processes the video's audio and text to produce structured summaries. This service enhances productivity and learning efficiency by enabling users to preview or review content rapidly.",
+    "url": "https://youtubesummarized.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/youtubesummarized.com.webp",
+    "category": "AI Video Summarizer",
+    "categorySlug": "ai-video-summarizer",
+    "slug": "youtube-summarized",
+    "categories": [
+        "AI Video Summarizer",
+        "AI Content Detector",
+        "AI YouTube",
+        "AI Productivity Tools",
+        "AI Homework Helper",
+        "AI Transcription",
+        "AI Report Generator",
+        "AI Audio Editing"
+    ],
+    "features": [
+        "AI-driven summarization generates concise overviews of YouTube videos, allowing users to understand main ideas in minutes.",
+        "Key point extraction highlights important moments and quotes from videos, aiding in quick reference and note-taking.",
+        "Support for multiple languages enables summarization of videos in various tongues, broadening accessibility for global users.",
+        "Customizable summary lengths let users choose between short, medium, or detailed summaries based on their needs.",
+        "Integration with YouTube URLs simplifies the process by requiring only a link paste to initiate summarization.",
+        "Export options allow users to download summaries in text or PDF format for offline use or sharing.",
+        "Real-time processing delivers summaries quickly, often within seconds for shorter videos.",
+        "User-friendly interface makes it easy for anyone to use without technical expertise.",
+        "Privacy-focused design ensures that video data is not stored beyond the summarization process."
+    ],
+    "faqs": [
+        {
+            "question": "What is YouTube Summarized?",
+            "answer": "YouTube Summarized is an AI tool that creates concise summaries of YouTube videos. It analyzes the content to extract key points, saving users time."
+        },
+        {
+            "question": "How do I use YouTube Summarized?",
+            "answer": "Simply paste a YouTube video URL into the tool's input field and click summarize. The AI will generate a summary shortly after."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, YouTube Summarized offers a free plan with limited summaries per day. Upgrading to a paid plan provides unlimited access and additional features."
+        },
+        {
+            "question": "What types of videos can be summarized?",
+            "answer": "The tool works with most public YouTube videos, including educational content, podcasts, tutorials, and lectures. It may have limitations with very long or restricted videos."
+        },
+        {
+            "question": "How accurate are the summaries?",
+            "answer": "Summaries are generated using advanced AI models and are generally accurate for capturing main ideas. However, nuances or complex topics might require watching the full video for complete understanding."
+        },
+        {
+            "question": "Can I summarize videos in languages other than English?",
+            "answer": "Yes, the tool supports multiple languages by analyzing the video's audio and generating summaries in the original language or English."
+        },
+        {
+            "question": "Is my data secure when using this tool?",
+            "answer": "YouTube Summarized prioritizes user privacy and does not store video data after summarization. All processing is done securely."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan typically allows a certain number of summaries per month with basic features. Paid plans offer unlimited summaries and advanced customization."
+        },
+        {
+            "question": "Does it work with live streams or private videos?",
+            "answer": "It primarily supports public pre-recorded videos. Live streams and private videos are not compatible due to access restrictions."
+        }
+    ]
+}

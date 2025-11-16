@@ -1,0 +1,66 @@
+{
+    "name": "Autocut",
+    "description": "Autocut is an AI-powered plugin for Adobe Premiere Pro that automates video editing tasks to streamline content creation for podcasters, YouTubers, and video professionals.",
+    "longDescription": "Autocut is an innovative AI-driven tool designed to enhance video editing efficiency within Adobe Premiere Pro by automating repetitive tasks. Its mission is to save creators hours of manual work, allowing them to focus on storytelling and creativity rather than tedious edits. The plugin serves users by intelligently analyzing video footage to remove silences, generate subtitles, and apply dynamic effects, making it ideal for podcasts, interviews, and social media content. It solves common problems in video production, such as time-consuming cuts and captioning, by leveraging AI to deliver professional results quickly. Overall, Autocut empowers both beginners and experts to produce high-quality videos with minimal effort.",
+    "url": "https://www.autocut.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.autocut.com.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "autocut",
+    "categories": [
+        "AI Video Editor",
+        "AI Subtitle Generator",
+        "AI Podcast Editing",
+        "AI Noise Cancellation"
+    ],
+    "features": [
+        "Automatic silence removal detects and cuts out pauses in audio, ensuring smoother and more engaging video playback.",
+        "AI-generated subtitles transcribe speech accurately and add customizable captions to improve accessibility and viewer retention.",
+        "Dynamic zoom effects automatically apply intelligent zooms to highlight speakers or key elements, enhancing visual interest.",
+        "Viral clip extraction identifies and compiles the most engaging segments into short clips optimized for social media sharing.",
+        "Multi-language support enables subtitle generation in various languages, broadening the reach of international content creators.",
+        "Seamless integration with Adobe Premiere Pro allows users to edit directly within their familiar workflow without exporting files.",
+        "Customizable editing parameters let users adjust AI behaviors to match their specific style and project needs.",
+        "Batch processing handles multiple videos at once, saving time for high-volume content producers.",
+        "Real-time previews provide instant feedback on edits, enabling quick iterations and refinements.",
+        "Noise reduction features clean up audio by minimizing background noise, resulting in professional-sounding outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Autocut and how does it work?",
+            "answer": "Autocut is an AI plugin for Adobe Premiere Pro that automates video editing. It analyzes your footage to remove silences, add subtitles, and apply effects automatically."
+        },
+        {
+            "question": "Does Autocut require an internet connection?",
+            "answer": "Yes, Autocut uses cloud-based AI processing, so an internet connection is needed for most features. However, some basic functions can work offline."
+        },
+        {
+            "question": "Is Autocut compatible with other editing software?",
+            "answer": "Currently, Autocut is designed specifically for Adobe Premiere Pro. Integration with other software like Final Cut Pro may be added in future updates."
+        },
+        {
+            "question": "How accurate are the AI-generated subtitles?",
+            "answer": "The subtitles are highly accurate for clear audio, with support for multiple languages. Users can manually edit them if needed for precision."
+        },
+        {
+            "question": "What pricing plans does Autocut offer?",
+            "answer": "Autocut provides a free trial with limited features, followed by subscription plans starting at a monthly fee for unlimited access. Check the website for current pricing."
+        },
+        {
+            "question": "Can Autocut handle long-form videos?",
+            "answer": "Yes, it efficiently processes videos of any length, from short clips to full podcasts. Processing time depends on video duration and complexity."
+        },
+        {
+            "question": "Is my data secure with Autocut?",
+            "answer": "Autocut prioritizes data security with encrypted uploads and no storage of your videos after processing. It complies with standard privacy regulations."
+        },
+        {
+            "question": "How do I install Autocut?",
+            "answer": "Download the plugin from the Autocut website, install it in Premiere Pro, and activate with your account. Detailed guides are available on the site."
+        },
+        {
+            "question": "Does Autocut support team collaborations?",
+            "answer": "Yes, multi-user accounts allow teams to share projects and edits seamlessly within Premiere Pro."
+        }
+    ]
+}

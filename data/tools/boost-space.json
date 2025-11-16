@@ -1,0 +1,73 @@
+{
+    "name": "Boost.space",
+    "description": "Boost.space is a no-code platform that centralizes, synchronizes, and automates data across various business tools to streamline workflows and enhance productivity.",
+    "longDescription": "Boost.space is a comprehensive no-code integration platform designed to connect and synchronize data from hundreds of apps and tools without requiring any coding skills. Its mission is to empower businesses to automate repetitive tasks, eliminate data silos, and foster seamless collaboration across teams. By serving as a central data hub, it solves problems like manual data entry, inconsistent information across platforms, and inefficient processes that hinder growth. Users can build custom workflows, integrate AI-powered tools, and gain real-time insights to make data-driven decisions. Overall, Boost.space helps small to medium-sized enterprises optimize their operations and scale efficiently by leveraging automation and integration technologies.",
+    "url": "https://boost.space/?utm_source=ainavdir",
+    "screenshot": "/screenshot/boost.space.webp",
+    "category": "AI Workflow",
+    "categorySlug": "ai-workflow",
+    "slug": "boost-space",
+    "categories": [
+        "AI Workflow",
+        "AI For Data Analytics",
+        "No-Code&Low-Code",
+        "AI Predictions",
+        "AI Tools Directory",
+        "AI Business Ideas Generator",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Data Synchronization: Automatically syncs data in real-time across connected apps to ensure consistency and reduce manual updates.",
+        "No-Code Integrations: Allows users to connect over 1,500 apps without writing code, making it accessible for non-technical users.",
+        "Custom Workflows: Enables the creation of automated workflows that trigger actions based on specific events, streamlining business processes.",
+        "Central Data Hub: Provides a unified dashboard to view and manage all integrated data in one place for better oversight.",
+        "AI-Powered Mapping: Uses intelligent algorithms to automatically map data fields between apps, saving time on setup.",
+        "Real-Time Notifications: Sends instant alerts for data changes or workflow events, keeping teams informed and responsive.",
+        "Scalable Plans: Offers flexible pricing tiers that grow with business needs, from free basics to enterprise-level features.",
+        "Security and Compliance: Ensures data protection with encryption and compliance standards like GDPR for safe integrations.",
+        "Analytics and Insights: Generates reports on data flows and automation performance to help optimize operations.",
+        "Template Library: Provides pre-built integration templates for common use cases, accelerating setup for new users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Boost.space primarily used for?",
+            "answer": "Boost.space is used for integrating and synchronizing data across various business applications to automate workflows and eliminate data silos. It helps users manage information from tools like CRM, email, and project management systems in a centralized hub."
+        },
+        {
+            "question": "Does Boost.space require coding knowledge?",
+            "answer": "No, Boost.space is a no-code platform, allowing users to set up integrations and automations through a user-friendly interface without any programming skills."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Boost.space offers a free plan with limited integrations and data syncs, ideal for small teams or testing the platform before upgrading."
+        },
+        {
+            "question": "How many apps can I integrate with Boost.space?",
+            "answer": "Boost.space supports integrations with over 1,500 popular apps, including Google Workspace, Microsoft Office, Slack, and various CRM systems."
+        },
+        {
+            "question": "Can Boost.space handle real-time data synchronization?",
+            "answer": "Yes, it provides real-time data syncing, ensuring that changes in one app are immediately reflected in connected systems to maintain up-to-date information."
+        },
+        {
+            "question": "What kind of support does Boost.space offer?",
+            "answer": "Boost.space provides customer support through email, live chat, and a knowledge base, with premium plans including priority assistance and dedicated account managers."
+        },
+        {
+            "question": "Is Boost.space secure for business data?",
+            "answer": "Yes, it employs robust security measures like data encryption, secure APIs, and compliance with standards such as GDPR to protect user data."
+        },
+        {
+            "question": "How does Boost.space differ from Zapier?",
+            "answer": "While similar to Zapier in automation, Boost.space focuses more on deep data synchronization and centralization, offering a unified hub for managing all integrations."
+        },
+        {
+            "question": "Can I use Boost.space for AI tool integrations?",
+            "answer": "Yes, Boost.space supports integrations with AI-powered tools, allowing users to incorporate intelligent automation into their workflows."
+        },
+        {
+            "question": "What are the pricing options for Boost.space?",
+            "answer": "Pricing starts with a free tier, followed by paid plans ranging from basic to enterprise, based on the number of integrations, data volume, and advanced features."
+        }
+    ]
+}

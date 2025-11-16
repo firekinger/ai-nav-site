@@ -1,0 +1,62 @@
+{
+    "name": "WonsultingAI",
+    "description": "WonsultingAI provides AI-powered tools to streamline job searches, offering resume building, cover letter generation, and interview preparation.",
+    "longDescription": "WonsultingAI is an AI-driven platform designed to assist job seekers in landing their dream jobs by providing tools for resume creation, job application automation, and interview preparation. Founded with a mission to help underdogs and non-traditional candidates succeed, it leverages machine learning and natural language processing to create tailored, professional application materials. The platform supports users at various career stages, from recent graduates to experienced professionals, by simplifying time-consuming tasks like networking and crafting ATS-friendly resumes. Its suite of tools, including ResumAI, CoverLetterAI, and NetworkAI, empowers users to stand out in competitive job markets. WonsultingAI offers both free and premium plans, making it accessible to a wide range of job seekers. The platform also provides strategic guidance to improve interview performance and networking efficiency, helping users turn rejections into job offers.",
+    "url": "https://www.wonsulting.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.wonsulting.ai.webp",
+    "category": "AI Resume Builder",
+    "categorySlug": "ai-resume-builder",
+    "slug": "wonsultingai",
+    "categories": [
+        "AI Resume Builder",
+        "AI Cover Letter Generator",
+        "AI Assistant",
+        "AI Interview Assistant",
+        "AI Recruiting",
+        "AI Productivity Tools",
+        "AI Linkedin Headshot"
+    ],
+    "features": [
+        "ResumAI generates tailored, ATS-friendly resumes with professional bullet points to enhance job application success.",
+        "CoverLetterAI creates customized cover letters that align with job descriptions, saving users time and effort.",
+        "NetworkAI crafts personalized LinkedIn messages and cold emails to help users build professional connections efficiently.",
+        "InterviewAI offers virtual mock interviews with tailored questions and feedback to improve interview skills.",
+        "AutoApplyAI automates job applications by matching resumes and cover letters to relevant job listings, streamlining the process.",
+        "JobBoardAI provides a free, AI-powered job board that matches user skills with relevant job postings for a targeted search.",
+        "JobTrackerAI automatically tracks job applications, helping users manage their job search in one centralized platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is WonsultingAI designed to do?",
+            "answer": "WonsultingAI is an AI-powered platform that helps job seekers create professional resumes, cover letters, and prepare for interviews to land jobs faster."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, WonsultingAI offers a free plan that includes access to basic tools like the resume builder, one mock interview, and limited bullet point generation."
+        },
+        {
+            "question": "How does ResumAI improve my resume?",
+            "answer": "ResumAI uses AI to generate tailored bullet points and formats your resume to meet ATS standards, increasing your chances of getting callbacks."
+        },
+        {
+            "question": "Can WonsultingAI help with networking?",
+            "answer": "NetworkAI creates personalized LinkedIn messages and cold emails to help users connect with recruiters and professionals effectively."
+        },
+        {
+            "question": "What is AutoApplyAI, and how does it work?",
+            "answer": "AutoApplyAI automates job applications by matching your resume and cover letter to job listings, allowing users to apply to multiple jobs quickly."
+        },
+        {
+            "question": "How does InterviewAI assist with interview preparation?",
+            "answer": "InterviewAI provides personalized mock interviews with job-specific questions and feedback to help users improve their interview performance."
+        },
+        {
+            "question": "Can I delete my WonsultingAI account?",
+            "answer": "Yes, users can delete their account by navigating to the 'Settings' section, selecting the 'Account' tab, and choosing 'Delete Account.'"
+        },
+        {
+            "question": "What happens if I reach the usage limit on the free plan?",
+            "answer": "If you hit the usage limit, you’ll receive a notification, and you can contact support at hello@wonsulting.com to resolve the issue or upgrade to a premium plan."
+        }
+    ]
+}

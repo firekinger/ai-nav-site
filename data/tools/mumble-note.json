@@ -1,0 +1,84 @@
+{
+    "name": "Mumble Note",
+    "description": "Mumble Note is the fastest AI voice notetaker that instantly converts spoken meetings, tasks, ideas, and notes into organized outputs like summaries, to-dos, and transcripts.",
+    "longDescription": "Mumble Note is an AI-powered mobile app designed to capture and organize spoken content efficiently. It transforms voice recordings from meetings, brainstorming sessions, or quick thoughts into structured notes, action items, and insights using advanced language models. The mission is to help users, including professionals, creators, and everyday individuals, save time by automating note-taking and ensuring ideas are never lost. By focusing on privacy and seamless integrations, it solves the problem of scattered thoughts and inefficient manual transcription. Users can record up to two hours of audio, translate into multiple languages, and even chat with AI for further analysis.",
+    "url": "https://www.mumblenote.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mumblenote.com.webp",
+    "category": "AI Transcription",
+    "categorySlug": "ai-transcription",
+    "slug": "mumble-note",
+    "categories": [
+        "AI Transcription",
+        "AI Note Taker",
+        "AI Summarizer",
+        "AI Task Management",
+        "AI Translate",
+        "AI Chat Generator",
+        "AI Mind Mapping",
+        "AI Speech-to-Text"
+    ],
+    "features": [
+        "Agent Mode automatically organizes notes into appropriate collections, enhancing user productivity by reducing manual sorting.",
+        "Translation feature transcribes or converts notes into over 40 languages, making it accessible for multilingual users.",
+        "Apple Watch Integration allows note-taking directly from the wrist, providing convenience for on-the-go recording.",
+        "Widgets offer one-tap access to start capturing notes, streamlining the user experience.",
+        "Personal Vocab enables users to teach the app specific terms it remembers, improving accuracy in specialized fields.",
+        "Long Recordings support up to 2 hours in a single session, ideal for extended meetings or discussions.",
+        "Top-tier AI Models utilize advanced large language models to generate high-quality, formatted notes.",
+        "Dark Mode provides eye comfort for users working in low-light environments.",
+        "Chat with AI lets users query their notes or search the web for answers, adding interactive intelligence.",
+        "Privacy First ensures notes are encrypted with sensitive information automatically protected.",
+        "Integrations sync with other apps, facilitating seamless workflow across platforms.",
+        "Image and Voice Input allows speaking, typing, or adding images, with instant reformatting into meaningful outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mumble Note?",
+            "answer": "Mumble Note is an AI-driven voice notetaker app that converts spoken content into organized notes, summaries, and to-dos instantly."
+        },
+        {
+            "question": "What do I use Mumble Note for?",
+            "answer": "You can use it for recording meetings, capturing ideas, managing tasks, brainstorming, and turning voice notes into actionable outputs."
+        },
+        {
+            "question": "Can I use Mumble Note to record meetings?",
+            "answer": "Yes, it captures full-length conversations, generates summaries, decisions, follow-ups, and transcripts for meetings."
+        },
+        {
+            "question": "What Large Language Models does Mumble Note use?",
+            "answer": "It utilizes top-tier AI models for processing voice to text and generating structured notes."
+        },
+        {
+            "question": "On which platforms is Mumble Note available?",
+            "answer": "Mumble Note is available on iPhone and Apple Watch via the App Store."
+        },
+        {
+            "question": "What integrations do you have?",
+            "answer": "It supports syncing with other apps, though specific integrations may vary; check the app for details."
+        },
+        {
+            "question": "How do you ensure the privacy and safety of my notes?",
+            "answer": "Notes are processed securely with automatic encryption of names and sensitive information, prioritizing user privacy."
+        },
+        {
+            "question": "How do I contact the Mumble Note team?",
+            "answer": "You can reach out via the contact section on the website or through app support."
+        },
+        {
+            "question": "Does Mumble Note support multiple languages?",
+            "answer": "Yes, it transcribes and translates notes into over 40 languages."
+        },
+        {
+            "question": "Is there a limit on recording length?",
+            "answer": "You can record up to 2 hours in a single note."
+        },
+        {
+            "question": "Can I add images to my notes?",
+            "answer": "Yes, you can drop in images along with voice or text input for reformatting."
+        },
+        {
+            "question": "What is Agent Mode?",
+            "answer": "Agent Mode automatically adds notes to the right collections for better organization."
+        }
+    ]
+}

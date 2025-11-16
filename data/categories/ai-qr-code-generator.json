@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI QR Code Generator Tools in 2025",
+    "summary": "Unlock the power of seamless connectivity with our AI QR Code Generator category. These innovative tools enable you to create customized QR codes effortlessly, enhancing your marketing strategies and streamlining information sharing. With features like dynamic tracking and design personalization, you can engage your audience more effectively. Whether you're a business owner, marketer, or event planner, our AI-driven solutions cater to your unique needs. Explore our curated selection of AI QR Code Generators today and elevate your digital interactions!",
+    "tools": [
+        {
+            "id": "508",
+            "name": "Pincel",
+            "slug": "pincel",
+            "description": "Pincel is an AI-powered online image editing app that simplifies photo manipulation for users of all skill levels.",
+            "icon": "/logo/pincel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-qr-code-generator"
+            ]
+        },
+        {
+            "id": "532",
+            "name": "MyQRcode",
+            "slug": "myqrcode",
+            "description": "MyQRcode is a platform for creating customizable QR codes for businesses, events, and personal use with AI-driven design options.",
+            "icon": "/logo/myqrcode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-qr-code-generator"
+            ]
+        },
+        {
+            "id": "787",
+            "name": "PicSee",
+            "slug": "picsee",
+            "description": "PicSee is a cloud-based URL shortening platform that enhances link management and marketing analytics.",
+            "icon": "/logo/picsee.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-qr-code-generator"
+            ]
+        },
+        {
+            "id": "1320",
+            "name": "VuePak",
+            "slug": "vuepak",
+            "description": "VuePak is an AI-powered platform for seamless file transfer and media management across devices.",
+            "icon": "/logo/www.vuepak.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-qr-code-generator"
+            ]
+        }
+    ]
+}

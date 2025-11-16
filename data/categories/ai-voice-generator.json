@@ -1,0 +1,303 @@
+{
+    "title": "The Best 27 AI Voice Generator Tools in 2025",
+    "summary": "Discover the power of AI Voice Generators, designed to transform text into lifelike speech with remarkable clarity and emotion. These innovative tools cater to diverse needs, from enhancing accessibility in content to creating engaging voiceovers for videos and presentations. With customizable options and multilingual support, users can easily find the perfect voice for any project. Explore our curated selection of AI Voice Generators today and elevate your audio content to new heights. Start your journey towards seamless communication and creativity—dive into the tools now!",
+    "tools": [
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "347",
+            "name": "Murf AI",
+            "slug": "murf-ai",
+            "description": "Murf AI is an AI-powered text-to-speech platform that creates realistic voiceovers for various content needs.",
+            "icon": "/logo/murf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "350",
+            "name": "Voicemaker",
+            "slug": "voicemaker",
+            "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+            "icon": "/logo/voicemaker.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "388",
+            "name": "Typecast",
+            "slug": "typecast",
+            "description": "Typecast is an AI voice generator that transforms text into realistic, emotion-driven speech and creates engaging video content with virtual avatars.",
+            "icon": "/logo/typecast.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "426",
+            "name": "Deepgram",
+            "slug": "deepgram",
+            "description": "Deepgram provides advanced AI-powered speech-to-text, text-to-speech, and voice agent solutions for enterprise voice applications.",
+            "icon": "/logo/deepgram.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "464",
+            "name": "Ssemble",
+            "slug": "ssemble",
+            "description": "Ssemble is an AI-powered online video editor that transforms long-form videos into engaging short-form content for social media platforms.",
+            "icon": "/logo/www.ssemble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "484",
+            "name": "BasedLabs",
+            "slug": "basedlabs-ai",
+            "description": "BasedLabs is an AI-powered platform for generating and editing images and videos, catering to creators and enthusiasts.",
+            "icon": "/logo/www.basedlabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "489",
+            "name": "LOVO AI",
+            "slug": "lovo-ai",
+            "description": "LOVO AI is an AI-powered platform for generating realistic voiceovers and creating professional videos with text-to-speech technology.",
+            "icon": "/logo/lovo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "507",
+            "name": "Sense",
+            "slug": "sense",
+            "description": "Sense provides an AI-powered talent engagement platform to streamline recruiting and enhance candidate experiences.",
+            "icon": "/logo/www.sensehq.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "566",
+            "name": "Aidocmaker",
+            "slug": "aidocmaker",
+            "description": "Aidocmaker is an AI-powered platform for creating documents, presentations, voiceovers, and images to boost productivity across industries.",
+            "icon": "/logo/www.aidocmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "663",
+            "name": "Gupshup",
+            "slug": "gupshup",
+            "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+            "icon": "/logo/www.gupshup.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "703",
+            "name": "Gooey.AI",
+            "slug": "gooey-ai",
+            "description": "Gooey.AI is a low-code AI orchestration platform that simplifies the integration and deployment of generative AI workflows for developers and businesses.",
+            "icon": "/logo/gooey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "753",
+            "name": "Listnr AI",
+            "slug": "listnr-ai",
+            "description": "Listnr AI is an advanced platform that transforms text into lifelike speech, offering over 1,000 voices in 142+ languages for content creators, educators, and businesses.",
+            "icon": "/logo/listnr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "755",
+            "name": "Covers.ai",
+            "slug": "covers-ai",
+            "description": "Covers.ai provides AI-powered tools for artists, creators, and fans to generate viral music covers, remixes, and TikTok content.",
+            "icon": "/logo/www.covers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "790",
+            "name": "VoiceDub",
+            "slug": "voicedub-ai",
+            "description": "VoiceDub is an AI-powered platform for creating high-quality voice covers, voiceovers, and audio content using advanced voice cloning and text-to-speech technologies.",
+            "icon": "/logo/voicedub.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "TTSOpenAI",
+            "slug": "ttsopenai",
+            "description": "TTSOpenAI provides advanced AI-powered text-to-speech services to convert text into natural-sounding audio for various applications.",
+            "icon": "/logo/ttsopenai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "889",
+            "name": "Coefont Cloud",
+            "slug": "coefont-cloud",
+            "description": "Coefont Cloud is an AI-driven platform providing high-quality voice synthesis services for generating natural-sounding speech from text, catering to creators in media, entertainment, and education.",
+            "icon": "/logo/coefont.cloud.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "902",
+            "name": "Cartesia",
+            "slug": "cartesia-ai",
+            "description": "Cartesia is an AI platform specializing in real-time generative voice technology for developers to create interactive and immersive audio experiences.",
+            "icon": "/logo/cartesia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "905",
+            "name": "LoveVoice AI",
+            "slug": "lovevoice-ai",
+            "description": "LoveVoice.ai is an AI-powered platform that enables users to generate personalized, emotional voice messages for romantic or affectionate purposes.",
+            "icon": "/logo/lovevoice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "943",
+            "name": "DesiVocal",
+            "slug": "desivocal",
+            "description": "DesiVocal is an AI-powered platform specializing in voice generation and conversion with a focus on South Asian accents, languages, and cultural nuances.",
+            "icon": "/logo/www.desivocal.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1080",
+            "name": "Kore.ai",
+            "slug": "kore-ai",
+            "description": "Kore.ai is a leading conversational AI platform that empowers enterprises to build, deploy, and manage intelligent virtual assistants and chatbots for enhanced customer and employee experiences.",
+            "icon": "/logo/kore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1120",
+            "name": "MakeUGC",
+            "slug": "makeugc-ai",
+            "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+            "icon": "/logo/www.makeugc.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1212",
+            "name": "ChatAI",
+            "slug": "chatai",
+            "description": "ChatAI is an AI-powered platform that provides conversational AI tools for personal and business use, enabling users to interact with intelligent chatbots for various tasks.",
+            "icon": "/logo/chatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1376",
+            "name": "Aivo3",
+            "slug": "aivo3",
+            "description": "Aivo3 is an AI-powered platform specializing in voice generation and conversion for creative and professional applications.",
+            "icon": "/logo/aivo3.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1409",
+            "name": "Verbite",
+            "slug": "verbite",
+            "description": "Verbite is an AI-powered platform specializing in voice generation and conversion for content creators, educators, and businesses.",
+            "icon": "/logo/verbite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1410",
+            "name": "Vo3AI",
+            "slug": "vo3ai",
+            "description": "Vo3AI is an AI-driven platform specializing in voice generation, conversion, and audio enhancement tools for creative and professional use.",
+            "icon": "/logo/vo3ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        },
+        {
+            "id": "1317",
+            "name": "Vaanee",
+            "slug": "vaanee",
+            "description": "Vaanee Labs offers AI-driven voice cloning, text-to-speech, speech-to-speech translation, and video dubbing services with multilingual and hyper-realistic voice generation capabilities.",
+            "icon": "/logo/www.vaanee.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-generator"
+            ]
+        }
+    ]
+}

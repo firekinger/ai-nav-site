@@ -1,0 +1,70 @@
+{
+    "name": "Kapwing",
+    "description": "Kapwing is an online platform for creating and editing videos, images, and GIFs with user-friendly tools.",
+    "longDescription": "Kapwing is a versatile online content creation platform designed to simplify video, image, and GIF editing for creators, marketers, and casual users. Its mission is to empower users to produce professional-quality content without needing advanced technical skills or expensive software. The platform offers a collaborative workspace, enabling teams to work together seamlessly on projects in real time. Kapwing serves a wide range of users, from social media influencers crafting engaging posts to businesses producing marketing materials. By leveraging intuitive tools and AI-driven features, it streamlines the editing process and reduces barriers to content creation. The platform continues to evolve, integrating modern trends like AI-enhanced editing to meet diverse creative needs.",
+    "url": "https://kapwing.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/kapwing.com.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "kapwing",
+    "categories": [
+        "AI Video Editor",
+        "AI Photo Editor",
+        "Text to Video",
+        "AI Background Remover",
+        "AI Text-to-Speech",
+        "AI Meme Generator",
+        "AI Social Media Post Generator",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Kapwing’s video editor allows users to trim, crop, and add effects to videos with a simple drag-and-drop interface, enabling quick content creation.",
+        "The platform’s subtitle generator automatically creates accurate captions for videos, improving accessibility and engagement.",
+        "Kapwing’s meme generator lets users create viral memes with customizable templates, perfect for social media sharing.",
+        "The image editor provides tools to resize, crop, and enhance images, making it ideal for creating social media graphics.",
+        "The AI-powered text-to-speech feature converts text into natural-sounding voiceovers, enhancing video projects.",
+        "Kapwing’s collaboration tools enable multiple users to edit projects simultaneously, streamlining team workflows.",
+        "The platform offers a library of royalty-free music and sound effects, allowing users to add professional audio to their content.",
+        "Kapwing’s GIF maker lets users convert videos into high-quality GIFs, optimized for web and social platforms.",
+        "The resize tool automatically adjusts content dimensions for platforms like Instagram, TikTok, and YouTube, saving time.",
+        "Kapwing’s AI-driven background removal tool isolates subjects in images or videos, simplifying complex edits.",
+        "The platform supports direct export to social media, enabling seamless sharing of finished content.",
+        "Kapwing’s cloud-based storage ensures projects are accessible from anywhere, enhancing user flexibility.",
+        "The text overlay feature allows users to add stylized text to videos and images, boosting visual appeal.",
+        "Kapwing’s template library provides pre-designed layouts for quick creation of professional-grade content."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kapwing used for?",
+            "answer": "Kapwing is used for creating and editing videos, images, and GIFs with easy-to-use tools, ideal for social media, marketing, and personal projects."
+        },
+        {
+            "question": "Is Kapwing free to use?",
+            "answer": "Kapwing offers a free plan with access to core editing tools, though some advanced features and higher export quality require a paid subscription."
+        },
+        {
+            "question": "Can I collaborate with others on Kapwing?",
+            "answer": "Yes, Kapwing’s collaboration tools allow multiple users to edit projects in real time, making it great for team workflows."
+        },
+        {
+            "question": "Does Kapwing support subtitle generation?",
+            "answer": "Yes, Kapwing’s AI-powered subtitle generator automatically creates accurate captions for videos to enhance accessibility."
+        },
+        {
+            "question": "Can I export content directly to social media from Kapwing?",
+            "answer": "Kapwing allows users to export content directly to platforms like Instagram, TikTok, and YouTube for seamless sharing."
+        },
+        {
+            "question": "What file formats does Kapwing support?",
+            "answer": "Kapwing supports common formats like MP4, JPEG, PNG, and GIF for both import and export, ensuring compatibility with most platforms."
+        },
+        {
+            "question": "Is Kapwing suitable for beginners?",
+            "answer": "Yes, Kapwing’s intuitive interface and templates make it accessible for beginners while offering advanced tools for experienced users."
+        },
+        {
+            "question": "Does Kapwing offer AI-powered tools?",
+            "answer": "Kapwing includes AI-driven features like background removal, text-to-speech, and subtitle generation to streamline editing tasks."
+        }
+    ]
+}

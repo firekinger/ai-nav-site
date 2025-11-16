@@ -1,0 +1,149 @@
+{
+    "title": "The Best 13 AI Video Translator Tools in 2025",
+    "summary": "Unlock the power of global communication with our AI Video Translator tools. Designed to break language barriers, these innovative solutions effortlessly translate video content, making it accessible to diverse audiences. Key benefits include enhanced viewer engagement, improved reach, and streamlined content creation. Whether you're a marketer, educator, or content creator, our AI Video Translators simplify the localization process, saving you time and resources. Explore our curated selection of tools today and elevate your video content to a worldwide audience!",
+    "tools": [
+        {
+            "id": "112",
+            "name": "HeyGen",
+            "slug": "heygen",
+            "description": "HeyGen is an AI-powered platform for creating and localizing professional videos with customizable avatars and voiceovers.",
+            "icon": "/logo/app.heygen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "146",
+            "name": "Immersive Translate",
+            "slug": "immersive-translate",
+            "description": "Immersive Translate provides AI-powered translation for web content, documents, and e-books to enhance multilingual accessibility.",
+            "icon": "/logo/immersivetranslate.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "1283",
+            "name": "Vidfly.ai",
+            "slug": "vidfly-ai",
+            "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+            "icon": "/logo/vidfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "285",
+            "name": "Language Reactor",
+            "slug": "language-reactor",
+            "description": "Language Reactor is a powerful tool for immersive language learning through videos and interactive subtitles.",
+            "icon": "/logo/www.languagereactor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "612",
+            "name": "DupDub",
+            "slug": "dupdub",
+            "description": "DupDub is an AI-powered platform for creating realistic voiceovers, animated avatars, and multimedia content.",
+            "icon": "/logo/www.dupdub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "631",
+            "name": "RecCloud",
+            "slug": "reccloud",
+            "description": "RecCloud is an AI-powered multimedia platform offering tools for video and audio creation, editing, and cloud storage.",
+            "icon": "/logo/reccloud.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "777",
+            "name": "Elai.io",
+            "slug": "elai-io",
+            "description": "Elai.io is an AI-powered platform that transforms text into high-quality, interactive video content with digital human presenters.",
+            "icon": "/logo/elai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "Hunyuan Video AI",
+            "slug": "hunyuan-video-ai",
+            "description": "Hunyuan Video AI is an advanced platform that leverages artificial intelligence to generate and edit videos from text prompts and images.",
+            "icon": "/logo/hunyuanvideoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "895",
+            "name": "TransMonkey",
+            "slug": "transmonkey-ai",
+            "description": "TransMonkey is an AI-powered platform that translates videos, audio, and text into multiple languages with voice dubbing and subtitles for global content accessibility.",
+            "icon": "/logo/www.transmonkey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "1120",
+            "name": "MakeUGC",
+            "slug": "makeugc-ai",
+            "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+            "icon": "/logo/www.makeugc.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-translator"
+            ]
+        },
+        {
+            "id": "1329",
+            "name": "Veo",
+            "slug": "www-veo",
+            "description": "Veo is an AI-powered platform specializing in video generation and editing tools for creators and businesses.",
+            "icon": "/logo/www-veo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-translator"
+            ]
+        }
+    ]
+}

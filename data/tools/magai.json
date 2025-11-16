@@ -1,0 +1,73 @@
+{
+    "name": "Magai",
+    "description": "Magai is an AI-powered platform that provides a unified chat interface for accessing multiple leading AI models to assist with writing, coding, research, and creative tasks.",
+    "longDescription": "Magai is a comprehensive AI tool designed to streamline access to various large language models (LLMs) like GPT, Claude, and others through a single, user-friendly interface. Its mission is to empower users by combining the strengths of different AIs, making it easier to switch between models for optimal results without needing multiple subscriptions. The platform serves content creators, developers, researchers, and professionals by offering customizable AI assistants that can handle tasks from brainstorming ideas to generating code. It solves problems like model fragmentation in the AI space by providing a centralized hub, reducing the time and cost associated with using isolated tools. Users benefit from features like prompt optimization and conversation management, enhancing productivity across diverse applications. Overall, Magai democratizes advanced AI capabilities, making them accessible for both personal and professional use.",
+    "url": "https://magai.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/magai.co.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "magai",
+    "categories": [
+        "AI Chat Generator",
+        "AI Assistant",
+        "AI Prompt Generator",
+        "AI Code Generator",
+        "AI Research Tool",
+        "AI Productivity Tools",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Unified AI Access allows users to interact with multiple AI models like GPT-4, Claude, and Llama in one chat interface, simplifying workflows and reducing the need for switching apps.",
+        "Customizable Assistants enable users to create tailored AI personas for specific tasks, such as writing or coding, improving relevance and efficiency in responses.",
+        "Prompt Library offers pre-built prompts for common scenarios, helping users generate high-quality outputs quickly without starting from scratch.",
+        "Conversation Management tools let users organize, search, and resume chats easily, maintaining context across sessions for better productivity.",
+        "Real-time Collaboration features support team-based AI interactions, allowing multiple users to work on projects simultaneously with AI assistance.",
+        "Integration with Tools connects Magai to external services like Google Drive or Slack, enhancing its utility in everyday workflows.",
+        "Advanced Analytics provide insights into AI usage and response quality, helping users refine their interactions over time.",
+        "Mobile Accessibility ensures users can access AI features on-the-go via a responsive web or app interface, maintaining functionality across devices.",
+        "Security and Privacy controls protect user data with encryption and compliance standards, building trust for sensitive tasks.",
+        "Multilingual Support enables interactions in various languages, broadening accessibility for global users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Magai?",
+            "answer": "Magai is an AI platform that integrates multiple leading AI models into a single chat interface for tasks like writing, coding, and research. It allows users to leverage the best features of different AIs without managing separate accounts."
+        },
+        {
+            "question": "Does Magai offer a free plan?",
+            "answer": "Yes, Magai provides a free tier with limited access to core features and AI models. Users can upgrade to paid plans for unlimited usage and advanced capabilities."
+        },
+        {
+            "question": "How does Magai differ from ChatGPT?",
+            "answer": "Unlike ChatGPT, which is tied to OpenAI's models, Magai offers access to a variety of AI models from different providers in one place. This allows users to choose the best model for each task and customize their experience more flexibly."
+        },
+        {
+            "question": "Can I use Magai for coding tasks?",
+            "answer": "Absolutely, Magai supports coding by integrating models skilled in programming languages, offering features like code generation, debugging, and explanations. It's beneficial for developers at all levels."
+        },
+        {
+            "question": "Is Magai secure for business use?",
+            "answer": "Magai prioritizes security with data encryption, compliance with standards like GDPR, and options for private deployments. It's suitable for business environments handling sensitive information."
+        },
+        {
+            "question": "What AI models are available on Magai?",
+            "answer": "Magai includes popular models such as GPT-4, Claude 3, Llama 2, and others, with regular updates to add new ones. Users can select models based on their specific needs for accuracy or creativity."
+        },
+        {
+            "question": "How do I create a custom assistant in Magai?",
+            "answer": "Users can create custom assistants by defining personas, prompts, and preferred models in the settings. This customization tailors responses to specific workflows, like marketing or education."
+        },
+        {
+            "question": "Does Magai support team collaboration?",
+            "answer": "Yes, Magai offers shared workspaces where teams can collaborate on AI-driven projects in real-time. Features include comment sharing and version control for conversations."
+        },
+        {
+            "question": "Can Magai generate images or multimedia?",
+            "answer": "Currently, Magai focuses on text-based AI, but integrations with image generation tools are available via APIs. Future updates may expand native multimedia capabilities."
+        },
+        {
+            "question": "What pricing options does Magai have?",
+            "answer": "Magai offers tiered pricing starting from free, with paid plans ranging from $10 to $50 per month based on usage limits and features. Enterprise options are available for larger teams."
+        }
+    ]
+}

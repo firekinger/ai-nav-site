@@ -1,0 +1,70 @@
+{
+    "name": "Rize",
+    "description": "Rize is an AI-powered time tracking tool that automatically monitors and analyzes your work habits to improve productivity and prevent burnout.",
+    "longDescription": "Rize is an intelligent time tracking application designed to help users understand and optimize how they spend their time on computers without manual logging. Its mission is to promote better work-life balance by providing insights into focus, distractions, and overall productivity patterns using AI-driven analysis. The tool serves professionals, remote workers, and teams by categorizing activities across apps and websites, offering actionable recommendations to enhance efficiency. It solves problems like time mismanagement and burnout by alerting users to excessive work hours and suggesting breaks. Ultimately, Rize empowers users to make data-informed decisions about their daily routines and work habits.",
+    "url": "https://rize.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/rize.io.webp",
+    "category": "AI Productivity Tools",
+    "categorySlug": "ai-productivity-tools",
+    "slug": "rize",
+    "categories": [
+        "AI Productivity Tools",
+        "AI Text Classifier",
+        "AI Report Writing",
+        "AI Calendar"
+    ],
+    "features": [
+        "Automatic time tracking captures every second spent on apps and websites without requiring manual input, providing accurate data on daily activities.",
+        "AI-powered categorization intelligently groups time into projects, meetings, and distractions to give a clear picture of productivity.",
+        "Focus mode helps users maintain concentration by blocking distracting websites and notifying them of potential interruptions.",
+        "Daily and weekly reports deliver insightful summaries of time usage, highlighting trends and areas for improvement.",
+        "Burnout prevention features monitor work hours and send alerts to encourage breaks and maintain healthy work-life balance.",
+        "Customizable goals allow users to set personal productivity targets and track progress towards achieving them.",
+        "Integration with calendar apps syncs meetings and events to provide context-aware time analysis.",
+        "Real-time dashboard offers live views of current activities and focus levels for immediate adjustments.",
+        "Privacy-focused design ensures all data is stored locally on the user's device with optional cloud sync.",
+        "Team insights enable managers to view aggregated, anonymized data for improving group productivity without invading privacy."
+    ],
+    "faqs": [
+        {
+            "question": "What is Rize and how does it work?",
+            "answer": "Rize is an AI-based time tracking tool that automatically logs time spent on various apps and websites. It uses machine learning to categorize activities and provide insights into productivity patterns."
+        },
+        {
+            "question": "Does Rize require manual time entry?",
+            "answer": "No, Rize tracks time automatically in the background, eliminating the need for manual start/stop timers or entries."
+        },
+        {
+            "question": "Is Rize suitable for teams?",
+            "answer": "Yes, Rize offers team features that allow managers to view aggregated productivity data while maintaining individual privacy."
+        },
+        {
+            "question": "How does Rize help prevent burnout?",
+            "answer": "Rize monitors work hours and focus levels, sending notifications for breaks and alerting users when they approach excessive work thresholds."
+        },
+        {
+            "question": "What platforms does Rize support?",
+            "answer": "Rize is available for macOS and Windows, with desktop apps that run in the background to track activities."
+        },
+        {
+            "question": "Is my data secure with Rize?",
+            "answer": "Yes, Rize prioritizes privacy by storing data locally on your device and using encryption for any cloud-sync features."
+        },
+        {
+            "question": "Can Rize integrate with other tools?",
+            "answer": "Rize integrates with popular calendar apps like Google Calendar and Outlook to contextualize time tracking with scheduled events."
+        },
+        {
+            "question": "What kind of reports does Rize provide?",
+            "answer": "Rize offers daily, weekly, and custom reports that break down time usage, focus sessions, and productivity trends with visual charts."
+        },
+        {
+            "question": "How accurate is Rize's AI categorization?",
+            "answer": "The AI improves over time with user feedback, achieving high accuracy in categorizing activities based on patterns and contexts."
+        },
+        {
+            "question": "Does Rize have mobile support?",
+            "answer": "Currently, Rize focuses on desktop tracking, but users can view reports and insights via a web dashboard on mobile devices."
+        }
+    ]
+}

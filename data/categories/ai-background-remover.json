@@ -1,0 +1,831 @@
+{
+    "title": "The Best 76 AI Background Remover Tools in 2025",
+    "summary": "Discover the power of AI Background Removers, designed to effortlessly enhance your images by removing unwanted backgrounds in seconds. These innovative tools streamline your workflow, saving you time and effort while delivering professional-quality results. Perfect for photographers, marketers, and content creators, our curated selection of AI-driven solutions ensures you can focus on what truly matters—your creativity. Explore our collection today and transform your visuals with ease!",
+    "tools": [
+        {
+            "id": "10",
+            "name": "Remove.bg",
+            "slug": "remove-bg",
+            "description": "Remove.bg is a tool for automatically removing backgrounds from images with ease.",
+            "icon": "/logo/remove.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "46",
+            "name": "PhotoRoom",
+            "slug": "photoroom",
+            "description": "PhotoRoom is an AI-powered photo editing platform that simplifies creating professional-quality images for businesses and individuals.",
+            "icon": "/logo/photoroom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "Pixelcut",
+            "slug": "pixelcut",
+            "description": "Pixelcut is an AI-powered photo editor designed to simplify and enhance image creation for e-commerce, social media, and personal projects.",
+            "icon": "/logo/pixelcut.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Cutout.Pro",
+            "slug": "cutout-pro",
+            "description": "Cutout.Pro is an AI-powered platform for automated photo and video editing, specializing in background removal and visual content creation.",
+            "icon": "/logo/cutout.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "135",
+            "name": "123RF",
+            "slug": "123rf",
+            "description": "123RF is a royalty-free stock photography platform offering millions of images, vectors, videos, and audio for creative projects.",
+            "icon": "/logo/www.123rf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "Pica AI",
+            "slug": "pica-ai",
+            "description": "Pica AI provides AI-powered tools for creating and editing images, videos, and avatars with advanced customization options.",
+            "icon": "/logo/www.pica-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "82",
+            "name": "PicWish",
+            "slug": "picwish",
+            "description": "PicWish is an AI-powered photo editing platform for effortless background removal, image enhancement, and professional-grade edits.",
+            "icon": "/logo/picwish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "156",
+            "name": "Kapwing",
+            "slug": "kapwing",
+            "description": "Kapwing is an online platform for creating and editing videos, images, and GIFs with user-friendly tools.",
+            "icon": "/logo/kapwing.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "169",
+            "name": "PicLumen",
+            "slug": "piclumen",
+            "description": "PicLumen is an AI-powered platform for generating and editing high-quality images for creative and professional use.",
+            "icon": "/logo/www.piclumen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "175",
+            "name": "SnapEdit",
+            "slug": "snapedit",
+            "description": "SnapEdit is an AI-powered photo editing platform designed to simplify and enhance image editing for users of all skill levels.",
+            "icon": "/logo/snapedit.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "BeFunky",
+            "slug": "befunky",
+            "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+            "icon": "/logo/www.befunky.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "200",
+            "name": "Artguru",
+            "slug": "artguru",
+            "description": "Artguru is an AI-powered platform for creating and editing stunning digital art and images.",
+            "icon": "/logo/www.artguru.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "203",
+            "name": "Recraft",
+            "slug": "recraft",
+            "description": "Recraft is an AI-powered design platform for creating professional-grade graphics, illustrations, and digital art.",
+            "icon": "/logo/www.recraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "204",
+            "name": "iFoto",
+            "slug": "ifoto",
+            "description": "iFoto is an AI-powered platform for enhancing and editing photos for personal and e-commerce use.",
+            "icon": "/logo/www.ifoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "Kittl",
+            "slug": "kittl",
+            "description": "Kittl is an AI-powered design platform for creating professional-grade graphics and branding materials.",
+            "icon": "/logo/www.kittl.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "220",
+            "name": "Insmind",
+            "slug": "insmind",
+            "description": "Insmind is an AI-powered platform for creating and editing images, offering tools for design, photo enhancement, and background removal.",
+            "icon": "/logo/www.insmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "221",
+            "name": "VMake",
+            "slug": "vmake",
+            "description": "VMake provides AI-powered tools for creating and editing professional-grade images and videos for e-commerce and marketing.",
+            "icon": "/logo/vmake.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "247",
+            "name": "Airbrush",
+            "slug": "airbrush",
+            "description": "Airbrush provides AI-powered tools for creating and editing high-quality images and videos for personal and professional use.",
+            "icon": "/logo/airbrush.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "263",
+            "name": "Pixnova AI",
+            "slug": "pixnova-ai",
+            "description": "Pixnova AI offers advanced AI-powered image generation and editing tools for creative professionals and enthusiasts.",
+            "icon": "/logo/pixnova.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "270",
+            "name": "Magic Studio",
+            "slug": "magic-studio",
+            "description": "Magic Studio provides AI-powered tools for creating and editing stunning images effortlessly.",
+            "icon": "/logo/magicstudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "276",
+            "name": "TopMediai",
+            "slug": "topmediai",
+            "description": "TopMediai provides AI-powered tools for audio, image, and video processing to enhance creative and professional projects.",
+            "icon": "/logo/www.topmediai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "279",
+            "name": "PhotoGrid",
+            "slug": "photogrid",
+            "description": "PhotoGrid is an online platform for creating photo collages, videos, and graphic designs with user-friendly tools.",
+            "icon": "/logo/www.photogrid.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "296",
+            "name": "Erase.bg",
+            "slug": "erase-bg",
+            "description": "Erase.bg is an AI-powered tool that removes image backgrounds quickly and offers editing features for professional results.",
+            "icon": "/logo/www.erase.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "298",
+            "name": "Getimg.ai",
+            "slug": "getimg-ai",
+            "description": "Getimg.ai is an AI-powered platform for creating, editing, and enhancing images from text prompts or existing visuals.",
+            "icon": "/logo/getimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "ClipDrop",
+            "slug": "clipdrop",
+            "description": "ClipDrop is an AI-powered platform for editing and creating professional-grade visuals with ease.",
+            "icon": "/logo/clipdrop.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "334",
+            "name": "LetsEnhance",
+            "slug": "letsenhance",
+            "description": "LetsEnhance uses AI to upscale and enhance images, improving resolution and quality for professional and personal use.",
+            "icon": "/logo/letsenhance.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "336",
+            "name": "ImageKit",
+            "slug": "imagekit",
+            "description": "ImageKit.io provides real-time image and video optimization, transformation, and delivery solutions for websites and apps.",
+            "icon": "/logo/imagekit.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "387",
+            "name": "BeautyPlus",
+            "slug": "beautyplus",
+            "description": "BeautyPlus is a free AI-powered photo and video editing platform offering creative tools for selfies, aesthetic filters, and professional-quality enhancements.",
+            "icon": "/logo/www.beautyplus.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "396",
+            "name": "Dzine",
+            "slug": "dzine",
+            "description": "Dzine is an AI-powered platform for intuitive image generation and editing, designed for creators of all skill levels.",
+            "icon": "/logo/www.dzine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "410",
+            "name": "Phot.AI",
+            "slug": "phot-ai",
+            "description": "Phot.AI is an AI-powered platform for seamless photo editing and visual design, catering to e-commerce, content creators, and professionals.",
+            "icon": "/logo/www.phot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "412",
+            "name": "Vivago AI",
+            "slug": "vivago-ai",
+            "description": "Vivago AI is a free AI-powered platform for creating high-quality images, videos, and 3D models from text or image prompts.",
+            "icon": "/logo/vivago.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "421",
+            "name": "Evoto AI",
+            "slug": "evoto-ai",
+            "description": "Evoto AI provides advanced AI-powered photo editing and retouching tools to streamline photography workflows.",
+            "icon": "/logo/www.evoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "432",
+            "name": "Aitubo",
+            "slug": "aitubo",
+            "description": "Aitubo is an AI-powered platform for generating high-quality images, videos, music, and avatars from text or images, catering to creators and artists.",
+            "icon": "/logo/aitubo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "445",
+            "name": "Imglarger",
+            "slug": "imglarger",
+            "description": "Imglarger provides AI-powered tools to enhance, upscale, edit, and convert images for professional and personal use.",
+            "icon": "/logo/imglarger.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "Hotpot.ai",
+            "slug": "hotpot-ai",
+            "description": "Hotpot.ai is an AI-powered platform for creating and enhancing images, graphics, and written content to boost creativity and productivity.",
+            "icon": "/logo/hotpot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "464",
+            "name": "Ssemble",
+            "slug": "ssemble",
+            "description": "Ssemble is an AI-powered online video editor that transforms long-form videos into engaging short-form content for social media platforms.",
+            "icon": "/logo/www.ssemble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "471",
+            "name": "Apowersoft",
+            "slug": "apowersoft",
+            "description": "Apowersoft provides multimedia and business solutions for recording, editing, and sharing digital content across devices.",
+            "icon": "/logo/www.apowersoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "485",
+            "name": "PixelBin",
+            "slug": "pixelbin",
+            "description": "PixelBin is an AI-powered platform for managing, optimizing, and transforming digital assets like images and videos for enhanced visual experiences.",
+            "icon": "/logo/pixelbin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "492",
+            "name": "X-Design",
+            "slug": "x-design",
+            "description": "X-Design provides AI-powered photo editing tools to create professional product visuals for e-commerce and marketing.",
+            "icon": "/logo/www.x-design.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "493",
+            "name": "PFPMaker",
+            "slug": "pfpmaker",
+            "description": "PFPMaker is an AI-powered tool that generates professional and creative profile pictures from user-uploaded photos.",
+            "icon": "/logo/pfpmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "496",
+            "name": "Facetune",
+            "slug": "facetune",
+            "description": "Facetune is a mobile app for AI-powered photo and video editing, specializing in selfie enhancements and creative retouching.",
+            "icon": "/logo/www.facetuneapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "508",
+            "name": "Pincel",
+            "slug": "pincel",
+            "description": "Pincel is an AI-powered online image editing app that simplifies photo manipulation for users of all skill levels.",
+            "icon": "/logo/pincel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "514",
+            "name": "VanceAI",
+            "slug": "vanceai",
+            "description": "VanceAI provides AI-powered tools for photo enhancement, editing, and restoration to boost creativity and productivity.",
+            "icon": "/logo/vanceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "541",
+            "name": "Deepswap",
+            "slug": "deepswap-ai",
+            "description": "Deepswap is an AI-powered platform for seamless face swapping in videos, photos, and GIFs, offering realistic results for creative and professional use.",
+            "icon": "/logo/www.deepswap.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "561",
+            "name": "Pixelied",
+            "slug": "pixelied",
+            "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+            "icon": "/logo/pixelied.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "626",
+            "name": "Mockey",
+            "slug": "mockey-ai",
+            "description": "Mockey is a free online AI-powered mockup generator for creating high-quality product visuals.",
+            "icon": "/logo/mockey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "664",
+            "name": "Autodraft AI",
+            "slug": "autodraft-ai",
+            "description": "Autodraft AI is a platform for creating 2D animations, comics, and webtoons using AI-driven tools for visual storytelling.",
+            "icon": "/logo/autodraft.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "682",
+            "name": "Logo Diffusion",
+            "slug": "logo-diffusion",
+            "description": "Logo Diffusion is an AI-powered platform for creating custom logos and brand assets quickly from text prompts or sketches.",
+            "icon": "/logo/logodiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "705",
+            "name": "Stockimg AI",
+            "slug": "stockimg-ai",
+            "description": "Stockimg AI is an AI-powered platform for generating high-quality, custom visuals like logos, stock photos, and illustrations.",
+            "icon": "/logo/stockimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "757",
+            "name": "ImgGen AI",
+            "slug": "imggen-ai",
+            "description": "ImgGen AI is a free online platform for generating and enhancing high-quality images using AI-driven tools.",
+            "icon": "/logo/imggen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "798",
+            "name": "Pic Copilot",
+            "slug": "pic-copilot",
+            "description": "Pic Copilot is an AI-powered platform designed to enhance e-commerce product images and marketing visuals for improved click-through rates and conversions.",
+            "icon": "/logo/www.piccopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "814",
+            "name": "Pokecut",
+            "slug": "pokecut",
+            "description": "Pokecut is an AI-powered online photo editing platform that transforms ordinary images into professional-quality visuals with ease.",
+            "icon": "/logo/www.pokecut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "821",
+            "name": "PhotoRestore.io",
+            "slug": "photorestore-io",
+            "description": "PhotoRestore.io is a free AI-powered platform for restoring and enhancing old, damaged, or blurry photos to preserve cherished memories.",
+            "icon": "/logo/www.photorestore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "874",
+            "name": "HeyPhoto",
+            "slug": "heyphoto",
+            "description": "HeyPhoto is an AI-powered online tool for editing and enhancing photos, with a focus on facial modifications and improvements.",
+            "icon": "/logo/hey-photo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "877",
+            "name": "Vidful.ai",
+            "slug": "vidful-ai",
+            "description": "Vidful.ai is an AI-powered platform that allows users to generate, edit, and enhance videos using advanced artificial intelligence tools.",
+            "icon": "/logo/vidful.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "937",
+            "name": "WeShop AI",
+            "slug": "weshop-ai",
+            "description": "WeShop AI is an AI-powered platform that enables e-commerce businesses to generate professional, studio-quality product photos and visuals instantly.",
+            "icon": "/logo/www.weshop.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "971",
+            "name": "MagicShot",
+            "slug": "magicshot-ai",
+            "description": "MagicShot.ai is an AI-powered platform that enables users to create professional product photos instantly without the need for physical photoshoots.",
+            "icon": "/logo/magicshot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "993",
+            "name": "Pebblely",
+            "slug": "pebblely",
+            "description": "Pebblely is an AI-powered tool that generates professional product photos for e-commerce and marketing purposes.",
+            "icon": "/logo/pebblely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1008",
+            "name": "PNGMaker.io",
+            "slug": "pngmaker-io",
+            "description": "PNGMaker.io is an AI-driven online platform that allows users to generate, edit, and customize transparent PNG images effortlessly.",
+            "icon": "/logo/pngmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1017",
+            "name": "AI Passport Photos",
+            "slug": "ai-passport-photos",
+            "description": "AI Passport Photos is an online platform that leverages artificial intelligence to transform user-uploaded images into compliant passport, visa, and ID photos for various countries.",
+            "icon": "/logo/www.aipassportphotos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1050",
+            "name": "Designify",
+            "slug": "designify",
+            "description": "Designify is an AI-powered online tool that automatically removes backgrounds from images and enhances them for professional designs, catering to e-commerce and creative needs.",
+            "icon": "/logo/www.designify.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1093",
+            "name": "Imagewith.AI",
+            "slug": "imagewith-ai",
+            "description": "Imagewith.AI is an AI-powered online platform offering advanced image editing tools to enhance, upscale, and manipulate images effortlessly.",
+            "icon": "/logo/www.imagewith.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1108",
+            "name": "SellerPic.ai",
+            "slug": "sellerpic-ai",
+            "description": "SellerPic.ai is an AI-powered platform designed to help e-commerce sellers generate and edit professional product images quickly and efficiently.",
+            "icon": "/logo/www.sellerpic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1143",
+            "name": "PhotoEditor.AI",
+            "slug": "photoeditor-ai",
+            "description": "PhotoEditor.AI offers a powerful AI toolset for creative photo and design editing needs, enhancing user creativity with advanced features.",
+            "icon": "/logo/photoeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1166",
+            "name": "Glorify",
+            "slug": "glorify",
+            "description": "Glorify is a design tool that enables entrepreneurs and marketers to create marketing visuals, offering features like AI-powered tools, template libraries, and collaboration capabilities.",
+            "icon": "/logo/glorify.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1303",
+            "name": "AI Image Editor",
+            "slug": "ai-image-editor",
+            "description": "AI Image Editor is an online platform that leverages artificial intelligence to provide advanced image editing tools for users to enhance, manipulate, and generate images effortlessly.",
+            "icon": "/logo/aiimageeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1347",
+            "name": "ImageFX",
+            "slug": "imagefx",
+            "description": "ImageFX is an AI-driven platform that enables users to generate, edit, and apply effects to images using advanced artificial intelligence tools.",
+            "icon": "/logo/imagefx.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "ThumbnailCreator",
+            "slug": "thumbnailcreator",
+            "description": "ThumbnailCreator is an AI-powered online tool designed to generate professional YouTube thumbnails quickly, helping content creators boost click-through rates and video views.",
+            "icon": "/logo/www.thumbnailcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1319",
+            "name": "Cashzine AI",
+            "slug": "cashzine-ai",
+            "description": "Cashzine AI is an online platform providing AI-powered tools for image editing, including background removal, upscaling, and sketching animation generation.",
+            "icon": "/logo/cashzineapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1287",
+            "name": "Uluch",
+            "slug": "uluch",
+            "description": "Uluch is a free AI-powered platform offering tools to unblur blurry images and create transparent PNGs by removing backgrounds.",
+            "icon": "/logo/uluch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1393",
+            "name": "Haimeta",
+            "slug": "haimeta",
+            "description": "Haimeta is an AI-powered creative platform that enables users to generate images, videos, 3D models, and immersive virtual spaces from text prompts and images through human-AI collaboration.",
+            "icon": "/logo/www.haimeta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Freepik",
+            "slug": "freepik",
+            "description": "Freepik is an AI-powered creative suite offering stock assets and tools for designers.",
+            "icon": "/logo/www.freepik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1306",
+            "name": "Nano Banana",
+            "slug": "nanobanana-ai",
+            "description": "Nano Banana is an advanced AI image editor that enables users to edit and generate photorealistic images using natural language prompts.",
+            "icon": "/logo/nanobanana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        },
+        {
+            "id": "1443",
+            "name": "Remaker AI",
+            "slug": "remaker-ai",
+            "description": "Remaker AI is an online platform that leverages artificial intelligence for advanced image editing, face swapping, and creative content generation.",
+            "icon": "/logo/remaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-remover"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "HubSpot",
+    "description": "HubSpot provides an AI-powered CRM platform to streamline marketing, sales, and customer service for business growth.",
+    "longDescription": "HubSpot is a comprehensive customer relationship management (CRM) platform designed to help businesses attract, engage, and delight customers through integrated marketing, sales, and service tools. Founded in 2006 by Brian Halligan and Dharmesh Shah, it focuses on inbound marketing to draw customers with valuable content rather than intrusive ads. The platform unifies customer data across teams, enabling seamless collaboration and personalized customer experiences. Its AI-driven features, like Breeze Copilot, automate tasks and provide actionable insights, making it a scalable solution for businesses of all sizes. HubSpot’s mission is to empower millions of organizations worldwide to grow better by fostering frictionless customer journeys. It serves industries ranging from retail to real estate, offering both free and premium plans to suit diverse needs.",
+    "url": "https://www.hubspot.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hubspot.com.webp",
+    "category": "AI CRM",
+    "categorySlug": "ai-crm",
+    "slug": "hubspot",
+    "categories": [
+        "AI CRM",
+        "AI Digital Marketing",
+        "AI Customer Service",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "The Smart CRM centralizes customer data, enabling teams to track interactions and personalize outreach for improved conversions.",
+        "Marketing Hub automates email campaigns, social media, and SEO, helping businesses attract and convert leads efficiently.",
+        "Sales Hub streamlines pipeline management with AI-powered forecasting and email tracking to close deals faster.",
+        "Service Hub offers ticketing, live chat, and knowledge base tools to enhance customer support and satisfaction.",
+        "Content Hub simplifies website and content creation with AI-driven SEO optimization and customizable templates.",
+        "Operations Hub automates data syncing and process workflows, ensuring data accuracy across integrated apps.",
+        "Commerce Hub facilitates payments, invoicing, and subscription management directly within the platform.",
+        "Breeze AI tools, like Copilot and Agents, automate repetitive tasks and enrich data for smarter decision-making."
+    ],
+    "faqs": [
+        {
+            "question": "What is HubSpot used for?",
+            "answer": "HubSpot is used for managing customer relationships through integrated marketing, sales, and service tools, helping businesses grow via inbound strategies."
+        },
+        {
+            "question": "Does HubSpot offer a free plan?",
+            "answer": "Yes, HubSpot provides a free CRM plan with limited features like contact management, forms, and email marketing for up to 1,000,000 contacts."
+        },
+        {
+            "question": "Can HubSpot integrate with other tools?",
+            "answer": "HubSpot natively integrates with over 1,000 apps, including Salesforce, Slack, and Stripe, and supports custom integrations via Zapier."
+        },
+        {
+            "question": "Is HubSpot suitable for small businesses?",
+            "answer": "Yes, HubSpot’s free and Starter plans are ideal for small businesses, offering scalable tools to manage leads and customers."
+        },
+        {
+            "question": "What is HubSpot’s AI, Breeze, used for?",
+            "answer": "Breeze AI automates tasks like content creation, data enrichment, and customer support, boosting efficiency across HubSpot’s hubs."
+        },
+        {
+            "question": "How does HubSpot support marketing automation?",
+            "answer": "HubSpot’s Marketing Hub automates email sequences, social media scheduling, and lead nurturing workflows to drive engagement."
+        },
+        {
+            "question": "What are HubSpot’s pricing plans like?",
+            "answer": "HubSpot offers Free, Starter, Professional, and Enterprise plans for each hub, with pricing varying by features and contacts; details are at https://x.ai/grok."
+        }
+    ]
+}

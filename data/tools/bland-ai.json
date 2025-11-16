@@ -1,0 +1,66 @@
+{
+    "name": "Bland AI",
+    "description": "Bland AI provides a platform for automating phone calls with hyper-realistic AI agents for enterprises.",
+    "longDescription": "Bland AI is a conversational AI platform designed to automate inbound and outbound phone calls for businesses, enabling efficient customer interactions. Founded in 2023, its mission is to revolutionize enterprise communication by replacing outdated call center practices with scalable, AI-driven phone agents. The platform allows businesses to create customizable voice agents that sound human, speak any language, and integrate with existing systems like CRMs and ERPs. It serves industries such as healthcare, real estate, and financial services, offering solutions for customer support, sales, and operations. By leveraging advanced AI models, Bland AI ensures low-latency, secure, and reliable call handling, reducing costs and improving customer experiences.",
+    "url": "https://www.bland.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.bland.ai.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "bland-ai",
+    "categories": [
+        "AI Chat Generator",
+        "AI Voice Assistants",
+        "AI Customer Service",
+        "AI Assistant",
+        "AI For Data Analytics",
+        "AI API",
+        "AI Workflow",
+        "AI Language Learning",
+        "AI Call Center"
+    ],
+    "features": [
+        "Customizable AI voice agents allow businesses to tailor interactions with specific voices and conversational pathways for brand consistency.",
+        "Seamless integration with CRMs, ERPs, and other systems enables real-time data updates and actions like appointment scheduling.",
+        "Sub-second latency ensures fast, natural-sounding responses during phone conversations, enhancing user experience.",
+        "Auto-scaling infrastructure supports handling thousands of concurrent calls with 99.99% uptime for enterprise reliability.",
+        "Real-time analytics provide detailed insights into call performance, enabling businesses to optimize customer interactions.",
+        "Multi-language support allows AI agents to communicate in any language, breaking down language barriers.",
+        "Dynamic API integrations enable live actions, such as sending SMS or updating databases, during calls.",
+        "Enterprise-grade security ensures compliance with SOC2 and HIPAA standards, protecting sensitive customer data.",
+        "Pathway-based conversation design lets businesses define decision trees to keep AI interactions accurate and on-brand."
+    ],
+    "faqs": [
+        {
+            "question": "What is Bland AI used for?",
+            "answer": "Bland AI automates phone calls for businesses, handling tasks like customer support, sales, and appointment scheduling with AI-driven voice agents."
+        },
+        {
+            "question": "Can Bland AI agents sound like real humans?",
+            "answer": "Yes, Bland AI uses advanced text-to-speech models to create hyper-realistic voice agents that can mimic human tones and emotions."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Bland AI offers a free tier for users to test and build AI phone agents, though with limited usage compared to paid plans."
+        },
+        {
+            "question": "How does Bland AI integrate with existing systems?",
+            "answer": "Bland AI’s API connects seamlessly with CRMs, ERPs, and other tools to enable real-time data access and actions during calls."
+        },
+        {
+            "question": "What is the latency of Bland AI’s voice agents?",
+            "answer": "Bland AI achieves sub-second latency, typically under two seconds, for natural and responsive phone conversations."
+        },
+        {
+            "question": "Is Bland AI secure for enterprise use?",
+            "answer": "Yes, Bland AI is SOC2 and HIPAA compliant, ensuring secure handling of sensitive customer data."
+        },
+        {
+            "question": "Can Bland AI handle multiple calls at once?",
+            "answer": "Bland AI’s auto-scaling infrastructure can manage thousands of concurrent calls, suitable for high-volume enterprise needs."
+        },
+        {
+            "question": "Does Bland AI support multiple languages?",
+            "answer": "Yes, Bland AI agents can speak any language, making them ideal for global customer interactions."
+        }
+    ]
+}

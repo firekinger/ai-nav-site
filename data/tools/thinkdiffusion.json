@@ -1,0 +1,74 @@
+{
+    "name": "ThinkDiffusion",
+    "description": "ThinkDiffusion is a cloud-based platform providing access to open-source generative AI tools for creating art, animations, and videos in a private workspace.",
+    "longDescription": "ThinkDiffusion is a cloud platform that democratizes access to advanced open-source generative AI applications, such as Stable Diffusion and ComfyUI, allowing users to run them without needing powerful local hardware. Its mission is to simplify AI creativity by offering one-click launches in a dedicated, private environment, catering to beginners and professionals alike. The platform solves problems like complex installations, hardware limitations, and privacy concerns by providing blazing-fast cloud GPUs and persistent storage. Users can upload models from sources like Civitai or Hugging Face, customize workflows, and create everything from images to animated videos. Overall, it empowers creative expression through AI, making high-end tools accessible on any device, including mobile phones.",
+    "url": "https://www.thinkdiffusion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.thinkdiffusion.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "thinkdiffusion",
+    "categories": [
+        "AI Image Generator",
+        "AI Animation Generator",
+        "AI Models",
+        "AI Art Generator",
+        "AI Workflow",
+        "Open Source AI Models",
+        "AI Portrait Generator",
+        "AI Background Generator"
+    ],
+    "features": [
+        "Offers a choice of industry-leading open-source AI apps like Automatic1111 and Fooocus, enabling users to run multiple machines simultaneously for efficient multitasking.",
+        "Provides dedicated storage up to 200GB, allowing seamless file management and access across various devices.",
+        "Supports adding extensions to Automatic1111 and custom nodes to ComfyUI, giving users flexibility to enhance their AI workflows.",
+        "Allows one-click uploads of models, checkpoints, LoRAs, and embeddings from Civitai, Hugging Face, or local computers, streamlining the setup process.",
+        "Ensures a 100% private and dedicated workspace with no public sharing, protecting user creations and data.",
+        "Delivers blazing-fast speeds via dedicated GPUs, ensuring smooth performance for intensive AI tasks.",
+        "Grants total freedom to install any models, extensions, or custom nodes, even without an active subscription for basic access.",
+        "Enables running powerful AI workflows on any device, including phones, with persistent sessions that resume where left off.",
+        "Includes specialized tools for animations and videos, such as LivePortrait for animating portraits and IC-Light for background relighting.",
+        "Facilitates model training and fine-tuning with apps like Kohya, helping users create custom AI models tailored to their needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is ThinkDiffusion?",
+            "answer": "ThinkDiffusion is a cloud-based platform for open-source generative AI, offering tools like Stable Diffusion for creating art, animations, and more in a private workspace."
+        },
+        {
+            "question": "Do I need special hardware to use ThinkDiffusion?",
+            "answer": "No, ThinkDiffusion eliminates the need for complicated installations or heavy-duty hardware by providing one-click access to AI tools in the cloud."
+        },
+        {
+            "question": "Is my work private on ThinkDiffusion?",
+            "answer": "Yes, your machine and workspace are completely private, with no public sharing of your creations or data."
+        },
+        {
+            "question": "Can I use ThinkDiffusion on my phone?",
+            "answer": "Yes, the platform supports running powerful AI workflows on any device, including mobile phones, for on-the-go creativity."
+        },
+        {
+            "question": "Does ThinkDiffusion offer a free trial?",
+            "answer": "Yes, a free trial period is available upon creating an account, allowing users to test the platform's features."
+        },
+        {
+            "question": "How do I upload models to ThinkDiffusion?",
+            "answer": "You can upload models, checkpoints, and other files with one click via URLs from Civitai or Hugging Face, or by dragging and dropping from your local computer."
+        },
+        {
+            "question": "What tools are available for video creation on ThinkDiffusion?",
+            "answer": "Tools like FaceFusion for face swapping, LivePortrait for animating portraits, and various techniques for generating videos from scratch or existing footage are available."
+        },
+        {
+            "question": "Can I train my own AI models on ThinkDiffusion?",
+            "answer": "Yes, using apps like Kohya, you can train and fine-tune models, LoRAs, and textual inversions to create custom AI solutions."
+        },
+        {
+            "question": "How does ThinkDiffusion handle storage?",
+            "answer": "It provides dedicated storage up to 200GB, ensuring your files are securely managed and accessible across sessions and devices."
+        },
+        {
+            "question": "Is ThinkDiffusion suitable for beginners?",
+            "answer": "Absolutely, it offers simple apps like Fooocus for beginners while also providing pro-level tools like ComfyUI for advanced users."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI YouTube Tools in 2025",
+    "summary": "Discover the power of AI YouTube tools designed to enhance your video creation, optimization, and audience engagement. From automated editing and content generation to advanced analytics and SEO optimization, these innovative solutions streamline your workflow and elevate your channel's performance. Whether you're a content creator, marketer, or brand, AI YouTube tools help you save time, boost creativity, and maximize reach. Explore our curated selection of cutting-edge tools today and transform your YouTube experience!",
+    "tools": [
+        {
+            "id": "155",
+            "name": "vidIQ",
+            "slug": "vidiq",
+            "description": "vidIQ provides AI-powered tools and analytics to help YouTube creators grow their channels and optimize content.",
+            "icon": "/logo/vidiq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "407",
+            "name": "Topview AI",
+            "slug": "topview-ai",
+            "description": "Topview AI is an AI-powered video editor that transforms links or media assets into viral marketing videos with one click.",
+            "icon": "/logo/www.topview.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "527",
+            "name": "GravityWrite",
+            "slug": "gravitywrite",
+            "description": "GravityWrite is an AI-powered content creation platform for blogs, SEO, and marketing.",
+            "icon": "/logo/gravitywrite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "602",
+            "name": "Pikzels",
+            "slug": "pikzels",
+            "description": "Pikzels is an AI-powered platform for creating viral YouTube thumbnails and titles in seconds.",
+            "icon": "/logo/pikzels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "820",
+            "name": "Gling",
+            "slug": "gling-ai",
+            "description": "Gling is an AI-powered video editing software designed to streamline content creation for YouTube creators by automating the removal of unwanted footage and enhancing video quality.",
+            "icon": "/logo/www.gling.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "1024",
+            "name": "YouTube Summarized",
+            "slug": "youtube-summarized",
+            "description": "YouTube Summarized is an AI-powered tool that generates concise summaries of YouTube videos, helping users quickly grasp key points without watching the entire content.",
+            "icon": "/logo/youtubesummarized.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "ThumbnailCreator",
+            "slug": "thumbnailcreator",
+            "description": "ThumbnailCreator is an AI-powered online tool designed to generate professional YouTube thumbnails quickly, helping content creators boost click-through rates and video views.",
+            "icon": "/logo/www.thumbnailcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-youtube"
+            ]
+        }
+    ]
+}

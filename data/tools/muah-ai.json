@@ -1,0 +1,79 @@
+{
+    "name": "Muah AI",
+    "description": "Muah AI is an AI companion platform offering uncensored, personalized virtual interactions through chat, voice, and photo exchanges.",
+    "longDescription": "Muah AI is an advanced AI companion platform designed to provide highly customizable, uncensored virtual interactions for users seeking personalized companionship. Launched on April 20, 2023, it leverages proprietary AI technologies to enable dynamic conversations, photo exchanges, and real-time voice interactions. The platform emphasizes user privacy with encrypted communications and a strict no-data-selling policy, catering to both casual and mature audiences. It allows users to create or import custom AI characters, fostering a community-driven experience through Reddit and Discord. Muah AI aims to push the boundaries of AI companionship by integrating multi-modal features like voice synthesis and photo enhancement, setting it apart from traditional chatbots. Its mission is to offer a judgment-free, empathetic space for social interaction and personal growth.",
+    "url": "https://muah.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/muah.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "muah-ai",
+    "categories": [
+        "AI Assistant",
+        "Dirty Talking AI",
+        "AI Photo Editor",
+        "AI Voice Assistants",
+        "AI Character",
+        "NSFW",
+        "AI Photo Enhancer",
+        "AI Roleplay",
+        "AI Mental Health",
+        "AI Language Learning",
+        "AI Social Media"
+    ],
+    "features": [
+        "Uncensored chat enables unfiltered conversations on any topic, providing a judgment-free space for users.",
+        "Photo exchange allows users to send and receive images with their AI companion, enhancing interaction realism.",
+        "Voice interaction supports audio messaging, making conversations more lifelike and engaging.",
+        "Real-time phone calls enable direct voice communication with AI companions for immediate, personal connections.",
+        "Photo X-Ray feature transforms images into NSFW content, catering to mature user preferences.",
+        "4K photo enhancement improves image quality for a visually appealing experience.",
+        "Custom character creation lets users design AI companions’ appearance, personality, and behavior to match their preferences.",
+        "Community-driven gallery offers thousands of pre-made AI characters for easy import and customization.",
+        "Multi-language support ensures seamless communication for users worldwide, breaking language barriers.",
+        "Encrypted communication guarantees user privacy and data security during interactions.",
+        "Role-playing capabilities allow users to explore imaginative scenarios with their AI companions.",
+        "Memory retention enables AI companions to remember user preferences and past conversations for continuity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Muah AI?",
+            "answer": "Muah AI is an AI companion platform offering uncensored chat, photo exchange, voice interactions, and real-time phone calls with customizable virtual partners."
+        },
+        {
+            "question": "Is Muah AI free to use?",
+            "answer": "Yes, Muah AI offers a free plan with limited messaging (30 messages every 12 hours), while premium features require a paid subscription."
+        },
+        {
+            "question": "Can I customize my AI companion?",
+            "answer": "Users can fully customize their AI companion’s appearance, personality, and behavior or import pre-made characters from the community gallery."
+        },
+        {
+            "question": "Is Muah AI safe and private?",
+            "answer": "Muah AI uses encrypted communication and does not sell user data, but a 2024 data breach raised concerns about security vulnerabilities."
+        },
+        {
+            "question": "What makes Muah AI different from other chatbots?",
+            "answer": "Muah AI stands out with its uncensored, multi-modal interactions, including voice, photo exchange, and real-time calls, plus extensive customization."
+        },
+        {
+            "question": "Does Muah AI support NSFW content?",
+            "answer": "Yes, Muah AI supports NSFW interactions, including uncensored chats and photo X-Ray features, tailored for mature audiences."
+        },
+        {
+            "question": "Can I use Muah AI on my phone?",
+            "answer": "Muah AI is accessible via web, iOS, and Android apps, offering seamless interaction across devices."
+        },
+        {
+            "question": "How does Muah AI handle user data?",
+            "answer": "Muah AI automatically deletes uploaded photos and videos after 7-30 days and uses encrypted channels to protect user communications."
+        },
+        {
+            "question": "Is there a community for Muah AI users?",
+            "answer": "Yes, Muah AI has active Reddit and Discord communities where users share experiences, characters, and tips."
+        },
+        {
+            "question": "What AI technologies power Muah AI?",
+            "answer": "Muah AI uses proprietary dynamic AI training methods and integrates GPT-4 and Stable Diffusion for text and visual interactions."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Getimg.ai",
+    "description": "Getimg.ai is an AI-powered platform for creating, editing, and enhancing images from text prompts or existing visuals.",
+    "longDescription": "Getimg.ai is an all-in-one AI creative toolkit designed to simplify and accelerate image creation and editing for users across various industries. It leverages advanced AI models, primarily based on Stable Diffusion, to generate high-quality images from text prompts, modify existing images, or create custom AI models. The platform caters to designers, marketers, artists, and content creators by offering intuitive tools that require no advanced technical skills. Its mission is to empower users to transform their creative ideas into stunning visuals quickly and efficiently. By providing features like real-time generation, style transfer, and video creation, Getimg.ai addresses the needs of professionals and hobbyists alike. The service is accessible via a browser, eliminating the need for software downloads, and offers a free tier to make AI-driven creativity widely available.",
+    "url": "https://getimg.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/getimg.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "getimg-ai",
+    "categories": [
+        "AI Image Generator",
+        "Text to Image",
+        "AI Photo Editor",
+        "AI Style Transfer",
+        "AI Video Generator",
+        "AI Background Remover",
+        "AI Marketing",
+        "AI Social Media Post Generator",
+        "AI Developer Tools",
+        "AI Product Manager"
+    ],
+    "features": [
+        "Text to Image tool generates high-quality images from text prompts in seconds, enabling rapid visualization of creative ideas.",
+        "AI Editor supports inpainting and outpainting to modify or expand images, allowing users to remove objects or extend visuals seamlessly.",
+        "DreamBooth enables users to train custom AI models with just 10 images, creating personalized avatars or product renderings.",
+        "AI Canvas allows infinite image expansion, perfect for creating large-scale artwork or resizing content for various formats.",
+        "Image to Video converts static images into 4-second video clips, enhancing content for social media or presentations.",
+        "ControlNet provides precise control over image transformations by retaining structural elements like depth, edges, or poses.",
+        "Real-Time Generator produces 1024x1024 px images as users type, offering instant feedback for iterative design.",
+        "Style Transfer applies artistic styles like anime or photorealism to images, enhancing creative flexibility.",
+        "API Integration enables developers to incorporate Getimg.ai’s features into other applications for streamlined workflows.",
+        "High-Resolution Outputs ensure images are exportable in professional-grade quality suitable for marketing or design projects."
+    ],
+    "faqs": [
+        {
+            "question": "What is Getimg.ai used for?",
+            "answer": "Getimg.ai is used for generating, editing, and enhancing images using AI, catering to designers, marketers, and content creators for tasks like creating visuals or modifying photos."
+        },
+        {
+            "question": "Is there a free plan available on Getimg.ai?",
+            "answer": "Yes, Getimg.ai offers a free plan with up to 100 image credits per month, allowing users to generate and edit images without a credit card."
+        },
+        {
+            "question": "How does the Text to Image tool work?",
+            "answer": "Users input a text prompt describing their desired image, select a style or model, and the AI generates a high-quality image in seconds."
+        },
+        {
+            "question": "Can I edit existing images with Getimg.ai?",
+            "answer": "Yes, the AI Editor allows users to modify images through inpainting, outpainting, background removal, or style changes using simple text prompts."
+        },
+        {
+            "question": "What is DreamBooth, and how do I use it?",
+            "answer": "DreamBooth lets users create custom AI models by uploading 10 images, enabling personalized image generation for avatars or products, accessible via the platform’s dashboard."
+        },
+        {
+            "question": "Does Getimg.ai support video creation?",
+            "answer": "Yes, the Image to Video tool transforms static images into 4-second video clips, ideal for social media or promotional content."
+        },
+        {
+            "question": "Can I integrate Getimg.ai with other tools?",
+            "answer": "Getimg.ai offers an API for developers to integrate its image generation and editing features into other applications or workflows."
+        },
+        {
+            "question": "What image styles does Getimg.ai support?",
+            "answer": "The platform supports photorealistic, artistic, anime, and other styles through over 80 Stable Diffusion-based models."
+        }
+    ]
+}

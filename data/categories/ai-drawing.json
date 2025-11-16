@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Drawing Tools in 2025",
+    "summary": "Unlock your creativity with our AI Drawing tools, designed to transform your artistic vision into reality. Whether you're a professional artist or a hobbyist, these innovative solutions streamline the drawing process, enhance your designs, and inspire new ideas. Experience the benefits of automated sketching, style transfer, and intelligent suggestions that elevate your artwork effortlessly. Explore our curated selection of AI Drawing tools today and discover how they can revolutionize your creative workflow. Dive in and unleash your imagination!",
+    "tools": [
+        {
+            "id": "381",
+            "name": "AutoDraw",
+            "slug": "autodraw",
+            "description": "AutoDraw is a web-based tool that uses AI to transform rough sketches into polished illustrations, making drawing accessible to everyone.",
+            "icon": "/logo/autodraw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-drawing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Cockatoo",
+    "description": "Cockatoo is an AI-powered transcription service that converts audio and video files into accurate, editable text transcripts quickly and securely.",
+    "longDescription": "Cockatoo is an innovative AI-driven platform designed to transcribe audio and video content into text with high accuracy and speed. Its mission is to make transcription accessible and efficient for professionals, educators, journalists, and everyday users by leveraging advanced AI technology to handle various accents, languages, and audio qualities. The service solves common problems like time-consuming manual transcription and errors in automated tools by providing fast turnaround times, often in minutes, and features like speaker identification and editable outputs. It serves users by offering secure, cloud-based processing that ensures data privacy while supporting a wide range of file formats and integrations. Overall, Cockatoo aims to streamline workflows in content creation, research, and communication by turning spoken words into actionable text.",
+    "url": "https://www.cockatoo.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.cockatoo.com.webp",
+    "category": "AI Transcription",
+    "categorySlug": "ai-transcription",
+    "slug": "cockatoo",
+    "categories": [
+        "AI Transcription",
+        "AI Speech-to-Text",
+        "AI Audio Editing",
+        "AI Language Learning",
+        "AI Speech Recognition",
+        "AI Writing",
+        "AI Workflow",
+        "AI Subtitle Generator"
+    ],
+    "features": [
+        "AI-powered transcription delivers accurate text from audio and video files in over 90 languages, reducing manual effort and time.",
+        "Fast processing transcribes hours of content in minutes, enabling quick turnaround for urgent projects.",
+        "Speaker identification automatically labels different speakers in conversations, making transcripts easier to follow and analyze.",
+        "Editable transcripts allow users to make corrections and export in various formats like TXT, SRT, or Word for seamless integration.",
+        "Secure cloud storage ensures user data privacy with end-to-end encryption and no long-term storage without permission.",
+        "Multi-language support handles accents and dialects accurately, benefiting global users and multilingual content.",
+        "File upload flexibility accepts a wide range of audio and video formats, including MP3, WAV, MP4, and more.",
+        "Time-stamped transcripts provide precise timings for each segment, useful for video editing and subtitling.",
+        "Integration with tools like Zoom and YouTube allows direct import of recordings for effortless transcription.",
+        "Free tier offers limited minutes per month, allowing users to test the service before committing to paid plans.",
+        "Custom vocabulary feature lets users add specific terms for improved accuracy in specialized fields like medicine or law.",
+        "Mobile-friendly interface enables transcription on-the-go via web or app access."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cockatoo primarily used for?",
+            "answer": "Cockatoo is used for transcribing audio and video files into text using AI. It helps users in professions like journalism, education, and content creation by providing accurate and fast transcripts."
+        },
+        {
+            "question": "Does Cockatoo support multiple languages?",
+            "answer": "Yes, Cockatoo supports transcription in over 90 languages and dialects. This makes it suitable for international users and multilingual content."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Cockatoo offers a free plan with limited transcription minutes per month. Users can upgrade to paid plans for unlimited access and additional features."
+        },
+        {
+            "question": "How accurate is the transcription?",
+            "answer": "Cockatoo's AI achieves high accuracy, often above 95%, depending on audio quality and clarity. It handles accents and background noise effectively, with options for manual edits."
+        },
+        {
+            "question": "Can I transcribe videos with multiple speakers?",
+            "answer": "Yes, the service includes speaker diarization to identify and label different speakers. This feature is particularly useful for interviews, meetings, and podcasts."
+        },
+        {
+            "question": "What file formats does Cockatoo accept?",
+            "answer": "Cockatoo supports a variety of formats including MP3, WAV, AAC for audio, and MP4, MOV, AVI for video. Users can upload files directly from their devices or integrate with platforms like YouTube."
+        },
+        {
+            "question": "How secure is my data on Cockatoo?",
+            "answer": "Cockatoo uses end-to-end encryption and secure cloud processing to protect user data. Transcripts are not stored long-term unless specified, ensuring privacy."
+        },
+        {
+            "question": "Can I edit transcripts after generation?",
+            "answer": "Yes, all transcripts are editable within the platform. Users can make changes, add notes, and export in preferred formats."
+        },
+        {
+            "question": "Does Cockatoo integrate with other tools?",
+            "answer": "Cockatoo integrates with services like Zoom, Google Drive, and Dropbox for easy file import. This streamlines workflows for users relying on multiple platforms."
+        },
+        {
+            "question": "What are the pricing options?",
+            "answer": "Pricing starts with a free tier, followed by paid plans based on transcription minutes or unlimited usage. Details are available on the website with options for monthly or annual billing."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Quizzes Tools in 2025",
+    "summary": "Discover the power of AI Quizzes, where cutting-edge technology meets engaging learning experiences. These innovative tools help you create, customize, and analyze quizzes effortlessly, making them perfect for educators, trainers, and businesses alike. Enhance knowledge retention, assess skills, and gather valuable insights with ease. Whether you're looking to boost engagement or streamline assessments, our AI Quizzes category offers solutions tailored to your needs. Dive in and explore the tools that can transform your approach to learning and evaluation today!",
+    "tools": [
+        {
+            "id": "187",
+            "name": "Cognito Education",
+            "slug": "cognito-education",
+            "description": "Cognito Education provides free, high-quality video lessons and resources for GCSE and A-Level students.",
+            "icon": "/logo/cognitoedu.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-quizzes"
+            ]
+        },
+        {
+            "id": "1271",
+            "name": "Quiklearn",
+            "slug": "quiklearn",
+            "description": "Quiklearn is an AI-powered platform that turns course materials into interactive flashcards and quizzes to help students study smarter and retain information effectively.",
+            "icon": "/logo/quiklearn.app.webp",
+            "isFree": false,
+            "categories": [
+                "ai-quizzes"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Kaggle",
+            "slug": "kaggle",
+            "description": "Kaggle is a global platform for data science and machine learning, offering competitions, datasets, and collaborative tools for professionals and learners.",
+            "icon": "/logo/kaggle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-quizzes"
+            ]
+        }
+    ]
+}

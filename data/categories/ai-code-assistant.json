@@ -1,0 +1,446 @@
+{
+    "title": "The Best 40 AI Code Assistant Tools in 2025",
+    "summary": "Unlock your coding potential with our AI Code Assistant category! These innovative tools are designed to streamline your development process, offering intelligent code suggestions, debugging support, and automated documentation. Whether you're a seasoned developer or just starting out, AI Code Assistants enhance productivity, reduce errors, and accelerate project timelines. Explore our curated selection to find the perfect solution that meets your coding needs and transforms your workflow. Dive in now and elevate your programming experience with cutting-edge AI technology!",
+    "tools": [
+        {
+            "id": "1",
+            "name": "ChatGPT",
+            "slug": "chatgpt",
+            "description": "ChatGPT is an AI-powered chatbot platform designed to provide human-like conversational responses and assist with various tasks.",
+            "icon": "/logo/chatgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Claude",
+            "slug": "claude",
+            "description": "Claude.ai is a conversational AI platform designed to provide safe, helpful, and value-aligned responses for various tasks.",
+            "icon": "/logo/claude.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Kimi",
+            "slug": "kimi",
+            "description": "Kimi is an AI-powered assistant designed to enhance productivity through advanced text analysis, multimodal processing, and real-time information retrieval.",
+            "icon": "/logo/kimi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "111",
+            "name": "Replit",
+            "slug": "replit",
+            "description": "Replit is an AI-powered online platform for coding, collaborating, and deploying software in various programming languages directly from the browser.",
+            "icon": "/logo/replit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "89",
+            "name": "DataCamp",
+            "slug": "datacamp",
+            "description": "DataCamp is an online learning platform offering interactive courses in data science, AI, and programming for all skill levels.",
+            "icon": "/logo/datacamp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "141",
+            "name": "Sider",
+            "slug": "sider",
+            "description": "Sider provides AI-powered tools to enhance productivity and creativity for individuals and businesses.",
+            "icon": "/logo/sider.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Cursor",
+            "slug": "cursor",
+            "description": "Cursor is an AI-powered code editor designed to enhance developer productivity with advanced AI features.",
+            "icon": "/logo/cursor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "211",
+            "name": "Vondy",
+            "slug": "vondy",
+            "description": "Vondy is an AI-powered platform offering tools and services for content creation, coding, and productivity tasks.",
+            "icon": "/logo/www.vondy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "287",
+            "name": "Warp",
+            "slug": "warp",
+            "description": "Warp is a modern, AI-powered terminal designed to enhance developer productivity and streamline workflows.",
+            "icon": "/logo/www.warp.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "331",
+            "name": "Coddy",
+            "slug": "coddy",
+            "description": "Coddy is an AI-enhanced platform offering interactive, hands-on coding courses for learners of all ages and skill levels.",
+            "icon": "/logo/coddy.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "405",
+            "name": "Phind",
+            "slug": "phind",
+            "description": "Phind is an AI-powered search engine designed for developers, providing instant answers and code examples for technical queries.",
+            "icon": "/logo/www.phind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "411",
+            "name": "Final Round AI",
+            "slug": "final-round-ai",
+            "description": "Final Round AI provides AI-powered tools to help job seekers excel in interviews and land their dream jobs.",
+            "icon": "/logo/www.finalroundai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "419",
+            "name": "GlobalGPT",
+            "slug": "globalgpt",
+            "description": "GlobalGPT is an all-in-one AI platform offering access to multiple AI models for content creation, coding, and research.",
+            "icon": "/logo/www.glbgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "475",
+            "name": "Chatbox AI",
+            "slug": "chatbox-ai",
+            "description": "Chatbox AI is a versatile AI client application and intelligent assistant enhancing productivity across multiple platforms.",
+            "icon": "/logo/chatboxai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "593",
+            "name": "Sourcegraph",
+            "slug": "sourcegraph",
+            "description": "Sourcegraph is a code intelligence platform that enhances developer productivity through AI-powered code search and analysis tools.",
+            "icon": "/logo/sourcegraph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "601",
+            "name": "Continue",
+            "slug": "continue",
+            "description": "Continue.dev provides open-source AI code assistants to enhance developer productivity and streamline coding workflows.",
+            "icon": "/logo/www.continue.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "639",
+            "name": "Tabnine",
+            "slug": "tabnine",
+            "description": "Tabnine is an AI-powered code assistant that accelerates software development while prioritizing code privacy and security.",
+            "icon": "/logo/www.tabnine.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "649",
+            "name": "Lightning AI",
+            "slug": "lightning-ai",
+            "description": "Lightning AI is an all-in-one platform for building, training, and deploying AI models with minimal setup.",
+            "icon": "/logo/lightning.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "719",
+            "name": "CodeGPT",
+            "slug": "codegpt",
+            "description": "CodeGPT is an AI-powered platform that enhances software development through specialized AI agents and coding tools.",
+            "icon": "/logo/codegpt.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "904",
+            "name": "Quadratic",
+            "slug": "quadratic",
+            "description": "Quadratic is an AI-powered spreadsheet platform that combines infinite canvas spreadsheets with Python, SQL, and AI tools for advanced data analysis and visualization.",
+            "icon": "/logo/www.quadratichq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "Devv",
+            "slug": "devv-ai",
+            "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+            "icon": "/logo/devv.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1088",
+            "name": "Kombai",
+            "slug": "kombai",
+            "description": "Kombai is an AI-powered tool that converts Figma designs into high-quality, production-ready front-end code to streamline web development.",
+            "icon": "/logo/kombai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1104",
+            "name": "CyberSquare",
+            "slug": "cybersquare",
+            "description": "CyberSquare provides coding, AI, and robotics education solutions for schools, offering a comprehensive suite of products to enhance computer science curriculum from KG 1 to plus two.",
+            "icon": "/logo/cybersquare.org.webp",
+            "isFree": false,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1145",
+            "name": "Powerusers AI",
+            "slug": "powerusers-ai",
+            "description": "Powerusers AI is a directory that curates over 2600 AI tools to boost business productivity, offering features like filtering, saving personal lists, and staying updated with the latest AI apps.",
+            "icon": "/logo/powerusers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1162",
+            "name": "MarsCode",
+            "slug": "marscode",
+            "description": "MarsCode is an AI-powered integrated development environment (IDE) that provides intelligent coding assistance to streamline software development for programmers.",
+            "icon": "/logo/www.marscode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1344",
+            "name": "ClackyAI",
+            "slug": "clackyai",
+            "description": "ClackyAI is an AI-powered coding platform that accelerates software development by automating tasks and transforming issue descriptions into pull requests.",
+            "icon": "/logo/clacky.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1265",
+            "name": "GeminiGen AI",
+            "slug": "geminigen-ai",
+            "description": "GeminiGen AI is a platform that provides access to Google's Gemini AI model for generating text, images, and other content.",
+            "icon": "/logo/geminigen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1290",
+            "name": "FumeDev",
+            "slug": "fumedev",
+            "description": "FumeDev is an AI-powered platform that assists developers with intelligent coding tools and automation to streamline software development.",
+            "icon": "/logo/www.fumedev.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1324",
+            "name": "Octopyd",
+            "slug": "octopyd",
+            "description": "Octopyd is an AI-powered platform designed to assist developers with Python coding, automation, and data analysis tasks.",
+            "icon": "/logo/www.octopyd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1357",
+            "name": "Dereference AI Codetabs",
+            "slug": "dereference-ai-codetabs",
+            "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+            "icon": "/logo/www.dereference.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1241",
+            "name": "Streamdown",
+            "slug": "streamdown-ai",
+            "description": "Streamdown is a specialized Markdown renderer designed as a drop-in replacement for react-markdown, optimized for AI-powered streaming with enhanced formatting and security features.",
+            "icon": "/logo/streamdown.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "Qoder",
+            "slug": "qoder",
+            "description": "Qoder is an AI-powered platform designed to assist developers with code generation, debugging, and optimization tasks.",
+            "icon": "/logo/qoder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1297",
+            "name": "Create Anything",
+            "slug": "create-anything",
+            "description": "Create Anything is an AI-powered platform that enables users to generate diverse digital content, from text and images to music and code, using advanced artificial intelligence tools.",
+            "icon": "/logo/www.createanything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1300",
+            "name": "Gitmore",
+            "slug": "gitmore",
+            "description": "Gitmore is an AI-powered platform that enhances Git workflows for developers by automating tasks like commit messaging and code reviews.",
+            "icon": "/logo/www.gitmore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1315",
+            "name": "Fixiol",
+            "slug": "fixiol",
+            "description": "Fixiol is an AI-powered platform designed to assist developers in identifying and fixing code errors efficiently.",
+            "icon": "/logo/fixiol.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Windsurf",
+            "slug": "windsurf",
+            "description": "Windsurf is an AI-powered integrated development environment (IDE) designed to enhance coding efficiency for developers and enterprises.",
+            "icon": "/logo/windsurf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1358",
+            "name": "ClippyAI",
+            "slug": "clippyai",
+            "description": "ClippyAI revives the iconic Microsoft Office assistant as an AI-powered tool to help users with productivity tasks, writing, and more through conversational AI.",
+            "icon": "/logo/clippyai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "1028",
+            "name": "Codeflash",
+            "slug": "codeflash-ai",
+            "description": "Codeflash is an AI-powered tool that optimizes Python code for performance, verifies correctness, and integrates with GitHub to enhance development speed.",
+            "icon": "/logo/www.codeflash.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Tongyi",
+            "slug": "tongyi",
+            "description": "Tongyi is an AI-powered platform by Alibaba Cloud offering versatile tools for text, coding, and multimedia tasks.",
+            "icon": "/logo/tongyi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-assistant"
+            ]
+        }
+    ]
+}

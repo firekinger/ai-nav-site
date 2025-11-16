@@ -1,0 +1,62 @@
+{
+    "name": "TopMediai",
+    "description": "TopMediai provides AI-powered tools for audio, image, and video processing to enhance creative and professional projects.",
+    "longDescription": "TopMediai is an AI-driven platform offering a suite of tools for audio, image, and video processing, designed to empower creators, professionals, and businesses. Its mission is to simplify complex media tasks using advanced AI algorithms, making professional-grade editing accessible to all. The platform supports a variety of use cases, from voice cloning and audio enhancement to image upscaling and video editing. By leveraging cutting-edge AI, TopMediai enables users to achieve high-quality results without requiring extensive technical expertise. It caters to both individual creators and businesses seeking efficient, cost-effective media solutions. The website also emphasizes user-friendly interfaces and cross-platform compatibility.",
+    "url": "https://www.topmediai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.topmediai.com.webp",
+    "category": "AI Voice Cloning",
+    "categorySlug": "ai-voice-cloning",
+    "slug": "topmediai",
+    "categories": [
+        "AI Voice Cloning",
+        "AI Text-to-Speech",
+        "AI Image Enhancer",
+        "AI Background Remover",
+        "AI Audio Enhancer",
+        "AI Video Editor",
+        "AI Song Cover",
+        "AI Speech-to-Text"
+    ],
+    "features": [
+        "AI Voice Changer transforms voices in real-time for gaming, streaming, or creative projects, ensuring high-quality audio output.",
+        "Voice Cloning creates realistic voice replicas from short audio samples for personalized content creation.",
+        "Text-to-Speech converts text into natural-sounding speech in multiple languages for audiobooks or presentations.",
+        "Image Upscaler enhances low-resolution images to high-definition quality using AI algorithms.",
+        "Background Remover automatically eliminates image backgrounds for clean, professional visuals.",
+        "AI Audio Enhancer improves audio clarity by reducing noise and enhancing sound quality for podcasts or videos.",
+        "Video Background Changer replaces video backgrounds with AI-driven precision for engaging content creation.",
+        "AI Song Cover Generator creates unique song covers using AI to mimic voices or styles.",
+        "Speech-to-Text transcribes audio files into accurate text for efficient content repurposing.",
+        "AI-Powered Watermark Remover cleanly removes watermarks from images or videos for professional use."
+    ],
+    "faqs": [
+        {
+            "question": "What is TopMediai used for?",
+            "answer": "TopMediai offers AI tools for audio, image, and video processing, enabling users to create, edit, and enhance media for personal or professional projects."
+        },
+        {
+            "question": "Is there a free plan available on TopMediai?",
+            "answer": "Yes, TopMediai provides a free plan with limited access to its AI tools, allowing users to test features before upgrading."
+        },
+        {
+            "question": "Can I use TopMediai for voice cloning?",
+            "answer": "Yes, TopMediai’s voice cloning tool creates realistic voice replicas from short audio samples for various creative applications."
+        },
+        {
+            "question": "Does TopMediai support multiple languages for text-to-speech?",
+            "answer": "TopMediai’s text-to-speech feature supports multiple languages, making it ideal for global content creation."
+        },
+        {
+            "question": "How accurate is the background remover tool?",
+            "answer": "The AI-powered background remover delivers precise results, isolating subjects cleanly for professional-grade visuals."
+        },
+        {
+            "question": "Can I use TopMediai on mobile devices?",
+            "answer": "TopMediai’s tools are accessible via web browsers, with some features available on mobile for convenient editing on the go."
+        },
+        {
+            "question": "Is TopMediai suitable for professional video editing?",
+            "answer": "Yes, TopMediai offers advanced AI tools like video background changers and watermark removers, ideal for professional video production."
+        }
+    ]
+}

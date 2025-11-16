@@ -1,0 +1,831 @@
+{
+    "title": "The Best 76 AI Character Tools in 2025",
+    "summary": "Discover the power of AI Character tools, designed to bring your creative visions to life. Whether you're crafting engaging narratives, developing video game characters, or enhancing virtual interactions, these innovative solutions offer personalized character generation, dynamic dialogue, and realistic emotional responses. Unlock new storytelling possibilities and elevate your projects with ease. Explore our curated selection of AI Character tools today and transform your ideas into captivating experiences! Dive in now to find the perfect tool for your creative journey.",
+    "tools": [
+        {
+            "id": "58",
+            "name": "DeepSeek",
+            "slug": "deepseek",
+            "description": "DeepSeek is an AI platform offering advanced open-source large language models for reasoning, coding, and text generation.",
+            "icon": "/logo/deepseek.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "133",
+            "name": "PolyBuzz",
+            "slug": "polybuzz",
+            "description": "PolyBuzz is an AI chatbot platform for creating and engaging with personalized AI characters for immersive roleplay and conversations.",
+            "icon": "/logo/www.polybuzz.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "31",
+            "name": "CrushOn.AI",
+            "slug": "crushon-ai",
+            "description": "CrushOn.AI is a platform for unfiltered, customizable AI chatbot interactions, specializing in emotional and NSFW character-based conversations.",
+            "icon": "/logo/crushon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Candy AI",
+            "slug": "candy-ai",
+            "description": "Candy AI is an AI-powered platform for creating and interacting with personalized virtual companions for immersive chats and emotional connection.",
+            "icon": "/logo/candy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "83",
+            "name": "Zapier",
+            "slug": "zapier",
+            "description": "Zapier is a no-code automation platform that connects apps to streamline workflows and boost productivity.",
+            "icon": "/logo/zapier.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "139",
+            "name": "Genspark",
+            "slug": "genspark",
+            "description": "Genspark is an AI-powered search engine that delivers personalized, curated answers using specialized AI agents.",
+            "icon": "/logo/www.genspark.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "78",
+            "name": "Chub AI",
+            "slug": "chub-ai",
+            "description": "Chub AI is a generative AI platform for creating and interacting with customizable AI characters for storytelling and conversation.",
+            "icon": "/logo/chub.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "74",
+            "name": "Joyland AI",
+            "slug": "joyland-ai",
+            "description": "Joyland AI is an immersive platform for creating and interacting with AI-driven characters for storytelling and roleplay.",
+            "icon": "/logo/joyland.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "118",
+            "name": "Venice AI",
+            "slug": "venice-ai",
+            "description": "Venice AI offers private, uncensored AI for generating text, images, code, and characters with a focus on user privacy and decentralization.",
+            "icon": "/logo/venice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "GPTGirlfriend",
+            "slug": "gptgirlfriend",
+            "description": "GPTGirlfriend provides AI-powered virtual companionship through engaging and realistic conversations.",
+            "icon": "/logo/gptgirlfriend.online.webp",
+            "isFree": false,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "207",
+            "name": "Undress.app",
+            "slug": "undress-app",
+            "description": "Undress.app uses AI to generate altered images by removing clothing from photos, offering users a tool for creative or personal use.",
+            "icon": "/logo/undress.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "Yodayo",
+            "slug": "yodayo",
+            "description": "Yodayo is an AI-powered creative platform for anime fans to generate art, interact with AI characters, and engage in a vibrant community.",
+            "icon": "/logo/yodayo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "325",
+            "name": "HeraHaven",
+            "slug": "herahaven",
+            "description": "HeraHaven is an AI-powered platform for creating and interacting with customizable virtual companions, offering immersive chat and image-sharing experiences.",
+            "icon": "/logo/herahaven.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "353",
+            "name": "Replika",
+            "slug": "replika",
+            "description": "Replika is an AI-powered chatbot designed to provide emotional support and companionship through personalized conversations.",
+            "icon": "/logo/replika.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Wsup.ai",
+            "slug": "wsup-ai",
+            "description": "Wsup.ai is a free platform for engaging in uncensored conversations and roleplay with customizable AI characters.",
+            "icon": "/logo/wsup.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "360",
+            "name": "HiWaifu",
+            "slug": "hiwaifu",
+            "description": "HiWaifu is an AI-powered platform offering customizable virtual companions for chat, roleplay, and personal growth.",
+            "icon": "/logo/www.hiwaifu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "409",
+            "name": "AIChatting",
+            "slug": "aichatting",
+            "description": "AIChatting is a free online platform for engaging with AI chatbots and generating text content.",
+            "icon": "/logo/www.aichatting.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "443",
+            "name": "Dippy AI",
+            "slug": "dippy-ai",
+            "description": "Dippy AI offers personalized AI companions for engaging chats, roleplay, and emotional support on mobile and web platforms.",
+            "icon": "/logo/www.dippy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "459",
+            "name": "Squibler",
+            "slug": "squibler",
+            "description": "Squibler is an AI-powered writing platform designed to help authors and screenwriters create, organize, and publish books, novels, and screenplays efficiently.",
+            "icon": "/logo/www.squibler.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "460",
+            "name": "Rubii AI",
+            "slug": "rubii-ai",
+            "description": "Rubii AI is an interactive platform for creating and engaging with AI-driven virtual characters for roleplay, storytelling, and companionship.",
+            "icon": "/logo/rubii.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "487",
+            "name": "Kupid AI",
+            "slug": "kupid-ai",
+            "description": "Kupid AI is an AI-powered chat platform offering personalized virtual companionship and immersive conversations with customizable AI characters.",
+            "icon": "/logo/www.kupid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "498",
+            "name": "Tipsy Chat",
+            "slug": "tipsy-chat",
+            "description": "Tipsy Chat is an AI-driven platform for unfiltered role-playing and storytelling with customizable virtual characters.",
+            "icon": "/logo/tipsy.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "AutoResponder.ai",
+            "slug": "autoresponder-ai",
+            "description": "AutoResponder.ai provides AI-powered automatic replies for popular messaging platforms to streamline communication.",
+            "icon": "/logo/autoresponder.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "547",
+            "name": "FLORA",
+            "slug": "flora-ai",
+            "description": "FLORA is an AI-powered creative platform that integrates text, image, and video generation tools into an infinite canvas for professionals.",
+            "icon": "/logo/www.florafauna.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "563",
+            "name": "FantasyGF",
+            "slug": "fantasygf-ai",
+            "description": "FantasyGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and roleplay.",
+            "icon": "/logo/fantasygf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "568",
+            "name": "Pygmalion",
+            "slug": "pygmalion",
+            "description": "Pygmalion is an open-source AI platform for creating and engaging in chat, role-play, and adventure experiences with dynamic AI characters.",
+            "icon": "/logo/pygmalion.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "661",
+            "name": "DreamPress AI",
+            "slug": "dreampress-ai",
+            "description": "DreamPress AI is an AI-powered platform for generating personalized fiction stories and visuals across various genres.",
+            "icon": "/logo/www.dreampress.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "577",
+            "name": "Secret Desires AI",
+            "slug": "secret-desires-ai",
+            "description": "Secret Desires AI offers a platform for creating and interacting with customizable AI companions for intimate and immersive conversations.",
+            "icon": "/logo/secretdesires.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "581",
+            "name": "Muah AI",
+            "slug": "muah-ai",
+            "description": "Muah AI is an AI companion platform offering uncensored, personalized virtual interactions through chat, voice, and photo exchanges.",
+            "icon": "/logo/muah.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "Rosebud AI",
+            "slug": "rosebud-ai",
+            "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+            "icon": "/logo/www.rosebud.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "590",
+            "name": "Botify AI",
+            "slug": "botify-ai",
+            "description": "Botify AI is a platform for creating and interacting with customizable AI-powered virtual characters for roleplay, storytelling, and companionship.",
+            "icon": "/logo/botify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "632",
+            "name": "Arcads",
+            "slug": "arcads-ai",
+            "description": "Arcads is an AI-powered platform that transforms text into high-quality video ads using customizable AI actors for marketing campaigns.",
+            "icon": "/logo/www.arcads.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "656",
+            "name": "VMate AI",
+            "slug": "vmate-ai",
+            "description": "VMate AI is an AI-powered roleplay chatbot platform for engaging with customizable virtual characters.",
+            "icon": "/logo/vmateai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "680",
+            "name": "AnimateAI",
+            "slug": "animateai",
+            "description": "AnimateAI is an all-in-one AI-powered video generation tool for creating stunning animation videos quickly and cost-effectively.",
+            "icon": "/logo/animateai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "696",
+            "name": "ChatFAI",
+            "slug": "chatfai",
+            "description": "ChatFAI is an AI-powered platform for interactive conversations with fictional and historical characters from various media.",
+            "icon": "/logo/chatfai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "701",
+            "name": "OnlyChar AI",
+            "slug": "onlychar-ai",
+            "description": "OnlyChar AI is an AI-powered platform offering uncensored NSFW chat with over 40,000 diverse virtual characters for roleplay and companionship.",
+            "icon": "/logo/www.onlychar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "706",
+            "name": "Flipped.Chat",
+            "slug": "flipped-chat",
+            "description": "Flipped.Chat is an AI-powered platform for interactive virtual dating and storytelling with customizable AI companions.",
+            "icon": "/logo/flipped.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "832",
+            "name": "Aroused.ai",
+            "slug": "aroused-ai",
+            "description": "Aroused.ai is an AI-driven platform for creating and interacting with customizable virtual characters for immersive, personalized experiences.",
+            "icon": "/logo/www.aroused.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "849",
+            "name": "SoulFun",
+            "slug": "soulfun-ai",
+            "description": "SoulFun is an AI-powered platform that enables users to create and engage with personalized virtual companions for immersive conversations and emotional support.",
+            "icon": "/logo/www.soulfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "868",
+            "name": "RPRP.ai",
+            "slug": "rprp-ai",
+            "description": "RPRP.ai is an AI-powered platform that enables users to engage in immersive role-playing experiences with customizable AI characters.",
+            "icon": "/logo/rprp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "878",
+            "name": "Dittin AI",
+            "slug": "dittin-ai",
+            "description": "Dittin AI is an uncensored AI chatbot platform that allows users to create, customize, and engage in immersive role-playing conversations with AI characters.",
+            "icon": "/logo/dittin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "901",
+            "name": "AIGirl",
+            "slug": "aigirl",
+            "description": "AIGirl is an AI-powered platform that allows users to create and interact with virtual AI girlfriends through chat, customization, and immersive experiences.",
+            "icon": "/logo/aigirl.one.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "925",
+            "name": "Charstar",
+            "slug": "charstar-ai",
+            "description": "Charstar.ai is an AI-driven platform for creating, customizing, and interacting with virtual characters for chat and role-playing experiences.",
+            "icon": "/logo/charstar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "927",
+            "name": "Uncensored",
+            "slug": "uncensored",
+            "description": "Uncensored.com is a platform providing unrestricted AI-powered chat and content generation for users seeking free expression without censorship.",
+            "icon": "/logo/uncensored.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "930",
+            "name": "Inworld AI",
+            "slug": "inworld-ai",
+            "description": "Inworld AI is a platform that enables developers to create lifelike AI characters for immersive experiences in games, entertainment, and virtual worlds.",
+            "icon": "/logo/inworld.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "944",
+            "name": "CharHub.ai",
+            "slug": "charhub-ai",
+            "description": "CharHub.ai is an AI-driven platform for creating, sharing, and interacting with virtual characters for entertainment, role-playing, and creative storytelling.",
+            "icon": "/logo/charhub.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "959",
+            "name": "MyLoves.ai",
+            "slug": "myloves-ai",
+            "description": "MyLoves.ai is an AI-powered platform that allows users to create and interact with customizable virtual romantic companions for companionship and entertainment.",
+            "icon": "/logo/www.myloves.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "962",
+            "name": "Privee AI",
+            "slug": "privee-ai",
+            "description": "Privee AI is a platform that enables users to create and interact with personalized AI companions for private, uncensored conversations.",
+            "icon": "/logo/www.priveeai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "965",
+            "name": "Cascadeur",
+            "slug": "cascadeur",
+            "description": "Cascadeur is a physics-based animation software that uses AI to streamline the creation of realistic character movements for games, films, and VFX.",
+            "icon": "/logo/cascadeur.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "967",
+            "name": "Krikey AI",
+            "slug": "krikey-ai",
+            "description": "Krikey AI is an innovative platform that harnesses artificial intelligence to simplify the creation of 3D animations, custom avatars, and AI-generated videos for creators and businesses.",
+            "icon": "/logo/www.krikey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1029",
+            "name": "SpeakPal",
+            "slug": "speakpal-ai",
+            "description": "SpeakPal is an AI-powered language learning platform that enables users to practice speaking skills through interactive conversations with AI tutors.",
+            "icon": "/logo/www.speakpal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1053",
+            "name": "OCMaker",
+            "slug": "ocmaker",
+            "description": "OCMaker is an AI-powered platform that enables users to create and customize original characters for stories, games, and art.",
+            "icon": "/logo/www.ocmaker.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1361",
+            "name": "AI CharaLab",
+            "slug": "ai-charalab",
+            "description": "AI CharaLab offers a free online AI character generator that creates lifelike characters based on user descriptions or photos, supporting various styles like realistic, anime, 3D, and fantasy.",
+            "icon": "/logo/aicharalab.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1096",
+            "name": "XJoy AI",
+            "slug": "xjoy-ai",
+            "description": "XJoy AI is an AI-powered platform specializing in NSFW content creation, virtual girlfriends, and image/video manipulations.",
+            "icon": "/logo/www.xjoy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1097",
+            "name": "Komiko",
+            "slug": "komiko",
+            "description": "Komiko is an AI-powered platform for creating comics, manga, anime art, and animations, helping users design characters, generate images, and produce professional-grade content efficiently.",
+            "icon": "/logo/komiko.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1103",
+            "name": "Tangia",
+            "slug": "tangia",
+            "description": "Tangia is a platform that enhances live streaming with AI-powered tools, interactive features, and a vast library of voices and memes for streamers.",
+            "icon": "/logo/www.tangia.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "119",
+            "name": "Nextpart AI",
+            "slug": "nextpart-ai",
+            "description": "Nextpart AI is an unrestricted NSFW AI chat platform for creating and interacting with customizable AI characters.",
+            "icon": "/logo/nextpart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1149",
+            "name": "Notebook.ai",
+            "slug": "notebook-ai",
+            "description": "Notebook.ai is a platform designed for writers and roleplayers to create and manage rich, immersive worlds for their stories and campaigns, offering core worldbuilding tools for free.",
+            "icon": "/logo/www.notebook.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1179",
+            "name": "Respeecher",
+            "slug": "respeecher",
+            "description": "Respeecher is an AI-powered platform specializing in voice cloning and conversion for film, animation, gaming, and content creation.",
+            "icon": "/logo/www.respeecher.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1184",
+            "name": "BgRem",
+            "slug": "bgrem-ai",
+            "description": "BgRem offers AI-powered tools for creating and editing images and videos, focusing on user-friendly services for content generation.",
+            "icon": "/logo/bgrem.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1212",
+            "name": "ChatAI",
+            "slug": "chatai",
+            "description": "ChatAI is an AI-powered platform that provides conversational AI tools for personal and business use, enabling users to interact with intelligent chatbots for various tasks.",
+            "icon": "/logo/chatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1229",
+            "name": "Deep Realms",
+            "slug": "deep-realms",
+            "description": "Deep Realms is an AI-powered storytelling and writing platform that enables users to create and explore characters, narratives, and worlds collaboratively with AI.",
+            "icon": "/logo/www.deeprealms.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1343",
+            "name": "GStory",
+            "slug": "gstory-ai",
+            "description": "GStory.ai is an AI-powered platform that enables users to create, customize, and generate interactive stories and narratives using advanced artificial intelligence.",
+            "icon": "/logo/www.gstory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1389",
+            "name": "MakeGirl.ai",
+            "slug": "makegirl-ai",
+            "description": "MakeGirl.ai is an AI-powered platform that offers a spicy AI chat and image generator, focusing on creating personalized AI girlfriends for digital intimacy, roleplay, and companionship.",
+            "icon": "/logo/www.makegirl.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1356",
+            "name": "Seeles AI",
+            "slug": "seeles-ai",
+            "description": "Seeles AI is an innovative platform offering AI-powered virtual companions for personalized conversations and emotional support.",
+            "icon": "/logo/www.seeles.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1310",
+            "name": "Relyable",
+            "slug": "relyable-ai",
+            "description": "Relyable is a simulation and monitoring platform for testing and evaluating AI voice agents to ensure high performance.",
+            "icon": "/logo/www.relyable.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1327",
+            "name": "MyPersonas.ai",
+            "slug": "mypersonas-ai",
+            "description": "MyPersonas.ai is an AI-powered platform that allows users to create, customize, and interact with virtual AI personas for entertainment, companionship, and creative purposes.",
+            "icon": "/logo/mypersonas.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1431",
+            "name": "AniFun.ai",
+            "slug": "anifun-ai",
+            "description": "AniFun.ai is an AI-powered platform that enables users to generate and interact with anime-style characters, images, and stories for creative entertainment.",
+            "icon": "/logo/anifun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1250",
+            "name": "Nano-Banana",
+            "slug": "nano-banana-ai",
+            "description": "Nano Banana is an advanced AI image editor that transforms images using natural language commands, offering features like character restoration, scene reconstruction, and image fusion.",
+            "icon": "/logo/www.nano-banana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1251",
+            "name": "Nano Banana",
+            "slug": "nano-banana",
+            "description": "Nano Banana is an AI-powered image generation and editing platform using Google's Gemini 2.5 Flash Image technology for fast, conversational creative workflows.",
+            "icon": "/logo/nanobanana.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1274",
+            "name": "Daymi",
+            "slug": "daymi-ai",
+            "description": "Daymi is an AI platform that creates a personalized AI clone for users to text or call, serving as an entertaining and productive companion that mirrors their personality.",
+            "icon": "/logo/daymi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1288",
+            "name": "Snowglobe",
+            "slug": "snowglobe",
+            "description": "Snowglobe is an AI-powered platform for creating and interacting with personalized virtual worlds and AI companions in a contained, immersive environment.",
+            "icon": "/logo/snowglobe.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "1449",
+            "name": "Chai Research",
+            "slug": "chai-research",
+            "description": "Chai Research is an AI company specializing in developing engaging conversational AI companions for entertainment, social interaction, and research purposes.",
+            "icon": "/logo/chai-research.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Tongyi",
+            "slug": "tongyi",
+            "description": "Tongyi is an AI-powered platform by Alibaba Cloud offering versatile tools for text, coding, and multimedia tasks.",
+            "icon": "/logo/tongyi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Wanderboat AI",
+            "slug": "wanderboat-ai",
+            "description": "Wanderboat AI is an AI-powered travel companion that simplifies trip planning with personalized itineraries and real-time recommendations.",
+            "icon": "/logo/wanderboat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-character"
+            ]
+        }
+    ]
+}

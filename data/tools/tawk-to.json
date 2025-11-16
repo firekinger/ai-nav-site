@@ -1,0 +1,56 @@
+{
+    "name": "tawk.to",
+    "description": "tawk.to provides a free live chat platform to help businesses engage with website visitors in real time.",
+    "longDescription": "tawk.to is a live chat software platform designed to enable businesses to communicate directly with website visitors, enhancing customer support and engagement. Its mission is to make customer interaction seamless and accessible by offering a free, customizable chat widget that integrates with websites and mobile apps. The platform supports businesses of all sizes, from small startups to large enterprises, by providing tools to monitor visitor behavior, respond to inquiries, and build stronger customer relationships. tawk.to stands out for its no-cost model, ensuring core features are available without subscription fees, while offering paid add-ons for advanced functionality. It solves problems related to customer service by enabling real-time communication, reducing response times, and improving user satisfaction. The platform also integrates with popular tools like WordPress, Shopify, and CRM systems for streamlined operations.",
+    "url": "https://www.tawk.to/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.tawk.to.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "tawk-to",
+    "categories": [
+        "AI Chatbot",
+        "AI Customer Service",
+        "AI CRM"
+    ],
+    "features": [
+        "The customizable chat widget allows businesses to embed a live chat feature on their website, tailored to their brand’s look and feel.",
+        "Real-time visitor tracking provides insights into user behavior, such as pages visited and time spent, to prioritize engagement.",
+        "The ticketing system enables businesses to manage customer inquiries efficiently, even when agents are offline.",
+        "Multi-language support allows businesses to communicate with customers in their preferred languages, broadening global reach.",
+        "Mobile apps for iOS and Android enable agents to respond to chats on the go, ensuring constant availability.",
+        "Integration with platforms like WordPress, Shopify, and CRMs streamlines workflows by connecting tawk.to with existing tools.",
+        "Automated triggers send proactive messages to visitors based on specific actions, increasing engagement and conversions.",
+        "The knowledge base feature lets businesses create self-service help articles, reducing repetitive inquiries.",
+        "Agent performance reports provide analytics on response times and customer satisfaction to optimize team efficiency."
+    ],
+    "faqs": [
+        {
+            "question": "Is tawk.to really free to use?",
+            "answer": "Yes, tawk.to offers a fully functional live chat platform for free, with no limits on chats or agents, though some advanced features require paid add-ons."
+        },
+        {
+            "question": "Can I customize the chat widget to match my website?",
+            "answer": "Yes, tawk.to allows full customization of the chat widget’s design, including colors, text, and positioning, to align with your brand."
+        },
+        {
+            "question": "Does tawk.to support multiple languages?",
+            "answer": "tawk.to supports over 45 languages, enabling businesses to communicate with customers globally in their preferred language."
+        },
+        {
+            "question": "Can I use tawk.to on my mobile device?",
+            "answer": "Yes, tawk.to offers mobile apps for iOS and Android, allowing agents to manage chats and tickets from anywhere."
+        },
+        {
+            "question": "Does tawk.to integrate with other platforms?",
+            "answer": "tawk.to integrates with popular platforms like WordPress, Shopify, Joomla, and various CRM systems for seamless workflows."
+        },
+        {
+            "question": "What are the paid add-ons for tawk.to?",
+            "answer": "Paid add-ons include features like removing the tawk.to branding, hiring dedicated agents, or accessing advanced AI-powered chatbots."
+        },
+        {
+            "question": "Can tawk.to help with offline customer inquiries?",
+            "answer": "Yes, tawk.to’s ticketing system captures offline messages, allowing businesses to follow up with customers later."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Hugging Face",
+    "description": "Hugging Face is a platform for sharing and building open-source machine learning models, datasets, and applications.",
+    "longDescription": "Hugging Face is an open-source platform that democratizes artificial intelligence by providing a collaborative hub for machine learning models, datasets, and demo applications. Founded in 2016, it aims to advance AI through community-driven innovation, offering over 1.7 million models and 400,000 datasets. The platform serves researchers, developers, and organizations by enabling them to discover, train, and deploy state-of-the-art ML solutions. It integrates seamlessly with popular libraries like Transformers, making it accessible for both beginners and experts. Hugging Face also promotes responsible AI with model cards that detail limitations and biases, fostering transparency. Its mission is to empower users to solve complex problems in natural language processing, computer vision, and more through shared knowledge.",
+    "url": "https://huggingface.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/huggingface.co.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "hugging-face",
+    "categories": [
+        "AI Research Tool",
+        "No-Code&Low-Code",
+        "AI Image Recognition",
+        "AI Consulting",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "The Hugging Face Hub hosts over 1.7 million open-source ML models, enabling users to explore and integrate pre-trained solutions for diverse tasks.",
+        "AutoTrain allows users to train and deploy state-of-the-art models for tasks like text classification and image recognition with minimal expertise.",
+        "Interactive Spaces provide demo apps to showcase models, allowing users to test and share ML applications directly in the browser.",
+        "Model Cards offer detailed metadata on models, including biases and limitations, to promote responsible AI usage.",
+        "The Inference API provides serverless programmatic access to models, simplifying integration into applications.",
+        "The Datasets library hosts over 400,000 datasets, supporting tasks like translation and speech recognition with easy access.",
+        "Private repositories and access tokens ensure secure storage and sharing of proprietary models and data.",
+        "Integration with libraries like Transformers and Diffusers streamlines development for NLP, vision, and generative AI tasks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Hugging Face used for?",
+            "answer": "Hugging Face is used to discover, share, and build machine learning models and datasets for tasks like NLP, computer vision, and audio processing."
+        },
+        {
+            "question": "Is Hugging Face free to use?",
+            "answer": "Yes, Hugging Face offers free access to its core features, including model and dataset hosting, with optional paid plans for enhanced resources."
+        },
+        {
+            "question": "How can I train a model on Hugging Face?",
+            "answer": "You can use AutoTrain to automatically train models on the platform or leverage the Transformers library for custom training with your datasets."
+        },
+        {
+            "question": "What are Model Cards on Hugging Face?",
+            "answer": "Model Cards provide metadata about models, including their purpose, limitations, biases, and evaluation metrics, to ensure transparency."
+        },
+        {
+            "question": "Can I host private models on Hugging Face?",
+            "answer": "Yes, Hugging Face supports private repositories for secure storage and sharing of proprietary models and datasets."
+        },
+        {
+            "question": "What types of tasks does Hugging Face support?",
+            "answer": "Hugging Face supports tasks like text classification, named entity recognition, image classification, speech recognition, and text generation."
+        },
+        {
+            "question": "How do I access Hugging Face models programmatically?",
+            "answer": "You can use the Inference API or integrate models via libraries like Transformers for programmatic access in your applications."
+        },
+        {
+            "question": "Does Hugging Face offer support for custom datasets?",
+            "answer": "Yes, users can upload custom datasets to the Hub and use them for training or sharing with the community."
+        }
+    ]
+}

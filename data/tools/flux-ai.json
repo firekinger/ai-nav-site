@@ -1,0 +1,70 @@
+{
+    "name": "Flux AI",
+    "description": "Flux AI is an advanced AI-powered platform for generating high-quality images and videos from text prompts.",
+    "longDescription": "Flux AI, developed by Black Forest Labs, is a cutting-edge text-to-image and image-to-image generation platform that leverages the FLUX.1 AI model to create stunning visuals. It offers three variants—Schnell, Dev, and Pro—catering to different user needs, from rapid image generation to professional-grade outputs. The platform is designed to provide exceptional prompt adherence, high-resolution outputs, and diverse artistic styles, making it ideal for creators, designers, and businesses. By utilizing advanced flow transformer architecture, Flux AI delivers photorealistic and detailed images quickly, outperforming competitors like Midjourney and Stable Diffusion in speed and quality. It serves a wide range of applications, from marketing visuals to concept art, and supports both personal and commercial use. The platform also fosters community-driven improvements through open-source availability on GitHub and Hugging Face.",
+    "url": "https://flux1.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/flux1.ai.webp",
+    "category": "Text to Image",
+    "categorySlug": "text-to-image",
+    "slug": "flux-ai",
+    "categories": [
+        "Text to Image",
+        "Image to Image",
+        "AI Realistic Image Generator",
+        "AI Art Generator",
+        "AI Image Upscaler",
+        "AI Video Generator",
+        "AI Design Assistant",
+        "AI Marketing"
+    ],
+    "features": [
+        "Generates high-quality images up to 2.0 megapixels from text prompts with superior prompt adherence for accurate results.",
+        "Offers three specialized models—FLUX.1 Schnell, Dev, and Pro—for varying speed and quality needs.",
+        "Supports diverse artistic styles, from photorealistic to abstract, for versatile creative applications.",
+        "Provides image-to-image generation, allowing users to refine or transform existing images based on prompts.",
+        "Enables accurate text rendering within images, ideal for signage, branding, and book covers.",
+        "Supports multiple aspect ratios and resolutions for flexible image creation across use cases.",
+        "Delivers rapid image generation, with Schnell model producing images in 1-4 steps for sub-second results.",
+        "Includes advanced spatial understanding for creating complex, multi-element scenes with precision.",
+        "Offers commercial usage rights, making it suitable for professional and business applications.",
+        "Provides LoRA fine-tuning capabilities to train models on user-specific images for personalized results."
+    ],
+    "faqs": [
+        {
+            "question": "What is Flux AI?",
+            "answer": "Flux AI is an AI-powered platform by Black Forest Labs that generates high-quality images and videos from text prompts using the FLUX.1 model."
+        },
+        {
+            "question": "Is Flux AI free to use?",
+            "answer": "Yes, Flux AI offers free credits for registered users to access its image generation models, with optional paid plans for additional credits."
+        },
+        {
+            "question": "What are the different Flux AI models?",
+            "answer": "Flux AI provides three models: FLUX.1 Schnell for fast generation, FLUX.1 Dev for developers, and FLUX.1 Pro for high-quality professional outputs."
+        },
+        {
+            "question": "Can Flux AI generate text within images?",
+            "answer": "Yes, Flux AI excels at rendering clear, readable text in images, suitable for signage, labels, and branded content."
+        },
+        {
+            "question": "What types of images can Flux AI create?",
+            "answer": "Flux AI can generate a wide range of images, including photorealistic portraits, fantasy worlds, product layouts, and abstract art, based on user prompts."
+        },
+        {
+            "question": "Is Flux AI suitable for commercial use?",
+            "answer": "Yes, Flux AI offers commercial usage rights, making it ideal for marketing, e-commerce, and professional design projects."
+        },
+        {
+            "question": "How does Flux AI compare to other image generators?",
+            "answer": "Flux AI outperforms competitors like Midjourney and Stable Diffusion in visual quality, prompt adherence, and generation speed, per user reviews and benchmarks."
+        },
+        {
+            "question": "Can I use my own images with Flux AI?",
+            "answer": "Yes, Flux AI supports image-to-image generation, allowing users to upload and modify images using text prompts."
+        },
+        {
+            "question": "Does Flux AI support video generation?",
+            "answer": "Yes, Flux AI includes video generation capabilities, supporting text-to-video and image-to-video creation for various styles."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Moonvalley",
+    "description": "Moonvalley is an AI research lab creating tools for high-definition video generation for filmmakers and creative professionals.",
+    "longDescription": "Moonvalley is a cutting-edge AI research company focused on developing generative video tools that empower filmmakers, studios, and brands to create cinematic-quality content. Its flagship model, Marey, leverages deep learning to produce high-definition videos from text prompts, storyboards, or reference inputs, tailored for professional workflows. Unlike many competitors, Moonvalley prioritizes ethical AI by training its models exclusively on licensed data, addressing copyright concerns. Founded in 2023 and backed by Y-Combinator and Khosla Ventures, the company aims to transform media production with precise, controllable, and legally compliant AI tools. It serves a growing community of creators, offering both free beta access via Discord and premium subscription plans for enhanced features. Moonvalley’s mission is to build trust with creators by providing transparent, high-quality tools that integrate seamlessly into professional filmmaking.",
+    "url": "https://www.moonvalley.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.moonvalley.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "moonvalley",
+    "categories": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI Design Generator"
+    ],
+    "features": [
+        "Marey generates high-definition cinematic videos from text prompts, enabling rapid content creation for filmmakers.",
+        "The model supports precise control over camera movements and object motion, ensuring professional-grade outputs.",
+        "Users can input storyboards or keyframes to customize video scenes with granular adjustments for professional workflows.",
+        "Moonvalley’s tools allow video-to-video transformation, applying motion from reference videos to new subjects or scenes.",
+        "The platform uses exclusively licensed training data, minimizing copyright risks for users.",
+        "Marey supports motion capture integration, allowing actors to generate scenes from simple demo reels.",
+        "The model ensures cinematic fluidity with realistic physics-based motion and high-resolution textures.",
+        "Users can create 3D environments from 2D images, enabling dynamic camera movements in virtual sets.",
+        "Moonvalley offers an indemnity policy to protect users from potential copyright challenges.",
+        "The platform integrates with professional tools, supporting filmmakers in editing and post-production workflows.",
+        "Brands can train Marey on proprietary imagery to produce broadcast-quality commercials tailored to their style.",
+        "The Discord-based interface allows creators to collaborate and provide feedback during the beta phase."
+    ],
+    "faqs": [
+        {
+            "question": "What is Moonvalley’s Marey model?",
+            "answer": "Marey is an AI-powered video generation model that creates high-definition cinematic content from text, storyboards, or reference inputs, designed for professional filmmakers."
+        },
+        {
+            "question": "Is Moonvalley free to use?",
+            "answer": "Moonvalley offers free access to its beta version through Discord, with limited features, while premium plans ($14.99, $34.99, or $149.99/month) unlock advanced capabilities."
+        },
+        {
+            "question": "How does Moonvalley ensure ethical AI usage?",
+            "answer": "Moonvalley trains its models on licensed, curated data and offers opt-out options for creators, ensuring copyright compliance and transparency."
+        },
+        {
+            "question": "Can Moonvalley generate videos for commercial use?",
+            "answer": "Yes, Moonvalley’s Marey model supports brands and studios in creating broadcast-quality commercials with customizable styles and imagery."
+        },
+        {
+            "question": "What kind of control does Marey offer filmmakers?",
+            "answer": "Marey provides granular control over camera movements, object motion, and environmental details, allowing filmmakers to tailor AI-generated content to their vision."
+        },
+        {
+            "question": "How can I access Moonvalley’s tools?",
+            "answer": "Join the Moonvalley Discord server to access the free beta, or subscribe to a premium plan for enhanced features and higher usage limits."
+        },
+        {
+            "question": "Does Moonvalley support motion capture?",
+            "answer": "Yes, Marey integrates motion capture, enabling actors to film demo reels that can be transformed into scenes with different angles or movements."
+        },
+        {
+            "question": "What makes Moonvalley different from other AI video tools?",
+            "answer": "Moonvalley stands out by using licensed training data, offering precise control for professional workflows, and prioritizing ethical AI practices."
+        }
+    ]
+}

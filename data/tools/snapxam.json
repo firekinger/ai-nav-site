@@ -1,0 +1,60 @@
+{
+    "name": "SnapXam",
+    "description": "SnapXam is an AI-powered math virtual assistant that helps students and teachers solve and understand math problems ranging from arithmetic to calculus.",
+    "longDescription": "SnapXam is a math virtual assistant powered by artificial intelligence, designed to bridge the gap in traditional math education by providing instant, step-by-step solutions and explanations. Its mission is to empower students and teachers worldwide by making math learning faster, easier, and more accessible, supporting over 500,000 users in more than 100 countries. The platform addresses common struggles in understanding mathematical concepts by offering tools that save time and enhance comprehension through visual aids and instructional content. By functioning as a 24/7 personal tutor, it solves problems efficiently and helps users grasp the underlying principles, reducing the frustration often associated with math studies.",
+    "url": "https://www.snapxam.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.snapxam.com.webp",
+    "category": "AI Math",
+    "categorySlug": "ai-math",
+    "slug": "snapxam",
+    "categories": [
+        "AI Math",
+        "AI Tutorial",
+        "AI Homework Helper",
+        "AI Diagram Generator"
+    ],
+    "features": [
+        "AI-powered math tutoring provides step-by-step solutions and explanations for problems from arithmetic to calculus, helping users understand concepts deeply.",
+        "Diagram generator allows users to create visual diagrams that highlight key elements in math problems, improving clarity and learning efficiency.",
+        "Access to over 5 million solved math problems serves as a vast reference library for users to learn from real examples anytime.",
+        "Various online calculators enable quick computations and problem-solving across different mathematical domains.",
+        "Cross-device compatibility ensures users can access solutions and tools on any device, making it convenient for on-the-go learning.",
+        "Instructional videos and math tips via an integrated YouTube channel offer additional resources for mastering tricky topics.",
+        "Symbolic and text input modes make it easy to enter complex math problems without hassle.",
+        "Premium features unlock more detailed explanations and advanced functionalities for in-depth study."
+    ],
+    "faqs": [
+        {
+            "question": "Is SnapXam free to use?",
+            "answer": "Yes, SnapXam offers basic functionality for free with a sign-up, while premium plans provide access to more detailed explanations and advanced features."
+        },
+        {
+            "question": "What types of math problems can SnapXam solve?",
+            "answer": "SnapXam can handle a wide range of problems from basic arithmetic to advanced calculus, providing step-by-step guidance for each."
+        },
+        {
+            "question": "Can SnapXam solve handwritten math problems?",
+            "answer": "Yes, users can upload images of handwritten notes or problems, and the AI will analyze and solve them accordingly."
+        },
+        {
+            "question": "Is SnapXam a legitimate tool?",
+            "answer": "Yes, SnapXam is a legitimate educational platform trusted by over 500,000 students worldwide for math assistance."
+        },
+        {
+            "question": "Who is SnapXam designed for?",
+            "answer": "SnapXam is primarily for students and teachers seeking help with math, but it's useful for anyone needing quick math solutions."
+        },
+        {
+            "question": "How does SnapXam help with learning math?",
+            "answer": "It provides explanatory videos, step-by-step breakdowns, and visual tools to make understanding math concepts faster and more effective than traditional methods."
+        },
+        {
+            "question": "Does SnapXam work on mobile devices?",
+            "answer": "Yes, SnapXam is compatible with any device, allowing users to access it anytime, anywhere for convenient learning."
+        },
+        {
+            "question": "What makes SnapXam different from other math solvers?",
+            "answer": "SnapXam stands out with its AI-powered tutoring, vast library of solved problems, and focus on educational explanations rather than just answers."
+        }
+    ]
+}

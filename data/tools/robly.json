@@ -1,0 +1,74 @@
+{
+    "name": "Robly",
+    "description": "Robly is an email marketing platform designed to boost engagement and open rates for small businesses using automation and AI-driven tools.",
+    "longDescription": "Robly is a New York-based email marketing platform founded in 2013, specializing in small business marketing automation. It leverages proprietary technologies like OpenGen and Robly A.I. to optimize email delivery and engagement by sending campaigns at peak user engagement times. The platform simplifies email campaign creation, list management, and subscriber segmentation, offering an intuitive interface and robust support. Robly aims to help businesses achieve higher open rates, up to 50% more, and grow their email lists faster through advanced automation and integrations. Its user-friendly design and cost-effective pricing make it a competitive alternative to platforms like Mailchimp and Constant Contact. Robly serves a wide range of users, including nonprofits, charities, and small businesses, with a focus on engagement and revenue growth.",
+    "url": "https://robly.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/robly.com.webp",
+    "category": "AI Email Marketing",
+    "categorySlug": "ai-email-marketing",
+    "slug": "robly",
+    "categories": [
+        "AI Email Marketing",
+        "AI Marketing",
+        "AI Landing Page Builder",
+        "AI Email Generator",
+        "AI Tools Directory",
+        "AI Lead Generation"
+    ],
+    "features": [
+        "OpenGen automatically resends campaigns to non-openers, increasing open rates by up to 50%.",
+        "Robly A.I. optimizes email send times based on subscriber behavior, enhancing engagement.",
+        "RoblyEngage segments contacts into engaged and disengaged groups, improving sender reputation and campaign performance.",
+        "Mobile-responsive email templates are optimized for higher click-through rates and quick campaign creation.",
+        "Advanced segmentation allows precise targeting using multiple conditions, behaviors, and tags for better engagement.",
+        "Drip campaigns enable personalized, automated email journeys to guide subscribers and boost conversions.",
+        "A/B testing tools compare campaign variations to identify and automatically send the best-performing version.",
+        "Drag-and-drop landing page builder creates conversion-focused pages to capture leads and subscribers.",
+        "Robust integrations with Shopify, WordPress, Zapier, and Segment streamline workflows and analytics.",
+        "Real-time analytics provide detailed campaign performance insights to drive data-informed decisions.",
+        "Exit-intent pop-ups help grow email lists by up to 5x by capturing website visitors.",
+        "Survey functionality gathers subscriber feedback to refine and improve campaign relevance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Robly's primary function?",
+            "answer": "Robly is an email marketing platform that uses AI and automation to help small businesses create, send, and optimize email campaigns for higher engagement and open rates."
+        },
+        {
+            "question": "Does Robly offer a free plan?",
+            "answer": "Yes, Robly provides a 14-day free trial with no credit card required, allowing users to test its core features."
+        },
+        {
+            "question": "How does OpenGen work?",
+            "answer": "OpenGen automatically resends email campaigns to subscribers who didn’t open the first email, boosting overall open rates by targeting non-openers."
+        },
+        {
+            "question": "Can Robly integrate with other platforms?",
+            "answer": "Robly offers over 100 integrations, including native Shopify and WordPress support, plus Zapier and Segment for seamless workflow connectivity."
+        },
+        {
+            "question": "Is Robly suitable for beginners?",
+            "answer": "Yes, Robly’s intuitive interface, drag-and-drop editor, and pre-designed templates make it easy for beginners to create professional email campaigns."
+        },
+        {
+            "question": "How does Robly A.I. improve email campaigns?",
+            "answer": "Robly A.I. analyzes subscriber behavior to determine the optimal time to send emails, increasing the likelihood of opens and engagement."
+        },
+        {
+            "question": "What kind of support does Robly offer?",
+            "answer": "Robly provides US-based, award-winning phone, chat, and email support during business hours, with quick and professional assistance."
+        },
+        {
+            "question": "How does Robly compare to Mailchimp or Constant Contact?",
+            "answer": "Robly offers advanced segmentation, AI-driven send-time optimization, and a more user-friendly interface at a lower cost than competitors like Mailchimp and Constant Contact."
+        },
+        {
+            "question": "Can I create landing pages with Robly?",
+            "answer": "Yes, Robly’s drag-and-drop builder allows users to create customizable, conversion-focused landing pages to capture leads."
+        },
+        {
+            "question": "Does Robly support nonprofit organizations?",
+            "answer": "Yes, Robly is designed to support nonprofits, charities, and educational organizations with tailored features for their email marketing needs."
+        }
+    ]
+}

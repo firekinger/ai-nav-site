@@ -1,0 +1,62 @@
+{
+    "name": "Human or Not",
+    "description": "Human or Not is a social Turing game where users chat for two minutes to determine if their partner is a human or an AI bot.",
+    "longDescription": "Human or Not is an interactive online platform developed by AI21 Labs that challenges users to distinguish between human and AI conversation partners in a two-minute chat format. The website serves as a social Turing game, testing users' ability to identify subtle differences in communication styles between humans and AI. It aims to explore the boundaries of human-AI interaction and contribute to research on AI's conversational capabilities. By engaging users in a fun and thought-provoking game, it highlights how advanced AI has become in mimicking human-like responses. The platform is accessible to anyone with an internet connection, making it a unique tool for both entertainment and research into artificial intelligence.",
+    "url": "https://www.humanornot.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.humanornot.ai.webp",
+    "category": "AI Games",
+    "categorySlug": "ai-games",
+    "slug": "human-or-not-ai",
+    "categories": [
+        "AI Games",
+        "AI Chat Generator",
+        "Humanizer AI",
+        "AI Game Generator",
+        "AI Research Tool",
+        "AI Language Learning",
+        "AI Social Media"
+    ],
+    "features": [
+        "Two-minute chat sessions allow users to interact with either a human or an AI bot, testing their ability to discern the difference.",
+        "Randomized matching ensures unpredictable pairings with either humans or AI for a fair challenge.",
+        "User-friendly interface provides a seamless chat experience with clear instructions and minimal setup.",
+        "Research contribution enables users to participate in studies on human-AI interaction by playing the game.",
+        "Instant feedback after each session reveals whether the chat partner was a human or AI, enhancing learning.",
+        "Global accessibility allows users worldwide to join the game without requiring downloads or subscriptions.",
+        "Engaging gameplay encourages repeated participation to improve skills in identifying AI versus human responses."
+    ],
+    "faqs": [
+        {
+            "question": "What is the purpose of Human or Not?",
+            "answer": "Human or Not is a social Turing game designed to test users' ability to distinguish between human and AI conversation partners while contributing to AI research."
+        },
+        {
+            "question": "Is Human or Not free to use?",
+            "answer": "Yes, the game is free to play, requiring only an internet connection and no subscription or payment."
+        },
+        {
+            "question": "How long does each game session last?",
+            "answer": "Each session lasts two minutes, during which users chat and decide if their partner is a human or an AI bot."
+        },
+        {
+            "question": "Can I play Human or Not on my mobile device?",
+            "answer": "Yes, the website is accessible on mobile devices through a browser, offering a seamless experience without needing an app."
+        },
+        {
+            "question": "Does playing the game contribute to AI research?",
+            "answer": "Yes, by participating, users help AI21 Labs study human-AI interactions and improve AI conversational models."
+        },
+        {
+            "question": "How can I tell if I'm chatting with an AI or a human?",
+            "answer": "Users must rely on conversational cues, such as response style or word choice, though some employ strategies like asking specific questions to spot AI patterns."
+        },
+        {
+            "question": "Is my personal information safe on Human or Not?",
+            "answer": "The platform does not require personal information, and there is no evidence of data breaches, though the site has faced outages."
+        },
+        {
+            "question": "Why is the website sometimes offline?",
+            "answer": "The site has experienced global outages, likely due to technical issues, which the development team is working to resolve."
+        }
+    ]
+}

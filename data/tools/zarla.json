@@ -1,0 +1,75 @@
+{
+    "name": "Zarla",
+    "description": "Zarla is an AI-powered website builder that helps users create professional, customized websites in minutes without coding expertise.",
+    "longDescription": "Zarla is an innovative platform that leverages artificial intelligence to simplify website creation for small businesses, entrepreneurs, and individuals. Its mission is to democratize web design by making it accessible to everyone, regardless of technical skills, thereby empowering users to establish an online presence quickly and affordably. The platform solves common problems like high costs, time-consuming development, and the need for professional designers by automating the entire process from content generation to layout design. Users input basic information about their business, and Zarla's AI generates a complete, mobile-optimized website with text, images, and features tailored to their needs. Additionally, it offers easy editing tools and hosting options to maintain and update sites effortlessly.",
+    "url": "https://www.zarla.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.zarla.com.webp",
+    "category": "AI Website Builder",
+    "categorySlug": "ai-website-builder",
+    "slug": "zarla",
+    "categories": [
+        "AI Website Builder",
+        "AI Content Detector",
+        "AI Design Assistant",
+        "No-Code&Low-Code",
+        "AI SEO Tools",
+        "AI Shopping Assistant",
+        "AI Image Description Generator",
+        "AI Business Ideas Generator"
+    ],
+    "features": [
+        "AI-driven website generation creates a fully functional site in under a minute based on user-provided business details, saving time and effort.",
+        "Automated content creation produces professional text, headlines, and descriptions tailored to the user's industry, ensuring high-quality copy without writing skills.",
+        "Custom image selection and editing integrates royalty-free images that match the website's theme, enhancing visual appeal effortlessly.",
+        "Mobile optimization ensures every generated website is responsive and looks great on all devices, improving user experience and SEO.",
+        "Built-in SEO tools automatically optimize the site for search engines, helping businesses get discovered online more easily.",
+        "Easy editing interface allows users to tweak designs, add pages, or update content without coding knowledge, providing flexibility.",
+        "Integrated hosting and domain management offers seamless deployment with custom domains, eliminating the need for third-party services.",
+        "E-commerce integration enables adding online stores with payment processing, supporting businesses in selling products directly.",
+        "Analytics dashboard provides insights into site performance and visitor behavior, aiding in data-driven improvements.",
+        "Multilingual support generates websites in multiple languages, expanding reach to global audiences.",
+        "Template-free design uses AI to create unique layouts, avoiding generic templates for a more personalized look."
+    ],
+    "faqs": [
+        {
+            "question": "What is Zarla?",
+            "answer": "Zarla is an AI-powered website builder that automates the creation of professional websites. It uses artificial intelligence to generate content, design, and structure based on simple user inputs about their business."
+        },
+        {
+            "question": "How does Zarla create websites?",
+            "answer": "Users provide details like business name, type, and location, and Zarla's AI instantly builds a complete site with text, images, and features. No coding or design skills are required."
+        },
+        {
+            "question": "Is Zarla free to use?",
+            "answer": "Yes, Zarla offers free website creation with core features. Premium options for advanced hosting, custom domains, and additional tools are available at a cost."
+        },
+        {
+            "question": "Can I edit the website after it's generated?",
+            "answer": "Absolutely, Zarla provides an intuitive editor to modify text, images, layouts, and add new pages. Changes are easy to make without technical expertise."
+        },
+        {
+            "question": "Does Zarla support e-commerce?",
+            "answer": "Yes, it includes e-commerce capabilities to set up online stores with product listings and payment integrations. This helps businesses sell directly from their site."
+        },
+        {
+            "question": "Is the website mobile-friendly?",
+            "answer": "All Zarla-generated websites are automatically optimized for mobile devices. They are responsive and ensure a seamless experience across phones, tablets, and desktops."
+        },
+        {
+            "question": "How does Zarla handle SEO?",
+            "answer": "Zarla incorporates built-in SEO best practices, including optimized metadata, fast loading times, and mobile responsiveness. This helps improve search engine rankings without extra effort."
+        },
+        {
+            "question": "Can I use my own domain with Zarla?",
+            "answer": "Yes, Zarla supports custom domains. You can connect an existing domain or purchase one through the platform for easy integration."
+        },
+        {
+            "question": "What industries does Zarla cater to?",
+            "answer": "Zarla is versatile and supports various industries like retail, services, restaurants, and more. The AI customizes the site based on the specific business type provided."
+        },
+        {
+            "question": "Is technical support available?",
+            "answer": "Zarla offers customer support via email and help resources. Premium users get priority assistance for any issues or questions."
+        }
+    ]
+}

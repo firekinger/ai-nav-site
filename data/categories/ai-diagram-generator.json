@@ -1,0 +1,248 @@
+{
+    "title": "The Best 22 AI Diagram Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Diagram Generator category, designed to transform complex ideas into clear, visually appealing diagrams effortlessly. These innovative tools streamline your workflow, enhance collaboration, and save you valuable time by automating the design process. Whether you're a student, professional, or educator, our AI-powered solutions cater to your unique needs, making diagram creation intuitive and efficient. Explore our curated selection of AI Diagram Generators today and elevate your visual communication to the next level!",
+    "tools": [
+        {
+            "id": "173",
+            "name": "Napkin AI",
+            "slug": "napkin-ai",
+            "description": "Napkin AI transforms ideas into visual content using AI-powered tools for diagrams, flowcharts, and infographics.",
+            "icon": "/logo/www.napkin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "249",
+            "name": "Whimsical",
+            "slug": "whimsical",
+            "description": "Whimsical is a collaborative platform for creating flowcharts, wireframes, mind maps, and project documentation to streamline team workflows.",
+            "icon": "/logo/whimsical.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "266",
+            "name": "Mermaid Chart",
+            "slug": "mermaid-chart",
+            "description": "Mermaid Chart is a platform for creating and sharing interactive diagrams and flowcharts using text-based code.",
+            "icon": "/logo/www.mermaidchart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "271",
+            "name": "Coohom",
+            "slug": "coohom",
+            "description": "Coohom is a cloud-based platform for creating 3D interior design visualizations and renderings.",
+            "icon": "/logo/www.coohom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "278",
+            "name": "Pitch",
+            "slug": "pitch",
+            "description": "Pitch is a collaborative presentation platform designed to create, share, and deliver professional slideshows efficiently.",
+            "icon": "/logo/pitch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "Piktochart",
+            "slug": "piktochart",
+            "description": "Piktochart is an online platform for creating stunning infographics, presentations, reports, and videos with AI-powered tools and templates.",
+            "icon": "/logo/piktochart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "304",
+            "name": "GitMind",
+            "slug": "gitmind",
+            "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+            "icon": "/logo/gitmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "318",
+            "name": "Beautiful.ai",
+            "slug": "beautiful-ai",
+            "description": "Beautiful.ai is an AI-powered presentation software that simplifies creating visually stunning slides.",
+            "icon": "/logo/www.beautiful.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "390",
+            "name": "Relume",
+            "slug": "relume",
+            "description": "Relume is an AI-powered website builder that accelerates the creation of sitemaps, wireframes, and designs for Webflow and Figma users.",
+            "icon": "/logo/www.relume.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "434",
+            "name": "Eraser",
+            "slug": "eraser",
+            "description": "Eraser is a collaborative platform for engineering teams to create, edit, and share technical documentation and diagrams.",
+            "icon": "/logo/www.eraser.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "501",
+            "name": "Boardmix",
+            "slug": "boardmix",
+            "description": "Boardmix is an AI-powered online whiteboard for real-time team collaboration and creative visualization.",
+            "icon": "/logo/boardmix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "552",
+            "name": "EdrawMax",
+            "slug": "edrawmax",
+            "description": "EdrawMax is an all-in-one diagramming tool powered by AI for creating professional flowcharts, mind maps, and over 280 types of diagrams.",
+            "icon": "/logo/www.edrawmax.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "662",
+            "name": "Visily",
+            "slug": "visily-ai",
+            "description": "Visily is an AI-powered UI design platform for creating high-fidelity wireframes and prototypes quickly, tailored for non-designers and teams.",
+            "icon": "/logo/www.visily.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "621",
+            "name": "ResearchRabbit",
+            "slug": "researchrabbit-ai",
+            "description": "ResearchRabbit is an AI-powered tool for discovering and organizing scholarly literature through visualization and personalized recommendations.",
+            "icon": "/logo/www.researchrabbit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "627",
+            "name": "Edraw.AI",
+            "slug": "edraw-ai",
+            "description": "Edraw.AI is an AI-powered platform for creating professional diagrams, flowcharts, and mind maps to enhance visual collaboration and productivity.",
+            "icon": "/logo/www.edraw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1122",
+            "name": "Studyable",
+            "slug": "studyable",
+            "description": "Studyable is an AI-powered study platform that helps students create flashcards, grade essays, and get instant explanations to enhance learning efficiency.",
+            "icon": "/logo/studyable.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1199",
+            "name": "RoomAI",
+            "slug": "roomai",
+            "description": "RoomAI is an AI-driven platform that enables users to generate and visualize interior design ideas for rooms based on uploaded photos and preferences.",
+            "icon": "/logo/roomai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1204",
+            "name": "SnapXam",
+            "slug": "snapxam",
+            "description": "SnapXam is an AI-powered math virtual assistant that helps students and teachers solve and understand math problems ranging from arithmetic to calculus.",
+            "icon": "/logo/www.snapxam.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "423",
+            "name": "Image to Draw.io",
+            "slug": "image-to-draw-io",
+            "description": "Image to Draw.io converts images into editable Draw.io diagrams using AI-powered precision.",
+            "icon": "/logo/imagetodrawio.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1241",
+            "name": "Streamdown",
+            "slug": "streamdown-ai",
+            "description": "Streamdown is a specialized Markdown renderer designed as a drop-in replacement for react-markdown, optimized for AI-powered streaming with enhanced formatting and security features.",
+            "icon": "/logo/streamdown.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        },
+        {
+            "id": "1251",
+            "name": "Nano Banana",
+            "slug": "nano-banana",
+            "description": "Nano Banana is an AI-powered image generation and editing platform using Google's Gemini 2.5 Flash Image technology for fast, conversational creative workflows.",
+            "icon": "/logo/nanobanana.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-diagram-generator"
+            ]
+        }
+    ]
+}

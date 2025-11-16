@@ -1,0 +1,72 @@
+{
+    "name": "GPT-OSS",
+    "description": "GPT-OSS is a platform dedicated to open-source alternatives and resources for GPT-like AI models, promoting accessible AI development.",
+    "longDescription": "GPT-OSS is a website focused on curating and sharing open-source software related to Generative Pre-trained Transformers (GPT) and similar AI technologies. Its mission is to democratize AI by providing free, community-driven alternatives to proprietary models, enabling developers, researchers, and enthusiasts to build and innovate without high costs. The platform serves users by offering repositories, tutorials, and tools that solve problems like accessibility to advanced AI, fostering collaboration in the open-source community. It addresses challenges in AI development by highlighting projects that are modifiable and distributable, encouraging ethical and transparent AI practices. Overall, GPT-OSS empowers users to experiment with AI models in various applications, from natural language processing to creative generation, while reducing dependency on commercial providers.",
+    "url": "https://gpt-oss.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gpt-oss.com.webp",
+    "category": "Open Source AI Models",
+    "categorySlug": "open-source-ai-models",
+    "slug": "gpt-oss",
+    "categories": [
+        "Open Source AI Models",
+        "AI Writing Assistants",
+        "AI Tools Directory",
+        "AI Tutorial",
+        "AI Text Generator",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Provides a curated directory of open-source GPT-like models, allowing users to discover and download free AI tools for custom projects.",
+        "Offers detailed documentation and tutorials on implementing open-source AI, helping beginners and experts alike to integrate models into their workflows.",
+        "Includes community forums for discussions and collaborations, enabling users to share insights and contribute to ongoing AI projects.",
+        "Features model comparison tools that highlight differences in performance, licensing, and capabilities among various open-source options.",
+        "Supports integration guides for popular frameworks like TensorFlow and PyTorch, streamlining the process of deploying AI models in applications.",
+        "Provides updates on the latest open-source AI developments, keeping users informed about new releases and advancements in the field.",
+        "Offers customizable AI templates for quick prototyping, reducing development time for users building chatbots or text generators.",
+        "Includes licensing information and compliance checks, ensuring users understand legal aspects of using and modifying open-source AI.",
+        "Facilitates contributions through easy submission processes, encouraging users to upload their own GPT-inspired projects.",
+        "Provides performance benchmarks for models, helping users select the most efficient options for their hardware and needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is GPT-OSS?",
+            "answer": "GPT-OSS is a platform dedicated to open-source GPT-like AI models and resources. It aims to provide free alternatives to proprietary AI technologies for developers and researchers."
+        },
+        {
+            "question": "Is GPT-OSS free to use?",
+            "answer": "Yes, all core features and resources on GPT-OSS are free, as it focuses on open-source content. Users can access models, tutorials, and forums without any cost."
+        },
+        {
+            "question": "How can I contribute to GPT-OSS?",
+            "answer": "You can contribute by submitting your open-source AI projects through the platform's submission form. Contributions are reviewed by the community to ensure quality and relevance."
+        },
+        {
+            "question": "What types of AI models are available on GPT-OSS?",
+            "answer": "The site features a variety of open-source models for natural language processing, text generation, and more, similar to GPT architectures. These include models like GPT-J, BLOOM, and community forks."
+        },
+        {
+            "question": "Does GPT-OSS offer support for beginners?",
+            "answer": "Yes, it provides beginner-friendly tutorials and documentation to help new users get started with open-source AI. Community forums also offer assistance from experienced members."
+        },
+        {
+            "question": "Can I use GPT-OSS models commercially?",
+            "answer": "Many models on GPT-OSS have permissive licenses allowing commercial use, but it's essential to check each model's specific licensing terms. The platform provides guidance on compliance."
+        },
+        {
+            "question": "How does GPT-OSS differ from proprietary AI services?",
+            "answer": "Unlike proprietary services, GPT-OSS emphasizes free, modifiable open-source options that users can host themselves. This promotes transparency and reduces costs associated with API usage."
+        },
+        {
+            "question": "Is there a mobile app for GPT-OSS?",
+            "answer": "Currently, GPT-OSS is web-based with no official mobile app, but the site is mobile-responsive. Users can access it via browsers on any device."
+        },
+        {
+            "question": "How often is the content updated on GPT-OSS?",
+            "answer": "Content is updated regularly based on community contributions and new open-source releases. Users can subscribe to newsletters for notifications on updates."
+        },
+        {
+            "question": "What programming languages are supported?",
+            "answer": "GPT-OSS supports models and tools primarily in Python, with integrations for JavaScript, Java, and others. Tutorials cover popular frameworks like Hugging Face."
+        }
+    ]
+}

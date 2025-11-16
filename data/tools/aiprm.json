@@ -1,0 +1,70 @@
+{
+    "name": "AIPRM",
+    "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+    "longDescription": "AIPRM (Artificial Intelligence-Powered Response Manager) is a Chrome extension designed to optimize the use of AI chatbots like ChatGPT and Claude by providing access to over 4,500 curated prompt templates. Its mission is to save time and improve efficiency for professionals in SEO, marketing, sales, and other fields by simplifying prompt creation and management. The platform allows users to access community-driven and expert-verified prompts, enabling high-impact content creation without requiring advanced AI expertise. AIPRM also supports businesses by offering team-sharing features and customizable prompt libraries tailored to specific industries. With over 2 million users and endorsements from major brands, it streamlines workflows for content creators, developers, and marketers. The service is available in multiple languages, making it accessible to a global audience.",
+    "url": "https://www.aiprm.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aiprm.com.webp",
+    "category": "AI Task Management",
+    "categorySlug": "ai-task-management",
+    "slug": "aiprm",
+    "categories": [
+        "AI Task Management",
+        "AI Productivity Tools",
+        "AI SEO Tools",
+        "AI Digital Marketing",
+        "AI Creative Writing",
+        "AI Project Management",
+        "AI Chatbot",
+        "AI Marketing"
+    ],
+    "features": [
+        "Access over 4,500 curated prompt templates to streamline content creation for ChatGPT and Claude, saving time and effort.",
+        "Live Crawling feature allows prompts to pull real-time data from specific URLs, enhancing research accuracy for marketers and writers.",
+        "Custom Profiles enable users to save company-specific information for automatic inclusion in prompts, ensuring consistent outputs.",
+        "Power Continue feature provides one-click continuations for ChatGPT and Claude, improving response completion for lengthy tasks.",
+        "Prompt Forking allows users to clone and customize public prompts to fit specific needs, maintaining original templates intact.",
+        "Advanced Prompt Search offers filters like topic and popularity to quickly find relevant prompts for specific use cases.",
+        "Team Lists enable sharing of curated prompt lists with team members, ensuring consistent output across organizations.",
+        "Custom Tones and Writing Styles let users define and apply a brand voice to all AI-generated content for cohesive messaging.",
+        "Omnibox integration allows users to start prompts directly from the browser's search bar, boosting productivity.",
+        "AIPRM Verified Prompts provide rigorously tested templates by experts, ensuring high-quality and reliable outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is AIPRM used for?",
+            "answer": "AIPRM is a Chrome extension that enhances ChatGPT and Claude with curated prompt templates for tasks like SEO, marketing, and content creation, streamlining workflows."
+        },
+        {
+            "question": "Is AIPRM free to use?",
+            "answer": "AIPRM offers a free version with access to thousands of community prompts, while premium plans unlock advanced features like custom tones and live crawling."
+        },
+        {
+            "question": "How does AIPRM integrate with ChatGPT?",
+            "answer": "AIPRM connects seamlessly to ChatGPT via a Chrome extension, adding a dashboard with prompt templates that users can apply with a single click."
+        },
+        {
+            "question": "Can I create my own prompts with AIPRM?",
+            "answer": "Yes, users can create and save private or public prompts, organizing them for personal or team use to suit specific tasks."
+        },
+        {
+            "question": "Does AIPRM support Claude as well as ChatGPT?",
+            "answer": "Yes, AIPRM supports both ChatGPT and Claude, offering tailored prompt templates for each platform to enhance productivity."
+        },
+        {
+            "question": "What are AIPRM Verified Prompts?",
+            "answer": "AIPRM Verified Prompts are expertly engineered and rigorously tested templates, ensuring high-quality and effective AI outputs for premium users."
+        },
+        {
+            "question": "Can teams use AIPRM for collaborative work?",
+            "answer": "AIPRM’s Team Lists feature allows sharing of prompt libraries with team members, ensuring consistent AI outputs across the organization."
+        },
+        {
+            "question": "Does AIPRM offer real-time data capabilities?",
+            "answer": "Yes, the Live Crawling feature lets users pull real-time data from specific URLs to create more relevant and up-to-date AI responses."
+        },
+        {
+            "question": "Is AIPRM suitable for non-technical users?",
+            "answer": "AIPRM is designed to be user-friendly, requiring no AI expertise, as it provides pre-built prompts for professionals of all skill levels."
+        }
+    ]
+}

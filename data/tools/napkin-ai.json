@@ -1,0 +1,53 @@
+{
+    "name": "Napkin AI",
+    "description": "Napkin AI transforms ideas into visual content using AI-powered tools for diagrams, flowcharts, and infographics.",
+    "longDescription": "Napkin AI is an innovative platform designed to help users convert complex ideas and text into visually appealing diagrams, flowcharts, and infographics with the power of artificial intelligence. The platform aims to simplify the process of creating professional-grade visuals, making it accessible for non-designers, educators, marketers, and businesses. By leveraging AI, Napkin AI enables users to input text or data, which the tool automatically transforms into customizable visual formats. It serves a wide range of users, from students creating study aids to professionals designing presentations, by streamlining workflows and reducing design time. The mission is to democratize visual storytelling, enabling anyone to create clear and impactful graphics without needing advanced design skills.",
+    "url": "https://www.napkin.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.napkin.ai.webp",
+    "category": "AI Design Generator",
+    "categorySlug": "ai-design-generator",
+    "slug": "napkin-ai",
+    "categories": [
+        "AI Design Generator",
+        "AI Infographic Generator",
+        "Storyboard AI",
+        "AI Diagram Generator",
+        "AI Course"
+    ],
+    "features": [
+        "AI-powered text-to-visual conversion generates diagrams and infographics from text input in seconds.",
+        "Customizable templates allow users to tweak colors, fonts, and layouts to match their brand or style.",
+        "Real-time collaboration enables teams to work together on visual projects seamlessly.",
+        "Export options support downloading visuals in formats like PNG, PDF, and SVG for easy sharing.",
+        "Pre-built diagram types, such as flowcharts and mind maps, cater to diverse use cases like education and business planning.",
+        "Integration with tools like Google Drive and Slack streamlines workflow for teams.",
+        "Drag-and-drop interface simplifies editing for users with no design experience.",
+        "AI-driven suggestions recommend optimal layouts and designs based on input content."
+    ],
+    "faqs": [
+        {
+            "question": "What is Napkin AI used for?",
+            "answer": "Napkin AI is used to create diagrams, flowcharts, and infographics from text or data, ideal for presentations, education, and business communication."
+        },
+        {
+            "question": "Do I need design skills to use Napkin AI?",
+            "answer": "No, Napkin AI’s intuitive interface and AI-driven tools make it easy for anyone to create professional visuals without design experience."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Napkin AI offers a free plan with limited features, allowing users to try core functionalities before upgrading."
+        },
+        {
+            "question": "Can I collaborate with my team on Napkin AI?",
+            "answer": "Yes, Napkin AI supports real-time collaboration, enabling teams to work together on visual projects."
+        },
+        {
+            "question": "What file formats can I export my visuals to?",
+            "answer": "Napkin AI allows exports in formats like PNG, PDF, and SVG for versatile use in presentations or documents."
+        },
+        {
+            "question": "Does Napkin AI integrate with other tools?",
+            "answer": "Yes, it integrates with platforms like Google Drive and Slack to enhance team workflows."
+        }
+    ]
+}

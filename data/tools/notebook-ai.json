@@ -1,0 +1,92 @@
+{
+    "name": "Notebook.ai",
+    "description": "Notebook.ai is a platform designed for writers and roleplayers to create and manage rich, immersive worlds for their stories and campaigns, offering core worldbuilding tools for free.",
+    "longDescription": "Notebook.ai is a smart notebook platform tailored for worldbuilders, catering to authors creating novels, stories, and plays, as well as dungeon masters building campaign worlds for roleplayers. Its mission is to support users in developing detailed and immersive fictional universes by providing tools to organize and expand their ideas. The platform serves users by offering a free account with essential building blocks like characters, locations, and items, personalized writing prompts, unlimited document storage, and access to a community of other worldbuilders, while also providing premium options for additional features. It integrates novel-writing software to enhance creativity and maintain continuity, ensuring users can write smarter and faster with features like searchable content and AI-driven writing analysis. By centralizing all worldbuilding elements, it solves problems like idea disorganization, continuity errors, and creative blocks for writers and gamers.",
+    "url": "https://www.notebook.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.notebook.ai.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "notebook-ai",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Creative Writing",
+        "AI Grammar Checker",
+        "AI Text Classifier",
+        "AI Style Transfer",
+        "AI Prompt Generator",
+        "AI Outline Generator",
+        "AI Character",
+        "AI Search Engine",
+        "AI Writing"
+    ],
+    "features": [
+        "Allows users to track every detail of characters, including thoughts, appearance, family, and personality, for deeper character development.",
+        "Provides specialized notebook pages for creating vibrant worlds, including countries, cities, landmarks, and more, for richer worldbuilding.",
+        "Enables users to focus on one universe at a time with automatic filtering and the ability to reorganize, sort, and write freely for better organization.",
+        "Offers the option to invite others to review shared pages, facilitating collaboration and brainstorming.",
+        "Ensures all work is backed up and protected, preventing loss of ideas with cloud storage.",
+        "Includes a built-in document editor that allows referencing any notebook page without losing writing momentum, helping users write faster.",
+        "Promotes creativity by asking questions about created pages to help flesh out ideas.",
+        "Performs continuity checks to ensure consistency by storing all facts in one place, preventing contradictions.",
+        "Features a searchable interface to quickly find any content, including random thoughts from past entries.",
+        "Analyzes writing with world-class artificial intelligence to measure readability, style, emotion, and more, aiding in writing improvement.",
+        "Supports long-term planning with no limits other than the user's imagination, growing with the user's needs.",
+        "Offers premium subscriptions that unlock 25 additional customizable page templates, each with writing prompts, for enhanced worldbuilding.",
+        "Allows creation of timelines to plot events over time, tracking every step of the way.",
+        "Enables users to collect and organize notebook pages into customizable, shareable, or collaborative collections."
+    ],
+    "faqs": [
+        {
+            "question": "What is Notebook.ai used for?",
+            "answer": "It is used by writers and roleplayers to create and manage rich, immersive worlds for novels, stories, campaigns, and more."
+        },
+        {
+            "question": "Is there a free version of Notebook.ai?",
+            "answer": "Yes, it offers a free Starter plan with core features like planning up to 5 universes, unlimited characters, locations, and items, and 50MB of image uploads, with no card needed."
+        },
+        {
+            "question": "Can I collaborate with others on Notebook.ai?",
+            "answer": "Yes, you can invite anyone to review shared pages, facilitating brainstorming and collaboration."
+        },
+        {
+            "question": "Does Notebook.ai have AI features?",
+            "answer": "Yes, it includes AI-driven writing analysis to measure readability, style, emotion, and more, helping improve writing."
+        },
+        {
+            "question": "How does Notebook.ai help with writing continuity?",
+            "answer": "It stores all facts in one place, performing continuity checks to ensure you don’t accidentally contradict yourself."
+        },
+        {
+            "question": "What additional features does a premium subscription offer?",
+            "answer": "A premium subscription unlocks 25 additional customizable page templates with writing prompts, enhancing worldbuilding capabilities."
+        },
+        {
+            "question": "Is my work safe on Notebook.ai?",
+            "answer": "Yes, it backs up and protects your work with cloud storage, ensuring your notebook is safe and private by default, though shareable if chosen."
+        },
+        {
+            "question": "Can I organize multiple universes on Notebook.ai?",
+            "answer": "Yes, you can plan up to 5 universes on the free plan, focusing on one at a time with automatic filtering."
+        },
+        {
+            "question": "Are there ads on Notebook.ai?",
+            "answer": "No, the platform ensures no ads, providing a distraction-free experience."
+        },
+        {
+            "question": "How can I access writing prompts on Notebook.ai?",
+            "answer": "Writing prompts are available for free, personalized to your world, and additional prompts come with premium page templates."
+        },
+        {
+            "question": "Can I upload images to Notebook.ai?",
+            "answer": "Yes, the free plan allows uploading up to 50MB of images."
+        },
+        {
+            "question": "Does Notebook.ai support timeline creation?",
+            "answer": "Yes, users can create timelines to plot events over time and track progress in their worlds."
+        },
+        {
+            "question": "How does the AI analyze writing on Notebook.ai?",
+            "answer": "The AI measures readability, style, emotion, and other aspects to help users improve their writing quality and consistency."
+        }
+    ]
+}

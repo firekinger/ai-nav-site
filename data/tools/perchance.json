@@ -1,0 +1,62 @@
+{
+    "name": "Perchance",
+    "description": "Perchance is a platform for creating and using random text and AI-powered content generators, offering tools for storytelling, character creation, and image generation.",
+    "longDescription": "Perchance is a versatile website that enables users to create custom random text generators using a simple, JavaScript-based interface, fostering creativity and coding interest. It supports a wide range of AI-driven tools, including text-to-image generators, story writers, and character creators, all accessible without mandatory sign-ups or usage limits. The platform's mission is to make coding accessible through a smooth learning curve, inspired by other random text languages like randomgen and Rant. Perchance serves hobbyists, writers, game designers, and educators by providing free, unlimited tools for generating creative content like stories, characters, and artwork. Its community-driven hub allows users to share and explore generators, enhancing collaborative creativity. The platform also includes safeguards like warnings for potential NSFW content, ensuring a user-friendly experience.",
+    "url": "https://perchance.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/perchance.org.webp",
+    "category": "AI Text Generator",
+    "categorySlug": "ai-text-generator",
+    "slug": "perchance",
+    "categories": [
+        "AI Text Generator",
+        "AI Image Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Roleplay",
+        "AI Course"
+    ],
+    "features": [
+        "Random Text Generator allows users to create customizable lists for generating dynamic text outputs, ideal for storytelling or game design.",
+        "AI Image Generator produces high-quality images from text prompts, supporting styles like anime, realistic, and fantasy without watermarks or limits.",
+        "AI Story Generator creates long-form stories or scripts based on user prompts, offering unlimited generation in various genres like horror or fantasy.",
+        "AI Character Creator designs detailed character profiles, including appearance and personality, for use in RPGs, novels, or fan fiction.",
+        "Perchance AI Chat enables unlimited roleplay with custom AI characters, supporting image generation within chats for immersive experiences.",
+        "Community Hub provides a platform for users to share, discover, and collaborate on custom generators, fostering a creative community.",
+        "No Sign-Up Required ensures instant access to all tools without account creation, prioritizing user convenience and accessibility.",
+        "Plugin Support enhances generator functionality with additional features, allowing users to customize and extend their creations."
+    ],
+    "faqs": [
+        {
+            "question": "What is Perchance used for?",
+            "answer": "Perchance is used to create random text generators and AI-powered content like stories, characters, and images for creative projects."
+        },
+        {
+            "question": "Do I need to sign up to use Perchance?",
+            "answer": "No, Perchance offers all its core features for free without requiring a login or sign-up, ensuring instant access."
+        },
+        {
+            "question": "Is Perchance safe to use?",
+            "answer": "Perchance is generally safe, with users reporting no major issues since 2023, though saving images locally is recommended as the site’s gallery may not persist."
+        },
+        {
+            "question": "Can I create my own generator on Perchance?",
+            "answer": "Yes, Perchance allows users to build custom generators using its JavaScript-based interface, with tutorials to guide beginners."
+        },
+        {
+            "question": "Does Perchance support NSFW content?",
+            "answer": "Perchance may flag sensitive content, but its freeform AI can generate NSFW material if explicitly prompted, though it defaults to PG content."
+        },
+        {
+            "question": "What types of images can the AI Image Generator create?",
+            "answer": "The AI Image Generator can create anime, realistic, cartoon, and fantasy images, including characters, landscapes, and fursonas, with no usage limits."
+        },
+        {
+            "question": "Can I use Perchance for commercial projects?",
+            "answer": "Perchance’s terms are not explicitly clear on commercial use, so users should review the site’s policies or contact support for clarification."
+        },
+        {
+            "question": "How fast is content generation on Perchance?",
+            "answer": "Perchance is designed for fast generation, creating images or text in seconds, though performance may vary based on server load."
+        }
+    ]
+}

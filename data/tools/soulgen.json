@@ -1,0 +1,67 @@
+{
+    "name": "SoulGen",
+    "description": "SoulGen is an AI-powered platform that generates stunning anime and realistic images or videos from text prompts, enabling users to create customized characters and artwork.",
+    "longDescription": "SoulGen is an innovative AI art generator designed to transform text prompts into high-quality anime and photorealistic images or videos, catering to artists, designers, and creative enthusiasts. By leveraging advanced machine learning algorithms and deep neural networks, it produces unique, copyright-free visuals based on user descriptions. The platform is user-friendly, requiring only a few steps to create personalized characters or edit images, making it accessible for both professional and casual use. SoulGen also offers features like face-swapping and AI outpainting, allowing users to expand or modify their creations with ease. Its mission is to empower users to bring their imaginative visions to life without needing advanced hardware or technical expertise. The platform supports commercial use for self-created art, ensuring flexibility for creators.",
+    "url": "https://www.soulgen.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.soulgen.net.webp",
+    "category": "AI Art Generator",
+    "categorySlug": "ai-art-generator",
+    "slug": "soulgen",
+    "categories": [
+        "AI Art Generator",
+        "Text to Image",
+        "AI Anime Art",
+        "AI Portrait Generator",
+        "AI Face Swap Generator",
+        "AI Outpainting",
+        "AI Video Generator",
+        "NSFW",
+        "Large Language Models (LLMs)",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Text-to-image generation creates high-quality anime or realistic images from user-provided text prompts, enabling rapid artwork creation.",
+        "AI outpainting allows users to expand images by adding new elements like backgrounds or characters through simple text prompts.",
+        "Face-swapping lets users upload a reference photo to generate characters with similar facial features, enhancing personalization.",
+        "Image-to-video generation transforms static images into 5-second dynamic videos with smooth motion and high visual consistency.",
+        "Image editing enables users to modify or remove elements from images using AI inpainting for seamless results.",
+        "Multiple style options allow users to choose between anime and realistic models, catering to diverse creative preferences.",
+        "Copyright-free outputs ensure that generated images are unique and usable for commercial purposes when created by the user.",
+        "User-friendly interface simplifies the creation process, requiring only three steps to generate or edit artwork.",
+        "NSFW content generation supports the creation of uncensored anime or realistic images and videos for specific use cases."
+    ],
+    "faqs": [
+        {
+            "question": "What is SoulGen used for?",
+            "answer": "SoulGen is an AI-powered tool that generates anime and realistic images or videos from text prompts, ideal for creating custom characters and artwork."
+        },
+        {
+            "question": "Is there a free trial available for SoulGen?",
+            "answer": "Yes, SoulGen offers a free trial that allows users to test its core features with limited usage."
+        },
+        {
+            "question": "Can I use SoulGen-generated images for commercial purposes?",
+            "answer": "Yes, images created by users on SoulGen are copyright-free and can be used commercially if self-created."
+        },
+        {
+            "question": "How does SoulGen’s face-swapping feature work?",
+            "answer": "Users upload a reference photo, and SoulGen’s AI generates a character with similar facial features, offering high accuracy in personalization."
+        },
+        {
+            "question": "Does SoulGen require advanced hardware or software?",
+            "answer": "No, SoulGen is a web-based platform that operates online, requiring no high-end devices or software downloads."
+        },
+        {
+            "question": "Can I edit images with SoulGen?",
+            "answer": "Yes, SoulGen’s AI inpainting and outpainting features allow users to modify, extend, or remove elements from images using text prompts."
+        },
+        {
+            "question": "What types of styles does SoulGen support?",
+            "answer": "SoulGen supports both anime and realistic styles, allowing users to choose based on their creative needs."
+        },
+        {
+            "question": "Is SoulGen’s video generation feature reliable?",
+            "answer": "SoulGen’s video generator uses advanced AI to produce smooth, high-quality videos with over 95% appearance consistency across frames."
+        }
+    ]
+}

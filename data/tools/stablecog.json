@@ -1,0 +1,81 @@
+{
+    "name": "Stablecog",
+    "description": "Stablecog is a free, multilingual, and open-source AI image generator that creates stunning art from text prompts or input images using models like Stable Diffusion, FLUX, and Kandinsky.",
+    "longDescription": "Stablecog is an innovative, open-source platform designed to democratize art creation by leveraging AI technologies such as Stable Diffusion, FLUX, and Kandinsky. It allows users to generate high-quality images and artworks in seconds based on textual descriptions or by transforming existing input images. The mission of Stablecog is to make advanced AI art generation accessible to everyone, supporting multiple languages and offering a free tier to encourage creativity without barriers. By solving the problem of requiring artistic skills or expensive tools, it empowers hobbyists, designers, and professionals to produce diverse styles of digital art effortlessly. This platform stands out for its user-friendly interface and commitment to open-source principles, fostering a community-driven approach to AI innovation.",
+    "url": "https://stablecog.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/stablecog.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "stablecog",
+    "categories": [
+        "AI Image Generator",
+        "Image to Image",
+        "AI Art Generator",
+        "Open Source AI Models",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Text-to-image generation enables users to create detailed artworks by simply describing ideas in text, saving time and eliminating the need for drawing skills.",
+        "Image-to-image functionality allows transformation of uploaded images into new art pieces by applying different styles or modifications, enhancing creative flexibility.",
+        "Support for thousands of artistic styles lets users experiment with various aesthetics, from realistic to abstract, to match their vision perfectly.",
+        "Multilingual interface accommodates users worldwide by supporting multiple languages for prompts and navigation, broadening accessibility.",
+        "Open-source nature encourages community contributions and transparency, allowing advanced users to customize or extend the tool's capabilities.",
+        "User-generated gallery showcases community creations, inspiring users and providing examples of what's possible with the platform.",
+        "Real-time generation delivers quick results, enabling rapid iteration and experimentation during the creative process.",
+        "Cloud storage integration keeps generated images secure and accessible from anywhere, streamlining workflow management.",
+        "Parallel generations in paid plans speed up production by creating multiple images simultaneously, ideal for high-volume users.",
+        "Commercial use rights on paid tiers permit users to monetize AI-generated art without legal concerns, supporting professional applications.",
+        "Credit top-up options provide flexibility to exceed monthly limits, ensuring uninterrupted access for demanding projects.",
+        "High-resolution outputs up to 512x512 on free plan, with higher options available, deliver professional-quality visuals suitable for various uses."
+    ],
+    "faqs": [
+        {
+            "question": "Is Stablecog free to use?",
+            "answer": "Yes, Stablecog offers a free plan with 20 images per day, slow generation, and personal use only. Paid plans start from $10/month for more features and higher limits."
+        },
+        {
+            "question": "What AI models does Stablecog use?",
+            "answer": "Stablecog utilizes Stable Diffusion, FLUX, and Kandinsky models to generate images from text or input images."
+        },
+        {
+            "question": "Can I use generated images commercially?",
+            "answer": "Commercial use is allowed on paid plans starting from the Starter tier. The free plan is for personal use only."
+        },
+        {
+            "question": "How many images can I generate on the free plan?",
+            "answer": "The free plan allows up to 20 images per day with a maximum of 1 image per generation."
+        },
+        {
+            "question": "Can I cancel my subscription anytime?",
+            "answer": "Yes, you can cancel your plan at any time, and changes will take effect at the end of the current billing cycle."
+        },
+        {
+            "question": "Does Stablecog support multilingual prompts?",
+            "answer": "Yes, the platform is multilingual, allowing users to input prompts in various languages for global accessibility."
+        },
+        {
+            "question": "Can I upgrade or downgrade my plan?",
+            "answer": "Yes, you can upgrade or downgrade your plan at any time to adjust to your changing needs."
+        },
+        {
+            "question": "Are generated images private?",
+            "answer": "On the free plan, images are public, but paid plans offer private image storage."
+        },
+        {
+            "question": "Can I buy additional credits?",
+            "answer": "Yes, optional credit top-ups are available on paid plans to generate more images beyond monthly limits."
+        },
+        {
+            "question": "What is the maximum resolution for free generations?",
+            "answer": "The free plan supports up to 512x512 resolution for image downloads."
+        },
+        {
+            "question": "Is Stablecog open-source?",
+            "answer": "Yes, Stablecog is open-source, allowing users to view, modify, and contribute to the codebase on GitHub."
+        },
+        {
+            "question": "How fast is image generation?",
+            "answer": "Generation is slow on the free plan but fast on paid plans, with options for parallel processing."
+        }
+    ]
+}

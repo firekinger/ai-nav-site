@@ -1,0 +1,53 @@
+{
+    "name": "Gizmo AI",
+    "description": "Gizmo AI provides a platform for creating and managing AI-powered chatbots to enhance user engagement and automate tasks.",
+    "longDescription": "Gizmo AI is a platform designed to simplify the creation, deployment, and management of AI-powered chatbots for businesses and individuals. Its mission is to democratize access to conversational AI, enabling users to build custom chatbots without extensive coding knowledge. The platform supports seamless integration with websites, social media, and messaging apps, offering tools to enhance customer support, lead generation, and user interaction. By leveraging advanced natural language processing, Gizmo AI helps users automate repetitive tasks and deliver personalized experiences. It caters to a wide range of industries, from e-commerce to education, making AI accessible and practical. The platform emphasizes user-friendly design and scalability to meet diverse needs.",
+    "url": "https://gizmo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gizmo.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "gizmo-ai",
+    "categories": [
+        "AI Chatbot",
+        "AI Customer Service",
+        "AI Lead Generation",
+        "AI Productivity Tools",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Drag-and-drop chatbot builder enables users to create AI-powered bots without coding expertise.",
+        "Integration with platforms like Slack, WhatsApp, and websites streamlines communication across channels.",
+        "Advanced NLP allows chatbots to understand and respond to user queries with high accuracy.",
+        "Analytics dashboard provides insights into user interactions and chatbot performance.",
+        "Customizable templates accelerate the creation of industry-specific chatbot solutions.",
+        "Multi-language support enables chatbots to communicate in various languages for global reach.",
+        "Automated task handling reduces manual workload by managing repetitive customer inquiries.",
+        "Real-time updates allow users to refine chatbot responses based on evolving needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gizmo AI used for?",
+            "answer": "Gizmo AI is used to create and manage AI-powered chatbots that automate customer support, lead generation, and user engagement across various platforms."
+        },
+        {
+            "question": "Do I need coding skills to use Gizmo AI?",
+            "answer": "No, Gizmo AI offers a drag-and-drop interface that allows users to build chatbots without any coding knowledge."
+        },
+        {
+            "question": "Can Gizmo AI chatbots integrate with my website?",
+            "answer": "Yes, Gizmo AI supports seamless integration with websites, social media, and messaging apps like Slack and WhatsApp."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Gizmo AI offers a free plan with limited features, suitable for small-scale or trial use."
+        },
+        {
+            "question": "How does Gizmo AI ensure chatbot accuracy?",
+            "answer": "Gizmo AI uses advanced natural language processing to ensure chatbots understand and respond accurately to user queries."
+        },
+        {
+            "question": "Can I customize my chatbot’s responses?",
+            "answer": "Yes, Gizmo AI allows users to customize chatbot responses and adapt them to specific industries or use cases."
+        }
+    ]
+}

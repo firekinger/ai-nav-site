@@ -1,0 +1,62 @@
+{
+    "name": "Freed",
+    "description": "Freed is an AI-powered medical scribe that automates clinical documentation to save clinicians time.",
+    "longDescription": "Freed is an AI-driven platform designed to alleviate the administrative burden of medical documentation for healthcare professionals. By acting as a virtual medical scribe, it listens to patient-doctor interactions, transcribes conversations, and generates comprehensive SOAP notes in real time. Founded in 2022, Freed aims to reduce clinician burnout by cutting down documentation time, allowing doctors to focus on patient care. The platform is HIPAA-compliant, integrates with popular EHR systems, and adapts to individual clinician styles through self-learning AI. It serves a wide range of healthcare providers, including hospital systems, private practices, and specialists, and has gained traction with over 17,000 paying clinicians since its launch.",
+    "url": "https://www.getfreed.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getfreed.ai.webp",
+    "category": "AI Healthcare",
+    "categorySlug": "ai-healthcare",
+    "slug": "freed",
+    "categories": [
+        "AI Healthcare",
+        "AI Transcription",
+        "AI Note Taker",
+        "AI Document Extraction",
+        "AI Mental Health"
+    ],
+    "features": [
+        "Real-time transcription captures patient-doctor conversations accurately, reducing manual note-taking.",
+        "Automated SOAP note generation creates structured clinical notes instantly, saving clinicians hours daily.",
+        "Self-learning AI adapts to individual clinician styles and preferences, improving note accuracy over time.",
+        "HIPAA-compliant technology ensures patient data security and confidentiality during documentation.",
+        "Seamless EHR integration allows easy copy-paste or direct syncing with systems like Athena and eClinicalWorks.",
+        "Magic Edit feature enables clinicians to instruct AI for precise note adjustments with minimal effort.",
+        "Cross-device compatibility supports documentation on phones, tablets, or desktops for flexible use.",
+        "Instant note review provides completed notes immediately after visits, enhancing workflow efficiency.",
+        "Free trial offers 10 free visits to test Freed’s capabilities without requiring a credit card."
+    ],
+    "faqs": [
+        {
+            "question": "What is Freed AI?",
+            "answer": "Freed AI is a medical scribe that uses artificial intelligence to transcribe patient visits and generate SOAP notes, reducing documentation time for clinicians."
+        },
+        {
+            "question": "How does Freed create clinical notes?",
+            "answer": "Clinicians press the 'Capture' button to record a patient visit, and Freed’s AI transcribes the conversation and generates a SOAP note instantly."
+        },
+        {
+            "question": "Is Freed HIPAA-compliant?",
+            "answer": "Yes, Freed adheres to HIPAA, HITECH, and SOC2 standards to ensure patient data security and confidentiality."
+        },
+        {
+            "question": "Does Freed integrate with EHR systems?",
+            "answer": "Freed integrates seamlessly with popular EHR systems like Athena and eClinicalWorks via copy-paste or direct integration."
+        },
+        {
+            "question": "Is there a free trial for Freed?",
+            "answer": "Yes, Freed offers a 7-day free trial with 10 free visits, requiring no credit card to start."
+        },
+        {
+            "question": "Can Freed adapt to my documentation style?",
+            "answer": "Freed’s self-learning AI customizes notes to match a clinician’s style and preferences with each edit."
+        },
+        {
+            "question": "Who can use Freed?",
+            "answer": "Freed is designed for clinicians in various settings, including hospitals, private practices, and specialties like dermatology or pediatrics."
+        },
+        {
+            "question": "How much time can Freed save clinicians?",
+            "answer": "Freed saves clinicians approximately 2 hours per day by automating documentation tasks."
+        }
+    ]
+}

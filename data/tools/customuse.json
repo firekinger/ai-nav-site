@@ -1,0 +1,65 @@
+{
+    "name": "Customuse",
+    "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+    "longDescription": "Customuse is an AI-driven 3D design platform that empowers creators to design custom game skins, augmented reality (AR) filters, and clothing mockups for platforms like Roblox, Minecraft, and social media apps such as Snapchat and TikTok. Its mission is to democratize 3D creation by providing intuitive tools that require no advanced design skills, making it accessible to beginners and professionals alike. The platform supports a community of over 3 million creators who can share, explore, and monetize their designs. By offering templates, a drag-and-drop editor, and AI-assisted features, Customuse simplifies the creation process and enables direct integration with gaming platforms like Roblox Studio. It addresses the need for personalized digital assets in gaming and social media, fostering creativity and community engagement. The platform also provides opportunities for users to earn rewards through tasks, giveaways, and design sales.",
+    "url": "https://customuse.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/customuse.com.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "customuse",
+    "categories": [
+        "AI 3D Model Generator",
+        "AI Design Assistant",
+        "AI Game Generator",
+        "AI Design Generator",
+        "Minecraft AI",
+        "AI Social Media Post Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Create customizable Roblox and Minecraft skins using AI-powered templates for quick and unique designs.",
+        "Directly export designs to Roblox Studio, streamlining the process of integrating custom avatars into games.",
+        "Design AR filters for Snapchat, TikTok, and Instagram to enhance social media content with personalized effects.",
+        "Use AI-driven design suggestions to generate creative ideas tailored to user preferences.",
+        "Access a drag-and-drop editor that simplifies 3D modeling for users of all skill levels.",
+        "Choose from a wide range of free and premium templates for clothing, accessories, and patterns.",
+        "Create 3D clothing mockups for virtual fashion design and social media branding.",
+        "Join a community of over 3 million creators to share, explore, and monetize designs.",
+        "Use the platform across multiple devices, including mobile, desktop, and tablets, for flexible design workflows.",
+        "Participate in giveaways and tasks to earn free downloads and rewards without a subscription."
+    ],
+    "faqs": [
+        {
+            "question": "What is Customuse used for?",
+            "answer": "Customuse is a platform for creating 3D game skins, AR filters, and clothing mockups for platforms like Roblox, Minecraft, Snapchat, and TikTok."
+        },
+        {
+            "question": "Is Customuse free to use?",
+            "answer": "Yes, Customuse offers a free plan with limited downloads and templates, but premium features require a subscription or task completion for additional access."
+        },
+        {
+            "question": "Can I export my designs to Roblox?",
+            "answer": "Customuse allows direct integration with Roblox Studio, enabling users to publish their custom skins seamlessly into the game."
+        },
+        {
+            "question": "Do I need design experience to use Customuse?",
+            "answer": "No, Customuse’s intuitive drag-and-drop editor and AI tools make it easy for beginners and professionals to create designs."
+        },
+        {
+            "question": "What platforms does Customuse support?",
+            "answer": "Customuse supports design creation for Roblox, Minecraft, Zepeto, Snapchat, TikTok, and Instagram, among others."
+        },
+        {
+            "question": "How can I download my designs for free?",
+            "answer": "Free users can unlock downloads by completing tasks, participating in giveaways, or inviting friends via the Customuse Discord community."
+        },
+        {
+            "question": "Is Customuse safe to use?",
+            "answer": "Customuse is generally considered safe, with positive trust scores, but users should review privacy policies and avoid sharing sensitive information."
+        },
+        {
+            "question": "Can I monetize my designs on Customuse?",
+            "answer": "Yes, creators can resell their designs within the Customuse community, offering long-term earning potential."
+        }
+    ]
+}

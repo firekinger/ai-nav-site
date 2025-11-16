@@ -1,0 +1,66 @@
+{
+    "name": "Reface",
+    "description": "Reface is an AI-powered platform for creating realistic face swaps and animations in photos, videos, and GIFs.",
+    "longDescription": "Reface is a mobile and web application that leverages advanced AI to enable users to swap faces in photos, videos, and GIFs with high realism. Its mission is to make creative content creation accessible, fun, and engaging for users worldwide, from casual social media enthusiasts to professional marketers. Using deep learning and Generative Adversarial Networks (GANs), Reface seamlessly maps a user's selfie onto various media, producing lifelike results in seconds. The platform serves millions in over 100 countries, offering tools for entertainment, meme creation, and professional headshot generation. It also emphasizes user privacy by limiting data retention and ensuring secure processing. Reface continues to evolve, with plans for features like full-body transformation and AR integration.",
+    "url": "https://reface.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/reface.ai.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "reface-ai",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Avatar Generator",
+        "AI Photo Editor",
+        "AI Video Editor",
+        "AI Meme Generator",
+        "AI Headshot Generator",
+        "Gender Swap AI",
+        "AI Animation Generator",
+        "AI Creative Writing",
+        "Large Language Models (LLMs)"
+    ],
+    "features": [
+        "Face swapping allows users to replace faces in photos, videos, or GIFs with a single selfie for realistic, entertaining results.",
+        "AI avatar creation generates stylized digital representations of users from any photo for social media or branding.",
+        "Hair color and style changer lets users experiment with new looks virtually to enhance photos or try creative styles.",
+        "Gender swap feature transforms a user’s appearance to explore different gender presentations in a fun, creative way.",
+        "Photo retouching tools enhance facial features, smooth skin, and correct imperfections for polished results.",
+        "Meme and GIF maker enables users to create shareable, humorous content with personalized face swaps.",
+        "Video face swap transforms user-uploaded or YouTube videos into dynamic, face-swapped clips for engaging content.",
+        "AI headshot generator creates professional-grade portraits for resumes, social profiles, or marketing materials."
+    ],
+    "faqs": [
+        {
+            "question": "What is Reface used for?",
+            "answer": "Reface is used to swap faces in photos, videos, and GIFs, create AI avatars, and generate professional headshots or memes using AI technology."
+        },
+        {
+            "question": "Is Reface free to use?",
+            "answer": "Reface offers a free plan with limited access to core features, while a premium subscription unlocks unlimited swaps and advanced tools."
+        },
+        {
+            "question": "How does Reface ensure user privacy?",
+            "answer": "Reface retains photos for only 24 hours after editing and facial data for 30 days, ensuring no third-party sharing and secure processing."
+        },
+        {
+            "question": "Can I use Reface for professional purposes?",
+            "answer": "Yes, Reface’s AI headshot generator and face swap tools can create professional portraits for resumes, branding, or marketing."
+        },
+        {
+            "question": "What types of media can I use with Reface?",
+            "answer": "Reface supports photos (JPG, PNG, WEBP), videos (MP4, MOV, WEBM), and GIFs for face swapping and animation."
+        },
+        {
+            "question": "Does Reface work on both mobile and web?",
+            "answer": "Yes, Reface is available as a mobile app on iOS and Android and as a web app for easy access."
+        },
+        {
+            "question": "Can I cancel my Reface premium subscription?",
+            "answer": "Yes, you can cancel or downgrade your plan anytime, with a 24-hour money-back guarantee if no tokens are used."
+        },
+        {
+            "question": "Why do some users report issues with Reface?",
+            "answer": "Some users have noted occasional app crashes or unintuitive interface changes, but Reface actively works to address feedback."
+        }
+    ]
+}

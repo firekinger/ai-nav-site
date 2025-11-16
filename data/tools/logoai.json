@@ -1,0 +1,61 @@
+{
+    "name": "LogoAI",
+    "description": "LogoAI is an AI-powered platform that enables businesses to create professional logos and cohesive brand identities effortlessly.",
+    "longDescription": "LogoAI is an AI-driven logo design and brand automation platform designed to help small businesses and entrepreneurs create professional logos and matching brand identities quickly. By leveraging advanced artificial intelligence, it generates unique logo designs based on user inputs like business name, industry, and design preferences, streamlining the branding process. The platform eliminates the need for extensive design expertise or costly consultations, making it accessible for startups and individuals. Beyond logo creation, LogoAI offers tools to produce branded assets like business cards, social media graphics, and mockups, ensuring a consistent visual identity. Its mission is to empower users to build professional, memorable brands with ease and efficiency, even on a limited budget.",
+    "url": "https://www.logoai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.logoai.com.webp",
+    "category": "AI Logo Generator",
+    "categorySlug": "ai-logo-generator",
+    "slug": "logoai",
+    "categories": [
+        "AI Logo Generator",
+        "AI Graphic Design",
+        "AI Product Manager",
+        "AI Social Media",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "AI-powered logo generator creates unique, professional logos based on user inputs in seconds, saving time and costs.",
+        "Customizable logo editor allows users to adjust fonts, colors, symbols, and layouts for a tailored design.",
+        "Brand identity tools provide matching business cards, social media graphics, and mockups for consistent branding.",
+        "High-resolution logo downloads include JPG, PNG, PDF, and vector files suitable for print and digital use.",
+        "Brand automation feature generates on-brand social media content to enhance online presence.",
+        "Logo design engine incorporates best practices to ensure aesthetically pleasing and professional results.",
+        "One-click brand center activation streamlines the creation of consistent visuals across all branded content.",
+        "Dozens of customizable business card templates are generated based on the logo’s style and colors."
+    ],
+    "faqs": [
+        {
+            "question": "How does LogoAI generate logos?",
+            "answer": "LogoAI uses advanced AI algorithms to analyze user inputs like business name, industry, and design preferences, creating multiple professional logo options instantly."
+        },
+        {
+            "question": "Is LogoAI free to use?",
+            "answer": "LogoAI offers free access to its logo generator with limited features, while premium features and high-resolution downloads require a paid plan."
+        },
+        {
+            "question": "Can I customize my logo after it’s generated?",
+            "answer": "Yes, LogoAI provides an intuitive editor to adjust fonts, colors, symbols, and layouts to match your brand vision."
+        },
+        {
+            "question": "What file formats are available for logo downloads?",
+            "answer": "LogoAI provides high-resolution JPG, PNG, PDF, and vector source files for both digital and print applications."
+        },
+        {
+            "question": "Does LogoAI offer commercial rights for logos?",
+            "answer": "Paid users receive full copyright ownership, allowing unrestricted commercial use of their AI-generated logos."
+        },
+        {
+            "question": "Can LogoAI create branded assets beyond logos?",
+            "answer": "Yes, LogoAI generates matching business cards, social media graphics, and mockups to ensure a cohesive brand identity."
+        },
+        {
+            "question": "Is my data secure with LogoAI?",
+            "answer": "LogoAI prioritizes user privacy, ensuring all data is securely protected during the logo design process."
+        },
+        {
+            "question": "How long does it take to create a logo with LogoAI?",
+            "answer": "With LogoAI, users can create a professional logo in minutes, ideal for fast-paced business needs."
+        }
+    ]
+}

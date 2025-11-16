@@ -1,0 +1,55 @@
+{
+    "name": "CaveDuck",
+    "description": "CaveDuck provides an AI-powered conversational platform for interactive and engaging user experiences.",
+    "longDescription": "CaveDuck is an innovative platform that leverages advanced AI to offer conversational experiences through interactive, character-driven chatbots. Designed to entertain, educate, and assist, it enables users to engage with AI personalities for tasks ranging from casual conversation to creative storytelling. The platform aims to make AI accessible and fun, fostering creativity and problem-solving through dynamic interactions. CaveDuck stands out by combining entertainment with practical applications, appealing to users seeking both amusement and utility. Its mission is to create meaningful connections between users and AI, enhancing productivity and sparking imagination. The website is user-friendly, with a focus on delivering seamless, personalized experiences.",
+    "url": "https://caveduck.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/caveduck.io.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "caveduck",
+    "categories": [
+        "AI Chatbot",
+        "AI Design Assistant",
+        "AI Story Generator"
+    ],
+    "features": [
+        "Interactive AI chatbots enable users to engage in dynamic, context-aware conversations for entertainment or assistance.",
+        "Customizable AI characters allow users to tailor personalities and scenarios to their preferences.",
+        "Real-time response generation ensures quick and relevant replies to user inputs, enhancing engagement.",
+        "Multi-purpose functionality supports use cases like storytelling, education, and casual chatting.",
+        "User-friendly interface simplifies navigation and interaction for users of all skill levels.",
+        "Cross-platform accessibility lets users engage with CaveDuck on web and mobile devices.",
+        "Creative writing tools help users generate stories or content with AI assistance.",
+        "Secure data handling ensures user privacy during interactions with AI chatbots."
+    ],
+    "faqs": [
+        {
+            "question": "What is CaveDuck used for?",
+            "answer": "CaveDuck is used for interactive AI conversations, supporting entertainment, storytelling, education, and casual chatting."
+        },
+        {
+            "question": "Is CaveDuck free to use?",
+            "answer": "Yes, CaveDuck offers a free plan with access to core features, though some advanced functionalities may require a subscription."
+        },
+        {
+            "question": "Can I customize the AI characters on CaveDuck?",
+            "answer": "Yes, users can personalize AI characters by adjusting their personalities and scenarios to suit specific needs."
+        },
+        {
+            "question": "Does CaveDuck support mobile devices?",
+            "answer": "CaveDuck is accessible on both web and mobile platforms for seamless user experiences."
+        },
+        {
+            "question": "How secure is my data on CaveDuck?",
+            "answer": "CaveDuck prioritizes user privacy with secure data handling and encryption during AI interactions."
+        },
+        {
+            "question": "Can CaveDuck help with creative writing?",
+            "answer": "Yes, CaveDuck offers tools to assist users in generating stories and creative content with AI support."
+        },
+        {
+            "question": "What makes CaveDuck different from other AI chat platforms?",
+            "answer": "CaveDuck combines entertainment and utility with customizable AI characters and a focus on user engagement."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI Advertising Tools in 2025",
+    "summary": "Unlock the future of marketing with our AI Advertising tools, designed to elevate your campaigns and maximize ROI. These innovative solutions streamline ad creation, optimize targeting, and enhance audience engagement, ensuring your message reaches the right people at the right time. Whether you're a small business or a large enterprise, our curated selection of AI tools empowers you to make data-driven decisions and stay ahead of the competition. Explore our AI Advertising category today and transform your advertising strategy into a powerful, results-driven machine!",
+    "tools": [
+        {
+            "id": "312",
+            "name": "Creatify",
+            "slug": "creatify",
+            "description": "Creatify is an AI-powered platform that automates the creation of engaging video advertisements from product links or descriptions.",
+            "icon": "/logo/creatify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "392",
+            "name": "SpeechGen.io",
+            "slug": "speechgen-io",
+            "description": "SpeechGen.io is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/speechgen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "430",
+            "name": "AdCreative.ai",
+            "slug": "adcreative-ai",
+            "description": "AdCreative.ai uses AI to generate high-converting ad creatives and social media content for businesses.",
+            "icon": "/logo/www.adcreative.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "468",
+            "name": "Resemble AI",
+            "slug": "resemble-ai",
+            "description": "Resemble AI provides enterprise-grade AI voice generation and deepfake detection solutions for realistic synthetic audio.",
+            "icon": "/logo/www.resemble.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "632",
+            "name": "Arcads",
+            "slug": "arcads-ai",
+            "description": "Arcads is an AI-powered platform that transforms text into high-quality video ads using customizable AI actors for marketing campaigns.",
+            "icon": "/logo/www.arcads.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "697",
+            "name": "Wondercraft",
+            "slug": "wondercraft-ai",
+            "description": "Wondercraft is an AI-powered platform for creating studio-quality podcasts, audiobooks, and ads effortlessly.",
+            "icon": "/logo/www.wondercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "1120",
+            "name": "MakeUGC",
+            "slug": "makeugc-ai",
+            "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+            "icon": "/logo/www.makeugc.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-advertising"
+            ]
+        },
+        {
+            "id": "1386",
+            "name": "Spotboi.ai",
+            "slug": "spotboi-ai",
+            "description": "Spotboi.ai is an AI-powered platform that generates realistic voiceovers, audio content, and music for creative and professional use.",
+            "icon": "/logo/spotboi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-advertising"
+            ]
+        }
+    ]
+}

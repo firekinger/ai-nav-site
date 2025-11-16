@@ -1,0 +1,63 @@
+{
+    "name": "AI Animate Image",
+    "description": "AI Animate Image is an innovative platform that leverages artificial intelligence to convert static images into engaging animations and videos.",
+    "longDescription": "AI Animate Image is a web-based tool designed to make animation accessible to everyone by using AI algorithms to animate still images. Its mission is to democratize creative content creation, allowing users from hobbyists to professionals to bring their photos to life without needing advanced skills or software. The platform solves the problem of time-consuming manual animation by automating the process, enabling quick generation of dynamic visuals for social media, marketing, or personal projects. Users can upload images and customize animations with various styles and effects, making it ideal for educational, entertainment, or commercial purposes. Overall, it serves as a bridge between static photography and motion graphics, powered by cutting-edge AI technology.",
+    "url": "https://www.aianimateimage.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aianimateimage.org.webp",
+    "category": "AI Animation Generator",
+    "categorySlug": "ai-animation-generator",
+    "slug": "ai-animate-image",
+    "categories": [
+        "AI Animation Generator",
+        "AI Writing",
+        "Image to Video",
+        "AI Creative Writing",
+        "AI Writing Assistants",
+        "AI Art Generator",
+        "AI Image Enhancer"
+    ],
+    "features": [
+        "Users can easily upload static images and have them automatically transformed into smooth animations using AI-driven algorithms, saving time on manual editing.",
+        "The platform offers a variety of animation styles, such as realistic movements or artistic effects, allowing customization to fit different creative needs.",
+        "Integrated editing tools enable users to adjust speed, duration, and transitions in animations, enhancing control over the final output.",
+        "High-resolution export options ensure that animated images maintain quality for professional use in videos or presentations.",
+        "A user-friendly interface makes the tool accessible to beginners, with drag-and-drop functionality and real-time previews.",
+        "Collaboration features allow multiple users to work on animation projects together, fostering teamwork in creative endeavors.",
+        "AI-powered suggestions provide intelligent recommendations for animation enhancements based on image content analysis.",
+        "Secure cloud storage lets users save and access their projects from anywhere, ensuring seamless workflow continuity."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Animate Image?",
+            "answer": "AI Animate Image is an online platform that uses AI to convert static images into animations. It simplifies the animation process for users without technical expertise."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, the website offers free access to core features with limitations on exports or advanced options. Users can upgrade to premium plans for unlimited usage."
+        },
+        {
+            "question": "How do I upload an image to animate?",
+            "answer": "Simply visit the website, create an account if needed, and use the upload button to select your image. The AI will process and animate it automatically."
+        },
+        {
+            "question": "What file formats are supported?",
+            "answer": "The platform supports common formats like JPEG, PNG, and GIF for input. Outputs can be exported as MP4 videos or animated GIFs."
+        },
+        {
+            "question": "Can I customize the animations?",
+            "answer": "Yes, users can adjust parameters like animation speed, style, and effects through an intuitive editor. This allows for personalized results tailored to specific projects."
+        },
+        {
+            "question": "Is the tool suitable for professional use?",
+            "answer": "Absolutely, with high-quality exports and advanced features, it's used by marketers, educators, and designers for professional-grade animations."
+        },
+        {
+            "question": "How secure is my data on the platform?",
+            "answer": "The website employs encryption and secure storage practices to protect user uploads and projects. Data is not shared without permission."
+        },
+        {
+            "question": "What if the animation doesn't turn out as expected?",
+            "answer": "Users can regenerate animations with different settings or contact support for assistance. Tutorials are available to guide optimal usage."
+        }
+    ]
+}

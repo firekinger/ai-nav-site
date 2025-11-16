@@ -1,0 +1,65 @@
+{
+    "name": "VidAU",
+    "description": "VidAU is an AI-powered platform for creating high-quality video ads and content with minimal effort.",
+    "longDescription": "VidAU is an innovative AI-driven video creation platform designed to simplify the production of professional-grade video ads and content for marketers, educators, and content creators. By leveraging advanced AI algorithms, it enables users to generate engaging videos from product links, text prompts, or images without requiring filming equipment or extensive editing skills. The platform supports a variety of use cases, including social media marketing, e-commerce promotions, and educational content, with features like AI avatars, multilingual translations, and automated editing. VidAU’s mission is to reduce production time and costs while delivering scroll-stopping, high-conversion videos tailored to diverse audiences. It integrates with major platforms like TikTok, YouTube, and Shopify, ensuring seamless content distribution. The platform prioritizes user privacy and offers intuitive tools to customize videos for global reach.",
+    "url": "https://www.vidau.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vidau.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "vidau-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Avatar Generator",
+        "AI Translate",
+        "AI Video Editor",
+        "AI Script Writing",
+        "AI Social Media Post Generator",
+        "AI UGC Video Generator"
+    ],
+    "features": [
+        "Generate professional video ads from product URLs in minutes, saving time and eliminating the need for complex production setups.",
+        "Create UGC-style videos using over 860 lifelike AI avatars in 140+ languages for authentic, high-engagement content.",
+        "Transform product images into cinematic video clips with AI-driven visual enhancements for scroll-stopping appeal.",
+        "Translate and localize videos into over 120 languages to reach global audiences effortlessly.",
+        "Use AI-powered script generation with GPT-4o to create viral-ready, conversion-focused video scripts.",
+        "Remove watermarks and subtitles automatically, streamlining video editing for professional outputs.",
+        "Customize videos with an intuitive editor, allowing adjustments to text, music, effects, and transitions.",
+        "Generate multiple video variations in bulk for A/B testing, optimizing campaign performance.",
+        "Integrate with platforms like Amazon, Shopify, and TikTok to create platform-specific marketing content.",
+        "Access a library of 200+ pre-designed templates tailored to various themes and marketing needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is VidAU used for?",
+            "answer": "VidAU is used to create high-quality AI-generated video ads and content for marketing, e-commerce, and educational purposes with minimal effort."
+        },
+        {
+            "question": "Does VidAU offer a free plan?",
+            "answer": "Yes, VidAU provides a limited-feature free trial, allowing users to test core functionalities before subscribing to a paid plan."
+        },
+        {
+            "question": "Can I create videos without editing experience?",
+            "answer": "Absolutely, VidAU’s intuitive interface and AI-driven tools allow users to create professional videos without any editing skills."
+        },
+        {
+            "question": "What platforms does VidAU support?",
+            "answer": "VidAU integrates with TikTok, YouTube, Instagram, Shopify, Amazon, and more, ensuring compatibility across major platforms."
+        },
+        {
+            "question": "How does VidAU ensure video quality?",
+            "answer": "VidAU uses advanced AI to generate high-resolution videos with customizable templates, avatars, and voiceovers for professional results."
+        },
+        {
+            "question": "Can I use VidAU for multilingual video content?",
+            "answer": "Yes, VidAU supports translations in over 120 languages, making it ideal for global marketing campaigns."
+        },
+        {
+            "question": "What are the costs associated with VidAU?",
+            "answer": "VidAU offers a free trial and paid plans starting at $9.90/month, with pricing details available on their official website."
+        },
+        {
+            "question": "Is VidAU suitable for small businesses?",
+            "answer": "Yes, VidAU’s cost-effective and user-friendly tools make it ideal for small businesses looking to create high-quality video content."
+        }
+    ]
+}

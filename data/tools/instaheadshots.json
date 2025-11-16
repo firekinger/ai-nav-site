@@ -1,0 +1,72 @@
+{
+    "name": "InstaHeadshots",
+    "description": "InstaHeadshots uses AI to transform selfies into professional headshots for LinkedIn, resumes, and business profiles in minutes.",
+    "longDescription": "InstaHeadshots is an AI-powered platform designed to create studio-quality professional headshots from user-uploaded selfies, eliminating the need for costly and time-consuming traditional photoshoots. The service caters to professionals, job seekers, and teams by generating hyper-realistic headshots tailored to various industries, such as business, law, and healthcare. By leveraging advanced AI technology, it trains a personalized model for each user to ensure accurate facial features and natural aesthetics. The platform prioritizes user privacy, automatically deleting images after 30 days, and offers a 100% money-back guarantee for customer satisfaction. Its user-friendly interface and fast turnaround make it an accessible solution for enhancing online presence. InstaHeadshots has served over 150,000 professionals from companies like Amazon and Google, delivering more than 15 million headshots.",
+    "url": "https://instaheadshots.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/instaheadshots.com.webp",
+    "category": "AI Headshot Generator",
+    "categorySlug": "ai-headshot-generator",
+    "slug": "instaheadshots",
+    "categories": [
+        "AI Headshot Generator",
+        "AI Photography",
+        "AI Influencer",
+        "AI Resume Builder",
+        "AI Image Generator",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "AI-powered headshot generation transforms selfies into professional images in as little as 5 minutes, saving time and effort.",
+        "Offers over 40 professional styles, including business casual and formal, to match user preferences and industry needs.",
+        "Generates hundreds of high-resolution headshots (1024x1024 pixels) suitable for LinkedIn, resumes, and business cards.",
+        "Provides editing options to modify outfits, backgrounds, or recreate images for a nominal fee, enhancing customization.",
+        "Ensures privacy by deleting user photos automatically after 30 days and using images solely for headshot generation.",
+        "Delivers results quickly, with processing times ranging from 5 to 60 minutes depending on the selected package.",
+        "Supports team discounts for groups of five or more, making it cost-effective for businesses and organizations.",
+        "Offers a free AI headshot generator for testing with no sign-up required, ideal for trying before committing.",
+        "Provides a 100% money-back guarantee if users are not satisfied, ensuring risk-free usage.",
+        "Allows users to upscale headshots for printing at higher resolutions for an additional fee."
+    ],
+    "faqs": [
+        {
+            "question": "How does InstaHeadshots create professional headshots?",
+            "answer": "Users upload 10-20 selfies, and the AI trains a personalized model to generate hyper-realistic headshots with various styles and backgrounds in minutes."
+        },
+        {
+            "question": "Is there a free version of InstaHeadshots available?",
+            "answer": "Yes, InstaHeadshots offers a free AI headshot generator with no sign-up required, allowing users to test the service with limited features."
+        },
+        {
+            "question": "How long does it take to receive headshots?",
+            "answer": "Depending on the package, headshots are delivered in 5 to 60 minutes, with email notifications sent when ready."
+        },
+        {
+            "question": "Can I use the headshots for commercial purposes?",
+            "answer": "Yes, users have complete commercial rights to their headshots for use on LinkedIn, resumes, and other professional platforms."
+        },
+        {
+            "question": "What happens to my uploaded photos?",
+            "answer": "Photos are used only for headshot generation and are automatically deleted after 30 days to ensure user privacy."
+        },
+        {
+            "question": "Are there discounts for teams or groups?",
+            "answer": "Yes, discounts are available for teams of five or more, with larger discounts for more profiles purchased."
+        },
+        {
+            "question": "Can I customize the headshots after generation?",
+            "answer": "Users can modify outfits, backgrounds, or recreate images for an extra fee, but direct AI customization is limited."
+        },
+        {
+            "question": "What is the resolution of the generated headshots?",
+            "answer": "The default resolution is 1024x1024 pixels, suitable for digital platforms, with upscaling available for printing."
+        },
+        {
+            "question": "What if I’m not satisfied with my headshots?",
+            "answer": "InstaHeadshots offers a 100% money-back guarantee if users contact support within 3 days and meet refund conditions."
+        },
+        {
+            "question": "What types of selfies should I upload for the best results?",
+            "answer": "Upload clear, well-lit selfies with varied angles, backgrounds, and expressions for optimal headshot quality."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Recruit CRM",
+    "description": "招募CRM提供人工智能驱动的招聘软件，简化全球招聘和行政搜索机构的招聘流程。",
+    "longDescription": "Recruit CRM is a cloud-based Applicant Tracking System (ATS) and Customer Relationship Management (CRM) platform designed for recruitment and executive search agencies in over 100 countries. Its mission is to empower recruiters with easy-to-use, AI-powered tools to automate hiring, increase placements, and drive recruitment success. The platform streamlines candidate and client management, offering a user-friendly interface and robust integrations to enhance workflow efficiency. By combining automation, AI features, and customization, Recruit CRM helps agencies save time and improve productivity. It supports recruiters with tools for sourcing, tracking, and managing relationships, making it a trusted solution for small to large agencies. The company emphasizes transparency, data security, and 24/7 customer support to ensure a seamless user experience.",
+    "url": "https://recruitcrm.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/recruitcrm.io.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "recruit-crm",
+    "categories": [
+        "AI Recruiting",
+        "AI CRM",
+        "AI Email Assistant",
+        "AI Workflow",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered resume parsing automatically converts resumes into detailed candidate summaries, saving time on manual data entry.",
+        "The Kanban view simplifies candidate and sales management by providing a visual, drag-and-drop interface for tracking progress.",
+        "Candidate matching uses AI to align candidate profiles with job requirements, improving placement accuracy.",
+        "Email sequencing automates personalized outreach, enhancing candidate and client engagement.",
+        "The mobile app for iOS and Android enables recruiters to manage tasks on the go, increasing flexibility.",
+        "Integration with over 5,000 platforms via Zapier streamlines workflows by connecting with job boards and other tools.",
+        "Customizable fields allow agencies to tailor the platform to their specific recruitment needs.",
+        "Smart duplicate detection prevents data clutter by identifying and updating duplicate candidate or client records.",
+        "GDPR compliance and data encryption ensure secure handling of sensitive candidate and client information.",
+        "Advanced reporting and analytics provide insights into recruitment performance, aiding strategic decision-making."
+    ],
+    "faqs": [
+        {
+            "question": "What is Recruit CRM?",
+            "answer": "Recruit CRM is an AI-powered ATS and CRM platform designed to streamline recruitment and client management for agencies worldwide."
+        },
+        {
+            "question": "Does Recruit CRM offer a free plan?",
+            "answer": "Yes, Recruit CRM provides an unlimited free trial, allowing users to explore its features without requiring payment or card details."
+        },
+        {
+            "question": "Can Recruit CRM integrate with other tools?",
+            "answer": "Recruit CRM integrates with over 5,000 platforms, including job boards and email systems, via Zapier and other tools."
+        },
+        {
+            "question": "Is Recruit CRM suitable for small agencies?",
+            "answer": "Yes, its flexible pricing and user-friendly interface make it ideal for recruitment agencies of all sizes."
+        },
+        {
+            "question": "Does Recruit CRM support multiple languages?",
+            "answer": "Yes, it supports languages like English, Spanish, French, and more, with real-time chat translation via Transly."
+        },
+        {
+            "question": "How secure is Recruit CRM?",
+            "answer": "Recruit CRM uses industry-standard encryption and regular data backups to ensure the security of user data."
+        },
+        {
+            "question": "Can I use Recruit CRM on mobile devices?",
+            "answer": "Yes, Recruit CRM offers dedicated iOS and Android apps for managing recruitment tasks on the go."
+        },
+        {
+            "question": "What makes Recruit CRM different from other ATS platforms?",
+            "answer": "Recruit CRM stands out with its AI-driven features, ease of use, 24/7 support, and extensive customization options."
+        }
+    ]
+}

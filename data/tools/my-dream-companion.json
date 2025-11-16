@@ -1,0 +1,65 @@
+{
+    "name": "My Dream Companion",
+    "description": "My Dream Companion is an AI-powered platform for creating and interacting with customizable virtual companions for immersive roleplay and storytelling.",
+    "longDescription": "My Dream Companion is an innovative AI chatbot platform designed to provide users with personalized virtual companions for engaging storytelling, roleplay, and companionship. Users can create custom AI characters with tailored appearances, personalities, and conversational styles, enabling dynamic and immersive interactions. The platform supports both Safe for Work (SFW) and Not Safe for Work (NSFW) modes, catering to diverse user preferences for entertainment or creative exploration. Its mission is to offer a safe, private, and engaging digital space where users can explore imaginative scenarios or alleviate loneliness through meaningful AI interactions. By leveraging advanced AI technology, My Dream Companion delivers lifelike conversations and realistic image generation, making it ideal for roleplay enthusiasts and those seeking virtual companionship. The platform is accessible across web browsers and mobile devices, ensuring seamless integration into users’ daily lives.",
+    "url": "https://www.mydreamcompanion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mydreamcompanion.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "my-dream-companion",
+    "categories": [
+        "AI Chatbot",
+        "AI Assistant",
+        "NSFW",
+        "AI Roleplay",
+        "AI Image Generator",
+        "AI Writing Assistants",
+        "AI Story Generator",
+        "AI Voice Assistants",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Customizable AI Characters: Users can design AI companions with unique appearances, personalities, and conversational styles to match their preferences.",
+        "Interactive Conversations: The platform offers real-time, adaptive chats that create immersive and engaging experiences tailored to user inputs.",
+        "NSFW and SFW Modes: Users can toggle between Safe for Work and Not Safe for Work modes to suit their desired interaction style.",
+        "Realistic Image Generation: The platform generates lifelike images of AI companions, enhancing the visual immersion of interactions.",
+        "Roleplay Scenarios: Users can explore diverse storytelling themes, such as romantic, fantasy, or casual scenarios, for creative engagement.",
+        "Multi-Language Support: The platform supports interactions in various languages, making it accessible to a global audience.",
+        "Voice Messaging: Users can engage with companions through voice interactions, adding authenticity to the experience.",
+        "Cross-Platform Compatibility: The platform works seamlessly on web browsers, iOS, and Android devices for convenient access."
+    ],
+    "faqs": [
+        {
+            "question": "What is My Dream Companion?",
+            "answer": "My Dream Companion is an AI-powered platform where users can create and interact with customizable virtual companions for roleplay, storytelling, or companionship."
+        },
+        {
+            "question": "Is there a free version of My Dream Companion?",
+            "answer": "Yes, the platform offers free access with basic features, while premium subscriptions unlock advanced customization and exclusive content."
+        },
+        {
+            "question": "Can I customize my AI companion?",
+            "answer": "Users can fully customize their AI companion’s appearance, personality traits, and conversational style using an intuitive editor."
+        },
+        {
+            "question": "Does the platform support NSFW content?",
+            "answer": "Yes, users can toggle between SFW and NSFW modes to engage in conversations that suit their preferences."
+        },
+        {
+            "question": "Is My Dream Companion safe and private?",
+            "answer": "The platform prioritizes user privacy with end-to-end encrypted conversations, ensuring secure and confidential interactions."
+        },
+        {
+            "question": "What devices can I use My Dream Companion on?",
+            "answer": "The platform is compatible with web browsers, iOS, and Android devices, requiring only an internet connection for real-time interaction."
+        },
+        {
+            "question": "Can I use My Dream Companion for roleplay?",
+            "answer": "Yes, the platform supports various roleplay scenarios, allowing users to explore creative storytelling and imaginative narratives."
+        },
+        {
+            "question": "How does image generation work on the platform?",
+            "answer": "Users can generate realistic or anime-style images of their AI companions directly within the chat interface to enhance the experience."
+        }
+    ]
+}

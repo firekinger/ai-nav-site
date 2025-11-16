@@ -1,0 +1,66 @@
+{
+    "name": "Squibler",
+    "description": "Squibler is an AI-powered writing platform designed to help authors and screenwriters create, organize, and publish books, novels, and screenplays efficiently.",
+    "longDescription": "Squibler is an AI-assisted writing platform tailored for authors, screenwriters, and content creators, enabling them to craft novels, screenplays, and scripts with ease. Its mission is to streamline the writing process by providing tools for brainstorming, drafting, editing, and publishing, reducing the barriers of writer's block and time constraints. The platform leverages advanced natural language processing to generate coherent narratives, outlines, and character developments based on user inputs. It supports both novice and experienced writers by offering templates, organizational tools, and collaboration features. Squibler also provides export options for various formats like PDF and Kindle, making it versatile for publishing needs. The company, founded in 2018, aims to empower storytellers to produce high-quality content faster and more creatively.",
+    "url": "https://www.squibler.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.squibler.io.webp",
+    "category": "AI Story Generator",
+    "categorySlug": "ai-story-generator",
+    "slug": "squibler",
+    "categories": [
+        "AI Story Generator",
+        "AI Movie Script Generator",
+        "AI Productivity Tools",
+        "AI Creative Writing",
+        "AI Plagiarism Checker",
+        "AI Book Writing",
+        "AI Writing Assistants",
+        "AI Character"
+    ],
+    "features": [
+        "AI Story Generator creates full-length books, scripts, or scenes from user prompts, enabling rapid content creation.",
+        "Smart Writer tool enhances content by generating scenes, dialogues, or rewriting sections based on context, improving narrative quality.",
+        "Book Proposal Workflow guides users to structure ideas before AI generation, ensuring coherent story development.",
+        "Corkboard and timeline tools organize chapters, scenes, and notes, simplifying project management for complex narratives.",
+        "Collaboration features allow multiple users to edit, review, and comment on projects, fostering teamwork.",
+        "Export options support multiple formats like PDF, Kindle, and Word, accommodating diverse publishing needs.",
+        "AI Visualize provides visual inspiration for settings and characters, enhancing creative storytelling.",
+        "Plagiarism detection ensures content originality, giving writers confidence in their work.",
+        "Templates for novels, screenplays, and scripts in various genres streamline the writing process.",
+        "Goal tracking and progress monitoring help writers maintain discipline and meet project milestones."
+    ],
+    "faqs": [
+        {
+            "question": "What types of writing does Squibler support?",
+            "answer": "Squibler supports novels, screenplays, scripts, short stories, and other narrative forms across genres like fiction, non-fiction, and drama."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Squibler offers a free plan with up to 6,000 AI-generated words per month and basic editing tools, ideal for small projects."
+        },
+        {
+            "question": "Can I collaborate with others on Squibler?",
+            "answer": "Yes, Squibler provides collaboration tools that allow users to invite others to review, edit, and contribute to their projects."
+        },
+        {
+            "question": "Does Squibler own the rights to my work?",
+            "answer": "No, Squibler claims no rights over your content; all work you create remains entirely your own."
+        },
+        {
+            "question": "Can I export my work for publishing?",
+            "answer": "Yes, Squibler allows exporting drafts in formats like PDF, Kindle, and Word, suitable for various publishing platforms."
+        },
+        {
+            "question": "Does Squibler work on mobile devices?",
+            "answer": "Squibler is optimized for desktop and laptop use, but it can be accessed on mobile browsers, though with limited functionality."
+        },
+        {
+            "question": "How does the AI Story Generator work?",
+            "answer": "You provide a prompt or concept, and the AI generates a story, outline, or scene, which you can refine using Squibler’s editor."
+        },
+        {
+            "question": "Is my content secure on Squibler?",
+            "answer": "Yes, Squibler uses Google Cloud for secure storage, automatic saving, and revision history to protect your work."
+        }
+    ]
+}

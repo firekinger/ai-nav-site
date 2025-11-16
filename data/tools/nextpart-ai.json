@@ -1,0 +1,65 @@
+{
+    "name": "Nextpart AI",
+    "description": "Nextpart AI is an unrestricted NSFW AI chat platform for creating and interacting with customizable AI characters.",
+    "longDescription": "Nextpart AI is an advanced AI-powered chatbot platform designed for unfiltered, adult-oriented conversations with customizable AI characters. Users can create virtual companions with tailored appearances, personalities, and storylines, enabling immersive roleplay and personal interactions. The platform supports multilingual conversations, voice responses, and image generation, catering to a global audience seeking creative and intimate digital experiences. It prioritizes user privacy, ensuring chats remain confidential and secure. While adhering to legal and ethical standards, Nextpart AI removes traditional NSFW filters, allowing users to explore diverse scenarios without restrictions. Its mission is to provide a dynamic, user-driven space for storytelling, fantasy exploration, and emotional connection.",
+    "url": "https://nextpart.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/nextpart.ai.webp",
+    "category": "Dirty Talking AI",
+    "categorySlug": "dirty-talking-ai",
+    "slug": "nextpart-ai",
+    "categories": [
+        "AI Chatbot",
+        "AI Character",
+        "AI Roleplay",
+        "AI Girlfriend",
+        "AI Anime Girlfriend",
+        "AI Boyfriend",
+        "Dirty Talking AI",
+        "AI Anime Generator",
+        "AI Image Generator",
+        "NSFW"
+    ],
+    "features": [
+        "Customizable AI characters allow users to define unique appearances, personalities, and backstories for personalized interactions.",
+        "Unfiltered NSFW chat enables open, adult-themed conversations within legal and ethical boundaries.",
+        "Voice response support enhances realism by allowing AI characters to reply with lifelike voices in real-time.",
+        "Image generation creates visuals based on chat context, enriching roleplay and storytelling experiences.",
+        "Multilingual support in 14 languages ensures accessibility for a global user base.",
+        "Private and secure chats protect user data and interactions, with no third-party access without consent.",
+        "Community sharing lets users browse and interact with AI characters created by others, expanding creative possibilities."
+    ],
+    "faqs": [
+        {
+            "question": "What is Nextpart AI?",
+            "answer": "Nextpart AI is an NSFW chatbot platform where users can create and interact with customizable AI characters for unfiltered conversations and roleplay."
+        },
+        {
+            "question": "Is there a free version of Nextpart AI?",
+            "answer": "Yes, Nextpart AI offers a free Guest mode with limited chat sentences, and registered users get additional free access with restrictions."
+        },
+        {
+            "question": "Can I create my own AI characters?",
+            "answer": "Yes, users can fully customize AI characters' appearance, personality, and backstory to suit their preferences."
+        },
+        {
+            "question": "Are conversations on Nextpart AI private?",
+            "answer": "Yes, chats are strictly private, separated by user login, and not shared with others without explicit consent."
+        },
+        {
+            "question": "What languages does Nextpart AI support?",
+            "answer": "The platform supports conversations in 14 different languages, making it accessible to a global audience."
+        },
+        {
+            "question": "Are there any content restrictions on Nextpart AI?",
+            "answer": "While NSFW filters are removed, content involving minors, sexual violence, or cruelty is prohibited and regularly reviewed."
+        },
+        {
+            "question": "How does image generation work on Nextpart AI?",
+            "answer": "The platform generates images based on chat context or user-defined character descriptions, enhancing visual storytelling."
+        },
+        {
+            "question": "What payment methods are available for premium features?",
+            "answer": "Nextpart AI supports PayPal, Stripe, and cryptocurrency payments via Nowpayment for premium subscriptions and credits."
+        }
+    ]
+}

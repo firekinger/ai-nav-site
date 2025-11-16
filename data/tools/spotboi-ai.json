@@ -1,0 +1,65 @@
+{
+    "name": "Spotboi.ai",
+    "description": "Spotboi.ai is an AI-powered platform that generates realistic voiceovers, audio content, and music for creative and professional use.",
+    "longDescription": "Spotboi.ai is an innovative AI tool designed to revolutionize audio creation by leveraging advanced machine learning algorithms to produce high-quality voice and music outputs. Its mission is to make professional-grade audio accessible to everyone, from content creators to businesses, without the need for expensive equipment or expertise. The platform solves problems like time-consuming audio production and high costs by offering instant generation and customization options. Users can input text or ideas and receive tailored audio results, serving industries such as podcasting, advertising, and entertainment. Overall, it democratizes audio content creation, enabling users to focus on creativity rather than technical hurdles.",
+    "url": "https://spotboi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/spotboi.ai.webp",
+    "category": "AI Speech Synthesis",
+    "categorySlug": "ai-speech-synthesis",
+    "slug": "spotboi-ai",
+    "categories": [
+        "AI Speech Synthesis",
+        "AI Music Generator",
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Audio Editing",
+        "AI Writing",
+        "AI Podcast Editing",
+        "AI Advertising",
+        "AI Games"
+    ],
+    "features": [
+        "Text-to-speech conversion that transforms written content into natural-sounding voiceovers with customizable accents and tones for versatile applications.",
+        "AI music generation allowing users to create original tracks based on genre, mood, or description, streamlining music production for beginners and pros.",
+        "Voice cloning feature that replicates specific voices from samples, ideal for personalized audio projects or dubbing.",
+        "Audio editing tools powered by AI to enhance, mix, or modify generated sounds with effects like reverb or noise reduction.",
+        "Real-time collaboration enabling teams to work on audio projects simultaneously with AI suggestions for improvements.",
+        "Integration with popular platforms like social media or video editors for seamless export and use of generated audio.",
+        "Customizable templates for common audio needs, such as ads or podcasts, speeding up the creation process.",
+        "High-fidelity output ensuring professional quality audio suitable for commercial use without artifacts."
+    ],
+    "faqs": [
+        {
+            "question": "What is Spotboi.ai primarily used for?",
+            "answer": "Spotboi.ai is used for generating AI-driven voiceovers, music, and audio content. It helps users create professional audio quickly without specialized skills."
+        },
+        {
+            "question": "Does Spotboi.ai offer a free plan?",
+            "answer": "Yes, Spotboi.ai provides a free tier with limited generations and features. Users can upgrade to paid plans for unlimited access and advanced tools."
+        },
+        {
+            "question": "How accurate is the voice generation?",
+            "answer": "The voice generation is highly accurate, using advanced AI to mimic natural speech patterns. It supports multiple languages and accents for realistic results."
+        },
+        {
+            "question": "Can I use Spotboi.ai for commercial projects?",
+            "answer": "Yes, commercial use is allowed under the terms of service. Paid plans offer royalty-free outputs for business applications."
+        },
+        {
+            "question": "What file formats does Spotboi.ai support for export?",
+            "answer": "It supports common formats like MP3, WAV, and OGG. Users can choose quality levels during export."
+        },
+        {
+            "question": "Is there a mobile app for Spotboi.ai?",
+            "answer": "Currently, Spotboi.ai is web-based, but a mobile app is in development. Access it via any browser on mobile devices."
+        },
+        {
+            "question": "How does the music generation work?",
+            "answer": "Users input parameters like genre or mood, and AI generates custom tracks. You can refine outputs with editing tools."
+        },
+        {
+            "question": "What security measures does Spotboi.ai have?",
+            "answer": "Spotboi.ai uses encryption for data and complies with privacy standards. User-generated content is stored securely and not shared without permission."
+        }
+    ]
+}

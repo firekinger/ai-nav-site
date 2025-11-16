@@ -1,0 +1,63 @@
+{
+    "name": "Gitmore",
+    "description": "Gitmore is an AI-powered platform that enhances Git workflows for developers by automating tasks like commit messaging and code reviews.",
+    "longDescription": "Gitmore is a innovative website that combines artificial intelligence with Git version control to make software development more efficient and intuitive. Its mission is to empower developers by reducing the time spent on repetitive Git tasks, allowing more focus on creative coding. The platform solves common pain points such as crafting meaningful commit messages, resolving complex merge conflicts, and conducting thorough code reviews without manual effort. By integrating seamlessly with existing Git repositories, Gitmore serves individual coders, teams, and enterprises looking to streamline their version control processes. Overall, it promotes better collaboration and higher code quality through AI-driven insights and automation.",
+    "url": "https://www.gitmore.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.gitmore.io.webp",
+    "category": "AI Code Generator",
+    "categorySlug": "ai-code-generator",
+    "slug": "gitmore",
+    "categories": [
+        "AI Code Generator",
+        "AI Code Review",
+        "AI Workflow",
+        "AI Data Mining",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Project Management"
+    ],
+    "features": [
+        "AI-generated commit messages that automatically summarize code changes, saving time and ensuring clarity in version history.",
+        "Automated code review tools that detect bugs, suggest improvements, and enforce coding standards for higher quality outputs.",
+        "Intelligent branch naming suggestions based on project context, helping maintain organized and logical repository structures.",
+        "Merge conflict resolution assistance using AI to predict and propose optimal solutions, reducing downtime in team workflows.",
+        "Repository analytics powered by AI to identify trends, bottlenecks, and contributor performance for informed decision-making.",
+        "Seamless integration with popular IDEs like VS Code and GitHub, enabling real-time AI assistance within familiar environments.",
+        "Customizable AI models tailored to specific programming languages, enhancing accuracy for diverse development needs.",
+        "Collaboration features with AI-moderated discussions, facilitating better team communication and knowledge sharing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gitmore?",
+            "answer": "Gitmore is an AI-powered platform designed to optimize Git workflows by automating tasks like commit messaging and code reviews. It helps developers work more efficiently with intelligent tools integrated into their existing Git setups."
+        },
+        {
+            "question": "How does Gitmore use AI?",
+            "answer": "Gitmore leverages AI to analyze code changes, generate suggestions, and provide insights. For example, it uses machine learning models to create commit messages or resolve conflicts automatically."
+        },
+        {
+            "question": "Is Gitmore free to use?",
+            "answer": "Yes, Gitmore offers a free plan with core features for individual users. Premium plans are available for advanced functionalities and team collaborations."
+        },
+        {
+            "question": "Can Gitmore integrate with my existing tools?",
+            "answer": "Absolutely, Gitmore supports integrations with popular platforms like GitHub, GitLab, and IDEs such as Visual Studio Code. This allows seamless incorporation into your current workflow without disruption."
+        },
+        {
+            "question": "What makes Gitmore different from other Git tools?",
+            "answer": "Unlike traditional Git tools, Gitmore incorporates AI for proactive suggestions and automation, going beyond basic version control to enhance productivity and code quality."
+        },
+        {
+            "question": "Is Gitmore suitable for beginners?",
+            "answer": "Yes, Gitmore's AI features simplify complex Git operations, making it accessible for beginners while still powerful for experienced developers. Tutorials and guided assistance are provided to get started quickly."
+        },
+        {
+            "question": "How secure is Gitmore with my code?",
+            "answer": "Gitmore prioritizes security with encrypted data handling and compliance with industry standards. It processes code locally where possible and does not store repositories without user consent."
+        },
+        {
+            "question": "Can teams use Gitmore for collaboration?",
+            "answer": "Yes, Gitmore includes team features like AI-moderated chats and shared analytics. This fosters better collaboration and real-time feedback in group projects."
+        }
+    ]
+}

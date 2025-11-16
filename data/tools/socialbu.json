@@ -1,0 +1,87 @@
+{
+    "name": "SocialBu",
+    "description": "SocialBu is an all-in-one social media management platform that leverages AI to help businesses schedule posts, engage with audiences, generate content, and analyze performance across multiple social networks.",
+    "longDescription": "SocialBu is a comprehensive social media management tool designed to simplify the process of handling multiple social media accounts for businesses and individuals. Its mission is to empower users to grow their online presence efficiently by providing tools for scheduling, engagement, analytics, and AI-driven content creation. The platform solves common problems like time-consuming manual posting, scattered audience interactions, and lack of insights into social performance by centralizing these functions in one dashboard. It serves marketers, small businesses, and agencies by offering automation and intelligent features that save time and enhance strategy. Additionally, SocialBu integrates with popular platforms like Facebook, Twitter, Instagram, LinkedIn, and more, ensuring seamless connectivity. Overall, it aims to make social media management more accessible and effective through innovative AI capabilities.",
+    "url": "https://socialbu.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/socialbu.com.webp",
+    "category": "AI Text Generator",
+    "categorySlug": "ai-text-generator",
+    "slug": "socialbu",
+    "categories": [
+        "AI Text Generator",
+        "AI Social Media Post Generator",
+        "AI Caption Generator",
+        "AI Hashtag",
+        "AI Image Generator",
+        "AI Social Media",
+        "AI Project Management",
+        "AI SEO Tools",
+        "AI Response Generator"
+    ],
+    "features": [
+        "Post Scheduling allows users to plan and automate content publication across multiple social media platforms, ensuring consistent posting without manual effort.",
+        "AI Writer generates engaging captions, posts, and responses using artificial intelligence, helping users create high-quality content quickly.",
+        "Engagement Inbox centralizes comments, messages, and mentions from various platforms into one place, enabling efficient audience interaction and response management.",
+        "Analytics Dashboard provides detailed insights into social media performance, including metrics like reach, engagement, and growth, to inform data-driven decisions.",
+        "Content Calendar offers a visual overview of scheduled posts, making it easy to organize and adjust social media strategies.",
+        "Team Collaboration features enable multiple users to work together on social media tasks, with role-based permissions for secure access.",
+        "RSS Feeds integration automatically pulls and shares content from blogs or news sources to keep social channels active.",
+        "Hashtag Suggestions powered by AI recommend relevant hashtags to increase post visibility and reach.",
+        "Social Listening monitors brand mentions and keywords across platforms, helping users stay on top of conversations and trends.",
+        "Bulk Scheduling allows uploading and scheduling multiple posts at once, streamlining content management for high-volume users.",
+        "Custom Reports generate tailored analytics reports that can be exported or shared, aiding in performance reviews and client presentations.",
+        "AI Image Generator creates custom visuals for posts, enhancing content appeal without needing external design tools.",
+        "Automation Rules set up triggers for actions like auto-responding to messages or reposting popular content, reducing manual workload.",
+        "Platform Integrations connect with tools like Canva, Google Drive, and Zapier for expanded functionality and workflow efficiency."
+    ],
+    "faqs": [
+        {
+            "question": "What is SocialBu?",
+            "answer": "SocialBu is a social media management platform that helps users manage multiple accounts, schedule posts, engage with audiences, and analyze performance. It incorporates AI features for content generation and optimization."
+        },
+        {
+            "question": "Does SocialBu offer a free plan?",
+            "answer": "Yes, SocialBu provides a free plan with basic features like limited post scheduling and analytics. Users can upgrade to paid plans for advanced tools and unlimited access."
+        },
+        {
+            "question": "Which social media platforms does SocialBu support?",
+            "answer": "SocialBu supports major platforms including Facebook, Instagram, Twitter, LinkedIn, Pinterest, Google My Business, and more. This allows centralized management across diverse networks."
+        },
+        {
+            "question": "How does the AI Writer work in SocialBu?",
+            "answer": "The AI Writer uses artificial intelligence to generate captions, posts, and responses based on user prompts. It helps create engaging content tailored to specific audiences and platforms, saving time on content creation."
+        },
+        {
+            "question": "Can I collaborate with my team on SocialBu?",
+            "answer": "Yes, SocialBu offers team collaboration features with role-based access. You can invite team members, assign tasks, and manage permissions to work together efficiently."
+        },
+        {
+            "question": "What kind of analytics does SocialBu provide?",
+            "answer": "SocialBu's analytics include metrics on engagement, reach, follower growth, and top-performing posts. Users can generate custom reports to track and optimize their social media strategies."
+        },
+        {
+            "question": "Is SocialBu suitable for small businesses?",
+            "answer": "Absolutely, SocialBu is designed for small businesses with affordable plans and easy-to-use tools. It helps automate social media tasks, allowing owners to focus on growth without a large marketing team."
+        },
+        {
+            "question": "How secure is SocialBu for managing social accounts?",
+            "answer": "SocialBu uses secure OAuth integrations and encryption to protect user data and account access. It complies with industry standards to ensure safe management of social media credentials."
+        },
+        {
+            "question": "Can I schedule posts in bulk on SocialBu?",
+            "answer": "Yes, the bulk scheduling feature lets you upload and schedule multiple posts at once via CSV or directly in the platform. This is ideal for content planners handling large volumes."
+        },
+        {
+            "question": "Does SocialBu have mobile apps?",
+            "answer": "SocialBu offers mobile apps for iOS and Android, allowing users to manage social media on the go. Features like notifications and quick responses are available for mobile convenience."
+        },
+        {
+            "question": "What makes SocialBu different from other social media tools?",
+            "answer": "SocialBu stands out with its integrated AI features for content creation and suggestions, combined with affordable pricing and comprehensive management tools. It focuses on ease of use for all user levels."
+        },
+        {
+            "question": "How do I get started with SocialBu?",
+            "answer": "Sign up for a free account on the website, connect your social media profiles, and start scheduling posts or exploring features. Tutorials and support are available to guide new users."
+        }
+    ]
+}

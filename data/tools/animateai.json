@@ -1,0 +1,61 @@
+{
+    "name": "AnimateAI",
+    "description": "AnimateAI is an all-in-one AI-powered video generation tool for creating stunning animation videos quickly and cost-effectively.",
+    "longDescription": "AnimateAI is a pioneering platform that leverages advanced AI to streamline the creation of high-quality animation videos, enabling users to transform simple text prompts into dynamic, professional-grade content. Its mission is to make storytelling accessible to everyone, from individual creators to businesses, by reducing production time and costs. The platform integrates cutting-edge AI models like GPT-4, FLUX, and ElevenLabs for text, visuals, and voiceovers, respectively, ensuring a seamless creative process. By offering features like character consistency and customizable templates, AnimateAI caters to diverse use cases such as animated series, marketing videos, and educational content. It eliminates the need for advanced technical skills, allowing users to focus on creativity while the AI handles complex tasks like storyboarding and video rendering.",
+    "url": "https://animateai.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/animateai.pro.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "animateai",
+    "categories": [
+        "AI Video Generator",
+        "AI Character",
+        "Storyboard AI",
+        "AI Tools Directory",
+        "AI Image Generator",
+        "AI Voice Over",
+        "AI Marketing",
+        "AI Course",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI Video Generator creates high-quality, customizable 30-second videos from text prompts, enabling rapid content production.",
+        "AI Character Generator designs consistent, customizable characters with unique styles, outfits, and voices for cohesive storytelling.",
+        "AI Storyboard Generator transforms scripts into detailed, editable storyboards with visuals and voiceovers, simplifying pre-production.",
+        "Autopilot Mode automates the entire video creation process, analyzing prompts and generating professional outputs without user intervention.",
+        "Built-in AI Prompt Enhancer optimizes text, image, and video prompts for superior results without requiring prompt engineering skills.",
+        "Community Templates provide ready-to-use styles, genres, and character designs, accelerating the creative process for users.",
+        "Watermark-Free Downloads are available with premium plans, ensuring professional-grade outputs for commercial use.",
+        "Advanced AI Model Integrations leverage tools like GPT-4, MidJourney, and Runway for enhanced text, visuals, and video generation."
+    ],
+    "faqs": [
+        {
+            "question": "What is AnimateAI used for?",
+            "answer": "AnimateAI is used to create professional-quality animation videos, including animated series, marketing clips, and educational content, using AI-driven tools."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, AnimateAI offers a Free Plan with basic features, allowing users to explore and create videos without any cost."
+        },
+        {
+            "question": "Can I customize characters in my videos?",
+            "answer": "Yes, the AI Character Generator lets you design and customize characters with specific styles, outfits, and voices for consistent storytelling."
+        },
+        {
+            "question": "How long does it take to create a video?",
+            "answer": "With AnimateAI, you can generate a fully customizable 30-second video in minutes using a simple text prompt."
+        },
+        {
+            "question": "What types of videos can I create?",
+            "answer": "You can create various video types, including animation stories, motivational clips, kids' bedtime stories, lofi videos, and comedy skits."
+        },
+        {
+            "question": "Does AnimateAI support longer videos?",
+            "answer": "Currently, videos are limited to 30 seconds, but longer durations may not be supported, as some users reported issues with 4-5 minute videos."
+        },
+        {
+            "question": "How can I get support if I encounter issues?",
+            "answer": "You can contact support at hi@animateai.pro, though response times may vary due to ongoing team reorganization."
+        }
+    ]
+}

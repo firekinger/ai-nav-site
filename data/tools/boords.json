@@ -1,0 +1,63 @@
+{
+    "name": "Boords",
+    "description": "Boords is an online storyboarding platform that simplifies video pre-production with AI-powered tools and collaborative features.",
+    "longDescription": "Boords is a web-based storyboarding software designed to streamline the pre-production process for video professionals, filmmakers, and creative teams. Its mission is to make storyboarding intuitive, collaborative, and efficient, eliminating the complexities of traditional methods like paper templates or generic design software. By offering AI-driven tools, such as script-to-storyboard conversion and image generation, Boords enables users to quickly visualize narratives and iterate creatively. The platform supports real-time collaboration, allowing teams to work remotely, share feedback, and secure client approvals seamlessly. With a focus on user-friendly design, Boords serves over 900,000 professionals worldwide, transforming chaotic workflows into organized, creative processes. It addresses common pain points like version control and feedback management, making it a vital tool for modern video production.",
+    "url": "https://boords.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/boords.com.webp",
+    "category": "Storyboard AI",
+    "categorySlug": "storyboard-ai",
+    "slug": "boords",
+    "categories": [
+        "Storyboard AI",
+        "AI Image Generator",
+        "AI Animation Generator",
+        "AI Workflow",
+        "AI Story Generator"
+    ],
+    "features": [
+        "AI Storyboard Generator creates vibrant scenes and consistent characters from text prompts, speeding up the visualization process.",
+        "Real-time collaboration enables teams to edit storyboards, add comments, and share updates instantly, enhancing teamwork.",
+        "Versioning tracks changes across storyboard iterations, allowing users to manage revisions and maintain project history effortlessly.",
+        "Password-protected sharing provides secure links for clients and teammates to review and approve storyboards without needing accounts.",
+        "Animatics creation automates the addition of subtitles and sound, transforming storyboards into dynamic presentations for clients.",
+        "Custom camera move overlays allow users to visualize pan, zoom, and tilt movements directly on frames, clarifying shot dynamics.",
+        "Script import functionality converts outlines or scripts into storyboards automatically, saving time on manual setup.",
+        "Extensive image library offers millions of professional photos and illustrations, enabling quick customization of storyboard visuals.",
+        "Frame reordering simplifies rearranging scenes with a drag-and-drop interface, reducing the stress of editing.",
+        "Export options generate presentation-ready PDFs, PNGs, or MP4 animatics, ensuring compatibility with client needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Boords used for?",
+            "answer": "Boords is used for creating, managing, and sharing professional storyboards for video, film, and animation projects, streamlining the pre-production process."
+        },
+        {
+            "question": "Does Boords offer a free plan?",
+            "answer": "Yes, Boords provides a free plan with limited features, requiring no credit card, allowing users to try core functionalities before upgrading."
+        },
+        {
+            "question": "Can I collaborate with my team on Boords?",
+            "answer": "Boords supports real-time collaboration, enabling team members to edit, comment, and provide feedback on storyboards simultaneously."
+        },
+        {
+            "question": "How does the AI Storyboard Generator work?",
+            "answer": "The AI Storyboard Generator creates images and scenes from text prompts, allowing users to quickly visualize scripts with consistent characters and styles."
+        },
+        {
+            "question": "Is Boords suitable for beginners?",
+            "answer": "Yes, Boords’ intuitive interface and drag-and-drop tools make it accessible for beginners while offering advanced features for professionals."
+        },
+        {
+            "question": "Can I export my storyboards from Boords?",
+            "answer": "Boords allows exports in PDF, PNG, or MP4 formats, making it easy to share professional storyboards or animatics with clients."
+        },
+        {
+            "question": "Does Boords support script integration?",
+            "answer": "Users can import scripts or outlines, which Boords automatically converts into storyboards, saving time and ensuring accuracy."
+        },
+        {
+            "question": "How secure is sharing storyboards on Boords?",
+            "answer": "Boords offers password-protected sharing links to ensure secure, controlled access for clients and team members."
+        }
+    ]
+}

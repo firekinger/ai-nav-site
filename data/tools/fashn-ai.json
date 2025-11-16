@@ -1,0 +1,73 @@
+{
+    "name": "Fashn.ai",
+    "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+    "longDescription": "Fashn.ai is an innovative AI tool designed specifically for the fashion industry, focusing on automating the colorization of sketches to streamline the design process. Its mission is to empower fashion designers, illustrators, and hobbyists by leveraging artificial intelligence to quickly generate colored versions of line drawings, reducing the time and effort required for manual coloring. The platform solves common problems in fashion design, such as the tedious task of experimenting with color palettes, by providing instant, high-quality results that can be iterated upon. Users can upload their sketches and receive AI-generated color suggestions tailored to various styles and trends. This serves both professional designers looking to prototype ideas rapidly and casual users exploring creative fashion concepts. Overall, Fashn.ai democratizes access to advanced design tools, making professional-level colorization available without extensive artistic skills.",
+    "url": "https://fashn.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fashn.ai.webp",
+    "category": "Fashion AI",
+    "categorySlug": "fashion-ai",
+    "slug": "fashn-ai",
+    "categories": [
+        "Fashion AI",
+        "AI Colorize",
+        "AI Color Palette Generator",
+        "AI Design Assistant",
+        "AI Creative Writing",
+        "AI Image Enhancer",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Users can upload black-and-white fashion sketches, and the AI automatically applies realistic colors based on learned fashion trends, saving time on manual work.",
+        "The platform offers customizable color palettes, allowing designers to select specific themes or moods for their sketches to match brand aesthetics.",
+        "AI-generated suggestions include variations in styles, such as modern, vintage, or seasonal trends, helping users explore creative possibilities.",
+        "High-resolution output ensures that colored designs are suitable for professional use, like presentations or manufacturing prototypes.",
+        "Integration with design software allows seamless export of colored sketches for further editing in tools like Adobe Illustrator.",
+        "Real-time preview functionality lets users see color changes instantly, facilitating quick iterations and refinements.",
+        "Batch processing enables coloring multiple sketches at once, ideal for large projects or collections.",
+        "User-friendly interface requires no prior AI knowledge, making it accessible for beginners in fashion design.",
+        "Trend analysis feature provides insights into current fashion colors, helping users stay ahead in the industry.",
+        "Collaboration tools allow sharing colored designs with teams for feedback and joint editing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fashn.ai primarily used for?",
+            "answer": "Fashn.ai is used to colorize black-and-white fashion sketches using AI, helping designers quickly visualize their ideas in color. It automates the coloring process to save time and inspire creativity."
+        },
+        {
+            "question": "Do I need to be a professional designer to use Fashn.ai?",
+            "answer": "No, Fashn.ai is designed for users of all skill levels, from professionals to hobbyists. Its intuitive interface makes it easy for anyone to upload sketches and generate colored versions without advanced skills."
+        },
+        {
+            "question": "Is there a free version of Fashn.ai?",
+            "answer": "Yes, Fashn.ai offers a free plan with limited daily colorizations and basic features. Users can upgrade to premium plans for unlimited access and advanced tools."
+        },
+        {
+            "question": "How accurate is the AI colorization?",
+            "answer": "The AI is trained on vast fashion datasets, providing highly accurate and realistic colorizations. Users can fine-tune results for better personalization."
+        },
+        {
+            "question": "Can I export the colored designs?",
+            "answer": "Yes, colored designs can be exported in various formats like PNG or SVG for use in other design software. This ensures seamless integration into your workflow."
+        },
+        {
+            "question": "What file types does Fashn.ai support for uploads?",
+            "answer": "Fashn.ai supports common image formats such as JPG, PNG, and PDF for sketch uploads. Ensure sketches are clear line drawings for optimal results."
+        },
+        {
+            "question": "Does Fashn.ai offer style customization?",
+            "answer": "Yes, users can choose from various style presets or input custom preferences to guide the AI's colorization. This helps match specific fashion trends or personal visions."
+        },
+        {
+            "question": "Is my data secure on Fashn.ai?",
+            "answer": "Fashn.ai prioritizes user privacy with secure data handling and encryption. Uploaded sketches are not shared without permission and can be deleted at any time."
+        },
+        {
+            "question": "How does Fashn.ai handle different fashion trends?",
+            "answer": "The AI is updated with current fashion trends, allowing it to suggest relevant colors and patterns. Users can also specify trends for targeted results."
+        },
+        {
+            "question": "Can I use Fashn.ai for commercial projects?",
+            "answer": "Yes, premium users can use the outputs for commercial purposes. Ensure you review the terms for any usage restrictions."
+        }
+    ]
+}

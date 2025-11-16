@@ -1,0 +1,62 @@
+{
+    "name": "Jotform",
+    "description": "Jotform is an online form builder that simplifies data collection, automation, and payment processing for businesses and individuals.",
+    "longDescription": "Jotform is a San Francisco-based online form builder founded in 2006, designed to help users create customizable forms without coding. It serves over 30 million users worldwide, offering tools for surveys, registrations, payments, and e-signatures. The platform’s drag-and-drop interface and extensive template library make it accessible for small businesses, nonprofits, and enterprises. Jotform integrates with over 150 third-party apps, streamlining workflows by connecting forms to CRMs, email marketing tools, and cloud storage. Its mission is to reduce busywork by automating processes and enabling efficient data management. The platform also emphasizes security with features like 256-bit SSL encryption and GDPR compliance.",
+    "url": "https://www.jotform.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.jotform.com.webp",
+    "category": "AI Forms",
+    "categorySlug": "ai-forms",
+    "slug": "jotform",
+    "categories": [
+        "AI Forms",
+        "AI For Data Analytics",
+        "AI Workflow",
+        "AI Legal Assistant",
+        "AI Customer Service"
+    ],
+    "features": [
+        "Drag-and-drop form builder simplifies creating professional forms without coding skills.",
+        "Over 10,000 customizable templates support diverse use cases like registrations and surveys.",
+        "150+ integrations connect forms to CRMs, email tools, and cloud storage for seamless workflows.",
+        "Payment processing allows users to collect fees or donations directly through forms.",
+        "Conditional logic enables dynamic forms that adapt based on user responses.",
+        "Jotform Sign provides electronic signature collection for legally binding documents.",
+        "Offline form access via the mobile app ensures data collection without internet connectivity.",
+        "HIPAA compliance options secure sensitive medical data for healthcare users.",
+        "Workflow automation streamlines approvals and notifications for team collaboration."
+    ],
+    "faqs": [
+        {
+            "question": "What types of forms can I create with Jotform?",
+            "answer": "Jotform allows you to create forms for registrations, surveys, payments, applications, e-signatures, and more, with over 10,000 templates to choose from."
+        },
+        {
+            "question": "Is there a free plan available for Jotform?",
+            "answer": "Yes, Jotform offers a free Starter plan with access to all standard features, including 100 monthly submissions, but excludes HIPAA compliance."
+        },
+        {
+            "question": "Can Jotform integrate with other tools I use?",
+            "answer": "Jotform integrates with over 150 apps, including CRMs like Salesforce, email platforms like Mailchimp, and cloud storage like Google Drive."
+        },
+        {
+            "question": "Is Jotform secure for collecting sensitive data?",
+            "answer": "Jotform uses 256-bit SSL encryption, is GDPR compliant, and offers HIPAA compliance for Silver and Gold plan users to ensure data security."
+        },
+        {
+            "question": "Can I use Jotform forms offline?",
+            "answer": "Yes, the Jotform Mobile Forms app allows users to collect data offline, automatically syncing when an internet connection is restored."
+        },
+        {
+            "question": "Does Jotform support electronic signatures?",
+            "answer": "Jotform Sign enables users to create and share documents for legally binding electronic signatures on any device."
+        },
+        {
+            "question": "How can I customize my Jotform forms?",
+            "answer": "You can customize forms with your logo, fonts, colors, and conditional logic using the drag-and-drop builder for a tailored look and functionality."
+        },
+        {
+            "question": "What kind of customer support does Jotform offer?",
+            "answer": "Jotform provides 24/7 customer support via chat, email, or help center threads to assist with any issues."
+        }
+    ]
+}

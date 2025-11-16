@@ -1,0 +1,58 @@
+{
+    "name": "ProWritingAid",
+    "description": "ProWritingAid is a writing assistant tool that helps users improve their writing through AI-powered editing, grammar checks, and style suggestions.",
+    "longDescription": "ProWritingAid is an AI-powered writing assistant designed to help writers, students, and professionals enhance their writing by providing detailed feedback on grammar, style, and clarity. The platform integrates with popular writing tools like Microsoft Word, Google Docs, and Scrivener, making it versatile for various writing tasks. Its mission is to empower users to create polished, professional content by identifying errors, suggesting improvements, and offering insights into writing strengths and weaknesses. ProWritingAid caters to a wide audience, including authors, bloggers, academics, and business professionals, aiming to streamline the editing process and boost confidence in written communication. The tool combines advanced algorithms with linguistic expertise to deliver actionable suggestions, making it a valuable resource for both novice and experienced writers.",
+    "url": "https://prowritingaid.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/prowritingaid.com.webp",
+    "category": "AI Grammar Checker",
+    "categorySlug": "ai-grammar-checker",
+    "slug": "prowritingaid",
+    "categories": [
+        "AI Grammar Checker",
+        "AI Writing",
+        "AI Plagiarism Checker",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "ProWritingAid’s grammar checker identifies and corrects grammatical errors to ensure clear and accurate writing.",
+        "The style editor provides suggestions to improve sentence structure, readability, and overall writing flow.",
+        "The tool offers in-depth reports on writing metrics like overused words, sentence length, and pacing for comprehensive self-editing.",
+        "Real-time editing integrates seamlessly with platforms like Microsoft Word, Google Docs, and Scrivener for a smooth workflow.",
+        "The contextual thesaurus suggests synonyms to enhance word choice and avoid repetition.",
+        "The plagiarism checker compares your text against billions of web pages to ensure originality.",
+        "Customizable style guides allow users to tailor feedback to specific genres, such as academic, creative, or business writing.",
+        "The tool provides readability scores to help users adjust content for their target audience.",
+        "ProWritingAid’s writing mentor feature offers personalized tips to improve long-term writing skills.",
+        "The software supports collaborative editing, enabling teams to refine documents together efficiently."
+    ],
+    "faqs": [
+        {
+            "question": "What is ProWritingAid used for?",
+            "answer": "ProWritingAid is used to improve writing by providing grammar, style, and readability feedback for various types of content."
+        },
+        {
+            "question": "Does ProWritingAid offer a free version?",
+            "answer": "Yes, ProWritingAid offers a free plan with limited access to its features, ideal for basic editing needs."
+        },
+        {
+            "question": "Can ProWritingAid integrate with other writing tools?",
+            "answer": "Yes, it integrates with tools like Microsoft Word, Google Docs, Scrivener, and various browsers for seamless editing."
+        },
+        {
+            "question": "Is ProWritingAid suitable for non-fiction and fiction writers?",
+            "answer": "ProWritingAid supports both non-fiction and fiction writers with customizable style guides tailored to specific genres."
+        },
+        {
+            "question": "How does the plagiarism checker work?",
+            "answer": "The plagiarism checker compares your text against billions of online sources to ensure content originality, available in premium plans."
+        },
+        {
+            "question": "Can I use ProWritingAid offline?",
+            "answer": "The desktop app allows limited offline use, but some features, like plagiarism checks, require an internet connection."
+        },
+        {
+            "question": "Does ProWritingAid support team collaboration?",
+            "answer": "Yes, ProWritingAid offers features for collaborative editing, making it suitable for team projects and professional workflows."
+        }
+    ]
+}

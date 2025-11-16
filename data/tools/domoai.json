@@ -1,0 +1,32 @@
+{
+    "name": "DomoAI",
+    "description": "DomoAI is an AI-powered platform for transforming videos, images, and text into high-quality animations and creative styles.",
+    "longDescription": "DomoAI is an innovative AI-driven creative studio that enables users to convert videos, images, and text into dynamic animations, with a focus on styles like anime and Ukiyo-e. The platform empowers creators, marketers, and businesses to produce visually engaging content for social media, advertising, or personal projects. By leveraging advanced AI, DomoAI simplifies complex video editing and style transfer processes, making them accessible through user-friendly commands on Discord. Its mission is to democratize creative expression, allowing users to bring static images to life or reimagine videos with unique artistic styles. The platform ensures data security with encrypted file processing and offers a vibrant community for creators to share and remix content.",
+    "url": "https://www.domoai.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.domoai.app.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "domoai",
+    "categories": [
+        "AI Video Editor",
+        "Image to Video",
+        "AI Style Transfer",
+        "AI Anime Generator",
+        "AI Art Generator",
+        "AI Image Upscaler",
+        "AI Video Upscaler",
+        "AI Social Media Post Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Converts static images into animated videos, ideal for creating engaging anime-style content.",
+        "Transforms videos into various artistic styles, such as Ukiyo-e or anime, enhancing visual appeal.",
+        "Generates high-quality visuals from text prompts, enabling creative storytelling.",
+        "Upscales images and videos to 4K resolution using AI for sharper, professional-grade outputs.",
+        "Allows users to replace subjects in videos effortlessly, streamlining creative edits.",
+        "Supports commercial use of generated content, empowering creators to monetize their work.",
+        "Integrates with Discord for easy access to AI tools via simple commands like /video and /animate.",
+        "Provides a community platform to browse and remix viral creations for inspiration."
+    ],
+    "faqs": []
+}

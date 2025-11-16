@@ -1,0 +1,64 @@
+{
+    "name": "Autoppt",
+    "description": "Autoppt is an AI-powered tool that creates professional PowerPoint presentations and mind maps quickly using customizable templates.",
+    "longDescription": "Autoppt is an innovative AI-driven platform designed to simplify the creation of professional PowerPoint presentations and mind maps for students, educators, and business professionals. By leveraging advanced artificial intelligence, users can input a topic or upload documents like Word or PDF files to generate visually appealing slideshows in seconds. The platform eliminates the need for design skills, offering a user-friendly interface and a wide range of customizable templates to suit various presentation needs. Autoppt’s mission is to enhance productivity by automating tedious slide creation tasks, allowing users to focus on content delivery. It supports over 100 languages, ensuring accessibility for a global audience. The tool also provides file storage and seamless template switching, making it a versatile solution for creating engaging presentations efficiently.",
+    "url": "https://autoppt.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/autoppt.com.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "autoppt",
+    "categories": [
+        "AI Presentation Generator",
+        "AI PPT Maker",
+        "AI Mind Mapping",
+        "AI Design Assistant",
+        "AI Language Learning",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Instantly generates 20-30 slide presentations from a single topic input, saving significant time.",
+        "Converts Word, PDF, and other document formats into professional PowerPoint slides with one click.",
+        "Offers a wide range of customizable templates to create visually appealing presentations without design expertise.",
+        "Supports over 100 languages, enabling users to create presentations in their preferred language.",
+        "Provides an online editor to adjust fonts, colors, and layouts for personalized slide customization.",
+        "Generates mind maps with one click to streamline brainstorming and idea organization.",
+        "Allows users to export presentations in PPTX, PDF, and image formats for easy sharing.",
+        "Includes file storage capabilities for convenient access and retrieval of created presentations.",
+        "Enables template switching with a single click to adapt presentations to different themes or styles.",
+        "Delivers responsive presentations optimized for viewing across all devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Autoppt?",
+            "answer": "Autoppt is an AI-powered tool that instantly creates professional PowerPoint presentations and mind maps from user inputs or uploaded documents."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Autoppt offers a free plan with limited features, allowing users to try its core functionalities before upgrading."
+        },
+        {
+            "question": "Can I use Autoppt templates for commercial purposes?",
+            "answer": "Yes, with a Pro plan subscription, users can utilize all templates for both personal and commercial purposes."
+        },
+        {
+            "question": "What types of files can I upload to Autoppt?",
+            "answer": "Autoppt supports uploads of Word, PDF, Excel, PPT, TXT, and JPG files to generate presentations."
+        },
+        {
+            "question": "Does Autoppt support multiple languages?",
+            "answer": "Yes, Autoppt supports over 100 languages, allowing users to create presentations in their preferred language."
+        },
+        {
+            "question": "How do I cancel my Autoppt subscription?",
+            "answer": "You can cancel your subscription online through the Autoppt Workspace or by emailing support@autoppt.com."
+        },
+        {
+            "question": "Can I edit the generated slides?",
+            "answer": "Yes, Autoppt provides an online editor to customize fonts, colors, layouts, and other elements of your slides."
+        },
+        {
+            "question": "How fast can Autoppt generate a presentation?",
+            "answer": "Autoppt can create a complete 20-30 page presentation in as little as one minute."
+        }
+    ]
+}

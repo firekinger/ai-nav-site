@@ -1,0 +1,72 @@
+{
+    "name": "Kive",
+    "description": "Kive is an AI-powered platform that helps creatives organize, search, and collaborate on visual assets like images and videos.",
+    "longDescription": "Kive is an innovative AI-driven platform designed to streamline visual asset management for creative professionals, such as designers, photographers, and filmmakers. Its mission is to empower users to efficiently organize vast collections of images and videos, making it easier to find inspiration and collaborate on projects. By leveraging artificial intelligence, Kive automates tasks like tagging, searching, and curating content, solving common problems like disorganized libraries and time-consuming manual searches. The platform serves users by providing a centralized hub for visual content, enhancing productivity and creativity in fields like advertising, design, and content creation. Overall, Kive transforms chaotic asset collections into intelligent, searchable libraries that foster better workflow and idea generation.",
+    "url": "https://kive.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/kive.ai.webp",
+    "category": "AI Design Generator",
+    "categorySlug": "ai-design-generator",
+    "slug": "kive-ai",
+    "categories": [
+        "AI Design Generator",
+        "AI Creative Writing",
+        "AI Text Classifier",
+        "AI Content Detector",
+        "AI Inspirational Quotes",
+        "AI Workflow"
+    ],
+    "features": [
+        "AI-powered search allows users to find images and videos instantly using natural language queries, saving time on manual browsing.",
+        "Automated tagging uses machine learning to categorize and label visual assets, ensuring organized and easily accessible libraries.",
+        "Collaboration tools enable teams to share boards and assets in real-time, facilitating seamless creative workflows.",
+        "Moodboard creation helps users build and customize visual inspiration boards for projects, enhancing ideation processes.",
+        "Asset upload and storage provide secure cloud-based management for high-resolution files, with options for unlimited storage in premium plans.",
+        "Intelligent recommendations suggest relevant visuals based on user behavior, sparking new creative ideas.",
+        "Integration with tools like Adobe Creative Suite allows for smooth import and export of assets, boosting productivity.",
+        "Customizable folders and collections let users structure their libraries according to personal or team needs.",
+        "Version control tracks changes to assets, ensuring users can revert or compare edits easily.",
+        "Mobile app access enables on-the-go management and inspiration gathering from anywhere."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kive primarily used for?",
+            "answer": "Kive is used for organizing and managing visual assets like images and videos with AI assistance. It helps creatives build libraries, search content efficiently, and collaborate on projects."
+        },
+        {
+            "question": "Does Kive offer a free plan?",
+            "answer": "Yes, Kive provides a free plan with limited storage and features. Users can upgrade to paid plans for more capacity and advanced tools."
+        },
+        {
+            "question": "How does the AI search work in Kive?",
+            "answer": "The AI search uses natural language processing to understand queries and retrieve relevant visuals from your library. It analyzes content, tags, and metadata for accurate results."
+        },
+        {
+            "question": "Can I collaborate with my team on Kive?",
+            "answer": "Absolutely, Kive supports team collaboration through shared boards and real-time editing. You can invite team members and control access permissions."
+        },
+        {
+            "question": "What file types does Kive support?",
+            "answer": "Kive supports a wide range of image and video formats, including JPEG, PNG, MP4, and more. It also handles high-resolution files for professional use."
+        },
+        {
+            "question": "Is Kive secure for storing sensitive assets?",
+            "answer": "Yes, Kive uses encryption and secure cloud storage to protect your assets. It complies with industry standards for data privacy."
+        },
+        {
+            "question": "How does Kive integrate with other tools?",
+            "answer": "Kive integrates with popular creative software like Adobe Photoshop and Lightroom. This allows easy import/export of assets directly into your workflow."
+        },
+        {
+            "question": "Can I use Kive on mobile devices?",
+            "answer": "Yes, there's a mobile app for iOS and Android that lets you access and manage your library on the go."
+        },
+        {
+            "question": "What makes Kive different from other asset managers?",
+            "answer": "Kive stands out with its AI-driven features like smart tagging and recommendations, tailored specifically for creatives. It focuses on inspiration and collaboration beyond basic storage."
+        },
+        {
+            "question": "How do I get started with Kive?",
+            "answer": "Sign up for a free account on the website, upload your assets, and start organizing with AI tools. Tutorials are available to guide new users."
+        }
+    ]
+}

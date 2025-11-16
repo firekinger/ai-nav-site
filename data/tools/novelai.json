@@ -1,0 +1,63 @@
+{
+    "name": "NovelAI",
+    "description": "NovelAI is an AI-powered platform for generating creative writing and visual storytelling content.",
+    "longDescription": "NovelAI is an AI-driven service designed to assist users in creating high-quality written stories, novels, and visual art through advanced natural language processing and image generation models. It caters to writers, artists, and storytellers by providing tools to generate coherent narratives, character dialogues, and detailed artwork based on text prompts. The platform aims to enhance creative expression by offering customizable AI models that adapt to user preferences, enabling unique storytelling experiences. NovelAI emphasizes user privacy with secure data handling and local processing options for sensitive projects. It serves both hobbyists and professionals seeking to streamline their creative workflows or overcome writer’s block.",
+    "url": "https://novelai.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/novelai.net.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "novelai",
+    "categories": [
+        "AI Design Assistant",
+        "AI Story Generator",
+        "Text to Image",
+        "AI Speech Synthesis",
+        "Storyboard AI"
+    ],
+    "features": [
+        "AI-powered story generation creates coherent narratives from user prompts, enhancing writing productivity.",
+        "Customizable AI models allow users to fine-tune storytelling styles to match their creative vision.",
+        "Text-to-image generation produces detailed artwork based on story descriptions, aiding visual storytelling.",
+        "Lorebook feature organizes story elements like characters and settings for consistent world-building.",
+        "Secure data handling ensures user content remains private with optional local processing.",
+        "Interactive storytelling mode enables dynamic collaboration between users and AI for real-time story development.",
+        "Pre-trained AI themes provide genre-specific writing styles, such as fantasy or sci-fi, for quick inspiration.",
+        "Multi-language support allows users to generate content in various languages, broadening creative accessibility.",
+        "Scenario sharing lets users collaborate by sharing story prompts and AI settings with others.",
+        "Voice generation feature converts text into spoken dialogue, enhancing multimedia storytelling projects."
+    ],
+    "faqs": [
+        {
+            "question": "What is NovelAI used for?",
+            "answer": "NovelAI is used for generating creative writing, such as stories and novels, and creating AI-generated artwork based on text prompts."
+        },
+        {
+            "question": "Does NovelAI offer a free plan?",
+            "answer": "NovelAI does not offer a free plan but provides subscription tiers with trial options to access its features."
+        },
+        {
+            "question": "Can I customize the AI’s writing style?",
+            "answer": "Yes, users can fine-tune NovelAI’s models to align with specific genres or personal writing styles for tailored outputs."
+        },
+        {
+            "question": "Is my data secure on NovelAI?",
+            "answer": "NovelAI prioritizes user privacy with secure data handling and optional local processing to keep sensitive content private."
+        },
+        {
+            "question": "Can NovelAI generate images from my story?",
+            "answer": "Yes, NovelAI’s text-to-image feature creates detailed artwork based on your story prompts, enhancing visual storytelling."
+        },
+        {
+            "question": "Does NovelAI support collaborative projects?",
+            "answer": "Yes, users can share scenarios and story prompts with others, enabling collaborative storytelling and world-building."
+        },
+        {
+            "question": "What genres does NovelAI support?",
+            "answer": "NovelAI supports various genres like fantasy, sci-fi, and romance through pre-trained themes and customizable models."
+        },
+        {
+            "question": "Can I use NovelAI for non-English content?",
+            "answer": "Yes, NovelAI offers multi-language support for generating content in various languages."
+        }
+    ]
+}

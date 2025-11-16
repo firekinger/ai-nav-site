@@ -1,0 +1,73 @@
+{
+    "name": "Colossyan",
+    "description": "Colossyan is an AI-powered platform for creating professional videos using customizable AI avatars and text-to-video technology, primarily for business training, marketing, and communication.",
+    "longDescription": "Colossyan is an innovative AI video generation platform that allows users to produce high-quality videos without the need for traditional filming or actors. Its mission is to democratize video creation by leveraging artificial intelligence to make it accessible, efficient, and cost-effective for businesses and individuals. The platform serves users by enabling them to convert text scripts into engaging videos featuring realistic AI avatars that can speak in multiple languages and accents. It solves problems related to time-consuming video production, high costs, and the need for specialized skills, making it ideal for corporate training, marketing campaigns, and educational content. By integrating features like auto-translation and customizable branding, Colossyan helps users create personalized content quickly and scale their video output effortlessly.",
+    "url": "https://www.colossyan.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.colossyan.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "colossyan",
+    "categories": [
+        "AI Video Generator",
+        "AI Avatar Generator",
+        "AI Speech Synthesis",
+        "AI Video Editor",
+        "AI Writing",
+        "AI Voice Cloning",
+        "AI Animation Generator"
+    ],
+    "features": [
+        "AI Avatars: Users can choose from a diverse library of realistic AI-generated actors that can be customized in appearance, clothing, and gestures to fit specific video needs.",
+        "Text-to-Video Conversion: The platform automatically transforms written scripts into fully produced videos, complete with voiceovers, animations, and backgrounds.",
+        "Multi-Language Support: Videos can be generated in over 70 languages with natural-sounding voice synthesis, enabling global reach without manual translation.",
+        "Custom Branding: Easily incorporate company logos, colors, and templates to maintain brand consistency across all generated videos.",
+        "Collaboration Tools: Teams can work together in real-time, sharing projects and providing feedback within the platform.",
+        "Auto-Translation: Instantly translate video content into multiple languages while preserving the original avatar's lip-sync and expressions.",
+        "Stock Media Integration: Access a vast library of stock images, videos, and music to enhance video productions without external sourcing.",
+        "Analytics and Insights: Track video performance with built-in analytics to understand viewer engagement and optimize future content.",
+        "PPT to Video Conversion: Convert PowerPoint presentations directly into dynamic videos with AI narration and visuals.",
+        "Voice Cloning: Create custom voiceovers using cloned voices for a more personalized and authentic audio experience."
+    ],
+    "faqs": [
+        {
+            "question": "What is Colossyan used for?",
+            "answer": "Colossyan is primarily used for creating AI-generated videos for business purposes such as employee training, marketing materials, and internal communications. It helps users produce professional content quickly without needing video production expertise."
+        },
+        {
+            "question": "Does Colossyan offer a free plan?",
+            "answer": "Yes, Colossyan provides a free plan with limited features, allowing users to test the platform and create basic videos. Upgrading to paid plans unlocks advanced capabilities like more avatars and higher video limits."
+        },
+        {
+            "question": "How does the AI avatar technology work?",
+            "answer": "The AI avatars are powered by machine learning models that generate realistic human-like figures based on text inputs. Users input scripts, and the system animates the avatars with lip-sync, expressions, and gestures to match the narration."
+        },
+        {
+            "question": "Can I use my own voice in Colossyan videos?",
+            "answer": "Yes, Colossyan supports voice cloning, where you can upload audio samples to create a custom AI voice that mimics your own. This feature is available in higher-tier plans for personalized video narration."
+        },
+        {
+            "question": "Is Colossyan suitable for non-business users?",
+            "answer": "While designed for businesses, individuals can use Colossyan for personal projects like educational videos or social media content. The platform's ease of use makes it accessible for creators of all levels."
+        },
+        {
+            "question": "What languages does Colossyan support?",
+            "answer": "Colossyan supports over 70 languages for voiceovers and subtitles, with automatic translation features. This allows users to create multilingual content efficiently."
+        },
+        {
+            "question": "How secure is my data on Colossyan?",
+            "answer": "Colossyan prioritizes data security with encryption, compliance with GDPR, and secure cloud storage. Users retain ownership of their content, and the platform does not use customer data for training without permission."
+        },
+        {
+            "question": "Can I integrate Colossyan with other tools?",
+            "answer": "Yes, Colossyan offers integrations with tools like PowerPoint, Google Workspace, and learning management systems. This enables seamless workflows for importing and exporting content."
+        },
+        {
+            "question": "What makes Colossyan different from other video tools?",
+            "answer": "Colossyan stands out with its focus on AI avatars and automated production, reducing the time and cost compared to traditional video editing software. It emphasizes realism and customization for professional results."
+        },
+        {
+            "question": "How long does it take to create a video?",
+            "answer": "Creating a basic video can take as little as a few minutes by inputting text and selecting an avatar. More complex videos with customizations may require additional time for refinements."
+        }
+    ]
+}

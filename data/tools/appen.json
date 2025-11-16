@@ -1,0 +1,65 @@
+{
+    "name": "Appen",
+    "description": "Appen provides high-quality datasets and services to power AI and machine learning for global enterprises.",
+    "longDescription": "Appen is a global leader in providing high-quality, human-annotated datasets and services to enhance artificial intelligence and machine learning models for enterprises worldwide. Founded in 1996 and publicly traded on the Australian Securities Exchange (ASX: APX), Appen supports industries such as technology, finance, healthcare, and e-commerce by delivering tailored data solutions. Its platform enables organizations to collect, annotate, and fine-tune data for applications like chatbots, virtual assistants, and computer vision systems. Appen’s global crowd of over one million contributors, speaking more than 180 languages, ensures diverse and accurate data for AI training. The company emphasizes ethical AI development, offering customizable solutions to improve model performance and drive innovation. Appen’s mission is to empower businesses with reliable data to create impactful AI applications.",
+    "url": "https://www.appen.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.appen.com.webp",
+    "category": "AI Models",
+    "categorySlug": "ai-models",
+    "slug": "appen",
+    "categories": [
+        "AI Models",
+        "AI Speech Recognition",
+        "AI Image Recognition",
+        "AI Project Management",
+        "AI For Data Analytics",
+        "AI Translate"
+    ],
+    "features": [
+        "Appen’s platform provides end-to-end data annotation for text, images, audio, and video to train AI models with high accuracy.",
+        "The global crowd of over one million contributors supports data collection in over 180 languages, ensuring diverse datasets.",
+        "Customizable AI solutions allow enterprises to fine-tune large language models (LLMs) for specific industries like finance or healthcare.",
+        "Appen’s assurance products monitor and evaluate AI model performance to ensure reliability in real-world applications.",
+        "The CrowdGen platform enables contributors to work remotely on AI training tasks, offering flexible earning opportunities.",
+        "Advanced data sourcing tools collect domain-specific data to enhance AI model relevance and accuracy.",
+        "Appen’s platform supports human-in-the-loop feedback to optimize generative AI model development.",
+        "Integration with platforms like NVIDIA AI Enterprise enhances Appen’s ability to deliver scalable AI solutions.",
+        "The Crowd Code of Ethics ensures fair compensation and ethical treatment of contributors working on AI projects.",
+        "Appen’s mobile app allows contributors to complete tasks like recording audio or taking photos to support AI training.",
+        "Specialized tools for large language model fine-tuning improve model coherence and context for enterprise use cases."
+    ],
+    "faqs": [
+        {
+            "question": "What does Appen do?",
+            "answer": "Appen provides high-quality datasets and services to train and improve AI and machine learning models for enterprises across various industries."
+        },
+        {
+            "question": "Who can work as a contributor on Appen’s CrowdGen platform?",
+            "answer": "Anyone can join CrowdGen, regardless of experience, to complete tasks like data annotation or recording, with no technical expertise required."
+        },
+        {
+            "question": "What types of AI projects does Appen support?",
+            "answer": "Appen supports projects in automatic speech recognition, computer vision, chatbots, virtual assistants, and personalized advertising."
+        },
+        {
+            "question": "Is there a cost to join Appen’s contributor platform?",
+            "answer": "No, joining CrowdGen is free, and contributors are never asked to pay to participate in projects."
+        },
+        {
+            "question": "How does Appen ensure data quality for AI models?",
+            "answer": "Appen uses human-in-the-loop feedback, assurance products, and a diverse global crowd to deliver accurate and reliable datasets."
+        },
+        {
+            "question": "What industries does Appen serve?",
+            "answer": "Appen serves industries like technology, finance, healthcare, e-commerce, and automotive with tailored AI data solutions."
+        },
+        {
+            "question": "Can contributors work remotely on Appen projects?",
+            "answer": "Yes, contributors can work remotely on flexible schedules, completing tasks via the CrowdGen platform or Appen Mobile app."
+        },
+        {
+            "question": "How does Appen support ethical AI development?",
+            "answer": "Appen’s Crowd Code of Ethics ensures fair compensation and ethical treatment, while its AI for Good solutions promote positive social impact."
+        }
+    ]
+}

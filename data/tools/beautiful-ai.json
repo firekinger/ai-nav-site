@@ -1,0 +1,68 @@
+{
+    "name": "Beautiful.ai",
+    "description": "Beautiful.ai is an AI-powered presentation software that simplifies creating visually stunning slides.",
+    "longDescription": "Beautiful.ai is a cloud-based presentation platform that leverages artificial intelligence to streamline the creation of professional, visually appealing slide decks. Its mission is to eliminate the time-consuming manual design process by automatically applying design principles, allowing users to focus on content. The platform offers smart templates and a DesignerBot AI that generates slide drafts based on user prompts, making it ideal for business professionals, educators, and teams. It solves the problem of complex presentation design by automating layout adjustments and ensuring brand consistency. Beautiful.ai serves users by providing an intuitive interface and tools for collaboration, analytics, and integrations with platforms like PowerPoint and Webex. While it lacks a free tier, its 14-day trial allows users to explore its features.",
+    "url": "https://www.beautiful.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.beautiful.ai.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "beautiful-ai",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Documents Generator",
+        "AI Diagram Generator",
+        "AI Project Management",
+        "AI Productivity Tools",
+        "AI Art Generator",
+        "AI PPT Maker"
+    ],
+    "features": [
+        "Smart Templates automatically adapt slide layouts as content is added, saving time and ensuring professional design.",
+        "DesignerBot AI generates complete presentation drafts from text prompts, streamlining the creative process.",
+        "Team Plan enables collaborative editing and shared slide libraries for consistent branding across teams.",
+        "Viewer Analytics track slide engagement to optimize presentations for audience impact.",
+        "Custom Branding allows users to upload brand assets for uniform visual identity across presentations.",
+        "PowerPoint Export enables users to save presentations as editable PPTX files, despite occasional formatting issues.",
+        "Cloud-Based Access ensures presentations are synced and accessible across devices for seamless workflows.",
+        "Pre-Built Slide Library offers over 60 customizable templates for quick presentation creation.",
+        "Integration with Webex enhances meeting presentations with AI-designed slides, saving up to 50% of creation time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Beautiful.ai used for?",
+            "answer": "Beautiful.ai is used to create professional presentations quickly using AI-driven design tools and smart templates."
+        },
+        {
+            "question": "Does Beautiful.ai offer a free plan?",
+            "answer": "Beautiful.ai does not offer a free plan but provides a 14-day trial requiring credit card details, which must be canceled to avoid charges."
+        },
+        {
+            "question": "Can I collaborate with my team on Beautiful.ai?",
+            "answer": "Yes, the Team Plan allows real-time collaboration, shared slide libraries, and centralized brand management for teams."
+        },
+        {
+            "question": "How does the DesignerBot AI work?",
+            "answer": "DesignerBot AI generates a draft presentation based on a user-provided text prompt, organizing content into professionally designed slides."
+        },
+        {
+            "question": "Can I export presentations to PowerPoint?",
+            "answer": "Yes, presentations can be exported as PPTX files, though users may encounter issues with fonts or layouts."
+        },
+        {
+            "question": "Is Beautiful.ai suitable for non-designers?",
+            "answer": "Absolutely, its AI-driven design and intuitive interface make it easy for non-designers to create stunning presentations."
+        },
+        {
+            "question": "What integrations does Beautiful.ai support?",
+            "answer": "Beautiful.ai integrates with platforms like Webex and Salesforce to enhance presentation workflows and engagement tracking."
+        },
+        {
+            "question": "How does Beautiful.ai ensure brand consistency?",
+            "answer": "Users can upload brand assets and create custom themes to maintain consistent visual identity across all slides."
+        },
+        {
+            "question": "What are the pricing options for Beautiful.ai?",
+            "answer": "Beautiful.ai offers a Pro plan at $12/month (billed annually) and a Team plan, with pricing details available at https://www.beautiful.ai/pricing."
+        }
+    ]
+}

@@ -1,0 +1,776 @@
+{
+    "title": "The Best 71 AI Predictions Tools in 2025",
+    "summary": "Unlock the future with our AI Predictions category, where cutting-edge tools empower you to forecast trends, analyze data, and make informed decisions. These innovative solutions harness the power of artificial intelligence to provide accurate insights, helping businesses and individuals stay ahead of the curve. Whether you're looking to enhance your marketing strategies, optimize operations, or anticipate market shifts, our curated selection of AI prediction tools is designed to meet your needs. Dive in and explore how these transformative technologies can elevate your decision-making today!",
+    "tools": [
+        {
+            "id": "6",
+            "name": "Perplexity AI",
+            "slug": "perplexity-ai",
+            "description": "Perplexity AI is an AI-powered search engine that provides accurate, conversational answers to user queries.",
+            "icon": "/logo/perplexity.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "139",
+            "name": "Genspark",
+            "slug": "genspark",
+            "description": "Genspark is an AI-powered search engine that delivers personalized, curated answers using specialized AI agents.",
+            "icon": "/logo/www.genspark.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "151",
+            "name": "Klaviyo",
+            "slug": "klaviyo",
+            "description": "Klaviyo is a marketing automation platform that empowers businesses to create personalized email and SMS campaigns.",
+            "icon": "/logo/www.klaviyo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "155",
+            "name": "vidIQ",
+            "slug": "vidiq",
+            "description": "vidIQ provides AI-powered tools and analytics to help YouTube creators grow their channels and optimize content.",
+            "icon": "/logo/vidiq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "167",
+            "name": "Abacus.AI",
+            "slug": "abacus-ai",
+            "description": "Abacus.AI provides enterprise-grade AI solutions for building and deploying custom machine learning models.",
+            "icon": "/logo/abacus.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "277",
+            "name": "Julius AI",
+            "slug": "julius-ai",
+            "description": "Julius AI is an AI-powered platform for data analysis, visualization, and statistical modeling.",
+            "icon": "/logo/julius.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "442",
+            "name": "ActiveCampaign",
+            "slug": "activecampaign",
+            "description": "ActiveCampaign provides a platform for personalized email marketing, automation, and sales engagement to help businesses grow.",
+            "icon": "/logo/www.activecampaign.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "449",
+            "name": "AInvest",
+            "slug": "ainvest",
+            "description": "AInvest provides AI-powered tools for stock and cryptocurrency trading, offering real-time market analysis and personalized investment insights.",
+            "icon": "/logo/www.ainvest.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "453",
+            "name": "Tarotoo",
+            "slug": "tarotoo",
+            "description": "Tarotoo offers free AI-powered tarot and psychic readings to guide users in life, love, and career decisions.",
+            "icon": "/logo/tarotoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "457",
+            "name": "Inner AI",
+            "slug": "inner-ai",
+            "description": "Inner AI is a platform that leverages artificial intelligence to organize thoughts, enhance creativity, and streamline task completion.",
+            "icon": "/logo/innerai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "472",
+            "name": "PPSPY",
+            "slug": "ppspy",
+            "description": "PPSPY is an AI-powered Shopify spy tool for dropshipping and sales tracking, helping merchants analyze competitors and discover winning products.",
+            "icon": "/logo/www.ppspy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "569",
+            "name": "Faceless Video",
+            "slug": "faceless-video",
+            "description": "Faceless Video automates the creation and posting of AI-generated faceless videos for social media platforms like TikTok and YouTube.",
+            "icon": "/logo/faceless.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "614",
+            "name": "Bardeen",
+            "slug": "bardeen-ai",
+            "description": "Bardeen is an AI-powered workflow automation platform that streamlines repetitive tasks for GTM teams by integrating with popular apps.",
+            "icon": "/logo/www.bardeen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "616",
+            "name": "Salad",
+            "slug": "salad",
+            "description": "Salad is a distributed GPU cloud platform that offers affordable AI compute resources and enables users to earn rewards by sharing idle PC processing power.",
+            "icon": "/logo/salad.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "623",
+            "name": "Dr.Oracle",
+            "slug": "dr-oracle-ai",
+            "description": "Dr.Oracle is an AI-powered medical research platform providing evidence-based answers and guideline-directed medical insights.",
+            "icon": "/logo/droracle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "655",
+            "name": "BlockSurvey",
+            "slug": "blocksurvey",
+            "description": "BlockSurvey is a privacy-focused, AI-powered platform for creating secure surveys and forms with end-to-end encryption.",
+            "icon": "/logo/blocksurvey.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "687",
+            "name": "Modal",
+            "slug": "modal",
+            "description": "Modal provides serverless cloud infrastructure for running AI, ML, and data-intensive applications without managing infrastructure.",
+            "icon": "/logo/modal.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "720",
+            "name": "Harvey",
+            "slug": "harvey-ai",
+            "description": "Harvey provides AI-powered solutions to streamline legal workflows for law firms and corporate legal teams.",
+            "icon": "/logo/www.harvey.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "756",
+            "name": "YOUR.GG",
+            "slug": "your-gg",
+            "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+            "icon": "/logo/your.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "795",
+            "name": "MindMap AI",
+            "slug": "mindmap-ai",
+            "description": "MindMap AI is an AI-powered tool for creating and organizing interactive mind maps to enhance brainstorming and productivity.",
+            "icon": "/logo/mindmapai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "797",
+            "name": "The New Black",
+            "slug": "the-new-black-ai",
+            "description": "The New Black is an AI-powered platform that revolutionizes fashion design by generating unique clothing, bags, and shoe designs in seconds.",
+            "icon": "/logo/thenewblack.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "816",
+            "name": "Formula Bot",
+            "slug": "formula-bot",
+            "description": "Formula Bot is an AI-powered platform that simplifies data analysis and spreadsheet tasks by generating formulas, visualizations, and insights from natural language inputs.",
+            "icon": "/logo/www.formulabot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "Datarails",
+            "slug": "datarails",
+            "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+            "icon": "/logo/www.datarails.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "884",
+            "name": "Synexa",
+            "slug": "synexa-ai",
+            "description": "Synexa.ai is a platform leveraging AI for advanced biomarker services and bioanalysis in the life sciences industry.",
+            "icon": "/logo/synexa.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "888",
+            "name": "Incite AI",
+            "slug": "incite-ai",
+            "description": "Incite AI is an AI-powered platform that provides real-time market insights, trading signals, and predictive analytics to help investors make informed decisions in the stock market.",
+            "icon": "/logo/www.inciteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "909",
+            "name": "Pietra Studio",
+            "slug": "pietra-studio",
+            "description": "Pietra Studio is a platform empowering creators and entrepreneurs to launch and scale e-commerce brands with tools for design, manufacturing, and fulfillment.",
+            "icon": "/logo/www.pietrastudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "942",
+            "name": "Arize",
+            "slug": "arize",
+            "description": "Arize is a machine learning observability platform that helps teams monitor, troubleshoot, and improve AI models in production.",
+            "icon": "/logo/arize.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "965",
+            "name": "Cascadeur",
+            "slug": "cascadeur",
+            "description": "Cascadeur is a physics-based animation software that uses AI to streamline the creation of realistic character movements for games, films, and VFX.",
+            "icon": "/logo/cascadeur.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "975",
+            "name": "Sell The Trend",
+            "slug": "sell-the-trend",
+            "description": "Sell The Trend is an AI-powered dropshipping platform that helps e-commerce entrepreneurs discover trending products, analyze market trends, and optimize online stores for maximum profitability.",
+            "icon": "/logo/www.sellthetrend.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "978",
+            "name": "Tradytics",
+            "slug": "tradytics",
+            "description": "Tradytics is an AI-driven platform providing data analytics, trade ideas, and tools for stock and options traders to make informed decisions.",
+            "icon": "/logo/tradytics.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "992",
+            "name": "How Old Do I Look",
+            "slug": "how-old-do-i-look",
+            "description": "How Old Do I Look is an AI-powered website that analyzes uploaded photos to estimate a person's apparent age using facial recognition technology.",
+            "icon": "/logo/www.howolddoilook.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1003",
+            "name": "Moveworks",
+            "slug": "moveworks",
+            "description": "Moveworks is an AI-powered platform that automates employee support for IT, HR, and other enterprise functions to enhance productivity and reduce resolution times.",
+            "icon": "/logo/www.moveworks.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1020",
+            "name": "Salesmate",
+            "slug": "salesmate",
+            "description": "Salesmate is a cloud-based CRM platform that empowers sales teams with tools for managing leads, deals, and customer relationships to drive business growth.",
+            "icon": "/logo/www.salesmate.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1025",
+            "name": "AI Top 100",
+            "slug": "ai-top-100",
+            "description": "AI Top 100 is a platform dedicated to ranking and showcasing the top 100 AI tools and resources for users interested in artificial intelligence technologies.",
+            "icon": "/logo/www.aitop100.cn.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1031",
+            "name": "Inven",
+            "slug": "inven-ai",
+            "description": "Inven is an AI-powered platform that helps professionals discover and analyze private companies faster, offering tools for deal sourcing, investor search, and market research.",
+            "icon": "/logo/www.inven.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1047",
+            "name": "Bagel",
+            "slug": "bagel-ai",
+            "description": "Bagel.ai is a no-code platform empowering businesses to build, deploy, and manage custom AI models for data analysis and automation without requiring programming expertise.",
+            "icon": "/logo/bagel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1054",
+            "name": "Noota",
+            "slug": "noota",
+            "description": "Noota is an AI-powered platform that automates meeting transcription, summarization, and analysis to enhance productivity for teams and professionals.",
+            "icon": "/logo/www.noota.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1065",
+            "name": "Danelfin",
+            "slug": "danelfin",
+            "description": "Danelfin is an AI-powered platform that provides stock rankings, scores, and insights to help investors identify high-potential stocks and optimize their portfolios.",
+            "icon": "/logo/danelfin.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "Avoma",
+            "slug": "avoma",
+            "description": "Avoma is an all-in-one AI platform that automates note-taking, scheduling, coaching, and revenue intelligence to enhance business efficiency and growth.",
+            "icon": "/logo/www.avoma.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1113",
+            "name": "FPT.AI",
+            "slug": "fpt-ai",
+            "description": "FPT.AI is a leading AI platform providing comprehensive artificial intelligence solutions for businesses to enhance automation, customer engagement, and data-driven decision-making.",
+            "icon": "/logo/fpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1123",
+            "name": "Vectra AI",
+            "slug": "vectra-ai",
+            "description": "Vectra AI provides AI-driven cybersecurity solutions for detecting and responding to advanced cyber threats in real-time across cloud, data centers, and enterprise networks.",
+            "icon": "/logo/www.vectra.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1134",
+            "name": "Morpher",
+            "slug": "morpher",
+            "description": "Morpher is a blockchain-based trading platform offering zero-fee access to global markets including stocks, crypto, commodities, and more with high leverage and infinite liquidity.",
+            "icon": "/logo/www.morpher.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1140",
+            "name": "Boost.space",
+            "slug": "boost-space",
+            "description": "Boost.space is a no-code platform that centralizes, synchronizes, and automates data across various business tools to streamline workflows and enhance productivity.",
+            "icon": "/logo/boost.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1190",
+            "name": "MindsDB",
+            "slug": "mindsdb",
+            "description": "MindsDB is an open-source platform that integrates machine learning capabilities directly into databases, enabling users to build, train, and deploy AI models using SQL.",
+            "icon": "/logo/mindsdb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1205",
+            "name": "Moning",
+            "slug": "moning",
+            "description": "Moning is a comprehensive investment platform that empowers users to track, analyze, and optimize their stock portfolios with a focus on dividend investing and financial independence.",
+            "icon": "/logo/moning.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1213",
+            "name": "Mappedin",
+            "slug": "mappedin",
+            "description": "Mappedin provides indoor mapping and wayfinding solutions to enhance navigation and experiences in large venues like malls, airports, and offices.",
+            "icon": "/logo/www.mappedin.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1222",
+            "name": "Ludo.ai",
+            "slug": "ludo-ai",
+            "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+            "icon": "/logo/ludo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1230",
+            "name": "Airops",
+            "slug": "airops",
+            "description": "Airops is a no-code platform that enables users to build, deploy, and scale AI-powered applications and workflows effortlessly.",
+            "icon": "/logo/www.airops.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1295",
+            "name": "Adpex AI",
+            "slug": "adpex-ai",
+            "description": "Adpex AI is an AI-powered platform designed to optimize advertising performance and enhance marketing strategies through intelligent automation.",
+            "icon": "/logo/www.adpexai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1302",
+            "name": "CloudKeeper",
+            "slug": "cloudkeeper",
+            "description": "CloudKeeper is a FinOps platform that leverages AI to help businesses optimize cloud costs, automate savings, and provide expert consulting for efficient cloud management.",
+            "icon": "/logo/www.cloudkeeper.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1333",
+            "name": "ExcelDashboard.ai",
+            "slug": "exceldashboard-ai",
+            "description": "ExcelDashboard.ai is an AI-powered platform that simplifies the creation and management of interactive data dashboards within Microsoft Excel.",
+            "icon": "/logo/www.exceldashboard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1291",
+            "name": "VoxDeck",
+            "slug": "voxdeck-ai",
+            "description": "VoxDeck is an AI-powered conversation intelligence platform that analyzes sales calls and meetings to deliver actionable insights and enhance team performance.",
+            "icon": "/logo/www.voxdeck.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1340",
+            "name": "SocialRails",
+            "slug": "socialrails",
+            "description": "SocialRails is an AI-powered platform designed to streamline social media management, content creation, and engagement for businesses and individuals.",
+            "icon": "/logo/socialrails.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1426",
+            "name": "SalesRender",
+            "slug": "salesrender",
+            "description": "SalesRender is an AI-powered CRM platform designed to automate sales processes, manage customer relationships, and boost revenue through intelligent tools.",
+            "icon": "/logo/salesrender.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1427",
+            "name": "Radal AI",
+            "slug": "radal-ai",
+            "description": "Radal.ai is an AI-driven platform focused on advanced data analysis and research tools to empower users with insightful decision-making.",
+            "icon": "/logo/radal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1364",
+            "name": "VibeScan",
+            "slug": "vibescan",
+            "description": "VibeScan is an AI-powered platform that analyzes the emotional tone and vibe of digital content to help users understand social dynamics and sentiment.",
+            "icon": "/logo/vibescan.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1323",
+            "name": "Matrix Destiny Chart",
+            "slug": "matrix-destiny-chart",
+            "description": "This website offers a free Destiny Matrix calculator that analyzes users' birth dates to reveal life purpose, talents, and relationship patterns using numerology and energy work.",
+            "icon": "/logo/matrix-destiny-chart.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1248",
+            "name": "RichlyAI",
+            "slug": "richlyai",
+            "description": "RichlyAI is an AI-powered platform that enriches business operations through intelligent automation and data insights.",
+            "icon": "/logo/richlyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1396",
+            "name": "B150 AI",
+            "slug": "b150-ai",
+            "description": "B150.ai is an AI-driven platform offering advanced tools for business intelligence, automation, and data analysis to enhance productivity.",
+            "icon": "/logo/b150.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1255",
+            "name": "SEO45 AI",
+            "slug": "seo45-ai",
+            "description": "SEO45 AI is an autopilot tool that automates researching, writing, optimizing, and publishing SEO-optimized articles daily to drive website growth.",
+            "icon": "/logo/seo45.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1366",
+            "name": "Plexigen AI",
+            "slug": "plexigen-ai",
+            "description": "Plexigen AI is an innovative platform leveraging artificial intelligence for advanced genomic data analysis and personalized medicine solutions.",
+            "icon": "/logo/plexigen.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1349",
+            "name": "BuildOrNot",
+            "slug": "buildornot",
+            "description": "BuildOrNot is an AI-powered platform that helps users evaluate whether their product or startup ideas are worth building by providing instant analysis and feedback.",
+            "icon": "/logo/buildornot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1345",
+            "name": "WPlace Pro",
+            "slug": "wplace-pro",
+            "description": "WPlace.pro is an AI-powered platform designed to enhance workplace productivity and collaboration through intelligent tools and automation.",
+            "icon": "/logo/www.wplace.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1276",
+            "name": "Mocke",
+            "slug": "mocke",
+            "description": "Mocke provides an AI-powered platform for simulating cold email campaigns to quickly test reply rates and campaign performance without launching real campaigns.",
+            "icon": "/logo/mocke.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1245",
+            "name": "Octayne AI",
+            "slug": "octayne-ai",
+            "description": "Octayne.ai is an AI-driven platform that empowers businesses with automation tools and intelligent insights to enhance productivity and decision-making.",
+            "icon": "/logo/octayne.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1225",
+            "name": "i-Genie.AI",
+            "slug": "i-genie-ai",
+            "description": "i-Genie.AI provides faster consumer insights by passively analyzing online data like searches, social conversations, ratings, reviews, and videos, without relying on surveys or focus groups.",
+            "icon": "/logo/i-genie.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1445",
+            "name": "Snowflake",
+            "slug": "snowflake",
+            "description": "Snowflake is a cloud-based data platform that enables scalable data storage, analytics, and AI-driven insights for enterprises.",
+            "icon": "/logo/www.snowflake.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        },
+        {
+            "id": "1448",
+            "name": "ServiceNow",
+            "slug": "servicenow",
+            "description": "ServiceNow is a cloud-based platform that provides digital workflows to automate and optimize enterprise operations across IT, customer service, and employee experiences.",
+            "icon": "/logo/www.servicenow.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-predictions"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Linguamatics",
+    "description": "Linguamatics provides AI-enabled natural language processing and translation solutions tailored for healthcare and life sciences to innovate, automate, and scale cost-effectively.",
+    "longDescription": "Linguamatics is a company specializing in AI-powered language and translation solutions designed specifically for the healthcare and life sciences sectors. Its mission is to challenge the status quo by enabling organizations to step into a future of responsive, decentralized, global, cost-efficient, and inclusive healthcare through advanced AI technologies. The platform helps users manage healthcare and life-science data, information, and knowledge at scale, quickly and efficiently. By leveraging Natural Language Processing (NLP) and Neural Machine Translation (NMT), Linguamatics offers faster access to over 150 languages via linguists, subject matter experts, or AI-driven tools. This approach solves problems related to high costs in global operations and supports large-scale activities like clinical trials.",
+    "url": "https://www.linguamatics.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.linguamatics.com.webp",
+    "category": "AI Healthcare",
+    "categorySlug": "ai-healthcare",
+    "slug": "linguamatics",
+    "categories": [
+        "AI Healthcare",
+        "AI Translate",
+        "AI Language Learning",
+        "AI Data Mining",
+        "AI Knowledge Management",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Provides access to over 150 languages through a user-friendly portal that integrates seamlessly with existing ecosystems, enabling global accessibility and efficient multilingual operations.",
+        "Offers out-of-the-box NLP models for social determinants of health and adverse event detection, allowing quick deployment for targeted healthcare insights.",
+        "Achieves a 95+ F-score with proprietary NLP technology, recognized as the best AI for healthcare in 2023, ensuring high accuracy and reliability in data processing.",
+        "Supports over 700 global clinical trials annually, facilitating scalable and efficient management of international research efforts.",
+        "Delivers cost-efficient language delivery models that reduce expenses associated with global healthcare operations, promoting affordability without compromising quality.",
+        "Utilizes Neural Machine Translation (NMT) trained for healthcare and life sciences, improving the accuracy of translations in specialized medical and scientific contexts.",
+        "Combines over 20 years of AI experience in healthcare, providing expert-backed solutions for automation and innovation in life sciences.",
+        "Enables scalable data management, allowing users to handle large volumes of healthcare information swiftly and effectively."
+    ],
+    "faqs": [
+        {
+            "question": "What is Linguamatics' primary purpose?",
+            "answer": "Linguamatics aims to provide AI-enabled language and translation solutions to help healthcare and life sciences organizations innovate, automate, and scale cost-effectively."
+        },
+        {
+            "question": "How does Linguamatics reduce costs for global operations?",
+            "answer": "Linguamatics offers fit-for-purpose language delivery models that make global activities more efficient and affordable, addressing high costs in multilingual healthcare operations."
+        },
+        {
+            "question": "What languages does Linguamatics support?",
+            "answer": "Linguamatics provides access to over 150 languages through its user-friendly portal, supporting diverse global needs in healthcare and life sciences."
+        },
+        {
+            "question": "How do Linguamatics' NLP and NMT benefit healthcare?",
+            "answer": "Linguamatics' NLP and NMT are trained specifically for healthcare, enabling accurate data processing, translation, and knowledge extraction to support automation and innovation."
+        },
+        {
+            "question": "Does Linguamatics integrate with existing systems?",
+            "answer": "Yes, the Linguamatics portal can be fully integrated into existing ecosystems, ensuring seamless incorporation into current workflows."
+        },
+        {
+            "question": "What awards has Linguamatics received?",
+            "answer": "Linguamatics was recognized as the best AI technology for healthcare in the 2023 AI Breakthrough Awards for its proprietary NLP technology."
+        },
+        {
+            "question": "How many clinical trials does Linguamatics support?",
+            "answer": "Linguamatics supported over 700 global clinical trials in 2022, making it a key player in enabling scalable research."
+        },
+        {
+            "question": "What industries does Linguamatics focus on?",
+            "answer": "Linguamatics specializes in healthcare and life sciences, providing tailored AI solutions for these sectors."
+        },
+        {
+            "question": "What core technologies does Linguamatics use?",
+            "answer": "Linguamatics employs Natural Language Processing (NLP) and Neural Machine Translation (NMT), both optimized for medical and scientific applications."
+        },
+        {
+            "question": "Can Linguamatics help with adverse event detection?",
+            "answer": "Yes, Linguamatics offers out-of-the-box models for adverse event detection, aiding in efficient monitoring and analysis in healthcare."
+        }
+    ]
+}

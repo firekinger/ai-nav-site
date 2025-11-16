@@ -1,0 +1,71 @@
+{
+    "name": "Tradytics",
+    "description": "Tradytics is an AI-driven platform providing data analytics, trade ideas, and tools for stock and options traders to make informed decisions.",
+    "longDescription": "Tradytics is a comprehensive trading intelligence platform that utilizes artificial intelligence to deliver actionable insights for retail traders in the stock and options markets. Its mission is to democratize access to institutional-level data and analytics, helping individual investors compete with larger players. The platform addresses common challenges like market volatility and information asymmetry by offering real-time data visualization, AI-powered predictions, and customizable tools. Users benefit from features that simplify complex trading strategies, reduce risks, and enhance profitability through data-driven approaches. Overall, Tradytics serves as a one-stop solution for traders seeking to optimize their portfolios with cutting-edge technology.",
+    "url": "https://tradytics.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tradytics.com.webp",
+    "category": "AI Stock Trading",
+    "categorySlug": "ai-stock-trading",
+    "slug": "tradytics",
+    "categories": [
+        "AI Stock Trading",
+        "AI For Finance",
+        "AI Predictions",
+        "AI Data Mining",
+        "AI Trading Bot"
+    ],
+    "features": [
+        "AI Trade Ideas generates daily, machine learning-based recommendations for stocks and options, helping users discover high-potential trades with minimal effort.",
+        "Live Options Flow monitors real-time options trading activity, including unusual volume and whale alerts, to provide insights into market sentiment and hidden opportunities.",
+        "Stock Scanners allow users to create custom filters based on technical, fundamental, and AI criteria, enabling quick identification of promising stocks.",
+        "Interactive Dashboards offer visual representations of market data, portfolio performance, and risk metrics, facilitating easier analysis and decision-making.",
+        "Backtesting Tools enable traders to simulate strategies on historical data, validating ideas before real-world application to minimize losses.",
+        "Real-Time Alerts notify users of price changes, news events, or custom triggers, ensuring they never miss critical market movements.",
+        "Options Profit Calculator helps users model potential outcomes of options trades, including profit/loss scenarios, to support strategic planning.",
+        "Community Features connect users with a network of traders for sharing insights, strategies, and discussions, fostering collaborative learning.",
+        "Mobile Accessibility provides full platform functionality on mobile devices, allowing traders to monitor and act on opportunities anytime, anywhere.",
+        "Data Export options let users download analytics and reports for further offline analysis or integration with other tools."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tradytics?",
+            "answer": "Tradytics is an AI-powered platform designed for stock and options traders, offering tools like trade ideas, scanners, and real-time data analytics to enhance trading decisions."
+        },
+        {
+            "question": "Does Tradytics offer a free plan?",
+            "answer": "Yes, Tradytics provides a free tier with limited access to basic features, allowing users to try the platform before upgrading to premium subscriptions."
+        },
+        {
+            "question": "How does the AI in Tradytics work?",
+            "answer": "Tradytics uses machine learning algorithms to analyze market data, generate trade ideas, and predict trends, providing users with data-driven insights that mimic institutional analysis."
+        },
+        {
+            "question": "Is Tradytics suitable for beginner traders?",
+            "answer": "Yes, it offers user-friendly tools and educational resources to help beginners understand markets, though some advanced features may require trading experience."
+        },
+        {
+            "question": "What markets does Tradytics cover?",
+            "answer": "Tradytics primarily focuses on US stocks and options, with real-time data from major exchanges like NYSE and NASDAQ."
+        },
+        {
+            "question": "Can I integrate Tradytics with my brokerage account?",
+            "answer": "Tradytics provides API access and data exports for integration, but direct brokerage linking depends on the user's provider; it's mainly used for analysis rather than execution."
+        },
+        {
+            "question": "How accurate are Tradytics' trade ideas?",
+            "answer": "Trade ideas are based on historical data and AI models, with reported high success rates, but trading involves risks and users should conduct their own due diligence."
+        },
+        {
+            "question": "What subscription plans are available?",
+            "answer": "Tradytics offers tiered plans including Basic (free), Premium, and Elite, with varying levels of access to features like unlimited scanners and advanced AI tools."
+        },
+        {
+            "question": "Does Tradytics provide customer support?",
+            "answer": "Yes, support is available via email, live chat, and a knowledge base, with premium users getting priority assistance."
+        },
+        {
+            "question": "Is my data secure on Tradytics?",
+            "answer": "Tradytics employs industry-standard encryption and security measures to protect user data and trading information."
+        }
+    ]
+}

@@ -1,0 +1,1304 @@
+{
+    "title": "The Best 118 AI Project Management Tools in 2025",
+    "summary": "Unlock the future of efficiency with our AI Project Management tools. Designed to streamline workflows, enhance collaboration, and optimize resource allocation, these innovative solutions empower teams to achieve their goals with ease. Whether you're managing complex projects or seeking to improve team communication, our curated selection of AI tools offers smart insights and automation to meet your needs. Explore the transformative potential of AI in project management and elevate your productivity today. Dive into our collection and discover the perfect tool for your next project!",
+    "tools": [
+        {
+            "id": "23",
+            "name": "Miro",
+            "slug": "miro",
+            "description": "Miro is a visual collaboration platform that enables teams to brainstorm, plan, and manage projects in real-time or asynchronously.",
+            "icon": "/logo/miro.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Gamma",
+            "slug": "gamma",
+            "description": "Gamma is an AI-powered platform for creating presentations, documents, and web pages with minimal design effort.",
+            "icon": "/logo/gamma.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "Pixelcut",
+            "slug": "pixelcut",
+            "description": "Pixelcut is an AI-powered photo editor designed to simplify and enhance image creation for e-commerce, social media, and personal projects.",
+            "icon": "/logo/pixelcut.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Notion",
+            "slug": "notion",
+            "description": "Notion is an all-in-one workspace for note-taking, project management, and team collaboration with AI-powered tools.",
+            "icon": "/logo/notion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "128",
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "description": "Anthropic builds safe, interpretable AI systems like Claude to assist users in various tasks.",
+            "icon": "/logo/www.anthropic.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "36",
+            "name": "Prolific",
+            "slug": "prolific",
+            "description": "Prolific connects researchers with participants for high-quality online research and data collection.",
+            "icon": "/logo/prolific.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "111",
+            "name": "Replit",
+            "slug": "replit",
+            "description": "Replit is an AI-powered online platform for coding, collaborating, and deploying software in various programming languages directly from the browser.",
+            "icon": "/logo/replit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Liner",
+            "slug": "liner",
+            "description": "Liner is an AI-powered research and productivity tool designed to streamline web browsing and information gathering.",
+            "icon": "/logo/getliner.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "95",
+            "name": "Otter.ai",
+            "slug": "otter-ai",
+            "description": "Otter.ai provides AI-powered transcription and meeting assistant tools to enhance productivity in meetings and note-taking.",
+            "icon": "/logo/otter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "61",
+            "name": "Prezi",
+            "slug": "prezi",
+            "description": "Prezi is a cloud-based presentation platform that creates dynamic, interactive, and visually engaging presentations, videos, and designs.",
+            "icon": "/logo/prezi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Vidnoz",
+            "slug": "vidnoz",
+            "description": "Vidnoz is an AI-powered platform for creating professional videos quickly using avatars, templates, and voiceovers.",
+            "icon": "/logo/vidnoz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "152",
+            "name": "MailerLite",
+            "slug": "mailerlite",
+            "description": "MailerLite provides intuitive email marketing tools for businesses to create, send, and analyze campaigns.",
+            "icon": "/logo/www.mailerlite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "158",
+            "name": "Framer",
+            "slug": "framer",
+            "description": "Framer is a web design and prototyping tool for creating interactive, visually stunning websites and applications.",
+            "icon": "/logo/www.framer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "Tactiq",
+            "slug": "tactiq",
+            "description": "Tactiq provides real-time transcription and meeting note automation for teams using video conferencing platforms.",
+            "icon": "/logo/tactiq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Notta",
+            "slug": "notta",
+            "description": "Notta is an AI-powered transcription and note-taking platform that converts audio and video into text with real-time collaboration features.",
+            "icon": "/logo/www.notta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "188",
+            "name": "Fireflies.ai",
+            "slug": "fireflies-ai",
+            "description": "Fireflies.ai is an AI-powered meeting assistant that automates note-taking, transcription, and task management for virtual and in-person meetings.",
+            "icon": "/logo/fireflies.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "125",
+            "name": "Weights & Biases",
+            "slug": "weights-and-biases",
+            "description": "Weights & Biases is an AI developer platform for training, fine-tuning, and managing machine learning and generative AI models.",
+            "icon": "/logo/wandb.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "218",
+            "name": "Synthesia",
+            "slug": "synthesia",
+            "description": "Synthesia is an AI-powered platform for creating professional videos from text in minutes.",
+            "icon": "/logo/www.synthesia.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "223",
+            "name": "Superhuman",
+            "slug": "superhuman",
+            "description": "Superhuman is an AI-powered email client designed to enhance productivity and streamline email management for professionals.",
+            "icon": "/logo/superhuman.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "Originality.ai",
+            "slug": "originality-ai",
+            "description": "Originality.ai provides AI-driven tools to detect AI-generated content and ensure content authenticity for writers and publishers.",
+            "icon": "/logo/originality.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "236",
+            "name": "Vizard",
+            "slug": "vizard",
+            "description": "Vizard.ai is an AI-powered video editing platform that simplifies content creation for creators, marketers, and businesses.",
+            "icon": "/logo/vizard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "249",
+            "name": "Whimsical",
+            "slug": "whimsical",
+            "description": "Whimsical is a collaborative platform for creating flowcharts, wireframes, mind maps, and project documentation to streamline team workflows.",
+            "icon": "/logo/whimsical.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "255",
+            "name": "Clickworker",
+            "slug": "clickworker",
+            "description": "Clickworker is a crowdsourcing platform that connects businesses with freelancers for tasks like data entry, content creation, and AI training data.",
+            "icon": "/logo/www.clickworker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "265",
+            "name": "Motion",
+            "slug": "motion",
+            "description": "Motion is an AI-powered productivity tool that automates task management and scheduling to optimize daily workflows.",
+            "icon": "/logo/www.usemotion.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "272",
+            "name": "Glean",
+            "slug": "glean",
+            "description": "Glean is an AI-powered enterprise search and knowledge discovery platform that enhances workplace productivity.",
+            "icon": "/logo/www.glean.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "278",
+            "name": "Pitch",
+            "slug": "pitch",
+            "description": "Pitch is a collaborative presentation platform designed to create, share, and deliver professional slideshows efficiently.",
+            "icon": "/logo/pitch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "282",
+            "name": "Presentations.AI",
+            "slug": "presentations-ai",
+            "description": "Presentations.AI is an AI-powered platform for creating professional presentations quickly and easily.",
+            "icon": "/logo/www.presentations.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "283",
+            "name": "tl;dv",
+            "slug": "tldv",
+            "description": "tl;dv is an AI-powered platform for recording, transcribing, and summarizing virtual meetings on Zoom and Google Meet.",
+            "icon": "/logo/tldv.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "304",
+            "name": "GitMind",
+            "slug": "gitmind",
+            "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+            "icon": "/logo/gitmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "318",
+            "name": "Beautiful.ai",
+            "slug": "beautiful-ai",
+            "description": "Beautiful.ai is an AI-powered presentation software that simplifies creating visually stunning slides.",
+            "icon": "/logo/www.beautiful.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "319",
+            "name": "Glide",
+            "slug": "glide",
+            "description": "Glide is a no-code platform that enables users to create custom, AI-powered business apps from spreadsheets without coding.",
+            "icon": "/logo/www.glideapps.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "324",
+            "name": "MyMap AI",
+            "slug": "mymap-ai",
+            "description": "MyMap AI is an AI-powered platform that transforms ideas into visual mind maps, flowcharts, and presentations through a chat interface.",
+            "icon": "/logo/www.mymap.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "AIPRM",
+            "slug": "aiprm",
+            "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+            "icon": "/logo/www.aiprm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "328",
+            "name": "Roboflow",
+            "slug": "roboflow",
+            "description": "Roboflow provides tools to build, train, and deploy computer vision models for developers and enterprises.",
+            "icon": "/logo/roboflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "335",
+            "name": "Vidyard",
+            "slug": "vidyard",
+            "description": "Vidyard is an online video platform that empowers businesses to create, host, and analyze videos to enhance sales, marketing, and customer engagement.",
+            "icon": "/logo/www.vidyard.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "342",
+            "name": "PopAi",
+            "slug": "popai",
+            "description": "PopAi is an AI-powered tool designed to enhance productivity through document interaction, presentation creation, and image generation.",
+            "icon": "/logo/www.popai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "348",
+            "name": "Reclaim AI",
+            "slug": "reclaim-ai",
+            "description": "Reclaim AI is an AI-powered scheduling app that optimizes calendars for tasks, meetings, and work-life balance.",
+            "icon": "/logo/reclaim.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "366",
+            "name": "Flowith",
+            "slug": "flowith",
+            "description": "Flowith is an AI-powered creation workspace designed to enhance productivity and streamline complex tasks through an intuitive canvas-based interface.",
+            "icon": "/logo/flowith.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "371",
+            "name": "AiPPT",
+            "slug": "aippt",
+            "description": "AiPPT is an AI-powered toolkit for creating professional presentations with minimal effort.",
+            "icon": "/logo/www.aippt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "373",
+            "name": "Appen",
+            "slug": "appen",
+            "description": "Appen provides high-quality datasets and services to power AI and machine learning for global enterprises.",
+            "icon": "/logo/www.appen.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "413",
+            "name": "Xmind AI",
+            "slug": "xmind-ai",
+            "description": "Xmind AI is a cloud-based tool for AI-powered mind mapping and collaborative brainstorming to enhance creativity and productivity.",
+            "icon": "/logo/xmind.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "427",
+            "name": "Carepatron",
+            "slug": "carepatron",
+            "description": "Carepatron is an all-in-one healthcare practice management software designed to streamline administrative tasks and enhance client care for health professionals.",
+            "icon": "/logo/www.carepatron.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "437",
+            "name": "Podcastle",
+            "slug": "podcastle-ai",
+            "description": "Podcastle is an AI-powered platform for creating, editing, and distributing professional-quality podcasts and videos directly in your browser.",
+            "icon": "/logo/podcastle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "452",
+            "name": "Predis.ai",
+            "slug": "predis-ai",
+            "description": "Predis.ai is an AI-powered platform for creating, scheduling, and managing social media content to enhance brand engagement.",
+            "icon": "/logo/predis.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "Mapify",
+            "slug": "mapify",
+            "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+            "icon": "/logo/mapify.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "Writer",
+            "slug": "writer",
+            "description": "Writer is a generative AI platform designed to enhance enterprise productivity through AI-driven content creation and management.",
+            "icon": "/logo/writer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "506",
+            "name": "STUDIO",
+            "slug": "studio",
+            "description": "STUDIO is a no-code platform for creating and publishing professional websites with ease.",
+            "icon": "/logo/studio.design.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "517",
+            "name": "ContentStudio",
+            "slug": "contentstudio",
+            "description": "ContentStudio is a unified social media management and content marketing platform for creating, scheduling, and analyzing content across multiple channels.",
+            "icon": "/logo/contentstudio.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "533",
+            "name": "Jam",
+            "slug": "jam",
+            "description": "Jam is a browser extension that streamlines bug reporting by capturing technical details and replays for developers.",
+            "icon": "/logo/jam.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "545",
+            "name": "Humata",
+            "slug": "humata-ai",
+            "description": "Humata is an AI-powered platform that enables users to analyze, summarize, and extract insights from documents like PDFs, Word files, and PowerPoint presentations.",
+            "icon": "/logo/www.humata.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "549",
+            "name": "Planable",
+            "slug": "planable",
+            "description": "Planable is a social media management tool designed for teams to plan, collaborate, approve, and schedule content across multiple platforms.",
+            "icon": "/logo/planable.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "561",
+            "name": "Pixelied",
+            "slug": "pixelied",
+            "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+            "icon": "/logo/pixelied.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "584",
+            "name": "Missive",
+            "slug": "missive",
+            "description": "Missive is a collaborative email and chat platform that streamlines team communication and task management across multiple channels.",
+            "icon": "/logo/missiveapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "Rosebud AI",
+            "slug": "rosebud-ai",
+            "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+            "icon": "/logo/www.rosebud.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "662",
+            "name": "Visily",
+            "slug": "visily-ai",
+            "description": "Visily is an AI-powered UI design platform for creating high-fidelity wireframes and prototypes quickly, tailored for non-designers and teams.",
+            "icon": "/logo/www.visily.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "625",
+            "name": "Create",
+            "slug": "create",
+            "description": "Create.xyz is an AI-powered platform that enables users to build custom web and mobile applications using natural language prompts.",
+            "icon": "/logo/www.create.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "635",
+            "name": "B12",
+            "slug": "b12",
+            "description": "B12 is an AI-powered website builder designed for professional service providers to create and manage polished websites quickly.",
+            "icon": "/logo/www.b12.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "637",
+            "name": "Blaze AI",
+            "slug": "blaze-ai",
+            "description": "Blaze AI is an AI-driven platform that streamlines content creation and marketing for businesses, producing brand-aligned content in seconds.",
+            "icon": "/logo/www.blaze.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "643",
+            "name": "Akiflow",
+            "slug": "akiflow",
+            "description": "Akiflow is an AI-powered productivity platform that integrates tasks and calendars for efficient time management and scheduling.",
+            "icon": "/logo/akiflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "654",
+            "name": "Cherry Studio",
+            "slug": "cherry-studio",
+            "description": "Cherry Studio is a multi-model AI assistant platform enhancing productivity across iOS, macOS, and Windows.",
+            "icon": "/logo/www.cherry-ai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "657",
+            "name": "Voilà",
+            "slug": "voila-ai",
+            "description": "Voilà is an AI-powered assistant that enhances productivity by offering tools for writing, brainstorming, and researching across various platforms.",
+            "icon": "/logo/www.getvoila.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "666",
+            "name": "TypingMind",
+            "slug": "typingmind",
+            "description": "TypingMind provides a professional UI to interact with multiple AI language models for enhanced chat experiences.",
+            "icon": "/logo/www.typingmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "690",
+            "name": "Nuelink",
+            "slug": "nuelink",
+            "description": "Nuelink is a social media scheduling and automation tool designed to streamline content management for businesses and creators.",
+            "icon": "/logo/nuelink.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "691",
+            "name": "EchoWave",
+            "slug": "echowave",
+            "description": "EchoWave is an online video and audio editor that transforms audio content into engaging videos for social media platforms.",
+            "icon": "/logo/echowave.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "715",
+            "name": "Decktopus",
+            "slug": "decktopus",
+            "description": "Decktopus is an AI-powered presentation builder that enables users to create professional, branded presentations quickly and easily.",
+            "icon": "/logo/www.decktopus.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "723",
+            "name": "Frederick AI",
+            "slug": "frederick-ai",
+            "description": "Frederick AI is an AI-powered platform designed to help entrepreneurs validate, plan, and launch startups efficiently.",
+            "icon": "/logo/www.frederick.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "781",
+            "name": "Shortwave",
+            "slug": "shortwave",
+            "description": "Shortwave is an AI-powered email client designed to enhance productivity and streamline inbox management.",
+            "icon": "/logo/www.shortwave.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "788",
+            "name": "Team-GPT",
+            "slug": "team-gpt",
+            "description": "Team-GPT is an AI collaboration platform designed to enhance team productivity and streamline AI-driven workflows for businesses.",
+            "icon": "/logo/team-gpt.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "795",
+            "name": "MindMap AI",
+            "slug": "mindmap-ai",
+            "description": "MindMap AI is an AI-powered tool for creating and organizing interactive mind maps to enhance brainstorming and productivity.",
+            "icon": "/logo/mindmapai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "807",
+            "name": "Fibery",
+            "slug": "fibery",
+            "description": "Fibery is a no-code work management platform that connects teams and streamlines processes with customizable databases and collaboration tools.",
+            "icon": "/logo/fibery.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "822",
+            "name": "Komodo Decks",
+            "slug": "komodo-decks",
+            "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+            "icon": "/logo/komododecks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "833",
+            "name": "MeetGeek",
+            "slug": "meetgeek-ai",
+            "description": "MeetGeek is an AI-powered meeting assistant that automates recording, transcription, and summarization of meetings to enhance productivity.",
+            "icon": "/logo/meetgeek.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "Castmagic",
+            "slug": "castmagic",
+            "description": "Castmagic is an AI-powered platform that transforms audio and video content into ready-to-use assets like transcripts, show notes, and social media posts.",
+            "icon": "/logo/castmagic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "842",
+            "name": "PromptLayer",
+            "slug": "promptlayer",
+            "description": "PromptLayer is a platform designed to help developers track, manage, and optimize their interactions with large language models like GPT.",
+            "icon": "/logo/www.promptlayer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "886",
+            "name": "SocialBu",
+            "slug": "socialbu",
+            "description": "SocialBu is an all-in-one social media management platform that leverages AI to help businesses schedule posts, engage with audiences, generate content, and analyze performance across multiple social networks.",
+            "icon": "/logo/socialbu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "914",
+            "name": "MyLens.ai",
+            "slug": "mylens-ai",
+            "description": "MyLens.ai is an AI-powered platform that allows users to generate interactive timelines, mind maps, and charts from natural language descriptions to visualize information effortlessly.",
+            "icon": "/logo/mylens.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "921",
+            "name": "Jarvis",
+            "slug": "jarvis",
+            "description": "Jarvis is an AI-powered content generation platform that assists users in creating high-quality marketing copy, blog posts, and other written materials efficiently.",
+            "icon": "/logo/jarvis.cx.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "934",
+            "name": "Linguix",
+            "slug": "linguix",
+            "description": "Linguix is an AI-powered writing assistant that helps users improve grammar, style, and content quality in real-time across various platforms.",
+            "icon": "/logo/linguix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "973",
+            "name": "Clockwise",
+            "slug": "clockwise",
+            "description": "Clockwise is an AI-powered calendar optimization tool that helps users and teams manage time more effectively by automating scheduling and maximizing focus time.",
+            "icon": "/logo/www.getclockwise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "980",
+            "name": "Nifty",
+            "slug": "nifty",
+            "description": "Nifty is a collaborative project management platform that integrates task tracking, communication, and automation to streamline team workflows and enhance productivity.",
+            "icon": "/logo/niftypm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1014",
+            "name": "Claap",
+            "slug": "claap",
+            "description": "Claap is an AI-powered asynchronous video platform that helps teams replace meetings with quick screen recordings, intelligent summaries, and collaborative tools for efficient communication.",
+            "icon": "/logo/www.claap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1032",
+            "name": "Checksub",
+            "slug": "checksub",
+            "description": "Checksub is an AI-powered platform for automatic subtitle generation, translation, and editing to make videos more accessible and engaging.",
+            "icon": "/logo/www.checksub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1066",
+            "name": "Upmetrics",
+            "slug": "upmetrics",
+            "description": "Upmetrics is an AI-powered platform that helps entrepreneurs and businesses create professional business plans, financial forecasts, and pitch decks efficiently.",
+            "icon": "/logo/upmetrics.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1068",
+            "name": "CodeDesign.ai",
+            "slug": "codedesign-ai",
+            "description": "CodeDesign.ai is an AI-powered platform that enables users to effortlessly build, customize, and deploy professional websites without coding skills.",
+            "icon": "/logo/codedesign.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1361",
+            "name": "AI CharaLab",
+            "slug": "ai-charalab",
+            "description": "AI CharaLab offers a free online AI character generator that creates lifelike characters based on user descriptions or photos, supporting various styles like realistic, anime, 3D, and fantasy.",
+            "icon": "/logo/aicharalab.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1090",
+            "name": "ChatPRD",
+            "slug": "chatprd-ai",
+            "description": "ChatPRD is an AI-driven platform that enables product managers to generate detailed Product Requirements Documents (PRDs) through conversational AI interactions.",
+            "icon": "/logo/www.chatprd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1095",
+            "name": "Trickle",
+            "slug": "trickle",
+            "description": "Trickle is an AI-powered knowledge management tool that helps users organize, summarize, and retrieve information from screenshots and notes effortlessly.",
+            "icon": "/logo/trickle.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1136",
+            "name": "TripPlanner AI",
+            "slug": "tripplanner-ai",
+            "description": "TripPlanner AI is an innovative platform that uses artificial intelligence to create personalized travel itineraries and optimize trip planning for users worldwide.",
+            "icon": "/logo/tripplanner.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1153",
+            "name": "WiziShop",
+            "slug": "wizishop",
+            "description": "WiziShop is an AI-powered e-commerce platform that enables users to create, manage, and optimize online stores with automated tools and features.",
+            "icon": "/logo/wizishop.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1344",
+            "name": "ClackyAI",
+            "slug": "clackyai",
+            "description": "ClackyAI is an AI-powered coding platform that accelerates software development by automating tasks and transforming issue descriptions into pull requests.",
+            "icon": "/logo/clacky.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1321",
+            "name": "Overlap",
+            "slug": "overlap-ai",
+            "description": "Overlap is an AI-powered platform that automates video clipping and social media posting, offering tools for creators and companies to manage and enhance their content workflows.",
+            "icon": "/logo/overlap.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1402",
+            "name": "Perspective AI",
+            "slug": "perspective-ai",
+            "description": "Perspective AI is an AI-powered platform that helps users generate diverse perspectives on ideas, topics, and decisions to enhance critical thinking and decision-making.",
+            "icon": "/logo/getperspective.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1378",
+            "name": "Cheers",
+            "slug": "cheers",
+            "description": "Cheers.tech is an AI-powered platform that attributes customer feedback, reviews, and interactions to individual frontline employees, providing managers with actionable insights to improve brand performance.",
+            "icon": "/logo/www.cheers.tech.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1301",
+            "name": "Stormy AI",
+            "slug": "stormy-ai",
+            "description": "Stormy.ai is an AI-powered platform for generating creative content and brainstorming ideas.",
+            "icon": "/logo/stormy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1340",
+            "name": "SocialRails",
+            "slug": "socialrails",
+            "description": "SocialRails is an AI-powered platform designed to streamline social media management, content creation, and engagement for businesses and individuals.",
+            "icon": "/logo/socialrails.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1290",
+            "name": "FumeDev",
+            "slug": "fumedev",
+            "description": "FumeDev is an AI-powered platform that assists developers with intelligent coding tools and automation to streamline software development.",
+            "icon": "/logo/www.fumedev.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1363",
+            "name": "Zapform",
+            "slug": "zapform-ai",
+            "description": "Zapform.ai is an AI-powered platform for building intelligent forms, automating data collection, and integrating workflows seamlessly.",
+            "icon": "/logo/www.zapform.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1324",
+            "name": "Octopyd",
+            "slug": "octopyd",
+            "description": "Octopyd is an AI-powered platform designed to assist developers with Python coding, automation, and data analysis tasks.",
+            "icon": "/logo/www.octopyd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1240",
+            "name": "Stackie",
+            "slug": "stackie-ai",
+            "description": "Stackie.ai is an AI-powered platform that assists developers in building, optimizing, and managing technology stacks for software projects.",
+            "icon": "/logo/stackie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "Qoder",
+            "slug": "qoder",
+            "description": "Qoder is an AI-powered platform designed to assist developers with code generation, debugging, and optimization tasks.",
+            "icon": "/logo/qoder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1272",
+            "name": "ReadyBase",
+            "slug": "readybase-ai",
+            "description": "ReadyBase is an AI-powered platform that transforms raw data such as notes, research, images, and files into polished, brand-compliant PDFs in seconds.",
+            "icon": "/logo/readybase.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1300",
+            "name": "Gitmore",
+            "slug": "gitmore",
+            "description": "Gitmore is an AI-powered platform that enhances Git workflows for developers by automating tasks like commit messaging and code reviews.",
+            "icon": "/logo/www.gitmore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1315",
+            "name": "Fixiol",
+            "slug": "fixiol",
+            "description": "Fixiol is an AI-powered platform designed to assist developers in identifying and fixing code errors efficiently.",
+            "icon": "/logo/fixiol.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1342",
+            "name": "nFactorial AI",
+            "slug": "nfactorial-ai",
+            "description": "nFactorial AI is an educational platform offering intensive bootcamps and courses focused on artificial intelligence, machine learning, and software development to empower aspiring tech professionals.",
+            "icon": "/logo/nfactorialai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1345",
+            "name": "WPlace Pro",
+            "slug": "wplace-pro",
+            "description": "WPlace.pro is an AI-powered platform designed to enhance workplace productivity and collaboration through intelligent tools and automation.",
+            "icon": "/logo/www.wplace.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1357",
+            "name": "Dereference AI Codetabs",
+            "slug": "dereference-ai-codetabs",
+            "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+            "icon": "/logo/www.dereference.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1407",
+            "name": "Kanbanq",
+            "slug": "kanbanq",
+            "description": "Kanbanq is an AI-powered project management tool designed for developers, designers, and makers, offering visual Kanban boards and agile sprint management for lean workflows.",
+            "icon": "/logo/www.kanbanq.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1417",
+            "name": "Stakly",
+            "slug": "stakly",
+            "description": "Stakly is an AI-powered platform designed for developers to manage, optimize, and collaborate on technology stacks efficiently.",
+            "icon": "/logo/www.stakly.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "62",
+            "name": "NotebookLM",
+            "slug": "notebooklm",
+            "description": "NotebookLM is an AI-powered research and note-taking tool that helps users summarize, analyze, and interact with complex information from various sources.",
+            "icon": "/logo/notebooklm.google.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Publer",
+            "slug": "publer",
+            "description": "Publer is a social media management platform that streamlines scheduling, publishing, and analyzing posts across multiple social networks.",
+            "icon": "/logo/publer.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "127",
+            "name": "Pippit AI",
+            "slug": "pippit-ai",
+            "description": "Pippit AI is an AI-powered platform for creating and managing marketing videos, images, and avatars for e-commerce and social media.",
+            "icon": "/logo/pippit.capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1028",
+            "name": "Codeflash",
+            "slug": "codeflash-ai",
+            "description": "Codeflash is an AI-powered tool that optimizes Python code for performance, verifies correctness, and integrates with GitHub to enhance development speed.",
+            "icon": "/logo/www.codeflash.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1437",
+            "name": "Asana",
+            "slug": "asana",
+            "description": "Asana is a collaborative work management platform that helps teams organize tasks, track projects, and achieve goals efficiently.",
+            "icon": "/logo/asana.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1438",
+            "name": "ClickUp",
+            "slug": "clickup",
+            "description": "ClickUp is an all-in-one productivity platform designed to align, collaborate, and enhance work efficiency, aiming to save teams a day every week by consolidating projects, knowledge, and conversations into one app.",
+            "icon": "/logo/clickup.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1439",
+            "name": "Atlassian",
+            "slug": "atlassian",
+            "description": "Atlassian offers collaboration software for software development, IT, and business teams, featuring tools like Jira and Confluence enhanced with AI capabilities.",
+            "icon": "/logo/www.atlassian.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        },
+        {
+            "id": "1447",
+            "name": "Linear",
+            "slug": "linear",
+            "description": "Linear is a modern project management and issue tracking platform designed for high-performance software teams to plan, track, and deliver products efficiently.",
+            "icon": "/logo/linear.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-project-management"
+            ]
+        }
+    ]
+}

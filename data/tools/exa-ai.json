@@ -1,0 +1,65 @@
+{
+    "name": "Exa",
+    "description": "Exa is an AI-powered search engine designed to provide real-time, high-quality web data for AI applications.",
+    "longDescription": "Exa is a cutting-edge AI search engine and web crawling API built to empower AI applications with accurate, real-time web data. Founded in 2021 by William Bryk and Jeffrey Wang, Exa aims to organize the world’s knowledge by enabling large language models (LLMs) to retrieve relevant, up-to-date information. Unlike traditional search engines optimized for ads, Exa uses neural networks and embeddings to deliver semantic search results, avoiding SEO spam and low-quality content. Its mission is to provide AI developers with tools to filter and extract web content efficiently, supporting applications like chatbots, research, and data curation. The platform serves thousands of developers, including major clients like Databricks, and is backed by significant funding from Lightspeed, Nvidia, and Y Combinator. Exa’s infrastructure is designed to scale, offering low-latency, high-reliability solutions for complex queries.",
+    "url": "https://exa.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/exa.ai.webp",
+    "category": "AI Search Engine",
+    "categorySlug": "ai-search-engine",
+    "slug": "exa-ai",
+    "categories": [
+        "AI Search Engine",
+        "AI Web Scraping",
+        "AI Document Extraction",
+        "AI For Data Analytics",
+        "AI Models",
+        "AI Linkedin Photo Generator",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Semantic search enables AI to retrieve web content based on meaning, not just keywords, ensuring more relevant results.",
+        "Real-time web crawling updates data every minute, providing AI systems with the most current information available.",
+        "Content scraping extracts clean, parsed HTML from specific URLs, ideal for detailed data retrieval.",
+        "Similarity search finds contextually similar webpages based on a given link, enhancing research depth.",
+        "Deep research API automates in-depth web research, delivering structured JSON results with citations for complex queries.",
+        "LinkedIn search allows AI to find professional profiles and company data, supporting business research and lead generation.",
+        "Customizable filters let users refine searches by date, category, or domain, offering precise control over results.",
+        "Answer API provides direct, cited answers to questions, improving AI chatbot accuracy and user experience.",
+        "Scalable architecture supports high-rate limits and low-latency performance for enterprise-level applications.",
+        "Multi-language support processes content in various languages, broadening global data analysis capabilities."
+    ],
+    "faqs": [
+        {
+            "question": "What is Exa’s primary purpose?",
+            "answer": "Exa is a search engine and API designed to provide AI applications with real-time, high-quality web data to enhance their accuracy and relevance."
+        },
+        {
+            "question": "How does Exa differ from traditional search engines like Google?",
+            "answer": "Exa uses neural networks and embeddings for semantic search, focusing on meaning rather than keywords, avoiding SEO spam and delivering AI-optimized results."
+        },
+        {
+            "question": "Is there a free plan available for Exa?",
+            "answer": "Yes, Exa offers a free tier with limited access to its search API, allowing developers to test its features before subscribing to paid plans."
+        },
+        {
+            "question": "What types of applications can use Exa’s API?",
+            "answer": "Exa supports applications like AI chatbots, data curation for model training, competitor analysis, and news summarization for developers and businesses."
+        },
+        {
+            "question": "How does Exa ensure data quality?",
+            "answer": "Exa’s embeddings-based search and real-time crawling filter out low-quality content, providing accurate, relevant, and up-to-date data."
+        },
+        {
+            "question": "Can Exa handle complex queries?",
+            "answer": "Yes, Exa’s deep research API processes complex queries by searching multiple sources and delivering structured, cited results."
+        },
+        {
+            "question": "Does Exa support non-English content?",
+            "answer": "Exa offers multi-language support, enabling it to process and retrieve content in various languages for global applications."
+        },
+        {
+            "question": "How can developers integrate Exa’s API?",
+            "answer": "Developers can use Exa’s Python SDK or integrations like LangGraph to easily incorporate its search and crawling features into their applications."
+        }
+    ]
+}

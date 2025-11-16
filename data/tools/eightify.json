@@ -1,0 +1,70 @@
+{
+    "name": "Eightify",
+    "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+    "longDescription": "Eightify is an innovative AI-driven platform designed to summarize YouTube videos quickly, providing users with key insights and main ideas in seconds. Its mission is to streamline the video-watching experience, enabling users to decide if a video is worth their time without watching it in full. By leveraging advanced AI algorithms, including technologies like ChatGPT and Claude, Eightify extracts essential points from videos of any length, from short clips to multi-hour lectures. It caters to professionals, students, and casual viewers who seek efficient access to information from business education, podcasts, interviews, news, and more. The platform supports over 40 languages, breaking down language barriers and enhancing global accessibility. Eightify is available as a Chrome extension, mobile app, and Safari extension, ensuring seamless use across devices.",
+    "url": "https://www.eightify.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.eightify.app.webp",
+    "category": "AI Video Summarizer",
+    "categorySlug": "ai-video-summarizer",
+    "slug": "eightify",
+    "categories": [
+        "AI Video Summarizer",
+        "AI Transcription",
+        "AI Content Detector",
+        "AI Language Learning",
+        "AI Productivity Tools",
+        "AI YouTube",
+        "AI Data Mining",
+        "AI Text Generator",
+        "AI Social Media"
+    ],
+    "features": [
+        "AI-driven summaries generate concise overviews of YouTube videos in seconds, saving users time.",
+        "Key insights extraction identifies the most important takeaways, allowing users to grasp core ideas quickly.",
+        "Timestamped navigation enables users to jump to specific video sections, enhancing efficiency.",
+        "Multilingual support offers summarization and translations in over 40 languages for global accessibility.",
+        "Top comments overview provides a quick glance at viewer sentiments, aiding content evaluation.",
+        "Advanced transcript generator delivers accurate transcriptions, outperforming YouTube’s captions.",
+        "Customizable summaries allow users to adjust length, style, and focus for tailored insights.",
+        "Shareable summaries enable users to easily share key points with friends or on social media.",
+        "Cross-device compatibility supports usage on Chrome, iOS, Android, and Safari platforms."
+    ],
+    "faqs": [
+        {
+            "question": "What is Eightify used for?",
+            "answer": "Eightify uses AI to summarize YouTube videos, providing key insights and transcripts to help users save time and decide if a video is worth watching."
+        },
+        {
+            "question": "Is Eightify free to use?",
+            "answer": "Eightify offers a free plan with limited summaries (five on installation, three weekly) for videos under 30 minutes, with premium plans for unlimited access."
+        },
+        {
+            "question": "Can Eightify summarize videos in different languages?",
+            "answer": "Yes, Eightify supports summarization and translation in over 40 languages, making it accessible for global users."
+        },
+        {
+            "question": "How do I install the Eightify Chrome extension?",
+            "answer": "Visit https://eightify.app, click 'Install Chrome extension,' and add it from the Chrome Web Store, then sign in to use it on YouTube."
+        },
+        {
+            "question": "Can I customize the summary format?",
+            "answer": "Yes, Eightify allows customization of summary length, style (e.g., list or Q&A), and focus (e.g., insightful or actionable) to suit user preferences."
+        },
+        {
+            "question": "Is Eightify available on mobile devices?",
+            "answer": "Yes, Eightify is available as a mobile app for iOS and Android, allowing users to summarize videos on the go."
+        },
+        {
+            "question": "How accurate are Eightify’s transcriptions?",
+            "answer": "Eightify’s transcriptions are highly accurate, often surpassing YouTube’s captions, with minimal errors as noted in user reviews."
+        },
+        {
+            "question": "Can I summarize long videos with Eightify?",
+            "answer": "Yes, Eightify can summarize videos of any length, including multi-hour lectures, with no restrictions on the paid plan."
+        },
+        {
+            "question": "How do I cancel my Eightify subscription?",
+            "answer": "Log in to your account on the Eightify app or website, navigate to the subscription section, and cancel anytime, even during the trial period."
+        }
+    ]
+}

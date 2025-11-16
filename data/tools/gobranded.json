@@ -1,0 +1,48 @@
+{
+    "name": "GoBranded",
+    "description": "GoBranded provides AI-powered branding and marketing solutions to help businesses create and manage their brand identity.",
+    "longDescription": "GoBranded is an AI-driven platform designed to assist businesses in creating, managing, and scaling their brand identity through automated tools and personalized strategies. It offers solutions for logo design, content creation, and marketing campaigns, leveraging artificial intelligence to streamline processes and reduce costs. The platform caters to small businesses, startups, and enterprises looking to establish a cohesive brand presence without extensive in-house resources. By integrating AI, GoBranded ensures consistency across digital and print media while providing data-driven insights to optimize marketing efforts. Its mission is to make professional branding accessible and efficient for businesses of all sizes.",
+    "url": "https://gobranded.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gobranded.com.webp",
+    "category": "AI Marketing",
+    "categorySlug": "ai-marketing",
+    "slug": "gobranded",
+    "categories": [
+        "AI Marketing",
+        "AI Logo Generator",
+        "AI Digital Marketing",
+        "AI Social Media"
+    ],
+    "features": [
+        "AI-powered logo design generates unique, professional logos tailored to a business’s vision and industry.",
+        "Automated content creation produces branded marketing copy for websites, social media, and advertisements.",
+        "Brand consistency tools ensure uniform design and messaging across all platforms and media types.",
+        "AI-driven market analysis provides insights into target audiences and campaign performance.",
+        "Customizable templates allow users to create professional marketing materials without design expertise.",
+        "Social media management tools schedule and optimize posts for maximum engagement.",
+        "Real-time brand monitoring tracks brand mentions and sentiment across the web.",
+        "Integration with e-commerce platforms streamlines branded product launches and promotions."
+    ],
+    "faqs": [
+        {
+            "question": "What is GoBranded used for?",
+            "answer": "GoBranded is used to create and manage brand identities, offering AI-powered tools for logo design, content creation, and marketing campaign optimization."
+        },
+        {
+            "question": "Is GoBranded suitable for small businesses?",
+            "answer": "Yes, GoBranded is designed for businesses of all sizes, providing affordable, AI-driven branding solutions tailored to small business needs."
+        },
+        {
+            "question": "Does GoBranded offer a free plan?",
+            "answer": "GoBranded does not offer a free plan, but it provides various subscription tiers to suit different budgets and needs."
+        },
+        {
+            "question": "Can I customize the designs created by GoBranded?",
+            "answer": "Yes, GoBranded offers customizable templates and tools to tweak AI-generated designs to match your brand vision."
+        },
+        {
+            "question": "How does GoBranded use AI in its platform?",
+            "answer": "GoBranded uses AI to automate logo design, content creation, market analysis, and brand consistency, saving time and enhancing efficiency."
+        }
+    ]
+}

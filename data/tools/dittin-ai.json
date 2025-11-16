@@ -1,0 +1,76 @@
+{
+    "name": "Dittin AI",
+    "description": "Dittin AI is an uncensored AI chatbot platform that allows users to create, customize, and engage in immersive role-playing conversations with AI characters.",
+    "longDescription": "Dittin AI is a web-based platform focused on providing uncensored AI-driven chat experiences, emphasizing freedom in role-playing and conversational interactions without content restrictions. Its mission is to empower users to explore creative storytelling, fantasy scenarios, and personalized dialogues through advanced AI technology, catering to those seeking unrestricted virtual companionship. The platform solves problems related to content censorship in other AI chat services by offering a safe space for adult-themed or imaginative conversations. It serves users by enabling easy character creation and community sharing, fostering a collaborative environment for AI enthusiasts. Overall, Dittin AI bridges the gap between human creativity and AI capabilities, making interactive storytelling accessible and engaging.",
+    "url": "https://dittin.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dittin.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "dittin-ai",
+    "categories": [
+        "AI Chatbot",
+        "AI Roleplay",
+        "AI Character",
+        "AI Chat Generator",
+        "NSFW",
+        "AI Social Media",
+        "AI Story Generator",
+        "AI Assistant",
+        "AI Language Learning",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Users can create custom AI characters with detailed personalities, backstories, and dialogue styles for personalized interactions.",
+        "The platform supports uncensored conversations, allowing freedom in topics ranging from casual chats to adult role-playing without restrictions.",
+        "Community sharing enables users to browse, import, and remix characters created by others, expanding creative possibilities.",
+        "Real-time chat functionality provides immersive, responsive dialogues that adapt to user inputs for dynamic storytelling.",
+        "Advanced AI models ensure natural language processing, making conversations feel lifelike and engaging.",
+        "Mobile-friendly interface allows seamless access to chats and character management on various devices.",
+        "Premium subscriptions offer enhanced features like faster response times and access to more powerful AI models.",
+        "Built-in moderation tools help users manage their experience while maintaining the uncensored ethos.",
+        "Character templates and guides assist beginners in quickly building and deploying their own AI companions.",
+        "Integration with image generation for visual character representations enhances the role-playing immersion."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dittin AI?",
+            "answer": "Dittin AI is an online platform for creating and interacting with uncensored AI chatbots designed for role-playing and personalized conversations. It emphasizes freedom from content restrictions, allowing users to explore various scenarios."
+        },
+        {
+            "question": "Is Dittin AI free to use?",
+            "answer": "Yes, Dittin AI offers free access to core features with limitations on usage and AI model strength. Premium plans are available for unlimited access and advanced capabilities."
+        },
+        {
+            "question": "How do I create a character on Dittin AI?",
+            "answer": "To create a character, sign up for an account, navigate to the character creation tool, and input details like name, personality, backstory, and dialogue examples. Once saved, you can start chatting or share it with the community."
+        },
+        {
+            "question": "Does Dittin AI allow NSFW content?",
+            "answer": "Yes, Dittin AI is designed to be uncensored, supporting NSFW and adult-themed conversations as part of its core functionality. Users should engage responsibly and respect community guidelines."
+        },
+        {
+            "question": "Can I share my created characters?",
+            "answer": "Absolutely, Dittin AI has a community section where you can publish your characters for others to use, remix, or rate. This fosters collaboration and inspiration among users."
+        },
+        {
+            "question": "What AI technology powers Dittin AI?",
+            "answer": "Dittin AI utilizes advanced large language models to generate responsive and contextual dialogues. The specific models may vary, but they are optimized for natural, immersive interactions."
+        },
+        {
+            "question": "Is there a mobile app for Dittin AI?",
+            "answer": "Currently, Dittin AI is accessible via web browsers on mobile devices, providing a responsive experience. A dedicated app may be in development, but users can enjoy full functionality on the go through the website."
+        },
+        {
+            "question": "How does Dittin AI ensure user privacy?",
+            "answer": "Dittin AI prioritizes privacy by not storing chat logs without user consent and using encryption for data transmission. Users control their content and can delete characters or data as needed."
+        },
+        {
+            "question": "Can I use Dittin AI for educational purposes?",
+            "answer": "While primarily for entertainment and role-playing, Dittin AI can be used creatively for educational scenarios like language practice or historical simulations, as long as it fits within the platform's uncensored framework."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan includes daily message limits, access to basic AI models, and occasional wait times during peak usage. Upgrading to premium removes these restrictions for a smoother experience."
+        }
+    ]
+}

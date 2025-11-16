@@ -1,0 +1,62 @@
+{
+    "name": "Photofeeler",
+    "description": "Photofeeler provides anonymous feedback to optimize profile photos for business, social, and dating purposes.",
+    "longDescription": "Photofeeler is an online platform that helps users enhance their profile pictures by providing anonymous feedback from real users and AI-driven analysis. Founded in 2013, it serves individuals aiming to improve their online presence on platforms like LinkedIn, Tinder, and social media by offering insights into how their photos are perceived. Users can test photos across three categories—business, social, and dating—each evaluated for specific traits like competence, likability, or attractiveness. The platform combines human votes with AI to ensure accurate, unbiased results, addressing the challenge of subjective feedback from friends or family. By allowing users to either earn credits through rating others’ photos or purchase credits, Photofeeler makes photo testing accessible while prioritizing user privacy and data security. Its mission is to empower users to select images that align with their professional, social, or romantic goals.",
+    "url": "https://www.photofeeler.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.photofeeler.com.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "photofeeler",
+    "categories": [
+        "AI Image Recognition",
+        "AI Social Media",
+        "AI Marketing",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "Photo testing allows users to upload images and receive anonymous feedback on specific traits like attractiveness, competence, or authenticity.",
+        "Three testing categories (business, social, dating) cater to diverse user needs, ensuring context-specific feedback.",
+        "AI-driven fraud detection filters out low-quality votes to maintain the accuracy and reliability of feedback.",
+        "Users can earn karma by rating others’ photos, enabling free photo testing without monetary payment.",
+        "Quick Notes feature lets voters provide concise, constructive feedback to help users improve their photos.",
+        "Privacy controls ensure photos are only visible to selected demographics during testing and remain private afterward.",
+        "Standardized scoring (1-10) compares photos to similar demographics, making results easy to interpret.",
+        "The Profiled blog offers expert tips on optimizing profile pictures for various platforms.",
+        "Mobile app availability enhances user accessibility for photo uploads and feedback review.",
+        "Demographic targeting allows users to specify the gender or age group providing feedback for more relevant results."
+    ],
+    "faqs": [
+        {
+            "question": "Is Photofeeler free to use?",
+            "answer": "Photofeeler offers a free plan where users can earn karma by rating others’ photos to test their own, though premium credits can be purchased for faster results."
+        },
+        {
+            "question": "Who can see my photos on Photofeeler?",
+            "answer": "Photos are only visible to selected voter demographics during active tests and become private once the test is complete."
+        },
+        {
+            "question": "How accurate are Photofeeler’s results?",
+            "answer": "Results are highly accurate due to AI-driven fraud detection and standardized scoring based on votes from real users, adjusted for voter tendencies."
+        },
+        {
+            "question": "Can I test multiple photos at once?",
+            "answer": "Photofeeler tests one photo at a time to ensure unbiased, trait-specific feedback, avoiding direct comparisons."
+        },
+        {
+            "question": "How long does it take to get feedback?",
+            "answer": "Feedback speed depends on the number of votes requested and voter activity, typically ranging from hours to a few days."
+        },
+        {
+            "question": "Is my data safe with Photofeeler?",
+            "answer": "Photofeeler uses secure HTTP connections and database best practices to protect user data, and it does not sell personal information."
+        },
+        {
+            "question": "What traits are evaluated in each category?",
+            "answer": "Business photos are scored on competence, likability, and influence; dating photos on attractiveness, smartness, and trustworthiness; social photos on confidence, authenticity, and fun."
+        },
+        {
+            "question": "Can I delete my photos or account?",
+            "answer": "Users can delete individual photos or tests via the Help Center, and accounts can be permanently deleted through the account deletion page."
+        }
+    ]
+}

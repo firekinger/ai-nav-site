@@ -1,0 +1,78 @@
+{
+    "name": "Kaedim",
+    "description": "Kaedim is an AI-powered platform that transforms 2D images into production-ready 3D models to accelerate content creation for game developers and creators.",
+    "longDescription": "Kaedim is a cutting-edge AI company founded in 2020 that specializes in converting 2D images into high-quality 3D models using machine learning and human expertise. Its mission is to speed up the transition from 2D to 3D digital worlds by streamlining asset creation, allowing creators to build more immersive experiences efficiently. The platform addresses challenges in traditional 3D modeling by automating tedious processes, reducing production time by up to 10x, and serving industries like gaming, architecture, e-commerce, and product design. By combining AI algorithms with artist refinements, Kaedim ensures models are optimized, editable, and game-ready, solving problems of scalability and creativity bottlenecks. This human-AI hybrid approach not only boosts productivity but also enables users with minimal 3D knowledge to produce professional results.",
+    "url": "https://www.kaedim3d.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.kaedim3d.com.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "kaedim",
+    "categories": [
+        "AI 3D Model Generator",
+        "Image to 3D Model",
+        "AI Game Generator",
+        "AI Texture Generator",
+        "AI Design Assistant",
+        "AI Shopping Assistant",
+        "AI Floor Plan Generator"
+    ],
+    "features": [
+        "AI-driven conversion of 2D images such as sketches, photos, or artwork into fully editable 3D models, enabling rapid asset creation without extensive manual modeling.",
+        "Generation of low-poly, quad-based, watertight 3D models separated into subparts, ensuring compatibility and ease of use in game engines and design software.",
+        "Automatic texturing and UV unwrapping functionalities that add realistic details to models, saving time on post-processing and enhancing visual quality.",
+        "Creation of Levels of Detail (LoDs) for optimized performance in real-time applications like games, allowing seamless scaling of model complexity.",
+        "On-demand 3D marketplace featuring over 10,000 AI-generated assets, providing users with a vast library to browse, purchase, and customize for their projects.",
+        "Human-AI collaboration pipeline where machine learning handles initial generation and in-house artists refine outputs, guaranteeing high-quality results.",
+        "Support for multiple export formats including OBJ, FBX, GLB, GLTF, USD, and MTL, facilitating integration into various workflows and tools.",
+        "Teams functionality for enterprise users, enabling collaborative project management and shared access to assets and generations.",
+        "Rapid prototyping tools that reduce design iteration cycles from weeks to hours, accelerating product development in e-commerce and architecture.",
+        "Seamless workflow integrations that boost overall productivity by automating repetitive tasks and freeing creators for more innovative work.",
+        "Real-time community support via Discord, offering users quick assistance, feedback, and resources to maximize platform utilization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kaedim?",
+            "answer": "Kaedim is an AI-powered platform that converts 2D images into production-ready 3D models using machine learning combined with human artist refinements. It helps creators in gaming and other industries produce assets faster and more efficiently."
+        },
+        {
+            "question": "How does Kaedim work?",
+            "answer": "Users upload 2D images to the platform, where AI algorithms generate initial 3D models, followed by refinements from in-house artists to ensure quality. This hybrid process delivers optimized, editable assets in various formats."
+        },
+        {
+            "question": "Does Kaedim offer a free plan?",
+            "answer": "Yes, Kaedim provides a freemium model or free trial with limited access to core features like model generation, allowing users to test the platform before subscribing."
+        },
+        {
+            "question": "What industries can benefit from Kaedim?",
+            "answer": "Kaedim primarily serves the gaming industry but also supports architecture, e-commerce, product design, and 3D printing by streamlining 3D asset creation."
+        },
+        {
+            "question": "What file formats does Kaedim support for exports?",
+            "answer": "Kaedim supports exports in OBJ, FBX, GLB, GLTF, USD, and MTL formats, ensuring compatibility with popular 3D software and engines."
+        },
+        {
+            "question": "How fast can Kaedim generate 3D models?",
+            "answer": "Kaedim can accelerate 3D productions by up to 10x, turning processes that take days or weeks into hours through its AI-driven pipeline."
+        },
+        {
+            "question": "Do I need 3D modeling experience to use Kaedim?",
+            "answer": "No, Kaedim is designed for users with little to no 3D knowledge, as the AI handles the complex conversion, making it accessible for beginners."
+        },
+        {
+            "question": "Is there a 3D marketplace on Kaedim?",
+            "answer": "Yes, Kaedim features an AI-powered marketplace with over 10,000 3D assets available for browsing, purchasing, and customization."
+        },
+        {
+            "question": "What are Kaedim's pricing options?",
+            "answer": "Plans start at around $29 per month for starters with limited credits, scaling up to pro and enterprise levels for higher volumes and advanced features."
+        },
+        {
+            "question": "Does Kaedim offer automatic texturing?",
+            "answer": "Yes, automatic texturing is a core feature that adds realistic textures to generated 3D models, enhancing their usability in various applications."
+        },
+        {
+            "question": "Can Kaedim integrate with my existing workflow?",
+            "answer": "Absolutely, Kaedim offers seamless integrations and export options to fit into popular 3D tools and pipelines without disruption."
+        }
+    ]
+}

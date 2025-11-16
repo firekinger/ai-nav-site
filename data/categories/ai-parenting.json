@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Parenting Tools in 2025",
+    "summary": "Welcome to the AI Parenting category, where innovative tools empower parents to navigate the challenges of raising children in a digital age. Discover AI-driven solutions that enhance communication, promote learning, and support emotional well-being. From personalized educational resources to smart scheduling assistants, these tools are designed to simplify parenting and foster stronger family connections. Explore our curated selection of AI tools today and unlock new ways to nurture your child's growth and development. Dive in and transform your parenting journey!",
+    "tools": [
+        {
+            "id": "103",
+            "name": "Lovescape",
+            "slug": "lovescape",
+            "description": "Lovescape is an AI-powered platform for creating and interacting with customizable virtual companions for personalized digital relationships.",
+            "icon": "/logo/lovescape.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-parenting"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "Aura",
+            "slug": "aura",
+            "description": "Aura provides comprehensive digital security and identity theft protection for individuals and families.",
+            "icon": "/logo/aura.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-parenting"
+            ]
+        },
+        {
+            "id": "286",
+            "name": "Bark",
+            "slug": "bark",
+            "description": "Bark is a parental control platform that monitors children's online activity to ensure their safety.",
+            "icon": "/logo/www.bark.us.webp",
+            "isFree": false,
+            "categories": [
+                "ai-parenting"
+            ]
+        },
+        {
+            "id": "692",
+            "name": "ColoringBook AI",
+            "slug": "coloringbook-ai",
+            "description": "ColoringBook AI is an AI-powered platform for creating and downloading free printable coloring pages from text or images.",
+            "icon": "/logo/www.coloringbook.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-parenting"
+            ]
+        }
+    ]
+}

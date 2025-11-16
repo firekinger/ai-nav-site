@@ -1,0 +1,78 @@
+{
+    "name": "DreamFace",
+    "description": "DreamFace is an AI-powered app that transforms photos into animated videos, avatars, and enhanced images with one-click simplicity.",
+    "longDescription": "DreamFace is a cutting-edge photo and video animation platform that leverages AI technology to bring static images to life, enabling users to create engaging content like singing avatars, dancing photos, and text-to-speech videos. Designed for both casual and professional use, it offers an intuitive interface accessible on iOS, Android, and web platforms. The app caters to users looking to create viral social media content, memorable greetings, or fun personal projects, such as animating pets or old photos. Its mission is to make advanced AI-driven animation accessible to everyone, with a robust free version and premium options for enhanced features. By continuously updating its template library and optimizing effects, DreamFace ensures users can produce high-quality, creative outputs effortlessly.",
+    "url": "https://www.dreamfaceapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.dreamfaceapp.com.webp",
+    "category": "AI Animation Generator",
+    "categorySlug": "ai-animation-generator",
+    "slug": "dreamface",
+    "categories": [
+        "AI Animation Generator",
+        "AI Video Generator",
+        "AI Face Swap Generator",
+        "Image to 3D Model",
+        "AI Text-to-Speech",
+        "AI Image Enhancer",
+        "AI Social Media Post Generator",
+        "AI Animated Video",
+        "AI Anime Art",
+        "AI Lip Sync Generator"
+    ],
+    "features": [
+        "AI-powered photo animation transforms static images into dynamic videos that sing, dance, or talk with one click.",
+        "Text-to-speech functionality generates realistic voiceovers for animated avatars, enhancing video personalization.",
+        "High-definition photo enhancement upgrades selfies and portraits to professional, influencer-style quality.",
+        "Nostalgia mode animates old or black-and-white photos, reviving memories with lifelike motion.",
+        "Extensive music library offers a wide range of songs for lip-sync videos, supporting diverse creative projects.",
+        "Face-swapping technology allows users to create fun, realistic swaps in videos and GIFs for social media.",
+        "Avatar creation tools enable users to generate custom AI-driven avatars for personalized video content.",
+        "Studio Ghibli-inspired anime maker converts photos into stylized animated characters for unique outputs.",
+        "Pet animation feature lets users create heartwarming videos of pets singing or moving, ideal for social sharing.",
+        "Multi-language AI script support enables global users to create content in various languages.",
+        "1080P lip-sync capability for premium users ensures high-resolution video outputs for professional use.",
+        "Daily template updates provide fresh AI effects and animations to keep content creation dynamic."
+    ],
+    "faqs": [
+        {
+            "question": "What is DreamFace used for?",
+            "answer": "DreamFace is an AI-powered app for animating photos into videos, creating avatars, and enhancing images for social media, greetings, or personal projects."
+        },
+        {
+            "question": "Is there a free version of DreamFace?",
+            "answer": "Yes, DreamFace offers a free version with core features like 30-second lip-sync videos, though some advanced features require a Pro subscription."
+        },
+        {
+            "question": "Can I animate my pet’s photos with DreamFace?",
+            "answer": "Yes, DreamFace allows users to create singing or animated videos of pets using its specialized pet animation templates."
+        },
+        {
+            "question": "What platforms is DreamFace available on?",
+            "answer": "DreamFace is available on iOS, Android, and web platforms, with a single account usable across all."
+        },
+        {
+            "question": "How do I create a video with DreamFace?",
+            "answer": "Upload a photo, select an animation type (e.g., singing, dancing), choose a template or song, and the AI generates the video in seconds."
+        },
+        {
+            "question": "Does DreamFace support multiple languages?",
+            "answer": "Yes, recent updates include multi-language AI script support for creating content in various languages."
+        },
+        {
+            "question": "What is the Nostalgia mode in DreamFace?",
+            "answer": "Nostalgia mode animates old or black-and-white photos, bringing them to life with realistic motion and effects."
+        },
+        {
+            "question": "How can I access premium features?",
+            "answer": "Join DreamFace Pro with a weekly, monthly, or annual subscription to unlock features like 1080P lip-sync and longer video durations."
+        },
+        {
+            "question": "Is DreamFace safe to use?",
+            "answer": "DreamFace scans all files for safety, and its privacy policy ensures user data is handled securely; see details at their website."
+        },
+        {
+            "question": "Can I suggest new features for DreamFace?",
+            "answer": "Yes, users can send suggestions to dreamface@newportai.com, and the team actively incorporates feedback into updates."
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "title": "The Best 13 AI Video Summarizer Tools in 2025",
+    "summary": "Unlock the power of AI with our Video Summarizer tools, designed to transform lengthy videos into concise, engaging summaries. Perfect for busy professionals, educators, and content creators, these tools save you time while enhancing productivity. By distilling essential information, you can quickly grasp key insights and share them effortlessly. Explore our curated selection of AI Video Summarizers to streamline your workflow and stay ahead in today’s fast-paced digital landscape. Dive in now and discover how these innovative solutions can elevate your video consumption experience!",
+    "tools": [
+        {
+            "id": "201",
+            "name": "Veo",
+            "slug": "veo",
+            "description": "Veo provides AI-powered sports video recording and analysis solutions for teams and athletes.",
+            "icon": "/logo/www.veo.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "Mapify",
+            "slug": "mapify",
+            "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+            "icon": "/logo/mapify.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "494",
+            "name": "Glarity",
+            "slug": "glarity",
+            "description": "Glarity is a free, open-source browser extension that uses AI to summarize and translate content from YouTube, Google, and other web platforms.",
+            "icon": "/logo/glarity.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "603",
+            "name": "Noiz",
+            "slug": "noiz",
+            "description": "Noiz is an AI-powered platform that generates concise summaries of YouTube videos and PDFs to enhance learning and productivity.",
+            "icon": "/logo/noiz.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "724",
+            "name": "SummarizeYou",
+            "slug": "summarizeyou",
+            "description": "SummarizeYou is an AI-powered tool that instantly generates concise summaries of YouTube videos, extracting key points without requiring user login.",
+            "icon": "/logo/summarizeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "827",
+            "name": "SciSpace",
+            "slug": "scispace",
+            "description": "SciSpace is an AI-powered platform that streamlines academic research by helping users discover, analyze, and create research papers efficiently.",
+            "icon": "/logo/scispace.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "998",
+            "name": "Pixellot",
+            "slug": "pixellot",
+            "description": "Pixellot is an AI-powered platform that automates sports video production and streaming for teams, leagues, and broadcasters.",
+            "icon": "/logo/www.pixellot.tv.webp",
+            "isFree": false,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "1024",
+            "name": "YouTube Summarized",
+            "slug": "youtube-summarized",
+            "description": "YouTube Summarized is an AI-powered tool that generates concise summaries of YouTube videos, helping users quickly grasp key points without watching the entire content.",
+            "icon": "/logo/youtubesummarized.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "1063",
+            "name": "Summarize.tech",
+            "slug": "summarize-tech",
+            "description": "Summarize.tech is an AI-powered platform that generates concise text summaries of YouTube videos to help users quickly extract key insights.",
+            "icon": "/logo/www.summarize.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "1201",
+            "name": "YOU-TLDR",
+            "slug": "you-tldr",
+            "description": "YOU-TLDR is a free AI-powered web app that enables users to summarize, download, search, and interact with YouTube videos in any language.",
+            "icon": "/logo/www.you-tldr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "1236",
+            "name": "Interviewer.ai",
+            "slug": "interviewer-ai",
+            "description": "Interviewer.ai is an AI-powered platform that automates job interviews, screens candidates, and provides data-driven insights to streamline the hiring process for businesses.",
+            "icon": "/logo/interviewer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        },
+        {
+            "id": "1027",
+            "name": "SummaryTube",
+            "slug": "summarytube",
+            "description": "SummaryTube is an AI-powered online tool that generates free summaries and key insights from YouTube videos to help users save time.",
+            "icon": "/logo/summarytube.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-summarizer"
+            ]
+        }
+    ]
+}

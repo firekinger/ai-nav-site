@@ -1,0 +1,66 @@
+{
+    "name": "Coral AI",
+    "description": "Coral AI provides AI-powered tools to summarize, query, and transcribe documents and meetings for enhanced productivity.",
+    "longDescription": "Coral AI is an AI-driven platform designed to streamline document and meeting management by offering rapid summarization, querying, and transcription capabilities. It serves professionals, researchers, and students by enabling them to extract key insights from PDFs, audio, and other file types in seconds. The platform supports over 90 languages and provides citations with every response, ensuring accuracy and traceability. By leveraging advanced AI models like GPT-4.1 and Gemini 2.5 Pro, Coral AI enhances efficiency in academic, business, and research settings. Its mission is to save users time and effort by simplifying complex workflows and making information more accessible.",
+    "url": "https://www.getcoralai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getcoralai.com.webp",
+    "category": "AI Article Summarizer",
+    "categorySlug": "ai-article-summarizer",
+    "slug": "coral-ai",
+    "categories": [
+        "AI Article Summarizer",
+        "AI Answer",
+        "AI Transcription",
+        "AI Language Learning",
+        "AI Image Recognition",
+        "AI Writing",
+        "AI Document Extraction",
+        "AI OCR"
+    ],
+    "features": [
+        "Document summarization condenses long PDFs into concise summaries, saving users hours of reading time.",
+        "Question answering allows users to ask specific questions about uploaded documents and receive accurate answers with page citations.",
+        "Bulk document upload enables searching for key information across multiple files simultaneously, improving research efficiency.",
+        "Transcription of audio and video files provides summaries and queryable text, streamlining meeting analysis.",
+        "Multilingual support processes documents in over 90 languages, making it accessible for global users.",
+        "Citation generation provides clickable page references with every answer, ensuring traceability and credibility.",
+        "Image analysis allows users to query charts, graphics, and other visuals within documents for deeper insights.",
+        "Support for 20+ file types, including OCR for scanned files, accommodates diverse document formats up to 500MB.",
+        "Tagging and grouping documents enables organized chats with specific file sets, enhancing workflow customization.",
+        "Content generation creates presentations, emails, and social media posts from documents, boosting productivity."
+    ],
+    "faqs": [
+        {
+            "question": "What types of files can I upload to Coral AI?",
+            "answer": "Coral AI supports over 20 file types, including PDFs, audio, video, and scanned documents via OCR, with a file size limit of 500MB."
+        },
+        {
+            "question": "Does Coral AI offer a free plan?",
+            "answer": "Coral AI does not offer a free plan; users must subscribe to a monthly or annual plan, such as Coral Pro, for access."
+        },
+        {
+            "question": "Can Coral AI summarize meetings?",
+            "answer": "Yes, Coral AI can transcribe and summarize audio or video files from meetings, allowing users to query key points."
+        },
+        {
+            "question": "Is Coral AI suitable for academic research?",
+            "answer": "Coral AI is ideal for researchers, offering document summarization, question answering, and citations to streamline research paper analysis."
+        },
+        {
+            "question": "What AI models power Coral AI?",
+            "answer": "Coral AI uses advanced models like GPT-4.1 and Gemini 2.5 Pro to deliver accurate and efficient document processing."
+        },
+        {
+            "question": "Can I use Coral AI for multilingual documents?",
+            "answer": "Yes, Coral AI supports over 90 languages, enabling summarization, querying, and translation of diverse documents."
+        },
+        {
+            "question": "How does Coral AI ensure answer accuracy?",
+            "answer": "Coral AI provides clickable page citations with every response, ensuring answers are traceable and verifiable."
+        },
+        {
+            "question": "Can I cancel my Coral AI subscription?",
+            "answer": "Yes, users can cancel their subscription anytime via their Coral AI account, retaining access until the billing period ends."
+        }
+    ]
+}

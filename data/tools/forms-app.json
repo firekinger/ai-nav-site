@@ -1,0 +1,74 @@
+{
+    "name": "forms.app",
+    "description": "forms.app is a user-friendly online form builder for creating and sharing forms, surveys, and quizzes to collect data effortlessly.",
+    "longDescription": "forms.app is an intuitive online form builder designed to simplify data collection for businesses, educators, and individuals by offering a drag-and-drop interface to create forms, surveys, and quizzes without coding. Its mission is to make data collection accessible and efficient, enabling users to gather registrations, feedback, orders, and more in minutes. The platform supports seamless integrations with tools like Google Sheets and Zapier, streamlining workflows and data management. It emphasizes privacy and security, offering GDPR-compliant forms and robust data protection. forms.app serves a wide range of users, from small business owners to researchers, by providing customizable templates and real-time response tracking. Its mobile app enhances accessibility, allowing users to manage forms on the go.",
+    "url": "https://forms.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/forms.app.webp",
+    "category": "AI Forms",
+    "categorySlug": "ai-forms",
+    "slug": "forms-app",
+    "categories": [
+        "AI Forms",
+        "AI Consulting",
+        "AI For Data Analytics",
+        "AI Workflow",
+        "AI Legal Assistant"
+    ],
+    "features": [
+        "Drag-and-drop form builder enables quick creation of customized forms without coding.",
+        "Real-time response tracking provides instant insights into form submissions.",
+        "Mobile app allows users to create and manage forms on iOS and Android devices.",
+        "Integration with apps like Google Sheets and Zapier automates workflows and data management.",
+        "Customizable templates offer a variety of pre-designed forms for registrations, feedback, and quizzes.",
+        "GDPR-compliant forms ensure data privacy and regulatory adherence.",
+        "Conditional logic enables dynamic forms that adapt based on user responses.",
+        "Payment integration supports online transactions via Stripe and PayPal.",
+        "AI-generated answer options streamline question creation for surveys and quizzes.",
+        "Embed options allow seamless integration of forms into websites or apps.",
+        "Real-time notifications alert users instantly when new responses are submitted.",
+        "Multilingual support ensures forms are accessible to diverse audiences.",
+        "Product basket feature enables online sales without a dedicated website."
+    ],
+    "faqs": [
+        {
+            "question": "What is forms.app used for?",
+            "answer": "forms.app is used to create and share online forms, surveys, and quizzes for collecting data like registrations, feedback, or orders."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, forms.app offers a free plan with access to core features like form creation, templates, and integrations, with some limitations."
+        },
+        {
+            "question": "Can I use forms.app on mobile devices?",
+            "answer": "Yes, forms.app has a mobile app for iOS and Android, allowing users to create, manage, and track forms on the go."
+        },
+        {
+            "question": "Does forms.app support integrations?",
+            "answer": "Yes, forms.app integrates with tools like Google Sheets, Slack, and Pipedrive via Zapier for automated workflows."
+        },
+        {
+            "question": "Is forms.app GDPR compliant?",
+            "answer": "Yes, forms.app ensures GDPR compliance with secure, privacy-focused form creation and data handling."
+        },
+        {
+            "question": "Can I accept payments through forms.app?",
+            "answer": "Yes, forms.app supports online payments via Stripe and PayPal for orders or donations."
+        },
+        {
+            "question": "How customizable are the forms?",
+            "answer": "Forms can be tailored with themes, logos, and conditional logic to match your brand and engage your audience."
+        },
+        {
+            "question": "Can I share survey results with others?",
+            "answer": "Yes, you can share survey results via a URL from the form responses section, even on the free plan."
+        },
+        {
+            "question": "Does forms.app support offline form creation?",
+            "answer": "Offline form creation is not explicitly supported, but forms can be edited and managed online via the mobile app."
+        },
+        {
+            "question": "Can I use forms.app for research surveys?",
+            "answer": "Yes, forms.app is ideal for research, offering customizable surveys and AI insights for reliable data collection."
+        }
+    ]
+}

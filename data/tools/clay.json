@@ -1,0 +1,64 @@
+{
+    "name": "Clay",
+    "description": "Clay is a creative go-to-market platform that automates data enrichment and personalized outreach for sales and marketing teams.",
+    "longDescription": "Clay is a no-code workflow automation platform designed to streamline go-to-market (GTM) strategies by integrating over 50 data providers, real-time web scraping, and AI-driven personalization. It empowers revenue operations teams at companies like Notion and Intercom to eliminate manual research and data entry, reducing time spent on these tasks from 67% to nearly zero. The platform enables users to combine data from multiple sources, automate complex workflows, and create hyper-personalized campaigns that improve engagement and conversion rates. By offering transparent access to premium data providers at wholesale prices, Clay delivers higher data coverage at a fraction of the cost of competitors like ZoomInfo. Its mission is to simplify GTM processes, allowing businesses to focus on building relationships and scaling growth efficiently. Clay’s community-driven approach and exceptional customer support further enhance its value, making it a vital tool for modern sales and marketing teams.",
+    "url": "https://www.clay.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.clay.com.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "clay",
+    "categories": [
+        "AI Agent",
+        "AI Workflow",
+        "AI Lead Generation",
+        "AI CRM",
+        "No-Code&Low-Code"
+    ],
+    "features": [
+        "Integrates over 50 premium data providers to enrich lead and company data with high accuracy and coverage.",
+        "Automates personalized outbound campaigns using AI to craft tailored emails and messages at scale.",
+        "Supports real-time web scraping to gather up-to-date data from platforms like LinkedIn and company websites.",
+        "Offers no-code workflow automation to streamline complex GTM processes without technical expertise.",
+        "Provides transparent pricing with Clay credits, enabling cost-effective access to data providers at wholesale rates.",
+        "Seamlessly integrates with CRMs, email tools, and other GTM platforms for efficient data flow and campaign execution.",
+        "Includes Claygent, an AI agent for handling open-ended research tasks to uncover deep customer insights.",
+        "Enables waterfall data enrichment to combine multiple data sources for comprehensive lead profiles.",
+        "Features a Chrome extension for scraping structured data from static websites effortlessly.",
+        "Supports API integrations to connect with custom tools and build bespoke workflows without coding.",
+        "Provides pre-built templates for common GTM tasks, reducing setup time and accelerating campaign launches."
+    ],
+    "faqs": [
+        {
+            "question": "What is Clay used for?",
+            "answer": "Clay is used to automate data enrichment, personalize outreach, and streamline go-to-market workflows for sales and marketing teams."
+        },
+        {
+            "question": "Does Clay offer a free plan?",
+            "answer": "Yes, Clay offers a free plan with limited usage, allowing users to test core features before upgrading to paid plans."
+        },
+        {
+            "question": "How does Clay compare to ZoomInfo?",
+            "answer": "Clay provides double or triple the data coverage of ZoomInfo at a significantly lower cost by integrating multiple providers and offering wholesale rates."
+        },
+        {
+            "question": "Can Clay integrate with my CRM?",
+            "answer": "Yes, Clay integrates seamlessly with major CRMs and marketing tools, enabling smooth data transfer and campaign execution."
+        },
+        {
+            "question": "What is Claygent?",
+            "answer": "Claygent is Clay’s AI-powered agent that handles open-ended research tasks to uncover valuable insights for GTM campaigns."
+        },
+        {
+            "question": "Is coding required to use Clay?",
+            "answer": "No, Clay is a no-code platform, allowing users to build complex workflows and automations without technical expertise."
+        },
+        {
+            "question": "How does Clay ensure data privacy?",
+            "answer": "Clay is SOC 2 Type 2 certified, GDPR compliant, and provides transparent data provider details to ensure privacy and security."
+        },
+        {
+            "question": "Can Clay scrape data from social media?",
+            "answer": "Yes, Clay supports real-time scraping from platforms like LinkedIn and other websites using tools like Apify and its Chrome extension."
+        }
+    ]
+}

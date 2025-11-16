@@ -1,0 +1,64 @@
+{
+    "name": "Researcher.Life",
+    "description": "Researcher.Life is a subscription-based platform offering AI-powered tools and services to support researchers throughout their publication journey.",
+    "longDescription": "Researcher.Life is a comprehensive platform designed to simplify and enhance the academic research process by providing a suite of AI-driven tools and expert services. It aims to empower researchers by optimizing their time and streamlining tasks such as literature discovery, manuscript writing, and journal selection. The platform integrates solutions like R Discovery, Paperpal, and Mind the Graph to address various stages of research, from ideation to publication. By combining technology with expert support, it serves over 1.5 million researchers globally, helping them overcome publication challenges and focus on their core research. Its mission is to make research more efficient, accessible, and impactful for academics worldwide.",
+    "url": "https://researcher.life/?utm_source=ainavdir",
+    "screenshot": "/screenshot/researcher.life.webp",
+    "category": "AI Essay Writer",
+    "categorySlug": "ai-essay-writer",
+    "slug": "researcher-life",
+    "categories": [
+        "AI Essay Writer",
+        "AI Research Tool",
+        "AI Writing",
+        "AI Illustration Generator",
+        "AI Proofreading",
+        "AI Report Generator"
+    ],
+    "features": [
+        "R Discovery provides personalized research paper recommendations based on user-selected topics, ensuring researchers stay updated with relevant studies.",
+        "Paperpal’s AI-powered academic writing assistant offers real-time suggestions to improve manuscript clarity and context, enhancing writing quality.",
+        "The Journal Finder tool matches manuscripts to suitable journals using AI, providing detailed reports on journal relevance and publication metrics.",
+        "Mind the Graph enables researchers to create professional scientific illustrations and infographics for publications and presentations.",
+        "R Pubsure assesses manuscript readiness for submission, identifying potential issues to improve acceptance chances.",
+        "Expert-led editing and translation services from over 3,500 subject-matter experts support researchers in preparing publication-ready manuscripts.",
+        "R Upskill offers over 100 online courses to enhance research and publication skills in just 15 minutes a day.",
+        "The platform’s single sign-on system allows seamless access to all tools, streamlining the research workflow.",
+        "R Voice connects researchers with a global community for collaboration, feedback, and mental health support.",
+        "The literature recommender curates daily research reading suggestions tailored to user interests, saving time on literature searches."
+    ],
+    "faqs": [
+        {
+            "question": "What is Researcher.Life?",
+            "answer": "Researcher.Life is a subscription-based platform offering AI tools and expert services to support researchers in literature search, writing, and publication."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, the Essentials Pack provides free access to over 10 benefits, including limited use of tools like R Discovery and basic research features."
+        },
+        {
+            "question": "How does the Journal Finder work?",
+            "answer": "The Journal Finder uses AI to analyze your manuscript or research summary and recommends journals based on topic similarity and publication history."
+        },
+        {
+            "question": "Can I access Researcher.Life tools on mobile devices?",
+            "answer": "Yes, tools like R Discovery are available as mobile apps on the App Store and Google Play, offering convenient access to research resources."
+        },
+        {
+            "question": "What is Paperpal, and how does it help with writing?",
+            "answer": "Paperpal is an AI writing assistant that suggests context-appropriate words and rephrases sentences to improve academic manuscripts."
+        },
+        {
+            "question": "Does Researcher.Life support open-access journals?",
+            "answer": "Yes, the Journal Finder includes a filter to show only open-access journals, helping researchers target suitable publication options."
+        },
+        {
+            "question": "How does R Discovery help with literature searches?",
+            "answer": "R Discovery uses AI to recommend relevant research papers from a database of over 250 million articles, tailored to your research interests."
+        },
+        {
+            "question": "Can I collaborate with other researchers on the platform?",
+            "answer": "R Voice facilitates collaboration by connecting researchers with peers for feedback, discussions, and community support."
+        }
+    ]
+}

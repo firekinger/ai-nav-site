@@ -1,0 +1,75 @@
+{
+    "name": "Omnara",
+    "description": "Omnara is a real-time command center for monitoring, managing, and collaborating with AI agents across terminal, web, and mobile platforms.",
+    "longDescription": "Omnara is a pioneering platform that functions as the first command center for AI agents, allowing users to initiate, monitor, and control agents seamlessly from terminals, web dashboards, or mobile apps. Its mission is to liberate developers from desktop constraints by enabling portable and uninterrupted AI sessions, transforming how users interact with AI tools. Founded by former AI engineers from Meta and Microsoft, it addresses challenges like session immobility in tools such as Claude Code and Cursor. By providing real-time visibility, debugging, and guidance, Omnara turns passive AI monitoring into active collaboration. It serves developers, AI researchers, and teams by offering a unified dashboard to manage fleets of AI agents, thereby enhancing productivity and flexibility in AI-driven workflows.",
+    "url": "https://omnara.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/omnara.com.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "omnara",
+    "categories": [
+        "AI Agent",
+        "AI Monitor",
+        "AI Developer Tools",
+        "AI Assistant",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Launch AI agents directly from terminal, web, or mobile interfaces for flexible access.",
+        "Seamlessly continue the same AI agent session across different devices without interruption.",
+        "Receive real-time push notifications when AI agents require user input or encounter issues.",
+        "Monitor and debug AI agents in real-time from your smartphone for on-the-go management.",
+        "Instantly switch between multiple AI agent sessions to multitask efficiently.",
+        "Gain full visibility and control over popular AI agents like Claude Code and Cursor.",
+        "Actively collaborate with AI agents through an intuitive unified dashboard.",
+        "Manage an entire fleet of AI agents from a single platform to streamline operations.",
+        "Enjoy portable command center functionality that eliminates the need to stay at a desk.",
+        "Integrate with existing developer workflows for enhanced AI tool utilization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Omnara?",
+            "answer": "Omnara is a command center designed for monitoring, managing, and collaborating with AI agents across various platforms including terminal, web, and mobile."
+        },
+        {
+            "question": "Is Omnara free to use?",
+            "answer": "Yes, Omnara offers a free plan to get started, allowing access to core features with potential upgrades for advanced capabilities."
+        },
+        {
+            "question": "Which AI agents does Omnara support?",
+            "answer": "Omnara supports popular AI agents such as Claude Code and Cursor, with potential for others in the ecosystem."
+        },
+        {
+            "question": "Can I access Omnara on mobile devices?",
+            "answer": "Yes, Omnara has dedicated apps available on the App Store and Google Play for full mobile functionality."
+        },
+        {
+            "question": "How does Omnara improve developer productivity?",
+            "answer": "By enabling seamless device switching, real-time notifications, and portable access, Omnara prevents developers from being confined to their desks during AI sessions."
+        },
+        {
+            "question": "Is Omnara suitable for team collaboration?",
+            "answer": "Yes, its unified dashboard facilitates active collaboration with AI agents, making it ideal for teams working on AI projects."
+        },
+        {
+            "question": "What is the mission of Omnara?",
+            "answer": "Omnara's mission is to transform passive AI monitoring into active collaboration and provide developers with portable, cross-device control over AI agents."
+        },
+        {
+            "question": "Do I need to install software to use Omnara?",
+            "answer": "You can use Omnara via web dashboard, mobile apps, or terminal integration, with apps available for download on iOS and Android."
+        },
+        {
+            "question": "Who is behind Omnara?",
+            "answer": "Omnara was built by ex-AI engineers from companies like Meta and Microsoft, and is part of Y Combinator's S25 batch."
+        },
+        {
+            "question": "Does Omnara have pricing plans?",
+            "answer": "Yes, it starts with a free tier, and additional premium plans may be available for expanded features, details of which can be found on the website."
+        },
+        {
+            "question": "Can Omnara handle multiple AI agents?",
+            "answer": "Absolutely, Omnara allows management of an entire fleet of AI agents from a single dashboard."
+        }
+    ]
+}

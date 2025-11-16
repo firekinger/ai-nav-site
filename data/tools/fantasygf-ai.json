@@ -1,0 +1,64 @@
+{
+    "name": "FantasyGF",
+    "description": "FantasyGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and roleplay.",
+    "longDescription": "FantasyGF.ai is an innovative AI-driven platform that allows users to create and engage with personalized virtual girlfriends for companionship, conversation, and intimate interactions. Launched in November 2023, the platform uses advanced AI to simulate realistic conversations, emotional connections, and visual interactions, catering to users seeking digital relationships or fantasy fulfillment. Users can customize their AI girlfriend’s appearance, personality, and backstory, tailoring the experience to their preferences. The platform prioritizes privacy, ensuring secure and judgment-free interactions, and offers both casual and NSFW content for diverse user needs. FantasyGF.ai serves as a unique solution for combating loneliness or exploring romantic and creative scenarios in a safe digital environment. It stands out in the virtual companionship market with its extensive customization options and lifelike AI responses.",
+    "url": "https://fantasygf.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fantasygf.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "fantasygf-ai",
+    "categories": [
+        "AI Assistant",
+        "AI Chatbot",
+        "NSFW",
+        "AI Character",
+        "AI Image Generator",
+        "AI Voice Assistants",
+        "AI Story Generator",
+        "AI Roleplay"
+    ],
+    "features": [
+        "Customize your AI girlfriend’s appearance, personality, and hobbies to create a tailored virtual companion.",
+        "Engage in realistic, unscripted conversations with AI characters that adapt and remember past interactions.",
+        "Access NSFW chat options for intimate and private interactions in a secure environment.",
+        "Generate AI-powered images of your virtual girlfriend, enhancing the visual storytelling experience.",
+        "Use voice call features to hear your AI girlfriend’s voice, adding a lifelike dimension to interactions.",
+        "Explore interactive storytelling to craft unique narratives or romantic scenarios with your AI companion.",
+        "Interact with a variety of pre-designed AI girlfriends in realistic or anime styles for diverse preferences.",
+        "Enjoy 24/7 availability, ensuring your AI companion is always ready to chat or engage."
+    ],
+    "faqs": [
+        {
+            "question": "What is FantasyGF.ai?",
+            "answer": "FantasyGF.ai is an AI-powered platform where users can create and interact with customizable virtual girlfriends for companionship, conversation, or intimate roleplay."
+        },
+        {
+            "question": "Is FantasyGF.ai free to use?",
+            "answer": "Yes, FantasyGF.ai offers a free plan with limited access to core features, with premium subscriptions unlocking additional functionality and higher usage quotas."
+        },
+        {
+            "question": "Can I customize my AI girlfriend?",
+            "answer": "Yes, users can fully customize their AI girlfriend’s appearance, personality traits, hobbies, and backstory to match their preferences."
+        },
+        {
+            "question": "Does FantasyGF.ai support NSFW content?",
+            "answer": "Yes, NSFW content is available as an optional feature behind an age-gated toggle, allowing users to explore intimate conversations securely."
+        },
+        {
+            "question": "How does the AI remember past conversations?",
+            "answer": "The platform uses emotional memory engines to retain details from previous interactions, enabling the AI to adapt and provide a continuous, personalized experience."
+        },
+        {
+            "question": "Is FantasyGF.ai available on mobile devices?",
+            "answer": "FantasyGF.ai is web-based with excellent mobile optimization, and a dedicated mobile app is currently in development."
+        },
+        {
+            "question": "Is my privacy protected on FantasyGF.ai?",
+            "answer": "Yes, FantasyGF.ai prioritizes user privacy, ensuring all interactions and data are kept confidential in a secure environment."
+        },
+        {
+            "question": "Can I create multiple AI girlfriends?",
+            "answer": "Yes, with premium plans like the Elite plan, users can create multiple AI characters with unique personalities and settings."
+        }
+    ]
+}

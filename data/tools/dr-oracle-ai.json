@@ -1,0 +1,65 @@
+{
+    "name": "Dr.Oracle",
+    "description": "Dr.Oracle is an AI-powered medical research platform providing evidence-based answers and guideline-directed medical insights.",
+    "longDescription": "Dr.Oracle is an advanced AI research assistant designed to support medical professionals, students, and researchers by delivering precise, evidence-based answers to complex medical questions. It leverages cutting-edge AI to analyze vast medical literature, including PubMed, to provide guideline-directed treatment recommendations and research insights. The platform aims to streamline medical research, enhance learning, and improve clinical decision-making with real-time updates and citations. Trusted globally, it serves as an essential tool for mastering evidence-based medicine. Dr.Oracle ensures user privacy through query anonymization and is accessible across multiple platforms for convenience.",
+    "url": "https://droracle.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/droracle.ai.webp",
+    "category": "AI Healthcare",
+    "categorySlug": "ai-healthcare",
+    "slug": "dr-oracle-ai",
+    "categories": [
+        "AI Healthcare",
+        "AI Research Tool",
+        "AI Content Detector",
+        "AI Predictions"
+    ],
+    "features": [
+        "Provides guideline-directed treatment recommendations with in-text citations for verifiable accuracy.",
+        "Offers real-time updates on medical guidelines to keep users informed of the latest standards.",
+        "Enables users to upload lab results or documents for tailored medical insights.",
+        "Supports a dedicated Research Mode for in-depth exploration of medical topics.",
+        "Delivers concise explanations of complex medical concepts for rapid learning.",
+        "Facilitates real-time conversations with access to guidelines across all medical subspecialties.",
+        "Integrates with PubMed to analyze and summarize primary medical literature.",
+        "Ensures cross-platform usability on web, iOS, and Android for flexible access.",
+        "Maintains user privacy through query anonymization for secure interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dr.Oracle used for?",
+            "answer": "Dr.Oracle is an AI-powered platform that helps medical professionals and students access evidence-based medical information, guideline-directed treatments, and research insights."
+        },
+        {
+            "question": "Is Dr.Oracle free to use?",
+            "answer": "Dr.Oracle offers a free trial with limited access, with paid membership options starting at $5.99 monthly for full functionality."
+        },
+        {
+            "question": "How does Dr.Oracle ensure accuracy?",
+            "answer": "Dr.Oracle fact-checks its responses using primary medical literature from PubMed and provides in-text citations for verification."
+        },
+        {
+            "question": "Can I upload lab results to Dr.Oracle?",
+            "answer": "Yes, users can upload lab results directly through the chat interface by selecting the file from their device."
+        },
+        {
+            "question": "Who can use Dr.Oracle?",
+            "answer": "Dr.Oracle is designed for medical students, residents, nurse practitioners, physician assistants, and other healthcare professionals."
+        },
+        {
+            "question": "Does Dr.Oracle support research tasks?",
+            "answer": "Yes, Dr.Oracle offers a Research Mode that allows in-depth exploration of medical topics and analysis of published literature."
+        },
+        {
+            "question": "Is Dr.Oracle available on mobile devices?",
+            "answer": "Dr.Oracle is accessible via web, iOS, and Android apps, ensuring seamless use across platforms."
+        },
+        {
+            "question": "How does Dr.Oracle protect user privacy?",
+            "answer": "Dr.Oracle anonymizes user queries to ensure privacy and complies with strict data protection policies."
+        },
+        {
+            "question": "Can Dr.Oracle replace a physician?",
+            "answer": "No, Dr.Oracle is a medical education tool, not a substitute for professional medical advice; users should consult experts before acting."
+        }
+    ]
+}

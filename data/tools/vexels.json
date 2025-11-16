@@ -1,0 +1,77 @@
+{
+    "name": "Vexels",
+    "description": "Vexels is a design platform offering high-quality graphic resources and tools for creating print-on-demand merchandise and professional designs.",
+    "longDescription": "Vexels is a graphic design platform tailored for creatives, merch sellers, and businesses, providing over 150,000 high-quality, royalty-free graphics and powerful online design tools. Its mission is to empower users to create unique, professional-grade designs effortlessly, particularly for print-on-demand (POD) businesses like Etsy, Shopify, and Amazon Merch. The platform supports designers and entrepreneurs by offering customizable templates, AI-enhanced graphics, and commercial licensing to streamline the creation process. Vexels also collaborates with industry leaders like Getty and Printful to expand creative and business opportunities. By combining an extensive library with user-friendly tools, Vexels helps users save time and boost sales with market-ready designs. The platform caters to a global audience, with over 100,000 weekly visitors from 200+ countries.",
+    "url": "https://www.vexels.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vexels.com.webp",
+    "category": "AI Graphic Design",
+    "categorySlug": "ai-graphic-design",
+    "slug": "vexels",
+    "categories": [
+        "AI Graphic Design",
+        "AI Image Enhancer",
+        "AI T Shirt Design",
+        "AI Image Generator",
+        "AI Logo Generator",
+        "AI Social Media",
+        "AI Documents Generator",
+        "AI Vector Graphics"
+    ],
+    "features": [
+        "Over 150,000 royalty-free graphics, including vectors, illustrations, and patterns, ideal for print-on-demand products.",
+        "AI-powered design tools enhance graphics and streamline the creation of unique merchandise designs.",
+        "Customizable templates for t-shirts, posters, and mugs allow users to edit text and elements to match their brand.",
+        "A Mockup Generator creates realistic product visuals to showcase designs for online stores.",
+        "The T-Shirt Maker enables users to design and customize merchandise directly on the platform.",
+        "Commercial licensing ensures designs can be legally used for POD platforms like Etsy and Amazon Merch.",
+        "An extensive library of niche-specific graphics, such as seasonal or themed designs, supports targeted marketing.",
+        "The Creators Program helps influencers and content creators design and sell branded merchandise.",
+        "Integration with platforms like Printful and Shopify simplifies the POD workflow.",
+        "A user-friendly interface with advanced search filters makes finding the right design quick and easy.",
+        "The Logo Maker allows users to create professional logos tailored to their brand identity.",
+        "High-resolution vector files (.AI) ensure designs are fully editable for professional use.",
+        "Daily design uploads keep the library fresh with trending graphics for merch sellers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Vexels used for?",
+            "answer": "Vexels is a design platform for creating high-quality graphics and merchandise for print-on-demand businesses, offering tools and resources for designers and entrepreneurs."
+        },
+        {
+            "question": "Does Vexels offer a free plan?",
+            "answer": "Yes, Vexels provides a free plan with limited access to graphics and tools, allowing users to start designing without upfront costs."
+        },
+        {
+            "question": "Can Vexels designs be used commercially?",
+            "answer": "Yes, Vexels offers commercial licensing, making its designs suitable for use on platforms like Etsy, Shopify, and Amazon Merch."
+        },
+        {
+            "question": "What types of graphics are available on Vexels?",
+            "answer": "Vexels offers over 150,000 graphics, including vectors, illustrations, patterns, icons, and templates for t-shirts, mugs, posters, and more."
+        },
+        {
+            "question": "How does the T-Shirt Maker work?",
+            "answer": "The T-Shirt Maker allows users to customize pre-made templates or create new designs by editing text, colors, and elements directly on the platform."
+        },
+        {
+            "question": "Can I use Vexels with print-on-demand platforms?",
+            "answer": "Yes, Vexels designs are compatible with major POD platforms like Printful, Printify, and Shopify, streamlining the creation process."
+        },
+        {
+            "question": "What is the Creators Program?",
+            "answer": "The Creators Program helps influencers and content creators design and sell branded merchandise through fully customized online stores."
+        },
+        {
+            "question": "How can I contact Vexels support?",
+            "answer": "Users can contact Vexels support by emailing info@vexels.com or using the live chat feature powered by Crisp."
+        },
+        {
+            "question": "Are Vexels designs exclusive?",
+            "answer": "Vexels offers exclusive designs created by an in-house team, ensuring unique visuals not found in other stock libraries."
+        },
+        {
+            "question": "What file formats are available for downloads?",
+            "answer": "Vexels provides high-resolution .AI vector files, PNGs, and PSDs, all fully editable for professional use."
+        }
+    ]
+}

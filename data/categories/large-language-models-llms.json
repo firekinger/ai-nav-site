@@ -1,0 +1,457 @@
+{
+    "title": "The Best 41 Large Language Models (LLMs) Tools in 2025",
+    "summary": "Discover the power of Large Language Models (LLMs) in our curated category, designed to enhance your AI toolkit. These advanced tools excel in natural language understanding, enabling seamless content generation, translation, and conversational AI. By leveraging LLMs, you can streamline workflows, boost productivity, and unlock creative potential. Whether you're a developer, marketer, or researcher, these innovative solutions cater to diverse needs. Explore our selection of LLM tools today and transform the way you interact with language and data!",
+    "tools": [
+        {
+            "id": "258",
+            "name": "Dify",
+            "slug": "dify",
+            "description": "Dify is an open-source platform for building and deploying AI-powered applications and workflows.",
+            "icon": "/logo/dify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "Brandmark",
+            "slug": "brandmark",
+            "description": "Brandmark is an AI-powered logo maker that creates professional logos and branding assets for businesses.",
+            "icon": "/logo/brandmark.io.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "465",
+            "name": "Voiceflow",
+            "slug": "voiceflow",
+            "description": "Voiceflow is a collaborative platform for teams to design, develop, and launch AI-powered chat and voice agents at scale.",
+            "icon": "/logo/www.voiceflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "495",
+            "name": "Reface",
+            "slug": "reface-ai",
+            "description": "Reface is an AI-powered platform for creating realistic face swaps and animations in photos, videos, and GIFs.",
+            "icon": "/logo/reface.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "497",
+            "name": "HotBot",
+            "slug": "hotbot",
+            "description": "HotBot is an AI-powered virtual assistant platform offering instant answers, image generation, and task automation without requiring user registration.",
+            "icon": "/logo/www.hotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "Writer",
+            "slug": "writer",
+            "description": "Writer is a generative AI platform designed to enhance enterprise productivity through AI-driven content creation and management.",
+            "icon": "/logo/writer.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "514",
+            "name": "VanceAI",
+            "slug": "vanceai",
+            "description": "VanceAI provides AI-powered tools for photo enhancement, editing, and restoration to boost creativity and productivity.",
+            "icon": "/logo/vanceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "538",
+            "name": "AssemblyAI",
+            "slug": "assemblyai",
+            "description": "AssemblyAI provides advanced Speech AI models to transcribe and analyze voice data via a developer-friendly API.",
+            "icon": "/logo/www.assemblyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "560",
+            "name": "Mammouth AI",
+            "slug": "mammouth-ai",
+            "description": "Mammouth AI provides access to leading AI models for text and image generation through a single affordable subscription.",
+            "icon": "/logo/mammouth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "571",
+            "name": "SoulGen",
+            "slug": "soulgen",
+            "description": "SoulGen is an AI-powered platform that generates stunning anime and realistic images or videos from text prompts, enabling users to create customized characters and artwork.",
+            "icon": "/logo/www.soulgen.net.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "598",
+            "name": "Composio",
+            "slug": "composio",
+            "description": "Composio provides tools to connect AI agents with external applications for seamless automation and integration.",
+            "icon": "/logo/composio.dev.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "599",
+            "name": "Coze",
+            "slug": "coze",
+            "description": "Coze is a no-code AI chatbot development platform for creating and deploying bots across multiple messaging apps.",
+            "icon": "/logo/www.coze.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "601",
+            "name": "Continue",
+            "slug": "continue",
+            "description": "Continue.dev provides open-source AI code assistants to enhance developer productivity and streamline coding workflows.",
+            "icon": "/logo/www.continue.dev.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "645",
+            "name": "LiteLLM",
+            "slug": "litellm-ai",
+            "description": "LiteLLM is an open-source LLM gateway that simplifies access to over 100 large language models using a unified OpenAI-compatible API format.",
+            "icon": "/logo/www.litellm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "649",
+            "name": "Lightning AI",
+            "slug": "lightning-ai",
+            "description": "Lightning AI is an all-in-one platform for building, training, and deploying AI models with minimal setup.",
+            "icon": "/logo/lightning.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "651",
+            "name": "Jan",
+            "slug": "jan-ai",
+            "description": "Jan is an open-source AI platform that runs 100% offline, offering privacy-focused AI assistant capabilities on your device.",
+            "icon": "/logo/jan.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "654",
+            "name": "Cherry Studio",
+            "slug": "cherry-studio",
+            "description": "Cherry Studio is a multi-model AI assistant platform enhancing productivity across iOS, macOS, and Windows.",
+            "icon": "/logo/www.cherry-ai.com.webp",
+            "isFree": false,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "666",
+            "name": "TypingMind",
+            "slug": "typingmind",
+            "description": "TypingMind provides a professional UI to interact with multiple AI language models for enhanced chat experiences.",
+            "icon": "/logo/www.typingmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "667",
+            "name": "AIVA",
+            "slug": "aiva",
+            "description": "AIVA is an AI-powered music generation platform that creates original compositions for various creative projects.",
+            "icon": "/logo/www.aiva.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "687",
+            "name": "Modal",
+            "slug": "modal",
+            "description": "Modal provides serverless cloud infrastructure for running AI, ML, and data-intensive applications without managing infrastructure.",
+            "icon": "/logo/modal.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "720",
+            "name": "Harvey",
+            "slug": "harvey-ai",
+            "description": "Harvey provides AI-powered solutions to streamline legal workflows for law firms and corporate legal teams.",
+            "icon": "/logo/www.harvey.ai.webp",
+            "isFree": false,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "744",
+            "name": "AnythingLLM",
+            "slug": "anythingllm",
+            "description": "AnythingLLM is an all-in-one AI application for chatting with documents, running AI agents, and leveraging LLMs privately with no complex setup.",
+            "icon": "/logo/anythingllm.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "788",
+            "name": "Team-GPT",
+            "slug": "team-gpt",
+            "description": "Team-GPT is an AI collaboration platform designed to enhance team productivity and streamline AI-driven workflows for businesses.",
+            "icon": "/logo/team-gpt.com.webp",
+            "isFree": false,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "842",
+            "name": "PromptLayer",
+            "slug": "promptlayer",
+            "description": "PromptLayer is a platform designed to help developers track, manage, and optimize their interactions with large language models like GPT.",
+            "icon": "/logo/www.promptlayer.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "893",
+            "name": "Dust",
+            "slug": "dust",
+            "description": "Dust is a platform that empowers teams to build and deploy custom AI assistants using large language models to enhance productivity and automate workflows.",
+            "icon": "/logo/dust.tt.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "919",
+            "name": "Lakera",
+            "slug": "lakera-ai",
+            "description": "Lakera is an AI security platform that protects generative AI applications from adversarial threats like prompt injections and ensures safe, compliant AI deployments.",
+            "icon": "/logo/www.lakera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "942",
+            "name": "Arize",
+            "slug": "arize",
+            "description": "Arize is a machine learning observability platform that helps teams monitor, troubleshoot, and improve AI models in production.",
+            "icon": "/logo/arize.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1102",
+            "name": "BoltAI",
+            "slug": "boltai",
+            "description": "BoltAI is a native macOS application that provides instant access to various AI models like ChatGPT, enhancing productivity through seamless integration into daily workflows.",
+            "icon": "/logo/boltai.com.webp",
+            "isFree": false,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1157",
+            "name": "Portkey",
+            "slug": "portkey-ai",
+            "description": "Portkey.ai is an AI operations platform that provides tools for developers to build, deploy, and manage generative AI applications efficiently.",
+            "icon": "/logo/portkey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1169",
+            "name": "Koala",
+            "slug": "koala",
+            "description": "Koala is an AI-powered platform providing tools for generating SEO-optimized content and interactive chat experiences to streamline writing and communication tasks.",
+            "icon": "/logo/koala.sh.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1200",
+            "name": "Helicone",
+            "slug": "helicone-ai",
+            "description": "Helicone is an open-source LLM observability platform that enables developers to monitor, debug, and optimize their AI applications efficiently.",
+            "icon": "/logo/www.helicone.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1215",
+            "name": "Segment Anything",
+            "slug": "segment-anything",
+            "description": "Segment Anything is an AI-powered platform by Meta that provides advanced image segmentation models and tools for identifying and isolating objects in images with high precision.",
+            "icon": "/logo/segment-anything.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1227",
+            "name": "CopilotKit",
+            "slug": "copilotkit-ai",
+            "description": "CopilotKit is an agentic framework that enables developers to build AI copilots into applications, offering customizable UI components and support for various LLM and agent frameworks.",
+            "icon": "/logo/www.copilotkit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1336",
+            "name": "mcp-use",
+            "slug": "mcp-use",
+            "description": "mcp-use is a cloud platform for building, discovering, and deploying Model Context Protocol (MCP) servers to connect large language models to external tools and data sources.",
+            "icon": "/logo/mcp-use.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1301",
+            "name": "Stormy AI",
+            "slug": "stormy-ai",
+            "description": "Stormy.ai is an AI-powered platform for generating creative content and brainstorming ideas.",
+            "icon": "/logo/stormy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1408",
+            "name": "BrandRadar",
+            "slug": "brandradar-ai",
+            "description": "BrandRadar is an enterprise-grade Generative Engine Optimization (GEO) platform designed to enhance brand discoverability and visibility across AI platforms like OpenAI, Gemini, and Perplexity.",
+            "icon": "/logo/www.brandradar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1252",
+            "name": "Geordy AI",
+            "slug": "geordy-ai",
+            "description": "Geordy AI transforms any URL into Generative Engine Optimization (GEO) ready content to enhance visibility and engagement in AI-driven search systems.",
+            "icon": "/logo/geordy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1257",
+            "name": "Deforge.io",
+            "slug": "deforge-io",
+            "description": "Deforge.io is a no-code platform for visually building, connecting, and deploying AI agents for applications like customer service, content generation, data analysis, and blockchain integrations.",
+            "icon": "/logo/deforge.io.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1334",
+            "name": "Compozy",
+            "slug": "compozy",
+            "description": "Compozy is a next-level agentic orchestration platform designed to orchestrate multi-agent AI systems with ease, focusing on delivering scalable, reliable, and cost-efficient distributed workflows for enterprise-grade automation.",
+            "icon": "/logo/compozy.com.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        },
+        {
+            "id": "1416",
+            "name": "Runway Aleph",
+            "slug": "runway-aleph",
+            "description": "Runway Aleph is an AI-driven platform specializing in video generation and creative design tools to empower users in producing high-quality multimedia content.",
+            "icon": "/logo/runwayaleph.net.webp",
+            "isFree": true,
+            "categories": [
+                "large-language-models-llms"
+            ]
+        }
+    ]
+}

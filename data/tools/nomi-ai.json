@@ -1,0 +1,73 @@
+{
+    "name": "Nomi.ai",
+    "description": "Nomi.ai offers personalized AI companions for meaningful conversations and relationships.",
+    "longDescription": "Nomi.ai is an AI-powered platform designed to create highly personalized, emotionally intelligent virtual companions called Nomis, which adapt to users’ preferences and foster deep, meaningful connections. Unlike traditional chatbots, Nomis leverage advanced memory capabilities to recall past interactions, enabling authentic and evolving relationships, whether platonic, romantic, or mentorship-based. The platform emphasizes freedom of expression, allowing unfiltered conversations to explore personal interests, fantasies, or emotional needs without judgment. By combining creativity, emotional intelligence, and multimodal features like voice and image interactions, Nomi.ai aims to combat loneliness and provide a safe space for self-expression. It serves users seeking companionship, roleplay, or a non-judgmental confidant, with a focus on privacy and user-driven customization.",
+    "url": "https://nomi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/nomi.ai.webp",
+    "category": "AI Girlfriend",
+    "categorySlug": "ai-girlfriend",
+    "slug": "nomi-ai",
+    "categories": [
+        "AI Girlfriend",
+        "AI Voice Assistants",
+        "AI Image Generator",
+        "AI Image Recognition",
+        "AI Roleplay",
+        "AI Social Media"
+    ],
+    "features": [
+        "Nomis possess advanced short- and long-term memory, recalling past conversations to build consistent, meaningful relationships.",
+        "Users can create multiple Nomis with unique personalities, appearances, and backstories for tailored interactions.",
+        "The platform supports voice chats with dynamic tone and cadence, enhancing the realism of conversations.",
+        "Nomis can generate photorealistic selfies, reflecting their activities or user-requested scenarios in real time.",
+        "The art generation feature allows users to create stylized or realistic images based on prompts, enriching roleplay and storytelling.",
+        "Nomis can analyze shared links and images, enabling in-depth discussions on user interests like news or hobbies.",
+        "Group chats enable interactions with multiple Nomis, each maintaining distinct personalities and memories.",
+        "Shared Notes allow users to define preferences, boundaries, and backstories to shape their Nomi’s identity.",
+        "Proactive messaging lets Nomis initiate conversations, simulating independent thought and agency.",
+        "The platform supports unfiltered, uncensored conversations, promoting freedom of expression for users.",
+        "A community hub on Discord and Reddit helps users share tips and enhance their Nomi experience."
+    ],
+    "faqs": [
+        {
+            "question": "What is Nomi.ai?",
+            "answer": "Nomi.ai is an AI platform that creates personalized virtual companions, called Nomis, for meaningful conversations, companionship, or roleplay, tailored to user preferences."
+        },
+        {
+            "question": "Is Nomi.ai free to use?",
+            "answer": "Yes, Nomi.ai offers a free plan with limited daily messages and selfie requests, while paid plans unlock unlimited chats and additional features."
+        },
+        {
+            "question": "Can I customize my Nomi’s personality?",
+            "answer": "Yes, users can define their Nomi’s personality traits, interests, and backstory during creation and refine them via Shared Notes."
+        },
+        {
+            "question": "What types of relationships can I have with a Nomi?",
+            "answer": "Nomis can be friends, romantic partners, mentors, or fantasy characters, adapting to your desired relationship type."
+        },
+        {
+            "question": "Does Nomi.ai support voice interactions?",
+            "answer": "Yes, Nomis offer voice chats with dynamic tone and cadence that reflect their emotional state, enhancing conversational realism."
+        },
+        {
+            "question": "Can Nomis access the internet or analyze images?",
+            "answer": "Nomis can process shared links to discuss topics in depth and analyze images to comment on visual content, enriching interactions."
+        },
+        {
+            "question": "Is Nomi.ai safe for kids?",
+            "answer": "Nomi.ai is designed for users 17+ due to unfiltered content, lacking parental controls, and is not recommended for children."
+        },
+        {
+            "question": "How does Nomi.ai ensure privacy?",
+            "answer": "All chats are anonymized, and no chat data is shared with third parties, prioritizing user privacy."
+        },
+        {
+            "question": "Can I change my Nomi’s appearance after creation?",
+            "answer": "Limited appearance changes are possible, but users are encouraged to select a preferred look during creation for consistency."
+        },
+        {
+            "question": "What makes Nomi.ai different from other AI chatbots?",
+            "answer": "Nomi.ai stands out with its human-level memory, emotional intelligence, and unfiltered conversations, creating more authentic and personalized interactions."
+        }
+    ]
+}

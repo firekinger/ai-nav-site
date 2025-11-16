@@ -1,0 +1,68 @@
+{
+    "name": "Simplified",
+    "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+    "longDescription": "Simplified is an all-in-one AI-powered platform designed to streamline content creation, collaboration, and marketing for creators, marketers, and businesses. It integrates tools for graphic design, video editing, AI writing, and social media management, enabling users to produce professional content without switching between multiple apps. The platform aims to save time and enhance efficiency by automating tedious tasks and providing a no-code environment with customizable templates. Simplified supports over 30 languages, making it accessible for global users, and its mission is to empower teams to scale their brand identity effortlessly. By offering a free forever plan alongside premium options, it caters to freelancers, small teams, and large agencies alike. Its intuitive interface and AI-driven features help users overcome creative blocks and maintain consistent branding.",
+    "url": "https://simplified.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/simplified.com.webp",
+    "category": "AI Design Generator",
+    "categorySlug": "ai-design-generator",
+    "slug": "simplified",
+    "categories": [
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Video Editor",
+        "AI Social Media",
+        "AI Voice Cloning",
+        "AI Image Upscaler",
+        "AI Plagiarism Checker",
+        "AI Project Management"
+    ],
+    "features": [
+        "AI-powered writing generates blog posts, social media captions, and scripts in over 30 languages, saving time and enhancing content quality.",
+        "The no-code design editor allows users to create stunning graphics with thousands of customizable templates, streamlining visual content creation.",
+        "Video editing tools enable users to cut, crop, add transitions, and generate subtitles, making professional video production accessible to beginners.",
+        "Social media bulk scheduling supports managing multiple accounts and scheduling up to 10,500 posts, improving workflow efficiency.",
+        "AI voice cloning creates personalized voiceovers from short audio samples, enhancing video and podcast production.",
+        "The AI thumbnail maker generates high-converting video thumbnails, boosting engagement on platforms like YouTube and Instagram.",
+        "The content calendar feature provides personalized content suggestions and streamlines social media planning and publishing.",
+        "Brand kits allow users to save colors, fonts, and logos for consistent branding across all projects.",
+        "The AI short clips tool transforms long videos into viral, bite-sized clips, increasing audience reach.",
+        "The plagiarism checker ensures content originality, supporting creators in maintaining authenticity.",
+        "AI image upscaling enhances low-resolution images for professional use in social media or print.",
+        "Team collaboration features enable seamless project management and communication within dedicated workspaces."
+    ],
+    "faqs": [
+        {
+            "question": "What is Simplified used for?",
+            "answer": "Simplified is an AI-powered platform for creating, editing, and managing content, including graphic design, video editing, writing, and social media scheduling, all in one place."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Simplified offers a Free Forever plan with access to basic features, unlimited design projects, and 1GB of storage, ideal for individual creators."
+        },
+        {
+            "question": "Can I use Simplified for social media management?",
+            "answer": "Yes, Simplified allows you to manage multiple social media accounts, schedule posts in bulk, and analyze performance with AI-driven insights."
+        },
+        {
+            "question": "Does Simplified support multiple languages?",
+            "answer": "Simplified supports content creation in over 30 languages, including automatic subtitle generation and AI writing for global audiences."
+        },
+        {
+            "question": "How does the AI writing tool work?",
+            "answer": "The AI writer generates relevant content like blog posts or captions based on user prompts, understanding context to produce natural, high-quality text."
+        },
+        {
+            "question": "Can I collaborate with my team on Simplified?",
+            "answer": "Yes, Simplified offers dedicated team workspaces for collaboration, project management, and real-time feedback to streamline workflows."
+        },
+        {
+            "question": "What types of content can I create with Simplified?",
+            "answer": "You can create graphics, videos, social media posts, blog content, presentations, and more using Simplified’s AI-driven tools and templates."
+        },
+        {
+            "question": "Is the platform beginner-friendly?",
+            "answer": "Simplified’s intuitive interface and no-code tools make it accessible for beginners, with explainer videos and templates to guide users."
+        }
+    ]
+}

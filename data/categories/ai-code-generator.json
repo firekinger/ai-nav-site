@@ -1,0 +1,435 @@
+{
+    "title": "The Best 39 AI Code Generator Tools in 2025",
+    "summary": "Unlock your coding potential with our AI Code Generator category! These innovative tools streamline the development process by automatically generating code snippets, enhancing productivity, and reducing errors. Whether you're a seasoned developer or a beginner, AI code generators simplify complex tasks, allowing you to focus on creativity and problem-solving. Explore our curated selection of cutting-edge tools designed to meet your coding needs and elevate your projects. Dive in now and discover how AI can transform your coding experience!",
+    "tools": [
+        {
+            "id": "2",
+            "name": "Google Gemini",
+            "slug": "google-gemini",
+            "description": "Google Gemini is an AI-powered platform offering conversational and multimodal capabilities to enhance productivity and creativity.",
+            "icon": "/logo/gemini.google.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "58",
+            "name": "DeepSeek",
+            "slug": "deepseek",
+            "description": "DeepSeek is an AI platform offering advanced open-source large language models for reasoning, coding, and text generation.",
+            "icon": "/logo/deepseek.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "132",
+            "name": "Lovable",
+            "slug": "lovable",
+            "description": "Lovable.dev is an AI-powered platform that enables users to build full-stack web applications using natural language prompts.",
+            "icon": "/logo/lovable.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "128",
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "description": "Anthropic builds safe, interpretable AI systems like Claude to assist users in various tasks.",
+            "icon": "/logo/www.anthropic.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Cursor",
+            "slug": "cursor",
+            "description": "Cursor is an AI-powered code editor designed to enhance developer productivity with advanced AI features.",
+            "icon": "/logo/cursor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "142",
+            "name": "v0",
+            "slug": "v0",
+            "description": "v0 is an AI-powered platform for generating and customizing UI components and web applications using natural language prompts.",
+            "icon": "/logo/v0.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "118",
+            "name": "Venice AI",
+            "slug": "venice-ai",
+            "description": "Venice AI offers private, uncensored AI for generating text, images, code, and characters with a focus on user privacy and decentralization.",
+            "icon": "/logo/venice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FlowGPT",
+            "slug": "flowgpt",
+            "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+            "icon": "/logo/flowgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "194",
+            "name": "You.com",
+            "slug": "you-com",
+            "description": "You.com is an AI-powered search engine and productivity platform designed to provide personalized, privacy-focused search results and tools.",
+            "icon": "/logo/you.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Stitch",
+            "slug": "stitch",
+            "description": "Stitch is an AI-powered tool by Google Labs that generates UI designs and frontend code for web and mobile applications from text or image prompts.",
+            "icon": "/logo/stitch.withgoogle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "303",
+            "name": "Chad AI",
+            "slug": "chad-ai",
+            "description": "Chad AI provides a Russian-language AI chatbot powered by advanced neural networks for text, code, and image generation without VPN or registration.",
+            "icon": "/logo/chadgpt.ru.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "405",
+            "name": "Phind",
+            "slug": "phind",
+            "description": "Phind is an AI-powered search engine designed for developers, providing instant answers and code examples for technical queries.",
+            "icon": "/logo/www.phind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "408",
+            "name": "Stability AI",
+            "slug": "stability-ai",
+            "description": "Stability AI provides open-source generative AI tools for creating images, videos, audio, and 3D content.",
+            "icon": "/logo/stability.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "419",
+            "name": "GlobalGPT",
+            "slug": "globalgpt",
+            "description": "GlobalGPT is an all-in-one AI platform offering access to multiple AI models for content creation, coding, and research.",
+            "icon": "/logo/www.glbgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "447",
+            "name": "Convex",
+            "slug": "convex",
+            "description": "Convex is an open-source reactive database and backend platform for building real-time, full-stack web and mobile applications.",
+            "icon": "/logo/www.convex.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "625",
+            "name": "Create",
+            "slug": "create",
+            "description": "Create.xyz is an AI-powered platform that enables users to build custom web and mobile applications using natural language prompts.",
+            "icon": "/logo/www.create.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "633",
+            "name": "Locofy",
+            "slug": "locofy-ai",
+            "description": "Locofy.ai converts Figma and Adobe XD designs into production-ready frontend code, accelerating web and mobile app development.",
+            "icon": "/logo/www.locofy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "673",
+            "name": "GPTExcel",
+            "slug": "gptexcel",
+            "description": "GPTExcel is an AI-powered tool that simplifies spreadsheet tasks by generating formulas, scripts, and data insights for Excel, Google Sheets, and Airtable.",
+            "icon": "/logo/gptexcel.uk.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "719",
+            "name": "CodeGPT",
+            "slug": "codegpt",
+            "description": "CodeGPT is an AI-powered platform that enhances software development through specialized AI agents and coding tools.",
+            "icon": "/logo/codegpt.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "749",
+            "name": "TeleportHQ",
+            "slug": "teleporthq",
+            "description": "TeleportHQ is a low-code platform for building responsive websites and UI components with AI-driven design and code export capabilities.",
+            "icon": "/logo/teleporthq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "816",
+            "name": "Formula Bot",
+            "slug": "formula-bot",
+            "description": "Formula Bot is an AI-powered platform that simplifies data analysis and spreadsheet tasks by generating formulas, visualizations, and insights from natural language inputs.",
+            "icon": "/logo/www.formulabot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "859",
+            "name": "DataButton",
+            "slug": "databutton",
+            "description": "DataButton is an AI-powered platform that enables users to build and deploy custom web apps using natural language prompts without extensive coding knowledge.",
+            "icon": "/logo/databutton.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "882",
+            "name": "Magai",
+            "slug": "magai",
+            "description": "Magai is an AI-powered platform that provides a unified chat interface for accessing multiple leading AI models to assist with writing, coding, research, and creative tasks.",
+            "icon": "/logo/magai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "894",
+            "name": "Reworkd AI",
+            "slug": "reworkd-ai",
+            "description": "Reworkd AI is a platform that enables users to create and deploy autonomous AI agents for automating complex tasks and workflows.",
+            "icon": "/logo/www.reworkd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1035",
+            "name": "TheB.AI",
+            "slug": "theb-ai",
+            "description": "TheB.AI is a comprehensive AI platform that provides access to multiple large language models for chat, search, image generation, and productivity tasks.",
+            "icon": "/logo/www.theb.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "Devv",
+            "slug": "devv-ai",
+            "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+            "icon": "/logo/devv.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1083",
+            "name": "Codia AI",
+            "slug": "codia-ai",
+            "description": "Codia AI is an innovative platform that uses artificial intelligence to convert screenshots and designs into editable code for various frameworks, streamlining the development process for designers and developers.",
+            "icon": "/logo/codia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1088",
+            "name": "Kombai",
+            "slug": "kombai",
+            "description": "Kombai is an AI-powered tool that converts Figma designs into high-quality, production-ready front-end code to streamline web development.",
+            "icon": "/logo/kombai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1162",
+            "name": "MarsCode",
+            "slug": "marscode",
+            "description": "MarsCode is an AI-powered integrated development environment (IDE) that provides intelligent coding assistance to streamline software development for programmers.",
+            "icon": "/logo/www.marscode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1344",
+            "name": "ClackyAI",
+            "slug": "clackyai",
+            "description": "ClackyAI is an AI-powered coding platform that accelerates software development by automating tasks and transforming issue descriptions into pull requests.",
+            "icon": "/logo/clacky.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1324",
+            "name": "Octopyd",
+            "slug": "octopyd",
+            "description": "Octopyd is an AI-powered platform designed to assist developers with Python coding, automation, and data analysis tasks.",
+            "icon": "/logo/www.octopyd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1382",
+            "name": "ChatGPT5.so",
+            "slug": "chatgpt5-so",
+            "description": "ChatGPT5.so offers free, instant access to OpenAI's GPT-5 AI model without requiring login, enabling users to engage in conversations, coding, and complex problem-solving.",
+            "icon": "/logo/chatgpt5.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "Qoder",
+            "slug": "qoder",
+            "description": "Qoder is an AI-powered platform designed to assist developers with code generation, debugging, and optimization tasks.",
+            "icon": "/logo/qoder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1300",
+            "name": "Gitmore",
+            "slug": "gitmore",
+            "description": "Gitmore is an AI-powered platform that enhances Git workflows for developers by automating tasks like commit messaging and code reviews.",
+            "icon": "/logo/www.gitmore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1330",
+            "name": "Open Lovable",
+            "slug": "open-lovable",
+            "description": "Open Lovable is a free, open-source AI website builder that transforms any website into customizable React/Next.js applications in seconds.",
+            "icon": "/logo/open-lovable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "1385",
+            "name": "RapidNative",
+            "slug": "rapidnative",
+            "description": "RapidNative is an AI-powered platform that enables rapid development of native mobile applications without extensive coding expertise.",
+            "icon": "/logo/www.rapidnative.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Bolt.new",
+            "slug": "bolt-new",
+            "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+            "icon": "/logo/bolt.new.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        },
+        {
+            "id": "28",
+            "name": "BLACKBOX AI",
+            "slug": "blackbox-ai",
+            "description": "BLACKBOX AI is an AI-powered platform designed to enhance coding efficiency and automate software development tasks for developers.",
+            "icon": "/logo/blackbox.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-code-generator"
+            ]
+        }
+    ]
+}

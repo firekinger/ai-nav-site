@@ -1,0 +1,61 @@
+{
+    "name": "MachineTranslation.com",
+    "description": "MachineTranslation.com provides fast, accurate AI-powered translations in over 270 languages for businesses and individuals.",
+    "longDescription": "MachineTranslation.com, developed by Tomedes, is an AI-driven translation platform designed to deliver high-quality translations for businesses, professionals, and individuals across the globe. Its mission is to make translation faster, more affordable, and scalable by leveraging advanced Large Language Models (LLMs) and AI translation engines. The platform addresses challenges like cost, quality, and consistency by offering tools such as translation memory, glossary uploads, and AI-assisted refinements. It serves a wide range of users, from small businesses needing localized content to large organizations managing high-volume translation projects. By comparing multiple AI translation sources, it ensures users can select the most accurate and contextually appropriate output. The service also supports integration with existing systems via API, enhancing workflow efficiency.",
+    "url": "https://www.machinetranslation.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.machinetranslation.com.webp",
+    "category": "AI Translate",
+    "categorySlug": "ai-translate",
+    "slug": "machinetranslation-com",
+    "categories": [
+        "AI Translate",
+        "AI Knowledge Management",
+        "AI Review Generator"
+    ],
+    "features": [
+        "Compares translations from multiple AI engines like Google, DeepL, and ChatGPT to ensure the best output for user needs.",
+        "Provides AI-powered quality scores and insights for each translation to help users select reliable results.",
+        "Supports over 270 languages and various file formats, including PDF, DOCX, CSV, and JPG, for versatile use.",
+        "Allows users to upload glossaries and style guides to maintain consistent brand voice and terminology.",
+        "Offers segment-by-segment editing for precise refinements of complex or lengthy translations.",
+        "Includes a human review option by certified linguists for professional-grade accuracy in critical documents.",
+        "Enables API integration to seamlessly connect translation services with user systems or workflows.",
+        "Features adaptive learning to personalize translations based on user instructions and past preferences.",
+        "Provides 100,000 free words monthly for registered users, making it accessible for occasional translators.",
+        "Offers context-based translation improvements using GPT for more accurate and natural outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is MachineTranslation.com used for?",
+            "answer": "It’s an AI-powered platform for translating text and documents in over 270 languages, ideal for businesses and individuals needing fast, accurate translations."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, registered users get 100,000 free words monthly, while unregistered users receive a one-time 100,000-word credit."
+        },
+        {
+            "question": "Which languages does the platform support?",
+            "answer": "MachineTranslation.com supports over 270 languages, covering 28,600 language pairs for global accessibility."
+        },
+        {
+            "question": "Can I ensure my brand’s voice in translations?",
+            "answer": "Yes, users can upload glossaries and style guides to align translations with preferred terminology and tone."
+        },
+        {
+            "question": "How accurate are the translations?",
+            "answer": "The platform delivers 85% professional-quality AI translations and offers human review for 100% precision when needed."
+        },
+        {
+            "question": "Does it integrate with other tools?",
+            "answer": "Yes, it provides API integration to connect with user systems for streamlined translation workflows."
+        },
+        {
+            "question": "What file types are supported?",
+            "answer": "It supports various formats like PDF, DOCX, CSV, and JPG, catering to diverse translation needs."
+        },
+        {
+            "question": "How does the quality scoring work?",
+            "answer": "AI-powered scoring evaluates tone, phrasing, and terminology, helping users choose the most reliable translation."
+        }
+    ]
+}

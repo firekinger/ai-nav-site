@@ -1,0 +1,76 @@
+{
+    "name": "SaveDay",
+    "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+    "longDescription": "SaveDay is an innovative platform designed to streamline knowledge capture and organization using artificial intelligence. Its mission is to eliminate information overload by allowing users to save content from the web, social media, documents, and more, while automatically generating summaries and enabling smart searches. The tool solves common problems like forgetting important details or struggling to find saved items by employing AI to tag, categorize, and retrieve data intelligently. It serves professionals, students, and researchers who need a centralized hub for their knowledge base. By integrating with browsers and apps, SaveDay makes it easy to build a personal knowledge repository that grows smarter over time. Overall, it empowers users to focus on insights rather than manual organization.",
+    "url": "https://www.save.day/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.save.day.webp",
+    "category": "AI Knowledge Management",
+    "categorySlug": "ai-knowledge-management",
+    "slug": "saveday",
+    "categories": [
+        "AI Knowledge Management",
+        "AI Article Summarizer",
+        "AI Search Engine",
+        "AI Content Detector",
+        "AI Knowledge Base",
+        "AI Text Classifier",
+        "AI Browsers",
+        "AI Data Mining",
+        "AI Text Generator",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered capture allows users to save webpages, tweets, images, and notes with automatic summarization for quick reference.",
+        "Smart search functionality uses natural language queries to find saved items instantly, saving time on manual browsing.",
+        "Automatic tagging and categorization organize content intelligently without user intervention, enhancing knowledge management efficiency.",
+        "Cross-device synchronization ensures all saved data is accessible from any device, promoting seamless productivity.",
+        "Summary generation condenses long articles or documents into key points, helping users grasp essentials quickly.",
+        "Integration with browsers and apps like Twitter enables one-click saving from various platforms.",
+        "Customizable folders and collections let users structure their knowledge base according to personal workflows.",
+        "AI-driven insights provide recommendations and connections between saved items to uncover hidden patterns.",
+        "Export options allow users to share or download saved content in various formats for collaboration.",
+        "Privacy-focused design ensures all data is encrypted and user-controlled, building trust in the platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is SaveDay primarily used for?",
+            "answer": "SaveDay is used for capturing and organizing knowledge from diverse sources like web pages, social media, and documents. It leverages AI to summarize and search content efficiently."
+        },
+        {
+            "question": "Does SaveDay offer a free plan?",
+            "answer": "Yes, SaveDay provides a free tier with core features like basic saving and searching. Upgrades are available for advanced functionalities and higher storage limits."
+        },
+        {
+            "question": "How does the AI search work in SaveDay?",
+            "answer": "The AI search allows natural language queries to retrieve saved items. It understands context and relevance, making it easier to find information without exact keywords."
+        },
+        {
+            "question": "Can I save content from social media?",
+            "answer": "Yes, SaveDay supports saving from platforms like Twitter and others. Simply use the browser extension or app integration to capture tweets or posts instantly."
+        },
+        {
+            "question": "Is my data secure on SaveDay?",
+            "answer": "SaveDay prioritizes data security with encryption and user-controlled privacy settings. No data is shared without permission."
+        },
+        {
+            "question": "How does SaveDay summarize content?",
+            "answer": "It uses AI to generate concise summaries of saved articles or documents. This helps users quickly review key points without reading everything again."
+        },
+        {
+            "question": "Can I access SaveDay on multiple devices?",
+            "answer": "Yes, SaveDay syncs across devices like phones, tablets, and computers. This ensures your knowledge base is always available wherever you are."
+        },
+        {
+            "question": "What integrations does SaveDay support?",
+            "answer": "SaveDay integrates with web browsers, Twitter, and various productivity apps. More integrations are continually added based on user feedback."
+        },
+        {
+            "question": "How do I organize saved items?",
+            "answer": "Use customizable folders, tags, and AI auto-categorization to structure your content. This makes retrieval intuitive and personalized."
+        },
+        {
+            "question": "Is SaveDay suitable for teams?",
+            "answer": "While primarily for individuals, SaveDay offers sharing features for collaboration. Team plans may be available for enterprise use."
+        }
+    ]
+}

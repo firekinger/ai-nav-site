@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Movie Script Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Movie Script Generator category! These innovative tools empower writers, filmmakers, and content creators to effortlessly craft compelling scripts, saving time and enhancing storytelling. With features like plot development, character creation, and dialogue generation, you can bring your cinematic visions to life with ease. Whether you're a seasoned pro or just starting out, our AI solutions cater to all skill levels, ensuring your ideas shine. Dive into our curated selection of AI script generators and transform your storytelling journey today! Explore the tools now!",
+    "tools": [
+        {
+            "id": "459",
+            "name": "Squibler",
+            "slug": "squibler",
+            "description": "Squibler is an AI-powered writing platform designed to help authors and screenwriters create, organize, and publish books, novels, and screenplays efficiently.",
+            "icon": "/logo/www.squibler.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        },
+        {
+            "id": "544",
+            "name": "DeepSwapper",
+            "slug": "deepswapper",
+            "description": "DeepSwapper is an AI-powered platform for seamless face swapping in photos and videos.",
+            "icon": "/logo/www.deepswapper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        },
+        {
+            "id": "641",
+            "name": "CinemaFlow AI",
+            "slug": "cinemaflow-ai",
+            "description": "CinemaFlow AI transforms scripts into stunning visual videos using advanced AI technology with a single click.",
+            "icon": "/logo/www.cinemaflow.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        },
+        {
+            "id": "653",
+            "name": "Videomaker.me",
+            "slug": "videomaker-me",
+            "description": "Videomaker.me is an AI-powered platform for creating high-quality videos from text or images with synchronized audio and cinematic effects.",
+            "icon": "/logo/videomaker.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        },
+        {
+            "id": "686",
+            "name": "Flim",
+            "slug": "flim-ai",
+            "description": "Flim is an AI-powered visual inspiration platform offering a vast database of film stills and video clips for creatives.",
+            "icon": "/logo/flim.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        },
+        {
+            "id": "1046",
+            "name": "Katalist",
+            "slug": "katalist-ai",
+            "description": "Katalist.ai is an AI-powered platform that transforms scripts into professional storyboards for filmmakers, advertisers, and content creators.",
+            "icon": "/logo/www.katalist.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-movie-script-generator"
+            ]
+        }
+    ]
+}

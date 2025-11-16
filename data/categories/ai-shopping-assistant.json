@@ -1,0 +1,545 @@
+{
+    "title": "The Best 49 AI Shopping Assistant Tools in 2025",
+    "summary": "Discover the future of shopping with our AI Shopping Assistant tools, designed to enhance your online retail experience. These innovative solutions help you find the best deals, compare products, and receive personalized recommendations tailored to your preferences. Save time and money while making informed purchasing decisions with the power of AI at your fingertips. Whether you're a savvy shopper or just looking for convenience, our curated selection of tools will elevate your shopping journey. Explore our AI Shopping Assistant category today and transform the way you shop!",
+    "tools": [
+        {
+            "id": "101",
+            "name": "Shop",
+            "slug": "shop",
+            "description": "Shop is a digital shopping assistant app that streamlines online shopping with order tracking, personalized recommendations, and fast checkouts.",
+            "icon": "/logo/shop.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Liner",
+            "slug": "liner",
+            "description": "Liner is an AI-powered research and productivity tool designed to streamline web browsing and information gathering.",
+            "icon": "/logo/getliner.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "139",
+            "name": "Genspark",
+            "slug": "genspark",
+            "description": "Genspark is an AI-powered search engine that delivers personalized, curated answers using specialized AI agents.",
+            "icon": "/logo/www.genspark.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "Aura",
+            "slug": "aura",
+            "description": "Aura provides comprehensive digital security and identity theft protection for individuals and families.",
+            "icon": "/logo/aura.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "194",
+            "name": "You.com",
+            "slug": "you-com",
+            "description": "You.com is an AI-powered search engine and productivity platform designed to provide personalized, privacy-focused search results and tools.",
+            "icon": "/logo/you.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1294",
+            "name": "Digen AI",
+            "slug": "digen-ai",
+            "description": "Digen AI is an AI-powered platform that generates professional product images for e-commerce businesses, simplifying photography needs.",
+            "icon": "/logo/digen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "273",
+            "name": "Pi",
+            "slug": "pi",
+            "description": "Pi is a personal AI assistant designed to provide conversational support and insights for users seeking answers and guidance.",
+            "icon": "/logo/pi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "465",
+            "name": "Voiceflow",
+            "slug": "voiceflow",
+            "description": "Voiceflow is a collaborative platform for teams to design, develop, and launch AI-powered chat and voice agents at scale.",
+            "icon": "/logo/www.voiceflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "482",
+            "name": "Accio",
+            "slug": "accio",
+            "description": "Accio is an AI-powered B2B sourcing engine that streamlines product procurement and provides business insights.",
+            "icon": "/logo/www.accio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "485",
+            "name": "PixelBin",
+            "slug": "pixelbin",
+            "description": "PixelBin is an AI-powered platform for managing, optimizing, and transforming digital assets like images and videos for enhanced visual experiences.",
+            "icon": "/logo/pixelbin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "518",
+            "name": "Wegic",
+            "slug": "wegic-ai",
+            "description": "Wegic is an AI-powered website builder that creates and manages professional websites through conversational interactions, requiring no coding skills.",
+            "icon": "/logo/wegic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "537",
+            "name": "Re:amaze",
+            "slug": "reamaze",
+            "description": "Re:amaze is a cloud-based helpdesk and customer messaging platform for eCommerce and businesses to support, engage, and convert customers.",
+            "icon": "/logo/www.reamaze.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "AIFreeBox",
+            "slug": "aifreebox",
+            "description": "AIFreeBox offers a comprehensive suite of free AI tools for content creation, social media, and productivity enhancement.",
+            "icon": "/logo/aifreebox.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "Book by Anyone",
+            "slug": "book-by-anyone",
+            "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+            "icon": "/logo/www.bookbyanyone.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "583",
+            "name": "Mobirise",
+            "slug": "mobirise",
+            "description": "Mobirise is a free, offline website builder for creating responsive, mobile-first websites without coding.",
+            "icon": "/logo/mobirise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "626",
+            "name": "Mockey",
+            "slug": "mockey-ai",
+            "description": "Mockey is a free online AI-powered mockup generator for creating high-quality product visuals.",
+            "icon": "/logo/mockey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "690",
+            "name": "Nuelink",
+            "slug": "nuelink",
+            "description": "Nuelink is a social media scheduling and automation tool designed to streamline content management for businesses and creators.",
+            "icon": "/logo/nuelink.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "702",
+            "name": "Browse AI",
+            "slug": "browse-ai",
+            "description": "Browse AI is a no-code platform for automating web data extraction and monitoring from any website.",
+            "icon": "/logo/www.browse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "737",
+            "name": "Claid.ai",
+            "slug": "claid-ai",
+            "description": "Claid.ai is an AI-powered platform that enhances product photography for e-commerce by automating image editing and generation.",
+            "icon": "/logo/claid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "772",
+            "name": "Dorik",
+            "slug": "dorik",
+            "description": "Dorik is an AI-powered, no-code website builder for creating professional websites quickly and easily.",
+            "icon": "/logo/dorik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "798",
+            "name": "Pic Copilot",
+            "slug": "pic-copilot",
+            "description": "Pic Copilot is an AI-powered platform designed to enhance e-commerce product images and marketing visuals for improved click-through rates and conversions.",
+            "icon": "/logo/www.piccopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "810",
+            "name": "Axiom.ai",
+            "slug": "axiom-ai",
+            "description": "Axiom.ai is a no-code browser automation tool that enables users to create bots for automating repetitive web tasks and data scraping.",
+            "icon": "/logo/axiom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "858",
+            "name": "Zarla",
+            "slug": "zarla",
+            "description": "Zarla is an AI-powered website builder that helps users create professional, customized websites in minutes without coding expertise.",
+            "icon": "/logo/www.zarla.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "864",
+            "name": "VocAI",
+            "slug": "vocai",
+            "description": "VocAI is an AI-powered platform that provides intelligent customer support solutions and customer feedback analysis for e-commerce businesses.",
+            "icon": "/logo/www.voc.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "LiveChatAI",
+            "slug": "livechatai",
+            "description": "LiveChatAI is an AI-powered platform that enables businesses to create and deploy customized chatbots trained on their own content for efficient customer support and engagement.",
+            "icon": "/logo/livechatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "909",
+            "name": "Pietra Studio",
+            "slug": "pietra-studio",
+            "description": "Pietra Studio is a platform empowering creators and entrepreneurs to launch and scale e-commerce brands with tools for design, manufacturing, and fulfillment.",
+            "icon": "/logo/www.pietrastudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "931",
+            "name": "BotPenguin",
+            "slug": "botpenguin",
+            "description": "BotPenguin is an AI-powered chatbot platform that enables businesses to create and deploy no-code chatbots for customer engagement across multiple messaging channels.",
+            "icon": "/logo/botpenguin.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "993",
+            "name": "Pebblely",
+            "slug": "pebblely",
+            "description": "Pebblely is an AI-powered tool that generates professional product photos for e-commerce and marketing purposes.",
+            "icon": "/logo/pebblely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1001",
+            "name": "Storebuild.ai",
+            "slug": "storebuild-ai",
+            "description": "Storebuild.ai is an AI-powered platform that enables users to quickly build, customize, and launch online e-commerce stores with minimal effort.",
+            "icon": "/logo/storebuild.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1040",
+            "name": "ProductScope AI",
+            "slug": "productscope-ai",
+            "description": "ProductScope AI is an AI-driven platform that empowers e-commerce sellers to optimize product listings, generate high-quality images, and enhance marketing strategies for platforms like Amazon.",
+            "icon": "/logo/productscope.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1068",
+            "name": "CodeDesign.ai",
+            "slug": "codedesign-ai",
+            "description": "CodeDesign.ai is an AI-powered platform that enables users to effortlessly build, customize, and deploy professional websites without coding skills.",
+            "icon": "/logo/codedesign.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1108",
+            "name": "SellerPic.ai",
+            "slug": "sellerpic-ai",
+            "description": "SellerPic.ai is an AI-powered platform designed to help e-commerce sellers generate and edit professional product images quickly and efficiently.",
+            "icon": "/logo/www.sellerpic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1143",
+            "name": "PhotoEditor.AI",
+            "slug": "photoeditor-ai",
+            "description": "PhotoEditor.AI offers a powerful AI toolset for creative photo and design editing needs, enhancing user creativity with advanced features.",
+            "icon": "/logo/photoeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1148",
+            "name": "Wotnot",
+            "slug": "wotnot",
+            "description": "Wotnot is an AI-powered no-code platform for building and deploying chatbots to automate customer support, lead generation, and engagement across websites and messaging apps.",
+            "icon": "/logo/wotnot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1153",
+            "name": "WiziShop",
+            "slug": "wizishop",
+            "description": "WiziShop is an AI-powered e-commerce platform that enables users to create, manage, and optimize online stores with automated tools and features.",
+            "icon": "/logo/wizishop.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1196",
+            "name": "Kaedim",
+            "slug": "kaedim",
+            "description": "Kaedim is an AI-powered platform that transforms 2D images into production-ready 3D models to accelerate content creation for game developers and creators.",
+            "icon": "/logo/www.kaedim3d.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "The SMS City",
+            "slug": "the-sms-city",
+            "description": "The SMS City provides automated WhatsApp and SMS solutions for businesses, offering tools like e-commerce integrations, AI-powered chatbots, and marketing campaigns to enhance customer engagement and boost sales.",
+            "icon": "/logo/thesmscity.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1259",
+            "name": "ChatIn",
+            "slug": "chatin",
+            "description": "ChatIn is an AI-powered platform that transforms customer support with 24/7 intelligent conversations to boost engagement, satisfaction, and business growth.",
+            "icon": "/logo/chatin.support.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1244",
+            "name": "Revyu.ai",
+            "slug": "revyu-ai",
+            "description": "Revyu.ai is an AI-powered platform that enables businesses to generate, analyze, and manage customer reviews to boost online reputation and sales.",
+            "icon": "/logo/www.revyu.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1273",
+            "name": "Widgens",
+            "slug": "widgens",
+            "description": "Widgens is an AI-powered text-to-UI technology that transforms text prompts into interactive user interfaces and visual content for creation, browsing, and organization.",
+            "icon": "/logo/widgens.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1394",
+            "name": "AutoLaunched",
+            "slug": "autolaunched",
+            "description": "AutoLaunched is an AI-powered platform that automates the process of launching startups and digital products for entrepreneurs and developers.",
+            "icon": "/logo/autolaunched.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1425",
+            "name": "Browserfly",
+            "slug": "browserfly",
+            "description": "Browserfly is an AI agent that integrates into your browser to automate tasks, summarize content, and enhance web interactions.",
+            "icon": "/logo/browserfly.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "1139",
+            "name": "PerfectCSR AI",
+            "slug": "perfectcsr-ai",
+            "description": "PerfectCSR AI is a no-code platform for creating AI-powered chatbots that automate customer support and boost engagement on websites.",
+            "icon": "/logo/perfectcsr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "52",
+            "name": "Baidu Chat",
+            "slug": "baidu-chat",
+            "description": "Baidu Chat is an AI-powered conversational platform designed to assist users with information and task support.",
+            "icon": "/logo/chat.baidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Microsoft Copilot",
+            "slug": "microsoft-copilot",
+            "description": "Microsoft Copilot is an AI-powered assistant enhancing productivity across Microsoft 365 and web tasks.",
+            "icon": "/logo/copilot.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Wanderboat AI",
+            "slug": "wanderboat-ai",
+            "description": "Wanderboat AI is an AI-powered travel companion that simplifies trip planning with personalized itineraries and real-time recommendations.",
+            "icon": "/logo/wanderboat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-shopping-assistant"
+            ]
+        }
+    ]
+}

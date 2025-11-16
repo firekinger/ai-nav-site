@@ -1,0 +1,63 @@
+{
+    "name": "YOUR.GG",
+    "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+    "longDescription": "YOUR.GG is a specialized platform for League of Legends players, leveraging AI and data analytics to provide in-depth performance insights and improve gameplay. The service, previously known as GGtics, offers tools to analyze player statistics, identify strengths and weaknesses, and connect with other gamers for duo or team play. With a monthly user base of approximately one million as of 2021, it partners with major esports organizations like Gen.G Esports and Liiv SANDBOX to support data-driven player development. The platform’s mission is to deliver fun, actionable insights through visual data, such as radar charts, to help players understand their play style and climb ranks more effectively. Despite its detailed analytics, some users note that the accuracy of team luck assessments may vary, but the platform remains a go-to for competitive players seeking to optimize their performance.",
+    "url": "https://your.gg/?utm_source=ainavdir",
+    "screenshot": "/screenshot/your.gg.webp",
+    "category": "AI Game Generator",
+    "categorySlug": "ai-game-generator",
+    "slug": "your-gg",
+    "categories": [
+        "AI Game Generator",
+        "AI Predictions",
+        "AI Sports",
+        "AI Charting",
+        "AI Social Media",
+        "AI Dating Assistant",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Performance Evaluation Engine (GGx) provides detailed metrics on player contributions and lane performance to optimize gameplay strategies.",
+        "Radar Chart Analysis visualizes a player’s strengths and weaknesses compared to the average, aiding in self-improvement.",
+        "Duo Request System connects players with compatible teammates for ranked or casual matches based on rank and role preferences.",
+        "AI-Driven Play Style Analysis compares individual performance to other players, offering personalized insights for improvement.",
+        "Partnership Data Integration collaborates with esports organizations to provide playoff probability data and support talent scouting.",
+        "Champion Performance Metrics deliver detailed stats on champion usage, helping players refine their picks and counters.",
+        "Community Networking enables players to join social groups, share strategies, and find like-minded gamers for team play.",
+        "Real-Time Match Insights offer live game data to help players make informed decisions during matches."
+    ],
+    "faqs": [
+        {
+            "question": "What is YOUR.GG used for?",
+            "answer": "YOUR.GG is a platform that uses AI to analyze League of Legends gameplay, providing performance metrics and networking tools to help players improve and connect with others."
+        },
+        {
+            "question": "Is YOUR.GG free to use?",
+            "answer": "Yes, YOUR.GG offers free access to its core analytics and networking features, though some advanced tools may require a subscription."
+        },
+        {
+            "question": "How does YOUR.GG help improve my gameplay?",
+            "answer": "The platform provides detailed stats, radar charts, and AI-driven insights to identify your strengths, weaknesses, and optimal strategies for ranking up."
+        },
+        {
+            "question": "Can I find teammates on YOUR.GG?",
+            "answer": "Yes, the Duo Request System allows you to find and connect with players of similar skill levels and roles for ranked or casual games."
+        },
+        {
+            "question": "Is YOUR.GG affiliated with Riot Games?",
+            "answer": "YOUR.GG is not endorsed by Riot Games but partners with esports organizations and uses Riot’s data to provide analytics."
+        },
+        {
+            "question": "How accurate are YOUR.GG’s analytics?",
+            "answer": "While YOUR.GG offers detailed insights, some users note that team luck assessments may vary in accuracy, but the platform is widely used for its visual data."
+        },
+        {
+            "question": "Does YOUR.GG support other games besides League of Legends?",
+            "answer": "YOUR.GG is primarily focused on League of Legends and does not currently support other games."
+        },
+        {
+            "question": "How does YOUR.GG’s radar chart work?",
+            "answer": "The radar chart visualizes your play style across metrics like gold difference, survival, and combat, comparing it to the average for your rank."
+        }
+    ]
+}

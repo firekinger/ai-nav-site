@@ -1,0 +1,70 @@
+{
+    "name": "Khanmigo",
+    "description": "Khanmigo is an AI-powered educational platform by Khan Academy, offering personalized tutoring for students and time-saving tools for teachers.",
+    "longDescription": "Khanmigo, developed by the nonprofit Khan Academy, is an AI-powered tutor and teaching assistant designed to enhance education by providing personalized learning experiences for students and streamlining tasks for educators. It integrates with Khan Academy’s extensive content library to offer tailored support in subjects like math, science, and humanities, guiding students through problem-solving without directly providing answers. For teachers, Khanmigo automates lesson planning, rubric creation, and progress tracking, reducing prep time and allowing more focus on student engagement. Built with safety and learning as priorities, it includes guardrails to prevent cheating and ensure data privacy. The platform aims to make high-quality education accessible and sustainable, aligning with Khan Academy’s mission to provide free, world-class education for all.",
+    "url": "https://www.khanmigo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.khanmigo.ai.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "khanmigo-ai",
+    "categories": [
+        "AI Homework Helper",
+        "AI Lesson Plan Generator",
+        "AI Writing Assistants",
+        "AI Outline Generator",
+        "AI Plagiarism Checker",
+        "AI Language Learning",
+        "AI Quiz Generator"
+    ],
+    "features": [
+        "Khanmigo offers personalized tutoring, guiding students through math, science, and humanities problems with step-by-step support to foster critical thinking.",
+        "The platform generates standards-aligned lesson plans, saving teachers hours of preparation time for more effective classroom engagement.",
+        "It creates detailed rubrics and exit tickets, streamlining assessment processes for educators with customizable, objective-driven tools.",
+        "Khanmigo’s Writing Coach provides real-time feedback on student essays, helping improve writing skills without generating content for them.",
+        "Teachers can access student progress summaries, enabling data-driven insights to tailor instruction and address learning gaps.",
+        "The platform includes a Socratic questioning approach, encouraging students to think deeply and solve problems independently.",
+        "Khanmigo’s Blooket Generator creates quiz question sets for interactive learning, reducing manual effort for teachers.",
+        "It features safety guardrails, flagging potential plagiarism or concerning student inputs for teacher review, ensuring academic integrity.",
+        "The Historical Figures activity simulates conversations with historical figures, making history lessons engaging and interactive.",
+        "Khanmigo supports multilingual communication, generating family emails or resources to enhance parent-teacher collaboration.",
+        "The platform integrates with Canvas, allowing seamless access for educators in K-12 and higher education settings."
+    ],
+    "faqs": [
+        {
+            "question": "What is Khanmigo designed to do?",
+            "answer": "Khanmigo is an AI-powered tutor and teaching assistant that provides personalized learning for students and automates tasks like lesson planning and rubric creation for teachers."
+        },
+        {
+            "question": "Is Khanmigo free for teachers?",
+            "answer": "Yes, Khanmigo for Teachers is free for all U.S.-based K-12 and higher education educators, thanks to a partnership with Microsoft."
+        },
+        {
+            "question": "How does Khanmigo prevent cheating?",
+            "answer": "Khanmigo uses a Socratic approach to guide students toward answers without providing them directly and flags potential plagiarism for teacher review."
+        },
+        {
+            "question": "What subjects does Khanmigo support for students?",
+            "answer": "Khanmigo supports subjects like math, science, humanities, and coding, integrating with Khan Academy’s content library for comprehensive tutoring."
+        },
+        {
+            "question": "Can parents use Khanmigo to support their children?",
+            "answer": "Yes, for $4/month, parents can activate Khanmigo for up to 10 children, monitor chat history, and access parent-specific tools."
+        },
+        {
+            "question": "How does Khanmigo ensure data privacy?",
+            "answer": "Khanmigo prioritizes data privacy, storing chat history securely and not using it to train AI models, with access limited to authorized users."
+        },
+        {
+            "question": "What tools does Khanmigo offer for lesson planning?",
+            "answer": "Khanmigo generates lesson plans, discussion prompts, rubrics, and quiz questions, tailored to educational standards and classroom needs."
+        },
+        {
+            "question": "Is Khanmigo available outside the U.S.?",
+            "answer": "Khanmigo for Teachers is available for free in English across 49 countries, with broader access for learners via subscription."
+        },
+        {
+            "question": "How does Khanmigo integrate with other platforms?",
+            "answer": "Khanmigo integrates with Canvas for seamless educator access and supports Blooket for generating interactive quiz content."
+        }
+    ]
+}

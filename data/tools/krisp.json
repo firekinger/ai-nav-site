@@ -1,0 +1,67 @@
+{
+    "name": "Krisp",
+    "description": "Krisp is an AI-powered platform that enhances online meetings by removing background noise, transcribing, and summarizing conversations for improved productivity.",
+    "longDescription": "Krisp is an AI-based audio processing and meeting assistant platform designed to maximize productivity in online and in-person communications. Founded in 2017 by Krisp Technologies, Inc., it leverages advanced machine learning to eliminate background noise, echoes, and secondary voices in real-time, ensuring clear audio for virtual meetings. The platform also offers transcription and summarization features, converting conversations into actionable notes and integrating with tools like Zoom, Slack, and Salesforce. Krisp serves professionals, remote workers, and call centers by providing a seamless, secure, and private solution for clearer communication. Its mission is to enhance voice productivity, making it a vital tool for hybrid teams, sales professionals, and anyone needing distraction-free audio and organized meeting insights. With support for multiple platforms and languages, Krisp streamlines workflows and reduces manual note-taking.",
+    "url": "https://krisp.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/krisp.ai.webp",
+    "category": "AI Noise Cancellation",
+    "categorySlug": "ai-noise-cancellation",
+    "slug": "krisp",
+    "categories": [
+        "AI Noise Cancellation",
+        "AI Transcription",
+        "AI PDF Summarizer",
+        "AI Voice Changer",
+        "AI Voice Enhancer",
+        "AI Audio Editing",
+        "AI Interview Assistant",
+        "AI Voice Translator",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered noise cancellation removes background noise and echoes from both microphone and speaker audio for crystal-clear calls.",
+        "Real-time transcription converts meetings into text across platforms like Zoom, Google Meet, and Microsoft Teams in over 16 languages.",
+        "AI-generated meeting summaries provide concise, actionable insights, saving time on manual note-taking.",
+        "Accent conversion enhances communication clarity by adjusting a speaker’s accent in real-time for better understanding.",
+        "Krisp’s AI bot automatically joins virtual meetings to transcribe and summarize without manual intervention.",
+        "Seamless integrations with tools like Slack, HubSpot, and Salesforce streamline sharing of notes and action items.",
+        "On-device speech-to-text processing ensures privacy by keeping audio data local and encrypted.",
+        "Mobile and desktop apps sync meeting data, allowing users to manage and revisit notes across devices.",
+        "Enterprise-grade security includes SOC 2, HIPAA, GDPR, and PCI-DSS certifications for safe data handling.",
+        "Real-time voice isolation removes secondary voices, ideal for noisy environments like call centers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Krisp used for?",
+            "answer": "Krisp is used to remove background noise, transcribe, and summarize meetings, enhancing audio clarity and productivity for virtual and in-person communications."
+        },
+        {
+            "question": "Does Krisp offer a free plan?",
+            "answer": "Yes, Krisp offers a free tier with limited noise-canceling minutes per week, suitable for personal or occasional use."
+        },
+        {
+            "question": "Which platforms does Krisp integrate with?",
+            "answer": "Krisp integrates with Zoom, Google Meet, Microsoft Teams, Slack, HubSpot, Salesforce, and over 800 other applications."
+        },
+        {
+            "question": "Can Krisp transcribe in-person meetings?",
+            "answer": "Yes, Krisp’s mobile and desktop apps can record and transcribe in-person conversations with accurate voice-to-text functionality."
+        },
+        {
+            "question": "Is Krisp secure for sensitive meetings?",
+            "answer": "Krisp ensures security with SOC 2, HIPAA, GDPR, and PCI-DSS certifications, encrypting data in transit and at rest."
+        },
+        {
+            "question": "Does Krisp work with any microphone or headset?",
+            "answer": "Yes, Krisp is compatible with any microphone, headset, or speaker, requiring no specific hardware."
+        },
+        {
+            "question": "Can Krisp handle multiple languages?",
+            "answer": "Krisp supports transcription and summarization in over 16 languages, ideal for global teams."
+        },
+        {
+            "question": "What are the limitations of Krisp’s free plan?",
+            "answer": "The free plan limits users to 120 minutes per week for microphone and speaker noise removal, with premium features requiring a paid subscription."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Photo Filter Tools in 2025",
+    "summary": "Transform your images effortlessly with our AI Photo Filter tools. Designed to enhance your photos with just a click, these innovative solutions offer a range of filters that elevate your visuals, making them more vibrant and engaging. Whether you're a professional photographer or a casual user, our curated selection helps you achieve stunning results without the need for complex editing skills. Discover how these AI-driven filters can save you time and enhance your creativity. Explore our collection today and elevate your photography game!",
+    "tools": [
+        {
+            "id": "387",
+            "name": "BeautyPlus",
+            "slug": "beautyplus",
+            "description": "BeautyPlus is a free AI-powered photo and video editing platform offering creative tools for selfies, aesthetic filters, and professional-quality enhancements.",
+            "icon": "/logo/www.beautyplus.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-photo-filter"
+            ]
+        },
+        {
+            "id": "526",
+            "name": "MyShell AI",
+            "slug": "myshell-ai",
+            "description": "MyShell AI is a platform for creating, sharing, and owning AI-powered agents and creative tools for image generation, voice cloning, and chatbots.",
+            "icon": "/logo/app.myshell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-photo-filter"
+            ]
+        },
+        {
+            "id": "1184",
+            "name": "BgRem",
+            "slug": "bgrem-ai",
+            "description": "BgRem offers AI-powered tools for creating and editing images and videos, focusing on user-friendly services for content generation.",
+            "icon": "/logo/bgrem.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-photo-filter"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Upscayl",
+    "description": "Upscayl is a free, open-source AI image upscaler that enhances low-resolution images for Linux, MacOS, and Windows.",
+    "longDescription": "Upscayl is a cross-platform, open-source application designed to upscale low-resolution images using advanced AI algorithms, primarily built with a Linux-first philosophy. Its mission is to provide an accessible, high-quality image enhancement tool that transforms blurry or pixelated photos into sharp, high-resolution visuals without requiring extensive technical expertise. The software leverages the Real-ESRGAN architecture and NCNN framework to guess and reconstruct image details, making it ideal for photographers, graphic designers, and casual users. Available as both a desktop application and a cloud-based service, Upscayl supports offline processing, ensuring user privacy and flexibility. It caters to a wide audience by offering a user-friendly interface and compatibility across multiple operating systems.",
+    "url": "https://upscayl.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/upscayl.org.webp",
+    "category": "AI Image Upscaler",
+    "categorySlug": "ai-image-upscaler",
+    "slug": "upscayl",
+    "categories": [
+        "AI Image Upscaler",
+        "AI Image Enhancer",
+        "Open Source AI Models",
+        "AI Photo Restoration",
+        "AI Graphic Design",
+        "AI Models"
+    ],
+    "features": [
+        "AI-powered upscaling enhances image resolution up to 16x while preserving quality.",
+        "Batch upscaling processes multiple images simultaneously, saving time for users.",
+        "Custom model support allows users to integrate specialized AI models for tailored upscaling.",
+        "Side-by-side comparison view displays before and after results for easy evaluation.",
+        "Double upscaling option achieves higher resolution for precision-demanding projects.",
+        "Offline processing ensures privacy and functionality without internet dependency.",
+        "Cross-platform support ensures seamless performance on Linux, MacOS, and Windows.",
+        "Multiple output formats (PNG, JPG, WebP) provide flexibility for various use cases."
+    ],
+    "faqs": [
+        {
+            "question": "What is Upscayl used for?",
+            "answer": "Upscayl uses AI to upscale and enhance low-resolution images, making them sharper and clearer for personal or professional use."
+        },
+        {
+            "question": "Does Upscayl require a powerful GPU?",
+            "answer": "Upscayl requires a Vulkan-compatible GPU for optimal performance, though some users may emulate Vulkan on less powerful systems with reduced efficiency."
+        },
+        {
+            "question": "Is Upscayl completely free to use?",
+            "answer": "The desktop version of Upscayl is free and open-source, while the cloud service offers a free trial with paid plans starting at $9.99."
+        },
+        {
+            "question": "Can I use Upscayl offline?",
+            "answer": "Yes, the desktop version of Upscayl supports fully offline image processing, ensuring privacy and no internet dependency."
+        },
+        {
+            "question": "What types of images work best with Upscayl?",
+            "answer": "Upscayl performs best with images containing simple lines and textures, though it may struggle with highly complex images."
+        },
+        {
+            "question": "How do I install Upscayl on Linux?",
+            "answer": "Download the AppImage, Flatpak, or Snap version from the official website, enable execution permissions if needed, and run the file."
+        },
+        {
+            "question": "Can I upscale multiple images at once?",
+            "answer": "Yes, Upscayl supports batch upscaling, allowing users to process multiple images simultaneously for efficiency."
+        },
+        {
+            "question": "What AI models does Upscayl use?",
+            "answer": "Upscayl uses Real-ESRGAN-based models by default and allows users to add custom models for specific upscaling needs."
+        }
+    ]
+}

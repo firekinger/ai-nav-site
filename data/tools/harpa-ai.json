@@ -1,0 +1,77 @@
+{
+    "name": "HARPA AI",
+    "description": "HARPA AI is a Chrome extension that integrates multiple AI models to automate web tasks, enhance productivity, and streamline online workflows.",
+    "longDescription": "HARPA AI is a versatile Chrome extension that combines leading AI models like ChatGPT, Claude, Gemini, and DeepSeek to automate and enhance web-based tasks. Its mission is to save users time by simplifying repetitive online activities such as writing, searching, summarizing, and data extraction. The platform serves professionals, marketers, developers, and casual users by providing AI-driven tools directly within the browser. It offers page-aware AI capabilities, allowing users to interact with web content, summarize pages, and automate workflows without leaving their current tab. HARPA AI emphasizes privacy, complying with GDPR and ISO 27001 standards, and does not store user data for AI training. With both free and premium plans, it caters to a wide range of users seeking to work smarter and more efficiently.",
+    "url": "https://harpa.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/harpa.ai.webp",
+    "category": "AI Web Scraping",
+    "categorySlug": "ai-web-scraping",
+    "slug": "harpa-ai",
+    "categories": [
+        "AI Web Scraping",
+        "AI Assistant",
+        "AI Article Summarizer",
+        "AI SEO Tools",
+        "AI Email Marketing",
+        "AI Text Classifier",
+        "AI Writing",
+        "AI Language Learning",
+        "AI Workflow"
+    ],
+    "features": [
+        "Automates web tasks like form filling and data extraction, saving time on repetitive actions.",
+        "Summarizes web pages, PDFs, and YouTube videos, enabling quick comprehension of lengthy content.",
+        "Provides page-aware AI chat on any website, delivering context-specific answers using the current page’s content.",
+        "Generates SEO-optimized content, including blog posts and social media posts, to boost online visibility.",
+        "Monitors websites for price drops or content updates, notifying users of relevant changes.",
+        "Supports AI-driven email management, categorizing emails and drafting contextual replies in the user’s tone.",
+        "Offers over 100 prebuilt AI commands for tasks like translation, grammar correction, and keyword research.",
+        "Integrates with multiple AI models like GPT-4o, Claude 3.7, and Gemini 2.5 for versatile functionality.",
+        "Creates detailed Midjourney and DALL-E prompts for generating high-quality AI images.",
+        "Extracts SEO keywords and conducts audits to optimize content and outrank competitors.",
+        "Facilitates language learning by correcting mistakes and creating personalized learning plans.",
+        "Enables workflow automation with platforms like Zapier and Make.com for seamless app integration."
+    ],
+    "faqs": [
+        {
+            "question": "What is HARPA AI?",
+            "answer": "HARPA AI is a Chrome extension that integrates multiple AI models to automate web tasks, summarize content, and enhance productivity directly in your browser."
+        },
+        {
+            "question": "Is there a free version of HARPA AI?",
+            "answer": "Yes, HARPA AI offers a free plan with basic features and limited AI command usage, suitable for casual users."
+        },
+        {
+            "question": "Which AI models does HARPA AI support?",
+            "answer": "HARPA AI supports models like OpenAI’s GPT-4o, Anthropic’s Claude 3.7, Google Gemini 2.5, DeepSeek, and Perplexity."
+        },
+        {
+            "question": "How does HARPA AI ensure user privacy?",
+            "answer": "HARPA AI complies with GDPR and ISO 27001 standards, does not store user data for AI training, and only accesses web pages upon explicit user actions."
+        },
+        {
+            "question": "Can HARPA AI help with SEO tasks?",
+            "answer": "Yes, HARPA AI can extract long-tail keywords, conduct SEO audits, and generate optimized content to improve search rankings."
+        },
+        {
+            "question": "How do I activate page-aware mode in HARPA AI?",
+            "answer": "Toggle the PAGE option ON in the HARPA AI interface or use the -p flag with your prompt to enable page-aware responses."
+        },
+        {
+            "question": "Does HARPA AI work with other automation tools?",
+            "answer": "Yes, HARPA AI integrates with platforms like Zapier and Make.com to create automated workflows across multiple apps."
+        },
+        {
+            "question": "Can HARPA AI summarize YouTube videos?",
+            "answer": "Yes, HARPA AI can extract key takeaways from YouTube videos and provide timestamps for relevant information."
+        },
+        {
+            "question": "How do I install HARPA AI?",
+            "answer": "Visit the Chrome Web Store, search for HARPA AI, click 'Add to Chrome,' and follow the prompts to install the extension."
+        },
+        {
+            "question": "What are Megatokens in HARPA AI?",
+            "answer": "Megatokens are units used for billing on HARPA’s Cloud GPT Model, with 1 Megatoken equating to roughly 750,000 words of input text."
+        }
+    ]
+}

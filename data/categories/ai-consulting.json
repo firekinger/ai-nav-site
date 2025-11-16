@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI Consulting Tools in 2025",
+    "summary": "Unlock the potential of artificial intelligence with our AI Consulting tools. Designed to guide businesses through the complexities of AI integration, these resources offer expert insights, strategic planning, and tailored solutions to enhance efficiency and drive innovation. Whether you're looking to optimize operations or develop custom AI strategies, our curated selection empowers you to make informed decisions and achieve your goals. Explore our AI Consulting tools today and transform your vision into reality!",
+    "tools": [
+        {
+            "id": "26",
+            "name": "Hugging Face",
+            "slug": "hugging-face",
+            "description": "Hugging Face is a platform for sharing and building open-source machine learning models, datasets, and applications.",
+            "icon": "/logo/huggingface.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "36",
+            "name": "Prolific",
+            "slug": "prolific",
+            "description": "Prolific connects researchers with participants for high-quality online research and data collection.",
+            "icon": "/logo/prolific.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "297",
+            "name": "forms.app",
+            "slug": "forms-app",
+            "description": "forms.app is a user-friendly online form builder for creating and sharing forms, surveys, and quizzes to collect data effortlessly.",
+            "icon": "/logo/forms.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "310",
+            "name": "Seismic",
+            "slug": "seismic",
+            "description": "Seismic provides an AI-powered sales enablement platform to enhance customer engagement and drive revenue growth for go-to-market teams.",
+            "icon": "/logo/www.seismic.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "635",
+            "name": "B12",
+            "slug": "b12",
+            "description": "B12 is an AI-powered website builder designed for professional service providers to create and manage polished websites quickly.",
+            "icon": "/logo/www.b12.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "1258",
+            "name": "Madespace",
+            "slug": "madespace-ai",
+            "description": "Madespace is an AI-powered interior design platform that enables users to create, shop for, and get expert help on room designs without needing design skills.",
+            "icon": "/logo/madespace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Feedly",
+            "slug": "feedly",
+            "description": "Feedly is a news aggregator that curates personalized content feeds for individuals and teams to stay informed on topics that matter.",
+            "icon": "/logo/feedly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        },
+        {
+            "id": "90",
+            "name": "Tally",
+            "slug": "tally",
+            "description": "Tally is a free, intuitive no-code platform for creating and managing online forms, surveys, and quizzes.",
+            "icon": "/logo/tally.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-consulting"
+            ]
+        }
+    ]
+}

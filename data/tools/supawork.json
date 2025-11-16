@@ -1,0 +1,50 @@
+{
+    "name": "Supawork",
+    "description": "Supawork.ai is an AI-powered platform designed to streamline job applications and enhance hiring processes for job seekers and employers.",
+    "longDescription": "Supawork.ai is an innovative platform that leverages artificial intelligence to simplify and optimize the job application and recruitment process. It aims to connect job seekers with employers efficiently by automating key aspects of job searching, resume building, and candidate screening. For job seekers, it offers tools to create tailored resumes and cover letters, while employers benefit from AI-driven candidate matching and streamlined hiring workflows. The platform’s mission is to make job applications faster, more personalized, and less stressful, empowering users to find the right opportunities or talent with ease. By integrating advanced AI algorithms, Supawork ensures that both candidates and recruiters save time and achieve better outcomes in the hiring process.",
+    "url": "https://supawork.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/supawork.ai.webp",
+    "category": "AI Resume Builder",
+    "categorySlug": "ai-resume-builder",
+    "slug": "supawork",
+    "categories": [
+        "AI Resume Builder",
+        "AI Recruiting",
+        "AI Coaching"
+    ],
+    "features": [
+        "AI-powered resume builder creates tailored resumes to match job descriptions, increasing chances of landing interviews.",
+        "Automated cover letter generation crafts personalized letters based on job requirements, saving users time.",
+        "Job matching algorithms analyze user profiles to recommend relevant job opportunities, improving application success rates.",
+        "Employer candidate screening uses AI to evaluate resumes and rank applicants, streamlining the hiring process.",
+        "Application tracking system organizes and monitors job applications, helping users stay on top of their job search.",
+        "Customizable job alerts notify users of new opportunities matching their skills and preferences, ensuring timely applications.",
+        "Skill gap analysis identifies areas for improvement, offering personalized recommendations to enhance employability."
+    ],
+    "faqs": [
+        {
+            "question": "What is Supawork.ai used for?",
+            "answer": "Supawork.ai is an AI-powered platform that helps job seekers create tailored resumes and cover letters while assisting employers with candidate screening and hiring."
+        },
+        {
+            "question": "Is Supawork.ai free to use?",
+            "answer": "Supawork.ai offers a free plan with access to core features like resume building and job matching, with premium options for advanced tools."
+        },
+        {
+            "question": "How does the AI resume builder work?",
+            "answer": "The AI resume builder analyzes job descriptions and user profiles to generate tailored resumes that highlight relevant skills and experiences."
+        },
+        {
+            "question": "Can employers use Supawork.ai to find candidates?",
+            "answer": "Yes, employers can use Supawork.ai’s AI-driven tools to screen resumes, rank candidates, and streamline the recruitment process."
+        },
+        {
+            "question": "Does Supawork.ai support multiple industries?",
+            "answer": "Yes, the platform supports job seekers and employers across various industries by customizing recommendations to specific job roles and sectors."
+        },
+        {
+            "question": "How secure is my data on Supawork.ai?",
+            "answer": "Supawork.ai employs robust encryption and privacy measures to protect user data, ensuring secure handling of personal and professional information."
+        }
+    ]
+}

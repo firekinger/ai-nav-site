@@ -1,0 +1,303 @@
+{
+    "title": "The Best 27 AI Speech-to-Text Tools in 2025",
+    "summary": "Unlock the power of AI Speech-to-Text tools, designed to transform spoken language into accurate, editable text effortlessly. Perfect for professionals, students, and content creators, these innovative solutions enhance productivity, streamline workflows, and improve accessibility. Whether you need to transcribe meetings, create captions, or convert lectures into notes, our curated selection of tools caters to diverse needs. Explore the latest advancements in speech recognition technology and elevate your efficiency today. Dive into our AI Speech-to-Text category and discover the perfect tool to meet your transcription needs!",
+    "tools": [
+        {
+            "id": "95",
+            "name": "Otter.ai",
+            "slug": "otter-ai",
+            "description": "Otter.ai provides AI-powered transcription and meeting assistant tools to enhance productivity in meetings and note-taking.",
+            "icon": "/logo/otter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Transkriptor",
+            "slug": "transkriptor",
+            "description": "Transkriptor provides AI-powered transcription and subtitle generation for audio and video content.",
+            "icon": "/logo/transkriptor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Notta",
+            "slug": "notta",
+            "description": "Notta is an AI-powered transcription and note-taking platform that converts audio and video into text with real-time collaboration features.",
+            "icon": "/logo/www.notta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "188",
+            "name": "Fireflies.ai",
+            "slug": "fireflies-ai",
+            "description": "Fireflies.ai is an AI-powered meeting assistant that automates note-taking, transcription, and task management for virtual and in-person meetings.",
+            "icon": "/logo/fireflies.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "248",
+            "name": "Happy Scribe",
+            "slug": "happy-scribe",
+            "description": "Happy Scribe provides AI-powered transcription and subtitle services for audio and video content.",
+            "icon": "/logo/www.happyscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "276",
+            "name": "TopMediai",
+            "slug": "topmediai",
+            "description": "TopMediai provides AI-powered tools for audio, image, and video processing to enhance creative and professional projects.",
+            "icon": "/logo/www.topmediai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "306",
+            "name": "Vatis Tech",
+            "slug": "vatis-tech",
+            "description": "Vatis Tech provides AI-powered speech-to-text technology for accurate and efficient transcription of audio and video data.",
+            "icon": "/logo/vatis.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "426",
+            "name": "Deepgram",
+            "slug": "deepgram",
+            "description": "Deepgram provides advanced AI-powered speech-to-text, text-to-speech, and voice agent solutions for enterprise voice applications.",
+            "icon": "/logo/deepgram.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "513",
+            "name": "Thetawise",
+            "slug": "thetawise-ai",
+            "description": "Thetawise is an AI-powered math tutor providing instant help and step-by-step solutions for students.",
+            "icon": "/logo/thetawise.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "538",
+            "name": "AssemblyAI",
+            "slug": "assemblyai",
+            "description": "AssemblyAI provides advanced Speech AI models to transcribe and analyze voice data via a developer-friendly API.",
+            "icon": "/logo/www.assemblyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "631",
+            "name": "RecCloud",
+            "slug": "reccloud",
+            "description": "RecCloud is an AI-powered multimedia platform offering tools for video and audio creation, editing, and cloud storage.",
+            "icon": "/logo/reccloud.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "729",
+            "name": "Gladia",
+            "slug": "gladia",
+            "description": "Gladia provides an AI-powered Audio Intelligence API for accurate, multilingual speech-to-text transcription and audio analysis.",
+            "icon": "/logo/www.gladia.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "872",
+            "name": "VoiceNotes",
+            "slug": "voicenotes",
+            "description": "VoiceNotes is an AI-powered note-taking app that allows users to capture ideas via voice, transcribe them automatically, and organize thoughts intelligently.",
+            "icon": "/logo/voicenotes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "890",
+            "name": "SubEasy",
+            "slug": "subeasy-ai",
+            "description": "SubEasy.ai is an AI-powered platform that automates the generation of accurate subtitles for videos, making content creation and accessibility easier for creators and businesses.",
+            "icon": "/logo/www.subeasy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "918",
+            "name": "Cockatoo",
+            "slug": "cockatoo",
+            "description": "Cockatoo is an AI-powered transcription service that converts audio and video files into accurate, editable text transcripts quickly and securely.",
+            "icon": "/logo/www.cockatoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "939",
+            "name": "Superwhisper",
+            "slug": "superwhisper",
+            "description": "Superwhisper is an AI-powered app for Mac that enables fast, offline voice-to-text transcription in any application to boost productivity.",
+            "icon": "/logo/superwhisper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "MyJotBot",
+            "slug": "myjotbot",
+            "description": "MyJotBot is an AI-powered personal assistant for jotting down notes, organizing ideas, and enhancing productivity through intelligent automation.",
+            "icon": "/logo/myjotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1013",
+            "name": "Whisper Transcribe",
+            "slug": "whisper-transcribe",
+            "description": "Whisper Transcribe is an online platform that uses AI to transcribe audio and video files into text with high accuracy and support for multiple languages.",
+            "icon": "/logo/www.whispertranscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1054",
+            "name": "Noota",
+            "slug": "noota",
+            "description": "Noota is an AI-powered platform that automates meeting transcription, summarization, and analysis to enhance productivity for teams and professionals.",
+            "icon": "/logo/www.noota.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1085",
+            "name": "Rev.ai",
+            "slug": "rev-ai",
+            "description": "Rev.ai provides an API for highly accurate speech-to-text transcription and additional insights for audio and video files, catering to applications needing transcription, language identification, sentiment analysis, and more.",
+            "icon": "/logo/www.rev.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1105",
+            "name": "Music AI",
+            "slug": "music-ai",
+            "description": "Music AI provides state-of-the-art, ethical AI solutions for audio and music applications, including stem separation, voice transfers, and metadata classification, to empower businesses and creators in audio production.",
+            "icon": "/logo/music.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1298",
+            "name": "Autosana",
+            "slug": "autosana-ai",
+            "description": "Autosana.ai is an AI-powered platform that automates the transcription and summarization of medical consultations to streamline documentation for healthcare professionals.",
+            "icon": "/logo/autosana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1286",
+            "name": "Mumble Note",
+            "slug": "mumble-note",
+            "description": "Mumble Note is the fastest AI voice notetaker that instantly converts spoken meetings, tasks, ideas, and notes into organized outputs like summaries, to-dos, and transcripts.",
+            "icon": "/logo/www.mumblenote.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1279",
+            "name": "Transcriptly",
+            "slug": "transcriptly",
+            "description": "Transcriptly is an online service that allows users to transcribe audio and video files to text instantly, supporting 98+ languages and various formats like MP3, MP4, WAV, M4A, and MOV.",
+            "icon": "/logo/transcriptly.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1262",
+            "name": "TransGull",
+            "slug": "transgull",
+            "description": "TransGull is an AI-powered translation platform offering solutions for conversations, live speech, images, and videos to overcome language barriers.",
+            "icon": "/logo/transgull.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1264",
+            "name": "WriteVoice",
+            "slug": "writevoice",
+            "description": "WriteVoice is an AI-powered voice-to-text tool that allows users to write faster by speaking instead of typing, integrating seamlessly with various applications.",
+            "icon": "/logo/www.writevoice.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        },
+        {
+            "id": "1316",
+            "name": "TranscriptGenerator.ai",
+            "slug": "transcriptgenerator-ai",
+            "description": "TranscriptGenerator.ai provides AI-powered transcription for Instagram videos, offering fast, accurate text with timestamps and multilingual support.",
+            "icon": "/logo/transcriptgenerator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-speech-to-text"
+            ]
+        }
+    ]
+}

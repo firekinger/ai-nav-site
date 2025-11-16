@@ -1,0 +1,61 @@
+{
+    "name": "DeepSeek",
+    "description": "DeepSeek is an AI platform offering advanced open-source large language models for reasoning, coding, and text generation.",
+    "longDescription": "DeepSeek is a Chinese AI startup founded in 2023, specializing in open-source large language models (LLMs) to advance artificial general intelligence (AGI). Its mission is to democratize AI by providing high-performance models like DeepSeek-R1 and V3 at significantly lower costs than competitors. The platform serves developers, researchers, and businesses by offering tools for coding, reasoning, and natural language processing. DeepSeek's open-source approach allows users to customize models, run them locally, or integrate them via APIs, fostering innovation and accessibility. It stands out for its cost-efficient training and transparent research, challenging industry giants like OpenAI. Despite its capabilities, users are advised to exercise caution with sensitive data due to data privacy concerns.",
+    "url": "https://www.deepseek.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepseek.com.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "deepseek",
+    "categories": [
+        "AI Character",
+        "AI Research Tool",
+        "AI Code Generator",
+        "Text to Image",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "DeepSeek-R1 provides advanced reasoning for logical inference, math, and real-time problem-solving, rivaling models like GPT-4o.",
+        "DeepSeek-V3, with 671 billion parameters, offers efficient text generation and complex task handling for diverse applications.",
+        "The open-source models allow users to run DeepSeek locally, ensuring privacy and customization for specific needs.",
+        "DeepSeek Coder assists developers with code generation, debugging, and optimization across multiple programming languages.",
+        "The platform provides free API access, enabling seamless integration into applications for businesses and developers.",
+        "DeepSeek's mobile app offers on-the-go access to its AI chatbot for quick answers and task assistance.",
+        "Janus-Pro-7B, a text-to-image model, generates high-quality visuals, competing with tools like DALL·E 3.",
+        "The web interface allows users to interact with DeepSeek’s models without installation, simplifying access for non-technical users."
+    ],
+    "faqs": [
+        {
+            "question": "What is DeepSeek used for?",
+            "answer": "DeepSeek is used for coding, reasoning, text generation, and image creation, serving developers, researchers, and businesses with its AI models."
+        },
+        {
+            "question": "Is DeepSeek free to use?",
+            "answer": "Yes, DeepSeek offers free access to its core models via its website, mobile app, and API, though usage may have limits."
+        },
+        {
+            "question": "Can DeepSeek run offline?",
+            "answer": "DeepSeek’s open-source models can be downloaded and run locally on your device, enabling offline functionality with proper setup."
+        },
+        {
+            "question": "How does DeepSeek compare to ChatGPT?",
+            "answer": "DeepSeek matches or outperforms ChatGPT in reasoning and coding tasks, is open-source, and is free, unlike ChatGPT’s paid tiers."
+        },
+        {
+            "question": "Is DeepSeek safe for sensitive data?",
+            "answer": "While DeepSeek employs encryption, users should avoid sharing sensitive data due to privacy concerns, as servers are located in China."
+        },
+        {
+            "question": "What are DeepSeek’s main models?",
+            "answer": "DeepSeek offers DeepSeek-R1 for reasoning, DeepSeek-V3 for general text tasks, and DeepSeek Coder for programming assistance."
+        },
+        {
+            "question": "Does DeepSeek support image generation?",
+            "answer": "Yes, DeepSeek’s Janus-Pro-7B model supports text-to-image generation, rivaling tools like DALL·E 3."
+        },
+        {
+            "question": "Who can use DeepSeek’s API?",
+            "answer": "Developers and businesses can use DeepSeek’s free API to integrate its AI capabilities into their applications."
+        }
+    ]
+}

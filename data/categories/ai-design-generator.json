@@ -1,0 +1,765 @@
+{
+    "title": "The Best 69 AI Design Generator Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Design Generator tools, designed to transform your ideas into stunning visuals effortlessly. Whether you're a marketer, designer, or entrepreneur, these innovative solutions streamline the design process, saving you time and enhancing your creativity. From generating logos to crafting social media graphics, our AI tools cater to diverse design needs, ensuring professional results with minimal effort. Explore our curated selection of AI Design Generators today and elevate your projects to new heights! Start creating with ease and efficiency now!",
+    "tools": [
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "70",
+            "name": "PixAI",
+            "slug": "pixai",
+            "description": "PixAI is an AI-powered platform for creating high-quality anime-style artwork and characters effortlessly.",
+            "icon": "/logo/pixai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "142",
+            "name": "v0",
+            "slug": "v0",
+            "description": "v0 is an AI-powered platform for generating and customizing UI components and web applications using natural language prompts.",
+            "icon": "/logo/v0.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "Pica AI",
+            "slug": "pica-ai",
+            "description": "Pica AI provides AI-powered tools for creating and editing images, videos, and avatars with advanced customization options.",
+            "icon": "/logo/www.pica-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "173",
+            "name": "Napkin AI",
+            "slug": "napkin-ai",
+            "description": "Napkin AI transforms ideas into visual content using AI-powered tools for diagrams, flowcharts, and infographics.",
+            "icon": "/logo/www.napkin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "BeFunky",
+            "slug": "befunky",
+            "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+            "icon": "/logo/www.befunky.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "219",
+            "name": "Meshy",
+            "slug": "meshy",
+            "description": "Meshy is an AI-powered platform for creating high-quality 3D models and assets from text or images.",
+            "icon": "/logo/www.meshy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "279",
+            "name": "PhotoGrid",
+            "slug": "photogrid",
+            "description": "PhotoGrid is an online platform for creating photo collages, videos, and graphic designs with user-friendly tools.",
+            "icon": "/logo/www.photogrid.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "282",
+            "name": "Presentations.AI",
+            "slug": "presentations-ai",
+            "description": "Presentations.AI is an AI-powered platform for creating professional presentations quickly and easily.",
+            "icon": "/logo/www.presentations.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "Piktochart",
+            "slug": "piktochart",
+            "description": "Piktochart is an online platform for creating stunning infographics, presentations, reports, and videos with AI-powered tools and templates.",
+            "icon": "/logo/piktochart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "313",
+            "name": "BrandCrowd",
+            "slug": "brandcrowd",
+            "description": "BrandCrowd is an online platform offering customizable logo designs and branding tools for businesses and entrepreneurs.",
+            "icon": "/logo/www.brandcrowd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "338",
+            "name": "Design Bundles",
+            "slug": "design-bundles",
+            "description": "Design Bundles provides premium and free digital design resources for crafters, graphic designers, and businesses.",
+            "icon": "/logo/designbundles.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Hyper3D",
+            "slug": "hyper3d",
+            "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+            "icon": "/logo/hyper3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "382",
+            "name": "Artbreeder",
+            "slug": "artbreeder",
+            "description": "Artbreeder is an AI-powered platform for creating and remixing unique images, characters, and artwork through generative AI tools.",
+            "icon": "/logo/www.artbreeder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "395",
+            "name": "Flick",
+            "slug": "flick",
+            "description": "Flick is an AI-powered social media marketing platform designed to help creators, brands, and marketers grow and manage their social media presence.",
+            "icon": "/logo/www.flick.social.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1293",
+            "name": "AI Pro",
+            "slug": "ai-pro",
+            "description": "AI Pro is an AI-powered platform designed to generate high-quality, SEO-optimized articles and content for bloggers, marketers, and businesses.",
+            "icon": "/logo/ai-pro.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "429",
+            "name": "Lexica",
+            "slug": "lexica",
+            "description": "Lexica is an AI-powered platform for searching and generating high-quality images using Stable Diffusion technology.",
+            "icon": "/logo/lexica.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "434",
+            "name": "Eraser",
+            "slug": "eraser",
+            "description": "Eraser is a collaborative platform for engineering teams to create, edit, and share technical documentation and diagrams.",
+            "icon": "/logo/www.eraser.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "444",
+            "name": "Mango Animate",
+            "slug": "mango-animate",
+            "description": "Mango Animate provides user-friendly software for creating professional animated videos, whiteboard animations, and AI-driven video content.",
+            "icon": "/logo/mangoanimate.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "472",
+            "name": "PPSPY",
+            "slug": "ppspy",
+            "description": "PPSPY is an AI-powered Shopify spy tool for dropshipping and sales tracking, helping merchants analyze competitors and discover winning products.",
+            "icon": "/logo/www.ppspy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "484",
+            "name": "BasedLabs",
+            "slug": "basedlabs-ai",
+            "description": "BasedLabs is an AI-powered platform for generating and editing images and videos, catering to creators and enthusiasts.",
+            "icon": "/logo/www.basedlabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "512",
+            "name": "Generated Photos",
+            "slug": "generated-photos",
+            "description": "Generated Photos provides AI-generated, copyright-free headshot and full-body images for creative and commercial use.",
+            "icon": "/logo/generated.photos.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "516",
+            "name": "Customuse",
+            "slug": "customuse",
+            "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+            "icon": "/logo/customuse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "543",
+            "name": "Grey's Secret Room",
+            "slug": "greys-secret-room",
+            "description": "Grey's Secret Room provides AI-powered tools for virtual clothing try-ons, undressing simulations, and face swaps for photos and videos.",
+            "icon": "/logo/undressbaby.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "564",
+            "name": "mymind",
+            "slug": "mymind",
+            "description": "mymind is a private, AI-enhanced platform for saving and organizing notes, bookmarks, images, and articles effortlessly.",
+            "icon": "/logo/mymind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "570",
+            "name": "Appy Pie",
+            "slug": "appy-pie",
+            "description": "Appy Pie is a no-code platform for creating mobile apps, websites, chatbots, and automating workflows with AI-driven tools.",
+            "icon": "/logo/www.appypie.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "578",
+            "name": "Logomaster.ai",
+            "slug": "logomaster-ai",
+            "description": "Logomaster.ai is an AI-powered platform that enables users to create professional logos quickly and easily without design skills.",
+            "icon": "/logo/logomaster.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "Rosebud AI",
+            "slug": "rosebud-ai",
+            "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+            "icon": "/logo/www.rosebud.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "662",
+            "name": "Visily",
+            "slug": "visily-ai",
+            "description": "Visily is an AI-powered UI design platform for creating high-fidelity wireframes and prototypes quickly, tailored for non-designers and teams.",
+            "icon": "/logo/www.visily.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "625",
+            "name": "Create",
+            "slug": "create",
+            "description": "Create.xyz is an AI-powered platform that enables users to build custom web and mobile applications using natural language prompts.",
+            "icon": "/logo/www.create.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "681",
+            "name": "RoomGPT",
+            "slug": "roomgpt",
+            "description": "RoomGPT is an AI-powered platform that transforms room photos into redesigned spaces with various design themes in seconds.",
+            "icon": "/logo/www.roomgpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "727",
+            "name": "BlackInk AI",
+            "slug": "blackink-ai",
+            "description": "BlackInk AI is an AI-powered platform that generates unique, custom tattoo designs in seconds based on user prompts.",
+            "icon": "/logo/blackink.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "749",
+            "name": "TeleportHQ",
+            "slug": "teleporthq",
+            "description": "TeleportHQ is a low-code platform for building responsive websites and UI components with AI-driven design and code export capabilities.",
+            "icon": "/logo/teleporthq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "791",
+            "name": "HeadshotPro",
+            "slug": "headshotpro",
+            "description": "HeadshotPro provides AI-generated professional headshots for individuals and teams.",
+            "icon": "/logo/www.headshotpro.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "813",
+            "name": "Maket",
+            "slug": "maket-ai",
+            "description": "Maket is a generative AI platform that automates architectural design, enabling architects and designers to create floorplans, 3D renders, and explore styles instantly.",
+            "icon": "/logo/www.maket.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "BannerBear",
+            "slug": "bannerbear",
+            "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+            "icon": "/logo/www.bannerbear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "913",
+            "name": "Reimagine Home",
+            "slug": "reimagine-home-ai",
+            "description": "Reimagine Home is an AI-powered platform that allows users to upload photos of their living spaces and generate personalized interior design ideas instantly.",
+            "icon": "/logo/www.reimaginehome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "925",
+            "name": "Charstar",
+            "slug": "charstar-ai",
+            "description": "Charstar.ai is an AI-driven platform for creating, customizing, and interacting with virtual characters for chat and role-playing experiences.",
+            "icon": "/logo/charstar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "950",
+            "name": "A1.art",
+            "slug": "a1-art",
+            "description": "A1.art is an AI-powered platform that enables users to generate unique digital artworks from text prompts effortlessly.",
+            "icon": "/logo/a1.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "957",
+            "name": "AI Room Planner",
+            "slug": "ai-room-planner",
+            "description": "AI Room Planner is an AI-powered tool that generates personalized interior design ideas and visualizations for various room types based on user preferences.",
+            "icon": "/logo/airoomplanner.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "958",
+            "name": "Fakeface",
+            "slug": "fakeface",
+            "description": "Fakeface.io is an AI-driven platform that generates realistic images of non-existent human faces for creative, testing, and privacy purposes.",
+            "icon": "/logo/fakeface.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Alpha3D",
+            "slug": "alpha3d",
+            "description": "Alpha3D is an AI-driven platform that allows users to generate high-quality 3D models from 2D images or text prompts for applications in AR, VR, gaming, and design.",
+            "icon": "/logo/www.alpha3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "974",
+            "name": "Archivinci",
+            "slug": "archivinci",
+            "description": "Archivinci is an AI-powered platform that transforms architectural sketches and ideas into professional renders and designs.",
+            "icon": "/logo/www.archivinci.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "MyArchitectAI",
+            "slug": "myarchitectai",
+            "description": "MyArchitectAI is an AI-driven platform that transforms sketches, ideas, and descriptions into photorealistic architectural renders and designs quickly and efficiently.",
+            "icon": "/logo/www.myarchitectai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1373",
+            "name": "Serif.ai",
+            "slug": "serif-ai",
+            "description": "Serif.ai is an AI-powered platform specializing in typography and creative design tools for generating and editing fonts, graphics, and visual elements.",
+            "icon": "/logo/www.serif.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1016",
+            "name": "Sloyd",
+            "slug": "sloyd-ai",
+            "description": "Sloyd is an AI-powered platform that enables users to generate high-quality 3D models instantly from text prompts, streamlining creative workflows for designers and developers.",
+            "icon": "/logo/www.sloyd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1053",
+            "name": "OCMaker",
+            "slug": "ocmaker",
+            "description": "OCMaker is an AI-powered platform that enables users to create and customize original characters for stories, games, and art.",
+            "icon": "/logo/www.ocmaker.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1062",
+            "name": "Kive",
+            "slug": "kive-ai",
+            "description": "Kive is an AI-powered platform that helps creatives organize, search, and collaborate on visual assets like images and videos.",
+            "icon": "/logo/kive.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1068",
+            "name": "CodeDesign.ai",
+            "slug": "codedesign-ai",
+            "description": "CodeDesign.ai is an AI-powered platform that enables users to effortlessly build, customize, and deploy professional websites without coding skills.",
+            "icon": "/logo/codedesign.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1088",
+            "name": "Kombai",
+            "slug": "kombai",
+            "description": "Kombai is an AI-powered tool that converts Figma designs into high-quality, production-ready front-end code to streamline web development.",
+            "icon": "/logo/kombai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1182",
+            "name": "Neighborbrite",
+            "slug": "neighborbrite",
+            "description": "Neighborbrite is an AI-powered platform that enables users to design and visualize their dream gardens easily by uploading a yard photo and customizing styles and elements.",
+            "icon": "/logo/neighborbrite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1199",
+            "name": "RoomAI",
+            "slug": "roomai",
+            "description": "RoomAI is an AI-driven platform that enables users to generate and visualize interior design ideas for rooms based on uploaded photos and preferences.",
+            "icon": "/logo/roomai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1208",
+            "name": "SmythOS",
+            "slug": "smythos",
+            "description": "SmythOS is an AI operating system that empowers users to visually build, deploy, and manage AI agents and workflows without extensive coding.",
+            "icon": "/logo/smythos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1209",
+            "name": "Luw.ai",
+            "slug": "luw-ai",
+            "description": "Luw.ai is an AI-powered platform that revolutionizes home design by providing tools for instant interior and exterior visualizations and transformations.",
+            "icon": "/logo/luw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1367",
+            "name": "ImgFX",
+            "slug": "imgfx",
+            "description": "ImgFX is an AI-powered platform for generating and editing images with advanced effects and creative tools.",
+            "icon": "/logo/imgfx.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "ImaginePro",
+            "slug": "imaginepro-ai",
+            "description": "ImaginePro is an AI-powered platform that enables users to generate high-quality images and designs for professional and creative purposes.",
+            "icon": "/logo/www.imaginepro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1268",
+            "name": "Redesignr",
+            "slug": "redesignr-ai",
+            "description": "Redesignr.ai is an AI-driven platform that allows users to upload photos of their rooms and generate redesigned interior spaces in various styles.",
+            "icon": "/logo/redesignr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1258",
+            "name": "Madespace",
+            "slug": "madespace-ai",
+            "description": "Madespace is an AI-powered interior design platform that enables users to create, shop for, and get expert help on room designs without needing design skills.",
+            "icon": "/logo/madespace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1297",
+            "name": "Create Anything",
+            "slug": "create-anything",
+            "description": "Create Anything is an AI-powered platform that enables users to generate diverse digital content, from text and images to music and code, using advanced artificial intelligence tools.",
+            "icon": "/logo/www.createanything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1251",
+            "name": "Nano Banana",
+            "slug": "nano-banana",
+            "description": "Nano Banana is an AI-powered image generation and editing platform using Google's Gemini 2.5 Flash Image technology for fast, conversational creative workflows.",
+            "icon": "/logo/nanobanana.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1250",
+            "name": "Nano-Banana",
+            "slug": "nano-banana-ai",
+            "description": "Nano Banana is an advanced AI image editor that transforms images using natural language commands, offering features like character restoration, scene reconstruction, and image fusion.",
+            "icon": "/logo/www.nano-banana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1411",
+            "name": "Grok Imagine Art",
+            "slug": "grok-imagine-art",
+            "description": "Grok Imagine Art is an AI-powered platform for generating and exploring artistic images using advanced generative models.",
+            "icon": "/logo/grok-imagine.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "121",
+            "name": "WizGenerator",
+            "slug": "wizgenerator",
+            "description": "WizGenerator offers a suite of free AI-powered tools for creating diverse content, from text to images, for personal and professional use.",
+            "icon": "/logo/wizgenerator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1306",
+            "name": "Nano Banana",
+            "slug": "nanobanana-ai",
+            "description": "Nano Banana is an advanced AI image editor that enables users to edit and generate photorealistic images using natural language prompts.",
+            "icon": "/logo/nanobanana.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "129",
+            "name": "Moonvalley",
+            "slug": "moonvalley",
+            "description": "Moonvalley is an AI research lab creating tools for high-definition video generation for filmmakers and creative professionals.",
+            "icon": "/logo/www.moonvalley.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-design-generator"
+            ]
+        },
+        {
+            "id": "1224",
+            "name": "String Art Generator",
+            "slug": "string-art-generator",
+            "description": "An online platform that transforms uploaded images into customizable string art patterns with professional results instantly.",
+            "icon": "/logo/stringartgenerator.tech.webp",
+            "isFree": false,
+            "categories": [
+                "ai-design-generator"
+            ]
+        }
+    ]
+}

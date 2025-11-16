@@ -1,0 +1,62 @@
+{
+    "name": "AISEO",
+    "description": "AISEO is an AI-powered platform designed to create SEO-optimized, human-like content for blogs, marketing, and more.",
+    "longDescription": "AISEO is an AI-driven writing assistant that empowers content creators, marketers, and businesses to generate high-quality, SEO-optimized content efficiently. Leveraging advanced algorithms like GPT-4 and NLP, it produces undetectable, plagiarism-free content tailored to enhance search engine rankings. The platform supports a wide range of users, including bloggers, SEO specialists, and entrepreneurs, by streamlining content creation processes. Its mission is to save time while maintaining authenticity and boosting online visibility. AISEO also offers tools for paraphrasing, readability improvement, and image generation, making it a versatile solution for digital content needs. By integrating real-time SEO insights and multilingual support, it helps users scale their content strategy globally.",
+    "url": "https://www.aiseo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aiseo.ai.webp",
+    "category": "AI SEO Tools",
+    "categorySlug": "ai-seo-tools",
+    "slug": "aiseo",
+    "categories": [
+        "AI SEO Tools",
+        "AI Writing",
+        "AI Paraphraser",
+        "AI Translate",
+        "AI Image Generator",
+        "Bypass AI"
+    ],
+    "features": [
+        "AI Content Generator creates SEO-optimized articles and blogs with minimal input, saving time and enhancing visibility.",
+        "SEO Optimization uses real-time keyword suggestions and SERP analysis to improve content rankings on search engines.",
+        "Humanize AI Content transforms AI-generated text to bypass detection tools, ensuring natural and authentic output.",
+        "Multilingual Support generates and optimizes content in 26+ languages, enabling global reach for blogs and e-commerce.",
+        "Readability Improver simplifies complex text to achieve Grade 8 readability, reducing bounce rates and boosting engagement.",
+        "Blog Image Generator creates SEO-friendly visuals with AI-generated alt-text to complement written content.",
+        "Paraphrasing Tool rewrites content to maintain originality while preserving tone and meaning for diverse use cases.",
+        "Chrome Extension provides quick access to AI writing tools, enhancing efficiency across various platforms."
+    ],
+    "faqs": [
+        {
+            "question": "What is AISEO used for?",
+            "answer": "AISEO is used to generate SEO-optimized, human-like content for blogs, marketing copy, and more, helping users improve search engine rankings and productivity."
+        },
+        {
+            "question": "Does AISEO offer a free plan?",
+            "answer": "Yes, AISEO provides a free plan with 5 daily credits for small content tasks, allowing users to explore its features without upfront costs."
+        },
+        {
+            "question": "Can AISEO content pass AI detection tools?",
+            "answer": "AISEO's Humanize AI Content feature transforms AI-generated text to appear natural, effectively bypassing most AI detection tools."
+        },
+        {
+            "question": "What languages does AISEO support?",
+            "answer": "AISEO supports content creation and optimization in over 26 languages, adapting to regional idioms for global audiences."
+        },
+        {
+            "question": "How does AISEO help with SEO?",
+            "answer": "AISEO integrates real-time keyword suggestions, SERP analysis, and content structuring to create SEO-friendly content that ranks higher on search engines."
+        },
+        {
+            "question": "Is AISEO suitable for beginners?",
+            "answer": "Yes, AISEO's user-friendly interface makes it accessible for novices, while its advanced features cater to experienced content creators."
+        },
+        {
+            "question": "Can AISEO generate images for blogs?",
+            "answer": "AISEO's Blog Image Generator creates SEO-optimized visuals with branded styling and alt-text to enhance blog performance."
+        },
+        {
+            "question": "What are the pricing options for AISEO?",
+            "answer": "AISEO offers plans starting at $19/month (Grow), $34/month (Scale), $79/month (Team), and a 7-day free trial with 60 credits."
+        }
+    ]
+}

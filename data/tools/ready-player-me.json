@@ -1,0 +1,65 @@
+{
+    "name": "Ready Player Me",
+    "description": "Ready Player Me is a cross-platform avatar creation platform that enables developers to integrate customizable 3D avatars into games and apps.",
+    "longDescription": "Ready Player Me is a leading avatar platform designed to simplify the integration of high-quality, customizable 3D avatars into games, apps, and virtual experiences across platforms like Unity, Unreal Engine, and web-based stacks. Its mission is to create a seamless, interoperable avatar ecosystem that enhances user engagement and retention by allowing players to carry their digital identities across multiple games and applications. The platform solves complex challenges like asset compatibility, optimization, and cross-platform functionality, enabling developers to focus on creating engaging experiences without rebuilding avatar systems from scratch. By offering tools like SDKs, APIs, and AI-powered asset creation, Ready Player Me empowers developers to build immersive, personalized user experiences while also providing monetization opportunities through avatar cosmetics. Trusted by over 25,000 developers, it supports a vision of an open gaming economy where digital identities and assets are portable.",
+    "url": "https://readyplayer.me/?utm_source=ainavdir",
+    "screenshot": "/screenshot/readyplayer.me.webp",
+    "category": "AI Avatar Generator",
+    "categorySlug": "ai-avatar-generator",
+    "slug": "ready-player-me",
+    "categories": [
+        "AI Avatar Generator",
+        "AI Texture Generator",
+        "AI Content Detector",
+        "AI Game Generator",
+        "AI Animation Generator",
+        "AI Affiliate Marketing",
+        "AI For Finance"
+    ],
+    "features": [
+        "The Avatar Creator allows users to design fully customizable 3D avatars with thousands of free customization options, enhancing player personalization.",
+        "Cross-platform SDKs for Unity, Unreal Engine, and web enable seamless avatar integration into games and apps, saving developers months of development time.",
+        "The Avatar API supports embedding avatar creators directly into game or app UI, offering full control over appearance and behavior for a tailored user experience.",
+        "AI-powered UGC tools enable creators to generate avatar assets and textures from reference images, streamlining content creation for developers and players.",
+        "The Player Zero SDK facilitates cross-game avatar interoperability, allowing players to bring paid cosmetics into multiple games for increased engagement.",
+        "Asset Manager 2.0 provides a centralized UI for managing and customizing avatar assets, ensuring they align with a game’s art style and technical requirements.",
+        "The platform supports Meta Movement SDK for full-body, eye, and facial tracking, enhancing XR and VR avatar experiences with realistic animations.",
+        "Body shape customization offers users four body type options, providing greater inclusivity and personalization in avatar creation.",
+        "Animation retargeting tools allow developers to apply animations, such as UE5 Mannequin or Mixamo, to Ready Player Me avatars for consistent performance.",
+        "The Developer Studio enables unified management of assets and live operations, simplifying updates and content uploads for avatar creators."
+    ],
+    "faqs": [
+        {
+            "question": "What is Ready Player Me used for?",
+            "answer": "Ready Player Me is a platform that allows developers to integrate customizable 3D avatars into games, apps, and virtual experiences, enhancing user engagement and personalization."
+        },
+        {
+            "question": "Is Ready Player Me free to use?",
+            "answer": "Yes, Ready Player Me offers free access to its core avatar creation and integration tools, though some advanced features or monetization options may require a paid plan."
+        },
+        {
+            "question": "Which platforms does Ready Player Me support?",
+            "answer": "It supports Unity, Unreal Engine, web-based stacks, iOS, Android, and VR/XR platforms like Meta Quest, ensuring broad compatibility."
+        },
+        {
+            "question": "Can players create their own avatars?",
+            "answer": "Yes, players can use the Avatar Creator to design personalized 3D avatars with thousands of customization options, including hairstyles, outfits, and accessories."
+        },
+        {
+            "question": "How does Ready Player Me handle cross-platform avatars?",
+            "answer": "The platform uses SDKs and APIs to ensure avatars are optimized and compatible across different game engines, platforms, and art styles."
+        },
+        {
+            "question": "Does Ready Player Me support user-generated content?",
+            "answer": "Yes, its AI-powered UGC tools allow creators to generate textures and assets from reference images, simplifying custom content creation."
+        },
+        {
+            "question": "Can developers monetize avatars with Ready Player Me?",
+            "answer": "Yes, developers can earn revenue through avatar cosmetic sales via the Player Zero rewards pool, enabling new monetization streams."
+        },
+        {
+            "question": "Is Ready Player Me suitable for VR applications?",
+            "answer": "Yes, it supports VR/XR experiences with features like Meta Movement SDK for full-body and facial tracking, ideal for immersive applications."
+        }
+    ]
+}

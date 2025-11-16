@@ -1,0 +1,61 @@
+{
+    "name": "Noctie.ai",
+    "description": "Noctie.ai is an AI-powered chess learning platform that provides personalized, interactive training to help users improve their chess skills at any level.",
+    "longDescription": "Noctie.ai is an innovative artificial intelligence platform designed specifically for chess education, acting as a virtual tutor that adapts to individual user needs. Its mission is to make high-quality chess coaching accessible to everyone, regardless of location or budget, by leveraging AI to deliver customized lessons and feedback. The platform addresses common challenges in chess learning, such as lack of personalized guidance and flexible practice opportunities, by simulating real coaching sessions through interactive exercises and analysis. Users benefit from AI-driven insights that help them understand mistakes, learn strategies, and track progress over time. Overall, Noctie.ai transforms traditional chess training into an engaging, efficient, and user-centric experience.",
+    "url": "https://noctie.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/noctie.ai.webp",
+    "category": "AI Coaching",
+    "categorySlug": "ai-coaching",
+    "slug": "noctie-ai",
+    "categories": [
+        "AI Coaching",
+        "AI Language Learning",
+        "AI Game Generator"
+    ],
+    "features": [
+        "Personalized lesson plans that adapt to the user's skill level and learning pace, ensuring targeted improvement in chess abilities.",
+        "Interactive chess puzzles and exercises designed to build strategic thinking and problem-solving skills.",
+        "Real-time feedback on moves and gameplay, helping users understand errors and optimal strategies instantly.",
+        "AI-powered opponent simulation for practice games, allowing users to test skills against adaptive virtual players.",
+        "Progress tracking and analytics dashboard that visualizes improvement over time and identifies areas for focus.",
+        "Opening repertoire builder that teaches and reinforces popular chess openings with guided practice.",
+        "Endgame training modules that focus on critical techniques for closing games effectively.",
+        "Daily challenges and quizzes to keep users engaged and reinforce learned concepts consistently.",
+        "Integration with chess notation for reviewing games and learning from historical matches.",
+        "Mobile-friendly interface for learning chess on the go with seamless cross-device synchronization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Noctie.ai?",
+            "answer": "Noctie.ai is an AI-driven platform that serves as a virtual chess tutor, offering personalized lessons and interactive training to help users improve their chess skills. It uses advanced algorithms to adapt to individual learning styles and provide targeted feedback."
+        },
+        {
+            "question": "Is Noctie.ai suitable for beginners?",
+            "answer": "Yes, Noctie.ai is ideal for beginners as it starts with basic concepts and gradually increases difficulty based on user progress. The platform provides step-by-step guidance and simple explanations to build a strong foundation in chess."
+        },
+        {
+            "question": "How does the AI personalization work?",
+            "answer": "The AI analyzes your gameplay, mistakes, and strengths to create customized lesson plans and recommendations. It adapts in real-time during sessions to focus on areas needing improvement, making learning more efficient."
+        },
+        {
+            "question": "Does Noctie.ai offer free access?",
+            "answer": "Yes, Noctie.ai provides a free plan with access to core features like basic lessons and puzzles. Premium features, such as advanced analytics and unlimited practice, require a subscription."
+        },
+        {
+            "question": "Can I practice against the AI?",
+            "answer": "Absolutely, Noctie.ai includes an AI opponent that adjusts its difficulty to match your skill level. This allows for realistic practice games anytime, helping you apply learned strategies in a simulated environment."
+        },
+        {
+            "question": "How does Noctie.ai track my progress?",
+            "answer": "The platform uses a dashboard to monitor your performance metrics, such as win rates, puzzle completion, and skill improvements over time. It provides insights and suggestions to guide your ongoing development."
+        },
+        {
+            "question": "Is there a mobile app for Noctie.ai?",
+            "answer": "Noctie.ai is accessible via web browsers on mobile devices, offering a responsive interface for on-the-go learning. A dedicated app may be in development, but currently, all features are available through the website."
+        },
+        {
+            "question": "What makes Noctie.ai different from other chess apps?",
+            "answer": "Unlike traditional chess apps, Noctie.ai focuses on AI-powered personalized coaching rather than just gameplay. It emphasizes education with adaptive lessons, making it more like a personal tutor than a simple game simulator."
+        }
+    ]
+}

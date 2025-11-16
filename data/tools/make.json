@@ -1,0 +1,74 @@
+{
+    "name": "Make",
+    "description": "Make is a no-code automation platform that enables users to connect apps, automate workflows, and streamline business processes without coding expertise.",
+    "longDescription": "Make, formerly known as Integromat, is a powerful automation tool designed to help individuals and businesses integrate various applications and services to automate repetitive tasks. Its mission is to empower users to build complex workflows efficiently, saving time and reducing manual effort in daily operations. The platform serves users by providing a visual interface for creating scenarios that trigger actions across connected apps, such as syncing data between tools like Google Sheets and Slack. It solves problems related to inefficiency in business processes by allowing seamless data transfer and automation of multi-step operations. Make caters to a wide range of users, from small businesses to enterprises, offering scalability and customization to fit diverse needs. Overall, it democratizes automation technology, making it accessible to non-technical users while supporting advanced integrations for developers.",
+    "url": "https://www.make.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.make.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "make",
+    "categories": [
+        "AI Assistant",
+        "AI Workflow",
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Task Management",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Visual scenario builder allows users to drag and drop modules to create automated workflows without writing code, simplifying complex integrations.",
+        "App integrations with over 1,000 services enable seamless connections between tools like email, CRM, and social media platforms for efficient data flow.",
+        "Real-time data processing ensures that automations run instantly upon triggers, providing timely responses to events like new form submissions.",
+        "Error handling and debugging tools help users identify and fix issues in workflows, minimizing downtime and ensuring reliable operations.",
+        "Custom functions and iterators allow for advanced data manipulation, such as looping through arrays or applying filters to process information dynamically.",
+        "Scheduling capabilities let users set automations to run at specific times or intervals, automating routine tasks like daily reports.",
+        "Team collaboration features enable multiple users to work on scenarios together, with version control and sharing options for better productivity.",
+        "AI-powered modules integrate with services like OpenAI to add intelligent capabilities, such as text generation or data analysis within workflows.",
+        "Data mapping tools simplify transforming data formats between apps, ensuring compatibility and accuracy in transfers.",
+        "Webhook support allows external services to trigger Make scenarios, facilitating real-time integrations with custom applications.",
+        "Usage analytics provide insights into automation performance, helping users optimize scenarios for efficiency and cost-effectiveness.",
+        "Mobile app access lets users monitor and manage automations on the go, ensuring control from anywhere."
+    ],
+    "faqs": [
+        {
+            "question": "What is Make used for?",
+            "answer": "Make is used to automate workflows by connecting different apps and services, allowing users to streamline tasks like data syncing or notifications without coding. It helps businesses save time on repetitive processes."
+        },
+        {
+            "question": "Does Make have a free plan?",
+            "answer": "Yes, Make offers a free plan with limited operations and connections, suitable for individuals or small projects to test the platform's capabilities."
+        },
+        {
+            "question": "How does Make differ from Zapier?",
+            "answer": "Make provides more advanced features like iterators and aggregators for complex workflows, while Zapier is simpler for basic automations. Make also often offers better pricing for high-volume users."
+        },
+        {
+            "question": "Can I integrate Make with AI tools?",
+            "answer": "Yes, Make supports integrations with AI services like OpenAI, allowing users to incorporate AI functions such as text generation or sentiment analysis into their automations."
+        },
+        {
+            "question": "Is coding required to use Make?",
+            "answer": "No, Make is a no-code platform with a visual interface, though it supports custom code for advanced users if needed."
+        },
+        {
+            "question": "What kind of support does Make offer?",
+            "answer": "Make provides documentation, community forums, and premium support options, including live chat and dedicated account managers for enterprise users."
+        },
+        {
+            "question": "How secure is Make for handling data?",
+            "answer": "Make uses encryption, complies with GDPR, and offers features like data residency options to ensure secure data handling and privacy."
+        },
+        {
+            "question": "Can Make handle large-scale automations?",
+            "answer": "Yes, Make is scalable with enterprise plans that support high volumes of operations, making it suitable for large businesses."
+        },
+        {
+            "question": "What apps can I connect with Make?",
+            "answer": "Make integrates with over 1,000 apps, including Google Workspace, Microsoft Office, Slack, Salesforce, and many more."
+        },
+        {
+            "question": "How do I get started with Make?",
+            "answer": "Sign up for a free account, explore templates, and use the visual builder to create your first scenario by connecting apps."
+        }
+    ]
+}

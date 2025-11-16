@@ -1,0 +1,73 @@
+{
+    "name": "Extra Thursday",
+    "description": "Extra Thursday is a voice-first AI assistant designed to manage emails, plan daily schedules, and handle administrative tasks efficiently.",
+    "longDescription": "Extra Thursday is an AI-powered voice assistant that revolutionizes email management and daily planning by allowing users to interact via voice commands instead of typing. Its mission is to boost productivity by enabling users to clear their inboxes, draft responses, and follow up on important threads while multitasking, such as commuting or walking. The platform solves the problem of time-consuming email grunt work, particularly for professionals like salespeople who need to stay on top of leads and urgent communications. By integrating with Gmail and working across devices, it provides a hands-free experience that aligns with the speed of thought and speech. This AI tool aims to transform administrative tasks into seamless, efficient processes, freeing users to focus on more critical aspects of their work and life.",
+    "url": "https://www.extrathursday.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.extrathursday.com.webp",
+    "category": "AI Voice Assistants",
+    "categorySlug": "ai-voice-assistants",
+    "slug": "extra-thursday",
+    "categories": [
+        "AI Voice Assistants",
+        "AI Email Assistant",
+        "AI Calendar",
+        "AI Assistant",
+        "AI Lead Generation",
+        "AI Workflow",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Voice commands enable quick triage of emails, identifying urgent messages and summarizing inbox content.",
+        "Users can draft email responses verbally, with the AI understanding context and generating appropriate replies.",
+        "Automatic follow-up on email threads and leads prevents them from going cold, enhancing sales and communication efficiency.",
+        "Daily planning features help organize schedules and handle admin tasks hands-free during commutes or other activities.",
+        "Seamless integration with Gmail allows easy connection and operation on any device without commitments.",
+        "Asynchronous workflows automatically manage inboxes overnight, providing clean inboxes with ready drafts and summaries each morning.",
+        "Custom premium voices from providers like ElevenLabs and Cartesia are available in paid plans for personalized experiences.",
+        "Increased usage limits and priority email support ensure reliable performance for heavy users.",
+        "Context-aware AI handles complex queries like following up on specific funnel stages or threads from previous periods.",
+        "No-commitment trial allows users to test the assistant's capabilities before subscribing to advanced features."
+    ],
+    "faqs": [
+        {
+            "question": "What is Extra Thursday?",
+            "answer": "Extra Thursday is a voice AI assistant that manages email tasks and daily planning through verbal commands, helping users clear inboxes and handle admin work efficiently."
+        },
+        {
+            "question": "How do I get started with Extra Thursday?",
+            "answer": "Connect your Gmail account via the app at extrathursday.app, and start using voice commands on any device. It's easy and requires no commitment to try."
+        },
+        {
+            "question": "Is Extra Thursday free to use?",
+            "answer": "Yes, there is a free plan ideal for testing with default voice and email support, though limits may vary. Paid plans offer increased limits and premium features."
+        },
+        {
+            "question": "What email providers does Extra Thursday support?",
+            "answer": "Currently, it connects to Gmail, with potential expansions in the future based on user feedback."
+        },
+        {
+            "question": "Can Extra Thursday work on my phone?",
+            "answer": "Yes, it works on any device, allowing hands-free operation during commutes, walks, or other activities."
+        },
+        {
+            "question": "What are the benefits for sales professionals?",
+            "answer": "It helps catch and follow up on leads automatically, keeps sales funnels moving, and manages urgent threads to prevent opportunities from slipping away."
+        },
+        {
+            "question": "Does Extra Thursday offer custom voices?",
+            "answer": "Paid plans include options for premium custom voices from ElevenLabs and Cartesia, enhancing the user experience."
+        },
+        {
+            "question": "What upcoming features are planned?",
+            "answer": "Asynchronous workflows are coming soon, where the AI works 24/7 to prepare drafts, summaries, and follow-ups overnight."
+        },
+        {
+            "question": "How does Extra Thursday handle privacy?",
+            "answer": "It securely connects to your email and processes commands with a focus on user data protection, though specific details are available in the privacy policy."
+        },
+        {
+            "question": "Can I use text input along with voice?",
+            "answer": "While primarily voice-first, user feedback suggests potential hybrid modes; currently, it's optimized for voice interactions."
+        }
+    ]
+}

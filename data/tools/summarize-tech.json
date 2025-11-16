@@ -1,0 +1,73 @@
+{
+    "name": "Summarize.tech",
+    "description": "Summarize.tech is an AI-powered platform that generates concise text summaries of YouTube videos to help users quickly extract key insights.",
+    "longDescription": "Summarize.tech is a free online tool that utilizes artificial intelligence, specifically GPT-based models, to create automated summaries of YouTube videos. Its mission is to save users time by distilling lengthy video content into digestible key points, making it easier to consume information without watching entire videos. The platform addresses challenges like information overload and time constraints faced by students, researchers, professionals, and casual viewers. By analyzing video transcripts, it produces accurate, coherent summaries that highlight main ideas, arguments, and conclusions. This service promotes efficient learning and productivity by enabling quick overviews of educational, tutorial, or informational videos.",
+    "url": "https://www.summarize.tech/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.summarize.tech.webp",
+    "category": "AI Video Summarizer",
+    "categorySlug": "ai-video-summarizer",
+    "slug": "summarize-tech",
+    "categories": [
+        "AI Video Summarizer",
+        "AI Youtube Summary",
+        "AI Summarizer",
+        "AI Homework Helper",
+        "AI Productivity Tools",
+        "AI Article Summarizer",
+        "AI Research Tool",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Users can generate summaries by simply pasting a YouTube video URL, providing instant access to key content without watching the full video.",
+        "The AI analyzes video transcripts to extract and organize main points, highlights, and conclusions into a structured summary.",
+        "Offers customizable summary lengths, allowing users to choose between brief overviews or more detailed breakdowns based on their needs.",
+        "Supports a wide range of video types, including lectures, tutorials, podcasts, and talks, making it versatile for various users.",
+        "Provides free, unlimited access with no registration required, ensuring quick and hassle-free usage.",
+        "Integrates advanced natural language processing to deliver summaries in clear, natural English for better readability.",
+        "Allows users to easily copy, share, or save generated summaries for later reference or collaboration.",
+        "Updates summaries dynamically if video content changes, ensuring accuracy over time.",
+        "Features a simple, intuitive interface that requires no technical expertise to operate effectively."
+    ],
+    "faqs": [
+        {
+            "question": "What is Summarize.tech?",
+            "answer": "Summarize.tech is an AI-driven website that creates text summaries of YouTube videos. It uses advanced language models to analyze transcripts and generate concise overviews."
+        },
+        {
+            "question": "How do I use Summarize.tech?",
+            "answer": "Simply visit the website, paste the URL of a YouTube video into the input field, and click summarize. The AI will process the video and display the summary shortly after."
+        },
+        {
+            "question": "Is Summarize.tech free to use?",
+            "answer": "Yes, Summarize.tech is completely free with no limits on the number of summaries you can generate. There are no hidden fees or subscription requirements."
+        },
+        {
+            "question": "What types of videos can be summarized?",
+            "answer": "It works with most YouTube videos that have transcripts, including educational lectures, tutorials, interviews, and talks. However, videos without subtitles or transcripts may not be summarizable."
+        },
+        {
+            "question": "How accurate are the summaries?",
+            "answer": "The summaries are generated using GPT technology, which aims for high accuracy by capturing key points. Accuracy depends on the video's transcript quality, and users should verify critical information."
+        },
+        {
+            "question": "Can I customize the summary length?",
+            "answer": "Yes, the platform allows users to select different summary depths, from short bullet points to more comprehensive paragraphs."
+        },
+        {
+            "question": "Does it support languages other than English?",
+            "answer": "Currently, summaries are generated in English, but it can process videos in other languages if they have English transcripts. Full multilingual support may be added in the future."
+        },
+        {
+            "question": "Is there a mobile app for Summarize.tech?",
+            "answer": "No, it's a web-based tool accessible via browsers on any device, including mobiles. No dedicated app is available yet."
+        },
+        {
+            "question": "How does the AI generate summaries?",
+            "answer": "The AI uses natural language processing to parse the video's transcript, identify important sections, and condense them into a coherent summary."
+        },
+        {
+            "question": "Can I summarize private YouTube videos?",
+            "answer": "No, only publicly available YouTube videos with accessible transcripts can be summarized. Private or restricted videos are not supported."
+        }
+    ]
+}

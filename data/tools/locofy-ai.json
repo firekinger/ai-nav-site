@@ -1,0 +1,73 @@
+{
+    "name": "Locofy",
+    "description": "Locofy.ai converts Figma and Adobe XD designs into production-ready frontend code, accelerating web and mobile app development.",
+    "longDescription": "Locofy.ai is an AI-powered platform designed to streamline frontend development by transforming Figma and Adobe XD designs into high-quality, developer-friendly code for web and mobile applications. Its mission is to enable builders, including designers and developers, to ship products up to 10 times faster without altering their existing workflows or tech stacks. By leveraging its proprietary Large Design Models (LDMs), Locofy automates repetitive coding tasks, producing responsive, modular, and pixel-perfect code. The platform integrates seamlessly with popular design tools and supports multiple frameworks like React, React Native, and Next.js. It empowers teams to focus on business logic and complex problem-solving by reducing manual coding efforts. Locofy also fosters collaboration through features like live prototypes and GitHub integration, making it a valuable tool for startups and enterprises alike.",
+    "url": "https://www.locofy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.locofy.ai.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "locofy-ai",
+    "categories": [
+        "AI Design Assistant",
+        "AI Code Generator",
+        "AI Web Scraping",
+        "AI Github",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Converts Figma and Adobe XD designs into production-ready code, enabling rapid app development.",
+        "Supports multiple frameworks including React, React Native, HTML/CSS, Next.js, Vue, and Gatsby for flexible integration.",
+        "Generates responsive, component-based code that adapts seamlessly to various screen sizes.",
+        "Provides live, interactive prototypes running on actual code for real-time design feedback.",
+        "Allows tagging of design elements like buttons and inputs to add interactivity without manual coding.",
+        "Integrates with GitHub and VS Code for seamless code syncing and collaboration.",
+        "Offers direct deployment options through Netlify and Vercel for quick launches.",
+        "Supports popular UI libraries like Material UI, Bootstrap, and Tailwind CSS for consistent design systems.",
+        "Enables data binding and state management to create dynamic, backend-integrated components.",
+        "Reduces CSS redundancies by automatically combining similarly styled elements for cleaner code.",
+        "Provides a Figma plugin for converting designs directly within the design tool interface.",
+        "Allows customization of responsive behavior to ensure designs work across different devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Locofy.ai used for?",
+            "answer": "Locofy.ai converts Figma and Adobe XD designs into production-ready frontend code, helping developers and designers build web and mobile apps faster."
+        },
+        {
+            "question": "Which design tools does Locofy support?",
+            "answer": "Locofy supports Figma and Adobe XD, with plugins that integrate directly into these tools for seamless design-to-code conversion."
+        },
+        {
+            "question": "What frameworks can Locofy generate code for?",
+            "answer": "Locofy generates code for React, React Native, HTML/CSS, Next.js, Vue, Gatsby, and more, supporting diverse development needs."
+        },
+        {
+            "question": "Is Locofy free to use?",
+            "answer": "Locofy offers a free beta version with core features, though some advanced functionalities may require a paid plan."
+        },
+        {
+            "question": "How does Locofy ensure code quality?",
+            "answer": "Locofy uses AI to produce clean, modular, and responsive code, but users should review and test it before production deployment."
+        },
+        {
+            "question": "Can I deploy code directly from Locofy?",
+            "answer": "Yes, Locofy supports direct deployment through integrations with Netlify, Vercel, and GitHub Pages."
+        },
+        {
+            "question": "Does Locofy support live prototypes?",
+            "answer": "Yes, Locofy generates live, responsive prototypes that run on actual code, allowing real-time visualization of designs."
+        },
+        {
+            "question": "Can I use my existing design system with Locofy?",
+            "answer": "Locofy allows importing custom design systems and supports popular UI libraries like Material UI and Bootstrap."
+        },
+        {
+            "question": "How does Locofy handle responsive design?",
+            "answer": "Locofy lets users tag and customize responsive behavior, ensuring designs adapt seamlessly to different screen sizes."
+        },
+        {
+            "question": "Is manual coding required after using Locofy?",
+            "answer": "While Locofy automates much of the coding, some manual adjustments may be needed to fine-tune the output for production."
+        }
+    ]
+}

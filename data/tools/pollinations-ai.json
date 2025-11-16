@@ -1,0 +1,67 @@
+{
+    "name": "Pollinations.AI",
+    "description": "Pollinations.AI is an open-source platform for generating AI-driven images, text, audio, and videos with a user-friendly API.",
+    "longDescription": "Pollinations.AI is an innovative, open-source platform designed to democratize generative AI, enabling users to create customized images, text, audio, and videos without requiring sign-ups or API keys. Its mission is to empower creativity by providing accessible tools for artists, developers, and businesses to bring their ideas to life. The platform leverages advanced AI models like Stable Diffusion and supports a wide range of creative applications, from digital art to content creation for social media. By prioritizing user privacy and offering seamless integration through its API, Pollinations.AI fosters a collaborative community for exploring AI-driven creativity. It serves a diverse audience, including digital artists, content creators, and developers, by providing an intuitive interface and extensive documentation. The platform’s open-source nature encourages continuous improvement through community contributions.",
+    "url": "https://pollinations.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pollinations.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "pollinations-ai",
+    "categories": [
+        "AI Image Generator",
+        "Text to Image",
+        "AI Text-to-Speech",
+        "AI Video Generator",
+        "Open Source AI Models",
+        "AI Creative Writing",
+        "AI API",
+        "AI Writing",
+        "Text to Video"
+    ],
+    "features": [
+        "Text-to-image generation creates high-quality visuals from simple prompts, ideal for artists and designers.",
+        "Text-to-speech functionality converts text into natural-sounding audio, enhancing multimedia projects.",
+        "Video generation transforms static images into animated slideshows or 3D videos for dynamic content creation.",
+        "Open-source API allows developers to integrate AI generation into custom applications without API keys.",
+        "Stable Diffusion model enhances image quality, revealing hidden details for professional-grade visuals.",
+        "Dolly Mini model generates humorous memes, perfect for social media engagement.",
+        "Photo3DWillit model converts 2D images into immersive 3D videos for unique visual experiences.",
+        "No sign-up requirement ensures quick access to AI tools, prioritizing user privacy and convenience.",
+        "Community-driven platform supports collaboration, allowing users to share and discover AI-generated content.",
+        "Python SDK simplifies integration for developers, enabling seamless image and text generation workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pollinations.AI?",
+            "answer": "Pollinations.AI is an open-source platform that provides free AI tools for generating images, text, audio, and videos using simple prompts and an accessible API."
+        },
+        {
+            "question": "Do I need an account to use Pollinations.AI?",
+            "answer": "No, Pollinations.AI requires no sign-up or API keys, allowing immediate access to its generative AI tools while prioritizing user privacy."
+        },
+        {
+            "question": "What types of content can I create with Pollinations.AI?",
+            "answer": "You can generate images, text, audio, and videos, including memes, 3D videos, and enhanced visuals, using various AI models like Stable Diffusion."
+        },
+        {
+            "question": "Is Pollinations.AI free to use?",
+            "answer": "Yes, Pollinations.AI offers free access to its core features, with no API keys or subscriptions required, though donations support platform maintenance."
+        },
+        {
+            "question": "Can developers integrate Pollinations.AI into their projects?",
+            "answer": "Yes, Pollinations.AI provides a Python SDK and open-source API for seamless integration into custom applications and workflows."
+        },
+        {
+            "question": "What AI models are available on Pollinations.AI?",
+            "answer": "The platform includes models like Stable Diffusion for image enhancement, Dolly Mini for memes, and Photo3DWillit for 3D video generation."
+        },
+        {
+            "question": "How does Pollinations.AI ensure user privacy?",
+            "answer": "Pollinations.AI prioritizes privacy by requiring no personal data or sign-ups and storing zero user data during content generation."
+        },
+        {
+            "question": "Can I collaborate with others on Pollinations.AI?",
+            "answer": "Yes, the platform fosters community collaboration through its Discord server and features for sharing and discovering AI-generated content."
+        }
+    ]
+}

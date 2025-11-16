@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Call Center Tools in 2025",
+    "summary": "Discover the transformative power of AI Call Center tools designed to enhance customer interactions and streamline operations. These innovative solutions automate routine inquiries, improve response times, and provide valuable insights through data analytics, ensuring your team can focus on what truly matters—building relationships. Whether you're a small business or a large enterprise, our curated selection of AI Call Center tools will help you elevate your customer service experience. Explore our collection today and find the perfect solution to meet your needs!",
+    "tools": [
+        {
+            "id": "779",
+            "name": "Bland AI",
+            "slug": "bland-ai",
+            "description": "Bland AI provides a platform for automating phone calls with hyper-realistic AI agents for enterprises.",
+            "icon": "/logo/www.bland.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-call-center"
+            ]
+        },
+        {
+            "id": "873",
+            "name": "PolyAI",
+            "slug": "polyai",
+            "description": "PolyAI is a platform that delivers AI-powered conversational voice assistants to help businesses automate and enhance customer service interactions.",
+            "icon": "/logo/poly.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-call-center"
+            ]
+        },
+        {
+            "id": "1019",
+            "name": "Botnoi AI",
+            "slug": "botnoi-ai",
+            "description": "Botnoi.ai is a leading AI platform in Thailand that provides intelligent chatbots, voice assistants, and AI solutions to enhance customer engagement and business operations.",
+            "icon": "/logo/botnoi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-call-center"
+            ]
+        },
+        {
+            "id": "1036",
+            "name": "Ringflow",
+            "slug": "ringflow",
+            "description": "Ringflow is an AI-powered cloud communication platform that unifies voice, messaging, and video calls to enhance business connectivity, productivity, and customer satisfaction.",
+            "icon": "/logo/www.ringflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-call-center"
+            ]
+        },
+        {
+            "id": "1072",
+            "name": "Trellus",
+            "slug": "trellus-ai",
+            "description": "Trellus is an AI-powered platform that provides real-time coaching to sales teams during cold calls to enhance performance and increase conversion rates.",
+            "icon": "/logo/www.trellus.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-call-center"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "Sayfone",
+            "slug": "sayfone",
+            "description": "Sayfone is an AI-powered platform that enables users to generate realistic synthetic voices for phone calls, messages, and customer service applications.",
+            "icon": "/logo/www.sayfone.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-call-center"
+            ]
+        }
+    ]
+}

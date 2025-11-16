@@ -1,0 +1,57 @@
+{
+    "name": "Cherry Studio",
+    "description": "Cherry Studio is a multi-model AI assistant platform enhancing productivity across iOS, macOS, and Windows.",
+    "longDescription": "Cherry Studio is a versatile AI-powered platform designed to boost productivity for individuals and teams across multiple operating systems, including iOS, macOS, and Windows. It integrates advanced large language models (LLMs) to provide seamless task assistance, from coding to content creation. The platform supports both personal and enterprise use, with a focus on delivering efficient, AI-driven solutions for modern workflows. Cherry Studio aims to empower users by offering a unified interface for accessing multiple AI models, ensuring flexibility and ease of use. Its enterprise edition emphasizes private deployment for secure data handling, catering to businesses with stringent compliance needs.",
+    "url": "https://www.cherry-ai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.cherry-ai.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "cherry-studio",
+    "categories": [
+        "AI Assistant",
+        "Large Language Models (LLMs)",
+        "AI Business Ideas Generator",
+        "AI Project Management",
+        "Open Source AI Models"
+    ],
+    "features": [
+        "Multi-model LLM integration allows users to switch between advanced AI models for tailored task assistance.",
+        "Cross-platform compatibility supports seamless use on iOS, macOS, and Windows devices.",
+        "Enterprise Edition offers private deployment for secure, on-premises AI productivity solutions.",
+        "Centralized model access streamlines interaction with multiple AI models through a single interface.",
+        "Shared knowledge base enables teams to collaborate and store insights for improved efficiency.",
+        "Data backup and recovery mechanisms ensure business continuity for enterprise users.",
+        "Employee management tools facilitate team coordination and access control within the platform.",
+        "Open-source contribution program rewards developers with benefits like subscription credits."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cherry Studio?",
+            "answer": "Cherry Studio is an AI assistant platform that integrates multiple large language models to enhance productivity across iOS, macOS, and Windows for personal and enterprise use."
+        },
+        {
+            "question": "Does Cherry Studio offer a free plan?",
+            "answer": "Cherry Studio does not explicitly offer a free plan; access typically requires a subscription or enterprise licensing, though specific pricing details are available at https://x.ai/grok."
+        },
+        {
+            "question": "Can Cherry Studio be used for enterprise purposes?",
+            "answer": "Yes, the Enterprise Edition supports private deployment, employee management, and secure data handling for business needs."
+        },
+        {
+            "question": "What platforms does Cherry Studio support?",
+            "answer": "Cherry Studio is compatible with iOS, macOS, and Windows, ensuring a consistent experience across devices."
+        },
+        {
+            "question": "How can developers contribute to Cherry Studio?",
+            "answer": "Developers can contribute via GitHub, with incentives like Cursor subscription credits for over 30 meaningful commits in a quarter."
+        },
+        {
+            "question": "Is Cherry Studio secure for sensitive data?",
+            "answer": "The Enterprise Edition offers fully private deployment and robust data backup, ensuring compliance with strict security standards."
+        },
+        {
+            "question": "What types of tasks can Cherry Studio assist with?",
+            "answer": "Cherry Studio supports tasks like coding, content creation, team collaboration, and data analysis through its AI-driven interface."
+        }
+    ]
+}

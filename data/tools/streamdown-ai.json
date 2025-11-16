@@ -1,0 +1,68 @@
+{
+    "name": "Streamdown",
+    "description": "Streamdown is a specialized Markdown renderer designed as a drop-in replacement for react-markdown, optimized for AI-powered streaming with enhanced formatting and security features.",
+    "longDescription": "Streamdown is a standalone library that facilitates the streaming and rendering of Markdown content in AI applications, addressing the challenges of handling incomplete or tokenized inputs. Its mission is to provide developers with a secure, easy-to-use tool that ensures perfectly formatted outputs without manual intervention, making it ideal for real-time AI interfaces. By incorporating plugins for advanced syntax like GFM, math expressions, and diagrams, it enhances the functionality of AI-driven content display. Streamdown powers the AI Elements Response component but can be installed independently for broader use. It solves problems related to prompt injection and unterminated Markdown blocks, promoting safer and more efficient development.",
+    "url": "https://streamdown.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/streamdown.ai.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "streamdown-ai",
+    "categories": [
+        "AI Developer Tools",
+        "AI Math",
+        "AI Diagram Generator",
+        "AI Code Assistant"
+    ],
+    "features": [
+        "Offers built-in Tailwind classes for styling common Markdown elements like headings, lists, and code blocks, providing consistent and visually appealing formatting out of the box.",
+        "Supports GitHub Flavored Markdown (GFM) including task lists and tables, enabling users to render complex Markdown syntax seamlessly in streaming environments.",
+        "Provides interactive code blocks with Shiki syntax highlighting and a copy button, improving code readability and user interaction in technical content.",
+        "Enables rendering of LaTeX mathematical expressions using remark-math and KaTeX, which is particularly useful for educational, scientific, or technical AI applications.",
+        "Supports interactive Mermaid diagrams that stream as code blocks with a render button, allowing for dynamic visualization of charts and flows.",
+        "Parses unterminated Markdown blocks such as headings, inline code, bold, italic, and links, ensuring smooth handling of incomplete streaming inputs.",
+        "Includes security hardening features to prevent prompt injection by restricting image and link origins, enhancing safety in AI-powered applications.",
+        "Allows customizable props for streaming behavior, security settings like allowed URL prefixes, and theme options for code blocks, giving developers flexibility in implementation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Streamdown?",
+            "answer": "Streamdown is a library that serves as a drop-in replacement for react-markdown, specifically optimized for handling Markdown in AI-powered streaming applications with added security and formatting features."
+        },
+        {
+            "question": "How do I install Streamdown?",
+            "answer": "You can install Streamdown via npm using the command 'npm i streamdown' or through the AI Elements package with 'npx ai-elements add response'."
+        },
+        {
+            "question": "Does Streamdown support mathematical expressions?",
+            "answer": "Yes, it supports LaTeX math expressions through integrated plugins like remark-math and KaTeX, allowing for accurate rendering in technical content."
+        },
+        {
+            "question": "Is Streamdown secure for use in AI applications?",
+            "answer": "Yes, it includes built-in security measures to restrict image and link origins, preventing prompt injection and other vulnerabilities in streaming contexts."
+        },
+        {
+            "question": "Can Streamdown handle incomplete Markdown inputs?",
+            "answer": "Absolutely, it is designed to parse unterminated Markdown blocks, making it suitable for real-time streaming where content arrives incrementally."
+        },
+        {
+            "question": "What styling options does Streamdown provide?",
+            "answer": "Streamdown uses built-in Tailwind CSS classes for common Markdown components, ensuring responsive and customizable styling without additional setup."
+        },
+        {
+            "question": "Does Streamdown support Mermaid diagrams?",
+            "answer": "Yes, it renders Mermaid diagrams interactively, streaming them as code blocks with a button to visualize the diagram on demand."
+        },
+        {
+            "question": "Is Streamdown free to use?",
+            "answer": "Yes, it is available for installation via npm without any mentioned costs, making it accessible for developers."
+        },
+        {
+            "question": "What makes Streamdown different from react-markdown?",
+            "answer": "Streamdown extends react-markdown with AI-specific features like streaming support for incomplete inputs and enhanced security, tailored for AI applications."
+        },
+        {
+            "question": "Can I customize the code block themes in Streamdown?",
+            "answer": "Yes, it allows customization of code block themes through props, supporting various Shiki themes for syntax highlighting."
+        }
+    ]
+}

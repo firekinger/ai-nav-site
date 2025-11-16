@@ -1,0 +1,53 @@
+{
+    "name": "TurboLearn AI",
+    "description": "TurboLearn AI provides AI-powered tools to enhance learning through personalized note-taking and study aids.",
+    "longDescription": "TurboLearn AI is an innovative platform designed to streamline the learning process by leveraging artificial intelligence to create personalized study materials. It aims to help students, professionals, and lifelong learners absorb and retain information more effectively through automated note generation and tailored study guides. By analyzing user-uploaded content, such as lecture recordings or documents, the platform generates concise summaries, flashcards, and quizzes. The mission is to make learning faster, more efficient, and accessible to users worldwide. TurboLearn AI addresses challenges like information overload and inefficient study methods, offering a user-friendly solution for academic and professional growth.",
+    "url": "https://www.turbolearn.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.turbolearn.ai.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "turbolearn-ai",
+    "categories": [
+        "AI Language Learning",
+        "AI Notes Generator",
+        "AI Course",
+        "AI Flashcard Maker",
+        "AI Quiz Generator"
+    ],
+    "features": [
+        "Automated note generation creates concise summaries from lectures or documents, saving users time.",
+        "AI-powered flashcards are generated based on key concepts, aiding in quick memorization.",
+        "Personalized quizzes adapt to user performance, reinforcing learning and identifying weak areas.",
+        "Real-time transcription converts audio lectures into text, enabling easy review and study.",
+        "Customizable study guides allow users to organize content based on their learning preferences.",
+        "Multi-format content support accepts PDFs, audio, and text inputs for flexible study material creation.",
+        "Progress tracking provides insights into study habits and improvement areas for better outcomes.",
+        "Cross-platform access ensures users can study on web and mobile devices seamlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can TurboLearn AI process?",
+            "answer": "TurboLearn AI supports audio recordings, PDFs, and text documents, converting them into notes, flashcards, or quizzes."
+        },
+        {
+            "question": "Is there a free plan available for TurboLearn AI?",
+            "answer": "Yes, TurboLearn AI offers a free plan with limited features, allowing users to try core functionalities before upgrading."
+        },
+        {
+            "question": "How does TurboLearn AI personalize study materials?",
+            "answer": "The platform uses AI to analyze user content and performance, tailoring notes, quizzes, and flashcards to individual needs."
+        },
+        {
+            "question": "Can I use TurboLearn AI on my phone?",
+            "answer": "Yes, TurboLearn AI is accessible on both web and mobile devices for convenient studying on the go."
+        },
+        {
+            "question": "Is TurboLearn AI suitable for professional training?",
+            "answer": "Absolutely, it supports professionals by creating study aids for certifications, training materials, and skill development."
+        },
+        {
+            "question": "How secure is my data on TurboLearn AI?",
+            "answer": "TurboLearn AI employs encryption and secure storage to protect user data and ensure privacy."
+        }
+    ]
+}

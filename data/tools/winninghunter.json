@@ -1,0 +1,63 @@
+{
+    "name": "WinningHunter",
+    "description": "WinningHunter is an all-in-one e-commerce spy tool designed to help dropshippers find winning products and ads using advanced competitor tracking and AI-powered search.",
+    "longDescription": "WinningHunter is a comprehensive e-commerce platform tailored for dropshippers, marketers, and online retailers aiming to identify profitable products and optimize their advertising strategies. It provides access to extensive databases of Facebook and TikTok ads, enabling users to analyze competitor campaigns and uncover trending products. The platform’s mission is to streamline product research, saving users time and money by offering actionable insights into ad performance, store revenue, and market trends. With features like AI-driven competitor analysis and seamless product importing, WinningHunter empowers users to make data-driven decisions to grow their businesses. It caters to both beginners and advanced e-commerce professionals, offering tools to track sales, monitor competitors, and enhance marketing efforts efficiently.",
+    "url": "https://winninghunter.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/winninghunter.com.webp",
+    "category": "AI Ad Creative",
+    "categorySlug": "ai-ad-creative",
+    "slug": "winninghunter",
+    "categories": [
+        "AI Ad Creative",
+        "AI Product Description Generator",
+        "AI Sales",
+        "AI Search Engine",
+        "AI Social Media",
+        "AI For Data Analytics",
+        "AI Video Generator"
+    ],
+    "features": [
+        "Access a vast library of over 500,000 Facebook and 100,000 TikTok ads daily to identify high-performing campaigns and products.",
+        "Filter ads by ad spend, ad set amount, media type, and creation date to pinpoint scalable and profitable dropshipping opportunities.",
+        "Use the Sales Tracker to monitor daily revenue and ad spend for products in any store, ensuring informed selling decisions.",
+        "Leverage Magic AI to analyze competitor products and market saturation across multiple countries for strategic product selection.",
+        "Remove watermarks from TikTok Creative Center videos and download them instantly for seamless ad content creation.",
+        "Import products directly to Shopify stores with a few clicks, simplifying the process of adding new items to sell.",
+        "Analyze Shopify stores in real-time to gain insights into competitors’ revenue, products, and apps used.",
+        "Utilize trends analysis to identify winning products before they reach peak popularity, giving users a competitive edge."
+    ],
+    "faqs": [
+        {
+            "question": "What is WinningHunter used for?",
+            "answer": "WinningHunter is an e-commerce spy tool that helps dropshippers and marketers find trending products and ads by analyzing competitor data on platforms like Facebook and TikTok."
+        },
+        {
+            "question": "Does WinningHunter offer a free trial?",
+            "answer": "Yes, WinningHunter provides a free trial, allowing users to explore its features before committing to a paid plan."
+        },
+        {
+            "question": "Can I import products directly to my store?",
+            "answer": "WinningHunter allows seamless product importing to Shopify stores with just a few clicks, streamlining the setup process."
+        },
+        {
+            "question": "How accurate is the Sales Tracker?",
+            "answer": "The Sales Tracker provides up to 98% accurate data on store sales and ad spend, though users should validate critical decisions independently."
+        },
+        {
+            "question": "What platforms does WinningHunter support for ad analysis?",
+            "answer": "WinningHunter supports ad analysis for Facebook, TikTok, and Instagram, with a focus on dropshipping ads."
+        },
+        {
+            "question": "Is WinningHunter suitable for beginners?",
+            "answer": "Yes, WinningHunter’s user-friendly interface and tutorials make it accessible for beginners while offering advanced features for experienced users."
+        },
+        {
+            "question": "Can I track my competitors’ performance?",
+            "answer": "WinningHunter enables real-time tracking of competitors’ store revenue, products, and ad campaigns to inform your strategy."
+        },
+        {
+            "question": "How does the Magic AI feature work?",
+            "answer": "Magic AI analyzes competitor products and market data, helping users identify profitable niches and avoid saturated markets."
+        }
+    ]
+}

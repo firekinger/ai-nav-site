@@ -1,0 +1,79 @@
+{
+    "name": "VideoGen",
+    "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+    "longDescription": "VideoGen is an innovative AI video generation tool designed to simplify and accelerate the video production process for content creators, marketers, educators, and businesses. Founded in 2023 by David Grossman and Anton Koenig, it leverages advanced AI algorithms to automate tasks such as scripting, narration, stock footage selection, and editing, making video creation accessible to users without technical skills. The platform supports over 3 million copyright-free assets and offers realistic text-to-speech in over 40 languages, catering to a global audience. By reducing the time and cost of traditional video production, VideoGen empowers users to produce high-quality, platform-optimized videos for social media, marketing, and educational purposes with just a few clicks. It serves a diverse user base, from individuals to teams at companies like Google and ByteDance, and continues to evolve with features like AI avatars and team collaboration tools. The mission is to democratize video creation, making it fast, affordable, and efficient for all.",
+    "url": "https://videogen.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/videogen.io.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "videogen",
+    "categories": [
+        "AI Video Generator",
+        "Text to Video",
+        "AI Video Editor",
+        "AI Voice Over",
+        "AI Social Media Post Generator",
+        "AI Digital Marketing",
+        "AI Course",
+        "AI Stock Video Generator",
+        "AI Translate",
+        "AI Script Writing",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "One-click video creation allows users to generate professional videos instantly, streamlining the production process.",
+        "Advanced text-to-speech engine provides over 150 unique voices in 40+ languages for realistic and customizable narration.",
+        "Access to a library of over 3 million copyright-free stock videos and images ensures diverse, royalty-free content for projects.",
+        "Automatic video editing uses AI to compile relevant B-roll footage, captions, and music, saving time on manual edits.",
+        "Platform-specific tools optimize videos for TikTok, Instagram Reels, YouTube Shorts, and other social media platforms.",
+        "AI-assisted scriptwriting helps users create compelling video scripts quickly, enhancing content quality.",
+        "Browser-based editing enables seamless video creation and sharing without the need for downloads or installations.",
+        "Customizable templates allow users to tailor videos to their brand or creative vision effortlessly.",
+        "Project sharing and team plans support collaborative video production for businesses and creative teams.",
+        "Integration with iStock provides premium stock footage for enhanced video quality.",
+        "Multilingual support caters to global users with narration and captions in over 120 languages.",
+        "API access enables developers to programmatically generate videos from text or prompts for custom applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is VideoGen used for?",
+            "answer": "VideoGen is used to create and edit professional-quality videos quickly using AI, ideal for social media, marketing, education, and business content."
+        },
+        {
+            "question": "Does VideoGen offer a free plan?",
+            "answer": "Yes, VideoGen offers a free tier with limited features, allowing users to try the platform before upgrading to paid plans."
+        },
+        {
+            "question": "What types of videos can I create with VideoGen?",
+            "answer": "You can create videos for social media (TikTok, Instagram, YouTube), marketing campaigns, educational content, and more, using customizable templates and AI tools."
+        },
+        {
+            "question": "Can I upload my own media to VideoGen?",
+            "answer": "Yes, with upgraded plans, users can upload their own images, clips, and audio to customize their videos."
+        },
+        {
+            "question": "Does VideoGen support multiple languages?",
+            "answer": "VideoGen supports over 40 languages and 150+ voices for text-to-speech narration, making it suitable for global audiences."
+        },
+        {
+            "question": "Is VideoGen suitable for beginners?",
+            "answer": "Yes, VideoGen is designed to be user-friendly, requiring no technical skills to create professional videos."
+        },
+        {
+            "question": "How does VideoGen compare to traditional video editors?",
+            "answer": "Unlike traditional editors that require manual editing, VideoGen automates the process with AI, producing videos in seconds with minimal user effort."
+        },
+        {
+            "question": "Can VideoGen be used for commercial purposes?",
+            "answer": "Yes, VideoGen provides access to royalty-free assets cleared for commercial use, ensuring videos are safe for business applications."
+        },
+        {
+            "question": "Does VideoGen offer team collaboration features?",
+            "answer": "Yes, recent updates include project sharing and team plans to support collaborative video production for organizations."
+        },
+        {
+            "question": "Is there an API available for VideoGen?",
+            "answer": "VideoGen offers an API for developers to programmatically generate professional videos from text or prompts."
+        }
+    ]
+}

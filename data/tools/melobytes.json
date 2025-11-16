@@ -1,0 +1,77 @@
+{
+    "name": "Melobytes",
+    "description": "Melobytes is an innovative online platform providing a wide array of AI-powered tools for creative content generation in music, audio, images, and more.",
+    "longDescription": "Melobytes is a web-based service that leverages artificial intelligence to offer users a collection of creative applications designed for generating and manipulating multimedia content. Its mission is to make advanced AI technology accessible to everyone, enabling users to create music, art, and audio without needing professional skills or expensive software. The platform serves hobbyists, educators, and professionals by solving problems related to content creation, such as composing original songs from text or transforming images with AI effects. By providing these tools for free with optional premium features, Melobytes democratizes creativity and encourages experimentation in digital arts. Users can explore various apps that integrate AI for tasks like voice synthesis, music composition, and visual design, fostering innovation and fun in everyday creative pursuits.",
+    "url": "https://melobytes.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/melobytes.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "melobytes",
+    "categories": [
+        "AI Music Generator",
+        "AI Song Generator",
+        "AI Speech Synthesis",
+        "AI Image Generator",
+        "AI Style Transfer",
+        "AI Creative Writing",
+        "AI Sound Effect Generator",
+        "AI Poem Generator",
+        "AI Video Generator",
+        "AI Rap Generator"
+    ],
+    "features": [
+        "Text to Song allows users to generate original music compositions from inputted text, turning words into melodies with customizable styles and vocals.",
+        "AI Art Generator creates unique images based on user descriptions, offering styles like surrealism or realism to inspire visual creativity.",
+        "Voice Over tool synthesizes natural-sounding speech from text in multiple languages and voices, ideal for video narrations or podcasts.",
+        "Music Style Transfer applies the style of one music piece to another, enabling users to remix tracks in genres like jazz or electronic.",
+        "Image to Music converts visual elements from uploaded images into corresponding soundtracks, bridging visual and auditory arts.",
+        "Voice Changer modifies audio inputs to alter pitch, speed, or add effects, useful for entertainment or audio editing.",
+        "Poem Generator creates rhyming poems from keywords, assisting writers with inspiration and structured verse.",
+        "Sound Effects Library provides AI-generated sounds for various scenarios, enhancing projects with custom audio elements.",
+        "Melody Composer lets users build tunes by selecting notes and instruments, with AI suggestions for harmony.",
+        "Text to Rap transforms written lyrics into rap performances with beats and flow, catering to hip-hop enthusiasts.",
+        "AI Video Creator generates short videos from text prompts, combining visuals, music, and effects automatically."
+    ],
+    "faqs": [
+        {
+            "question": "What is Melobytes primarily used for?",
+            "answer": "Melobytes is used for creating and manipulating multimedia content using AI tools, such as generating music from text or designing AI art. It caters to users interested in creative expression without advanced technical skills."
+        },
+        {
+            "question": "Is Melobytes free to use?",
+            "answer": "Yes, Melobytes offers free access to its core features, though some advanced options or higher usage limits may require a premium subscription. Basic tools are available without any cost."
+        },
+        {
+            "question": "Do I need to register to use the tools?",
+            "answer": "Registration is optional for basic use, but creating an account allows saving projects and accessing additional features. It's quick and free to sign up."
+        },
+        {
+            "question": "What kind of AI technology does Melobytes use?",
+            "answer": "Melobytes employs machine learning models for tasks like neural style transfer, natural language processing for text-to-music, and generative adversarial networks for image creation. These technologies ensure high-quality, creative outputs."
+        },
+        {
+            "question": "Can I download the generated content?",
+            "answer": "Yes, users can download music, images, and audio files generated on the platform. Premium users may have access to higher resolution or ad-free downloads."
+        },
+        {
+            "question": "Is Melobytes suitable for beginners?",
+            "answer": "Absolutely, the interface is user-friendly with simple inputs and presets, making it accessible for beginners while offering depth for experienced users."
+        },
+        {
+            "question": "What languages does the Voice Over tool support?",
+            "answer": "The Voice Over tool supports multiple languages including English, Spanish, French, and more, with various accents and voice styles available."
+        },
+        {
+            "question": "How does the Image to Music feature work?",
+            "answer": "It analyzes colors, shapes, and moods from an uploaded image and generates a matching soundtrack using AI algorithms to compose fitting music."
+        },
+        {
+            "question": "Are there any usage limits on free accounts?",
+            "answer": "Free users may encounter daily generation limits or watermarks on outputs, which can be removed with a premium upgrade."
+        },
+        {
+            "question": "Can I use Melobytes for commercial projects?",
+            "answer": "Yes, generated content can be used commercially, but users should check the terms for any attribution requirements or restrictions on premium features."
+        }
+    ]
+}

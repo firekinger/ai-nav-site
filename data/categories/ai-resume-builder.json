@@ -1,0 +1,281 @@
+{
+    "title": "The Best 26 AI Resume Builder Tools in 2025",
+    "summary": "Unlock your career potential with our AI Resume Builder category! These innovative tools streamline the resume creation process, helping you craft professional, tailored resumes that stand out to employers. Enjoy features like customizable templates, keyword optimization, and real-time feedback to enhance your job applications. Whether you're a seasoned professional or just starting out, our AI-driven solutions simplify the task of showcasing your skills and experiences effectively. Explore our curated selection of AI Resume Builders today and take the first step towards landing your dream job!",
+    "tools": [
+        {
+            "id": "237",
+            "name": "Supawork",
+            "slug": "supawork",
+            "description": "Supawork.ai is an AI-powered platform designed to streamline job applications and enhance hiring processes for job seekers and employers.",
+            "icon": "/logo/supawork.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "352",
+            "name": "Kickresume",
+            "slug": "kickresume",
+            "description": "Kickresume is an AI-powered platform for creating professional resumes and cover letters to help job seekers land their dream jobs.",
+            "icon": "/logo/www.kickresume.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "357",
+            "name": "ResumeBuilder.com",
+            "slug": "resumebuilder-com",
+            "description": "ResumeBuilder.com offers tools and templates to create professional, ATS-friendly resumes quickly and effectively.",
+            "icon": "/logo/www.resumebuilder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "416",
+            "name": "Rezi",
+            "slug": "rezi",
+            "description": "Rezi is an AI-powered resume builder designed to create ATS-optimized resumes and cover letters to enhance job seekers' chances of landing interviews.",
+            "icon": "/logo/www.rezi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "520",
+            "name": "Careerflow",
+            "slug": "careerflow-ai",
+            "description": "Careerflow provides AI-powered tools to optimize job searches, resumes, and LinkedIn profiles for faster hiring at top companies.",
+            "icon": "/logo/www.careerflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "AIFreeBox",
+            "slug": "aifreebox",
+            "description": "AIFreeBox offers a comprehensive suite of free AI tools for content creation, social media, and productivity enhancement.",
+            "icon": "/logo/aifreebox.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "629",
+            "name": "WonsultingAI",
+            "slug": "wonsultingai",
+            "description": "WonsultingAI provides AI-powered tools to streamline job searches, offering resume building, cover letter generation, and interview preparation.",
+            "icon": "/logo/www.wonsulting.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "652",
+            "name": "Huntr",
+            "slug": "huntr",
+            "description": "Huntr is a job search platform that streamlines application tracking, resume building, and interview preparation with AI-powered tools.",
+            "icon": "/logo/huntr.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "677",
+            "name": "GrabJobs",
+            "slug": "grabjobs",
+            "description": "GrabJobs is a global job search platform connecting job seekers with employers through AI-driven tools and chat-based applications.",
+            "icon": "/logo/grabjobs.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "704",
+            "name": "EarnBetter",
+            "slug": "earnbetter",
+            "description": "EarnBetter is a free AI-powered platform that streamlines job searches by optimizing resumes, matching jobs, and providing tailored application tools.",
+            "icon": "/logo/earnbetter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "710",
+            "name": "VMock",
+            "slug": "vmock",
+            "description": "VMock is an AI-driven career acceleration platform that provides personalized resume, cover letter, and interview feedback to students and professionals.",
+            "icon": "/logo/www.vmock.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "754",
+            "name": "Sonara",
+            "slug": "sonara-ai",
+            "description": "Sonara is an AI-powered job search automation platform that streamlines job hunting by matching and applying to relevant opportunities.",
+            "icon": "/logo/www.sonara.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "774",
+            "name": "InstaHeadshots",
+            "slug": "instaheadshots",
+            "description": "InstaHeadshots uses AI to transform selfies into professional headshots for LinkedIn, resumes, and business profiles in minutes.",
+            "icon": "/logo/instaheadshots.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "775",
+            "name": "Swooped",
+            "slug": "swooped",
+            "description": "Swooped is an AI-powered job search platform that optimizes resumes and cover letters to help job seekers land remote jobs faster.",
+            "icon": "/logo/swooped.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "776",
+            "name": "LazyApply",
+            "slug": "lazyapply",
+            "description": "LazyApply automates job applications across platforms like LinkedIn and Indeed to streamline the job search process.",
+            "icon": "/logo/lazyapply.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "847",
+            "name": "Jobhire.ai",
+            "slug": "jobhire-ai",
+            "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+            "icon": "/logo/jobhire.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "916",
+            "name": "LockedIn AI",
+            "slug": "lockedin-ai",
+            "description": "LockedIn AI is an AI-driven platform that helps users optimize their LinkedIn profiles, generate personalized job application materials, and enhance professional networking.",
+            "icon": "/logo/www.lockedinai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "994",
+            "name": "My CV Creator",
+            "slug": "my-cv-creator",
+            "description": "My CV Creator is an online platform that enables users to build professional resumes, CVs, and cover letters using AI-powered tools and templates.",
+            "icon": "/logo/www.mycvcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1034",
+            "name": "Wonsulting",
+            "slug": "wonsulting",
+            "description": "Wonsulting is a career development platform that provides AI-powered tools and consulting services to help job seekers optimize their resumes, LinkedIn profiles, and job search strategies.",
+            "icon": "/logo/www.wonsulting.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1069",
+            "name": "Sheets Resume",
+            "slug": "sheets-resume",
+            "description": "Sheets Resume is an AI-powered platform that helps users build, tailor, and optimize professional resumes quickly and affordably.",
+            "icon": "/logo/sheetsresume.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1121",
+            "name": "Hiration",
+            "slug": "hiration",
+            "description": "Hiration is an AI-powered career platform that assists users in building professional resumes, cover letters, and preparing for job interviews to enhance their job search success.",
+            "icon": "/logo/www.hiration.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "nichesss",
+            "slug": "nichesss",
+            "description": "nichesss is an AI-powered copywriting software that generates various types of content, such as blog posts, ads, social media content, and more, by clicking a button.",
+            "icon": "/logo/nichesss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1198",
+            "name": "Interviews.chat",
+            "slug": "interviews-chat",
+            "description": "Interviews.chat is an AI-powered platform designed to help users prepare for job interviews through simulated conversations and personalized feedback.",
+            "icon": "/logo/www.interviews.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1202",
+            "name": "ResumeTrick",
+            "slug": "resumetrick",
+            "description": "ResumeTrick is an AI-powered online platform that simplifies resume and cover letter creation with customizable templates and intelligent suggestions to help job seekers stand out.",
+            "icon": "/logo/resumetrick.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        },
+        {
+            "id": "1395",
+            "name": "AutoForm AI",
+            "slug": "autoform-ai",
+            "description": "AutoForm AI is an AI-powered platform that automates the process of filling out online forms, particularly for job applications, to save users time and effort.",
+            "icon": "/logo/autoform.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-resume-builder"
+            ]
+        }
+    ]
+}

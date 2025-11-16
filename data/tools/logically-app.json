@@ -1,0 +1,63 @@
+{
+    "name": "Logically.app",
+    "description": "Logically.app (formerly Afforai) is an AI-powered research and writing workspace for managing references, conducting literature reviews, and collaborating on academic papers.",
+    "longDescription": "Logically.app, previously known as Afforai, is an all-in-one AI-driven platform designed to streamline academic research and writing processes. It empowers researchers, students, and faculty by offering tools to manage references, annotate documents, and collaborate in real-time. The platform integrates an AI research assistant to summarize, translate, and extract data from documents, addressing challenges like information overload and language barriers. Its mission is to simplify complex research tasks, making them more efficient and accessible for users worldwide. By providing a centralized workspace, Logically.app enhances productivity and organization for academic and professional research projects.",
+    "url": "https://afforai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/afforai.com.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "logically-app",
+    "categories": [
+        "AI Research Tool",
+        "AI Document Extraction",
+        "AI Creative Writing",
+        "AI Article Summarizer",
+        "AI Language Learning",
+        "AI Chatbot"
+    ],
+    "features": [
+        "The AI research assistant summarizes and extracts key insights from documents, saving users time in processing large volumes of text.",
+        "The reference manager organizes research papers and generates citations in over 10,000 styles, simplifying bibliography creation.",
+        "Live collaboration tools allow users to share, comment, and work on documents in real-time, enhancing teamwork.",
+        "Document annotation features enable users to highlight and note key information, keeping critical insights accessible.",
+        "The platform supports multiple document formats like PDFs, URLs, and EPUBs, ensuring flexibility in research material handling.",
+        "Auto-generated bibliographies streamline the citation process, reducing manual effort for researchers.",
+        "Multi-language support in over 100 languages allows users to translate and query research materials across linguistic barriers.",
+        "Integration with Microsoft Word via the Afforai Cite Extension facilitates seamless citation insertion during writing.",
+        "The research notebook feature enables users to take notes and organize research thoughts within the platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is Logically.app used for?",
+            "answer": "Logically.app is an AI-powered platform for managing references, conducting literature reviews, annotating documents, and collaborating on academic writing projects."
+        },
+        {
+            "question": "Does Logically.app offer a free plan?",
+            "answer": "Yes, Logically.app provides a free plan with 50 credits for queries, document analysis, and access to standard AI models like GPT-4o mini."
+        },
+        {
+            "question": "Can I collaborate with others on Logically.app?",
+            "answer": "Yes, the platform supports live collaboration, allowing users to share, comment, and work together on documents in real-time."
+        },
+        {
+            "question": "What document formats does Logically.app support?",
+            "answer": "Logically.app supports various formats, including PDFs, URLs, EPUBs, PPTX, DOCX, and TXT files, for flexible research management."
+        },
+        {
+            "question": "How does the AI research assistant work?",
+            "answer": "The AI assistant summarizes, translates, and extracts data from documents, helping users quickly find relevant insights and process large texts."
+        },
+        {
+            "question": "Can Logically.app generate citations automatically?",
+            "answer": "Yes, the platform auto-generates citations and bibliographies in over 10,000 styles, streamlining the referencing process."
+        },
+        {
+            "question": "Is Logically.app suitable for non-English research materials?",
+            "answer": "Yes, it supports over 100 languages, enabling users to translate and query research materials across linguistic barriers."
+        },
+        {
+            "question": "How does the Afforai Cite Extension work with Microsoft Word?",
+            "answer": "The extension allows users to insert citations and bibliographies from their Logically.app library directly into Microsoft Word documents."
+        }
+    ]
+}

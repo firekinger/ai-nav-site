@@ -1,0 +1,1535 @@
+{
+    "title": "The Best 140 AI Chatbot Tools in 2025",
+    "summary": "Discover the transformative power of AI Chatbots, designed to enhance customer engagement and streamline communication. These intelligent tools provide instant responses, 24/7 support, and personalized interactions, making them essential for businesses looking to improve user experience and operational efficiency. Whether you're seeking to automate customer service or boost lead generation, AI Chatbots offer innovative solutions tailored to your needs. Explore our curated selection of top AI Chatbot tools today and elevate your business communication to the next level!",
+    "tools": [
+        {
+            "id": "1",
+            "name": "ChatGPT",
+            "slug": "chatgpt",
+            "description": "ChatGPT is an AI-powered chatbot platform designed to provide human-like conversational responses and assist with various tasks.",
+            "icon": "/logo/chatgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Google Gemini",
+            "slug": "google-gemini",
+            "description": "Google Gemini is an AI-powered platform offering conversational and multimodal capabilities to enhance productivity and creativity.",
+            "icon": "/logo/gemini.google.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "130",
+            "name": "OpenAI",
+            "slug": "openai",
+            "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+            "icon": "/logo/openai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Character.AI",
+            "slug": "character-ai",
+            "description": "Character.AI enables users to create and interact with AI-powered chatbots for entertainment and creative expression.",
+            "icon": "/logo/character.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Perplexity AI",
+            "slug": "perplexity-ai",
+            "description": "Perplexity AI is an AI-powered search engine that provides accurate, conversational answers to user queries.",
+            "icon": "/logo/perplexity.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Claude",
+            "slug": "claude",
+            "description": "Claude.ai is a conversational AI platform designed to provide safe, helpful, and value-aligned responses for various tasks.",
+            "icon": "/logo/claude.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Janitor AI",
+            "slug": "janitor-ai",
+            "description": "Janitor AI is a platform for creating and interacting with customizable AI chatbots for creative storytelling and role-playing.",
+            "icon": "/logo/janitorai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "16",
+            "name": "SpicyChat",
+            "slug": "spicychat",
+            "description": "SpicyChat.ai is an AI-powered chatbot platform for creating and engaging in personalized, uncensored roleplay conversations.",
+            "icon": "/logo/spicychat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Kimi",
+            "slug": "kimi",
+            "description": "Kimi is an AI-powered assistant designed to enhance productivity through advanced text analysis, multimodal processing, and real-time information retrieval.",
+            "icon": "/logo/kimi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "133",
+            "name": "PolyBuzz",
+            "slug": "polybuzz",
+            "description": "PolyBuzz is an AI chatbot platform for creating and engaging with personalized AI characters for immersive roleplay and conversations.",
+            "icon": "/logo/www.polybuzz.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "40",
+            "name": "SeaArt AI",
+            "slug": "seaart-ai",
+            "description": "SeaArt AI is an AI-powered platform for creating and customizing digital artwork, videos, and characters from text or image prompts.",
+            "icon": "/logo/seaart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "31",
+            "name": "CrushOn.AI",
+            "slug": "crushon-ai",
+            "description": "CrushOn.AI is a platform for unfiltered, customizable AI chatbot interactions, specializing in emotional and NSFW character-based conversations.",
+            "icon": "/logo/crushon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "33",
+            "name": "DeepAI",
+            "slug": "deepai",
+            "description": "DeepAI provides AI-powered tools for generating and editing creative content like images, videos, music, and text.",
+            "icon": "/logo/deepai.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Poe",
+            "slug": "poe",
+            "description": "Poe is a platform for interacting with multiple AI models and creating custom chatbots.",
+            "icon": "/logo/poe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "128",
+            "name": "Anthropic",
+            "slug": "anthropic",
+            "description": "Anthropic builds safe, interpretable AI systems like Claude to assist users in various tasks.",
+            "icon": "/logo/www.anthropic.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Meta AI",
+            "slug": "meta-ai",
+            "description": "Meta AI provides an AI-powered assistant for personalized answers, image generation, and seamless integration across Meta platforms.",
+            "icon": "/logo/meta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Monica",
+            "slug": "monica",
+            "description": "Monica is an AI-powered assistant enhancing productivity through chat, writing, coding, and search across multiple platforms.",
+            "icon": "/logo/monica.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "136",
+            "name": "Uhmegle",
+            "slug": "uhmegle",
+            "description": "Uhmegle is a free, anonymous video and text chat platform connecting users worldwide with strangers for spontaneous conversations.",
+            "icon": "/logo/uhmegle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "27",
+            "name": "Yiyan",
+            "slug": "yiyan",
+            "description": "Yiyan is an AI-powered platform by Baidu offering conversational and creative tools for users.",
+            "icon": "/logo/yiyan.baidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "140",
+            "name": "tawk.to",
+            "slug": "tawk-to",
+            "description": "tawk.to provides a free live chat platform to help businesses engage with website visitors in real time.",
+            "icon": "/logo/www.tawk.to.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "141",
+            "name": "Sider",
+            "slug": "sider",
+            "description": "Sider provides AI-powered tools to enhance productivity and creativity for individuals and businesses.",
+            "icon": "/logo/sider.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "NoteGPT",
+            "slug": "notegpt",
+            "description": "NoteGPT is an AI-powered learning assistant that summarizes content and generates notes to enhance learning efficiency.",
+            "icon": "/logo/notegpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "74",
+            "name": "Joyland AI",
+            "slug": "joyland-ai",
+            "description": "Joyland AI is an immersive platform for creating and interacting with AI-driven characters for storytelling and roleplay.",
+            "icon": "/logo/joyland.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "68",
+            "name": "Talkie AI",
+            "slug": "talkie-ai",
+            "description": "Talkie AI is a platform for creating and interacting with customizable AI characters for immersive chat experiences.",
+            "icon": "/logo/talkie-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "GPTGirlfriend",
+            "slug": "gptgirlfriend",
+            "description": "GPTGirlfriend provides AI-powered virtual companionship through engaging and realistic conversations.",
+            "icon": "/logo/gptgirlfriend.online.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "Intercom",
+            "slug": "intercom",
+            "description": "Intercom provides a customer messaging platform to enhance business communication and engagement.",
+            "icon": "/logo/www.intercom.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "176",
+            "name": "ChatPDF",
+            "slug": "chatpdf",
+            "description": "ChatPDF enables users to interact with PDF documents through AI-powered conversations and analysis.",
+            "icon": "/logo/www.chatpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "YesChat",
+            "slug": "yeschat",
+            "description": "YesChat.ai provides a platform for interacting with advanced AI chatbots to assist with various tasks and queries.",
+            "icon": "/logo/www.yeschat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "189",
+            "name": "Gizmo AI",
+            "slug": "gizmo-ai",
+            "description": "Gizmo AI provides a platform for creating and managing AI-powered chatbots to enhance user engagement and automate tasks.",
+            "icon": "/logo/gizmo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "191",
+            "name": "Chaport",
+            "slug": "chaport",
+            "description": "Chaport provides a live chat and chatbot platform to enhance customer support and engagement for businesses.",
+            "icon": "/logo/www.chaport.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FlowGPT",
+            "slug": "flowgpt",
+            "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+            "icon": "/logo/flowgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "194",
+            "name": "You.com",
+            "slug": "you-com",
+            "description": "You.com is an AI-powered search engine and productivity platform designed to provide personalized, privacy-focused search results and tools.",
+            "icon": "/logo/you.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "196",
+            "name": "HIX.AI",
+            "slug": "hix-ai",
+            "description": "HIX.AI provides AI-powered writing tools to enhance content creation and productivity.",
+            "icon": "/logo/hix.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "215",
+            "name": "iAsk AI",
+            "slug": "iask-ai",
+            "description": "iAsk AI provides a free AI-powered search engine for answering questions with accurate, sourced responses.",
+            "icon": "/logo/iask.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "224",
+            "name": "Smodin",
+            "slug": "smodin",
+            "description": "Smodin provides AI-powered tools to assist with writing, research, and content creation for students, writers, and professionals.",
+            "icon": "/logo/smodin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "243",
+            "name": "CaveDuck",
+            "slug": "caveduck",
+            "description": "CaveDuck provides an AI-powered conversational platform for interactive and engaging user experiences.",
+            "icon": "/logo/caveduck.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "262",
+            "name": "Ask AI Chat",
+            "slug": "ask-ai-chat",
+            "description": "Ask AI Chat provides a platform for users to interact with advanced AI chatbots for answering questions and assisting with various tasks.",
+            "icon": "/logo/askaichat.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "273",
+            "name": "Pi",
+            "slug": "pi",
+            "description": "Pi is a personal AI assistant designed to provide conversational support and insights for users seeking answers and guidance.",
+            "icon": "/logo/pi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "274",
+            "name": "DocsBot",
+            "slug": "docsbot",
+            "description": "DocsBot is an AI-powered platform that creates custom chatbots for answering questions based on your documentation and content.",
+            "icon": "/logo/docsbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "288",
+            "name": "Talkpal",
+            "slug": "talkpal",
+            "description": "Talkpal is an AI-powered language learning platform designed to help users improve their language skills through interactive conversations.",
+            "icon": "/logo/talkpal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "299",
+            "name": "YouLearn",
+            "slug": "youlearn",
+            "description": "YouLearn is an AI-powered platform that transforms educational content into personalized study tools like notes, quizzes, and AI tutoring.",
+            "icon": "/logo/www.youlearn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "302",
+            "name": "D-ID",
+            "slug": "d-id",
+            "description": "D-ID is an AI-powered platform for creating realistic video avatars and conversational agents to enhance digital communication.",
+            "icon": "/logo/www.d-id.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "303",
+            "name": "Chad AI",
+            "slug": "chad-ai",
+            "description": "Chad AI provides a Russian-language AI chatbot powered by advanced neural networks for text, code, and image generation without VPN or registration.",
+            "icon": "/logo/chadgpt.ru.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "304",
+            "name": "GitMind",
+            "slug": "gitmind",
+            "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+            "icon": "/logo/gitmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "307",
+            "name": "ELSA Speak",
+            "slug": "elsa-speak",
+            "description": "ELSA Speak is an AI-powered app designed to help users improve their English pronunciation and fluency through personalized lessons and real-time feedback.",
+            "icon": "/logo/elsaspeak.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "317",
+            "name": "Easy-Peasy.AI",
+            "slug": "easy-peasy-ai",
+            "description": "Easy-Peasy.AI is an all-in-one AI platform for creating content, images, audio, and transcriptions efficiently.",
+            "icon": "/logo/easy-peasy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "324",
+            "name": "MyMap AI",
+            "slug": "mymap-ai",
+            "description": "MyMap AI is an AI-powered platform that transforms ideas into visual mind maps, flowcharts, and presentations through a chat interface.",
+            "icon": "/logo/www.mymap.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "325",
+            "name": "HeraHaven",
+            "slug": "herahaven",
+            "description": "HeraHaven is an AI-powered platform for creating and interacting with customizable virtual companions, offering immersive chat and image-sharing experiences.",
+            "icon": "/logo/herahaven.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "AIPRM",
+            "slug": "aiprm",
+            "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+            "icon": "/logo/www.aiprm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "327",
+            "name": "AI Studios",
+            "slug": "ai-studios",
+            "description": "AI Studios is an AI-powered video generation platform that transforms text into professional videos with realistic avatars and multilingual voiceovers.",
+            "icon": "/logo/www.aistudios.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "344",
+            "name": "Crisp",
+            "slug": "crisp",
+            "description": "Crisp is an all-in-one customer messaging platform designed to enhance business communication through live chat, chatbots, and CRM integration.",
+            "icon": "/logo/crisp.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "349",
+            "name": "Writesonic",
+            "slug": "writesonic",
+            "description": "Writesonic is an AI-powered platform for creating SEO-optimized content and automating marketing workflows.",
+            "icon": "/logo/writesonic.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "351",
+            "name": "Humbot",
+            "slug": "humbot",
+            "description": "Humbot is an AI-powered platform that humanizes AI-generated text to bypass detection and enhance readability.",
+            "icon": "/logo/humbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "353",
+            "name": "Replika",
+            "slug": "replika",
+            "description": "Replika is an AI-powered chatbot designed to provide emotional support and companionship through personalized conversations.",
+            "icon": "/logo/replika.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Wsup.ai",
+            "slug": "wsup-ai",
+            "description": "Wsup.ai is a free platform for engaging in uncensored conversations and roleplay with customizable AI characters.",
+            "icon": "/logo/wsup.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "360",
+            "name": "HiWaifu",
+            "slug": "hiwaifu",
+            "description": "HiWaifu is an AI-powered platform offering customizable virtual companions for chat, roleplay, and personal growth.",
+            "icon": "/logo/www.hiwaifu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "379",
+            "name": "Anakin AI",
+            "slug": "anakin-ai",
+            "description": "Anakin AI is a no-code platform for creating and customizing AI applications to automate tasks and generate content.",
+            "icon": "/logo/anakin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "405",
+            "name": "Phind",
+            "slug": "phind",
+            "description": "Phind is an AI-powered search engine designed for developers, providing instant answers and code examples for technical queries.",
+            "icon": "/logo/www.phind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "408",
+            "name": "Stability AI",
+            "slug": "stability-ai",
+            "description": "Stability AI provides open-source generative AI tools for creating images, videos, audio, and 3D content.",
+            "icon": "/logo/stability.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "409",
+            "name": "AIChatting",
+            "slug": "aichatting",
+            "description": "AIChatting is a free online platform for engaging with AI chatbots and generating text content.",
+            "icon": "/logo/www.aichatting.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "422",
+            "name": "GPTOnline.ai",
+            "slug": "gptonline-ai",
+            "description": "GPTOnline.ai provides free access to ChatGPT technology for AI-powered conversations, translations, and knowledge retrieval without registration.",
+            "icon": "/logo/gptonline.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "425",
+            "name": "Chatbase",
+            "slug": "chatbase",
+            "description": "Chatbase is a platform for building and deploying AI-powered customer service chatbots trained on custom data.",
+            "icon": "/logo/www.chatbase.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "426",
+            "name": "Deepgram",
+            "slug": "deepgram",
+            "description": "Deepgram provides advanced AI-powered speech-to-text, text-to-speech, and voice agent solutions for enterprise voice applications.",
+            "icon": "/logo/deepgram.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "453",
+            "name": "Tarotoo",
+            "slug": "tarotoo",
+            "description": "Tarotoo offers free AI-powered tarot and psychic readings to guide users in life, love, and career decisions.",
+            "icon": "/logo/tarotoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "463",
+            "name": "Nova AI",
+            "slug": "nova-ai",
+            "description": "Nova AI is a chatbot and personal assistant powered by advanced AI models like GPT-4, Gemini, and Claude, offering conversational and task-assistance features.",
+            "icon": "/logo/novaapp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "Mapify",
+            "slug": "mapify",
+            "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+            "icon": "/logo/mapify.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "481",
+            "name": "HyperWrite",
+            "slug": "hyperwrite",
+            "description": "HyperWrite is an AI-powered writing assistant that enhances productivity and creativity for content creation and communication.",
+            "icon": "/logo/www.hyperwriteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "482",
+            "name": "Accio",
+            "slug": "accio",
+            "description": "Accio is an AI-powered B2B sourcing engine that streamlines product procurement and provides business insights.",
+            "icon": "/logo/www.accio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "494",
+            "name": "Glarity",
+            "slug": "glarity",
+            "description": "Glarity is a free, open-source browser extension that uses AI to summarize and translate content from YouTube, Google, and other web platforms.",
+            "icon": "/logo/glarity.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "507",
+            "name": "Sense",
+            "slug": "sense",
+            "description": "Sense provides an AI-powered talent engagement platform to streamline recruiting and enhance candidate experiences.",
+            "icon": "/logo/www.sensehq.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "AutoResponder.ai",
+            "slug": "autoresponder-ai",
+            "description": "AutoResponder.ai provides AI-powered automatic replies for popular messaging platforms to streamline communication.",
+            "icon": "/logo/autoresponder.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "563",
+            "name": "FantasyGF",
+            "slug": "fantasygf-ai",
+            "description": "FantasyGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and roleplay.",
+            "icon": "/logo/fantasygf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "588",
+            "name": "My Dream Companion",
+            "slug": "my-dream-companion",
+            "description": "My Dream Companion is an AI-powered platform for creating and interacting with customizable virtual companions for immersive roleplay and storytelling.",
+            "icon": "/logo/www.mydreamcompanion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "663",
+            "name": "Gupshup",
+            "slug": "gupshup",
+            "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+            "icon": "/logo/www.gupshup.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "609",
+            "name": "DreamGF.ai",
+            "slug": "dreamgf-ai",
+            "description": "DreamGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and personalized experiences.",
+            "icon": "/logo/dreamgf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "610",
+            "name": "AskYourPDF",
+            "slug": "askyourpdf",
+            "description": "AskYourPDF is an AI-powered platform that enables users to interact conversationally with PDF documents, extracting insights and answers efficiently.",
+            "icon": "/logo/askyourpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "627",
+            "name": "Edraw.AI",
+            "slug": "edraw-ai",
+            "description": "Edraw.AI is an AI-powered platform for creating professional diagrams, flowcharts, and mind maps to enhance visual collaboration and productivity.",
+            "icon": "/logo/www.edraw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "677",
+            "name": "GrabJobs",
+            "slug": "grabjobs",
+            "description": "GrabJobs is a global job search platform connecting job seekers with employers through AI-driven tools and chat-based applications.",
+            "icon": "/logo/grabjobs.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "696",
+            "name": "ChatFAI",
+            "slug": "chatfai",
+            "description": "ChatFAI is an AI-powered platform for interactive conversations with fictional and historical characters from various media.",
+            "icon": "/logo/chatfai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "703",
+            "name": "Gooey.AI",
+            "slug": "gooey-ai",
+            "description": "Gooey.AI is a low-code AI orchestration platform that simplifies the integration and deployment of generative AI workflows for developers and businesses.",
+            "icon": "/logo/gooey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "769",
+            "name": "Sharly AI",
+            "slug": "sharly-ai",
+            "description": "Sharly AI is an AI-powered platform that simplifies document analysis by allowing users to chat with PDFs and documents, summarize content, and extract insights instantly.",
+            "icon": "/logo/sharly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "785",
+            "name": "ChatGOT",
+            "slug": "chatgot",
+            "description": "ChatGOT is a free AI chatbot assistant integrating advanced models like DeepSeek, GPT-4, Claude 3.5, and Gemini 2.0 to enhance productivity and creativity.",
+            "icon": "/logo/www.chatgot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "786",
+            "name": "Bloom Stories",
+            "slug": "bloom-stories",
+            "description": "Bloom Stories provides immersive spicy audio stories and romance audiobooks to enhance personal connections and self-discovery.",
+            "icon": "/logo/www.bloomstories.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "800",
+            "name": "Glassix",
+            "slug": "glassix",
+            "description": "Glassix provides an AI-powered unified messaging platform for omnichannel customer communication and support.",
+            "icon": "/logo/www.glassix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "812",
+            "name": "Logically.app",
+            "slug": "logically-app",
+            "description": "Logically.app (formerly Afforai) is an AI-powered research and writing workspace for managing references, conducting literature reviews, and collaborating on academic papers.",
+            "icon": "/logo/afforai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "FastBots",
+            "slug": "fastbots-ai",
+            "description": "FastBots.ai is a no-code platform for creating AI-powered chatbots trained on custom business data to provide 24/7 customer support and automation.",
+            "icon": "/logo/fastbots.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "Castmagic",
+            "slug": "castmagic",
+            "description": "Castmagic is an AI-powered platform that transforms audio and video content into ready-to-use assets like transcripts, show notes, and social media posts.",
+            "icon": "/logo/castmagic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "849",
+            "name": "SoulFun",
+            "slug": "soulfun-ai",
+            "description": "SoulFun is an AI-powered platform that enables users to create and engage with personalized virtual companions for immersive conversations and emotional support.",
+            "icon": "/logo/www.soulfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "851",
+            "name": "Magisterium AI",
+            "slug": "magisterium-ai",
+            "description": "Magisterium AI is an artificial intelligence platform that provides accurate answers to questions about the Catholic faith based on official Church teachings.",
+            "icon": "/logo/www.magisterium.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "864",
+            "name": "VocAI",
+            "slug": "vocai",
+            "description": "VocAI is an AI-powered platform that provides intelligent customer support solutions and customer feedback analysis for e-commerce businesses.",
+            "icon": "/logo/www.voc.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "878",
+            "name": "Dittin AI",
+            "slug": "dittin-ai",
+            "description": "Dittin AI is an uncensored AI chatbot platform that allows users to create, customize, and engage in immersive role-playing conversations with AI characters.",
+            "icon": "/logo/dittin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "893",
+            "name": "Dust",
+            "slug": "dust",
+            "description": "Dust is a platform that empowers teams to build and deploy custom AI assistants using large language models to enhance productivity and automate workflows.",
+            "icon": "/logo/dust.tt.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "901",
+            "name": "AIGirl",
+            "slug": "aigirl",
+            "description": "AIGirl is an AI-powered platform that allows users to create and interact with virtual AI girlfriends through chat, customization, and immersive experiences.",
+            "icon": "/logo/aigirl.one.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "925",
+            "name": "Charstar",
+            "slug": "charstar-ai",
+            "description": "Charstar.ai is an AI-driven platform for creating, customizing, and interacting with virtual characters for chat and role-playing experiences.",
+            "icon": "/logo/charstar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "946",
+            "name": "YourGPT",
+            "slug": "yourgpt-ai",
+            "description": "YourGPT.ai is an AI platform that enables users to build, customize, and deploy intelligent chatbots and AI agents for various applications.",
+            "icon": "/logo/yourgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "955",
+            "name": "BoldDesk",
+            "slug": "bolddesk",
+            "description": "BoldDesk is a comprehensive help desk software platform designed to enhance customer support through ticketing, knowledge management, and AI-driven automation.",
+            "icon": "/logo/www.bolddesk.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "982",
+            "name": "ChatSweetie",
+            "slug": "chatsweetie-ai",
+            "description": "ChatSweetie is an AI-powered platform providing virtual companions for personalized and engaging chat experiences.",
+            "icon": "/logo/chatsweetie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "986",
+            "name": "Carter",
+            "slug": "carter",
+            "description": "Carter is a platform offering an advanced AI agent for real-time voice and text conversations with human-like intelligence and integrations.",
+            "icon": "/logo/www.carter.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1003",
+            "name": "Moveworks",
+            "slug": "moveworks",
+            "description": "Moveworks is an AI-powered platform that automates employee support for IT, HR, and other enterprise functions to enhance productivity and reduce resolution times.",
+            "icon": "/logo/www.moveworks.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1019",
+            "name": "Botnoi AI",
+            "slug": "botnoi-ai",
+            "description": "Botnoi.ai is a leading AI platform in Thailand that provides intelligent chatbots, voice assistants, and AI solutions to enhance customer engagement and business operations.",
+            "icon": "/logo/botnoi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1021",
+            "name": "Botika",
+            "slug": "botika",
+            "description": "Botika is an AI-powered platform specializing in conversational AI and chatbots for enhancing customer service and business automation.",
+            "icon": "/logo/botika.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1035",
+            "name": "TheB.AI",
+            "slug": "theb-ai",
+            "description": "TheB.AI is a comprehensive AI platform that provides access to multiple large language models for chat, search, image generation, and productivity tasks.",
+            "icon": "/logo/www.theb.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1056",
+            "name": "RightBlogger",
+            "slug": "rightblogger",
+            "description": "RightBlogger is an all-in-one AI marketing platform that helps bloggers and marketers create SEO-optimized content, generate leads, and grow their email lists using over 80 AI-powered tools.",
+            "icon": "/logo/rightblogger.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1078",
+            "name": "Humanly",
+            "slug": "humanly",
+            "description": "Humanly is an AI-powered platform that streamlines talent acquisition and recruiting processes for HR teams.",
+            "icon": "/logo/www.humanly.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1080",
+            "name": "Kore.ai",
+            "slug": "kore-ai",
+            "description": "Kore.ai is a leading conversational AI platform that empowers enterprises to build, deploy, and manage intelligent virtual assistants and chatbots for enhanced customer and employee experiences.",
+            "icon": "/logo/kore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1106",
+            "name": "NSFW AI Chat",
+            "slug": "nsfw-ai-chat",
+            "description": "NSFW AI Chat is an adult-oriented platform offering uncensored AI chatbot interactions for immersive and personalized erotic conversations.",
+            "icon": "/logo/nsfwaichat.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1113",
+            "name": "FPT.AI",
+            "slug": "fpt-ai",
+            "description": "FPT.AI is a leading AI platform providing comprehensive artificial intelligence solutions for businesses to enhance automation, customer engagement, and data-driven decision-making.",
+            "icon": "/logo/fpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "119",
+            "name": "Nextpart AI",
+            "slug": "nextpart-ai",
+            "description": "Nextpart AI is an unrestricted NSFW AI chat platform for creating and interacting with customizable AI characters.",
+            "icon": "/logo/nextpart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1145",
+            "name": "Powerusers AI",
+            "slug": "powerusers-ai",
+            "description": "Powerusers AI is a directory that curates over 2600 AI tools to boost business productivity, offering features like filtering, saving personal lists, and staying updated with the latest AI apps.",
+            "icon": "/logo/powerusers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1148",
+            "name": "Wotnot",
+            "slug": "wotnot",
+            "description": "Wotnot is an AI-powered no-code platform for building and deploying chatbots to automate customer support, lead generation, and engagement across websites and messaging apps.",
+            "icon": "/logo/wotnot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1137",
+            "name": "Dang.ai",
+            "slug": "dang-ai",
+            "description": "Dang.ai is a comprehensive directory featuring over 5,000 AI tools across various categories to help users discover solutions for productivity, creativity, and more.",
+            "icon": "/logo/dang.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1169",
+            "name": "Koala",
+            "slug": "koala",
+            "description": "Koala is an AI-powered platform providing tools for generating SEO-optimized content and interactive chat experiences to streamline writing and communication tasks.",
+            "icon": "/logo/koala.sh.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1212",
+            "name": "ChatAI",
+            "slug": "chatai",
+            "description": "ChatAI is an AI-powered platform that provides conversational AI tools for personal and business use, enabling users to interact with intelligent chatbots for various tasks.",
+            "icon": "/logo/chatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1230",
+            "name": "Airops",
+            "slug": "airops",
+            "description": "Airops is a no-code platform that enables users to build, deploy, and scale AI-powered applications and workflows effortlessly.",
+            "icon": "/logo/www.airops.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "The SMS City",
+            "slug": "the-sms-city",
+            "description": "The SMS City provides automated WhatsApp and SMS solutions for businesses, offering tools like e-commerce integrations, AI-powered chatbots, and marketing campaigns to enhance customer engagement and boost sales.",
+            "icon": "/logo/thesmscity.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1389",
+            "name": "MakeGirl.ai",
+            "slug": "makegirl-ai",
+            "description": "MakeGirl.ai is an AI-powered platform that offers a spicy AI chat and image generator, focusing on creating personalized AI girlfriends for digital intimacy, roleplay, and companionship.",
+            "icon": "/logo/www.makegirl.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1356",
+            "name": "Seeles AI",
+            "slug": "seeles-ai",
+            "description": "Seeles AI is an innovative platform offering AI-powered virtual companions for personalized conversations and emotional support.",
+            "icon": "/logo/www.seeles.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1431",
+            "name": "AniFun.ai",
+            "slug": "anifun-ai",
+            "description": "AniFun.ai is an AI-powered platform that enables users to generate and interact with anime-style characters, images, and stories for creative entertainment.",
+            "icon": "/logo/anifun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1289",
+            "name": "CrawlChat",
+            "slug": "crawlchat",
+            "description": "CrawlChat transforms documentation and knowledge sources into AI chatbots for efficient customer support and engagement across websites, Discord, and Slack.",
+            "icon": "/logo/crawlchat.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1259",
+            "name": "ChatIn",
+            "slug": "chatin",
+            "description": "ChatIn is an AI-powered platform that transforms customer support with 24/7 intelligent conversations to boost engagement, satisfaction, and business growth.",
+            "icon": "/logo/chatin.support.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1281",
+            "name": "Glotera AI",
+            "slug": "glotera-ai",
+            "description": "Glotera AI is an innovative platform leveraging artificial intelligence for seamless multilingual translation and global communication tools.",
+            "icon": "/logo/glotera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1274",
+            "name": "Daymi",
+            "slug": "daymi-ai",
+            "description": "Daymi is an AI platform that creates a personalized AI clone for users to text or call, serving as an entertaining and productive companion that mirrors their personality.",
+            "icon": "/logo/daymi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1285",
+            "name": "TeleGPT",
+            "slug": "telegpt",
+            "description": "TeleGPT is an AI-powered platform that integrates advanced chatbot capabilities into Telegram for enhanced user interactions and automation.",
+            "icon": "/logo/telegpt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1297",
+            "name": "Create Anything",
+            "slug": "create-anything",
+            "description": "Create Anything is an AI-powered platform that enables users to generate diverse digital content, from text and images to music and code, using advanced artificial intelligence tools.",
+            "icon": "/logo/www.createanything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1357",
+            "name": "Dereference AI Codetabs",
+            "slug": "dereference-ai-codetabs",
+            "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+            "icon": "/logo/www.dereference.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Microsoft Copilot",
+            "slug": "microsoft-copilot",
+            "description": "Microsoft Copilot is an AI-powered assistant enhancing productivity across Microsoft 365 and web tasks.",
+            "icon": "/logo/copilot.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Doubao",
+            "slug": "doubao",
+            "description": "Doubao is an AI-powered conversational assistant platform by ByteDance, offering multimodal solutions for text, image, and audio tasks.",
+            "icon": "/logo/doubao.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "52",
+            "name": "Baidu Chat",
+            "slug": "baidu-chat",
+            "description": "Baidu Chat is an AI-powered conversational platform designed to assist users with information and task support.",
+            "icon": "/logo/chat.baidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Chatbot App",
+            "slug": "chatbot-app",
+            "description": "Chatbot App provides an AI-powered platform for seamless chatting, productivity tools, and creative solutions.",
+            "icon": "/logo/chatbotapp.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "96",
+            "name": "xAI",
+            "slug": "xai",
+            "description": "xAI is an AI platform dedicated to accelerating human scientific discovery and advancing our understanding of the universe.",
+            "icon": "/logo/x.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "920",
+            "name": "eesel AI",
+            "slug": "eesel-ai",
+            "description": "eesel AI provides an AI-powered platform that delivers instant answers to company questions by integrating with existing tools and knowledge bases.",
+            "icon": "/logo/www.eesel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1139",
+            "name": "PerfectCSR AI",
+            "slug": "perfectcsr-ai",
+            "description": "PerfectCSR AI is a no-code platform for creating AI-powered chatbots that automate customer support and boost engagement on websites.",
+            "icon": "/logo/perfectcsr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1434",
+            "name": "EaseMate AI",
+            "slug": "easemate-ai",
+            "description": "EaseMate AI is an all-in-one AI assistant designed to boost efficiency in study, work, and creativity by leveraging advanced AI models.",
+            "icon": "/logo/www.easemate.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1448",
+            "name": "ServiceNow",
+            "slug": "servicenow",
+            "description": "ServiceNow is a cloud-based platform that provides digital workflows to automate and optimize enterprise operations across IT, customer service, and employee experiences.",
+            "icon": "/logo/www.servicenow.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-chatbot"
+            ]
+        },
+        {
+            "id": "1449",
+            "name": "Chai Research",
+            "slug": "chai-research",
+            "description": "Chai Research is an AI company specializing in developing engaging conversational AI companions for entertainment, social interaction, and research purposes.",
+            "icon": "/logo/chai-research.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-chatbot"
+            ]
+        }
+    ]
+}

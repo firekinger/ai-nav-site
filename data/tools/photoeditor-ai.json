@@ -1,0 +1,72 @@
+{
+    "name": "PhotoEditor.AI",
+    "description": "PhotoEditor.AI offers a powerful AI toolset for creative photo and design editing needs, enhancing user creativity with advanced features.",
+    "longDescription": "PhotoEditor.AI is an AI-powered platform designed for editing photos and images using advanced AI models. It provides a suite of tools for tasks like image generation, background removal, and photo enhancement, accessible via web and mobile without downloads. The mission is to make complex image editing simple and accessible, catering to personal projects and business needs across niches like eCommerce and marketing. It ensures user privacy by deleting images within 1 hour and not reusing or reselling them. By leveraging AI, it solves problems such as time-consuming manual edits and skill barriers, allowing users of all levels to achieve professional results quickly.",
+    "url": "https://photoeditor.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/photoeditor.ai.webp",
+    "category": "Text to Image",
+    "categorySlug": "text-to-image",
+    "slug": "photoeditor-ai",
+    "categories": [
+        "Text to Image",
+        "AI Image Enhancer",
+        "AI Background Remover",
+        "AI Expand Image",
+        "AI Photo Editor",
+        "AI Shopping Assistant",
+        "AI Website Builder",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Image Generator: Transforms text into AI-generated images in seconds, enabling quick visual creation from descriptions.",
+        "Detailer: Adds natural details, texture, and depth to photos through creative upscaling, enhancing image quality.",
+        "Expand: Uncrops photos by expanding images to any size using generative expand, offering flexible composition options.",
+        "Inpaint: Allows drawing or editing any photo part with words using generative fill, facilitating precise modifications.",
+        "Remove BG: Instantly removes backgrounds from images like product photos or portraits, simplifying image preparation.",
+        "Cleanup: Removes objects, text, people, or watermarks from photos, ensuring clean and professional results.",
+        "Enhance: Fixes blurred or old photos, making them crisp and vivid instantly, improving overall image clarity.",
+        "Upscale: Increases image resolution up to 4K for prints, enhancing details for high-quality outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What file formats does PhotoEditor.AI support?",
+            "answer": "It supports JPG, PNG, HEIC, and WEBP formats, with a file size limit of 15MB."
+        },
+        {
+            "question": "Is PhotoEditor.AI free to use?",
+            "answer": "Yes, it is free for images up to 720px with standard quality, while HD or high quality requires signup."
+        },
+        {
+            "question": "Do I need to download anything to use PhotoEditor.AI?",
+            "answer": "No, it works in a web browser and on smartphones without additional downloads."
+        },
+        {
+            "question": "How does PhotoEditor.AI ensure user privacy?",
+            "answer": "All uploaded images are deleted within 1 hour and are not reused or resold to third parties."
+        },
+        {
+            "question": "What can I use PhotoEditor.AI for?",
+            "answer": "It is suitable for personal projects and business tasks in niches like Real Estate, eCommerce, marketing, and automotive."
+        },
+        {
+            "question": "How do I start editing photos with PhotoEditor.AI?",
+            "answer": "Upload your photo, select a tool, make edits, and download the result, with processing starting automatically."
+        },
+        {
+            "question": "Can I edit photos on my mobile device?",
+            "answer": "Yes, it works on both web and mobile platforms for editing anywhere, anytime."
+        },
+        {
+            "question": "What is the maximum resolution for free edits?",
+            "answer": "Free edits are available for images up to 720px in standard quality."
+        },
+        {
+            "question": "How does the Image Generator work?",
+            "answer": "It transforms text into stunning AI images in seconds with just a few words."
+        },
+        {
+            "question": "Can I remove objects from photos?",
+            "answer": "Yes, the Cleanup tool removes objects, text, people, or watermarks from any photo."
+        }
+    ]
+}

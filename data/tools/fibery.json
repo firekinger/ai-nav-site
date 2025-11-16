@@ -1,0 +1,69 @@
+{
+    "name": "Fibery",
+    "description": "Fibery is a no-code work management platform that connects teams and streamlines processes with customizable databases and collaboration tools.",
+    "longDescription": "Fibery is a versatile no-code platform designed to replace multiple disconnected tools by providing a unified workspace for team collaboration, project management, and knowledge organization. Its mission is to empower companies, particularly startups and growing teams, to customize their workflows without coding expertise, fostering transparency and efficiency. By integrating structured data like databases with unstructured data like documents, Fibery helps teams manage everything from product development to CRM in one place. It solves the problem of tool sprawl by offering flexible, interconnected spaces that evolve with a company’s needs. With robust integrations and AI-driven features, Fibery enhances productivity and decision-making for teams of 20 to 200 members. The platform’s user-centric design and supportive community make it accessible yet powerful for diverse industries.",
+    "url": "https://fibery.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fibery.io.webp",
+    "category": "No-Code&Low-Code",
+    "categorySlug": "no-code-low-code",
+    "slug": "fibery",
+    "categories": [
+        "No-Code&Low-Code",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Charting",
+        "AI Review Generator",
+        "AI CRM",
+        "AI Project Management"
+    ],
+    "features": [
+        "Customizable databases allow users to create and connect data structures tailored to their specific workflows, enhancing organization and flexibility.",
+        "Real-time collaboration tools enable teams to work together seamlessly on documents, whiteboards, and tasks, reducing communication silos.",
+        "AI-powered automation simplifies repetitive tasks, such as updating changelogs or generating database structures, saving time and effort.",
+        "Integrations with tools like Slack, GitHub, and Notion ensure smooth data flow across existing workflows, improving efficiency.",
+        "Powerful reporting and visualization tools provide insights into project progress and feedback, similar to advanced analytics platforms.",
+        "Whiteboards and collaborative docs support ideation and planning, centralizing creative processes in one platform.",
+        "Granular permissions and SAML+SSO integration offer secure access control for teams, ensuring data safety and compliance.",
+        "No-code customization allows users to adapt the platform to unique processes without technical expertise, promoting agility.",
+        "Feedback management tools help analyze user input and prioritize features, streamlining product development cycles.",
+        "Dynamic prioritization features enable teams to focus on high-impact tasks based on criteria like customer pain points or company size."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fibery used for?",
+            "answer": "Fibery is a no-code platform that unifies team collaboration, project management, and knowledge organization, replacing multiple tools with a customizable workspace."
+        },
+        {
+            "question": "Does Fibery offer a free plan?",
+            "answer": "Yes, Fibery provides a free plan with unlimited databases for small teams, though some advanced features require a paid subscription."
+        },
+        {
+            "question": "Can Fibery integrate with other tools?",
+            "answer": "Fibery integrates with tools like Slack, GitHub, Jira, Notion, and HubSpot, enabling seamless data synchronization across workflows."
+        },
+        {
+            "question": "How does Fibery’s AI functionality work?",
+            "answer": "Fibery’s AI assists with automating tasks, generating database structures, summarizing feedback, and analyzing data, enhancing productivity and decision-making."
+        },
+        {
+            "question": "Is Fibery suitable for startups?",
+            "answer": "Yes, Fibery is ideal for startups, offering a 6-month free Pro plan for companies with fewer than 30 employees to streamline processes."
+        },
+        {
+            "question": "Can I customize Fibery for my team’s needs?",
+            "answer": "Fibery’s no-code platform allows extensive customization of databases, fields, and workflows to match your team’s unique processes."
+        },
+        {
+            "question": "Does Fibery support large teams?",
+            "answer": "Fibery is designed for teams of 20 to 200 members, with features like user groups and advanced permissions to support larger organizations."
+        },
+        {
+            "question": "How does Fibery compare to Notion?",
+            "answer": "Fibery offers deeper database customization and automation compared to Notion, making it better suited for complex workflows, though both excel in collaboration."
+        },
+        {
+            "question": "What kind of support does Fibery provide?",
+            "answer": "Fibery offers concierge support, a helpful community, webinars, and a dedicated support team to assist with setup and complex scenarios."
+        }
+    ]
+}

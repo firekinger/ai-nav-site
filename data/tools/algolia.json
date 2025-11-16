@@ -1,0 +1,64 @@
+{
+    "name": "Algolia",
+    "description": "Algolia provides an AI-powered search and discovery platform to deliver fast, relevant digital experiences for websites and apps.",
+    "longDescription": "Algolia is a leading Search-as-a-Service platform that empowers developers and businesses to integrate fast, scalable, and AI-driven search and discovery experiences into their websites and mobile applications. Founded in 2012, its mission is to make every search interaction meaningful and rewarding by delivering instant, relevant results. The platform combines keyword and vector-based semantic search via its NeuralSearch technology, enabling precise and personalized user experiences. Algolia serves over 18,000 customers worldwide, handling trillions of searches annually, and supports industries like e-commerce, media, and SaaS. It simplifies the complexities of building search functionality, allowing teams to focus on user engagement and business outcomes. The platform’s API-first approach and extensive integrations make it developer-friendly and adaptable to various tech stacks.",
+    "url": "https://www.algolia.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.algolia.com.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "algolia",
+    "categories": [
+        "AI Research Tool",
+        "AI Digital Marketing",
+        "AI Gift Ideas",
+        "AI For Data Analytics",
+        "AI Developer Tools",
+        "AI Marketing"
+    ],
+    "features": [
+        "AI-powered search combines keyword and vector-based semantic search to deliver highly relevant results in milliseconds.",
+        "Dynamic Re-Ranking uses AI to prioritize content based on user behavior and business goals, boosting conversions.",
+        "Merchandising Studio enables business teams to curate campaigns and influence search rankings without coding.",
+        "API clients and integrations allow seamless indexing and deployment across platforms like Shopify and Salesforce.",
+        "Personalization tailors search results to individual user preferences, enhancing engagement and retention.",
+        "Search analytics provide insights into user behavior, helping optimize KPIs and improve user experience.",
+        "Distributed Search Network (DSN) ensures low-latency search responses from over 70 data centers worldwide.",
+        "AI Synonyms automatically detect and suggest query synonyms to improve search accuracy.",
+        "InstantSearch libraries offer pre-built UI components for rapid development of search interfaces.",
+        "Scalable infrastructure handles over 1.75 trillion searches annually with up to 99.999% availability."
+    ],
+    "faqs": [
+        {
+            "question": "What is Algolia used for?",
+            "answer": "Algolia is used to integrate fast, AI-powered search and discovery features into websites and apps, enhancing user experience and engagement."
+        },
+        {
+            "question": "Does Algolia offer a free plan?",
+            "answer": "Yes, Algolia offers a Build plan with a free tier, including up to 1 million records and limited search requests for development purposes."
+        },
+        {
+            "question": "How fast are Algolia’s search results?",
+            "answer": "Algolia delivers search results in 1-20 milliseconds, up to 200 times faster than competitors, depending on query complexity."
+        },
+        {
+            "question": "Can Algolia integrate with e-commerce platforms?",
+            "answer": "Yes, Algolia integrates seamlessly with platforms like Shopify, Salesforce Commerce Cloud, and BigCommerce to enhance product discovery."
+        },
+        {
+            "question": "What is NeuralSearch?",
+            "answer": "NeuralSearch is Algolia’s hybrid search technology that combines keyword matching with vector-based semantic search for improved relevance."
+        },
+        {
+            "question": "How does Algolia support startups?",
+            "answer": "Algolia offers a startup program with $10,000 in free credits to help pre-revenue startups build and scale search experiences."
+        },
+        {
+            "question": "Can non-technical users manage Algolia?",
+            "answer": "Yes, Algolia’s Merchandising Studio and dashboard allow business teams to customize search and analyze performance without coding."
+        },
+        {
+            "question": "What industries does Algolia serve?",
+            "answer": "Algolia serves industries like e-commerce, media, SaaS, and B2B marketplaces, powering search for brands like Under Armour and Twitch."
+        }
+    ]
+}

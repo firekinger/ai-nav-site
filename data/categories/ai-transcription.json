@@ -1,0 +1,644 @@
+{
+    "title": "The Best 58 AI Transcription Tools in 2025",
+    "summary": "Unlock the power of AI Transcription tools to effortlessly convert audio and video content into accurate, searchable text. Designed for professionals, students, and content creators, these innovative solutions save you time, enhance productivity, and improve accessibility. With features like real-time transcription, multi-language support, and easy integration, you can streamline your workflow and focus on what truly matters. Explore our curated selection of AI Transcription tools today and transform the way you manage your audio content!",
+    "tools": [
+        {
+            "id": "137",
+            "name": "Clipto",
+            "slug": "clipto",
+            "description": "Clipto is an AI-powered platform for transcription, video editing, and digital asset management, designed to streamline content creation.",
+            "icon": "/logo/www.clipto.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Notta",
+            "slug": "notta",
+            "description": "Notta is an AI-powered transcription and note-taking platform that converts audio and video into text with real-time collaboration features.",
+            "icon": "/logo/www.notta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "ScreenApp",
+            "slug": "screenapp",
+            "description": "ScreenApp is a versatile screen recording and video editing platform designed to simplify content creation and collaboration.",
+            "icon": "/logo/screenapp.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "305",
+            "name": "Freed",
+            "slug": "freed",
+            "description": "Freed is an AI-powered medical scribe that automates clinical documentation to save clinicians time.",
+            "icon": "/logo/www.getfreed.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "306",
+            "name": "Vatis Tech",
+            "slug": "vatis-tech",
+            "description": "Vatis Tech provides AI-powered speech-to-text technology for accurate and efficient transcription of audio and video data.",
+            "icon": "/logo/vatis.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "332",
+            "name": "Krisp",
+            "slug": "krisp",
+            "description": "Krisp is an AI-powered platform that enhances online meetings by removing background noise, transcribing, and summarizing conversations for improved productivity.",
+            "icon": "/logo/krisp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "339",
+            "name": "Submagic",
+            "slug": "submagic",
+            "description": "Submagic is an AI-powered platform that creates captivating short-form videos with dynamic captions, B-rolls, and smart edits to boost social media engagement.",
+            "icon": "/logo/www.submagic.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "424",
+            "name": "Kome",
+            "slug": "kome-ai",
+            "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+            "icon": "/logo/kome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "426",
+            "name": "Deepgram",
+            "slug": "deepgram",
+            "description": "Deepgram provides advanced AI-powered speech-to-text, text-to-speech, and voice agent solutions for enterprise voice applications.",
+            "icon": "/logo/deepgram.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "437",
+            "name": "Podcastle",
+            "slug": "podcastle-ai",
+            "description": "Podcastle is an AI-powered platform for creating, editing, and distributing professional-quality podcasts and videos directly in your browser.",
+            "icon": "/logo/podcastle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "441",
+            "name": "Sonix",
+            "slug": "sonix-ai",
+            "description": "Sonix provides AI-powered transcription, translation, and subtitling services to convert audio and video files into text quickly and accurately.",
+            "icon": "/logo/sonix.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "457",
+            "name": "Inner AI",
+            "slug": "inner-ai",
+            "description": "Inner AI is a platform that leverages artificial intelligence to organize thoughts, enhance creativity, and streamline task completion.",
+            "icon": "/logo/innerai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "504",
+            "name": "Cleanvoice AI",
+            "slug": "cleanvoice-ai",
+            "description": "Cleanvoice AI is an AI-powered platform that automates podcast and audio editing by removing noise, fillers, and imperfections for professional-grade sound.",
+            "icon": "/logo/cleanvoice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "511",
+            "name": "Mindgrasp",
+            "slug": "mindgrasp-ai",
+            "description": "Mindgrasp is an AI-powered learning platform that transforms educational content into personalized study tools for students and professionals.",
+            "icon": "/logo/www.mindgrasp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "538",
+            "name": "AssemblyAI",
+            "slug": "assemblyai",
+            "description": "AssemblyAI provides advanced Speech AI models to transcribe and analyze voice data via a developer-friendly API.",
+            "icon": "/logo/www.assemblyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "611",
+            "name": "Luzia",
+            "slug": "luzia",
+            "description": "Luzia is an AI-powered virtual assistant that simplifies daily tasks and enhances productivity through natural conversation.",
+            "icon": "/logo/www.luzia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "612",
+            "name": "DupDub",
+            "slug": "dupdub",
+            "description": "DupDub is an AI-powered platform for creating realistic voiceovers, animated avatars, and multimedia content.",
+            "icon": "/logo/www.dupdub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "616",
+            "name": "Salad",
+            "slug": "salad",
+            "description": "Salad is a distributed GPU cloud platform that offers affordable AI compute resources and enables users to earn rewards by sharing idle PC processing power.",
+            "icon": "/logo/salad.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "665",
+            "name": "Limitless",
+            "slug": "limitless-ai",
+            "description": "Limitless provides AI-powered wearable technology and software to enhance memory and productivity by capturing and analyzing conversations.",
+            "icon": "/logo/www.limitless.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1312",
+            "name": "Tella",
+            "slug": "tella",
+            "description": "Tella is an online screen recorder and AI-powered video editor designed to help users create professional videos easily and efficiently.",
+            "icon": "/logo/www.tella.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "729",
+            "name": "Gladia",
+            "slug": "gladia",
+            "description": "Gladia provides an AI-powered Audio Intelligence API for accurate, multilingual speech-to-text transcription and audio analysis.",
+            "icon": "/logo/www.gladia.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "743",
+            "name": "Bluedot",
+            "slug": "bluedot",
+            "description": "Bluedot provides an AI-powered note-taking and meeting recording solution for platforms like Google Meet, Zoom, and Microsoft Teams.",
+            "icon": "/logo/www.bluedothq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "759",
+            "name": "Coral AI",
+            "slug": "coral-ai",
+            "description": "Coral AI provides AI-powered tools to summarize, query, and transcribe documents and meetings for enhanced productivity.",
+            "icon": "/logo/www.getcoralai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "820",
+            "name": "Gling",
+            "slug": "gling-ai",
+            "description": "Gling is an AI-powered video editing software designed to streamline content creation for YouTube creators by automating the removal of unwanted footage and enhancing video quality.",
+            "icon": "/logo/www.gling.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "833",
+            "name": "MeetGeek",
+            "slug": "meetgeek-ai",
+            "description": "MeetGeek is an AI-powered meeting assistant that automates recording, transcription, and summarization of meetings to enhance productivity.",
+            "icon": "/logo/meetgeek.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "Castmagic",
+            "slug": "castmagic",
+            "description": "Castmagic is an AI-powered platform that transforms audio and video content into ready-to-use assets like transcripts, show notes, and social media posts.",
+            "icon": "/logo/castmagic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "872",
+            "name": "VoiceNotes",
+            "slug": "voicenotes",
+            "description": "VoiceNotes is an AI-powered note-taking app that allows users to capture ideas via voice, transcribe them automatically, and organize thoughts intelligently.",
+            "icon": "/logo/voicenotes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "890",
+            "name": "SubEasy",
+            "slug": "subeasy-ai",
+            "description": "SubEasy.ai is an AI-powered platform that automates the generation of accurate subtitles for videos, making content creation and accessibility easier for creators and businesses.",
+            "icon": "/logo/www.subeasy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "907",
+            "name": "PlayAI",
+            "slug": "playai",
+            "description": "PlayAI is a platform that empowers businesses to build and deploy AI-powered voice agents for automated phone calls, customer support, and sales interactions.",
+            "icon": "/logo/play.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "918",
+            "name": "Cockatoo",
+            "slug": "cockatoo",
+            "description": "Cockatoo is an AI-powered transcription service that converts audio and video files into accurate, editable text transcripts quickly and securely.",
+            "icon": "/logo/www.cockatoo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "939",
+            "name": "Superwhisper",
+            "slug": "superwhisper",
+            "description": "Superwhisper is an AI-powered app for Mac that enables fast, offline voice-to-text transcription in any application to boost productivity.",
+            "icon": "/logo/superwhisper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "953",
+            "name": "Reflect",
+            "slug": "reflect",
+            "description": "Reflect is an AI-powered note-taking app that helps users capture, organize, and connect ideas through networked notes and intelligent features.",
+            "icon": "/logo/reflect.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1013",
+            "name": "Whisper Transcribe",
+            "slug": "whisper-transcribe",
+            "description": "Whisper Transcribe is an online platform that uses AI to transcribe audio and video files into text with high accuracy and support for multiple languages.",
+            "icon": "/logo/www.whispertranscribe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1014",
+            "name": "Claap",
+            "slug": "claap",
+            "description": "Claap is an AI-powered asynchronous video platform that helps teams replace meetings with quick screen recordings, intelligent summaries, and collaborative tools for efficient communication.",
+            "icon": "/logo/www.claap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1024",
+            "name": "YouTube Summarized",
+            "slug": "youtube-summarized",
+            "description": "YouTube Summarized is an AI-powered tool that generates concise summaries of YouTube videos, helping users quickly grasp key points without watching the entire content.",
+            "icon": "/logo/youtubesummarized.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1030",
+            "name": "Muse.ai",
+            "slug": "muse-ai",
+            "description": "Muse.ai is an AI-powered video hosting platform that enables intelligent search, management, and sharing of video content.",
+            "icon": "/logo/muse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1032",
+            "name": "Checksub",
+            "slug": "checksub",
+            "description": "Checksub is an AI-powered platform for automatic subtitle generation, translation, and editing to make videos more accessible and engaging.",
+            "icon": "/logo/www.checksub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1033",
+            "name": "MyMeet.ai",
+            "slug": "mymeet-ai",
+            "description": "MyMeet.ai is an AI-powered platform that automates meeting transcription, summarization, and action item tracking to boost productivity and collaboration.",
+            "icon": "/logo/mymeet.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1036",
+            "name": "Ringflow",
+            "slug": "ringflow",
+            "description": "Ringflow is an AI-powered cloud communication platform that unifies voice, messaging, and video calls to enhance business connectivity, productivity, and customer satisfaction.",
+            "icon": "/logo/www.ringflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1056",
+            "name": "RightBlogger",
+            "slug": "rightblogger",
+            "description": "RightBlogger is an all-in-one AI marketing platform that helps bloggers and marketers create SEO-optimized content, generate leads, and grow their email lists using over 80 AI-powered tools.",
+            "icon": "/logo/rightblogger.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1059",
+            "name": "Snipd",
+            "slug": "snipd",
+            "description": "Snipd is an AI-powered podcast app that enables users to discover, highlight, and save key moments from podcasts for easy sharing and reference.",
+            "icon": "/logo/www.snipd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1075",
+            "name": "Sembly AI",
+            "slug": "sembly-ai",
+            "description": "Sembly AI is an AI notetaker designed for teams and professionals, offering features like transcription, meeting summaries, and actionable insights for various meeting types.",
+            "icon": "/logo/www.sembly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "Avoma",
+            "slug": "avoma",
+            "description": "Avoma is an all-in-one AI platform that automates note-taking, scheduling, coaching, and revenue intelligence to enhance business efficiency and growth.",
+            "icon": "/logo/www.avoma.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1085",
+            "name": "Rev.ai",
+            "slug": "rev-ai",
+            "description": "Rev.ai provides an API for highly accurate speech-to-text transcription and additional insights for audio and video files, catering to applications needing transcription, language identification, sentiment analysis, and more.",
+            "icon": "/logo/www.rev.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1115",
+            "name": "AutoCaption",
+            "slug": "autocaption",
+            "description": "AutoCaption is an AI-powered platform that automatically generates animated captions and subtitles for videos to enhance engagement on social media.",
+            "icon": "/logo/www.autocaption.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1128",
+            "name": "Callin",
+            "slug": "callin",
+            "description": "Callin is a social audio platform that enables users to host live conversations, engage with audiences, and effortlessly convert sessions into podcasts.",
+            "icon": "/logo/callin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1187",
+            "name": "Exemplary AI",
+            "slug": "exemplary-ai",
+            "description": "Exemplary AI is an innovative platform that leverages artificial intelligence to provide transcription, summarization, translation, and content generation services for audio and video files.",
+            "icon": "/logo/exemplary.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1193",
+            "name": "Circleback",
+            "slug": "circleback-ai",
+            "description": "Circleback is an AI-powered meeting assistant that automatically transcribes, summarizes, and organizes notes from virtual meetings to enhance productivity.",
+            "icon": "/logo/circleback.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1400",
+            "name": "Biography Studio AI",
+            "slug": "biography-studio-ai",
+            "description": "Biography Studio AI is an AI-powered platform that transforms spoken personal life stories into professionally written books, audiobooks, or podcasts.",
+            "icon": "/logo/www.biographystudio.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1291",
+            "name": "VoxDeck",
+            "slug": "voxdeck-ai",
+            "description": "VoxDeck is an AI-powered conversation intelligence platform that analyzes sales calls and meetings to deliver actionable insights and enhance team performance.",
+            "icon": "/logo/www.voxdeck.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1372",
+            "name": "Tako",
+            "slug": "tako",
+            "description": "Tako is an AI-powered platform that streamlines customer research by automating interviews, transcriptions, and insights generation.",
+            "icon": "/logo/trytako.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1286",
+            "name": "Mumble Note",
+            "slug": "mumble-note",
+            "description": "Mumble Note is the fastest AI voice notetaker that instantly converts spoken meetings, tasks, ideas, and notes into organized outputs like summaries, to-dos, and transcripts.",
+            "icon": "/logo/www.mumblenote.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1279",
+            "name": "Transcriptly",
+            "slug": "transcriptly",
+            "description": "Transcriptly is an online service that allows users to transcribe audio and video files to text instantly, supporting 98+ languages and various formats like MP3, MP4, WAV, M4A, and MOV.",
+            "icon": "/logo/transcriptly.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1264",
+            "name": "WriteVoice",
+            "slug": "writevoice",
+            "description": "WriteVoice is an AI-powered voice-to-text tool that allows users to write faster by speaking instead of typing, integrating seamlessly with various applications.",
+            "icon": "/logo/www.writevoice.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        },
+        {
+            "id": "1316",
+            "name": "TranscriptGenerator.ai",
+            "slug": "transcriptgenerator-ai",
+            "description": "TranscriptGenerator.ai provides AI-powered transcription for Instagram videos, offering fast, accurate text with timestamps and multilingual support.",
+            "icon": "/logo/transcriptgenerator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-transcription"
+            ]
+        }
+    ]
+}

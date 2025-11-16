@@ -1,0 +1,65 @@
+{
+    "name": "JoggAI",
+    "description": "JoggAI is an AI-powered video generator that creates engaging videos with lifelike AI avatars from text, URLs, or images.",
+    "longDescription": "JoggAI is an innovative AI video creation platform designed to simplify and accelerate the production of high-quality, engaging video content for marketers, content creators, and businesses. By leveraging advanced AI technologies, it transforms text, product URLs, or images into professional-grade videos featuring lifelike AI avatars, eliminating the need for traditional filming or editing. The platform supports a wide range of use cases, including social media content, e-commerce product demos, and personalized marketing videos. Its mission is to make video production accessible, cost-effective, and efficient, enabling users to create scroll-stopping content in minutes. JoggAI’s intuitive interface and automation tools cater to both beginners and professionals, addressing the growing demand for fast, scalable video content in today’s digital landscape.",
+    "url": "https://www.jogg.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.jogg.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "joggai",
+    "categories": [
+        "AI Video Generator",
+        "AI Avatar Generator",
+        "AI Voice Cloning",
+        "AI Language Learning",
+        "AI Video Editor",
+        "AI Social Media Post Generator",
+        "AI Script Writing"
+    ],
+    "features": [
+        "QuickAds transforms product URLs or images into engaging video ads with AI avatars in seconds, streamlining marketing campaigns.",
+        "Custom AI avatars can be created from text prompts or photos, offering personalized and realistic video presenters without actors.",
+        "Batch video creation allows users to generate up to 100 video variations simultaneously, optimizing content for different platforms.",
+        "AI script writing generates data-driven video scripts in multiple languages, enhancing content creation efficiency.",
+        "Advanced lip-sync technology ensures AI avatars’ speech aligns seamlessly with audio, creating natural-looking videos.",
+        "Support for over 90 languages enables global content creation with automatic translation and localized avatars.",
+        "AI-assisted video editing allows users to trim, style, and add subtitles quickly, producing polished content effortlessly.",
+        "Voice cloning creates digital twins of users’ voices, enabling personalized video narration without recording.",
+        "Industry-specific templates provide ready-to-use designs for social media, e-commerce, and advertising videos.",
+        "AI face swap lets users swap faces in videos with favorite characters or custom avatars in seconds."
+    ],
+    "faqs": [
+        {
+            "question": "What is JoggAI used for?",
+            "answer": "JoggAI is used to create professional video content, such as social media ads, product demos, and personalized videos, using AI avatars without filming or editing."
+        },
+        {
+            "question": "Does JoggAI offer a free plan?",
+            "answer": "Yes, JoggAI offers a free trial that includes up to 3 video generations, 1 custom avatar, and videos up to 30 seconds with a watermark."
+        },
+        {
+            "question": "Can I create videos in multiple languages?",
+            "answer": "Yes, JoggAI supports over 90 languages, allowing users to create videos with localized AI avatars and translated scripts."
+        },
+        {
+            "question": "How does the URL-to-video feature work?",
+            "answer": "Users paste a product URL, and JoggAI’s AI extracts key information and visuals to generate a polished video ad in minutes."
+        },
+        {
+            "question": "Is JoggAI suitable for beginners?",
+            "answer": "Absolutely, JoggAI’s intuitive interface and automated tools make it easy for beginners to create professional videos without prior experience."
+        },
+        {
+            "question": "Can I customize the AI avatars?",
+            "answer": "Yes, users can create custom avatars from text prompts or uploaded photos, tailoring their appearance and voice for specific needs."
+        },
+        {
+            "question": "What platforms are JoggAI videos optimized for?",
+            "answer": "JoggAI videos are optimized for platforms like TikTok, YouTube Shorts, Instagram Reels, and Facebook, with formats like 9:16 and 16:9."
+        },
+        {
+            "question": "Does JoggAI support voice cloning?",
+            "answer": "Yes, JoggAI offers voice cloning to create a digital twin of your voice for personalized video narration."
+        }
+    ]
+}

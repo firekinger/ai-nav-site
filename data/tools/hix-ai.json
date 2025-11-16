@@ -1,0 +1,64 @@
+{
+    "name": "HIX.AI",
+    "description": "HIX.AI provides AI-powered writing tools to enhance content creation and productivity.",
+    "longDescription": "HIX.AI is an AI-driven platform designed to streamline content creation, editing, and optimization for individuals and businesses. It offers a suite of tools powered by advanced AI models to assist with writing, paraphrasing, summarizing, and more, catering to diverse needs like marketing, academic writing, and professional communication. The platform aims to save time and improve content quality by automating repetitive tasks and providing intelligent suggestions. HIX.AI supports users in generating high-quality text efficiently, making it ideal for writers, marketers, and educators. Its mission is to empower users to produce polished, engaging content with minimal effort. The platform integrates seamlessly with various workflows, offering both free and premium options to suit different user needs.",
+    "url": "https://hix.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hix.ai.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "hix-ai",
+    "categories": [
+        "AI Writing",
+        "AI Paraphraser",
+        "AI Grammar Checker",
+        "AI SEO Tools",
+        "AI Translate",
+        "AI Plagiarism Checker",
+        "AI Email Assistant",
+        "AI Summarizer",
+        "AI Chatbot"
+    ],
+    "features": [
+        "AI Writer generates high-quality articles, essays, and marketing copy tailored to user inputs.",
+        "Paraphrasing Tool rewrites text to improve clarity, originality, or tone while maintaining meaning.",
+        "Grammar Checker corrects grammatical errors and enhances text readability in real-time.",
+        "Article Summarizer condenses lengthy content into concise summaries for quick understanding.",
+        "Email Writer crafts professional, personalized emails for various purposes, saving time.",
+        "SEO Optimization Tool suggests keywords and structures to improve content visibility.",
+        "Multilingual Support translates and generates content in over 50 languages.",
+        "Plagiarism Checker ensures content originality by scanning for duplicate text.",
+        "Chatbot Integration provides real-time writing assistance via an AI-powered virtual assistant.",
+        "Text Expander elaborates on brief ideas to create detailed, coherent content.",
+        "Tone Adjuster modifies text to match desired tones, such as formal or conversational."
+    ],
+    "faqs": [
+        {
+            "question": "What is HIX.AI used for?",
+            "answer": "HIX.AI is used for creating, editing, and optimizing content with AI tools for writing, paraphrasing, summarizing, and more."
+        },
+        {
+            "question": "Does HIX.AI offer a free plan?",
+            "answer": "Yes, HIX.AI provides a free plan with limited access to its core features, suitable for basic content needs."
+        },
+        {
+            "question": "Can HIX.AI help with SEO content?",
+            "answer": "HIX.AI’s SEO Optimization Tool suggests keywords and structures to enhance content visibility and search engine rankings."
+        },
+        {
+            "question": "Is HIX.AI suitable for non-English content?",
+            "answer": "Yes, HIX.AI supports content creation and translation in over 50 languages for global users."
+        },
+        {
+            "question": "How does HIX.AI ensure content originality?",
+            "answer": "HIX.AI’s Plagiarism Checker scans content to ensure it is unique and free from duplication."
+        },
+        {
+            "question": "Can I use HIX.AI for professional emails?",
+            "answer": "HIX.AI’s Email Writer crafts professional, context-appropriate emails quickly and efficiently."
+        },
+        {
+            "question": "Does HIX.AI integrate with other platforms?",
+            "answer": "HIX.AI offers integrations and extensions to enhance compatibility with various workflows and tools."
+        }
+    ]
+}

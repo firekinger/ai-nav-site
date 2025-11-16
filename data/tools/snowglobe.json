@@ -1,0 +1,73 @@
+{
+    "name": "Snowglobe",
+    "description": "Snowglobe is an AI-powered platform for creating and interacting with personalized virtual worlds and AI companions in a contained, immersive environment.",
+    "longDescription": "Snowglobe is an innovative AI platform that enables users to build custom virtual 'snowglobes'—self-contained digital worlds filled with interactive AI elements and characters. Its mission is to make AI creation accessible to everyone, allowing non-technical users to design immersive experiences for entertainment, education, or personal use. The platform solves the challenge of complex AI development by offering user-friendly tools that handle everything from environment design to conversational logic. Users can create personalized stories, virtual companions, or simulated scenarios that respond dynamically to inputs. By leveraging advanced AI technologies, Snowglobe fosters creativity and enables meaningful interactions in a fun, enclosed format. Overall, it serves as a bridge between imagination and technology, empowering users to craft unique digital realms.",
+    "url": "https://snowglobe.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/snowglobe.so.webp",
+    "category": "AI Landscape Generator",
+    "categorySlug": "ai-landscape-generator",
+    "slug": "snowglobe",
+    "categories": [
+        "AI Landscape Generator",
+        "AI Character",
+        "AI Story Generator",
+        "No-Code&Low-Code",
+        "AI Chat Generator",
+        "AI Creative Writing",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Intuitive drag-and-drop builder allows users to easily create and customize virtual environments without coding expertise.",
+        "AI character generation enables the design of personalities, backstories, and behaviors for lifelike virtual companions.",
+        "Natural language processing supports real-time, conversational interactions within the snowglobe for engaging user experiences.",
+        "Collaboration tools let users share and co-edit snowglobes with others, fostering community-driven creativity.",
+        "Integration with popular AI models enhances the intelligence and responsiveness of virtual elements.",
+        "Export and embed features allow users to integrate snowglobes into websites, apps, or social media for broader sharing.",
+        "Community gallery provides inspiration by showcasing user-created snowglobes that can be remixed or adapted.",
+        "Analytics dashboard tracks user interactions and engagement within snowglobes to refine and improve creations.",
+        "Customization options include visual themes, soundscapes, and dynamic events to make each snowglobe unique.",
+        "Mobile compatibility ensures users can access and interact with snowglobes on various devices seamlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Snowglobe?",
+            "answer": "Snowglobe is an AI platform for building personalized virtual worlds and AI companions. It allows users to create immersive, self-contained digital environments without needing programming skills."
+        },
+        {
+            "question": "How do I create a snowglobe?",
+            "answer": "Start by signing up, then use the drag-and-drop interface to design your environment, add AI characters, and set up interactions. Tutorials are available to guide beginners through the process."
+        },
+        {
+            "question": "Is Snowglobe free to use?",
+            "answer": "Yes, Snowglobe offers a free plan with core features, though premium options unlock advanced tools and unlimited creations. The free tier is sufficient for basic projects and experimentation."
+        },
+        {
+            "question": "Can I share my snowglobe with others?",
+            "answer": "Absolutely, you can share your snowglobe via links, embeds, or the community gallery. Collaboration features also allow real-time editing with friends or colleagues."
+        },
+        {
+            "question": "What kind of AI does Snowglobe use?",
+            "answer": "Snowglobe integrates with state-of-the-art AI models for natural language processing and dynamic responses. This ensures characters and environments react intelligently to user inputs."
+        },
+        {
+            "question": "Is Snowglobe suitable for education?",
+            "answer": "Yes, educators can use Snowglobe to create interactive simulations, historical recreations, or storytelling tools. It helps engage students in immersive learning experiences."
+        },
+        {
+            "question": "How secure is my data on Snowglobe?",
+            "answer": "Snowglobe prioritizes user privacy with encrypted data storage and compliance with standard regulations. You control sharing settings for your creations."
+        },
+        {
+            "question": "Can I monetize my snowglobe creations?",
+            "answer": "While direct monetization isn't built-in, you can export and sell access to your snowglobes externally or use them in professional projects. Premium features support advanced commercial use."
+        },
+        {
+            "question": "What devices support Snowglobe?",
+            "answer": "Snowglobe is web-based and works on desktops, tablets, and mobiles. Optimal experience is on modern browsers with good internet connectivity."
+        },
+        {
+            "question": "How does Snowglobe differ from other AI tools?",
+            "answer": "Unlike general chatbots, Snowglobe focuses on contained virtual worlds with visual and interactive elements. It combines creativity, AI, and immersion in a unique, user-friendly package."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "PhotoRoom",
+    "description": "PhotoRoom is an AI-powered photo editing platform that simplifies creating professional-quality images for businesses and individuals.",
+    "longDescription": "PhotoRoom is an innovative AI-driven photo editing tool designed to help users create high-quality product photos, portraits, and marketing visuals without needing advanced skills or expensive software. It serves e-commerce sellers, small businesses, content creators, and marketers by automating tasks like background removal and image enhancement. The platform’s mission is to make professional imagery accessible, saving users time and costs while boosting their online presence. Available on mobile and web, PhotoRoom streamlines editing workflows with intuitive tools and scalable API integrations. Its generative AI capabilities allow rapid creation of studio-quality visuals, making it a go-to solution for enhancing product listings and social media content.",
+    "url": "https://www.photoroom.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/photoroom.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "photoroom",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Marketing",
+        "AI Productivity Tools",
+        "AI Developer Tools",
+        "AI Social Media"
+    ],
+    "features": [
+        "Automatic background removal isolates subjects instantly, creating clean, professional images for product photography.",
+        "Instant Backgrounds uses AI to generate realistic, studio-quality backdrops, enhancing visuals in seconds.",
+        "Batch Editor allows users to edit hundreds of photos simultaneously, speeding up workflows for e-commerce listings.",
+        "Magic Retouch removes unwanted objects or defects with a simple swipe, ensuring flawless images.",
+        "Smart Resize adjusts images to fit various platforms, maintaining quality for social media or marketplaces.",
+        "API integration enables developers to automate image editing within their apps or websites, scaling visual content production.",
+        "Customizable templates provide pre-designed layouts for e-commerce, social media, and marketing, ensuring brand consistency."
+    ],
+    "faqs": [
+        {
+            "question": "Is PhotoRoom free to use?",
+            "answer": "Yes, PhotoRoom offers a free plan with limited features, including 250 exports per month and basic editing tools. A Pro plan unlocks advanced features like batch editing and HD exports."
+        },
+        {
+            "question": "What is the main purpose of PhotoRoom?",
+            "answer": "PhotoRoom is designed to simplify photo editing by using AI to remove backgrounds, enhance images, and create professional visuals for e-commerce, marketing, and social media."
+        },
+        {
+            "question": "Can I use PhotoRoom for commercial purposes?",
+            "answer": "Yes, PhotoRoom can be used for commercial purposes, but users should review the terms of service for any limitations on templates or stock images."
+        },
+        {
+            "question": "Does PhotoRoom support batch editing?",
+            "answer": "Yes, the Pro plan includes a Batch Editor that allows users to edit multiple images at once, ideal for high-volume e-commerce needs."
+        },
+        {
+            "question": "How accurate is PhotoRoom’s background removal?",
+            "answer": "PhotoRoom’s AI-powered background removal is highly accurate, reportedly twice as effective as competitors, though it may struggle with complex scenes or low-contrast images."
+        },
+        {
+            "question": "Is there a mobile app for PhotoRoom?",
+            "answer": "Yes, PhotoRoom offers mobile apps for iOS and Android, allowing users to edit images on the go with the same powerful features as the web platform."
+        },
+        {
+            "question": "Can I integrate PhotoRoom into my website or app?",
+            "answer": "Yes, PhotoRoom provides an API for developers to integrate automated image editing into their platforms, with plans starting at $20/month."
+        }
+    ]
+}

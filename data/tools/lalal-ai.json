@@ -1,0 +1,60 @@
+{
+    "name": "Lalal.ai",
+    "description": "Lalal.ai is an AI-powered audio processing platform specializing in vocal and instrumental track separation and enhancement.",
+    "longDescription": "Lalal.ai is an innovative platform that leverages artificial intelligence to provide advanced audio processing solutions, primarily focused on separating vocals and instrumentals from mixed audio tracks. Its mission is to empower musicians, producers, and content creators by offering tools to isolate, enhance, or modify audio elements with high precision. The platform uses proprietary AI algorithms to deliver studio-quality results, making it accessible for both professionals and amateurs. It serves users by simplifying complex audio editing tasks, such as creating karaoke tracks, remixing songs, or cleaning up recordings. Lalal.ai supports a wide range of audio formats and integrates seamlessly into creative workflows, enabling users to achieve professional-grade audio outputs efficiently.",
+    "url": "https://www.lalal.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.lalal.ai.webp",
+    "category": "AI Stems Splitter",
+    "categorySlug": "ai-stems-splitter",
+    "slug": "lalal-ai",
+    "categories": [
+        "AI Stems Splitter",
+        "AI Vocal Remover",
+        "AI Noise Cancellation",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Vocal and instrumental separation extracts clean vocals or instrumentals from any audio track for remixing or karaoke purposes.",
+        "Stem splitting technology isolates specific instruments like drums, bass, or piano from mixed audio with high accuracy.",
+        "Noise cancellation removes background noise from recordings, improving audio clarity for podcasts or voiceovers.",
+        "Batch processing allows users to upload and process multiple audio files simultaneously, saving time for large projects.",
+        "High-quality audio output ensures studio-grade results suitable for professional music production or content creation.",
+        "User-friendly interface enables easy navigation and quick processing without requiring advanced technical skills.",
+        "Cross-platform compatibility supports various audio formats like MP3, WAV, and FLAC for flexible use.",
+        "Mobile app availability provides on-the-go audio processing through iOS and Android devices.",
+        "API integration enables developers to embed Lalal.ai’s audio processing capabilities into their own applications.",
+        "Real-time previews allow users to hear processed audio before downloading, ensuring satisfaction with results."
+    ],
+    "faqs": [
+        {
+            "question": "What is Lalal.ai used for?",
+            "answer": "Lalal.ai is used to separate vocals and instrumentals from audio tracks, create karaoke versions, remove noise, or isolate specific instruments for music production and content creation."
+        },
+        {
+            "question": "Does Lalal.ai offer a free plan?",
+            "answer": "Yes, Lalal.ai offers a free plan with limited processing time, allowing users to test its features before purchasing a paid plan."
+        },
+        {
+            "question": "What audio formats does Lalal.ai support?",
+            "answer": "Lalal.ai supports popular formats like MP3, WAV, FLAC, and others, ensuring compatibility with most audio files."
+        },
+        {
+            "question": "How accurate is the vocal and instrumental separation?",
+            "answer": "Lalal.ai’s AI algorithms provide high-precision separation, delivering near-studio-quality results, though accuracy may vary based on audio complexity."
+        },
+        {
+            "question": "Can I process multiple files at once?",
+            "answer": "Yes, Lalal.ai’s batch processing feature allows users to upload and process multiple audio files simultaneously for efficiency."
+        },
+        {
+            "question": "Is there a mobile app for Lalal.ai?",
+            "answer": "Yes, Lalal.ai offers mobile apps for iOS and Android, enabling users to process audio on the go."
+        },
+        {
+            "question": "Can developers integrate Lalal.ai into their applications?",
+            "answer": "Lalal.ai provides an API for developers to integrate its audio processing capabilities into custom applications or workflows."
+        }
+    ]
+}

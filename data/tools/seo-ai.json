@@ -1,0 +1,63 @@
+{
+    "name": "SEO.AI",
+    "description": "SEO.AI leverages AI to streamline content creation and optimization for enhanced search engine rankings.",
+    "longDescription": "SEO.AI is an advanced AI-powered platform designed to simplify and enhance search engine optimization (SEO) and content creation for businesses, marketers, and content creators. Its mission is to make SEO accessible and efficient by automating time-consuming tasks like keyword research, content generation, and performance analysis. The platform combines data-driven insights with AI to produce SEO-optimized content that aligns with search engine algorithms and user intent. By offering tools for keyword analysis, content optimization, and competitor tracking, SEO.AI empowers users to boost their website’s visibility and organic traffic. It caters to a wide range of users, from small websites to large enterprises, with both automated and customizable features to match brand voice and goals. The platform also integrates with tools like Google Search Console to provide real-time performance insights.",
+    "url": "https://seo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/seo.ai.webp",
+    "category": "AI SEO Tools",
+    "categorySlug": "ai-seo-tools",
+    "slug": "seo-ai",
+    "categories": [
+        "AI SEO Tools",
+        "AI Writing",
+        "AI Scheduling",
+        "AI Description Generator"
+    ],
+    "features": [
+        "AI-powered keyword research identifies high-potential keywords to boost content visibility.",
+        "Automated content generation creates SEO-optimized articles tailored to search intent.",
+        "Competitor analysis compares content strategies to uncover ranking opportunities.",
+        "SEO Score provides instant feedback on content optimization with actionable suggestions.",
+        "Internal linking tool enhances site structure for better user engagement and SEO.",
+        "Google Search Console integration delivers real-time page performance insights.",
+        "AI-driven meta description generator improves click-through rates from search results.",
+        "Keyword cannibalization tool prevents multiple pages from competing for the same keywords.",
+        "Backlink checker evaluates the quality and impact of a website’s backlink profile.",
+        "AI paraphrasing tool refines content while maintaining context and SEO relevance.",
+        "Content scheduling automates publication for consistent content delivery."
+    ],
+    "faqs": [
+        {
+            "question": "What is SEO.AI used for?",
+            "answer": "SEO.AI uses AI to automate and enhance SEO tasks like keyword research, content creation, and optimization to improve search engine rankings."
+        },
+        {
+            "question": "Does SEO.AI offer a free plan?",
+            "answer": "Yes, SEO.AI provides free access to several tools, such as the AI Keyword Tool and Backlink Checker, though with limited usage."
+        },
+        {
+            "question": "Can SEO.AI integrate with other platforms?",
+            "answer": "SEO.AI integrates with Google Search Console to provide performance insights and supports WordPress for automated content publishing."
+        },
+        {
+            "question": "How does SEO.AI help with content creation?",
+            "answer": "It generates SEO-optimized articles, meta descriptions, and product listings using AI, tailored to match user-defined tone and style."
+        },
+        {
+            "question": "Is SEO.AI suitable for beginners?",
+            "answer": "Yes, its user-friendly interface and automated tools make it accessible for beginners while offering advanced features for experts."
+        },
+        {
+            "question": "How does SEO.AI ensure content aligns with my brand?",
+            "answer": "SEO.AI allows users to train the AI on their documents and set manual rules to ensure content matches brand voice and style."
+        },
+        {
+            "question": "Can SEO.AI help with competitor analysis?",
+            "answer": "Yes, it analyzes top-ranking competitors to identify content gaps and strategies for improved rankings."
+        },
+        {
+            "question": "How fast can SEO.AI generate content?",
+            "answer": "SEO.AI can produce a fully optimized article in minutes, depending on the complexity and additional features like image generation."
+        }
+    ]
+}

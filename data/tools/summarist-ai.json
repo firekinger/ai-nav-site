@@ -1,0 +1,56 @@
+{
+    "name": "Summarist.ai",
+    "description": "Summarist.ai is an AI-powered platform that generates concise book summaries in under 30 seconds.",
+    "longDescription": "Summarist.ai is an AI-driven book summary generator designed to help users quickly grasp key concepts and themes from books across various genres. By leveraging advanced large language model (LLM) technology, it provides concise, digestible summaries in less than 30 seconds, catering to students, professionals, and lifelong learners with busy schedules. The platform aims to facilitate learning and personal growth by making knowledge accessible without the time commitment of reading entire books. It respects intellectual property rights, encouraging users to purchase original works, and offers a user-friendly interface for efficient knowledge acquisition. Summarist.ai also provides an option for users to join a waitlist for free weekly book summaries, enhancing its appeal for those seeking regular insights.",
+    "url": "https://summarist.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/summarist.ai.webp",
+    "category": "AI Article Summarizer",
+    "categorySlug": "ai-article-summarizer",
+    "slug": "summarist-ai",
+    "categories": [
+        "AI Article Summarizer",
+        "AI Book Summarizer",
+        "AI Writing",
+        "AI Knowledge Management",
+        "AI Language Learning",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Generates book summaries in under 30 seconds, saving users time while delivering key insights.",
+        "Covers a wide range of genres including biographies, business, health, history, and self-help for diverse user interests.",
+        "Uses advanced LLM technology to create accurate, human-like summaries of complex texts.",
+        "Offers a waitlist for free weekly book summaries, providing ongoing value to users.",
+        "Allows users to input a book title to receive a tailored summary, enhancing ease of use.",
+        "Encourages purchasing original books to support authors, promoting ethical use of summaries."
+    ],
+    "faqs": [
+        {
+            "question": "What is Summarist.ai?",
+            "answer": "Summarist.ai is an AI-powered tool that generates concise book summaries in under 30 seconds, helping users quickly understand key concepts."
+        },
+        {
+            "question": "Is Summarist.ai free to use?",
+            "answer": "Yes, Summarist.ai offers free access to its core book summary generation feature, with an option to join a waitlist for free weekly summaries."
+        },
+        {
+            "question": "What types of books can Summarist.ai summarize?",
+            "answer": "The platform can summarize books across various genres, including biographies, business, health, history, self-help, and more."
+        },
+        {
+            "question": "How accurate are the summaries provided by Summarist.ai?",
+            "answer": "Summaries are generated using advanced AI algorithms designed to capture key points accurately, though they are not a substitute for the original text."
+        },
+        {
+            "question": "Can I use Summarist.ai on my mobile device?",
+            "answer": "Yes, Summarist.ai is accessible on both desktop and mobile devices, offering flexibility for users on the go."
+        },
+        {
+            "question": "What should I do if a book is not found on Summarist.ai?",
+            "answer": "Ensure the book title is entered correctly, using the original or most recognized title, or try again later due to possible technical glitches."
+        },
+        {
+            "question": "Does Summarist.ai respect copyright laws?",
+            "answer": "Yes, Summarist.ai adheres to copyright laws and encourages users to purchase original books to support authors."
+        }
+    ]
+}

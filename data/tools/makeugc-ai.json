@@ -1,0 +1,79 @@
+{
+    "name": "MakeUGC",
+    "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+    "longDescription": "MakeUGC is an AI-powered platform designed to streamline the creation of UGC videos for brands, allowing users to generate high-quality, personalized videos in minutes without the need for creators or editors. Its mission is to make video content creation fast, cost-effective, and scalable, serving advertisers and businesses by providing tools to produce engaging ads with features like script generation, avatar customization, and multi-language support. The platform caters to users ranging from startups to enterprises, offering plans that include video credits, AI creators, and additional features like custom avatars and bulk content creation. It aims to replace traditional, expensive video production methods with an efficient, AI-driven process, as evidenced by its use by 300+ brands and high ROAS results. By leveraging AI, MakeUGC solves problems like high production costs and time delays, enabling rapid A/B testing and global reach.",
+    "url": "https://www.makeugc.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.makeugc.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "makeugc-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Avatar Generator",
+        "AI Script Writing",
+        "AI Video Translator",
+        "AI Caption Generator",
+        "AI Product Description Generator",
+        "AI Voice Generator",
+        "AI Social Media",
+        "AI Advertising"
+    ],
+    "features": [
+        "Allows users to generate a script automatically or manually to align with brand messaging for personalized AI videos.",
+        "Offers over 300 unique AI avatars for users to select, providing visual identity and style to videos.",
+        "Enables quick video generation by combining selected avatars and scripts, producing high-quality videos in minutes.",
+        "Supports creating custom AI avatars by uploading 60 seconds of footage, allowing videos in 35+ languages with scalable usage.",
+        "Includes an AI hook generator to create attention-grabbing openers instantly, eliminating writer’s block.",
+        "Provides an ad script writer that crafts high-performing scripts tailored to products, offers, and audiences in seconds.",
+        "Features a talking product-in-hand video option, turning product images into lifelike videos without green screens or reshoots.",
+        "Allows content creation in 35+ languages instantly, reaching global audiences with AI-powered voice-to-voice delivery.",
+        "Offers bulk variation engine capabilities, generating 100+ video variations per input for rapid A-B testing.",
+        "Includes a B-roll video generator and custom voice options for enhanced video production."
+    ],
+    "faqs": [
+        {
+            "question": "How long does a video take to generate?",
+            "answer": "After inputting a script, talking head videos take between 2-10 minutes to process, AI hook videos take 5-10 seconds, and custom avatars can take up to 1 hour to train; contact support at help@makeugc.ai if delays occur."
+        },
+        {
+            "question": "Can AI hold my product?",
+            "answer": "Yes, MakeUGC allows holding, showcasing, and consuming products in videos, available for PRO, Launch, or enterprise plan users, with standard templated videos created in minutes."
+        },
+        {
+            "question": "If I edit an already generated video, will it be considered a new video/take a video credit?",
+            "answer": "Yes, editing a generated video counts as a new video and uses a credit, but credits can be refunded if issues are due to system errors or creator malfunctions."
+        },
+        {
+            "question": "What should I do if my video is taking too long to generate?",
+            "answer": "Contact support via the bottom right screen or at help@makeugc.ai if delays exceed 2-10 minutes for talking head videos, 5-10 seconds for AI hook videos, or 1 hour for custom avatars, noting peak hours may double times."
+        },
+        {
+            "question": "How do I upgrade my plan?",
+            "answer": "Upgrade through account settings, with current credits rolling over into the new plan, initiating a new billing cycle."
+        },
+        {
+            "question": "How can I cancel?",
+            "answer": "Cancel anytime through the subscription tab, with the subscription remaining active until the end of the current billing cycle."
+        },
+        {
+            "question": "Are there any limits on the use of ads made with MakeUGC?",
+            "answer": "No, users own all creatives even after plan ends, with royalty-free stock footage, usable across any channel without restrictions."
+        },
+        {
+            "question": "What will I get with a subscription plan?",
+            "answer": "Each plan provides a specific number of monthly or annual videos, access to features like AI video creation, ad and script makers, and over 150+ avatars."
+        },
+        {
+            "question": "How can I change my plan?",
+            "answer": "Change plans anytime through account settings on the subscription tab, contact help@makeugc.ai for assistance."
+        },
+        {
+            "question": "Is there a trial for MakeUGC?",
+            "answer": "No free trial is offered, but refunds are available if signed up and unused, with no questions asked."
+        },
+        {
+            "question": "Do you offer a refund?",
+            "answer": "Yes, refunds are offered, with full details in the refund policy."
+        }
+    ]
+}

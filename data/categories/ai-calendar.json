@@ -1,0 +1,149 @@
+{
+    "title": "The Best 13 AI Calendar Tools in 2025",
+    "summary": "Discover the power of AI Calendar tools designed to streamline your scheduling and enhance productivity. These innovative solutions leverage artificial intelligence to automate appointment management, optimize time allocation, and provide smart reminders, ensuring you never miss a beat. Whether you're a busy professional or a team leader, AI Calendars simplify your planning process, allowing you to focus on what truly matters. Explore our curated selection of AI Calendar tools today and transform the way you manage your time!",
+    "tools": [
+        {
+            "id": "265",
+            "name": "Motion",
+            "slug": "motion",
+            "description": "Motion is an AI-powered productivity tool that automates task management and scheduling to optimize daily workflows.",
+            "icon": "/logo/www.usemotion.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "510",
+            "name": "Taskade",
+            "slug": "taskade",
+            "description": "Taskade is an AI-powered productivity platform for task management, collaboration, and workflow automation.",
+            "icon": "/logo/www.taskade.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "549",
+            "name": "Planable",
+            "slug": "planable",
+            "description": "Planable is a social media management tool designed for teams to plan, collaborate, approve, and schedule content across multiple platforms.",
+            "icon": "/logo/planable.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "622",
+            "name": "Spark Mail",
+            "slug": "spark-mail",
+            "description": "Spark Mail is an AI-powered email and calendar app designed to enhance productivity and streamline inbox management for individuals and teams.",
+            "icon": "/logo/sparkmailapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "643",
+            "name": "Akiflow",
+            "slug": "akiflow",
+            "description": "Akiflow is an AI-powered productivity platform that integrates tasks and calendars for efficient time management and scheduling.",
+            "icon": "/logo/akiflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "838",
+            "name": "Syllaby",
+            "slug": "syllaby",
+            "description": "Syllaby is an AI-powered platform that streamlines the creation of viral social media videos with tools for ideation, scripting, and editing.",
+            "icon": "/logo/syllaby.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "973",
+            "name": "Clockwise",
+            "slug": "clockwise",
+            "description": "Clockwise is an AI-powered calendar optimization tool that helps users and teams manage time more effectively by automating scheduling and maximizing focus time.",
+            "icon": "/logo/www.getclockwise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "1057",
+            "name": "Rize",
+            "slug": "rize",
+            "description": "Rize is an AI-powered time tracking tool that automatically monitors and analyzes your work habits to improve productivity and prevent burnout.",
+            "icon": "/logo/rize.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "1073",
+            "name": "Morgen",
+            "slug": "morgen",
+            "description": "Morgen is a unified calendar and productivity app that integrates schedules, tasks, and time management tools to help users optimize their daily workflows.",
+            "icon": "/logo/www.morgen.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "1211",
+            "name": "SkedPal",
+            "slug": "skedpal",
+            "description": "SkedPal is an AI-powered calendar tool that transforms to-do lists into dynamic, time-blocked schedules to help users master their daily productivity.",
+            "icon": "/logo/www.skedpal.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "1299",
+            "name": "Extra Thursday",
+            "slug": "extra-thursday",
+            "description": "Extra Thursday is a voice-first AI assistant designed to manage emails, plan daily schedules, and handle administrative tasks efficiently.",
+            "icon": "/logo/www.extrathursday.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        },
+        {
+            "id": "836",
+            "name": "Toki AI",
+            "slug": "toki-ai",
+            "description": "Toki AI is an AI-powered calendar assistant that streamlines time management through voice, text, and image-based scheduling.",
+            "icon": "/logo/yestoki.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-calendar"
+            ]
+        }
+    ]
+}

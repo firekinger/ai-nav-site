@@ -1,0 +1,70 @@
+{
+    "name": "EduBrain.ai",
+    "description": "EduBrain.ai is an AI-powered homework helper that provides quick, accurate, and stress-free solutions for students across various subjects and academic levels.",
+    "longDescription": "EduBrain.ai is an AI homework helper designed to assist students in tackling their assignments with ease and confidence. It leverages advanced AI technologies to deliver step-by-step solutions and detailed explanations for a wide range of subjects. Users can input questions directly or upload images of handwritten notes and textbook problems for instant analysis. The platform's mission is to reduce study stress and enhance academic performance by making learning more accessible and understandable. It caters to students at school, university, and college levels, promoting self-reliant learning. Overall, it solves the problem of homework challenges by providing reliable, on-demand educational support.",
+    "url": "https://edubrain.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/edubrain.ai.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "edubrain-ai",
+    "categories": [
+        "AI Homework Helper",
+        "AI Math",
+        "AI Question Generator",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "AI-Powered Explanations: Provides step-by-step solutions and detailed explanations for homework questions to improve understanding.",
+        "Subject Variety: Supports a wide range of subjects, including Accounting, Biology, Mathematics, and more, catering to diverse academic needs.",
+        "Image Upload Feature: Allows users to snap and upload photos of handwritten notes or textbook questions for instant solutions, making it convenient for visual problems.",
+        "Easy Sign-Up: Offers a simple sign-up process for accessing the platform, ensuring quick onboarding for users.",
+        "Customizable Results: Enables users to refine questions for more detailed and tailored solutions, enhancing personalization.",
+        "Text and File Support: Accepts inputs up to 10,000 characters and files up to 32MB in formats like txt, pdf, doc, png, jpeg, jpg, for flexible usage.",
+        "Step-by-Step Learning Support: Breaks down problems into manageable steps to enhance understanding and promote better learning outcomes.",
+        "Instant Solutions: Delivers quick responses to homework queries, reducing study stress and saving time.",
+        "Academic Level Flexibility: Applicable to school, university, college, and other educational levels, making it versatile for all students.",
+        "Clear and Helpful Interface: Designed to be user-friendly with clear instructions and support, improving the overall user experience."
+    ],
+    "faqs": [
+        {
+            "question": "How does EduBrain work?",
+            "answer": "Our team uses advanced AI technologies, scripts, and templates to create a machine that assists students in their learning with an AI homework solver."
+        },
+        {
+            "question": "Is EduBrain AI a free app?",
+            "answer": "Yes, the platform is free of charge, and you can use it unlimited times at no cost."
+        },
+        {
+            "question": "Can I use EduBrain for school?",
+            "answer": "Yes, you can address AI homework help from EduBrain at school, university, college, etc., as it is applicable to any academic level and subject."
+        },
+        {
+            "question": "Do you guarantee that answers will be 100% accurate?",
+            "answer": "Thanks to the latest AI technologies, our algorithms generate high-quality educational content, but we encourage users to review the information as AI, like humans, can make mistakes."
+        },
+        {
+            "question": "Can EduBrain do math?",
+            "answer": "Yes, it can help with math, whether it's simple equations or harder problems, walking you through each step to make things easier."
+        },
+        {
+            "question": "Is it able to process practice questions from textbook material?",
+            "answer": "Absolutely, this homework AI can take questions from your textbook and provide clear, detailed answers, offering learning support across any subject."
+        },
+        {
+            "question": "Is using homework helpers considered cheating?",
+            "answer": "It is not cheating to use homework helpers if you use them to learn the subject matter on your own; these resources assist your learning journey and do not do the work for you."
+        },
+        {
+            "question": "Will I become too dependent on the AI for homework and studying?",
+            "answer": "We designed EduBrain to enhance your academic experience and urge students to utilize it as a resource while actively engaging with the content to cultivate self-reliant learning abilities."
+        },
+        {
+            "question": "Can the AI homework solver adapt to different learning styles and course requirements?",
+            "answer": "We recommend checking with your educational institution's policies, and you can also add instructions into the question field for EduBrain to follow for more accurate help."
+        },
+        {
+            "question": "What file types does EduBrain support for uploads?",
+            "answer": "Allowed file types are txt, pdf, doc, png, jpeg, jpg, with a max file size of 32MB; for other formats, expert help is recommended via https://my.edubrain.ai/order."
+        }
+    ]
+}

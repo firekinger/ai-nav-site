@@ -1,0 +1,76 @@
+{
+    "name": "Rubii AI",
+    "description": "Rubii AI is an interactive platform for creating and engaging with AI-driven virtual characters for roleplay, storytelling, and companionship.",
+    "longDescription": "Rubii AI is an AI-native platform designed to enable users to create, customize, and interact with lifelike virtual characters for immersive roleplay and storytelling experiences. Its mission is to redefine virtual companionship by offering dynamic, real-time conversations with characters ranging from anime-inspired figures to custom-designed personas. The platform serves a diverse audience, including roleplay enthusiasts, writers, and gamers, by providing tools for character creation, narrative development, and community engagement. By leveraging advanced AI models, Rubii AI facilitates emotionally intelligent interactions, making it a unique space for creative expression and digital companionship. It also supports a vibrant community where users can share their creations and collaborate on storytelling projects. The platform is accessible across multiple devices, ensuring seamless interaction for users worldwide.",
+    "url": "https://rubii.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/rubii.ai.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "rubii-ai",
+    "categories": [
+        "AI Character",
+        "AI Story Generator",
+        "AI Image Generator",
+        "AI Speech Synthesis",
+        "AI Roleplay",
+        "NSFW",
+        "AI Social Media",
+        "AI Video Generator",
+        "AI Assistant",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Users can create and customize AI characters with unique personalities, appearances, and dialogue styles for personalized roleplay experiences.",
+        "The platform supports advanced image generation, allowing users to create lifelike avatars or digital art using preset styles or uploaded references.",
+        "Rubii AI offers high-quality text-to-speech and voice message capabilities, enhancing immersion with realistic audio interactions.",
+        "Users can engage in interactive storytelling, directing multi-character narratives or crafting stories across various genres.",
+        "The 'Summon' feature enables AI-driven image and video generation with customizable styles, saved automatically to a personal asset library.",
+        "Adjustable memory settings allow users to control how much conversation history AI characters retain, improving continuity in roleplay.",
+        "Community features like Moments enable users to share favorite interactions and collaborate with others on Discord, Reddit, and other platforms.",
+        "The platform supports NSFW chatbot interactions, catering to users seeking adult-themed roleplay scenarios with customizable characters.",
+        "Rubii AI integrates advanced AI models like Claude, Gemini, and Grok for seamless text, image, and voice synthesis.",
+        "Users can access the platform via web browsers or mobile apps, ensuring flexibility and convenience across devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Rubii AI used for?",
+            "answer": "Rubii AI is used for creating and interacting with AI-driven virtual characters for roleplay, storytelling, and companionship, offering a platform for creative expression."
+        },
+        {
+            "question": "Is Rubii AI free to use?",
+            "answer": "Yes, Rubii AI offers a free version with basic access to character creation and chats, though premium features require a subscription or top-up."
+        },
+        {
+            "question": "Can I create my own AI characters?",
+            "answer": "Yes, users can fully customize AI characters by selecting traits, appearances, and dialogue styles to match their preferences."
+        },
+        {
+            "question": "What kind of AI models does Rubii AI use?",
+            "answer": "Rubii AI leverages models like Claude, Gemini, Grok, and proprietary engines for advanced text, image, and voice synthesis."
+        },
+        {
+            "question": "Does Rubii AI support NSFW content?",
+            "answer": "Yes, Rubii AI includes NSFW chatbot features for adult-themed roleplay, with customizable characters and scenarios."
+        },
+        {
+            "question": "Can I share my creations with others?",
+            "answer": "Users can share characters, stories, and interactions via Moments or integrated platforms like Discord and Reddit."
+        },
+        {
+            "question": "Is Rubii AI available on mobile devices?",
+            "answer": "Yes, Rubii AI is accessible via web browsers and dedicated mobile apps for iOS and Android."
+        },
+        {
+            "question": "How does the Summon feature work?",
+            "answer": "The Summon feature allows users to generate AI-driven images or videos with customizable styles, saved to their asset library for sharing or download."
+        },
+        {
+            "question": "Can I control how much my AI character remembers?",
+            "answer": "Yes, Rubii AI offers adjustable memory settings, from short-term to unlimited, to enhance conversation continuity."
+        },
+        {
+            "question": "Is there a community for Rubii AI users?",
+            "answer": "Rubii AI has a thriving community on Discord, Reddit, and other platforms where users share creations and collaborate."
+        }
+    ]
+}

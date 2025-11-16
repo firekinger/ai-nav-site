@@ -1,0 +1,259 @@
+{
+    "title": "The Best 24 AI Mental Health Tools in 2025",
+    "summary": "Discover the transformative power of AI in mental health with our curated selection of innovative tools designed to support emotional well-being. From personalized therapy chatbots to mood tracking apps, these solutions offer accessible, effective ways to manage stress, anxiety, and more. Experience the benefits of real-time support and tailored insights that empower you to take charge of your mental health journey. Explore our AI Mental Health category today and find the perfect tool to enhance your well-being!",
+    "tools": [
+        {
+            "id": "170",
+            "name": "Speechify",
+            "slug": "speechify",
+            "description": "Speechify is a text-to-speech platform that converts text into natural-sounding audio for enhanced accessibility and productivity.",
+            "icon": "/logo/speechify.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "199",
+            "name": "Hint",
+            "slug": "hint",
+            "description": "Hint is an AI-powered platform for personalized astrology insights and horoscope predictions.",
+            "icon": "/logo/hint.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Brain.fm",
+            "slug": "brain-fm",
+            "description": "Brain.fm provides science-backed functional music to enhance focus, relaxation, and sleep.",
+            "icon": "/logo/brain.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "305",
+            "name": "Freed",
+            "slug": "freed",
+            "description": "Freed is an AI-powered medical scribe that automates clinical documentation to save clinicians time.",
+            "icon": "/logo/www.getfreed.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "325",
+            "name": "HeraHaven",
+            "slug": "herahaven",
+            "description": "HeraHaven is an AI-powered platform for creating and interacting with customizable virtual companions, offering immersive chat and image-sharing experiences.",
+            "icon": "/logo/herahaven.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "353",
+            "name": "Replika",
+            "slug": "replika",
+            "description": "Replika is an AI-powered chatbot designed to provide emotional support and companionship through personalized conversations.",
+            "icon": "/logo/replika.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Wsup.ai",
+            "slug": "wsup-ai",
+            "description": "Wsup.ai is a free platform for engaging in uncensored conversations and roleplay with customizable AI characters.",
+            "icon": "/logo/wsup.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "360",
+            "name": "HiWaifu",
+            "slug": "hiwaifu",
+            "description": "HiWaifu is an AI-powered platform offering customizable virtual companions for chat, roleplay, and personal growth.",
+            "icon": "/logo/www.hiwaifu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "487",
+            "name": "Kupid AI",
+            "slug": "kupid-ai",
+            "description": "Kupid AI is an AI-powered chat platform offering personalized virtual companionship and immersive conversations with customizable AI characters.",
+            "icon": "/logo/www.kupid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "581",
+            "name": "Muah AI",
+            "slug": "muah-ai",
+            "description": "Muah AI is an AI companion platform offering uncensored, personalized virtual interactions through chat, voice, and photo exchanges.",
+            "icon": "/logo/muah.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "752",
+            "name": "Tavus",
+            "slug": "tavus",
+            "description": "Tavus is a generative AI video research company that enables developers to create hyper-realistic digital twins for personalized video experiences.",
+            "icon": "/logo/www.tavus.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "809",
+            "name": "Upheal",
+            "slug": "upheal",
+            "description": "Upheal is an AI-powered platform that automates progress notes and provides analytics for mental health professionals.",
+            "icon": "/logo/www.upheal.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "849",
+            "name": "SoulFun",
+            "slug": "soulfun-ai",
+            "description": "SoulFun is an AI-powered platform that enables users to create and engage with personalized virtual companions for immersive conversations and emotional support.",
+            "icon": "/logo/www.soulfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "930",
+            "name": "Inworld AI",
+            "slug": "inworld-ai",
+            "description": "Inworld AI is a platform that enables developers to create lifelike AI characters for immersive experiences in games, entertainment, and virtual worlds.",
+            "icon": "/logo/inworld.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "936",
+            "name": "Abby",
+            "slug": "abby",
+            "description": "AI Therapy offers round-the-clock support through Abby, an AI therapist designed to provide a non-judgmental space for discussing everyday problems and mental health challenges.",
+            "icon": "/logo/abby.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "959",
+            "name": "MyLoves.ai",
+            "slug": "myloves-ai",
+            "description": "MyLoves.ai is an AI-powered platform that allows users to create and interact with customizable virtual romantic companions for companionship and entertainment.",
+            "icon": "/logo/www.myloves.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "984",
+            "name": "Woebot Health",
+            "slug": "woebot-health",
+            "description": "Woebot Health is an AI-powered platform offering conversational mental health support through a chatbot designed to deliver cognitive behavioral therapy techniques.",
+            "icon": "/logo/woebothealth.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1048",
+            "name": "Mindsera",
+            "slug": "mindsera",
+            "description": "Mindsera is an AI-powered journaling app designed to enhance mindset, productivity, and personal growth through intelligent insights and habit tracking.",
+            "icon": "/logo/www.mindsera.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1356",
+            "name": "Seeles AI",
+            "slug": "seeles-ai",
+            "description": "Seeles AI is an innovative platform offering AI-powered virtual companions for personalized conversations and emotional support.",
+            "icon": "/logo/www.seeles.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1365",
+            "name": "Gaslighting Check",
+            "slug": "gaslighting-check",
+            "description": "Gaslighting Check is an AI-powered platform designed to help users detect and understand gaslighting behaviors in conversations and relationships.",
+            "icon": "/logo/www.gaslightingcheck.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1304",
+            "name": "Psynth",
+            "slug": "psynth-ai",
+            "description": "Psynth is an AI-powered software that transforms patient test results, intake data, and clinical observations into accurate, top-quality diagnostic reports for psychologists in minutes.",
+            "icon": "/logo/www.psynth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1364",
+            "name": "VibeScan",
+            "slug": "vibescan",
+            "description": "VibeScan is an AI-powered platform that analyzes the emotional tone and vibe of digital content to help users understand social dynamics and sentiment.",
+            "icon": "/logo/vibescan.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        },
+        {
+            "id": "1449",
+            "name": "Chai Research",
+            "slug": "chai-research",
+            "description": "Chai Research is an AI company specializing in developing engaging conversational AI companions for entertainment, social interaction, and research purposes.",
+            "icon": "/logo/chai-research.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-mental-health"
+            ]
+        }
+    ]
+}

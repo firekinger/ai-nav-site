@@ -1,0 +1,62 @@
+{
+    "name": "Salad",
+    "description": "Salad is a distributed GPU cloud platform that offers affordable AI compute resources and enables users to earn rewards by sharing idle PC processing power.",
+    "longDescription": "Salad is a compute-sharing platform that connects businesses needing affordable GPU resources for AI and machine learning tasks with individuals who share their idle PC processing power. Its mission is to democratize access to high-performance computing by leveraging latent consumer GPUs, reducing costs for companies while rewarding users with digital and real-world rewards. The platform supports a variety of workloads, including AI inference, batch processing, and molecular dynamics, offering up to 90% cost savings compared to traditional cloud providers. SaladCloud ensures security through SOC2 certification and a patented approach to isolating customer environments. For users, known as 'Salad Chefs,' the platform provides an easy way to monetize unused hardware, earning rewards like gift cards, games, and PayPal credits. The service is accessible globally, with over 1 million nodes across 180+ countries.",
+    "url": "https://salad.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/salad.com.webp",
+    "category": "AI Transcription",
+    "categorySlug": "ai-transcription",
+    "slug": "salad",
+    "categories": [
+        "AI Transcription",
+        "AI Predictions",
+        "AI Tools Directory",
+        "AI Image Generator"
+    ],
+    "features": [
+        "SaladCloud provides access to over 10,000 consumer-grade GPUs for AI/ML inference at up to 90% lower costs than hyperscalers.",
+        "Users can earn rewards like Steam games, Discord Nitro, and PayPal credits by sharing idle PC GPU, CPU, or bandwidth resources.",
+        "The platform supports containerized workloads, allowing businesses to deploy AI models securely without managing infrastructure.",
+        "Dynamic resource allocation enables seamless scaling to meet fluctuating computational demands without over-provisioning.",
+        "Salad’s desktop app automatically detects idle PC resources and allocates them to the most profitable workloads.",
+        "The Salad Transcription API offers cost-effective AI transcription, delivering 10X-2000X more inferences per dollar compared to managed services.",
+        "Pre-built containers on RTX 5090 GPUs enable superfast image generation, achieving 1.2s per image with Flux.1-Schnell.",
+        "The platform is SOC2 certified, ensuring secure isolation of customer data and environments across its distributed network.",
+        "Users can redeem over 3 million digital and real-world rewards annually through the Salad Storefront.",
+        "Salad supports most modern GPUs with at least 2GB VRAM, making it accessible to a wide range of consumer hardware."
+    ],
+    "faqs": [
+        {
+            "question": "What is Salad and how does it work?",
+            "answer": "Salad is a platform that allows users to earn rewards by sharing their idle PC’s GPU, CPU, or bandwidth for computational tasks like AI inference, while businesses access affordable cloud computing."
+        },
+        {
+            "question": "Is Salad safe to use on my computer?",
+            "answer": "Salad is not malicious and uses secure, virtualized environments, but some antivirus programs may flag it due to shared mining libraries; it’s SOC2 certified for data security."
+        },
+        {
+            "question": "What kind of rewards can I earn with Salad?",
+            "answer": "Users can earn digital rewards like Steam games, Discord Nitro, PayPal credits, and gift cards from retailers like Amazon and Visa through the Salad Storefront."
+        },
+        {
+            "question": "What hardware is required to use Salad?",
+            "answer": "Salad supports most dedicated GPUs with at least 2GB VRAM (e.g., NVIDIA GTX 1000-series or AMD R9 300-series and above) and 64-bit x86 CPUs with 2MB L3 cache per core."
+        },
+        {
+            "question": "Why does Salad require the Windows Subsystem for Linux?",
+            "answer": "Some containerized workloads may require the Windows Subsystem for Linux to run efficiently, but this is optional and depends on the tasks assigned to your PC."
+        },
+        {
+            "question": "How much can I earn using Salad?",
+            "answer": "Earnings depend on hardware capabilities, cryptocurrency market conditions, and usage time, with estimates provided in the app after initial use."
+        },
+        {
+            "question": "Is Salad cost-effective for businesses?",
+            "answer": "SaladCloud offers up to 90% cost savings compared to hyperscalers, with flexible pricing and no pre-paid contracts for AI and ML workloads."
+        },
+        {
+            "question": "Can I use Salad if I have an older GPU?",
+            "answer": "Older GPUs may not be supported if they lack sufficient core power or have less than 2GB VRAM; check Salad’s Machine Compatibility page for details."
+        }
+    ]
+}

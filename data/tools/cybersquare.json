@@ -1,0 +1,88 @@
+{
+    "name": "CyberSquare",
+    "description": "CyberSquare provides coding, AI, and robotics education solutions for schools, offering a comprehensive suite of products to enhance computer science curriculum from KG 1 to plus two.",
+    "longDescription": "CyberSquare is an educational platform focused on integrating coding, AI, and robotics into school curriculums to foster innovation and digital literacy. It collaborates with over 400 schools and serves 300,000 students across 10+ countries, aiming to prepare students for future-ready careers. The platform empowers computer science teachers and provides international collaboration opportunities, including IT internships for college students. With global offices and over 10 years of experience, CyberSquare ensures a world-class educational approach, highlighted by events like Digital Fest to showcase student projects. Its mission is to transform students from users to creators in the tech industry, inspiring them to unlock their potential through technology.",
+    "url": "https://cybersquare.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cybersquare.org.webp",
+    "category": "AI Course",
+    "categorySlug": "ai-course",
+    "slug": "cybersquare",
+    "categories": [
+        "AI Course",
+        "AI Homework Helper",
+        "AI Robot",
+        "AI Code Assistant",
+        "AI Language Learning",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Offers AI-aligned curriculum for schools from KG 1 to plus two, ensuring students gain essential tech skills early.",
+        "Provides professional work experience and IT internships for college students to bridge education and industry.",
+        "Hosts Digital Fest events for students to present tech projects and engage parents in the learning process.",
+        "Features an AI-powered platform to enhance learning experiences with interactive and personalized education.",
+        "Facilitates international collaboration to elevate educational standards and expose students to global perspectives.",
+        "Trusted by over 400 schools and 300,000 students in more than 10 countries for reliable tech education.",
+        "Includes technical competency training for educators and students to build strong foundational skills.",
+        "Offers a comprehensive suite of products for educational improvement, including coding and robotics tools.",
+        "Integrates global perspectives into its educational approach with offices worldwide for diverse learning.",
+        "Showcases student innovations through events like the International Digital Fest to inspire creativity.",
+        "Provides an interactive app for grades 1 to 12, making coding fun and accessible via mobile devices.",
+        "Partners with AWS for advanced cloud solutions, enhancing efficiency and security in learning environments.",
+        "Delivers live online coding courses for kids, focusing on 21st-century skills like critical thinking.",
+        "Incorporates IoT and machine learning in curriculum to prepare students for emerging technologies."
+    ],
+    "faqs": [
+        {
+            "question": "What age groups does CyberSquare serve?",
+            "answer": "CyberSquare provides solutions for students from KG 1 to plus two, covering a wide range of school levels."
+        },
+        {
+            "question": "Does CyberSquare offer internships?",
+            "answer": "Yes, it provides IT internships and work experience for college students to gain practical skills."
+        },
+        {
+            "question": "How many schools collaborate with CyberSquare?",
+            "answer": "CyberSquare collaborates with over 400 schools across multiple countries."
+        },
+        {
+            "question": "What countries does CyberSquare operate in?",
+            "answer": "It operates in countries including the UK, UAE, Canada, India, and the USA, with global offices."
+        },
+        {
+            "question": "What is the Digital Fest?",
+            "answer": "The Digital Fest is an event where students present tech projects, such as at Lynn Rose School in Canada, to showcase innovations."
+        },
+        {
+            "question": "How does CyberSquare support teachers?",
+            "answer": "It empowers CS teachers through training, technical competency development, and AI-supported tools for evaluation."
+        },
+        {
+            "question": "What is CyberSquare’s mission?",
+            "answer": "Its mission is to empower children to become creators in the tech industry, as reflected in the tagline 'From Users to Creators.'"
+        },
+        {
+            "question": "Does CyberSquare use AI in its platform?",
+            "answer": "Yes, it features an AI-powered platform for education, including AI-aligned curriculum and tools."
+        },
+        {
+            "question": "How can I contact CyberSquare?",
+            "answer": "You can contact them via email at connect@cybersquare.org or through provided phone numbers for different regions."
+        },
+        {
+            "question": "What kind of events does CyberSquare organize?",
+            "answer": "It organizes events like the International Digital Fest and tech expos for students to display projects."
+        },
+        {
+            "question": "Is CyberSquare suitable for individual kids or only schools?",
+            "answer": "While focused on schools, it offers live online coding courses for individual kids to learn at home."
+        },
+        {
+            "question": "What technologies does CyberSquare teach?",
+            "answer": "CyberSquare teaches coding, Artificial Intelligence, Robotics, and Internet of Things (IoT) through its platform."
+        },
+        {
+            "question": "Does CyberSquare have a mobile app?",
+            "answer": "Yes, there is a Cyber Square app on Google Play designed for students from Grade 1 to 12 with interactive coding features."
+        }
+    ]
+}

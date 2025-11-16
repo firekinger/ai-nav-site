@@ -1,0 +1,71 @@
+{
+    "name": "Arcads",
+    "description": "Arcads is an AI-powered platform that transforms text into high-quality video ads using customizable AI actors for marketing campaigns.",
+    "longDescription": "Arcads is an innovative AI-driven platform designed to streamline video ad creation by converting text scripts into engaging, professional-quality advertisements featuring hyper-realistic AI actors. It aims to eliminate the complexities and costs of traditional video production, making it accessible for marketers, eCommerce brands, and agencies to produce scalable user-generated content (UGC)-style videos. The platform supports rapid ad creation, allowing users to generate multiple ad variations in minutes to test and optimize marketing strategies. By leveraging advanced AI technologies like lip-syncing and multilingual capabilities, Arcads enhances audience engagement and emotional impact. Its mission is to empower businesses of all sizes to create effective, platform-optimized video ads for social media and paid advertising funnels without requiring technical expertise. Arcads is particularly suited for digital product marketing and global campaigns due to its customization options and cost efficiency.",
+    "url": "https://www.arcads.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.arcads.ai.webp",
+    "category": "AI Ad Creative",
+    "categorySlug": "ai-ad-creative",
+    "slug": "arcads-ai",
+    "categories": [
+        "AI Ad Creative",
+        "AI Character",
+        "AI Video Generator",
+        "AI Lip Sync Generator",
+        "AI Advertising",
+        "AI Document Extraction",
+        "AI Social Media",
+        "AI For Data Analytics",
+        "AI Script Writing"
+    ],
+    "features": [
+        "AI UGC Generator transforms text scripts into realistic user-generated content-style video ads, saving time and production costs.",
+        "Hyper-Realistic AI Actors provide a library of over 300 customizable digital avatars with lifelike lip-syncing for authentic ad performances.",
+        "Batch Creation enables the generation of multiple ad variations simultaneously, ideal for A/B testing and campaign optimization.",
+        "Multilingual Support allows video ad creation in 35 languages, expanding reach to global audiences.",
+        "Customizable Scripts offer editable, tailored scripts to align with specific marketing goals and enhance viewer engagement.",
+        "Text-to-Speech and Speech-to-Speech features provide natural-sounding AI voices and allow voice modulation to match brand tone.",
+        "Platform-Specific Optimization creates ads tailored for TikTok, Instagram Reels, and YouTube Shorts to maximize platform performance.",
+        "Video API Integration enables developers to incorporate AI video creation into existing applications for streamlined workflows.",
+        "Customizable Backgrounds and Actor Movements allow users to control scenes, lighting, and gestures for brand-aligned visuals.",
+        "Performance Analytics provide insights and A/B testing tools to refine ad strategies and improve ROI."
+    ],
+    "faqs": [
+        {
+            "question": "What is Arcads used for?",
+            "answer": "Arcads is used to create high-quality AI-generated video ads from text scripts, ideal for marketing campaigns on social media and paid advertising platforms."
+        },
+        {
+            "question": "Can I use Arcads videos for commercial purposes?",
+            "answer": "Yes, videos created with Arcads can be used for commercial purposes, making it suitable for advertising and promotional campaigns."
+        },
+        {
+            "question": "Does Arcads offer a free plan?",
+            "answer": "No, Arcads does not offer a free plan; its Starter plan begins at €100 per month, but a free trial is available to explore features."
+        },
+        {
+            "question": "How quickly can I create a video ad with Arcads?",
+            "answer": "Arcads allows users to generate UGC-style video ads in as little as 2 minutes by writing a script, selecting AI actors, and customizing settings."
+        },
+        {
+            "question": "Can Arcads create ads in multiple languages?",
+            "answer": "Yes, Arcads supports 35 languages, enabling the creation of region-specific video ads for global marketing campaigns."
+        },
+        {
+            "question": "Is Arcads suitable for non-technical users?",
+            "answer": "Yes, Arcads has a user-friendly interface designed for professionals of all skill levels, requiring no video editing expertise."
+        },
+        {
+            "question": "Can I customize the AI actors in Arcads?",
+            "answer": "Arcads offers over 300 customizable AI actors, allowing users to adjust movements, voices, and backgrounds to align with their brand."
+        },
+        {
+            "question": "Does Arcads support A/B testing for ads?",
+            "answer": "Yes, Arcads’ batch creation feature allows users to generate multiple ad variations for A/B testing to optimize campaign performance."
+        },
+        {
+            "question": "What platforms are Arcads ads optimized for?",
+            "answer": "Arcads optimizes ads for platforms like TikTok, Instagram Reels, and YouTube Shorts, ensuring compatibility and engagement."
+        }
+    ]
+}

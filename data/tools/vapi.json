@@ -1,0 +1,86 @@
+{
+    "name": "Vapi",
+    "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+    "longDescription": "Vapi is a voice AI platform designed for developers to create, test, and deploy conversational voice agents quickly and efficiently. Founded in 2020 by Jordan Dearsley and Nikhil Gupta, the company aims to make computers converse like humans, addressing complex challenges in real-time voice applications. It provides a modular infrastructure that integrates with various speech-to-text, language models, and text-to-speech providers, allowing developers to customize agents for specific use cases. Vapi supports a wide range of industries, including healthcare, finance, and customer service, by enabling scalable, low-latency voice interactions. The platform’s developer-first approach simplifies the creation of human-like voicebots, reducing development time from months to minutes. Its mission is to make voice the default interface for technology, scaling to handle millions of calls with enterprise-grade reliability.",
+    "url": "https://vapi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vapi.ai.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "vapi",
+    "categories": [
+        "AI Voice Generator",
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI Customer Service",
+        "AI Translate",
+        "AI Healthcare",
+        "AI For Finance",
+        "AI Recording"
+    ],
+    "features": [
+        "Vapi enables developers to build and deploy voice AI agents in minutes using a modular API, drastically reducing development time.",
+        "The platform supports integration with custom LLMs, speech-to-text, and text-to-speech models, offering flexibility for tailored solutions.",
+        "Vapi provides ultra-low latency interactions, achieving sub-second response times for seamless voice conversations.",
+        "It scales to handle millions of calls, ensuring enterprise-grade reliability for high-volume operations.",
+        "Built-in conversation guardrails prevent AI hallucinations, ensuring accurate and reliable responses.",
+        "Vapi offers multilingual support, enabling agents to communicate in over 100 languages, including English, Spanish, and Mandarin.",
+        "The platform includes a web dashboard for easy setup and customization of voice agents without coding expertise.",
+        "Vapi supports telephony integrations, allowing voice agents to handle inbound and outbound calls across various platforms.",
+        "Developers can use pre-made templates or build custom voice agents to suit specific business needs.",
+        "The platform provides test suites to simulate voice interactions and identify risks before deployment.",
+        "Vapi integrates with platforms like iOS, Android, and web apps, enabling voice agents across multiple devices.",
+        "It offers HIPAA and SOC 2 Type 2 compliance for secure use in regulated industries like healthcare.",
+        "Developers can connect Vapi to external APIs for real-time data fetching and action execution during conversations.",
+        "The platform provides detailed analytics to monitor call performance and optimize agent interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Vapi used for?",
+            "answer": "Vapi is used to build, test, and deploy voice AI agents for applications like customer support, telehealth, and lead generation, enabling human-like conversations at scale."
+        },
+        {
+            "question": "Does Vapi offer a free plan?",
+            "answer": "Yes, Vapi provides a free trial with 100 minutes of usage, though additional costs may apply for extended use or premium features."
+        },
+        {
+            "question": "Can I use my own AI models with Vapi?",
+            "answer": "Yes, Vapi’s modular platform allows developers to integrate custom speech-to-text, LLM, and text-to-speech models using their own API keys."
+        },
+        {
+            "question": "What industries does Vapi support?",
+            "answer": "Vapi supports industries like healthcare, finance, travel, and customer service with tailored voice AI solutions."
+        },
+        {
+            "question": "How does Vapi ensure low latency?",
+            "answer": "Vapi’s optimized real-time audio infrastructure delivers sub-second response times, ensuring smooth and natural conversations."
+        },
+        {
+            "question": "Is Vapi suitable for non-technical users?",
+            "answer": "While Vapi is developer-focused, its dashboard and templates make it accessible for non-technical users to create basic voice agents."
+        },
+        {
+            "question": "Does Vapi support multiple languages?",
+            "answer": "Yes, Vapi supports over 100 languages, including English, Spanish, and Mandarin, for global applications."
+        },
+        {
+            "question": "How does Vapi handle call scalability?",
+            "answer": "Vapi’s infrastructure scales to millions of calls, with flexible SIP lines to manage concurrent calls effectively."
+        },
+        {
+            "question": "Can Vapi integrate with existing systems?",
+            "answer": "Yes, Vapi integrates with CRMs, EHRs, and telephony systems via APIs for seamless workflow incorporation."
+        },
+        {
+            "question": "What are the costs associated with Vapi?",
+            "answer": "Vapi charges a base fee plus costs for external providers like Deepgram or OpenAI, with pricing details available at https://vapi.ai/pricing."
+        },
+        {
+            "question": "How does Vapi ensure data security?",
+            "answer": "Vapi offers enterprise-level security with HIPAA and SOC 2 Type 2 compliance for regulated industries."
+        },
+        {
+            "question": "Can Vapi handle outbound calls?",
+            "answer": "Yes, Vapi supports both inbound and outbound calls, ideal for tasks like cold calling or lead generation."
+        }
+    ]
+}

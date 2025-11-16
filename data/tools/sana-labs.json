@@ -1,0 +1,63 @@
+{
+    "name": "Sana Labs",
+    "description": "Sana Labs provides AI-powered knowledge tools to enhance enterprise learning and knowledge management.",
+    "longDescription": "Sana Labs is an AI company focused on transforming how organizations learn and access knowledge through its innovative platforms. Founded in 2016 in Stockholm, Sweden, Sana develops tools like Sana Learn and Sana Agents to streamline corporate learning and knowledge sharing. Its mission is to advance human knowledge by making it more accessible and actionable, addressing the problem of scattered or outdated company information. By leveraging artificial intelligence and machine learning, Sana offers personalized learning experiences and automates routine tasks, enabling companies to perform more efficiently. The platform serves a wide range of industries, including healthcare, financial services, and technology, and is trusted by global leaders like Electrolux and Merck. Sana's commitment to innovation has earned it recognition on the Forbes AI 50 and Fast Company's Most Innovative lists.",
+    "url": "https://sanalabs.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sanalabs.com.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "sana-labs",
+    "categories": [
+        "AI Language Learning",
+        "AI Knowledge Management",
+        "AI Search Engine",
+        "AI Writing",
+        "AI For Data Analytics",
+        "AI Agent",
+        "AI Workflow"
+    ],
+    "features": [
+        "Sana Learn creates personalized, adaptive learning experiences tailored to individual employee needs, enhancing engagement and retention.",
+        "Sana Agents provides AI-powered enterprise search and automation, helping teams quickly access relevant information and streamline workflows.",
+        "The platform integrates with existing tools to centralize scattered knowledge, making it easily searchable and actionable.",
+        "AI-driven content creation automates the generation of courses, quizzes, and slides, saving time for learning and development teams.",
+        "Data analytics provide detailed insights into learner performance and progress, enabling organizations to optimize training programs.",
+        "Sana's live classroom feature offers interactive training sessions with multimedia support, fostering engaging learning experiences.",
+        "The platform supports scalability, serving both large enterprises and growing startups across various industries.",
+        "Sana Agents can summarize meetings and sessions, allowing teams to focus on actionable outcomes rather than manual note-taking."
+    ],
+    "faqs": [
+        {
+            "question": "What is Sana Labs primarily used for?",
+            "answer": "Sana Labs is used to enhance corporate learning and knowledge management through AI-powered tools that personalize training and streamline access to information."
+        },
+        {
+            "question": "Does Sana Labs offer a free plan?",
+            "answer": "Yes, Sana offers a free trial of Sana Agents at sana.ai, though core platform features may require a paid subscription."
+        },
+        {
+            "question": "Which industries does Sana Labs serve?",
+            "answer": "Sana Labs serves industries like healthcare, financial services, industrial goods, and technology, with clients like Electrolux and Merck."
+        },
+        {
+            "question": "How does Sana Labs use AI in its platform?",
+            "answer": "Sana Labs leverages AI to provide adaptive learning, automate content creation, and enable enterprise search and task automation."
+        },
+        {
+            "question": "Can Sana Labs integrate with other tools?",
+            "answer": "Yes, Sana Labs integrates with existing tools to centralize knowledge, though some users report minor integration challenges."
+        },
+        {
+            "question": "What are the pricing options for Sana Labs?",
+            "answer": "Sana offers a Core plan starting at €7200 annually and an Enterprise plan, with pricing details available on their website."
+        },
+        {
+            "question": "Is Sana Labs suitable for small organizations?",
+            "answer": "While powerful, Sana Labs may be cost-prohibitive for small organizations due to its pricing, which is better suited for larger enterprises."
+        },
+        {
+            "question": "How does Sana Labs improve learning outcomes?",
+            "answer": "Sana uses adaptive algorithms to tailor content to individual learners, enhancing engagement and ensuring relevant material delivery."
+        }
+    ]
+}

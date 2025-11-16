@@ -1,0 +1,59 @@
+{
+    "name": "DeepMotion",
+    "description": "DeepMotion provides AI-powered motion capture and 3D animation tools to create lifelike digital human movements for various industries.",
+    "longDescription": "DeepMotion is a pioneering platform in motion intelligence, leveraging artificial intelligence to simplify and democratize the creation of 3D animations and digital human motion. Founded in 2014, the company aims to make advanced motion capture technology accessible to creators, from independent artists to large studios, without the need for specialized hardware. Its flagship products, Animate 3D and SayMotion, enable users to generate animations from videos or text prompts, respectively, streamlining workflows in gaming, film, VR/AR, and more. By combining deep learning, physics simulation, and computer vision, DeepMotion bridges the gap between physical and digital realms, empowering users to bring virtual characters to life with realistic movements. The platform is designed to be user-friendly, requiring no programming expertise, and supports a wide range of applications, including entertainment and the metaverse.",
+    "url": "https://www.deepmotion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.deepmotion.com.webp",
+    "category": "AI Animation Generator",
+    "categorySlug": "ai-animation-generator",
+    "slug": "deepmotion",
+    "categories": [
+        "AI Animation Generator",
+        "AI Creative Writing",
+        "AI Game Generator"
+    ],
+    "features": [
+        "Animate 3D converts 2D video footage into realistic 3D animations using AI-driven motion capture, eliminating the need for physical markers or suits.",
+        "SayMotion generates detailed 3D animations from text prompts, allowing users to create complex human motions with simple descriptions.",
+        "Inpainting Motion Editing enables users to merge, insert, or extend animations, offering flexibility for dynamic visual storytelling.",
+        "Real-time body tracking provides instant feedback on motion capture, enhancing efficiency for creators working on time-sensitive projects.",
+        "Export options in FBX, BVH, GLB, and MP4 formats ensure compatibility with popular 3D tools like Unity, Unreal Engine, and Blender.",
+        "Multi-person capture supports tracking multiple individuals in a single video, ideal for complex scenes in gaming or film production.",
+        "Browser-based accessibility allows users to create animations without installing software, using only a web browser and internet connection.",
+        "Physics-based simulation enhances animation realism by incorporating natural movement dynamics and environmental interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is DeepMotion used for?",
+            "answer": "DeepMotion is used to create 3D animations and lifelike digital human movements for gaming, film, VR/AR, and other creative industries using AI-powered motion capture and text-to-animation tools."
+        },
+        {
+            "question": "Do I need specialized hardware to use DeepMotion?",
+            "answer": "No, DeepMotion’s tools like Animate 3D and SayMotion work with standard video inputs or text prompts, requiring only a web browser and internet connection."
+        },
+        {
+            "question": "Is SayMotion free to use?",
+            "answer": "SayMotion is currently available in open beta, offering free access for commercial and non-commercial use, though final pricing has not been announced."
+        },
+        {
+            "question": "What file formats does DeepMotion support for exporting animations?",
+            "answer": "DeepMotion supports exporting animations in FBX, BVH, GLB, and MP4 formats, compatible with tools like Unity, Unreal Engine, and Blender."
+        },
+        {
+            "question": "Can DeepMotion handle complex animations like parkour?",
+            "answer": "Yes, with SayMotion 1.5, DeepMotion supports advanced motion categories like parkour, trained on a dataset of 400,000 animation clips."
+        },
+        {
+            "question": "Who can benefit from using DeepMotion’s platform?",
+            "answer": "DeepMotion serves a wide audience, including game developers, filmmakers, VR/AR creators, educators, and independent artists, by simplifying 3D animation creation."
+        },
+        {
+            "question": "Does DeepMotion require programming skills?",
+            "answer": "No, DeepMotion’s user-friendly interface is designed for creators without programming expertise, making it accessible to a broad range of users."
+        },
+        {
+            "question": "How does SayMotion differ from Animate 3D?",
+            "answer": "SayMotion generates 3D animations from text prompts using generative AI, while Animate 3D converts video footage into animations using AI motion capture."
+        }
+    ]
+}

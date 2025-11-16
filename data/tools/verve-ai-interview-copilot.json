@@ -1,0 +1,74 @@
+{
+    "name": "Verve AI Interview Copilot",
+    "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+    "longDescription": "Verve AI Interview Copilot is an AI-powered tool designed to offer real-time support during live job interviews, providing personalized suggestions, response structuring, and tips based on the user's resume, job description, and company details. Its mission is to empower job seekers to perform at their best by delivering expert-level guidance across various interview formats, ultimately increasing their chances of landing desired roles. The platform solves common problems like interview anxiety, unpreparedness for tough questions, and lack of industry-specific knowledge by leveraging advanced AI models. It integrates seamlessly with popular meeting software, ensuring discreet assistance without alerting interviewers. Overall, it serves users by transforming the interview process into a more confident and strategic experience.",
+    "url": "https://www.vervecopilot.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vervecopilot.com.webp",
+    "category": "AI Interview Assistant",
+    "categorySlug": "ai-interview-assistant",
+    "slug": "verve-ai-interview-copilot",
+    "categories": [
+        "AI Interview Assistant",
+        "AI Response Generator",
+        "AI Code Assistant",
+        "AI Transcription",
+        "AI Report Writing",
+        "AI Knowledge Base",
+        "AI Meeting Assistant",
+        "AI Models"
+    ],
+    "features": [
+        "Real-time transcription captures interview conversations instantly, allowing for immediate analysis and response generation.",
+        "AI analyzes questions and generates expert-level answers tailored to the user's background and the job role.",
+        "Integration with meeting platforms like Zoom, Google Meet, and Microsoft Teams enables seamless use during virtual interviews.",
+        "Stealth Mode in the desktop app keeps the copilot hidden during screen sharing to maintain privacy.",
+        "Coding Copilot captures coding questions from the screen and provides solutions, aiding technical interviews.",
+        "Post-interview reports summarize performance and offer insights for improvement.",
+        "Users can select and train AI models to customize the copilot's expertise.",
+        "Unlimited interview sessions allow users to practice or use the tool as needed without restrictions.",
+        "Access to an extensive industry knowledge base and question banks enhances preparation.",
+        "Supports all interview types, including behavioral, technical, case studies, and assessments, with specialized guidance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Verve AI Interview Copilot?",
+            "answer": "It is an AI tool that provides real-time support during live interviews, suggesting answers, structuring responses, and offering tips tailored to your resume and job details."
+        },
+        {
+            "question": "What types of interviews does Verve AI support?",
+            "answer": "Verve AI supports all interview types, including behavioral, technical, live coding, case studies, and online assessments, with guidance customized to each format."
+        },
+        {
+            "question": "Which meeting software is compatible with Verve AI?",
+            "answer": "It integrates with Google Meet, Zoom, Microsoft Teams, Amazon Chime, Skype, and more, working on both browser and desktop apps."
+        },
+        {
+            "question": "Is Verve AI visible to interviewers during screen sharing?",
+            "answer": "No, it remains discreet, and the desktop app's Stealth Mode ensures it stays hidden for added privacy."
+        },
+        {
+            "question": "Does Verve AI offer a free plan?",
+            "answer": "Yes, a free plan is available to let users experience the core features before opting for a paid subscription."
+        },
+        {
+            "question": "Can Verve AI help with coding or technical interviews?",
+            "answer": "Yes, the Coding Copilot feature captures and solves coding questions directly from the screen, providing real-time assistance."
+        },
+        {
+            "question": "Is Verve AI suitable for all industries?",
+            "answer": "Yes, it trains specialized copilots using expert materials tailored to various industries for relevant guidance."
+        },
+        {
+            "question": "How does Verve AI personalize assistance?",
+            "answer": "It uses your resume, job description, and company information to generate responses that align with your profile and the role."
+        },
+        {
+            "question": "What additional tools does Verve AI provide post-interview?",
+            "answer": "It generates interview reports that analyze your performance and offer actionable insights for future improvements."
+        },
+        {
+            "question": "Can I customize the AI models in Verve AI?",
+            "answer": "Yes, users can pick and train AI models to better suit their specific needs and preferences."
+        }
+    ]
+}

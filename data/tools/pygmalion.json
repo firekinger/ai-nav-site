@@ -1,0 +1,74 @@
+{
+    "name": "Pygmalion",
+    "description": "Pygmalion is an open-source AI platform for creating and engaging in chat, role-play, and adventure experiences with dynamic AI characters.",
+    "longDescription": "Pygmalion is an open-source project focused on developing large language models tailored for conversational AI, role-playing, and interactive storytelling. It empowers users to interact with customizable AI characters, fostering creative and immersive experiences for entertainment, education, or personal exploration. Built on models like Meta’s LLaMA and EleutherAI’s GPT-J, it offers high-quality, human-like dialogue with low resource requirements. The platform’s mission is to democratize AI by providing unrestricted, adaptable tools for developers and enthusiasts. It supports a vibrant community where users can create, share, and refine AI-driven characters and scenarios. Pygmalion stands out for its flexibility, allowing seamless integration with platforms like TavernAI for enhanced user experiences.",
+    "url": "https://pygmalion.chat/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pygmalion.chat.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "pygmalion",
+    "categories": [
+        "AI Chat Generator",
+        "AI Roleplay",
+        "Open Source AI Models",
+        "AI Character",
+        "AI Language Learning",
+        "AI Story Generator",
+        "AI Social Media",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Users can chat with unlimited AI characters without restrictions, enabling diverse and engaging conversations.",
+        "The platform allows creation of custom character cards with detailed lore, images, and dialogue styles for personalized role-play.",
+        "Pygmalion supports private chats with options to back up or delete data, ensuring user privacy and control.",
+        "Community-driven card browsing lets users explore and interact with characters created by other passionate creators.",
+        "Preset dialogue styles enable users to adjust conversation tones, enhancing flexibility for different scenarios.",
+        "In-house curated models provide unrestricted access to high-quality AI interactions with low VRAM requirements.",
+        "Integration with third-party tools like TavernAI enhances functionality for advanced role-playing and chat experiences.",
+        "Users can import or export character cards in JSON format, ensuring portability and no vendor lock-in.",
+        "The platform supports multilingual conversations, catering to a global audience.",
+        "Regular updates with new training data improve AI performance and keep features cutting-edge."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pygmalion used for?",
+            "answer": "Pygmalion is used for creating and engaging in AI-driven chats, role-playing games, and interactive storytelling, offering dynamic and customizable experiences."
+        },
+        {
+            "question": "Is Pygmalion free to use?",
+            "answer": "Yes, Pygmalion offers free access to its core features, though some advanced functionalities may require local setup or specific hardware."
+        },
+        {
+            "question": "Do I need technical skills to use Pygmalion?",
+            "answer": "Basic usage is user-friendly, but advanced features like local hosting or character creation may require familiarity with tools like TavernAI or JSON."
+        },
+        {
+            "question": "Can I create my own AI characters?",
+            "answer": "Yes, Pygmalion’s card creator lets users design custom characters with detailed traits, backgrounds, and dialogue styles."
+        },
+        {
+            "question": "Is Pygmalion safe and private?",
+            "answer": "Pygmalion prioritizes privacy, allowing users to chat privately and manage their data by backing up or deleting it as needed."
+        },
+        {
+            "question": "What makes Pygmalion different from other AI chatbots?",
+            "answer": "Its open-source nature, low resource requirements, and focus on unrestricted, customizable role-play set it apart from traditional chatbots."
+        },
+        {
+            "question": "Can I use Pygmalion for commercial purposes?",
+            "answer": "Yes, its open-source license allows modification and redistribution for commercial use, subject to compliance with its terms."
+        },
+        {
+            "question": "Does Pygmalion support multiple languages?",
+            "answer": "Yes, Pygmalion can converse in multiple languages, making it accessible to a global audience."
+        },
+        {
+            "question": "How do I set up Pygmalion locally?",
+            "answer": "Local setup involves using tools like Google Colab or TavernAI, with guides available on Pygmalion’s documentation or community Discord."
+        },
+        {
+            "question": "What hardware is needed to run Pygmalion?",
+            "answer": "Pygmalion requires as little as 18GB VRAM, making it efficient compared to larger language models."
+        }
+    ]
+}

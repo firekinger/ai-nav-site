@@ -1,0 +1,69 @@
+{
+    "name": "FitnessAI",
+    "description": "FitnessAI is an AI-powered mobile app that generates personalized weightlifting workout plans to help users build strength and achieve fitness goals efficiently.",
+    "longDescription": "FitnessAI is a fitness application that uses artificial intelligence to create customized workout routines, primarily focused on weightlifting and strength training. Its mission is to democratize access to effective, science-backed training by analyzing user data and progress to deliver optimized plans. The app serves users by solving common issues like workout plateaus, improper progression, and lack of personalization in generic fitness programs. It leverages machine learning algorithms trained on vast datasets of workouts to recommend reps, sets, and weights tailored to individual strength levels, goals, and available equipment. By tracking performance in real-time, FitnessAI helps prevent injuries and ensures continuous improvement, making it ideal for beginners and experienced lifters alike. Overall, it transforms the gym experience into a data-driven, adaptive journey toward better health and fitness.",
+    "url": "https://www.fitnessai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.fitnessai.com.webp",
+    "category": "AI Fitness",
+    "categorySlug": "ai-fitness",
+    "slug": "fitnessai",
+    "categories": [
+        "AI Fitness",
+        "AI Productivity Tools",
+        "AI Healthcare"
+    ],
+    "features": [
+        "AI-generated personalized workout plans that adapt to user's strength, goals, and progress for optimal results.",
+        "Automatic progression tracking that adjusts weights and reps to prevent plateaus and ensure steady gains.",
+        "Real-time feedback during workouts to guide form and technique, reducing the risk of injury.",
+        "Integration with Apple Health and other devices for seamless data syncing and comprehensive fitness monitoring.",
+        "Customizable routines based on available gym equipment, making it versatile for home or gym use.",
+        "Progress analytics and visualizations to show strength improvements over time, motivating users to stay consistent.",
+        "Rest timer and workout logging features to streamline sessions and maintain focus.",
+        "Science-backed algorithms drawing from millions of user workouts for evidence-based recommendations.",
+        "Goal-setting tools that align plans with objectives like muscle building, fat loss, or general fitness.",
+        "Community insights and tips integrated into the app for additional motivation and education."
+    ],
+    "faqs": [
+        {
+            "question": "What is FitnessAI?",
+            "answer": "FitnessAI is an app that uses AI to create personalized weightlifting programs based on your fitness level and goals. It tracks your progress and adjusts workouts automatically."
+        },
+        {
+            "question": "How does the AI in FitnessAI work?",
+            "answer": "The AI analyzes data from your inputs, past workouts, and a large database of training sessions to generate optimized reps, sets, and weights. It learns from your performance to make real-time adjustments."
+        },
+        {
+            "question": "Is FitnessAI suitable for beginners?",
+            "answer": "Yes, FitnessAI is beginner-friendly as it starts with basic assessments and builds plans gradually. It provides guidance to ensure safe and effective training."
+        },
+        {
+            "question": "What equipment do I need for FitnessAI workouts?",
+            "answer": "The app customizes plans based on your available equipment, whether it's a full gym setup, home weights, or bodyweight exercises. You can input your gear during setup."
+        },
+        {
+            "question": "Does FitnessAI offer a free trial?",
+            "answer": "Yes, FitnessAI provides a 7-day free trial to access core features. After that, a subscription is required for continued use."
+        },
+        {
+            "question": "Can I track my nutrition with FitnessAI?",
+            "answer": "FitnessAI focuses primarily on workouts but integrates with other apps for nutrition tracking. It doesn't have built-in meal planning."
+        },
+        {
+            "question": "How does FitnessAI prevent workout plateaus?",
+            "answer": "By continuously analyzing your progress data, the AI adjusts difficulty to ensure progressive overload. This keeps your training challenging and effective."
+        },
+        {
+            "question": "Is FitnessAI available on both iOS and Android?",
+            "answer": "FitnessAI is primarily available on iOS, with potential Android support in development. Check the website for the latest availability."
+        },
+        {
+            "question": "What makes FitnessAI different from other fitness apps?",
+            "answer": "Unlike generic apps, FitnessAI uses advanced AI for truly personalized, data-driven plans that evolve with you. It's backed by real workout science for better results."
+        },
+        {
+            "question": "Can I use FitnessAI for cardio or other exercises?",
+            "answer": "While focused on weightlifting, it includes some cardio elements in plans. For dedicated cardio, you may need supplementary apps."
+        }
+    ]
+}

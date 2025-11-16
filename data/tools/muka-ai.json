@@ -1,0 +1,63 @@
+{
+    "name": "Muka AI",
+    "description": "Muka AI is an innovative platform that leverages artificial intelligence to generate and edit images for creative and professional use.",
+    "longDescription": "Muka AI is a cutting-edge AI-driven website designed to empower users in creating stunning visual content through advanced image generation and editing tools. Its mission is to democratize access to high-quality AI art creation, making it easy for artists, designers, and hobbyists to bring their ideas to life without needing extensive technical skills. The platform solves problems related to time-consuming manual design processes by offering instant generation of images based on text prompts or existing uploads. It serves users by providing customizable options for styles, themes, and resolutions, catering to various industries like marketing, entertainment, and education. Overall, Muka AI aims to foster creativity and innovation by integrating seamless AI technology into everyday visual workflows.",
+    "url": "https://www.muka.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.muka.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "muka-ai",
+    "categories": [
+        "AI Image Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Image Enhancer",
+        "AI Design Assistant",
+        "AI Social Media",
+        "AI Style Transfer"
+    ],
+    "features": [
+        "Text-to-image generation allows users to create unique visuals from simple descriptive prompts, saving time on manual artwork.",
+        "Image editing tools enable easy modifications like style transfers, enhancements, and object removals for professional results.",
+        "Customizable AI models let users fine-tune generations based on specific artistic styles or themes to match their vision.",
+        "High-resolution output ensures that generated images are suitable for print, web, or digital media without quality loss.",
+        "Batch processing feature supports generating multiple images at once, ideal for large projects or brainstorming sessions.",
+        "Integration with social media platforms facilitates direct sharing of creations to boost online presence.",
+        "User-friendly interface provides intuitive controls and tutorials for beginners to quickly master the tools.",
+        "Collaboration mode allows teams to work together on image projects in real-time for enhanced productivity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Muka AI primarily used for?",
+            "answer": "Muka AI is primarily used for generating and editing images using AI technology. It helps users create custom visuals for personal, professional, or creative purposes."
+        },
+        {
+            "question": "Does Muka AI offer a free plan?",
+            "answer": "Yes, Muka AI offers a free plan with limited daily generations and basic features. Users can upgrade to premium plans for unlimited access and advanced tools."
+        },
+        {
+            "question": "How do I generate an image on Muka AI?",
+            "answer": "To generate an image, simply enter a text prompt describing what you want, select any style options, and click generate. The AI processes it in seconds."
+        },
+        {
+            "question": "Is Muka AI suitable for beginners?",
+            "answer": "Absolutely, the platform has an intuitive interface and helpful tutorials. No prior experience in AI or design is required to start creating."
+        },
+        {
+            "question": "Can I use Muka AI for commercial projects?",
+            "answer": "Yes, images generated on Muka AI can be used commercially, but check the terms for any restrictions on premium features. Attribution may be required in some cases."
+        },
+        {
+            "question": "What file formats does Muka AI support for downloads?",
+            "answer": "Muka AI supports downloads in PNG, JPEG, and high-resolution formats like TIFF for professional use."
+        },
+        {
+            "question": "How does Muka AI ensure the quality of generated images?",
+            "answer": "The platform uses advanced AI algorithms trained on vast datasets to produce high-quality, detailed images. Users can refine outputs with editing tools for optimal results."
+        },
+        {
+            "question": "Is there customer support available?",
+            "answer": "Yes, Muka AI provides email support and a help center with FAQs and guides. Premium users get priority assistance."
+        }
+    ]
+}

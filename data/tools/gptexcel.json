@@ -1,0 +1,71 @@
+{
+    "name": "GPTExcel",
+    "description": "GPTExcel is an AI-powered tool that simplifies spreadsheet tasks by generating formulas, scripts, and data insights for Excel, Google Sheets, and Airtable.",
+    "longDescription": "GPTExcel is an AI-driven spreadsheet assistant designed to streamline complex tasks for users of Microsoft Excel, Google Sheets, and Airtable. Leveraging advanced natural language processing based on OpenAI’s GPT architecture, it automates the creation of formulas, SQL queries, VBA scripts, and regular expressions. The platform aims to boost productivity by simplifying data analysis, automation, and visualization for both individuals and businesses. By offering a free tier and a Pro plan, GPTExcel caters to a wide range of users, from freelancers to large enterprises. Its intuitive interface allows users to input natural language queries, which the AI converts into actionable spreadsheet solutions, saving time and reducing technical barriers. Over 20 million formulas have been generated, reflecting its widespread adoption and reliability.",
+    "url": "https://gptexcel.uk/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gptexcel.uk.webp",
+    "category": "AI Spreadsheet",
+    "categorySlug": "ai-spreadsheet",
+    "slug": "gptexcel",
+    "categories": [
+        "AI Spreadsheet",
+        "AI Excel Formula Generator",
+        "SQL Query Builder",
+        "AI Code Generator",
+        "AI Charting",
+        "AI Document Extraction",
+        "AI For Data Analytics",
+        "AI Language Learning",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered formula generator creates complex Excel and Google Sheets formulas from natural language inputs, saving time and effort.",
+        "SQL query generator crafts and debugs database queries, enhancing database management efficiency.",
+        "VBA and Apps Script generator automates repetitive tasks in Excel, Google Sheets, and Airtable, streamlining workflows.",
+        "Regex generator produces precise data validation patterns, simplifying data filtering processes.",
+        "Table template generator creates ready-to-use Excel and Google Sheets templates, kickstarting data organization.",
+        "Image-to-table conversion uses OCR and AI to transform table images into editable spreadsheets, improving data accessibility.",
+        "Chat with Excel feature allows users to interact conversationally with their data, asking questions and receiving insights.",
+        "Chart and graph generator automatically creates visual data representations, making insights easier to understand.",
+        "Data analysis tool identifies trends and summarizes key metrics from Excel/CSV files, providing actionable insights.",
+        "Formula explainer provides step-by-step breakdowns of generated formulas, enhancing user understanding."
+    ],
+    "faqs": [
+        {
+            "question": "What platforms does GPTExcel support?",
+            "answer": "GPTExcel supports Microsoft Excel, Google Sheets, Airtable, and works with Excel and CSV files for data analysis."
+        },
+        {
+            "question": "Is there a free plan available for GPTExcel?",
+            "answer": "Yes, GPTExcel offers a free tier with up to 4 requests per day, requiring no credit card."
+        },
+        {
+            "question": "Can GPTExcel generate Google Sheets formulas?",
+            "answer": "Yes, GPTExcel uses AI to generate formulas for Google Sheets, Excel, and Airtable, enhancing versatility."
+        },
+        {
+            "question": "How does GPTExcel explain formulas?",
+            "answer": "GPTExcel provides detailed, step-by-step explanations of generated formulas to help users understand their logic and purpose."
+        },
+        {
+            "question": "Can I convert images to spreadsheets with GPTExcel?",
+            "answer": "Yes, GPTExcel’s AI and OCR technology can convert table images into editable Excel spreadsheets."
+        },
+        {
+            "question": "Does GPTExcel offer support for businesses?",
+            "answer": "Yes, features like script generation and SQL query creation streamline repetitive tasks, boosting business productivity."
+        },
+        {
+            "question": "Is GPTExcel secure for data handling?",
+            "answer": "GPTExcel employs industry-standard security measures to protect user data and ensure secure transactions."
+        },
+        {
+            "question": "Can GPTExcel generate charts from my data?",
+            "answer": "Yes, GPTExcel automatically generates charts and graphs to visualize data, making insights more accessible."
+        },
+        {
+            "question": "Does GPTExcel work on both Mac and Windows?",
+            "answer": "Yes, GPTExcel functions seamlessly on both Mac and Windows versions of Excel."
+        }
+    ]
+}

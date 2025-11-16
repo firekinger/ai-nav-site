@@ -1,0 +1,64 @@
+{
+    "name": "LockedIn AI",
+    "description": "LockedIn AI is an AI-driven platform that helps users optimize their LinkedIn profiles, generate personalized job application materials, and enhance professional networking.",
+    "longDescription": "LockedIn AI is a specialized AI tool designed to assist job seekers and professionals in maximizing their presence on LinkedIn and other career platforms. Its mission is to democratize access to high-quality career tools by leveraging artificial intelligence to automate and personalize job-related tasks, thereby saving time and increasing success rates in job applications. The platform solves common problems like writer's block for cover letters, suboptimal profile visibility, and inefficient networking by providing intelligent suggestions and automations. Users can input their details, and the AI generates tailored content that aligns with industry standards and recruiter preferences. Overall, it serves as a virtual career coach, empowering individuals to 'lock in' opportunities in competitive job markets.",
+    "url": "https://www.lockedinai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.lockedinai.com.webp",
+    "category": "AI Job Description Generator",
+    "categorySlug": "ai-job-description-generator",
+    "slug": "lockedin-ai",
+    "categories": [
+        "AI Job Description Generator",
+        "AI Linkedin Photo Generator",
+        "AI Resume Builder",
+        "AI Cover Letter Generator",
+        "AI Recruiting",
+        "AI Coaching",
+        "AI Interview Assistant",
+        "AI Data Mining"
+    ],
+    "features": [
+        "AI-powered LinkedIn profile optimization that analyzes and suggests improvements to increase visibility and engagement from recruiters.",
+        "Automated cover letter generation based on job descriptions, ensuring personalized and professional content to boost application success.",
+        "Resume builder with AI suggestions for formatting, keywords, and content to match applicant tracking systems (ATS).",
+        "Networking message templates created by AI to help users initiate meaningful professional connections on LinkedIn.",
+        "Job match analysis that uses AI to compare user profiles with open positions and recommend tailored application strategies.",
+        "Performance tracking dashboard that monitors profile views, connection requests, and application outcomes for data-driven improvements.",
+        "Interview preparation tools with AI-generated practice questions and responses based on job roles and company data.",
+        "Keyword optimization for profiles and resumes to improve search rankings on professional networks."
+    ],
+    "faqs": [
+        {
+            "question": "What is LockedIn AI primarily used for?",
+            "answer": "LockedIn AI is used to enhance LinkedIn profiles and job application materials using AI. It helps users create optimized resumes, cover letters, and networking messages to improve their chances in the job market."
+        },
+        {
+            "question": "Does LockedIn AI offer a free plan?",
+            "answer": "Yes, LockedIn AI provides a free tier with limited features like basic profile suggestions. Users can upgrade to premium for unlimited generations and advanced analytics."
+        },
+        {
+            "question": "How does the AI generate personalized content?",
+            "answer": "The AI analyzes user inputted data such as work experience and job targets, then uses machine learning models to create tailored content. This ensures relevance and professionalism without generic templates."
+        },
+        {
+            "question": "Is my data secure on LockedIn AI?",
+            "answer": "Yes, LockedIn AI employs industry-standard encryption and privacy measures to protect user data. Information is not shared with third parties without consent."
+        },
+        {
+            "question": "Can LockedIn AI help with interview preparation?",
+            "answer": "Absolutely, the platform includes AI-driven tools for generating practice interview questions and responses based on specific job roles and companies."
+        },
+        {
+            "question": "What industries does LockedIn AI support?",
+            "answer": "LockedIn AI supports a wide range of industries including tech, finance, marketing, and healthcare. Its AI adapts to various professional fields for relevant optimizations."
+        },
+        {
+            "question": "How accurate are the AI suggestions?",
+            "answer": "The suggestions are highly accurate, trained on vast datasets of successful profiles and applications. Users can always edit outputs to fit their personal style."
+        },
+        {
+            "question": "Does it integrate with LinkedIn directly?",
+            "answer": "While it doesn't have direct integration, users can easily copy-paste AI-generated content into LinkedIn. Future updates may include API integrations."
+        }
+    ]
+}

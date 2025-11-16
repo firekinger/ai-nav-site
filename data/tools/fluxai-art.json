@@ -1,0 +1,72 @@
+{
+    "name": "FluxAI.art",
+    "description": "FluxAI.art is an AI-powered platform that enables users to generate high-quality images from text prompts using the advanced Flux AI model.",
+    "longDescription": "FluxAI.art is a web-based tool that leverages the Flux AI model, developed by Black Forest Labs, to create stunning, realistic images from textual descriptions. Its mission is to democratize access to cutting-edge AI image generation, making it easy for artists, designers, and hobbyists to bring their ideas to life without needing advanced technical skills. The platform solves problems like time-consuming manual artwork creation by providing instant, customizable results that can be refined through iterative prompts. It serves users by offering both free and premium options, catering to casual experimentation as well as professional-grade outputs. Overall, FluxAI.art bridges the gap between imagination and visual realization, fostering creativity in digital art and design fields.",
+    "url": "https://fluxai.art/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fluxai.art.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "fluxai-art",
+    "categories": [
+        "AI Image Generator",
+        "AI Realistic Image Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Prompt Generator",
+        "AI Image Enhancer"
+    ],
+    "features": [
+        "Text-to-image generation allows users to create detailed images by simply entering descriptive prompts, saving time on manual design work.",
+        "High-resolution outputs up to 1024x1024 pixels ensure professional-quality results suitable for printing or digital use.",
+        "Customizable parameters like aspect ratio, style, and seed values give users control over the artistic direction of generated images.",
+        "Free tier provides limited daily generations, making it accessible for beginners to test and explore AI art without cost.",
+        "Premium subscription unlocks unlimited generations, faster processing, and advanced features like image upscaling.",
+        "User-friendly interface with prompt suggestions helps newcomers craft effective inputs for better results.",
+        "Community gallery showcases user-generated art, inspiring others and fostering a creative ecosystem.",
+        "Integration with Flux.1 models, including Schnell and Pro variants, offers varying levels of speed and detail.",
+        "Safe-for-work filters ensure generated content adheres to ethical guidelines and user preferences.",
+        "Export options in multiple formats like PNG and JPEG facilitate easy sharing and further editing."
+    ],
+    "faqs": [
+        {
+            "question": "What is FluxAI.art?",
+            "answer": "FluxAI.art is an online platform that uses the Flux AI model to generate images from text descriptions. It allows users to create art, designs, and visuals effortlessly."
+        },
+        {
+            "question": "Is FluxAI.art free to use?",
+            "answer": "Yes, it offers a free plan with limited daily generations. Users can upgrade to premium for unlimited access and additional features."
+        },
+        {
+            "question": "How do I generate an image on FluxAI.art?",
+            "answer": "Simply enter a text prompt describing your desired image, adjust any optional settings, and click generate. The AI processes it in seconds to produce the result."
+        },
+        {
+            "question": "What makes Flux AI different from other image generators?",
+            "answer": "Flux AI excels in photorealism, detail accuracy, and handling complex prompts, often outperforming models like Stable Diffusion in quality and coherence."
+        },
+        {
+            "question": "Can I use generated images commercially?",
+            "answer": "Yes, with a premium account, users typically gain commercial rights, but check the terms of service for specifics. Free users may have restrictions."
+        },
+        {
+            "question": "What are the system requirements for using FluxAI.art?",
+            "answer": "It's web-based, so you only need a modern browser and internet connection. No powerful hardware is required on your end as processing is cloud-based."
+        },
+        {
+            "question": "How can I improve the quality of generated images?",
+            "answer": "Use detailed, specific prompts with elements like style, lighting, and composition. Experiment with different Flux model variants for optimal results."
+        },
+        {
+            "question": "Is there a mobile app for FluxAI.art?",
+            "answer": "Currently, it's primarily a web platform, but it works on mobile browsers. A dedicated app may be in development."
+        },
+        {
+            "question": "What if I encounter errors during generation?",
+            "answer": "Errors can occur due to server load or invalid prompts; try simplifying your input or waiting a few minutes. Contact support if issues persist."
+        },
+        {
+            "question": "Does FluxAI.art support image editing?",
+            "answer": "While primarily focused on generation, it offers basic editing like variations from existing images. Advanced editing may require external tools."
+        }
+    ]
+}

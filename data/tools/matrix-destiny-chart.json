@@ -1,0 +1,65 @@
+{
+    "name": "Matrix Destiny Chart",
+    "description": "This website offers a free Destiny Matrix calculator that analyzes users' birth dates to reveal life purpose, talents, and relationship patterns using numerology and energy work.",
+    "longDescription": "The Destiny Matrix is described as a system combining numerology, tarot archetypes, and energy work to map out an individual's life blueprint, highlighting strengths, challenges, and purpose. It calculates a personalized matrix based on the user's birth date, revealing 22 key positions that cover aspects like core essence, relationships, career, and spiritual growth. The website provides detailed interpretations, expert insights, and AI-powered analysis to help users understand their life path, make informed decisions, and gain clarity on personal development and karmic lessons. Its mission is to unlock the secrets of users' life paths using ancient wisdom combined with modern psychological insights, ensuring accuracy and reliability through authentic methodology. The platform serves users by offering accessible tools for self-discovery and personal empowerment through mystical and analytical means.",
+    "url": "https://matrix-destiny-chart.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/matrix-destiny-chart.net.webp",
+    "category": "AI Predictions",
+    "categorySlug": "ai-predictions",
+    "slug": "matrix-destiny-chart",
+    "categories": [
+        "AI Predictions",
+        "AI Life"
+    ],
+    "features": [
+        "Calculates a personalized Destiny Matrix based on the user's birth date with detailed interpretations.",
+        "Offers about 30 pages of analysis and interpretation of the destiny matrix.",
+        "Provides relationship insights by analyzing compatibility patterns and dynamics through matrix analysis.",
+        "Includes life planning guidance for career, relationships, and personal growth based on matrix results.",
+        "Features AI-powered analysis for detailed interpretations of matrix positions and their meanings.",
+        "Allows users to click on numbers for simple explanations of different areas.",
+        "Offers expert interpretations by professionals in numerology, tarot, and energy work."
+    ],
+    "faqs": [
+        {
+            "question": "What is the Destiny Matrix?",
+            "answer": "The Destiny Matrix is a system that combines numerology, tarot archetypes, and energy work to reveal your life's blueprint, showing strengths, challenges, and purpose."
+        },
+        {
+            "question": "How does it work?",
+            "answer": "It uses your birth date to calculate a personalized matrix with 22 key positions representing different life aspects like core essence and career path."
+        },
+        {
+            "question": "What will I learn from my Destiny Matrix?",
+            "answer": "You will discover your life purpose, natural talents, karmic lessons, relationship improvements, and clarity on your spiritual path."
+        },
+        {
+            "question": "Is the calculation accurate and reliable?",
+            "answer": "Yes, calculations are based on authentic Destiny Matrix methodology and combine traditional wisdom with modern psychological insights."
+        },
+        {
+            "question": "Do I need expert knowledge to understand the results?",
+            "answer": "No, the website provides expert interpretations and simple explanations to ensure comprehensive and meaningful insights."
+        },
+        {
+            "question": "How long is the analysis report?",
+            "answer": "The analysis report is about 30 pages long, offering detailed interpretations of your destiny matrix."
+        },
+        {
+            "question": "Can it help with relationship decisions?",
+            "answer": "Yes, it provides relationship insights to understand compatibility patterns and dynamics through matrix analysis."
+        },
+        {
+            "question": "Is there AI involved in the analysis?",
+            "answer": "Yes, advanced AI provides detailed interpretations of matrix positions and their meanings."
+        },
+        {
+            "question": "How do I get started?",
+            "answer": "Click on 'Calculate My Matrix' to begin the process with your birth date."
+        },
+        {
+            "question": "Is it useful for career planning?",
+            "answer": "Yes, it offers guidance for making informed decisions about your career based on matrix results."
+        }
+    ]
+}

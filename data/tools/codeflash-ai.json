@@ -1,0 +1,72 @@
+{
+    "name": "Codeflash",
+    "description": "Codeflash is an AI-powered tool that optimizes Python code for performance, verifies correctness, and integrates with GitHub to enhance development speed.",
+    "longDescription": "Codeflash is a tool designed to automatically optimize Python code, focusing on performance improvements by identifying and implementing faster versions of code. Its mission is to help developers ship features quickly while ensuring code is highly performant, reducing the time spent on manual optimization in large codebases. It achieves this by analyzing code, suggesting optimizations like loop elimination and algorithmic complexity reduction, and verifying correctness to maintain functionality. The tool integrates with GitHub, allowing optimization of pull requests and entire projects, and is trusted by top engineering teams for enhancing application performance. Testimonials highlight its effectiveness in speeding up processes like object detection and managing large open-source projects.",
+    "url": "https://www.codeflash.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.codeflash.ai.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "codeflash-ai",
+    "categories": [
+        "AI Code Assistant",
+        "AI Productivity Tools",
+        "AI Github",
+        "AI Code Review",
+        "AI Testing",
+        "Open Source AI Models",
+        "AI Developer Tools",
+        "AI Project Management"
+    ],
+    "features": [
+        "Automatically finds and implements the fastest version of Python code using AI-powered optimizations.",
+        "Verifies the correctness of optimized code to ensure functionality is maintained.",
+        "Integrates with GitHub as an action to optimize pull requests and prevent slow code deployment.",
+        "Analyzes entire projects to identify every possible optimization opportunity.",
+        "Provides thorough testing and explanations for recommended changes, building confidence in optimizations.",
+        "Prioritizes security with SSL encryption, SOC 2 Type 2 certification, and analysis of only necessary code.",
+        "Offers significant speedups, with examples including 298x for Langflow and 55x for Albumentations.",
+        "Enables developers to focus on feature development while it handles performance optimization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Codeflash?",
+            "answer": "Codeflash is an AI-powered tool that optimizes Python code for performance and integrates with GitHub."
+        },
+        {
+            "question": "How does Codeflash optimize code?",
+            "answer": "It uses AI to find faster code versions, eliminates loops, reduces algorithmic complexity, and verifies correctness."
+        },
+        {
+            "question": "Is Codeflash free to use?",
+            "answer": "Yes, it offers a free plan limited to 25 function optimizations per month with community support. There is also a Pro plan at $30 per user per month with a 14-day free trial."
+        },
+        {
+            "question": "Can Codeflash optimize GitHub pull requests?",
+            "answer": "Yes, it can be installed as a GitHub action to optimize PRs."
+        },
+        {
+            "question": "What security measures does Codeflash have?",
+            "answer": "It uses SSL encryption, is SOC 2 Type 2 certified, and analyzes only necessary code."
+        },
+        {
+            "question": "What kind of speedups can Codeflash achieve?",
+            "answer": "Examples include 298x speedup for Langflow and 55x for Albumentations."
+        },
+        {
+            "question": "Does Codeflash work with large projects?",
+            "answer": "Yes, it can optimize entire projects and is used in large open-source codebases like Pydantic."
+        },
+        {
+            "question": "How does Codeflash help developers?",
+            "answer": "It allows developers to focus on feature development while it handles performance optimization."
+        },
+        {
+            "question": "Can Codeflash be trusted for production code?",
+            "answer": "Testimonials suggest it is trusted by top engineering teams and provides thorough testing."
+        },
+        {
+            "question": "What programming languages does Codeflash support?",
+            "answer": "It primarily supports Python, with no mention of other languages."
+        }
+    ]
+}

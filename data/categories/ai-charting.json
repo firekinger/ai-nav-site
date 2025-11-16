@@ -1,0 +1,292 @@
+{
+    "title": "The Best 27 AI Charting Tools in 2025",
+    "summary": "Unlock the power of data visualization with our AI Charting tools. Designed to transform complex datasets into clear, insightful charts, these innovative solutions enhance decision-making and streamline reporting. Whether you're a business analyst, marketer, or researcher, our curated selection of AI-driven charting tools simplifies the process of creating stunning visuals, saving you time and effort. Explore how these tools can elevate your data storytelling and drive impactful insights. Dive into our AI Charting category today and discover the perfect tool to meet your visualization needs!",
+    "tools": [
+        {
+            "id": "199",
+            "name": "Hint",
+            "slug": "hint",
+            "description": "Hint is an AI-powered platform for personalized astrology insights and horoscope predictions.",
+            "icon": "/logo/hint.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "536",
+            "name": "MagicSlides",
+            "slug": "magicslides",
+            "description": "MagicSlides is an AI-powered platform that creates professional presentation slides from text, topics, or multimedia in seconds.",
+            "icon": "/logo/www.magicslides.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "573",
+            "name": "Hex",
+            "slug": "hex",
+            "description": "Hex is a collaborative, AI-powered analytics workspace for data science and decision-making.",
+            "icon": "/logo/hex.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "621",
+            "name": "ResearchRabbit",
+            "slug": "researchrabbit-ai",
+            "description": "ResearchRabbit is an AI-powered tool for discovering and organizing scholarly literature through visualization and personalized recommendations.",
+            "icon": "/logo/www.researchrabbit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1420",
+            "name": "Math GPT",
+            "slug": "math-gpt-ai",
+            "description": "Math GPT is an AI-driven platform that assists users in solving mathematical problems and understanding concepts through advanced language models.",
+            "icon": "/logo/math-gpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "673",
+            "name": "GPTExcel",
+            "slug": "gptexcel",
+            "description": "GPTExcel is an AI-powered tool that simplifies spreadsheet tasks by generating formulas, scripts, and data insights for Excel, Google Sheets, and Airtable.",
+            "icon": "/logo/gptexcel.uk.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "756",
+            "name": "YOUR.GG",
+            "slug": "your-gg",
+            "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+            "icon": "/logo/your.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "807",
+            "name": "Fibery",
+            "slug": "fibery",
+            "description": "Fibery is a no-code work management platform that connects teams and streamlines processes with customizable databases and collaboration tools.",
+            "icon": "/logo/fibery.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "816",
+            "name": "Formula Bot",
+            "slug": "formula-bot",
+            "description": "Formula Bot is an AI-powered platform that simplifies data analysis and spreadsheet tasks by generating formulas, visualizations, and insights from natural language inputs.",
+            "icon": "/logo/www.formulabot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "FastBots",
+            "slug": "fastbots-ai",
+            "description": "FastBots.ai is a no-code platform for creating AI-powered chatbots trained on custom business data to provide 24/7 customer support and automation.",
+            "icon": "/logo/fastbots.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "Datarails",
+            "slug": "datarails",
+            "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+            "icon": "/logo/www.datarails.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "864",
+            "name": "VocAI",
+            "slug": "vocai",
+            "description": "VocAI is an AI-powered platform that provides intelligent customer support solutions and customer feedback analysis for e-commerce businesses.",
+            "icon": "/logo/www.voc.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "884",
+            "name": "Synexa",
+            "slug": "synexa-ai",
+            "description": "Synexa.ai is a platform leveraging AI for advanced biomarker services and bioanalysis in the life sciences industry.",
+            "icon": "/logo/synexa.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "904",
+            "name": "Quadratic",
+            "slug": "quadratic",
+            "description": "Quadratic is an AI-powered spreadsheet platform that combines infinite canvas spreadsheets with Python, SQL, and AI tools for advanced data analysis and visualization.",
+            "icon": "/logo/www.quadratichq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "914",
+            "name": "MyLens.ai",
+            "slug": "mylens-ai",
+            "description": "MyLens.ai is an AI-powered platform that allows users to generate interactive timelines, mind maps, and charts from natural language descriptions to visualize information effortlessly.",
+            "icon": "/logo/mylens.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "924",
+            "name": "FocalML",
+            "slug": "focalml",
+            "description": "FocalML is an AI-powered platform specializing in machine learning tools for image analysis and computer vision tasks.",
+            "icon": "/logo/focalml.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "953",
+            "name": "Reflect",
+            "slug": "reflect",
+            "description": "Reflect is an AI-powered note-taking app that helps users capture, organize, and connect ideas through networked notes and intelligent features.",
+            "icon": "/logo/reflect.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1228",
+            "name": "Voxel51",
+            "slug": "voxel51",
+            "description": "Voxel51 offers FiftyOne, an open-source platform for visualizing, curating, and evaluating computer vision datasets to accelerate AI model development.",
+            "icon": "/logo/voxel51.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1374",
+            "name": "Endex AI",
+            "slug": "endex-ai",
+            "description": "Endex.ai is an AI-powered platform designed to enhance data indexing, search, and analysis for researchers and businesses.",
+            "icon": "/logo/endex.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1333",
+            "name": "ExcelDashboard.ai",
+            "slug": "exceldashboard-ai",
+            "description": "ExcelDashboard.ai is an AI-powered platform that simplifies the creation and management of interactive data dashboards within Microsoft Excel.",
+            "icon": "/logo/www.exceldashboard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1364",
+            "name": "VibeScan",
+            "slug": "vibescan",
+            "description": "VibeScan is an AI-powered platform that analyzes the emotional tone and vibe of digital content to help users understand social dynamics and sentiment.",
+            "icon": "/logo/vibescan.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1244",
+            "name": "Revyu.ai",
+            "slug": "revyu-ai",
+            "description": "Revyu.ai is an AI-powered platform that enables businesses to generate, analyze, and manage customer reviews to boost online reputation and sales.",
+            "icon": "/logo/www.revyu.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1366",
+            "name": "Plexigen AI",
+            "slug": "plexigen-ai",
+            "description": "Plexigen AI is an innovative platform leveraging artificial intelligence for advanced genomic data analysis and personalized medicine solutions.",
+            "icon": "/logo/plexigen.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1396",
+            "name": "B150 AI",
+            "slug": "b150-ai",
+            "description": "B150.ai is an AI-driven platform offering advanced tools for business intelligence, automation, and data analysis to enhance productivity.",
+            "icon": "/logo/b150.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        },
+        {
+            "id": "1404",
+            "name": "Agentsphere",
+            "slug": "agentsphere",
+            "description": "Agentsphere is a platform for building, deploying, and managing collaborative AI agents to automate complex tasks and workflows.",
+            "icon": "/logo/www.agentsphere.run.webp",
+            "isFree": true,
+            "categories": [
+                "ai-charting"
+            ]
+        }
+    ]
+}

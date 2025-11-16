@@ -1,0 +1,57 @@
+{
+    "name": "Dribbble",
+    "description": "Dribbble is a community platform for designers to showcase their work, connect with peers, and find job opportunities.",
+    "longDescription": "Dribbble is a global online community where designers, including graphic designers, UI/UX specialists, and illustrators, share their creative work through visual 'shots.' Founded to foster inspiration and collaboration, it serves as a portfolio platform and a hub for networking within the design industry. Designers can upload their projects, receive feedback, and engage with a vibrant community of creatives and potential clients. The platform also offers job listings and freelance opportunities, making it a valuable resource for career growth. Dribbble’s mission is to empower designers to showcase their talent, learn from others, and connect with clients worldwide. While it offers free access to core features, premium plans unlock additional functionalities like enhanced visibility and analytics.",
+    "url": "https://www.dribbble.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dribbble.com.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "dribbble",
+    "categories": [
+        "AI Design Assistant",
+        "AI Social Media",
+        "AI Recruiting",
+        "AI Art Generator",
+        "AI UX Design"
+    ],
+    "features": [
+        "Designers can upload 'shots' to showcase their creative projects, building a professional portfolio to attract clients and peers.",
+        "The platform allows users to follow other designers, fostering networking and inspiration within the global creative community.",
+        "Dribbble offers a job board featuring remote and full-time design opportunities, connecting talent with employers.",
+        "Users can engage with the community through likes, comments, and feedback, enhancing collaboration and skill development.",
+        "Pro subscriptions provide advanced features like analytics, private shots, and priority listing in search results.",
+        "The platform supports project organization through collections, enabling users to curate and save inspiring designs.",
+        "Dribbble’s marketplace allows designers to sell digital products like templates and assets directly to clients.",
+        "The platform hosts design challenges and events, encouraging creativity and community engagement."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dribbble used for?",
+            "answer": "Dribbble is a platform for designers to showcase their work, connect with other creatives, and discover job opportunities."
+        },
+        {
+            "question": "Is Dribbble free to use?",
+            "answer": "Yes, Dribbble offers a free plan for basic features like uploading shots and browsing, but premium plans unlock additional tools."
+        },
+        {
+            "question": "How can I join Dribbble as a designer?",
+            "answer": "Designers can sign up and apply for a designer account, which is approved based on the quality of their work."
+        },
+        {
+            "question": "Can I find jobs on Dribbble?",
+            "answer": "Yes, Dribbble’s job board lists freelance and full-time design opportunities, with filters for remote work."
+        },
+        {
+            "question": "What types of designs can I share on Dribbble?",
+            "answer": "You can share graphic design, UI/UX, illustrations, animations, and other creative work, following community guidelines."
+        },
+        {
+            "question": "How do I get feedback on my designs?",
+            "answer": "Post your shots publicly to receive likes, comments, and constructive feedback from the Dribbble community."
+        },
+        {
+            "question": "What are Dribbble’s Pro features?",
+            "answer": "Pro features include analytics, private shots, priority search rankings, and the ability to sell products in the marketplace."
+        }
+    ]
+}

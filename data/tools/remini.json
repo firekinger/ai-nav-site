@@ -1,0 +1,61 @@
+{
+    "name": "Remini",
+    "description": "Remini enhances and restores images and videos using advanced AI technology.",
+    "longDescription": "Remini is an AI-powered platform designed to enhance, restore, and transform low-quality images and videos into high-definition visuals. It leverages cutting-edge artificial intelligence to improve clarity, sharpness, and detail, making it ideal for personal and professional use. The platform caters to users looking to revive old photos, enhance social media content, or improve video quality with minimal effort. Remini’s intuitive interface allows users to upload media and receive enhanced results quickly, solving the problem of poor-quality visuals. Its mission is to make professional-grade image and video enhancement accessible to everyone, from casual users to content creators. The service is available via web and mobile apps, ensuring flexibility and convenience.",
+    "url": "https://remini.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/remini.ai.webp",
+    "category": "AI Image Enhancer",
+    "categorySlug": "ai-image-enhancer",
+    "slug": "remini",
+    "categories": [
+        "AI Image Enhancer",
+        "AI Photo Restoration",
+        "AI Video Enhancer",
+        "AI Colorize",
+        "AI Photo Enhancer",
+        "AI Social Media Post Generator",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "AI-powered image enhancement improves low-resolution photos to high-definition quality with enhanced clarity and detail.",
+        "Video enhancement upscales and restores old or blurry videos, improving sharpness and visual quality.",
+        "Photo restoration revives old, damaged, or faded images by reconstructing details and colors using AI algorithms.",
+        "Batch processing allows users to enhance multiple images or videos simultaneously, saving time for large projects.",
+        "Real-time preview lets users see enhancement results before finalizing, ensuring satisfaction with the output.",
+        "Mobile app integration provides seamless access to Remini’s features on iOS and Android devices for on-the-go editing.",
+        "AI colorization converts black-and-white photos to vibrant color images with realistic tones.",
+        "Background enhancement sharpens and refines image backgrounds for a polished, professional look.",
+        "Portrait mode optimizes facial details in photos, enhancing features like skin texture and lighting for better portraits.",
+        "One-tap enhancement simplifies the editing process, delivering quick results with minimal user input."
+    ],
+    "faqs": [
+        {
+            "question": "What is Remini used for?",
+            "answer": "Remini uses AI to enhance and restore low-quality images and videos, improving clarity, sharpness, and detail for personal or professional use."
+        },
+        {
+            "question": "Is Remini free to use?",
+            "answer": "Remini offers a free plan with limited enhancements, while a paid subscription unlocks unlimited access and advanced features."
+        },
+        {
+            "question": "Can Remini restore old photos?",
+            "answer": "Yes, Remini’s AI can restore old, faded, or damaged photos by reconstructing details and enhancing colors."
+        },
+        {
+            "question": "Does Remini work on videos?",
+            "answer": "Remini supports video enhancement, upscaling low-resolution or blurry videos to improve clarity and quality."
+        },
+        {
+            "question": "Is Remini available on mobile devices?",
+            "answer": "Yes, Remini offers mobile apps for iOS and Android, allowing users to enhance media on the go."
+        },
+        {
+            "question": "How long does it take to enhance an image?",
+            "answer": "Enhancement typically takes a few seconds to a minute, depending on the file size and complexity."
+        },
+        {
+            "question": "Can Remini colorize black-and-white photos?",
+            "answer": "Yes, Remini’s AI can add realistic colors to black-and-white images for a vibrant result."
+        }
+    ]
+}

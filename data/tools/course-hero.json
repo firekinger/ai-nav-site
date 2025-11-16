@@ -1,0 +1,60 @@
+{
+    "name": "Course Hero",
+    "description": "Course Hero is an online learning platform providing access to millions of course-specific study resources and tutoring services for students.",
+    "longDescription": "Course Hero is an American education technology platform founded in 2006 by Andrew Grauer, designed to help students excel academically by offering a vast library of user-generated and educator-created study materials. It operates as a crowdsourced platform where students can access study guides, practice problems, class notes, and more, either by subscribing or uploading their own content to earn unlocks. The platform also connects users with expert tutors for 24/7 homework help, catering to a wide range of academic subjects and institutions. Course Hero aims to foster a collaborative learning environment, enabling students to study more effectively and achieve academic success. Its mission is to empower students to 'own the study hour' by providing accessible, high-quality resources tailored to their courses. The service is particularly popular among college students seeking to supplement their learning with peer-shared materials and personalized tutoring.",
+    "url": "https://www.coursehero.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/coursehero.com.webp",
+    "category": "AI Course",
+    "categorySlug": "ai-course",
+    "slug": "course-hero",
+    "categories": [
+        "AI Course",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Coaching",
+        "AI Homework Helper"
+    ],
+    "features": [
+        "Access to over 30 million course-specific study resources, including notes, study guides, and practice problems, to support student learning across various subjects.",
+        "24/7 homework help from expert tutors, allowing students to receive personalized assistance for challenging assignments or concepts.",
+        "A crowdsourcing model where students can upload original documents to earn unlocks, enabling free access to premium study materials.",
+        "AI-powered content recommendations that suggest relevant study resources based on user engagement, course, and subject data.",
+        "Verified Educator accounts offering free access to resources for confirmed U.S. and Canada-based educators who share their own materials.",
+        "Interactive practice problems and detailed explanations to help students master course content and prepare for exams.",
+        "A scholarship application system integrated into the platform, providing students opportunities to apply for financial aid directly through Course Hero."
+    ],
+    "faqs": [
+        {
+            "question": "What is Course Hero?",
+            "answer": "Course Hero is an online learning platform where students can access millions of course-specific study resources and connect with expert tutors for academic support."
+        },
+        {
+            "question": "Is Course Hero free to use?",
+            "answer": "Course Hero offers a free account to browse and upload content, but full access to resources requires a paid subscription or earning unlocks by contributing materials."
+        },
+        {
+            "question": "How does Course Hero’s tutoring service work?",
+            "answer": "Students can submit questions to expert tutors 24/7 and receive detailed answers, with the option to rate tutors for quality assurance."
+        },
+        {
+            "question": "Can educators use Course Hero?",
+            "answer": "Verified educators in the U.S. and Canada can access Course Hero’s resources for free by uploading their own study materials."
+        },
+        {
+            "question": "Is Course Hero legal and safe to use?",
+            "answer": "Course Hero is a legitimate platform that complies with business laws, but students should use it responsibly to avoid violating academic integrity policies."
+        },
+        {
+            "question": "How do I find study materials on Course Hero?",
+            "answer": "Users can search for resources by school, subject, textbook, or course using the search bar or browse categories to find relevant materials."
+        },
+        {
+            "question": "Can I cancel my Course Hero subscription?",
+            "answer": "Subscriptions can be canceled anytime through the Account Settings in the User Dashboard, with immediate effect and no further billing."
+        },
+        {
+            "question": "Does Course Hero offer scholarships?",
+            "answer": "Yes, Course Hero provides opportunities for students to apply for scholarships directly through the platform to support their education."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Mocke",
+    "description": "Mocke provides an AI-powered platform for simulating cold email campaigns to quickly test reply rates and campaign performance without launching real campaigns.",
+    "longDescription": "Mocke is a platform designed to simulate cold email campaigns using AI, allowing users to test elements like subject lines, CTAs, and messaging without the need for real customer interactions. It provides rapid feedback, with campaign results available in as little as one minute, compared to the traditional two-week timeline for real campaigns. The service aims to eliminate guesswork by revealing detailed campaign outcomes, including reply rates, unsubscribes, and hidden lead actions like reporting spam or archiving emails. Mocke’s mission is to save time and improve cold email performance by offering targeted messaging and deep analytics. It caters to users looking to optimize their email strategies efficiently and avoid the frustration of running real campaigns with little feedback. Plans include both free and paid options to scale with user needs.",
+    "url": "https://mocke.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mocke.co.webp",
+    "category": "AI Email Assistant",
+    "categorySlug": "ai-email-assistant",
+    "slug": "mocke",
+    "categories": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Marketing",
+        "AI Ad Generator",
+        "AI Predictions",
+        "AI Lead Generation",
+        "AI Testing"
+    ],
+    "features": [
+        "Upload a .csv file to launch a mock campaign with just one click.",
+        "Receive campaign results, including reply rate, unsubscribe, and out of office, in as quick as one minute.",
+        "Reveal hidden lead actions such as report spam, internal forward, remind me later, or archive/ignore.",
+        "Offer deep mock analytics and campaign insights for performance evaluation.",
+        "Allow unlimited concurrent campaigns for testing multiple strategies simultaneously.",
+        "Provide 100 monthly mock credits in the Free Forever Plan and up to 100,000 in premium plans.",
+        "Include instant campaign running for immediate feedback.",
+        "Offer shared Slack channel support and free cold email/deliverability consulting in the Annual Plan."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mocke?",
+            "answer": "Mocke is an AI-powered platform that simulates cold email campaigns to test reply rates and performance without actually sending emails."
+        },
+        {
+            "question": "Does Mocke offer a free plan?",
+            "answer": "Yes, Mocke has a Free Forever Plan that includes 100 monthly mock credits and basic features."
+        },
+        {
+            "question": "How quickly can I get results from a mock campaign?",
+            "answer": "Results are available in as little as one minute after launching the mock campaign."
+        },
+        {
+            "question": "What file format do I need to upload for leads?",
+            "answer": "You need to upload a .csv file containing your lead information to launch a mock campaign."
+        },
+        {
+            "question": "Can I run multiple campaigns at once?",
+            "answer": "Yes, Mocke allows unlimited concurrent campaigns, enabling you to test multiple strategies simultaneously."
+        },
+        {
+            "question": "What kind of analytics does Mocke provide?",
+            "answer": "Mocke offers deep analytics including reply rates, unsubscribes, out-of-office replies, and hidden lead actions like reporting spam or archiving."
+        },
+        {
+            "question": "Is Mocke suitable for beginners in cold emailing?",
+            "answer": "Absolutely, Mocke's user-friendly interface and quick feedback make it ideal for beginners to optimize their email strategies without prior experience."
+        },
+        {
+            "question": "How does the AI simulation work?",
+            "answer": "The AI simulates lead responses based on advanced algorithms to predict real-world outcomes, providing insights into campaign effectiveness."
+        },
+        {
+            "question": "What are the premium plan benefits?",
+            "answer": "Premium plans offer higher mock credits (up to 100,000), priority support, and additional consulting services."
+        },
+        {
+            "question": "Can Mocke help improve email deliverability?",
+            "answer": "Yes, by revealing potential spam reports and other negative actions, Mocke helps users refine their emails to improve deliverability."
+        }
+    ]
+}

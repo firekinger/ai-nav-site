@@ -1,0 +1,60 @@
+{
+    "name": "Brainly",
+    "description": "Brainly is a peer-to-peer learning platform where students collaborate to solve homework and study questions.",
+    "longDescription": "Brainly is an education technology platform that facilitates collaborative learning by allowing students to ask and answer academic questions within a global community. Founded in 2009 in Poland, it connects over 350 million users, including students, parents, and educators, across 35 countries to share knowledge and tackle academic challenges. The platform supports a wide range of subjects, from math and science to history and languages, fostering critical thinking and problem-solving skills. Its mission is to inspire students to learn collaboratively, making education accessible and engaging through user-generated content and expert-verified answers. While the free version offers core functionality, premium subscriptions provide enhanced features like ad-free access and live tutoring. Brainly’s community-driven approach ensures fast responses, often within minutes, making it a valuable resource for students seeking quick and reliable homework help.",
+    "url": "https://www.brainly.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/brainly.com.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "brainly",
+    "categories": [
+        "AI Homework Helper",
+        "AI Language Learning",
+        "AI Social Media",
+        "AI Teachers"
+    ],
+    "features": [
+        "Ask Questions: Students can post homework questions in various subjects and receive answers from peers or experts, often within minutes.",
+        "Answer Sharing: Users can contribute answers to others’ questions, earning points and building a reputation within the community.",
+        "Verified Answers: Expert-verified responses marked with a green checkmark ensure reliable and accurate information for users.",
+        "Mobile App Access: The Brainly app, available on iOS and Android, enables on-the-go learning with a user-friendly interface.",
+        "Point System: A gamified system rewards users with points for answering questions, encouraging active participation and engagement.",
+        "Private Chat: Users can engage in private chats to gain deeper insights or clarify answers, enhancing understanding.",
+        "Brainly Plus: The premium subscription offers ad-free access, unlimited questions, and priority responses for enhanced usability.",
+        "Test Prep Tool: An AI-powered feature helps students prepare for exams with personalized study materials tailored to their curriculum."
+    ],
+    "faqs": [
+        {
+            "question": "What is Brainly used for?",
+            "answer": "Brainly is a peer-to-peer platform where students ask and answer homework questions, fostering collaborative learning across various subjects."
+        },
+        {
+            "question": "Is Brainly free to use?",
+            "answer": "Yes, Brainly offers a free Basic plan with access to questions and answers, though it includes ads and limited features."
+        },
+        {
+            "question": "How reliable are the answers on Brainly?",
+            "answer": "Answers vary in quality, but those marked with a green checkmark are verified by subject experts for accuracy."
+        },
+        {
+            "question": "Can teachers or parents use Brainly?",
+            "answer": "Yes, teachers and parents can create accounts to monitor student progress and view their search history."
+        },
+        {
+            "question": "Does Brainly support mobile devices?",
+            "answer": "Brainly offers a mobile app for iOS and Android, allowing users to ask and answer questions on the go."
+        },
+        {
+            "question": "What is Brainly Plus?",
+            "answer": "Brainly Plus is a paid subscription that provides ad-free access, unlimited questions, and priority answers."
+        },
+        {
+            "question": "Can Brainly be used for exam preparation?",
+            "answer": "Yes, Brainly’s AI-powered Test Prep tool offers personalized study materials to help students prepare for exams."
+        },
+        {
+            "question": "Does Brainly allow cheating?",
+            "answer": "Brainly’s honor code prohibits cheating and plagiarism, though moderators may not catch all violations immediately."
+        }
+    ]
+}

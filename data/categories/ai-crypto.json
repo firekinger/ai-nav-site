@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Crypto Tools in 2025",
+    "summary": "Discover the transformative power of AI in the cryptocurrency space with our 'AI Crypto' category. These innovative tools streamline trading, enhance market analysis, and optimize investment strategies, empowering users to make informed decisions in a fast-paced environment. Whether you're a seasoned trader or a curious newcomer, our curated selection of AI-driven solutions addresses your unique needs, helping you navigate the complexities of crypto with confidence. Explore our AI Crypto tools today and unlock your potential in the digital currency market!",
+    "tools": [
+        {
+            "id": "449",
+            "name": "AInvest",
+            "slug": "ainvest",
+            "description": "AInvest provides AI-powered tools for stock and cryptocurrency trading, offering real-time market analysis and personalized investment insights.",
+            "icon": "/logo/www.ainvest.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-crypto"
+            ]
+        },
+        {
+            "id": "1381",
+            "name": "TradingFinder",
+            "slug": "tradingfinder",
+            "description": "TradingFinder is a comprehensive platform offering education, trading tools, indicators, and reviews of brokers and exchanges for Forex, cryptocurrency, and stock markets.",
+            "icon": "/logo/tradingfinder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-crypto"
+            ]
+        },
+        {
+            "id": "954",
+            "name": "ChainGPT",
+            "slug": "chaingpt",
+            "description": "ChainGPT is an AI-powered platform providing advanced tools and infrastructure for blockchain, crypto, and Web3 development.",
+            "icon": "/logo/www.chaingpt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-crypto"
+            ]
+        }
+    ]
+}

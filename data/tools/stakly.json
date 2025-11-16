@@ -1,0 +1,61 @@
+{
+    "name": "Stakly",
+    "description": "Stakly is an AI-powered platform designed for developers to manage, optimize, and collaborate on technology stacks efficiently.",
+    "longDescription": "Stakly is a cutting-edge web platform that leverages artificial intelligence to help developers build and maintain optimal technology stacks for their projects. Its mission is to simplify the complex process of selecting, integrating, and updating software tools and frameworks, reducing development time and costs. By analyzing project requirements and user preferences, Stakly provides personalized recommendations and automates stack configurations. It serves users ranging from individual coders to large teams by solving problems like compatibility issues and outdated tech choices. Ultimately, Stakly empowers developers to focus more on innovation rather than technical setup.",
+    "url": "https://www.stakly.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.stakly.dev.webp",
+    "category": "AI App Builder",
+    "categorySlug": "ai-app-builder",
+    "slug": "stakly",
+    "categories": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Project Management",
+        "AI For Data Analytics",
+        "AI Image Scanning"
+    ],
+    "features": [
+        "AI-driven stack recommendations that analyze project needs and suggest the best tools and frameworks to maximize efficiency.",
+        "Automated compatibility checks to ensure all components in a tech stack work seamlessly together, preventing integration errors.",
+        "Collaborative workspace where teams can share, edit, and version-control stack configurations in real-time.",
+        "Integration with popular version control systems like Git, allowing seamless import and export of stack data.",
+        "Performance analytics that monitor stack efficiency and provide insights on optimizations or updates needed.",
+        "Customizable templates for common project types, such as web apps or mobile development, to kickstart setups quickly.",
+        "Security scanning tools that identify vulnerabilities in recommended stacks and suggest secure alternatives.",
+        "Cost estimation features that predict expenses for cloud services and tools within a proposed stack."
+    ],
+    "faqs": [
+        {
+            "question": "What is Stakly primarily used for?",
+            "answer": "Stakly is used for managing and optimizing technology stacks in software development projects. It helps developers choose the right tools and ensures compatibility."
+        },
+        {
+            "question": "Does Stakly offer a free plan?",
+            "answer": "Yes, Stakly provides a free tier with access to basic features like stack recommendations and compatibility checks. Upgrades are available for advanced analytics and team collaboration."
+        },
+        {
+            "question": "How does the AI in Stakly work?",
+            "answer": "Stakly's AI analyzes user inputs, project details, and current trends to generate personalized stack suggestions. It learns from community data to improve accuracy over time."
+        },
+        {
+            "question": "Can I integrate Stakly with my existing workflow?",
+            "answer": "Absolutely, Stakly integrates with tools like Git, Jira, and popular IDEs for seamless workflow incorporation."
+        },
+        {
+            "question": "Is Stakly suitable for beginners?",
+            "answer": "Yes, its intuitive interface and guided recommendations make it accessible for beginners while offering depth for experienced developers."
+        },
+        {
+            "question": "How secure is the data I input into Stakly?",
+            "answer": "Stakly employs robust encryption and compliance with standards like GDPR to protect user data. No project details are shared without permission."
+        },
+        {
+            "question": "What industries does Stakly cater to?",
+            "answer": "Stakly is versatile for web development, mobile apps, data science, and more, focusing on tech stack management across various sectors."
+        },
+        {
+            "question": "Can I collaborate with my team on Stakly?",
+            "answer": "Yes, the platform supports real-time collaboration features for teams to build and refine stacks together."
+        }
+    ]
+}

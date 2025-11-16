@@ -1,0 +1,75 @@
+{
+    "name": "Remaker AI",
+    "description": "Remaker AI is an online platform that leverages artificial intelligence for advanced image editing, face swapping, and creative content generation.",
+    "longDescription": "Remaker AI is a web-based AI tool designed to empower users with easy-to-use features for manipulating and generating images through advanced machine learning algorithms. Its mission is to make professional-level image editing accessible to everyone, from casual users to content creators, without requiring extensive technical skills. The platform solves problems related to photo editing, such as face swapping in videos or images, generating new visuals from text prompts, and enhancing or restoring photos. By providing intuitive interfaces and quick processing, it serves users in creative industries, social media, and personal projects. Overall, Remaker AI democratizes AI-driven creativity, allowing users to remix and remake visual content effortlessly.",
+    "url": "https://remaker.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/remaker.ai.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "remaker-ai",
+    "categories": [
+        "AI Face Swap Generator",
+        "Text to Image",
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Image Upscaler",
+        "AI Creative Writing",
+        "AI Social Media Post Generator",
+        "AI Models",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Face Swap allows users to seamlessly replace faces in images or videos with high accuracy, enabling fun and creative transformations.",
+        "Image Generator creates original images from text descriptions, helping users visualize ideas without artistic skills.",
+        "Background Remover automatically detects and eliminates backgrounds from photos, simplifying editing for e-commerce or design purposes.",
+        "Image Enhancer improves photo quality by upscaling resolution, reducing noise, and enhancing details for professional results.",
+        "Text-to-Image Conversion turns descriptive text into custom visuals, ideal for illustrators and marketers needing quick prototypes.",
+        "Batch Processing enables editing multiple images at once, saving time for users handling large volumes of content.",
+        "AI Art Styles applies various artistic filters and styles to images, transforming ordinary photos into stylized artwork.",
+        "Video Face Swap extends face replacement to video clips, useful for entertainment and video production.",
+        "Custom Model Training allows users to train AI models on their own images for personalized results.",
+        "Privacy-Focused Processing ensures user data is handled securely without storing personal images long-term."
+    ],
+    "faqs": [
+        {
+            "question": "What is Remaker AI primarily used for?",
+            "answer": "Remaker AI is mainly used for AI-powered image editing tasks like face swapping, generating new images from text, and enhancing photos. It caters to both casual users and professionals seeking quick, creative tools."
+        },
+        {
+            "question": "Is Remaker AI free to use?",
+            "answer": "Yes, Remaker AI offers a free plan with access to core features, though with limitations on usage and advanced options. Premium subscriptions unlock unlimited access and additional capabilities."
+        },
+        {
+            "question": "How does the face swap feature work?",
+            "answer": "Users upload a source image and a target face, and the AI automatically detects and swaps them with realistic blending. It's designed for ease of use and produces high-quality results in seconds."
+        },
+        {
+            "question": "Can I use Remaker AI for commercial purposes?",
+            "answer": "Yes, generated content can be used commercially, but users should review the terms of service for any restrictions on AI-generated assets."
+        },
+        {
+            "question": "What file formats does Remaker AI support?",
+            "answer": "It supports common formats like JPG, PNG, and MP4 for images and videos. Ensure files are under the size limits for optimal processing."
+        },
+        {
+            "question": "Is my data secure on Remaker AI?",
+            "answer": "Remaker AI prioritizes user privacy by processing images on secure servers and not storing them permanently unless specified. No personal data is shared with third parties."
+        },
+        {
+            "question": "How accurate is the AI image generation?",
+            "answer": "The accuracy depends on the detail in text prompts, but it generally produces high-quality, relevant images. Users can refine outputs through iterations."
+        },
+        {
+            "question": "Does Remaker AI require any software installation?",
+            "answer": "No, it's entirely web-based, accessible via any modern browser without downloads."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan includes watermarks on outputs, limited daily generations, and restricted access to premium models. Upgrading removes these constraints."
+        },
+        {
+            "question": "Can I train custom AI models?",
+            "answer": "Yes, premium users can upload their own datasets to train personalized models for better face swaps or generations."
+        }
+    ]
+}

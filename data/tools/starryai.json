@@ -1,0 +1,79 @@
+{
+    "name": "StarryAI",
+    "description": "StarryAI is an AI-powered art generator that transforms text prompts into high-quality digital artworks.",
+    "longDescription": "StarryAI is an innovative AI art generation platform designed to empower users to create stunning visuals from simple text prompts. Its mission is to make art creation accessible to everyone, regardless of artistic skill, by leveraging advanced AI algorithms like neural style transfers and machine learning. The platform serves both novice and professional creators, enabling them to produce unique artworks for personal, social media, or commercial use. Users can customize their creations with various styles, aspect ratios, and settings, fostering endless creative possibilities. StarryAI also builds a vibrant community where users share their art and inspire one another, enhancing the creative experience.",
+    "url": "https://starryai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/starryai.com.webp",
+    "category": "AI Art Generator",
+    "categorySlug": "ai-art-generator",
+    "slug": "starryai",
+    "categories": [
+        "AI Art Generator",
+        "Text to Image",
+        "AI Style Transfer",
+        "NFTs",
+        "AI Avatar Generator",
+        "AI Image Enhancer",
+        "Prompt Engineering",
+        "AI Graphic Design",
+        "AI Social Media Post Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Text-to-art generation converts user prompts into high-quality visuals in minutes, enabling rapid creation of unique artworks.",
+        "Diverse art styles allow users to choose from themes like cyberpunk, portraits, or abstract, tailoring outputs to their vision.",
+        "Customizable aspect ratios, including square, landscape, and portrait, optimize artworks for various mediums like social media or prints.",
+        "Full ownership grants users complete rights to their AI-generated art for commercial and non-commercial purposes, ensuring flexibility.",
+        "Prompt builder simplifies crafting effective prompts by offering pre-set styles and tags, streamlining the art creation process.",
+        "Magic Fusion feature combines multiple images and styles to produce novel, personalized digital masterpieces.",
+        "Free daily credits provide up to 25 watermark-free artworks daily, making the platform accessible to all users.",
+        "Community sharing enables users to showcase their creations and gain inspiration from a global network of AI artists.",
+        "High-resolution outputs support extended runtimes for more detailed visuals, ideal for professional-grade projects.",
+        "Cross-platform compatibility ensures seamless art creation on iOS, Android, and web browsers, enhancing accessibility.",
+        "NFT creation tools allow users to generate and design unique digital assets for blockchain-based marketplaces.",
+        "Avatar AI offers personalized avatar creation, catering to users seeking custom digital identities.",
+        "Enhance feature improves the quality and detail of uploaded images, transforming ordinary photos into stunning visuals."
+    ],
+    "faqs": [
+        {
+            "question": "What is StarryAI?",
+            "answer": "StarryAI is an AI art generator that turns text prompts into high-quality digital artworks, accessible to both beginners and professionals."
+        },
+        {
+            "question": "Is StarryAI free to use?",
+            "answer": "Yes, StarryAI offers a free plan with up to 25 daily watermark-free artworks, though premium features require a Pro subscription."
+        },
+        {
+            "question": "Can I use StarryAI art for commercial purposes?",
+            "answer": "Yes, users retain full ownership of their AI-generated art and can use it for commercial purposes, provided it complies with StarryAI’s content policy."
+        },
+        {
+            "question": "How do I create art on StarryAI?",
+            "answer": "Enter a text prompt, select a style, and customize settings; the AI generates your artwork in minutes."
+        },
+        {
+            "question": "What styles are available on StarryAI?",
+            "answer": "StarryAI offers a wide range of styles, including cyberpunk, portraits, illustrations, and custom themes, with new options regularly added."
+        },
+        {
+            "question": "Can I customize the size of my artwork?",
+            "answer": "Yes, StarryAI allows users to choose from various canvas sizes like square, landscape, and portrait to suit different needs."
+        },
+        {
+            "question": "Does StarryAI support NFT creation?",
+            "answer": "Yes, StarryAI provides tools to create unique NFT art, enabling users to design assets for blockchain marketplaces."
+        },
+        {
+            "question": "How can I improve my art results?",
+            "answer": "Use detailed prompts with specific styles and join the StarryAI Discord community for prompt engineering tips and style guides."
+        },
+        {
+            "question": "Is StarryAI available on mobile devices?",
+            "answer": "Yes, StarryAI is available as a free app on iOS and Android, as well as an online platform."
+        },
+        {
+            "question": "What is the Magic Fusion feature?",
+            "answer": "Magic Fusion allows users to combine multiple images and styles to create unique, personalized artworks."
+        }
+    ]
+}

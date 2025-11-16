@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Sketch Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Sketch Generator category, where innovative tools transform your ideas into stunning visuals. These intuitive applications harness the power of artificial intelligence to create unique sketches, making it easier than ever for artists, designers, and hobbyists to bring their visions to life. Enjoy the benefits of rapid prototyping, enhanced creativity, and effortless customization. Whether you're brainstorming or refining concepts, our AI Sketch Generators are here to elevate your artistic process. Explore our curated selection of tools today and start sketching your imagination into reality!",
+    "tools": [
+        {
+            "id": "648",
+            "name": "Vizcom",
+            "slug": "vizcom-ai",
+            "description": "Vizcom is an AI-powered design tool that transforms sketches into photorealistic renderings for creative professionals.",
+            "icon": "/logo/www.vizcom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        },
+        {
+            "id": "682",
+            "name": "Logo Diffusion",
+            "slug": "logo-diffusion",
+            "description": "Logo Diffusion is an AI-powered platform for creating custom logos and brand assets quickly from text prompts or sketches.",
+            "icon": "/logo/logodiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        },
+        {
+            "id": "746",
+            "name": "ColorifyAI",
+            "slug": "colorifyai",
+            "description": "ColorifyAI is an AI-powered platform that generates custom coloring pages from text prompts or images, fostering creativity for kids and adults.",
+            "icon": "/logo/colorifyai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "MyArchitectAI",
+            "slug": "myarchitectai",
+            "description": "MyArchitectAI is an AI-driven platform that transforms sketches, ideas, and descriptions into photorealistic architectural renders and designs quickly and efficiently.",
+            "icon": "/logo/www.myarchitectai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        },
+        {
+            "id": "1097",
+            "name": "Komiko",
+            "slug": "komiko",
+            "description": "Komiko is an AI-powered platform for creating comics, manga, anime art, and animations, helping users design characters, generate images, and produce professional-grade content efficiently.",
+            "icon": "/logo/komiko.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        },
+        {
+            "id": "1209",
+            "name": "Luw.ai",
+            "slug": "luw-ai",
+            "description": "Luw.ai is an AI-powered platform that revolutionizes home design by providing tools for instant interior and exterior visualizations and transformations.",
+            "icon": "/logo/luw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sketch-generator"
+            ]
+        }
+    ]
+}

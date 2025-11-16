@@ -1,0 +1,63 @@
+{
+    "name": "Coddy",
+    "description": "Coddy is an AI-enhanced platform offering interactive, hands-on coding courses for learners of all ages and skill levels.",
+    "longDescription": "Coddy is an innovative online learning platform designed to teach coding through a practice-driven, gamified approach, making it accessible and engaging for beginners and experienced coders alike. Founded by ex-Meta and ex-Intel engineers, it aims to transform coding into a daily hobby by providing bite-sized lessons and real-world projects. The platform leverages AI to offer personalized learning paths, instant feedback, and tailored course recommendations based on user skill levels. Coddy supports a variety of programming languages, including Python, JavaScript, and C++, catering to diverse learning goals like app development and data science. Its community-driven forums and daily challenges foster collaboration and motivation, ensuring learners stay engaged. By eliminating complex setups, Coddy allows users to code anytime, anywhere, making it ideal for both self-paced learning and structured education.",
+    "url": "https://coddy.tech/?utm_source=ainavdir",
+    "screenshot": "/screenshot/coddy.tech.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "coddy",
+    "categories": [
+        "AI Language Learning",
+        "AI Course",
+        "AI Quiz Generator",
+        "AI Code Assistant",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Bite-sized lessons deliver concise, engaging content that fits into busy schedules, enabling daily progress in coding skills.",
+        "Daily coding challenges provide practical, hands-on tasks to reinforce learning and build problem-solving abilities.",
+        "AI-powered assistance offers real-time feedback and hints, helping users overcome coding obstacles efficiently.",
+        "Gamified learning tracks progress with points, streaks, and leaderboards, making coding fun and motivating.",
+        "Personalized learning paths adapt to individual skill levels, ensuring tailored course recommendations for optimal growth.",
+        "An integrated compiler allows users to practice coding directly on the platform without needing external tools.",
+        "Community forums enable collaboration, knowledge sharing, and peer support among learners worldwide.",
+        "Courses cover multiple languages like Python, JavaScript, and C++, catering to diverse programming interests.",
+        "Real-world projects simulate practical coding scenarios, preparing users for professional development tasks.",
+        "Mobile-responsive design ensures seamless access to lessons and challenges on any device."
+    ],
+    "faqs": [
+        {
+            "question": "Is Coddy free to use?",
+            "answer": "Coddy offers a free plan with daily limitations, but users can upgrade to a PRO subscription for unlimited access to all features."
+        },
+        {
+            "question": "What programming languages can I learn on Coddy?",
+            "answer": "Coddy provides courses in various languages, including Python, JavaScript, C++, and more, suitable for different skill levels."
+        },
+        {
+            "question": "Do I need prior coding experience to start with Coddy?",
+            "answer": "No, Coddy caters to beginners with no coding knowledge, offering introductory courses and guided learning paths."
+        },
+        {
+            "question": "How does Coddy’s AI assistance work?",
+            "answer": "Coddy’s AI provides real-time feedback, hints, and personalized course suggestions based on your progress and skill level."
+        },
+        {
+            "question": "Can I access Coddy on my mobile device?",
+            "answer": "Yes, Coddy’s platform is fully responsive and accessible on mobile phones and tablets, though a desktop is recommended for the best experience."
+        },
+        {
+            "question": "What makes Coddy different from other coding platforms?",
+            "answer": "Coddy stands out with its gamified, practice-driven approach, AI-powered personalization, and focus on real-world projects, making learning engaging and effective."
+        },
+        {
+            "question": "How long does it take to complete a course on Coddy?",
+            "answer": "Course duration varies, but most take a few hours to complete, with flexible pacing to suit individual schedules."
+        },
+        {
+            "question": "Does Coddy offer certificates upon course completion?",
+            "answer": "Yes, Coddy provides verified certificates for users who successfully complete course exams, enhancing their credentials."
+        }
+    ]
+}

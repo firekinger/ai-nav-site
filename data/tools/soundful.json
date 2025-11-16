@@ -1,0 +1,71 @@
+{
+    "name": "Soundful",
+    "description": "Soundful is an AI-powered music creation platform that generates royalty-free, studio-quality tracks for creators and businesses.",
+    "longDescription": "Soundful is an AI-driven music generation platform designed to empower content creators, musicians, and businesses by producing unique, royalty-free music tracks at the click of a button. Launched in 2021, it uses advanced algorithms to create customizable, studio-quality compositions tailored to various genres and moods, eliminating the need for extensive musical expertise. The platform serves a wide range of users, from social media creators needing background music to enterprises seeking affordable, high-quality audio for commercial projects. Soundful emphasizes ethical AI practices, ensuring tracks are free from copyright issues by using proprietary, in-house trained algorithms. Its mission is to democratize music creation, making it accessible and cost-effective while supporting monetization opportunities for artists. The platform also integrates with tools like SoundCloud for seamless distribution and collaboration.",
+    "url": "https://soundful.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/soundful.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "soundful",
+    "categories": [
+        "AI Music Generator",
+        "AI Writing",
+        "AI Audio Editing",
+        "AI Commercial Generator"
+    ],
+    "features": [
+        "AI-driven music generation creates unique, royalty-free tracks tailored to user-selected genres, moods, and styles in seconds.",
+        "Customizable templates allow users to adjust BPM, key, and other parameters to match specific project needs.",
+        "High-quality audio downloads are available in MP3 and WAV formats, ensuring professional sound for various applications.",
+        "STEM packs provide individual track components (e.g., drums, melodies) for advanced editing and production in Pro and Business plans.",
+        "SoundCloud distribution enables Pro and Business plan users to publish tracks directly for monetization or sharing.",
+        "Royalty-free licensing ensures safe use across platforms like YouTube, Twitch, and Instagram without copyright concerns.",
+        "Real-time collaboration features allow multiple creators to work together seamlessly on music projects.",
+        "Mobile compatibility supports music creation and editing on-the-go via web or mobile devices.",
+        "Extensive music library offers diverse genres like EDM, Hip Hop, and Chill Beats for various project types.",
+        "Interactive tutorials guide users of all skill levels through the music creation process, enhancing usability.",
+        "Regular updates introduce new features and improvements to keep the platform innovative and user-friendly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Soundful used for?",
+            "answer": "Soundful is an AI music generator that creates royalty-free tracks for content creators, musicians, and businesses to use in videos, podcasts, streams, or commercial projects."
+        },
+        {
+            "question": "Is Soundful’s music truly royalty-free?",
+            "answer": "Yes, Soundful’s tracks are royalty-free and safe for use on platforms like YouTube and Twitch, though some users have reported occasional copyright issues, so verifying licensing terms is advised."
+        },
+        {
+            "question": "Can I try Soundful for free?",
+            "answer": "Soundful offers a free Standard plan with limited features, allowing users to generate and test tracks before upgrading to paid plans."
+        },
+        {
+            "question": "What types of music can Soundful generate?",
+            "answer": "Soundful supports a variety of genres, including EDM, Hip Hop, Chill Beats, and Meditation sounds, with customizable templates for specific project needs."
+        },
+        {
+            "question": "Can I monetize music created with Soundful?",
+            "answer": "Yes, paid plans include licenses that allow users to monetize tracks on platforms like SoundCloud or use them in commercial projects."
+        },
+        {
+            "question": "Are STEM packs available on all plans?",
+            "answer": "STEM packs, which include individual track components, are only available in Pro and Business plans, not in the free or Standard plans."
+        },
+        {
+            "question": "Does Soundful require musical expertise?",
+            "answer": "No, Soundful’s user-friendly interface and AI-driven tools make it accessible to beginners and professionals alike, requiring no prior music production knowledge."
+        },
+        {
+            "question": "Can I collaborate with others on Soundful?",
+            "answer": "Yes, Soundful supports real-time collaboration, allowing multiple creators to work together on music projects seamlessly."
+        },
+        {
+            "question": "Is Soundful available on mobile devices?",
+            "answer": "Yes, Soundful is compatible with mobile devices, enabling users to create and edit music on-the-go."
+        },
+        {
+            "question": "What are the limitations of the free plan?",
+            "answer": "The free plan offers limited track generation and no access to STEM packs or advanced features like SoundCloud distribution, which are available in paid plans."
+        }
+    ]
+}

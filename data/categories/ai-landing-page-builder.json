@@ -1,0 +1,83 @@
+{
+    "title": "The Best 7 AI Landing Page Builder Tools in 2025",
+    "summary": "Unlock the potential of your online presence with our AI Landing Page Builder category. These innovative tools empower you to create stunning, high-converting landing pages effortlessly, saving you time and enhancing your marketing efforts. With features like customizable templates, A/B testing, and analytics, you can optimize your campaigns and drive engagement like never before. Whether you're a small business owner or a digital marketer, our curated selection of AI landing page builders is designed to meet your needs. Explore the tools now and elevate your online strategy!",
+    "tools": [
+        {
+            "id": "546",
+            "name": "Unbounce",
+            "slug": "unbounce",
+            "description": "Unbounce is a no-code platform for building, testing, and optimizing high-converting landing pages to boost leads and sales.",
+            "icon": "/logo/unbounce.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "596",
+            "name": "Robly",
+            "slug": "robly",
+            "description": "Robly is an email marketing platform designed to boost engagement and open rates for small businesses using automation and AI-driven tools.",
+            "icon": "/logo/robly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "624",
+            "name": "Landbot",
+            "slug": "landbot",
+            "description": "Landbot is a no-code AI chatbot platform that enables businesses to create conversational experiences for customer engagement and automation.",
+            "icon": "/logo/landbot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "723",
+            "name": "Frederick AI",
+            "slug": "frederick-ai",
+            "description": "Frederick AI is an AI-powered platform designed to help entrepreneurs validate, plan, and launch startups efficiently.",
+            "icon": "/logo/www.frederick.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "997",
+            "name": "PageOn.ai",
+            "slug": "pageon-ai",
+            "description": "PageOn.ai is an AI-powered platform that enables users to generate professional landing pages instantly without any coding expertise.",
+            "icon": "/logo/www.pageon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "1216",
+            "name": "PagePilot.ai",
+            "slug": "pagepilot-ai",
+            "description": "PagePilot.ai is an AI-powered platform that enables users to quickly generate professional, high-converting landing pages for businesses, products, or marketing campaigns.",
+            "icon": "/logo/pagepilot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        },
+        {
+            "id": "1442",
+            "name": "GetResponse",
+            "slug": "getresponse",
+            "description": "GetResponse is an all-in-one AI-powered email marketing and automation platform that enables businesses to create engaging campaigns, build landing pages, and drive conversions across multiple channels.",
+            "icon": "/logo/www.getresponse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-landing-page-builder"
+            ]
+        }
+    ]
+}

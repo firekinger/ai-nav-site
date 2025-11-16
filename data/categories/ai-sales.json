@@ -1,0 +1,182 @@
+{
+    "title": "The Best 16 AI Sales Tools in 2025",
+    "summary": "Unlock the potential of your sales strategy with our curated selection of AI Sales tools. Designed to enhance lead generation, streamline customer interactions, and boost conversion rates, these innovative solutions empower sales teams to work smarter, not harder. Discover how AI can analyze data, predict trends, and personalize outreach, ultimately driving revenue growth. Whether you're a small business or a large enterprise, our tools cater to your unique needs. Explore our AI Sales category today and transform your sales approach for a competitive edge!",
+    "tools": [
+        {
+            "id": "257",
+            "name": "Gong",
+            "slug": "gong",
+            "description": "Gong is a revenue intelligence platform that uses AI to analyze sales interactions and drive better business outcomes.",
+            "icon": "/logo/www.gong.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "310",
+            "name": "Seismic",
+            "slug": "seismic",
+            "description": "Seismic provides an AI-powered sales enablement platform to enhance customer engagement and drive revenue growth for go-to-market teams.",
+            "icon": "/logo/www.seismic.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "335",
+            "name": "Vidyard",
+            "slug": "vidyard",
+            "description": "Vidyard is an online video platform that empowers businesses to create, host, and analyze videos to enhance sales, marketing, and customer engagement.",
+            "icon": "/logo/www.vidyard.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "Copy.ai",
+            "slug": "copy-ai",
+            "description": "Copy.ai is an AI-powered platform designed to streamline content creation and enhance go-to-market strategies for businesses.",
+            "icon": "/logo/www.copy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "472",
+            "name": "PPSPY",
+            "slug": "ppspy",
+            "description": "PPSPY is an AI-powered Shopify spy tool for dropshipping and sales tracking, helping merchants analyze competitors and discover winning products.",
+            "icon": "/logo/www.ppspy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "735",
+            "name": "WinningHunter",
+            "slug": "winninghunter",
+            "description": "WinningHunter is an all-in-one e-commerce spy tool designed to help dropshippers find winning products and ads using advanced competitor tracking and AI-powered search.",
+            "icon": "/logo/winninghunter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "773",
+            "name": "Reply.io",
+            "slug": "reply-io",
+            "description": "Reply.io is an AI-powered sales engagement platform that automates multichannel outreach to streamline lead generation and meeting booking.",
+            "icon": "/logo/reply.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "830",
+            "name": "AI for Work",
+            "slug": "ai-for-work",
+            "description": "AI for Work provides a comprehensive library of over 2,000 job-specific ChatGPT prompts to enhance professional productivity across various industries.",
+            "icon": "/logo/www.aiforwork.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1020",
+            "name": "Salesmate",
+            "slug": "salesmate",
+            "description": "Salesmate is a cloud-based CRM platform that empowers sales teams with tools for managing leads, deals, and customer relationships to drive business growth.",
+            "icon": "/logo/www.salesmate.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1041",
+            "name": "Orum",
+            "slug": "orum",
+            "description": "Orum is a fintech platform that provides instant money movement infrastructure, enabling businesses to send and receive payments quickly and reliably using AI-optimized payment rails.",
+            "icon": "/logo/www.orum.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1072",
+            "name": "Trellus",
+            "slug": "trellus-ai",
+            "description": "Trellus is an AI-powered platform that provides real-time coaching to sales teams during cold calls to enhance performance and increase conversion rates.",
+            "icon": "/logo/www.trellus.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1141",
+            "name": "SalesRobot",
+            "slug": "salesrobot",
+            "description": "SalesRobot is an AI-driven sales engagement tool that automates cold outreach on LinkedIn and email to help users generate B2B leads.",
+            "icon": "/logo/www.salesrobot.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1153",
+            "name": "WiziShop",
+            "slug": "wizishop",
+            "description": "WiziShop is an AI-powered e-commerce platform that enables users to create, manage, and optimize online stores with automated tools and features.",
+            "icon": "/logo/wizishop.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1217",
+            "name": "Salesforge",
+            "slug": "salesforge-ai",
+            "description": "Salesforge.ai is an AI-powered sales engagement platform that automates personalized cold email outreach to boost sales efficiency and conversion rates.",
+            "icon": "/logo/www.salesforge.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1291",
+            "name": "VoxDeck",
+            "slug": "voxdeck-ai",
+            "description": "VoxDeck is an AI-powered conversation intelligence platform that analyzes sales calls and meetings to deliver actionable insights and enhance team performance.",
+            "icon": "/logo/www.voxdeck.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sales"
+            ]
+        },
+        {
+            "id": "1426",
+            "name": "SalesRender",
+            "slug": "salesrender",
+            "description": "SalesRender is an AI-powered CRM platform designed to automate sales processes, manage customer relationships, and boost revenue through intelligent tools.",
+            "icon": "/logo/salesrender.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sales"
+            ]
+        }
+    ]
+}

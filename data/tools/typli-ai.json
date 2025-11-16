@@ -1,0 +1,81 @@
+{
+    "name": "Typli.ai",
+    "description": "Typli.ai is an AI-powered writing assistant that streamlines content creation and SEO optimization for writers, marketers, and businesses.",
+    "longDescription": "Typli.ai is an innovative AI-driven platform designed to simplify and enhance content creation for writers, marketers, and businesses by generating high-quality, original text and optimizing it for SEO. Its mission is to empower users to produce engaging content effortlessly, saving time and overcoming creative blocks. The platform supports a wide range of content types, including blog posts, emails, social media updates, and professional letters, catering to both novice and experienced users. By leveraging advanced AI algorithms, Typli.ai ensures contextually relevant and coherent outputs tailored to user needs. It also integrates tools like plagiarism checkers and SEO analyzers to improve content quality and visibility. The user-friendly interface and versatile features make it a go-to solution for automating and refining content creation processes.",
+    "url": "https://typli.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/typli.ai.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "typli-ai",
+    "categories": [
+        "AI Writing",
+        "AI SEO Tools",
+        "AI Plagiarism Checker",
+        "AI Email Marketing",
+        "AI Letter Writer",
+        "Headlines AI",
+        "AI Image Generator",
+        "AI Language Learning",
+        "AI Blog Generator",
+        "AI Social Media Post Generator",
+        "AI Essay Writer"
+    ],
+    "features": [
+        "AI Text Generator creates engaging, original content like blog posts and marketing copy instantly based on user inputs.",
+        "SEO Optimization Tools suggest keywords and enhance content to improve search engine rankings and visibility.",
+        "Plagiarism Checker ensures content originality by detecting similarities with existing online materials.",
+        "AI Email Generator crafts personalized, engaging emails to streamline marketing campaigns and boost audience engagement.",
+        "AI Letter Generator produces professional or informal letters quickly for business or personal correspondence.",
+        "AI Headline Generator creates eye-catching headlines to attract readers for articles, blogs, and campaigns.",
+        "AI Editor corrects punctuation and minor errors while preserving the original text’s meaning and style.",
+        "AI Paragraph Generator crafts coherent, human-like paragraphs to enhance the flow of content.",
+        "AI Word Expander adds depth and creativity to text for a more sophisticated writing style.",
+        "AI Debate Generator creates structured, persuasive arguments for debate teams or educators.",
+        "AI Summarizer condenses content into concise summaries for presentations or quick insights.",
+        "AI Image Generator produces photorealistic images to enhance social media posts or creative projects.",
+        "Multi-Language Support enables content creation in various languages for global audiences.",
+        "WordPress Plugin and Chrome Extension allow seamless integration for direct blog posting and enhanced usability."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Typli.ai generate?",
+            "answer": "Typli.ai can generate blog posts, social media updates, emails, professional letters, essays, and marketing copy tailored to user needs."
+        },
+        {
+            "question": "Does Typli.ai offer a free plan?",
+            "answer": "Yes, Typli.ai provides free access to core features like the AI Text Generator and AI Editor, with limitations on usage."
+        },
+        {
+            "question": "How does Typli.ai ensure content originality?",
+            "answer": "Typli.ai includes a plagiarism checker that compares content against online sources to ensure uniqueness."
+        },
+        {
+            "question": "Can Typli.ai help with SEO optimization?",
+            "answer": "Yes, Typli.ai offers SEO tools that suggest keywords and optimize content to improve search engine rankings."
+        },
+        {
+            "question": "Is Typli.ai suitable for non-writers?",
+            "answer": "Absolutely, its user-friendly interface and AI-driven suggestions make it accessible for beginners and professionals alike."
+        },
+        {
+            "question": "Does Typli.ai support multiple languages?",
+            "answer": "Yes, Typli.ai supports content creation in various languages, ideal for global audiences."
+        },
+        {
+            "question": "Can I integrate Typli.ai with other platforms?",
+            "answer": "Typli.ai offers a WordPress plugin and Chrome extension for seamless integration with blogging and browsing workflows."
+        },
+        {
+            "question": "How does the AI Image Generator work?",
+            "answer": "The AI Image Generator creates photorealistic images based on user prompts to enhance social media or creative projects."
+        },
+        {
+            "question": "Is there a trial period for Typli.ai?",
+            "answer": "Yes, Typli.ai offers a 7-day trial, though it may require card information to access."
+        },
+        {
+            "question": "Can Typli.ai generate academic content?",
+            "answer": "Yes, Typli.ai supports academic writing, including essays and debate arguments, with tools like the AI Essay Rewriter."
+        }
+    ]
+}

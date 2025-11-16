@@ -1,0 +1,66 @@
+{
+    "name": "PhotoGrid",
+    "description": "PhotoGrid is an online platform for creating photo collages, videos, and graphic designs with user-friendly tools.",
+    "longDescription": "PhotoGrid is a versatile web-based application designed to empower users to create stunning photo collages, videos, and graphic designs with ease. Its mission is to provide accessible, intuitive tools for both casual users and professionals to express creativity without requiring advanced design skills. The platform offers a range of templates, editing features, and customization options to help users craft personalized content for social media, personal projects, or marketing purposes. By leveraging AI-driven enhancements, PhotoGrid simplifies complex editing tasks, making it a go-to solution for quick and professional-grade visual content creation. It caters to a global audience, supporting multiple languages and offering seamless integration with social media platforms.",
+    "url": "https://www.photogrid.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.photogrid.app.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "photogrid",
+    "categories": [
+        "AI Photo Editor",
+        "AI Design Generator",
+        "AI Video Editor",
+        "AI Background Remover",
+        "AI Social Media Post Generator",
+        "AI Image Enhancer"
+    ],
+    "features": [
+        "Collage Maker allows users to combine multiple photos into customizable layouts for stunning visual stories.",
+        "Video Editor enables easy creation of engaging videos with templates, transitions, and music options.",
+        "AI Background Removal automatically erases photo backgrounds for professional-grade edits in seconds.",
+        "Template Library provides thousands of pre-designed layouts for collages, posters, and social media posts.",
+        "Text and Sticker Tools offer a variety of fonts and graphics to enhance designs with personalized elements.",
+        "Social Media Integration allows users to directly share creations to platforms like Instagram and Facebook.",
+        "Photo Filters and Effects provide one-tap enhancements to adjust brightness, contrast, and color tones.",
+        "Multi-Platform Support ensures seamless access on web and mobile devices for on-the-go editing.",
+        "Customizable Frames and Borders let users add unique touches to their collages and images.",
+        "Batch Editing enables simultaneous adjustments to multiple photos for efficient workflow.",
+        "AI-Powered Suggestions recommend layouts and effects based on image content for faster editing.",
+        "Export Options support high-resolution downloads in various formats like PNG, JPG, and MP4."
+    ],
+    "faqs": [
+        {
+            "question": "What is PhotoGrid used for?",
+            "answer": "PhotoGrid is used to create photo collages, videos, and graphic designs for personal, social media, or marketing purposes with easy-to-use tools."
+        },
+        {
+            "question": "Is PhotoGrid free to use?",
+            "answer": "PhotoGrid offers a free plan with access to core features, though some advanced tools and templates require a premium subscription."
+        },
+        {
+            "question": "Can I use PhotoGrid on my phone?",
+            "answer": "Yes, PhotoGrid is available on both web and mobile platforms, with apps for iOS and Android for convenient editing."
+        },
+        {
+            "question": "Does PhotoGrid support video editing?",
+            "answer": "Yes, PhotoGrid’s Video Editor allows users to create videos with templates, transitions, music, and effects for professional results."
+        },
+        {
+            "question": "How does the AI Background Removal feature work?",
+            "answer": "The AI Background Removal tool automatically detects and removes the background of an image, allowing users to replace or edit it easily."
+        },
+        {
+            "question": "Can I share my creations directly to social media?",
+            "answer": "Yes, PhotoGrid supports direct sharing to platforms like Instagram, Facebook, and others for seamless posting."
+        },
+        {
+            "question": "Are there templates for specific occasions?",
+            "answer": "PhotoGrid offers a vast library of templates for events like birthdays, weddings, and holidays, customizable to user needs."
+        },
+        {
+            "question": "Do I need design experience to use PhotoGrid?",
+            "answer": "No, PhotoGrid’s intuitive interface and AI-driven tools make it easy for beginners to create professional designs."
+        }
+    ]
+}

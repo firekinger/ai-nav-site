@@ -1,0 +1,116 @@
+{
+    "title": "The Best 10 AI Video Search Tools in 2025",
+    "summary": "Discover the power of AI Video Search tools, designed to revolutionize how you find and interact with video content. These innovative solutions leverage advanced algorithms to deliver precise search results, saving you time and enhancing your viewing experience. Whether you're a content creator, researcher, or casual viewer, these tools simplify the process of locating relevant videos, making your search more efficient and effective. Explore our curated selection of AI Video Search tools today and unlock a world of streamlined video discovery!",
+    "tools": [
+        {
+            "id": "1283",
+            "name": "Vidfly.ai",
+            "slug": "vidfly-ai",
+            "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+            "icon": "/logo/vidfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "473",
+            "name": "Pinecone",
+            "slug": "pinecone",
+            "description": "Pinecone is a vector database designed to power AI applications with fast and scalable similarity search.",
+            "icon": "/logo/www.pinecone.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "877",
+            "name": "Vidful.ai",
+            "slug": "vidful-ai",
+            "description": "Vidful.ai is an AI-powered platform that allows users to generate, edit, and enhance videos using advanced artificial intelligence tools.",
+            "icon": "/logo/vidful.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1014",
+            "name": "Claap",
+            "slug": "claap",
+            "description": "Claap is an AI-powered asynchronous video platform that helps teams replace meetings with quick screen recordings, intelligent summaries, and collaborative tools for efficient communication.",
+            "icon": "/logo/www.claap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1030",
+            "name": "Muse.ai",
+            "slug": "muse-ai",
+            "description": "Muse.ai is an AI-powered video hosting platform that enables intelligent search, management, and sharing of video content.",
+            "icon": "/logo/muse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1164",
+            "name": "Powder",
+            "slug": "powder",
+            "description": "Powder is an AI-powered clipping tool that automatically generates highlight clips from gaming streams and videos for content creators.",
+            "icon": "/logo/powder.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1201",
+            "name": "YOU-TLDR",
+            "slug": "you-tldr",
+            "description": "YOU-TLDR is a free AI-powered web app that enables users to summarize, download, search, and interact with YouTube videos in any language.",
+            "icon": "/logo/www.you-tldr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1406",
+            "name": "Golpo AI Video",
+            "slug": "golpo-ai-video",
+            "description": "Golpo AI Video is an AI-driven platform that enables users to generate and edit videos using advanced artificial intelligence technology.",
+            "icon": "/logo/video.golpoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1329",
+            "name": "Veo",
+            "slug": "www-veo",
+            "description": "Veo is an AI-powered platform specializing in video generation and editing tools for creators and businesses.",
+            "icon": "/logo/www-veo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "Reeroll",
+            "slug": "reeroll",
+            "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+            "icon": "/logo/reeroll.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-video-search"
+            ]
+        }
+    ]
+}

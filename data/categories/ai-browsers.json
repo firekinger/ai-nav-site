@@ -1,0 +1,237 @@
+{
+    "title": "The Best 21 AI Browsers Tools in 2025",
+    "summary": "Discover the future of web browsing with our curated selection of AI Browsers. These innovative tools enhance your online experience by personalizing content, improving search efficiency, and providing intelligent recommendations tailored to your interests. Whether you're looking to streamline research, boost productivity, or simply enjoy a more intuitive browsing experience, AI Browsers are designed to meet your needs. Explore our collection today and unlock the potential of AI-driven technology to transform the way you navigate the web!",
+    "tools": [
+        {
+            "id": "424",
+            "name": "Kome",
+            "slug": "kome-ai",
+            "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+            "icon": "/logo/kome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "481",
+            "name": "HyperWrite",
+            "slug": "hyperwrite",
+            "description": "HyperWrite is an AI-powered writing assistant that enhances productivity and creativity for content creation and communication.",
+            "icon": "/logo/www.hyperwriteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "494",
+            "name": "Glarity",
+            "slug": "glarity",
+            "description": "Glarity is a free, open-source browser extension that uses AI to summarize and translate content from YouTube, Google, and other web platforms.",
+            "icon": "/logo/glarity.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "603",
+            "name": "Noiz",
+            "slug": "noiz",
+            "description": "Noiz is an AI-powered platform that generates concise summaries of YouTube videos and PDFs to enhance learning and productivity.",
+            "icon": "/logo/noiz.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "657",
+            "name": "Voilà",
+            "slug": "voila-ai",
+            "description": "Voilà is an AI-powered assistant that enhances productivity by offering tools for writing, brainstorming, and researching across various platforms.",
+            "icon": "/logo/www.getvoila.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "658",
+            "name": "Tweet Hunter",
+            "slug": "tweet-hunter",
+            "description": "Tweet Hunter is an AI-powered platform designed to help users grow and monetize their X (formerly Twitter) audience through content creation, scheduling, and analytics.",
+            "icon": "/logo/tweethunter.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "694",
+            "name": "CapMonster Cloud",
+            "slug": "capmonster-cloud",
+            "description": "CapMonster Cloud is an AI-powered service that automates CAPTCHA solving for web scraping, automation, and online tasks.",
+            "icon": "/logo/capmonster.cloud.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "740",
+            "name": "Scholarcy",
+            "slug": "scholarcy",
+            "description": "Scholarcy is an AI-powered tool that summarizes academic papers and creates interactive flashcards to enhance research and study efficiency.",
+            "icon": "/logo/www.scholarcy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "742",
+            "name": "StealthGPT",
+            "slug": "stealthgpt-ai",
+            "description": "StealthGPT is an AI-powered platform that generates undetectable, human-like text to bypass AI detection systems for various writing needs.",
+            "icon": "/logo/www.stealthgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "750",
+            "name": "Linnk AI",
+            "slug": "linnk-ai",
+            "description": "Linnk AI provides AI-powered tools for summarizing, translating, and analyzing documents to streamline research and workflow for professionals and academics.",
+            "icon": "/logo/www.linnk.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "793",
+            "name": "LogicBalls",
+            "slug": "logicballs",
+            "description": "LogicBalls is an AI-powered platform offering tools for content creation, marketing, and business productivity.",
+            "icon": "/logo/logicballs.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "810",
+            "name": "Axiom.ai",
+            "slug": "axiom-ai",
+            "description": "Axiom.ai is a no-code browser automation tool that enables users to create bots for automating repetitive web tasks and data scraping.",
+            "icon": "/logo/axiom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "879",
+            "name": "Summarize.ing",
+            "slug": "summarize-ing",
+            "description": "Summarize.ing is an AI-driven platform that provides quick and accurate summaries of articles, web pages, and other text content to help users save time on reading.",
+            "icon": "/logo/summarize.ing.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "894",
+            "name": "Reworkd AI",
+            "slug": "reworkd-ai",
+            "description": "Reworkd AI is a platform that enables users to create and deploy autonomous AI agents for automating complex tasks and workflows.",
+            "icon": "/logo/www.reworkd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "934",
+            "name": "Linguix",
+            "slug": "linguix",
+            "description": "Linguix is an AI-powered writing assistant that helps users improve grammar, style, and content quality in real-time across various platforms.",
+            "icon": "/logo/linguix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1101",
+            "name": "SigmaOS",
+            "slug": "sigmaos",
+            "description": "SigmaOS is a productivity-focused web browser designed to enhance workflow efficiency through intelligent tab management and AI-powered tools.",
+            "icon": "/logo/sigmaos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1127",
+            "name": "ChatGPT Writer",
+            "slug": "chatgpt-writer-ai",
+            "description": "ChatGPT Writer is a free browser extension that leverages AI to assist users in writing emails, messages, and other text directly on any website.",
+            "icon": "/logo/chatgptwriter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "SaveDay",
+            "slug": "saveday",
+            "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+            "icon": "/logo/www.save.day.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1425",
+            "name": "Browserfly",
+            "slug": "browserfly",
+            "description": "Browserfly is an AI agent that integrates into your browser to automate tasks, summarize content, and enhance web interactions.",
+            "icon": "/logo/browserfly.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1238",
+            "name": "Futurwise",
+            "slug": "futurwise",
+            "description": "Futurwise is a knowledge platform that delivers hyper-personalized, AI-generated summaries of articles, videos, podcasts, PDFs, and more, helping users cut through information overload with tailored insights in over 25 languages.",
+            "icon": "/logo/www.futurwise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        },
+        {
+            "id": "1358",
+            "name": "ClippyAI",
+            "slug": "clippyai",
+            "description": "ClippyAI revives the iconic Microsoft Office assistant as an AI-powered tool to help users with productivity tasks, writing, and more through conversational AI.",
+            "icon": "/logo/clippyai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-browsers"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Yodayo",
+    "description": "Yodayo is an AI-powered creative platform for anime fans to generate art, interact with AI characters, and engage in a vibrant community.",
+    "longDescription": "Yodayo is a creative platform designed for anime enthusiasts, leveraging AI to enable users to generate high-quality anime-style artwork and interact with customizable AI characters called V-Tubers. The platform fosters a community where users can share their creations, explore others' work, and participate in discussions. Its mission is to empower fans to express their creativity through AI-driven tools tailored to anime culture. Yodayo offers both free and premium features, making it accessible to a wide range of users. The platform also emphasizes user engagement through challenges, events, and social features, creating a dynamic space for anime lovers. It addresses the desire for personalized creative expression by combining AI technology with community-driven inspiration.",
+    "url": "https://yodayo.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/yodayo.com.webp",
+    "category": "AI Anime Art",
+    "categorySlug": "ai-anime-art",
+    "slug": "yodayo",
+    "categories": [
+        "AI Anime Art",
+        "AI Character",
+        "Text to Image",
+        "AI Social Media",
+        "AI Design Assistant",
+        "AI Clothing Generator"
+    ],
+    "features": [
+        "AI Art Generator creates high-quality anime-style images from text prompts, enabling users to produce custom artwork effortlessly.",
+        "V-Tuber AI Characters allow users to interact with customizable virtual anime characters for roleplay or storytelling.",
+        "Community Hub lets users share their art, join challenges, and connect with other anime fans globally.",
+        "Text-to-Image Customization offers tools to fine-tune AI-generated artwork with specific styles or details.",
+        "Free Plan provides access to basic AI art generation and community features with limited daily quotas.",
+        "Premium Subscription unlocks higher resolution images, faster generation, and exclusive content for enhanced creativity.",
+        "Mobile App enables users to create and share AI-generated art on iOS and Android devices.",
+        "Event Challenges encourage users to participate in themed art contests to showcase their creativity.",
+        "Character Customization lets users design unique AI V-Tubers with distinct personalities and appearances.",
+        "Social Features allow users to follow creators, comment on artwork, and build a fanbase within the platform.",
+        "Safe Content Filters ensure a user-friendly environment by moderating inappropriate content in shared spaces."
+    ],
+    "faqs": [
+        {
+            "question": "What is Yodayo used for?",
+            "answer": "Yodayo is a platform for anime fans to create AI-generated artwork, interact with virtual AI characters, and engage in a creative community."
+        },
+        {
+            "question": "Is Yodayo free to use?",
+            "answer": "Yes, Yodayo offers a free plan with access to basic AI art generation and community features, though premium plans provide additional benefits."
+        },
+        {
+            "question": "Can I customize the AI-generated art?",
+            "answer": "Yes, Yodayo allows users to fine-tune their AI-generated artwork by adjusting styles, prompts, and other parameters."
+        },
+        {
+            "question": "What are V-Tubers on Yodayo?",
+            "answer": "V-Tubers are AI-powered virtual anime characters that users can interact with, customize, and use for roleplay or storytelling."
+        },
+        {
+            "question": "Does Yodayo have a mobile app?",
+            "answer": "Yes, Yodayo offers a mobile app for iOS and Android, allowing users to create and share content on the go."
+        },
+        {
+            "question": "How does the community feature work?",
+            "answer": "The community hub lets users share their AI-generated art, participate in challenges, follow creators, and engage in discussions."
+        },
+        {
+            "question": "Are there content restrictions on Yodayo?",
+            "answer": "Yodayo uses content filters to ensure a safe and appropriate environment, moderating shared content to align with community guidelines."
+        }
+    ]
+}

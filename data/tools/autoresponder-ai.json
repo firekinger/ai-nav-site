@@ -1,0 +1,57 @@
+{
+    "name": "AutoResponder.ai",
+    "description": "AutoResponder.ai provides AI-powered automatic replies for popular messaging platforms to streamline communication.",
+    "longDescription": "AutoResponder.ai is an AI-driven tool designed to automate messaging across platforms like WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber. Its mission is to reduce workload and enhance efficiency for individuals and businesses by enabling customizable, automated chat responses. The platform allows users to create tailored reply rules, integrate with advanced AI models like ChatGPT or Gemini, and connect with web servers or Tasker for custom actions. With over 5 million downloads, it caters to small business owners, social media managers, and customer support teams, solving the problem of managing high message volumes. It offers a user-friendly interface to set up personalized replies, making it ideal for scenarios like customer inquiries, out-of-office messages, or social media engagement. The tool’s flexibility and integration capabilities make it a powerful solution for communication automation.",
+    "url": "https://www.autoresponder.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/autoresponder.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "autoresponder-ai",
+    "categories": [
+        "AI Chatbot",
+        "AI Social Media",
+        "AI Character",
+        "AI Customer Service",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Sends automatic replies to messages on platforms like WhatsApp, Instagram, and Telegram, ensuring timely responses.",
+        "Allows creation of unlimited custom rules to trigger specific replies based on keywords or conditions, enhancing personalization.",
+        "Integrates with AI models like ChatGPT or Gemini for natural, context-aware responses, improving conversation quality.",
+        "Supports web server integration to process messages, offering advanced customization for tech-savvy users.",
+        "Enables Tasker integration for triggering custom actions, adding versatility to automation workflows.",
+        "Provides a free tier with essential features, making it accessible for small businesses or individual users.",
+        "Offers out-of-office reply functionality, ideal for managing communications during vacations or busy periods.",
+        "Supports multiple messaging platforms from a single interface, streamlining communication management."
+    ],
+    "faqs": [
+        {
+            "question": "What is AutoResponder.ai used for?",
+            "answer": "AutoResponder.ai automates replies on messaging apps like WhatsApp, Instagram, and Telegram, helping users manage communications efficiently."
+        },
+        {
+            "question": "Does AutoResponder.ai offer a free plan?",
+            "answer": "Yes, it provides a free tier with essential features, though some advanced functionalities require a PRO subscription."
+        },
+        {
+            "question": "Which messaging platforms does AutoResponder.ai support?",
+            "answer": "It supports WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, Viber, and more, with a unified interface."
+        },
+        {
+            "question": "Can I customize replies with AutoResponder.ai?",
+            "answer": "Yes, users can create unlimited custom rules based on keywords or conditions to tailor replies to specific needs."
+        },
+        {
+            "question": "Does it integrate with other AI tools?",
+            "answer": "AutoResponder.ai integrates with ChatGPT, Gemini, and Dialogflow AI for generating intelligent, context-aware responses."
+        },
+        {
+            "question": "Is AutoResponder.ai suitable for businesses?",
+            "answer": "Yes, it’s ideal for small businesses, social media managers, and customer support teams to handle high message volumes."
+        },
+        {
+            "question": "How do I set up out-of-office replies?",
+            "answer": "Users can configure a single out-of-office reply or multiple custom rules directly on their phone for free."
+        }
+    ]
+}

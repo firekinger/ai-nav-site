@@ -1,0 +1,743 @@
+{
+    "title": "The Best 67 AI Data Mining Tools in 2025",
+    "summary": "Unlock the power of your data with our AI Data Mining tools, designed to extract valuable insights and patterns from vast datasets. These innovative solutions streamline data analysis, enhance decision-making, and drive business growth by transforming raw information into actionable intelligence. Whether you're a data scientist, business analyst, or entrepreneur, our curated selection of AI tools will help you uncover hidden trends and optimize your strategies. Dive into the world of AI Data Mining today and discover how these tools can elevate your data-driven initiatives. Explore our collection now!",
+    "tools": [
+        {
+            "id": "1",
+            "name": "ChatGPT",
+            "slug": "chatgpt",
+            "description": "ChatGPT is an AI-powered chatbot platform designed to provide human-like conversational responses and assist with various tasks.",
+            "icon": "/logo/chatgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Kimi",
+            "slug": "kimi",
+            "description": "Kimi is an AI-powered assistant designed to enhance productivity through advanced text analysis, multimodal processing, and real-time information retrieval.",
+            "icon": "/logo/kimi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Poe",
+            "slug": "poe",
+            "description": "Poe is a platform for interacting with multiple AI models and creating custom chatbots.",
+            "icon": "/logo/poe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Notion",
+            "slug": "notion",
+            "description": "Notion is an all-in-one workspace for note-taking, project management, and team collaboration with AI-powered tools.",
+            "icon": "/logo/notion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "135",
+            "name": "123RF",
+            "slug": "123rf",
+            "description": "123RF is a royalty-free stock photography platform offering millions of images, vectors, videos, and audio for creative projects.",
+            "icon": "/logo/www.123rf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "72",
+            "name": "Semantic Scholar",
+            "slug": "semantic-scholar",
+            "description": "Semantic Scholar is an AI-powered research tool for discovering and understanding scientific literature across various fields.",
+            "icon": "/logo/semanticscholar.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "226",
+            "name": "Felo AI",
+            "slug": "felo-ai",
+            "description": "Felo AI provides an AI-powered translation and research tool for seamless multilingual communication and information retrieval.",
+            "icon": "/logo/felo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "275",
+            "name": "Elicit",
+            "slug": "elicit",
+            "description": "Elicit is an AI-powered research tool designed to streamline literature reviews and data analysis for academic and professional researchers.",
+            "icon": "/logo/elicit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "425",
+            "name": "Chatbase",
+            "slug": "chatbase",
+            "description": "Chatbase is a platform for building and deploying AI-powered customer service chatbots trained on custom data.",
+            "icon": "/logo/www.chatbase.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "440",
+            "name": "PhantomBuster",
+            "slug": "phantombuster",
+            "description": "PhantomBuster is a cloud-based automation platform for data extraction and lead generation across social media and web platforms.",
+            "icon": "/logo/phantombuster.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "482",
+            "name": "Accio",
+            "slug": "accio",
+            "description": "Accio is an AI-powered B2B sourcing engine that streamlines product procurement and provides business insights.",
+            "icon": "/logo/www.accio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "580",
+            "name": "Jina AI",
+            "slug": "jina-ai",
+            "description": "Jina AI provides a multimodal AI search foundation with embeddings, rerankers, and small language models for advanced data processing.",
+            "icon": "/logo/jina.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "589",
+            "name": "ROAST",
+            "slug": "roast",
+            "description": "ROAST is an AI-powered service that optimizes online dating profiles to increase matches and improve dating outcomes.",
+            "icon": "/logo/roast.dating.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "604",
+            "name": "Story.com",
+            "slug": "story-com",
+            "description": "Story.com is an AI-powered platform for creating and consuming interactive stories and videos with consistent characters.",
+            "icon": "/logo/www.story.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "614",
+            "name": "Bardeen",
+            "slug": "bardeen-ai",
+            "description": "Bardeen is an AI-powered workflow automation platform that streamlines repetitive tasks for GTM teams by integrating with popular apps.",
+            "icon": "/logo/www.bardeen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "620",
+            "name": "Tavily",
+            "slug": "tavily",
+            "description": "Tavily is a real-time search engine optimized for AI agents and RAG workflows, providing fast and secure APIs for web search and content extraction.",
+            "icon": "/logo/www.tavily.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "647",
+            "name": "Detecting-AI",
+            "slug": "detecting-ai",
+            "description": "Detecting-AI offers a powerful tool to identify and flag AI-generated content from models like ChatGPT, ensuring content authenticity.",
+            "icon": "/logo/detecting-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "670",
+            "name": "Dovetail",
+            "slug": "dovetail",
+            "description": "Dovetail is a customer insights hub that transforms research data into actionable insights for teams and businesses.",
+            "icon": "/logo/dovetail.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "717",
+            "name": "PDF.ai",
+            "slug": "pdf-ai",
+            "description": "PDF.ai is an AI-powered platform that enables users to interact with PDF documents through chat, summarization, and analysis for enhanced productivity.",
+            "icon": "/logo/pdf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "799",
+            "name": "UI Bakery",
+            "slug": "ui-bakery",
+            "description": "UI Bakery is a low-code platform for building customizable internal tools and business apps with drag-and-drop functionality and API integrations.",
+            "icon": "/logo/uibakery.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "816",
+            "name": "Formula Bot",
+            "slug": "formula-bot",
+            "description": "Formula Bot is an AI-powered platform that simplifies data analysis and spreadsheet tasks by generating formulas, visualizations, and insights from natural language inputs.",
+            "icon": "/logo/www.formulabot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "Datarails",
+            "slug": "datarails",
+            "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+            "icon": "/logo/www.datarails.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "842",
+            "name": "PromptLayer",
+            "slug": "promptlayer",
+            "description": "PromptLayer is a platform designed to help developers track, manage, and optimize their interactions with large language models like GPT.",
+            "icon": "/logo/www.promptlayer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "856",
+            "name": "TXYZ.ai",
+            "slug": "txyz-ai",
+            "description": "TXYZ.ai is an innovative AI platform offering tools for text generation, summarization, and analysis to enhance productivity and research.",
+            "icon": "/logo/www.txyz.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "862",
+            "name": "Spikes Studio",
+            "slug": "spikes-studio",
+            "description": "Spikes Studio is an AI-powered platform that automates video clipping and editing to help content creators produce engaging short-form videos from longer content for social media.",
+            "icon": "/logo/spikes.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "863",
+            "name": "Sierra",
+            "slug": "sierra-ai",
+            "description": "Sierra is an AI platform that develops autonomous AI agents to revolutionize customer service and business operations through intelligent automation.",
+            "icon": "/logo/sierra.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "881",
+            "name": "Landing AI",
+            "slug": "landing-ai",
+            "description": "Landing AI is a platform that empowers businesses to build, train, and deploy custom computer vision models for visual inspection and automation tasks.",
+            "icon": "/logo/landing.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "892",
+            "name": "CustomGPT.ai",
+            "slug": "customgpt-ai",
+            "description": "CustomGPT.ai is a no-code platform for building custom AI chatbots powered by GPT technology, integrated with users' own data for personalized responses.",
+            "icon": "/logo/customgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "896",
+            "name": "Doctronic.ai",
+            "slug": "doctronic-ai",
+            "description": "Doctronic.ai is an AI-powered platform that automates document processing and analysis for businesses and professionals.",
+            "icon": "/logo/www.doctronic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "LiveChatAI",
+            "slug": "livechatai",
+            "description": "LiveChatAI is an AI-powered platform that enables businesses to create and deploy customized chatbots trained on their own content for efficient customer support and engagement.",
+            "icon": "/logo/livechatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "908",
+            "name": "Encord",
+            "slug": "encord",
+            "description": "Encord is a data-centric AI platform that enables teams to annotate, curate, and manage visual data for building high-performance computer vision models.",
+            "icon": "/logo/encord.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "916",
+            "name": "LockedIn AI",
+            "slug": "lockedin-ai",
+            "description": "LockedIn AI is an AI-driven platform that helps users optimize their LinkedIn profiles, generate personalized job application materials, and enhance professional networking.",
+            "icon": "/logo/www.lockedinai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "926",
+            "name": "Label Studio",
+            "slug": "label-studio",
+            "description": "Label Studio is an open-source data labeling platform designed to annotate various data types for training machine learning and AI models.",
+            "icon": "/logo/labelstud.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "951",
+            "name": "Albato",
+            "slug": "albato",
+            "description": "Albato is an AI-driven no-code integration platform that connects apps and automates workflows without coding.",
+            "icon": "/logo/albato.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "978",
+            "name": "Tradytics",
+            "slug": "tradytics",
+            "description": "Tradytics is an AI-driven platform providing data analytics, trade ideas, and tools for stock and options traders to make informed decisions.",
+            "icon": "/logo/tradytics.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "MyJotBot",
+            "slug": "myjotbot",
+            "description": "MyJotBot is an AI-powered personal assistant for jotting down notes, organizing ideas, and enhancing productivity through intelligent automation.",
+            "icon": "/logo/myjotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "998",
+            "name": "Pixellot",
+            "slug": "pixellot",
+            "description": "Pixellot is an AI-powered platform that automates sports video production and streaming for teams, leagues, and broadcasters.",
+            "icon": "/logo/www.pixellot.tv.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1026",
+            "name": "testRigor",
+            "slug": "testrigor",
+            "description": "testRigor is an AI-powered codeless test automation platform that enables users to create and execute end-to-end software tests using plain English.",
+            "icon": "/logo/testrigor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1031",
+            "name": "Inven",
+            "slug": "inven-ai",
+            "description": "Inven is an AI-powered platform that helps professionals discover and analyze private companies faster, offering tools for deal sourcing, investor search, and market research.",
+            "icon": "/logo/www.inven.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1095",
+            "name": "Trickle",
+            "slug": "trickle",
+            "description": "Trickle is an AI-powered knowledge management tool that helps users organize, summarize, and retrieve information from screenshots and notes effortlessly.",
+            "icon": "/logo/trickle.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1109",
+            "name": "Copyspace.ai",
+            "slug": "copyspace-ai",
+            "description": "Copyspace.ai is an AI-driven platform that helps users generate high-quality marketing copy, social media content, and creative writing effortlessly.",
+            "icon": "/logo/www.copyspace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1152",
+            "name": "PubCompare.ai",
+            "slug": "pubcompare-ai",
+            "description": "PubCompare.ai is an AI-powered platform that helps researchers discover, compare, and optimize experimental protocols and products from scientific literature to streamline research workflows.",
+            "icon": "/logo/www.pubcompare.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "SaveDay",
+            "slug": "saveday",
+            "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+            "icon": "/logo/www.save.day.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1163",
+            "name": "Woxo",
+            "slug": "woxo",
+            "description": "Woxo is an AI-driven platform that simplifies video creation, allowing users to generate engaging short-form videos for social media using text prompts and customizable templates.",
+            "icon": "/logo/woxo.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1172",
+            "name": "Brella",
+            "slug": "brella",
+            "description": "Brella is an event networking platform that uses AI to facilitate meaningful connections and engagement for virtual, hybrid, and in-person events.",
+            "icon": "/logo/www.brella.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1175",
+            "name": "Forethought",
+            "slug": "forethought-ai",
+            "description": "Forethought offers an AI agent platform designed to enhance customer support and service for CX teams by cutting costs, accelerating resolution times, and resolving up to 90% of inquiries with a multi-agent system.",
+            "icon": "/logo/forethought.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1178",
+            "name": "Clarity AI",
+            "slug": "clarity-ai",
+            "description": "Clarity AI is a sustainability technology platform that leverages artificial intelligence to provide actionable environmental, social, and governance (ESG) insights for investors and corporations.",
+            "icon": "/logo/clarity.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1220",
+            "name": "Linguamatics",
+            "slug": "linguamatics",
+            "description": "Linguamatics provides AI-enabled natural language processing and translation solutions tailored for healthcare and life sciences to innovate, automate, and scale cost-effectively.",
+            "icon": "/logo/www.linguamatics.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1228",
+            "name": "Voxel51",
+            "slug": "voxel51",
+            "description": "Voxel51 offers FiftyOne, an open-source platform for visualizing, curating, and evaluating computer vision datasets to accelerate AI model development.",
+            "icon": "/logo/voxel51.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1284",
+            "name": "Wonderchat",
+            "slug": "wonderchat",
+            "description": "Wonderchat is an AI platform that enables users to quickly build and deploy custom chatbots trained on their own data for improved customer engagement and support.",
+            "icon": "/logo/wonderchat.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1374",
+            "name": "Endex AI",
+            "slug": "endex-ai",
+            "description": "Endex.ai is an AI-powered platform designed to enhance data indexing, search, and analysis for researchers and businesses.",
+            "icon": "/logo/endex.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1336",
+            "name": "mcp-use",
+            "slug": "mcp-use",
+            "description": "mcp-use is a cloud platform for building, discovering, and deploying Model Context Protocol (MCP) servers to connect large language models to external tools and data sources.",
+            "icon": "/logo/mcp-use.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1302",
+            "name": "CloudKeeper",
+            "slug": "cloudkeeper",
+            "description": "CloudKeeper is a FinOps platform that leverages AI to help businesses optimize cloud costs, automate savings, and provide expert consulting for efficient cloud management.",
+            "icon": "/logo/www.cloudkeeper.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1378",
+            "name": "Cheers",
+            "slug": "cheers",
+            "description": "Cheers.tech is an AI-powered platform that attributes customer feedback, reviews, and interactions to individual frontline employees, providing managers with actionable insights to improve brand performance.",
+            "icon": "/logo/www.cheers.tech.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1301",
+            "name": "Stormy AI",
+            "slug": "stormy-ai",
+            "description": "Stormy.ai is an AI-powered platform for generating creative content and brainstorming ideas.",
+            "icon": "/logo/stormy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1363",
+            "name": "Zapform",
+            "slug": "zapform-ai",
+            "description": "Zapform.ai is an AI-powered platform for building intelligent forms, automating data collection, and integrating workflows seamlessly.",
+            "icon": "/logo/www.zapform.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1304",
+            "name": "Psynth",
+            "slug": "psynth-ai",
+            "description": "Psynth is an AI-powered software that transforms patient test results, intake data, and clinical observations into accurate, top-quality diagnostic reports for psychologists in minutes.",
+            "icon": "/logo/www.psynth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1245",
+            "name": "Octayne AI",
+            "slug": "octayne-ai",
+            "description": "Octayne.ai is an AI-driven platform that empowers businesses with automation tools and intelligent insights to enhance productivity and decision-making.",
+            "icon": "/logo/octayne.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1252",
+            "name": "Geordy AI",
+            "slug": "geordy-ai",
+            "description": "Geordy AI transforms any URL into Generative Engine Optimization (GEO) ready content to enhance visibility and engagement in AI-driven search systems.",
+            "icon": "/logo/geordy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1300",
+            "name": "Gitmore",
+            "slug": "gitmore",
+            "description": "Gitmore is an AI-powered platform that enhances Git workflows for developers by automating tasks like commit messaging and code reviews.",
+            "icon": "/logo/www.gitmore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1428",
+            "name": "ZINQ AI",
+            "slug": "zinq-ai",
+            "description": "ZINQ AI is a platform for creating engaging, AI-powered forms that facilitate conversational data collection and boost user interaction rates.",
+            "icon": "/logo/zinq.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1445",
+            "name": "Snowflake",
+            "slug": "snowflake",
+            "description": "Snowflake is a cloud-based data platform that enables scalable data storage, analytics, and AI-driven insights for enterprises.",
+            "icon": "/logo/www.snowflake.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "124",
+            "name": "Fellou",
+            "slug": "fellou",
+            "description": "Fellou is an AI-powered agentic browser that automates complex online tasks and enhances productivity through deep search and workflow automation.",
+            "icon": "/logo/fellou.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1316",
+            "name": "TranscriptGenerator.ai",
+            "slug": "transcriptgenerator-ai",
+            "description": "TranscriptGenerator.ai provides AI-powered transcription for Instagram videos, offering fast, accurate text with timestamps and multilingual support.",
+            "icon": "/logo/transcriptgenerator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-data-mining"
+            ]
+        },
+        {
+            "id": "1225",
+            "name": "i-Genie.AI",
+            "slug": "i-genie-ai",
+            "description": "i-Genie.AI provides faster consumer insights by passively analyzing online data like searches, social conversations, ratings, reviews, and videos, without relying on surveys or focus groups.",
+            "icon": "/logo/i-genie.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-data-mining"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "HiWaifu",
+    "description": "HiWaifu is an AI-powered platform offering customizable virtual companions for chat, roleplay, and personal growth.",
+    "longDescription": "HiWaifu is an innovative AI-driven platform designed to provide users with virtual companions for engaging conversations, roleplay, and relationship-building. The website allows users to create personalized AI chatbots with unique personalities, appearances, and interests, fostering a sense of companionship that feels almost human. It aims to offer a safe, non-judgmental space for users to explore their thoughts, emotions, and creative ideas through interactive dialogues. HiWaifu supports a variety of use cases, from casual chats to immersive storytelling and roleplay, and emphasizes user privacy and community engagement. By leveraging advanced AI technology, the platform enables users to connect with their AI companions 24/7, helping them grow communication skills and explore personal aspirations. The mission is to blend AI and human connection to create meaningful, enriching experiences for users worldwide.",
+    "url": "https://www.hiwaifu.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.hiwaifu.com.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "hiwaifu",
+    "categories": [
+        "AI Character",
+        "AI Chatbot",
+        "AI Roleplay",
+        "AI Social Media",
+        "AI Story Generator",
+        "AI Voice Assistants",
+        "AI Art Generator",
+        "AI Mental Health"
+    ],
+    "features": [
+        "Create and customize AI companions with unique personalities, appearances, and backgrounds to match user preferences.",
+        "Engage in realistic text or voice-based conversations with AI companions for companionship or roleplay.",
+        "Participate in interactive storytelling and roleplay scenarios, such as horror or sci-fi adventures, tailored to user inputs.",
+        "Join welcoming social communities on Reddit and Discord to connect with like-minded users and share AI creations.",
+        "Access a non-judgmental, private chat environment available 24/7 for support and conversation.",
+        "Invite friends to interact with your AI companion or add multiple bots for simultaneous group chats.",
+        "Showcase and exchange personalized AI creations within the community for others to enjoy.",
+        "Utilize voice recognition and dynamic scene pictures to enhance the immersive chat experience.",
+        "Explore conversations with AI personas modeled after famous figures or fictional characters for unique interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is HiWaifu?",
+            "answer": "HiWaifu is an AI-powered platform where users can create and interact with customizable virtual companions for chat, roleplay, and personal growth."
+        },
+        {
+            "question": "Is HiWaifu free to use?",
+            "answer": "Yes, HiWaifu offers a free version with core features, though premium features may require a subscription."
+        },
+        {
+            "question": "Can I customize my AI companion?",
+            "answer": "Yes, users can fully personalize their AI companion’s personality, appearance, and interests to suit their preferences."
+        },
+        {
+            "question": "What types of conversations can I have with my AI companion?",
+            "answer": "You can engage in casual chats, roleplay scenarios, or deep discussions on topics like philosophy, art, or personal aspirations."
+        },
+        {
+            "question": "Is my privacy protected on HiWaifu?",
+            "answer": "HiWaifu prioritizes user privacy with strict guidelines, ensuring secure and confidential interactions."
+        },
+        {
+            "question": "Can I share my AI companion with others?",
+            "answer": "Yes, you can invite friends to interact with your AI creation or share it within the HiWaifu community."
+        },
+        {
+            "question": "What are the community guidelines for HiWaifu?",
+            "answer": "All users and chatbots must be 18+, and content must avoid explicit, non-consensual, or offensive material to maintain a respectful environment."
+        },
+        {
+            "question": "How many AI companions can I create?",
+            "answer": "There is currently no limit to the number of AI companions you can create, provided they adhere to community guidelines."
+        },
+        {
+            "question": "What happens if my chatbot is deleted?",
+            "answer": "If your chatbot violates the terms of service, it may be removed; you can appeal by emailing support@hiwaifu.com."
+        },
+        {
+            "question": "Can I use HiWaifu on multiple platforms?",
+            "answer": "Yes, HiWaifu is available on web, iOS, and Android, with features like voice recognition on mobile apps."
+        }
+    ]
+}

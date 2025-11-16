@@ -1,0 +1,73 @@
+{
+    "name": "MuleRun",
+    "description": "MuleRun is an AI-powered platform designed to automate business workflows and enhance productivity through intelligent task management.",
+    "longDescription": "MuleRun is a cutting-edge AI platform that specializes in automating repetitive business processes, allowing users to create custom workflows without extensive coding knowledge. Its mission is to empower small to medium-sized enterprises by streamlining operations and reducing manual labor through smart automation tools. The platform serves users by integrating with various business applications, providing real-time insights, and adapting to user needs via machine learning algorithms. It solves problems like inefficiency in task management and data silos by offering seamless integration and AI-driven optimizations. Overall, MuleRun helps businesses scale operations efficiently while minimizing errors and costs. By leveraging AI, it enables users to focus on strategic tasks rather than routine ones.",
+    "url": "https://mulerun.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mulerun.com.webp",
+    "category": "AI Workflow",
+    "categorySlug": "ai-workflow",
+    "slug": "mulerun",
+    "categories": [
+        "AI Workflow",
+        "No-Code&Low-Code",
+        "AI For Data Analytics",
+        "AI Task Management",
+        "AI API",
+        "AI Productivity Tools",
+        "AI Assistant"
+    ],
+    "features": [
+        "AI-powered workflow automation allows users to build and deploy custom processes quickly, saving time and reducing errors.",
+        "Seamless integration with popular business tools like CRM and email systems enhances data flow and operational efficiency.",
+        "Real-time analytics dashboard provides insights into workflow performance, helping users optimize processes on the fly.",
+        "Machine learning algorithms adapt workflows based on user behavior, improving accuracy and personalization over time.",
+        "No-code interface enables non-technical users to create complex automations, democratizing access to advanced tools.",
+        "Secure data handling ensures compliance with industry standards, protecting sensitive business information.",
+        "Task scheduling and reminders automate routine activities, boosting team productivity.",
+        "Customizable templates offer pre-built solutions for common business scenarios, accelerating setup.",
+        "Collaboration features allow teams to share and co-edit workflows in real-time.",
+        "Scalable pricing plans support growing businesses with flexible resource allocation."
+    ],
+    "faqs": [
+        {
+            "question": "What is MuleRun primarily used for?",
+            "answer": "MuleRun is used for automating business workflows using AI to streamline operations and increase efficiency. It helps users create custom automations without coding expertise."
+        },
+        {
+            "question": "Does MuleRun offer a free plan?",
+            "answer": "Yes, MuleRun provides a free tier with limited features for users to test the platform. Upgrades are available for more advanced capabilities."
+        },
+        {
+            "question": "How does MuleRun integrate with other tools?",
+            "answer": "MuleRun supports integrations with popular apps like Google Workspace, Salesforce, and Slack through API connections. This allows seamless data exchange and automated actions across platforms."
+        },
+        {
+            "question": "Is MuleRun suitable for non-technical users?",
+            "answer": "Absolutely, its no-code interface makes it accessible for users without programming skills. Drag-and-drop tools simplify workflow creation."
+        },
+        {
+            "question": "What kind of AI does MuleRun use?",
+            "answer": "MuleRun employs machine learning to analyze and optimize workflows based on user data. This adaptive AI improves automation efficiency over time."
+        },
+        {
+            "question": "Can MuleRun handle large-scale business operations?",
+            "answer": "Yes, it scales to support enterprise-level needs with robust performance and customizable resources. It's designed for businesses of all sizes."
+        },
+        {
+            "question": "How secure is data on MuleRun?",
+            "answer": "MuleRun prioritizes security with encryption, compliance certifications, and regular audits. Users can control access and data handling preferences."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "Support includes documentation, tutorials, and email assistance for free users, with premium plans offering live chat and dedicated help."
+        },
+        {
+            "question": "Can I customize workflows in MuleRun?",
+            "answer": "Yes, users can fully customize workflows using templates or from scratch. AI suggestions help refine them for better results."
+        },
+        {
+            "question": "Does MuleRun offer analytics?",
+            "answer": "The platform provides a real-time analytics dashboard to track workflow performance and metrics. This helps in making data-driven improvements."
+        }
+    ]
+}

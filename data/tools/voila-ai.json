@@ -1,0 +1,79 @@
+{
+    "name": "Voilà",
+    "description": "Voilà is an AI-powered assistant that enhances productivity by offering tools for writing, brainstorming, and researching across various platforms.",
+    "longDescription": "Voilà is an innovative AI assistant designed to streamline daily tasks and boost productivity for professionals and individuals. Available as a browser extension, mobile app, and desktop application, it integrates seamlessly with websites and apps to provide contextual AI support. Its mission is to simplify workflows by offering tools for content creation, email drafting, and research without requiring users to switch between platforms. Trusted by over 70,000 professionals worldwide, Voilà combines advanced AI capabilities with an intuitive interface to deliver efficient solutions. It prioritizes user privacy by not storing content or conversations on its servers. The platform supports multiple languages and automates repetitive tasks to save time.",
+    "url": "https://www.getvoila.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getvoila.ai.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "voila-ai",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Writing",
+        "AI Email Marketing",
+        "AI Image Generator",
+        "AI Article Summarizer",
+        "AI Language Learning",
+        "AI Task Management",
+        "AI Browsers",
+        "AI Project Management",
+        "AI Prompt Generator"
+    ],
+    "features": [
+        "AI-powered writing tools generate high-quality content like blog posts, emails, and professional documents effortlessly.",
+        "Contextual understanding allows Voilà to work on any website, providing relevant assistance without switching tools.",
+        "Instant email drafting creates thoughtful responses with customizable tones using seamless Gmail integration.",
+        "A versatile prompt library offers expert-crafted prompts to streamline writing, brainstorming, and research tasks.",
+        "Image generation creates visual content from text to enhance projects and presentations.",
+        "Automation features connect with external services via webhooks to streamline repetitive tasks.",
+        "Cross-platform compatibility ensures access on Chrome, Edge, Firefox, Safari, iOS, Android, Windows, and MacOS.",
+        "Text-to-speech and voice input improve accessibility and interaction for diverse users.",
+        "The AI grammar checker polishes content by detecting and correcting spelling, grammar, and punctuation errors.",
+        "Summarization tools condense articles, documents, or web pages into concise summaries for quick insights.",
+        "Multilingual support allows users to ask questions and receive answers in any language.",
+        "Team collaboration features enable shared workflows and templates for enhanced productivity.",
+        "Custom keyboard shortcuts streamline interactions for faster desktop workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Voilà used for?",
+            "answer": "Voilà is an AI assistant that helps users write, brainstorm, research, and automate tasks across websites and apps."
+        },
+        {
+            "question": "Is Voilà free to use?",
+            "answer": "Yes, Voilà offers a free plan with access to core AI tools, though some advanced features require a premium subscription."
+        },
+        {
+            "question": "Can Voilà work on any website?",
+            "answer": "Yes, Voilà integrates with any website, providing contextual AI assistance for tasks like writing and research."
+        },
+        {
+            "question": "Does Voilà support multiple languages?",
+            "answer": "Absolutely, Voilà can answer questions and generate content in any language, ensuring global accessibility."
+        },
+        {
+            "question": "Is my data safe with Voilà?",
+            "answer": "Voilà prioritizes privacy, ensuring user content and conversations are not stored or used for AI training."
+        },
+        {
+            "question": "Can Voilà generate images?",
+            "answer": "Yes, Voilà’s image generation feature creates visuals from text, enhancing creative projects."
+        },
+        {
+            "question": "Does Voilà offer team collaboration tools?",
+            "answer": "Yes, Voilà provides shared workflows and templates to improve team productivity and collaboration."
+        },
+        {
+            "question": "What platforms does Voilà support?",
+            "answer": "Voilà is available on Chrome, Edge, Firefox, Safari, iOS, Android, Windows, and MacOS."
+        },
+        {
+            "question": "Can I use Voilà offline?",
+            "answer": "Some features require an internet connection, but certain desktop functionalities may work offline."
+        },
+        {
+            "question": "How does Voilà integrate with Gmail?",
+            "answer": "Voilà seamlessly integrates with Gmail to draft, reply, and improve emails with AI-powered suggestions."
+        }
+    ]
+}

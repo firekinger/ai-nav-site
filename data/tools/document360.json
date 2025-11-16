@@ -1,0 +1,66 @@
+{
+    "name": "Document360",
+    "description": "Document360 is an AI-powered knowledge base platform that enables businesses to create, manage, and share documentation for self-service support and internal knowledge management.",
+    "longDescription": "Document360 is a comprehensive knowledge base software designed to help organizations build and maintain internal and external documentation portals. Its mission is to streamline knowledge sharing, reduce support tickets, and enhance user experiences through intuitive tools and AI integrations. The platform addresses common challenges like scattered information, version control issues, and inefficient search by providing a centralized hub for content creation and collaboration. With features like AI-assisted search and content suggestions, it helps users find information quickly and accurately, improving productivity and customer satisfaction. Document360 serves a wide range of industries, including tech, finance, and healthcare, by offering scalable solutions for knowledge management.",
+    "url": "https://document360.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/document360.com.webp",
+    "category": "AI Knowledge Management",
+    "categorySlug": "ai-knowledge-management",
+    "slug": "document360",
+    "categories": [
+        "AI Knowledge Management",
+        "AI Search Engine",
+        "AI Writing Assistants",
+        "AI Document Extraction",
+        "AI Assistant",
+        "AI For Data Analytics",
+        "AI Tools Directory",
+        "AI SEO Tools"
+    ],
+    "features": [
+        "AI-powered search delivers intelligent, context-aware results to help users find information faster and reduce support queries.",
+        "Rich text editor with markdown support allows easy creation and formatting of articles, enhancing content quality and collaboration.",
+        "Version control tracks changes and revisions, ensuring teams can revert to previous versions and maintain document integrity.",
+        "Analytics dashboard provides insights into user engagement and content performance, enabling data-driven improvements.",
+        "Customizable branding lets businesses tailor the knowledge base to match their visual identity and user experience.",
+        "Role-based access control secures sensitive information by managing permissions for different user groups.",
+        "Multi-language support enables global teams to create and access content in various languages, broadening accessibility.",
+        "Integrations with tools like Slack, Zendesk, and Microsoft Teams streamline workflows and data synchronization.",
+        "Category management organizes content hierarchically, making navigation intuitive for end-users.",
+        "SEO optimization tools improve visibility of public knowledge bases in search engines, driving more traffic."
+    ],
+    "faqs": [
+        {
+            "question": "What is Document360 used for?",
+            "answer": "Document360 is used to create and manage knowledge bases for internal teams or external customers, facilitating self-service support and efficient information sharing."
+        },
+        {
+            "question": "Does Document360 offer AI features?",
+            "answer": "Yes, it includes AI-powered search, content suggestions, and analytics to enhance user experience and content relevance."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Document360 offers a 14-day free trial to test its features, but there is no permanent free plan for core access."
+        },
+        {
+            "question": "Can I integrate Document360 with other tools?",
+            "answer": "Yes, it supports integrations with popular tools like Salesforce, Intercom, and Google Workspace for seamless data flow."
+        },
+        {
+            "question": "How secure is Document360?",
+            "answer": "It provides enterprise-grade security with features like SSO, encryption, and compliance with GDPR and SOC 2 standards."
+        },
+        {
+            "question": "What industries benefit from Document360?",
+            "answer": "Industries such as SaaS, e-commerce, and manufacturing use it for customer support, employee onboarding, and product documentation."
+        },
+        {
+            "question": "How does the pricing work?",
+            "answer": "Pricing starts at around $99 per month for basic plans, scaling based on features, users, and storage needs."
+        },
+        {
+            "question": "Can I customize the knowledge base design?",
+            "answer": "Yes, you can fully customize themes, layouts, and branding to align with your company's style."
+        }
+    ]
+}

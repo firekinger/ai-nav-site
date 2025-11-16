@@ -1,0 +1,62 @@
+{
+    "name": "STUDIO",
+    "description": "STUDIO is a no-code platform for creating and publishing professional websites with ease.",
+    "longDescription": "STUDIO is a user-friendly, no-code web design platform that empowers individuals and businesses to create stunning websites without programming skills. Founded by STUDIO株式会社, it aims to democratize web design with an intuitive interface and seamless publishing capabilities. Users can design, customize, and launch websites directly from the platform, bypassing traditional coding processes. The platform caters to designers, entrepreneurs, and small businesses seeking creative freedom and efficiency. Its mission is to make web creation accessible, enabling anyone to transform ideas into functional, visually appealing online presences. Since its formal release in 2018, STUDIO has been recognized for simplifying web development workflows.",
+    "url": "https://studio.design/?utm_source=ainavdir",
+    "screenshot": "/screenshot/studio.design.webp",
+    "category": "AI Website Builder",
+    "categorySlug": "ai-website-builder",
+    "slug": "studio",
+    "categories": [
+        "AI Website Builder",
+        "AI Design Assistant",
+        "AI SEO Tools",
+        "AI Domain Name Generator",
+        "AI Project Management",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Drag-and-drop editor allows users to design websites visually with full creative control.",
+        "Pre-designed templates provide customizable starting points for various industries and styles.",
+        "Direct publishing functionality enables users to launch websites without coding or server management.",
+        "Custom domain support lets users apply unique domains like 'https://yourname.studio.design' for branding.",
+        "Responsive design tools ensure websites adapt seamlessly to desktop and mobile devices.",
+        "Built-in SEO tools help optimize websites for better search engine visibility.",
+        "Real-time collaboration features allow teams to work together on website projects.",
+        "Analytics integration provides insights into website performance and visitor behavior."
+    ],
+    "faqs": [
+        {
+            "question": "What is STUDIO used for?",
+            "answer": "STUDIO is a no-code platform for designing and publishing professional websites, ideal for portfolios, landing pages, or business sites."
+        },
+        {
+            "question": "Do I need coding skills to use STUDIO?",
+            "answer": "No, STUDIO’s intuitive drag-and-drop interface requires no coding, making it accessible to all users."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, STUDIO offers a free plan with limited features, allowing users to try the platform before upgrading."
+        },
+        {
+            "question": "Can I use my own domain with STUDIO?",
+            "answer": "Yes, users can apply custom domains purchased elsewhere or use a STUDIO subdomain for their website."
+        },
+        {
+            "question": "How does STUDIO handle mobile responsiveness?",
+            "answer": "STUDIO’s responsive design tools automatically optimize websites for mobile and desktop viewing."
+        },
+        {
+            "question": "Can multiple people collaborate on a project?",
+            "answer": "Yes, STUDIO supports real-time collaboration, enabling teams to edit and review designs together."
+        },
+        {
+            "question": "What kind of support does STUDIO offer?",
+            "answer": "STUDIO provides tutorials, documentation, and customer support to assist users throughout their design process."
+        },
+        {
+            "question": "How long does it take to publish a website?",
+            "answer": "With STUDIO, users can design and publish a website in hours, depending on complexity."
+        }
+    ]
+}

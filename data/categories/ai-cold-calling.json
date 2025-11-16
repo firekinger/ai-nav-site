@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Cold Calling Tools in 2025",
+    "summary": "Unlock the power of AI Cold Calling tools to revolutionize your sales outreach! This category features innovative solutions designed to enhance your calling efficiency, improve lead engagement, and boost conversion rates. With advanced algorithms and data-driven insights, these tools streamline your cold calling process, allowing you to focus on building relationships rather than dialing numbers. Explore our curated selection of AI Cold Calling tools today and transform your sales strategy into a more effective and productive endeavor. Start your journey towards smarter sales outreach now!",
+    "tools": [
+        {
+            "id": "1072",
+            "name": "Trellus",
+            "slug": "trellus-ai",
+            "description": "Trellus is an AI-powered platform that provides real-time coaching to sales teams during cold calls to enhance performance and increase conversion rates.",
+            "icon": "/logo/www.trellus.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-cold-calling"
+            ]
+        },
+        {
+            "id": "1141",
+            "name": "SalesRobot",
+            "slug": "salesrobot",
+            "description": "SalesRobot is an AI-driven sales engagement tool that automates cold outreach on LinkedIn and email to help users generate B2B leads.",
+            "icon": "/logo/www.salesrobot.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-cold-calling"
+            ]
+        }
+    ]
+}

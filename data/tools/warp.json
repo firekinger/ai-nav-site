@@ -1,0 +1,63 @@
+{
+    "name": "Warp",
+    "description": "Warp is a modern, AI-powered terminal designed to enhance developer productivity and streamline workflows.",
+    "longDescription": "Warp is a next-generation terminal built for developers, leveraging AI and modern UI principles to improve command-line efficiency. Unlike traditional terminals, Warp offers a sleek, intuitive interface with features like autocompletion, command suggestions, and collaborative tools. Its mission is to make terminal usage faster, more accessible, and less error-prone for both novice and experienced developers. By integrating AI-driven insights and cloud-based syncing, Warp enables seamless workflows across devices and teams. It addresses common pain points in terminal usage, such as complex command syntax and lack of modern usability features, making it a powerful tool for coding and system management.",
+    "url": "https://www.warp.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.warp.dev.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "warp",
+    "categories": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Testing",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered command suggestions provide intelligent autocompletion to speed up coding and reduce errors.",
+        "Warp Drive enables cloud-based syncing of workflows, allowing users to share and access commands across devices.",
+        "A modern, GPU-accelerated interface delivers a smooth, responsive experience with customizable themes.",
+        "Block-based input/output organizes terminal commands and results into shareable, reusable blocks.",
+        "Built-in SSH integration simplifies secure connections to remote servers without external tools.",
+        "Real-time collaboration tools allow teams to share terminal sessions for debugging or pair programming.",
+        "Customizable keybindings and shortcuts enhance user efficiency tailored to individual preferences.",
+        "Integrated documentation search provides instant access to command references within the terminal.",
+        "Error detection highlights syntax issues in real time, helping users correct mistakes before execution.",
+        "Cross-platform support ensures Warp works seamlessly on macOS, Linux, and Windows (in preview).",
+        "Command palette offers quick access to frequently used commands and workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Warp, and how does it differ from traditional terminals?",
+            "answer": "Warp is a modern, AI-enhanced terminal with a graphical interface, offering features like autocompletion, command suggestions, and cloud syncing, unlike traditional terminals such as Bash or Zsh."
+        },
+        {
+            "question": "Is Warp free to use?",
+            "answer": "Warp offers a free plan with core features, while premium features like advanced collaboration and Warp Drive require a paid subscription."
+        },
+        {
+            "question": "Does Warp support Windows?",
+            "answer": "Warp is primarily available on macOS and Linux, with Windows support currently in preview and expected to expand in the future."
+        },
+        {
+            "question": "Can I use Warp for team collaboration?",
+            "answer": "Yes, Warp’s real-time collaboration tools allow teams to share terminal sessions, making it ideal for debugging or pair programming."
+        },
+        {
+            "question": "How does Warp’s AI improve productivity?",
+            "answer": "Warp’s AI provides intelligent command suggestions, error detection, and contextual autocompletion to streamline workflows and reduce manual input errors."
+        },
+        {
+            "question": "Can I customize Warp’s interface?",
+            "answer": "Yes, Warp supports customizable themes, keybindings, and layouts to tailor the terminal to your preferences."
+        },
+        {
+            "question": "Does Warp require an internet connection?",
+            "answer": "Warp works offline for most features, but cloud-based features like Warp Drive and session sharing require an internet connection."
+        },
+        {
+            "question": "What programming languages or tools does Warp support?",
+            "answer": "Warp is language-agnostic and supports common development tools like Git, Docker, and SSH, enhancing any command-line workflow."
+        }
+    ]
+}

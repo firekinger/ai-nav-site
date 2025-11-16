@@ -1,0 +1,72 @@
+{
+    "name": "Secoda",
+    "description": "Secoda is an AI-powered data catalog platform that enables teams to discover, document, and govern data assets efficiently.",
+    "longDescription": "Secoda is a modern data management platform designed to centralize and organize a company's data knowledge, making it easier for teams to find and understand data assets. Its mission is to democratize data access and improve data literacy across organizations by leveraging AI to automate documentation and search processes. The platform solves common problems in data teams, such as siloed information, poor data governance, and inefficient data discovery, by providing tools for data lineage, metadata management, and collaboration. Users benefit from reduced time spent searching for data and improved compliance with data regulations. Overall, Secoda serves data engineers, analysts, and business users by fostering a data-driven culture through intuitive, AI-enhanced features.",
+    "url": "https://www.secoda.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.secoda.co.webp",
+    "category": "AI Search Engine",
+    "categorySlug": "ai-search-engine",
+    "slug": "secoda",
+    "categories": [
+        "AI Search Engine",
+        "AI Document Extraction",
+        "AI Knowledge Management",
+        "AI Tools Directory",
+        "AI Text Generator",
+        "AI Report Generator"
+    ],
+    "features": [
+        "AI-powered search allows users to quickly find data assets using natural language queries, reducing search time significantly.",
+        "Automated data lineage tracking visualizes how data flows through systems, helping users understand dependencies and impacts.",
+        "Metadata management centralizes documentation for tables, dashboards, and queries, ensuring consistent data understanding across teams.",
+        "Data governance tools enforce policies, monitor data quality, and manage access controls to maintain compliance and security.",
+        "Collaboration features enable teams to comment, tag, and share insights on data assets, fostering better communication.",
+        "Integration with popular data tools like Snowflake, BigQuery, and Tableau ensures seamless connectivity to existing workflows.",
+        "AI-assisted documentation automatically generates descriptions and tags for data assets, saving manual effort.",
+        "Customizable data catalogs allow organizations to tailor the platform to their specific data ecosystem and needs.",
+        "Usage analytics provide insights into data popularity and usage patterns, helping prioritize data management efforts.",
+        "Slack and email notifications keep teams informed about data changes and updates in real-time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Secoda primarily used for?",
+            "answer": "Secoda is used for data discovery, documentation, and governance, helping teams centralize their data knowledge and improve accessibility."
+        },
+        {
+            "question": "Does Secoda integrate with existing data warehouses?",
+            "answer": "Yes, Secoda integrates with popular data warehouses like Snowflake, BigQuery, and Redshift, allowing seamless data syncing and management."
+        },
+        {
+            "question": "Is Secoda suitable for non-technical users?",
+            "answer": "Absolutely, its intuitive interface and AI-powered search make it accessible for business users without deep technical expertise."
+        },
+        {
+            "question": "How does Secoda handle data security?",
+            "answer": "Secoda provides role-based access controls, encryption, and compliance features to ensure data security and governance."
+        },
+        {
+            "question": "Can Secoda automate data documentation?",
+            "answer": "Yes, its AI features automatically generate and update documentation for data assets, reducing manual work."
+        },
+        {
+            "question": "What pricing plans does Secoda offer?",
+            "answer": "Secoda offers a free plan for small teams, with paid tiers for larger organizations needing advanced features and support."
+        },
+        {
+            "question": "How does Secoda improve data team productivity?",
+            "answer": "By centralizing data knowledge and automating search and lineage, Secoda reduces time spent on data discovery and increases efficiency."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, Secoda provides a free trial to explore its features before committing to a paid plan."
+        },
+        {
+            "question": "What industries benefit most from Secoda?",
+            "answer": "Industries like finance, healthcare, and tech that handle large data volumes benefit from Secoda's governance and discovery tools."
+        },
+        {
+            "question": "Does Secoda support data lineage visualization?",
+            "answer": "Yes, it offers visual data lineage maps to track data flows and dependencies across systems."
+        }
+    ]
+}

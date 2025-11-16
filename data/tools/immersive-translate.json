@@ -1,0 +1,58 @@
+{
+    "name": "Immersive Translate",
+    "description": "Immersive Translate provides AI-powered translation for web content, documents, and e-books to enhance multilingual accessibility.",
+    "longDescription": "Immersive Translate is a versatile translation platform designed to break language barriers by offering real-time, AI-driven translation for web pages, documents, and e-books. It supports over 100 languages and integrates seamlessly with browsers and mobile devices, enabling users to access translated content effortlessly. The platform aims to make information universally accessible, catering to students, professionals, and casual users who need accurate translations for work, study, or leisure. Its advanced AI technology ensures contextually accurate translations, preserving the original meaning and tone. Immersive Translate also provides features like bilingual e-book reading and subtitle translation, enhancing user experience across various media. The service is available as a browser extension, mobile app, and web platform, making it highly adaptable to different user needs.",
+    "url": "https://immersivetranslate.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/immersivetranslate.com.webp",
+    "category": "AI Translate",
+    "categorySlug": "ai-translate",
+    "slug": "immersive-translate",
+    "categories": [
+        "AI Translate",
+        "AI Document Extraction",
+        "AI Video Translator",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Real-time web page translation allows users to browse foreign-language websites in their native language with one click.",
+        "Document translation supports multiple formats like PDF and DOC, delivering accurate translations for professional or academic use.",
+        "Bilingual e-book reading displays original and translated text side-by-side for an enhanced reading experience.",
+        "Subtitle translation for videos enables users to understand foreign-language media in real time.",
+        "Browser extension integration offers seamless translation across popular browsers like Chrome and Firefox.",
+        "Mobile app functionality provides on-the-go translation for iOS and Android users.",
+        "Support for over 100 languages ensures broad accessibility for global users.",
+        "Context-aware AI translation maintains the tone and intent of the original content.",
+        "Customizable translation settings allow users to adjust preferences for specific languages or formats.",
+        "Free core translation features provide basic access without requiring a paid subscription."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Immersive Translate handle?",
+            "answer": "Immersive Translate supports web pages, documents (PDF, DOC, etc.), e-books, and video subtitles, covering over 100 languages."
+        },
+        {
+            "question": "Is Immersive Translate free to use?",
+            "answer": "Yes, Immersive Translate offers a free plan with core translation features, though premium features may require a subscription."
+        },
+        {
+            "question": "How accurate are the translations provided by Immersive Translate?",
+            "answer": "The platform uses advanced AI to deliver contextually accurate translations, though accuracy may vary for highly technical or nuanced content."
+        },
+        {
+            "question": "Can I use Immersive Translate on my mobile device?",
+            "answer": "Yes, Immersive Translate offers mobile apps for iOS and Android, enabling translation on the go."
+        },
+        {
+            "question": "Does Immersive Translate work with video content?",
+            "answer": "Yes, it provides real-time subtitle translation for videos, making foreign-language media accessible."
+        },
+        {
+            "question": "Is a browser extension available for Immersive Translate?",
+            "answer": "Yes, the platform offers extensions for browsers like Chrome and Firefox for seamless web translation."
+        },
+        {
+            "question": "Can I translate e-books with Immersive Translate?",
+            "answer": "Yes, the platform supports bilingual e-book reading, displaying original and translated text side-by-side."
+        }
+    ]
+}

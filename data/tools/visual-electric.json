@@ -1,0 +1,71 @@
+{
+    "name": "Visual Electric",
+    "description": "Visual Electric is an AI-powered platform that enables users to generate high-quality images from text prompts, focusing on creative and professional visual design.",
+    "longDescription": "Visual Electric is a state-of-the-art AI image generation tool designed to make visual creation accessible to everyone, from artists to marketers. Founded with the mission to harness generative AI for effortless creativity, it allows users to input text descriptions and receive customized images in seconds. The platform addresses challenges in traditional design by eliminating the need for advanced skills or software, enabling rapid prototyping and ideation. It serves users by providing intuitive controls for styles, compositions, and edits, fostering innovation in fields like advertising, content creation, and digital art. Overall, Visual Electric empowers individuals and teams to visualize ideas quickly and efficiently, bridging the gap between imagination and realization.",
+    "url": "https://visualelectric.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/visualelectric.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "visual-electric",
+    "categories": [
+        "AI Image Generator",
+        "AI Creative Writing",
+        "AI Design Assistant",
+        "AI Art Generator",
+        "AI Prompt Generator"
+    ],
+    "features": [
+        "Text-to-image generation allows users to create detailed visuals from simple text prompts, streamlining the creative process.",
+        "Customizable styles enable selection from various artistic influences, ensuring outputs match specific aesthetic preferences.",
+        "High-resolution exports provide professional-grade images suitable for print, web, or social media use.",
+        "Iterative editing tools let users refine generated images with adjustments to composition, colors, and elements for precise results.",
+        "Prompt optimization suggestions help users craft better inputs to achieve desired outcomes more effectively.",
+        "Batch generation supports creating multiple variations at once, ideal for exploring ideas quickly.",
+        "Integration with design workflows allows seamless export to tools like Adobe Suite for further refinement.",
+        "User-friendly interface ensures accessibility for beginners while offering advanced options for experts.",
+        "AI-driven upscaling enhances low-res images to higher quality without losing details.",
+        "Community gallery showcases user creations, inspiring others and fostering a collaborative environment."
+    ],
+    "faqs": [
+        {
+            "question": "What is Visual Electric?",
+            "answer": "Visual Electric is an AI platform for generating images from text descriptions. It uses advanced models to create visuals tailored to user prompts."
+        },
+        {
+            "question": "How do I get started with Visual Electric?",
+            "answer": "Sign up for a free account on the website, enter a text prompt, and generate your first image. Tutorials are available for new users."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Visual Electric offers a free tier with limited generations per month. Upgrade to paid plans for unlimited access and advanced features."
+        },
+        {
+            "question": "What types of images can I generate?",
+            "answer": "You can create a wide range including artistic illustrations, realistic photos, abstract designs, and more, based on your text input."
+        },
+        {
+            "question": "Can I edit the generated images?",
+            "answer": "Yes, the platform includes built-in editing tools to modify aspects like color, composition, and style after initial generation."
+        },
+        {
+            "question": "Is Visual Electric suitable for professional use?",
+            "answer": "Absolutely, with high-resolution outputs and customization options, it's used by designers, marketers, and creators for professional projects."
+        },
+        {
+            "question": "How does Visual Electric ensure image quality?",
+            "answer": "It leverages cutting-edge AI models trained on diverse datasets to produce detailed, high-fidelity images. Users can also upscale for better resolution."
+        },
+        {
+            "question": "What are the pricing options?",
+            "answer": "Plans start from free with basic access, to premium tiers offering more generations, priority processing, and exclusive features."
+        },
+        {
+            "question": "Can I use generated images commercially?",
+            "answer": "Yes, images created on Visual Electric can be used commercially, but check the terms for any restrictions on AI-generated content."
+        },
+        {
+            "question": "Does Visual Electric support mobile devices?",
+            "answer": "The platform is web-based and optimized for desktop, but it works on mobile browsers for on-the-go generation."
+        }
+    ]
+}

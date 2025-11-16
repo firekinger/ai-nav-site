@@ -1,0 +1,76 @@
+{
+    "name": "Frame0",
+    "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+    "longDescription": "Frame0 is a wireframing tool that enables users to transform ideas into visual prototypes with a hand-drawn aesthetic, focusing on rapid ideation rather than polished designs. Its mission is to help designers, developers, and teams visualize concepts before they fade, emphasizing ease of use and collaboration. By integrating AI, it allows for quick generation of wireframes from simple prompts and code from designs, bridging ideation and development. The platform solves problems in UI/UX design by providing comprehensive libraries, templates, and export options for efficient prototyping. It serves users across various devices and operating systems, making it accessible for individual creators and professional teams.",
+    "url": "https://frame0.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/frame0.app.webp",
+    "category": "AI Design Generator",
+    "categorySlug": "ai-design-generator",
+    "slug": "frame0",
+    "categories": [
+        "AI Design Generator",
+        "AI Prompt Generator",
+        "AI Code Generator",
+        "AI UX Design",
+        "AI Art Generator",
+        "AI Diagram Generator",
+        "AI Tools Directory",
+        "AI Creative Writing",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Rich UI Components and States: Access a comprehensive library of UI components for desktop, mobile, smartwatch, and web, with adjustable states like switch on/off and progress bar values, enabling versatile prototype building.",
+        "Sketch-Style Icons: Features over 1,500 sketch-style icons from the Lucide library, ensuring visual consistency and integration with the hand-drawn aesthetic for clear and cohesive designs.",
+        "Mirroring a Frame: Create a master frame and reuse it across multiple places, with updates to the master automatically reflecting in all mirrors, ideal for maintaining consistency in elements like headers.",
+        "Working with AI: Generate wireframes quickly using simple prompts and produce code from designs, integrating with AI tools like Claude Desktop or Cursor via the Frame0 MCP server for enhanced productivity.",
+        "Link to Page and Show in Presentation Mode: Link shapes to navigate between pages and present wireframes as slideshows, demonstrating user flows effectively for reviews and feedback.",
+        "Pre-Designed Templates: Offers templates for various devices including web, desktop, phone, tablet, smartwatch, and TV, with common layouts to save time on initial setups.",
+        "Publish Live Prototype to HTML and PDF: Export interactive prototypes as HTML or PDF files, preserving functionality for easy sharing and feedback without needing the app.",
+        "Meticulously Crafted Libraries: Includes libraries for consistent design language, covering components and diagrams to promote visual harmony and UI best practices.",
+        "Comprehensive Diagrams: Create flowcharts, UML diagrams, and Entity-Relationship diagrams within a single file, aiding in designing user flows and data models.",
+        "Cross Platform: Operates on Windows, macOS, and Linux, providing accessibility and flexibility across different operating systems.",
+        "Freehand Sketch: Draw free-hand sketches with pencil and highlighter tools, supporting ideation and annotations directly in the workspace."
+    ],
+    "faqs": [
+        {
+            "question": "What is Frame0?",
+            "answer": "Frame0 is a wireframing tool that allows users to create hand-drawn style prototypes quickly, serving as an alternative to Balsamiq with AI integration for enhanced functionality."
+        },
+        {
+            "question": "Is Frame0 free to use?",
+            "answer": "Frame0 offers free access to core features, with premium options available for advanced functionalities like certain templates and exports."
+        },
+        {
+            "question": "How does Frame0 integrate with AI?",
+            "answer": "Frame0 uses AI to generate wireframes from simple prompts and convert designs into code, compatible with tools like Claude Desktop or Cursor."
+        },
+        {
+            "question": "Can I use Frame0 offline?",
+            "answer": "Yes, Frame0 is designed as an offline-first application, allowing users to work without an internet connection on supported platforms."
+        },
+        {
+            "question": "What platforms does Frame0 support?",
+            "answer": "Frame0 works on Windows, macOS, and Linux, ensuring cross-platform compatibility for diverse users."
+        },
+        {
+            "question": "How do I export prototypes from Frame0?",
+            "answer": "Users can export interactive prototypes as HTML or PDF files, maintaining links and presentations for sharing."
+        },
+        {
+            "question": "Does Frame0 have templates?",
+            "answer": "Yes, Frame0 provides pre-designed templates for various devices and layouts to speed up the wireframing process."
+        },
+        {
+            "question": "Is Frame0 suitable for teams?",
+            "answer": "Frame0 supports collaboration through features like mirroring frames and easy exports, making it ideal for team-based UI/UX design workflows."
+        },
+        {
+            "question": "What makes Frame0 different from Balsamiq?",
+            "answer": "Frame0 offers a more modern, AI-integrated approach with hand-drawn aesthetics, comprehensive diagrams, and code generation, providing a sleek alternative."
+        },
+        {
+            "question": "Can I create diagrams in Frame0?",
+            "answer": "Yes, Frame0 allows creation of flowcharts, UML, and ER diagrams alongside wireframes for comprehensive project planning."
+        }
+    ]
+}

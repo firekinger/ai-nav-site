@@ -1,0 +1,75 @@
+{
+    "name": "Astria.ai",
+    "description": "Astria.ai is an AI platform that enables users to fine-tune Stable Diffusion models with their own images for generating custom, high-quality visuals tailored to specific needs.",
+    "longDescription": "Astria.ai is a cutting-edge AI platform designed for fine-tuning image generation models, allowing users to create personalized AI tools for producing images based on their uploaded data. Its mission is to make advanced AI image creation accessible to everyone, from businesses needing product visuals to artists seeking custom styles, by simplifying the fine-tuning process. The platform addresses challenges in content creation by enabling rapid generation of tailored images without requiring deep technical knowledge in AI. Users can train models on faces, products, or art styles, and integrate them via API for seamless workflows. Overall, Astria.ai empowers users to solve real-world problems in e-commerce, marketing, and creative industries through efficient, customizable AI-driven image production.",
+    "url": "https://www.astria.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.astria.ai.webp",
+    "category": "AI Image Enhancer",
+    "categorySlug": "ai-image-enhancer",
+    "slug": "astria-ai",
+    "categories": [
+        "AI Image Enhancer",
+        "AI Models",
+        "AI Image Generator",
+        "AI Realistic Image Generator",
+        "AI Product Photography",
+        "AI Portrait Generator",
+        "AI Mockup Generator",
+        "AI Creative Writing",
+        "AI Prompt Generator"
+    ],
+    "features": [
+        "Fine-tune Stable Diffusion models using your own images to create custom AI generators that produce visuals matching specific styles or subjects.",
+        "Generate high-resolution images quickly with tailored prompts, benefiting users by saving time on manual editing or photography.",
+        "Access an easy-to-use web interface that allows non-experts to upload data, train models, and generate outputs without coding knowledge.",
+        "Integrate custom models via API for embedding AI image generation into applications, enhancing automation in e-commerce or content platforms.",
+        "Support for various use cases like face generation, product mockups, and artistic styles, providing versatility for different industries.",
+        "Prompt tuning features to refine and optimize image outputs, ensuring higher accuracy and relevance to user needs.",
+        "Fast training times that enable quick iterations, allowing users to experiment and improve models efficiently.",
+        "High-quality, photorealistic outputs that rival professional photography, reducing costs for businesses.",
+        "Secure data handling to protect user-uploaded images during the fine-tuning process.",
+        "Gallery and sharing options to showcase generated images and collaborate with teams."
+    ],
+    "faqs": [
+        {
+            "question": "What is Astria.ai primarily used for?",
+            "answer": "Astria.ai is used for fine-tuning AI models to generate custom images based on user-provided data, such as creating personalized visuals for products or faces."
+        },
+        {
+            "question": "How does the fine-tuning process work on Astria.ai?",
+            "answer": "Users upload a set of images, select training parameters, and the platform fine-tunes a Stable Diffusion model, which can then be used to generate new images via prompts."
+        },
+        {
+            "question": "Is Astria.ai suitable for beginners?",
+            "answer": "Yes, it features an intuitive interface that doesn't require AI expertise, making it accessible for beginners while offering advanced options for experts."
+        },
+        {
+            "question": "What kind of images can I generate with Astria.ai?",
+            "answer": "You can generate photorealistic images of faces, products, art, and more, customized to match the style and subjects from your training data."
+        },
+        {
+            "question": "Does Astria.ai offer API integration?",
+            "answer": "Yes, it provides API access to integrate custom models into your own applications for automated image generation."
+        },
+        {
+            "question": "How long does it take to train a model on Astria.ai?",
+            "answer": "Training typically takes a few minutes to hours depending on the dataset size, with fast processing to enable quick results."
+        },
+        {
+            "question": "What are the pricing options for Astria.ai?",
+            "answer": "Astria.ai offers pay-per-use pricing with credits, including a free tier for limited access and paid plans for more extensive usage."
+        },
+        {
+            "question": "Can I use Astria.ai for commercial purposes?",
+            "answer": "Yes, the platform supports commercial use, allowing businesses to generate images for marketing, e-commerce, and other professional needs."
+        },
+        {
+            "question": "Is my data secure on Astria.ai?",
+            "answer": "Astria.ai employs secure data handling practices to protect uploaded images, ensuring they are not used beyond the user's fine-tuning requests."
+        },
+        {
+            "question": "What AI model does Astria.ai use?",
+            "answer": "It primarily uses Stable Diffusion as the base model for fine-tuning, leveraging its capabilities for high-quality image generation."
+        }
+    ]
+}

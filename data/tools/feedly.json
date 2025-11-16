@@ -1,0 +1,57 @@
+{
+    "name": "Feedly",
+    "description": "Feedly is a news aggregator that curates personalized content feeds for individuals and teams to stay informed on topics that matter.",
+    "longDescription": "Feedly is a freemium news aggregator and RSS reader designed to help users organize and consume content from across the web. It serves individuals, cybersecurity teams, and market intelligence professionals by consolidating news, blogs, and social media updates into customizable feeds. With its AI-powered features, Feedly streamlines research by filtering noise, summarizing articles, and delivering actionable insights. The platform’s mission is to connect users with relevant knowledge to enhance personal and professional growth. It supports a range of users, from curious individuals to large enterprises, by offering tools for content curation, team collaboration, and automated intelligence gathering.",
+    "url": "https://www.feedly.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/feedly.com.webp",
+    "category": "AI For Data Analytics",
+    "categorySlug": "ai-for-data-analytics",
+    "slug": "feedly",
+    "categories": [
+        "AI For Data Analytics",
+        "AI Consulting",
+        "AI Customer Service",
+        "AI Meeting Assistant",
+        "AI Marketing"
+    ],
+    "features": [
+        "AI Feeds analyze millions of articles to deliver highly relevant content tailored to user-specified topics, saving time on research.",
+        "Team Boards enable collaborative content curation, allowing teams to prioritize and share insights efficiently.",
+        "Automated Newsletters compile key content from feeds or boards into customizable email digests for easy team updates.",
+        "RSS Builder lets users create custom feeds for websites without RSS, expanding content tracking capabilities.",
+        "Integrations with tools like Slack, Microsoft Teams, and Zapier streamline content sharing and workflow automation.",
+        "Article Summarization by Feedly AI condenses long articles into key points, enhancing reading efficiency.",
+        "Notes and Highlights allow users to annotate articles and tag teammates, fostering collaboration and insight retention.",
+        "Threat Intelligence AI Models track cybersecurity threats, vulnerabilities, and actors, supporting faster analysis for security teams."
+    ],
+    "faqs": [
+        {
+            "question": "What is Feedly used for?",
+            "answer": "Feedly is used to aggregate and organize news, blogs, and social media content into personalized feeds for individual learning or team research."
+        },
+        {
+            "question": "Does Feedly offer a free plan?",
+            "answer": "Yes, Feedly offers a free plan with basic features, allowing users to follow up to 100 sources and create three feeds."
+        },
+        {
+            "question": "How does Feedly AI work?",
+            "answer": "Feedly AI uses machine learning to analyze content, prioritize relevant articles, summarize key points, and extract metadata like CVEs for targeted insights."
+        },
+        {
+            "question": "Can Feedly integrate with other tools?",
+            "answer": "Feedly integrates with platforms like Slack, Microsoft Teams, Zapier, and more to enhance content sharing and workflow automation."
+        },
+        {
+            "question": "What’s the difference between Feedly Pro and Pro+ plans?",
+            "answer": "The Pro+ plan includes all Pro features plus advanced AI Feeds and RSS Builder, offering more powerful content filtering and customization."
+        },
+        {
+            "question": "Is Feedly suitable for team collaboration?",
+            "answer": "Yes, Feedly’s Business and Enterprise plans offer Team Boards, shared feeds, and newsletters to support collaborative research and intelligence sharing."
+        },
+        {
+            "question": "Does Feedly support mobile devices?",
+            "answer": "Feedly is available as a mobile app for iOS and Android, syncing feeds and reading habits across devices for on-the-go access."
+        }
+    ]
+}

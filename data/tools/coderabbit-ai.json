@@ -1,0 +1,63 @@
+{
+    "name": "CodeRabbit",
+    "description": "CodeRabbit is an AI-powered code review platform that automates feedback on pull requests to enhance code quality and accelerate development.",
+    "longDescription": "CodeRabbit is an AI-driven code review tool designed to streamline software development by providing context-aware, line-by-line feedback on pull requests within minutes. It integrates seamlessly with Git platforms like GitHub, GitLab, and Bitbucket, reducing the manual effort required for code reviews. By leveraging advanced AI models, including Claude, it catches over 90% of bugs before production, improves code quality, and speeds up development cycles. The platform supports all programming languages, learns from user interactions, and offers customizable review settings to align with team preferences. Its mission is to empower developers to ship better code faster while maintaining high standards of quality and security. CodeRabbit also prioritizes data privacy with SOC2 Type II and GDPR compliance, ensuring secure handling of codebases.",
+    "url": "https://www.coderabbit.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.coderabbit.ai.webp",
+    "category": "AI Code Review",
+    "categorySlug": "ai-code-review",
+    "slug": "coderabbit-ai",
+    "categories": [
+        "AI Code Review",
+        "AI Response Generator",
+        "AI Assistant",
+        "AI Productivity Tools",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Line-by-line code reviews provide senior developer-level feedback, catching bugs and suggesting improvements directly in pull requests.",
+        "Automated pull request summaries and walkthroughs simplify understanding changes, saving time for reviewers and developers.",
+        "Real-time chat with the AI bot allows developers to ask questions, provide context, or generate code within the Git platform.",
+        "Integration with GitHub, GitLab, Bitbucket, and Azure DevOps ensures seamless adoption into existing workflows.",
+        "Support for all programming languages, with varying proficiency based on training data, ensures broad applicability.",
+        "Customizable review settings via a .coderabbit.yaml file allow teams to tailor AI feedback to their coding standards.",
+        "One-click fix suggestions enable quick incorporation of AI-recommended changes into the codebase.",
+        "Security analysis and linter integration, including tools like ESLint and Ruff, enhance code safety and quality.",
+        "Real-time web queries provide up-to-date suggestions by incorporating the latest documentation and best practices.",
+        "Ephemeral review environments and end-to-end encryption ensure code privacy with no data retention post-review."
+    ],
+    "faqs": [
+        {
+            "question": "What is CodeRabbit?",
+            "answer": "CodeRabbit is an AI-powered tool that automates code reviews, providing context-aware feedback on pull requests to improve code quality and reduce manual effort."
+        },
+        {
+            "question": "Does CodeRabbit offer a free plan?",
+            "answer": "Yes, CodeRabbit is free for open-source projects and offers a 14-day free trial for private repositories with no credit card required."
+        },
+        {
+            "question": "Which platforms does CodeRabbit integrate with?",
+            "answer": "CodeRabbit integrates with GitHub, GitLab, Bitbucket, and Azure DevOps, providing automated reviews directly in these platforms."
+        },
+        {
+            "question": "How does CodeRabbit ensure data privacy?",
+            "answer": "CodeRabbit uses SOC2 Type II and GDPR-compliant practices, with ephemeral environments and end-to-end encryption, and does not store code post-review."
+        },
+        {
+            "question": "Can CodeRabbit review code in any programming language?",
+            "answer": "Yes, it supports all programming languages, though proficiency may vary based on the availability of public training data."
+        },
+        {
+            "question": "How can I customize CodeRabbit’s review settings?",
+            "answer": "Teams can customize reviews by adding a .coderabbit.yaml file to their repository or adjusting preferences via the CodeRabbit web UI."
+        },
+        {
+            "question": "Does CodeRabbit learn from user feedback?",
+            "answer": "Yes, CodeRabbit adapts to team preferences through interactions, improving its suggestions based on user feedback and repository-specific rules."
+        },
+        {
+            "question": "How does CodeRabbit handle untrusted code?",
+            "answer": "CodeRabbit uses sandboxed Cloud Run instances with minimal permissions and Jailkit to securely execute untrusted code during reviews."
+        }
+    ]
+}

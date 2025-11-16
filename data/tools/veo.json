@@ -1,0 +1,58 @@
+{
+    "name": "Veo",
+    "description": "Veo provides AI-powered sports video recording and analysis solutions for teams and athletes.",
+    "longDescription": "Veo is a sports technology platform that offers automated video recording and analysis tools to help teams, coaches, and athletes improve performance. Using AI-driven cameras, Veo captures games and practices without the need for a dedicated camera operator, making professional-grade video accessible to amateur and youth sports teams. The platform provides features like highlight reels, performance analytics, and live streaming, enabling users to review and share key moments. Veo aims to democratize sports video analysis, traditionally reserved for elite teams, by offering an easy-to-use, scalable solution. Its mission is to empower athletes and coaches worldwide with data-driven insights to enhance training and strategy. The service is particularly popular in sports like soccer, basketball, and rugby.",
+    "url": "https://www.veo.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.veo.co.webp",
+    "category": "AI Sports",
+    "categorySlug": "ai-sports",
+    "slug": "veo",
+    "categories": [
+        "AI Video Recording",
+        "AI For Data Analytics",
+        "AI Video Summarizer",
+        "AI Sports"
+    ],
+    "features": [
+        "Veo’s AI-powered camera automatically records sports games, eliminating the need for a manual operator.",
+        "The platform generates highlight clips from games, allowing coaches and players to focus on key moments.",
+        "Advanced analytics provide performance metrics, such as player movement and ball tracking, to optimize strategies.",
+        "Live streaming capabilities enable real-time viewing for fans, scouts, or remote coaches.",
+        "The cloud-based platform allows users to store, edit, and share videos securely with team members.",
+        "Veo’s mobile app provides easy access to footage and analytics on the go for coaches and players.",
+        "Customizable video tagging helps users mark specific events or plays for detailed review.",
+        "The system supports multiple sports, including soccer, basketball, rugby, and field hockey, with tailored analysis tools.",
+        "Portable camera hardware is lightweight and easy to set up at any sports venue.",
+        "Integration with third-party platforms like Hudl enhances compatibility for advanced analysis workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What sports does Veo support?",
+            "answer": "Veo supports a variety of sports, including soccer, basketball, rugby, field hockey, and more, with sport-specific analytics."
+        },
+        {
+            "question": "Do I need a camera operator to use Veo?",
+            "answer": "No, Veo’s AI-powered camera automatically follows the action, eliminating the need for a dedicated operator."
+        },
+        {
+            "question": "Is Veo suitable for amateur teams?",
+            "answer": "Yes, Veo is designed for teams at all levels, from youth and amateur to professional, with accessible pricing plans."
+        },
+        {
+            "question": "Can I live stream games with Veo?",
+            "answer": "Yes, Veo offers live streaming capabilities, allowing fans or coaches to watch games in real time from anywhere."
+        },
+        {
+            "question": "How does Veo’s video analysis work?",
+            "answer": "Veo’s AI analyzes footage to create highlight clips, track player movements, and provide performance metrics for strategic insights."
+        },
+        {
+            "question": "Is the Veo camera easy to set up?",
+            "answer": "Yes, the Veo camera is portable, lightweight, and designed for quick setup at any sports venue."
+        },
+        {
+            "question": "Can I integrate Veo with other platforms?",
+            "answer": "Veo integrates with platforms like Hudl to enhance video analysis and sharing capabilities."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "title": "The Best 11 AI Monitor Tools in 2025",
+    "summary": "Discover the power of AI Monitor tools, designed to enhance your data oversight and decision-making processes. These innovative solutions provide real-time insights, performance tracking, and predictive analytics, empowering you to stay ahead in a fast-paced digital landscape. Whether you're managing projects, monitoring social media, or analyzing market trends, AI Monitor tools streamline your workflow and improve efficiency. Explore our curated selection of cutting-edge tools today and unlock the potential of AI to transform your monitoring capabilities!",
+    "tools": [
+        {
+            "id": "702",
+            "name": "Browse AI",
+            "slug": "browse-ai",
+            "description": "Browse AI is a no-code platform for automating web data extraction and monitoring from any website.",
+            "icon": "/logo/www.browse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "919",
+            "name": "Lakera",
+            "slug": "lakera-ai",
+            "description": "Lakera is an AI security platform that protects generative AI applications from adversarial threats like prompt injections and ensures safe, compliant AI deployments.",
+            "icon": "/logo/www.lakera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "942",
+            "name": "Arize",
+            "slug": "arize",
+            "description": "Arize is a machine learning observability platform that helps teams monitor, troubleshoot, and improve AI models in production.",
+            "icon": "/logo/arize.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1004",
+            "name": "Applitools",
+            "slug": "applitools",
+            "description": "Applitools provides AI-powered visual testing and monitoring solutions to ensure flawless digital experiences across web and mobile applications.",
+            "icon": "/logo/applitools.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1051",
+            "name": "SuperAGI",
+            "slug": "superagi",
+            "description": "SuperAGI is an open-source platform for building, managing, and running autonomous AI agents to automate complex tasks across various domains.",
+            "icon": "/logo/superagi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1200",
+            "name": "Helicone",
+            "slug": "helicone-ai",
+            "description": "Helicone is an open-source LLM observability platform that enables developers to monitor, debug, and optimize their AI applications efficiently.",
+            "icon": "/logo/www.helicone.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1254",
+            "name": "Omnara",
+            "slug": "omnara",
+            "description": "Omnara is a real-time command center for monitoring, managing, and collaborating with AI agents across terminal, web, and mobile platforms.",
+            "icon": "/logo/omnara.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1310",
+            "name": "Relyable",
+            "slug": "relyable-ai",
+            "description": "Relyable is a simulation and monitoring platform for testing and evaluating AI voice agents to ensure high performance.",
+            "icon": "/logo/www.relyable.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1375",
+            "name": "RunAleph",
+            "slug": "runaleph",
+            "description": "RunAleph is a platform designed for running and deploying AI models in a decentralized computing environment.",
+            "icon": "/logo/runaleph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        },
+        {
+            "id": "1403",
+            "name": "Webhookify",
+            "slug": "webhookify",
+            "description": "Webhookify is a user-friendly platform for creating, testing, and managing webhook endpoints without coding.",
+            "icon": "/logo/webhookify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-monitor"
+            ]
+        }
+    ]
+}

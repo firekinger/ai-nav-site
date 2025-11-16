@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI Song Generator Tools in 2025",
+    "summary": "Unlock your musical creativity with our AI Song Generator category! These innovative tools empower users to effortlessly create original melodies and lyrics, perfect for musicians, content creators, and hobbyists alike. Experience the benefits of instant inspiration, personalized compositions, and time-saving solutions that cater to your unique style. Whether you're a seasoned artist or just starting out, our AI song generators are designed to elevate your music-making process. Dive in and explore the transformative potential of AI in music creation today!",
+    "tools": [
+        {
+            "id": "628",
+            "name": "AIMusicGen.ai",
+            "slug": "aimusicgen-ai",
+            "description": "AIMusicGen.ai is an AI-powered platform that instantly transforms text or lyrics into high-quality, royalty-free songs.",
+            "icon": "/logo/aimusicgen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "688",
+            "name": "AI Song Generator",
+            "slug": "ai-song-generator",
+            "description": "AI Song Generator is a free online tool that uses AI to create custom songs from text prompts or lyrics.",
+            "icon": "/logo/aisonggenerator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "855",
+            "name": "ILoveSong.ai",
+            "slug": "ilovesong-ai",
+            "description": "ILoveSong.ai is an AI-driven platform that generates personalized songs and music based on user prompts and preferences.",
+            "icon": "/logo/ilovesong.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "883",
+            "name": "Melobytes",
+            "slug": "melobytes",
+            "description": "Melobytes is an innovative online platform providing a wide array of AI-powered tools for creative content generation in music, audio, images, and more.",
+            "icon": "/logo/melobytes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "977",
+            "name": "Suno",
+            "slug": "suno-ai",
+            "description": "Suno is an AI-powered platform that enables users to generate original music and songs from text prompts.",
+            "icon": "/logo/sunoai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "1000",
+            "name": "Ryne AI",
+            "slug": "ryne-ai",
+            "description": "Ryne AI is an innovative platform that uses artificial intelligence to generate rhymes, lyrics, and creative writing content for users in music and poetry.",
+            "icon": "/logo/ryne.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "1188",
+            "name": "LyricStudio",
+            "slug": "lyricstudio",
+            "description": "LyricStudio is an AI-powered platform designed to help songwriters generate creative lyrics, overcome writer's block, and streamline the songwriting process.",
+            "icon": "/logo/lyricstudio.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        },
+        {
+            "id": "1280",
+            "name": "SongAgent",
+            "slug": "songagent",
+            "description": "SongAgent is an AI-powered platform designed to assist musicians in creating, editing, and learning songs through intelligent tools.",
+            "icon": "/logo/songagent.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-song-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Voiceflow",
+    "description": "Voiceflow is a collaborative platform for teams to design, develop, and launch AI-powered chat and voice agents at scale.",
+    "longDescription": "Voiceflow is a leading conversational AI platform that enables product teams to collaboratively design, build, and deploy advanced AI agents for customer support, e-commerce, and other use cases. Founded in 2018, it addresses the limitations of legacy chatbot tools by offering a flexible, developer-friendly environment that integrates with various LLMs and APIs. The platform supports both non-technical designers and developers, fostering seamless collaboration through visual workflows and reusable components. Its mission is to empower ambitious teams to create scalable, impactful AI-driven customer experiences. Voiceflow serves industries like finance, travel, and consumer technology, helping businesses automate interactions and improve customer satisfaction. By bridging the gap between design and development, it ensures high-quality, contextually relevant AI agents.",
+    "url": "https://www.voiceflow.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.voiceflow.com.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "voiceflow",
+    "categories": [
+        "AI Chat Generator",
+        "AI Agent",
+        "AI Customer Service",
+        "AI API",
+        "AI Knowledge Management",
+        "Large Language Models (LLMs)",
+        "AI Shopping Assistant",
+        "AI Workflow",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Visual Workflow Builder allows teams to design AI agent logic using an intuitive drag-and-drop interface, simplifying complex conversation flows.",
+        "Knowledge Base Integration enables agents to respond with curated, accurate data by training on user-uploaded documents or web content.",
+        "Custom API Integrations let developers connect AI agents to third-party services like Shopify, Salesforce, or Zendesk for enhanced functionality.",
+        "Multi-LLM Support allows users to choose or switch between AI models like GPT-4, Claude, or custom LLMs, ensuring flexibility and reliability.",
+        "Reusable Components streamline chatbot development by enabling teams to reuse conversation flows across multiple agents, saving time.",
+        "Real-Time Testing provides 1:1 agent testing within the platform, allowing stakeholders to validate functionality before deployment.",
+        "Community Apps extend Voiceflow’s capabilities with integrations like Flowbridge for WhatsApp or Voiceglow for customizable web chat widgets.",
+        "Function Library offers pre-built, reusable JavaScript functions to connect with tools like Hubspot or Airtable, enhancing automation.",
+        "Analytics Tracking enables monitoring of agent interactions via integrations with tools like Segment for performance analysis.",
+        "Scalable Workspaces organize agent content and team collaboration, supporting enterprise-level deployment across multiple use cases."
+    ],
+    "faqs": [
+        {
+            "question": "What is Voiceflow used for?",
+            "answer": "Voiceflow is used to design, develop, and launch AI-powered chat and voice agents for automating customer experiences in industries like e-commerce, finance, and support."
+        },
+        {
+            "question": "Does Voiceflow offer a free plan?",
+            "answer": "Yes, Voiceflow provides a free plan with 50 knowledge base sources, 2 agents, and up to 100 monthly AI tokens, suitable for testing the platform."
+        },
+        {
+            "question": "Can Voiceflow integrate with other tools?",
+            "answer": "Voiceflow supports integrations with tools like Shopify, Salesforce, and Zendesk through its API and Function Library, enabling seamless connectivity."
+        },
+        {
+            "question": "Is coding required to use Voiceflow?",
+            "answer": "No coding is required for basic use, as Voiceflow offers a visual interface, but developers can use JavaScript for advanced customizations."
+        },
+        {
+            "question": "What AI models does Voiceflow support?",
+            "answer": "Voiceflow supports multiple LLMs, including GPT-4, Claude, Llama, and custom models, with a fallback feature to handle outages."
+        },
+        {
+            "question": "How does Voiceflow ensure accurate agent responses?",
+            "answer": "Voiceflow’s Knowledge Base allows agents to be trained on curated data, ensuring contextually relevant and accurate responses."
+        },
+        {
+            "question": "Can Voiceflow agents handle complex customer queries?",
+            "answer": "Yes, Voiceflow agents can manage complex Level 2 and 3 tickets by integrating custom logic, APIs, and human handover capabilities."
+        },
+        {
+            "question": "Is Voiceflow suitable for enterprise teams?",
+            "answer": "Voiceflow is designed for enterprise use, offering secure, scalable workspaces and advanced features for large-scale AI agent deployment."
+        },
+        {
+            "question": "How can I test my Voiceflow agent?",
+            "answer": "Voiceflow provides real-time testing within the platform, allowing users to simulate interactions and share with stakeholders for feedback."
+        }
+    ]
+}

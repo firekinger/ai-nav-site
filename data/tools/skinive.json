@@ -1,0 +1,59 @@
+{
+    "name": "Skinive",
+    "description": "Skinive is an AI-powered platform that enables users to analyze skin conditions using smartphone photos for early detection and health monitoring.",
+    "longDescription": "Skinive is a mobile and web-based application that leverages artificial intelligence to help users identify potential skin diseases and conditions by analyzing photos taken with their devices. Its mission is to make dermatological assessments more accessible, allowing individuals to monitor their skin health without immediate need for professional consultations, while promoting early detection to prevent serious issues. The platform serves everyday users concerned about moles, rashes, acne, or other skin abnormalities, as well as supporting dermatologists with AI-assisted tools. By solving the problem of limited access to skin specialists, especially in remote areas, Skinive empowers users with actionable insights and recommendations for when to seek medical advice. Overall, it combines computer vision and machine learning to provide reliable, user-friendly skin health solutions.",
+    "url": "https://skinive.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/skinive.com.webp",
+    "category": "AI Dermatology",
+    "categorySlug": "ai-dermatology",
+    "slug": "skinive",
+    "categories": [
+        "AI Dermatology",
+        "AI Medical Diagnosis",
+        "AI Healthcare"
+    ],
+    "features": [
+        "AI-driven skin analysis scans photos to detect over 50 common skin conditions, providing users with instant risk assessments and peace of mind.",
+        "The app offers tracking of skin changes over time, helping users monitor moles or lesions for any developments that might require attention.",
+        "Users receive personalized recommendations, such as when to consult a doctor or suggested skincare routines based on the analysis results.",
+        "Integration with telemedicine services allows seamless connection to dermatologists for further evaluation directly from the app.",
+        "A user-friendly interface enables easy photo uploads and history viewing, making skin health management accessible for non-experts.",
+        "The platform includes educational resources on skin conditions, empowering users with knowledge to better understand their health.",
+        "Premium features unlock unlimited scans and advanced analytics, enhancing the depth of insights for frequent users.",
+        "Data privacy is prioritized with secure storage and compliance with health data regulations, ensuring user trust."
+    ],
+    "faqs": [
+        {
+            "question": "What is Skinive and how does it work?",
+            "answer": "Skinive is an AI app for skin health analysis. Users take photos of their skin, and the AI analyzes them to detect potential conditions like acne or melanoma risks."
+        },
+        {
+            "question": "Is Skinive a replacement for a doctor?",
+            "answer": "No, Skinive is not a substitute for professional medical advice. It provides preliminary assessments to help users decide when to see a dermatologist."
+        },
+        {
+            "question": "How accurate is Skinive's AI analysis?",
+            "answer": "Skinive's AI is trained on extensive dermatological data and achieves high accuracy for common conditions. However, results should be verified by a healthcare professional."
+        },
+        {
+            "question": "Does Skinive offer free access?",
+            "answer": "Yes, Skinive provides free basic scans with limited features. Premium subscriptions unlock unlimited analyses and additional tools."
+        },
+        {
+            "question": "What devices is Skinive compatible with?",
+            "answer": "Skinive is available as a mobile app for iOS and Android devices. It can also be accessed via the website for basic functionalities."
+        },
+        {
+            "question": "How does Skinive protect user privacy?",
+            "answer": "Skinive uses encryption and complies with GDPR and HIPAA standards to secure user data. Photos and results are stored privately and not shared without consent."
+        },
+        {
+            "question": "Can Skinive track skin changes over time?",
+            "answer": "Yes, the app allows users to save and compare photos over time. This feature helps in monitoring evolving conditions like moles."
+        },
+        {
+            "question": "What skin conditions can Skinive detect?",
+            "answer": "Skinive can identify a range of issues including acne, eczema, psoriasis, and potential skin cancers. It covers over 50 common dermatological conditions."
+        }
+    ]
+}

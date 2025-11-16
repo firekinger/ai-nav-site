@@ -1,0 +1,63 @@
+{
+    "name": "ILoveSong.ai",
+    "description": "ILoveSong.ai is an AI-driven platform that generates personalized songs and music based on user prompts and preferences.",
+    "longDescription": "ILoveSong.ai is an innovative website that leverages artificial intelligence to create custom songs for various occasions, such as birthdays, anniversaries, or personal expressions of love. Its mission is to make music creation accessible to everyone, regardless of musical expertise, by transforming simple text inputs into fully composed tracks. The platform solves the problem of needing professional skills or equipment to produce original music, allowing users to generate unique songs quickly and easily. It serves users by providing a fun, creative outlet for personalization, whether for gifts, social media, or entertainment. Overall, ILoveSong.ai democratizes music production through AI, fostering creativity and emotional connection through tailored audio experiences.",
+    "url": "https://ilovesong.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ilovesong.ai.webp",
+    "category": "AI Song Generator",
+    "categorySlug": "ai-song-generator",
+    "slug": "ilovesong-ai",
+    "categories": [
+        "AI Song Generator",
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Love Letter Generator",
+        "AI Speech Synthesis",
+        "AI Social Media Post Generator",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "AI-powered song generation that creates original music from user-provided lyrics or prompts, enabling effortless customization.",
+        "Variety of music genres and styles to choose from, allowing users to match the song to their desired mood or theme.",
+        "Personalization options for adding specific details like names, events, or emotions to make songs uniquely meaningful.",
+        "High-quality audio output with vocals, instruments, and production, delivering professional-sounding results without expertise.",
+        "Easy sharing features to download or distribute generated songs via social media or email for immediate use.",
+        "User-friendly interface that guides beginners through the song creation process in just a few steps.",
+        "Integration with prompts for love-themed or romantic songs, aligning with the site's name and focus.",
+        "Option to iterate and refine songs based on feedback, improving the final output iteratively."
+    ],
+    "faqs": [
+        {
+            "question": "What is ILoveSong.ai?",
+            "answer": "ILoveSong.ai is an AI platform that generates custom songs based on user inputs. It uses advanced algorithms to compose music and lyrics tailored to your specifications."
+        },
+        {
+            "question": "How do I create a song on the site?",
+            "answer": "Simply enter a prompt, select a genre, and provide any personalization details. The AI will generate the song in minutes, which you can then download or share."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, ILoveSong.ai offers a free plan with limited generations per month. Upgrading to premium unlocks unlimited access and advanced features."
+        },
+        {
+            "question": "What genres of music can I generate?",
+            "answer": "The platform supports a wide range including pop, rock, hip-hop, ballad, and more. You can choose or let the AI suggest based on your prompt."
+        },
+        {
+            "question": "Can I use the generated songs commercially?",
+            "answer": "Songs generated on the free plan are for personal use only. Premium users may have rights for commercial use, but check the terms for specifics."
+        },
+        {
+            "question": "How accurate is the AI in matching my prompt?",
+            "answer": "The AI is designed to closely follow your inputs, but results can vary. You can regenerate or edit prompts for better alignment."
+        },
+        {
+            "question": "Is my data secure on ILoveSong.ai?",
+            "answer": "Yes, the site uses encryption and follows privacy standards to protect user data and generated content."
+        },
+        {
+            "question": "Can I request custom vocals or instruments?",
+            "answer": "Advanced options allow selection of vocal styles and instruments. Premium features may include more customization like voice cloning."
+        }
+    ]
+}

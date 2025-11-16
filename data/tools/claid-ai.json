@@ -1,0 +1,63 @@
+{
+    "name": "Claid.ai",
+    "description": "Claid.ai is an AI-powered platform that enhances product photography for e-commerce by automating image editing and generation.",
+    "longDescription": "Claid.ai is an advanced AI-driven platform designed to streamline product photography for e-commerce businesses by automating image enhancement, background removal, and content generation. Its mission is to empower marketplaces and retailers to create high-quality, consistent visuals that boost conversion rates and improve customer engagement. The platform uses cutting-edge computer vision and generative AI to transform user-generated or basic product images into professional-grade visuals in seconds. By offering seamless API integration, Claid.ai enables businesses to scale image processing workflows efficiently, saving time and reducing costs. It serves over 10,000 businesses globally, including marketplaces like Rappi, by enhancing user-generated content and ensuring brand consistency. The platform is user-friendly, requiring no advanced technical skills, making it accessible for marketers, entrepreneurs, and photographers.",
+    "url": "https://claid.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/claid.ai.webp",
+    "category": "AI Product Photography",
+    "categorySlug": "ai-product-photography",
+    "slug": "claid-ai",
+    "categories": [
+        "AI Product Photography",
+        "AI Colorize",
+        "AI API",
+        "AI Creative Writing",
+        "AI Shopping Assistant"
+    ],
+    "features": [
+        "AI-powered background removal isolates products for versatile use on any canvas, enhancing visual appeal.",
+        "Image upscaling increases resolution without quality loss, improving clarity for high-conversion product visuals.",
+        "AI color correction adjusts lighting and vibrancy to create professional-grade images that align with brand aesthetics.",
+        "Smart Frame automatically aligns and formats images to meet e-commerce platform standards, ensuring catalog consistency.",
+        "Generative AI creates unique product scenes from text prompts, enabling customized marketing visuals.",
+        "API integration allows seamless automation of image workflows, saving time for large-scale operations.",
+        "Face restoration enhances details in portraits, improving quality for user-generated or low-resolution images.",
+        "Catalog standardization ensures uniform backgrounds and sizing, optimizing images for multiple platforms.",
+        "HDR application enhances dynamic range in dark or overexposed images, improving visual quality.",
+        "AI fashion models transform apparel photos into professional on-model shots without traditional photoshoots."
+    ],
+    "faqs": [
+        {
+            "question": "What is Claid.ai used for?",
+            "answer": "Claid.ai is used to enhance and automate product photography for e-commerce, offering tools for background removal, image upscaling, and color correction to create professional visuals."
+        },
+        {
+            "question": "Does Claid.ai offer a free plan?",
+            "answer": "Yes, Claid.ai provides a free trial that includes 50 API credits and access to core features with some limitations."
+        },
+        {
+            "question": "Can Claid.ai integrate with existing systems?",
+            "answer": "Claid.ai offers a robust API for easy integration with platforms like Shopify, WordPress, or custom systems, streamlining image processing workflows."
+        },
+        {
+            "question": "Does Claid.ai require technical expertise to use?",
+            "answer": "No, Claid.ai is designed to be user-friendly, allowing users without Photoshop or technical skills to achieve professional results."
+        },
+        {
+            "question": "Can Claid.ai enlarge images without quality loss?",
+            "answer": "Yes, Claid.ai’s upscaling feature increases image resolution while maintaining clarity, resulting in a reported 65% boost in conversion rates."
+        },
+        {
+            "question": "Are images edited by Claid.ai subject to copyright?",
+            "answer": "No, images generated or edited using Claid.ai are not subject to Claid.ai copyright, giving users full ownership."
+        },
+        {
+            "question": "How does Claid.ai improve e-commerce conversions?",
+            "answer": "Claid.ai enhances image quality and consistency, leading to a reported 65% increase in conversion rates and 10% higher purchase intent."
+        },
+        {
+            "question": "Can Claid.ai generate custom backgrounds?",
+            "answer": "Yes, Claid.ai’s generative AI can create unique, brand-aligned backgrounds based on text prompts, enhancing product visuals."
+        }
+    ]
+}

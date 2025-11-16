@@ -1,0 +1,74 @@
+{
+    "name": "Botika",
+    "description": "Botika is an AI-powered platform specializing in conversational AI and chatbots for enhancing customer service and business automation.",
+    "longDescription": "Botika is a leading conversational AI platform based in Indonesia, designed to help businesses create intelligent chatbots and virtual assistants. Its mission is to streamline customer interactions, automate support processes, and improve engagement through natural language processing. The platform serves users by integrating with popular messaging apps like WhatsApp, Telegram, and LINE, enabling seamless omnichannel communication. It solves problems such as high customer service costs and response delays by providing 24/7 automated assistance. Botika leverages advanced AI models to understand and respond to queries in multiple languages, with a focus on Indonesian markets. Overall, it empowers businesses to scale their operations efficiently while delivering personalized user experiences.",
+    "url": "https://botika.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/botika.io.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "botika",
+    "categories": [
+        "AI Chat Generator",
+        "AI Customer Service",
+        "AI Language Learning",
+        "AI Translate",
+        "AI For Data Analytics",
+        "AI Workflow",
+        "AI Assistant",
+        "AI Chatbot"
+    ],
+    "features": [
+        "Botika offers omnichannel integration, allowing chatbots to operate across platforms like WhatsApp, Telegram, and web interfaces for unified customer engagement.",
+        "The platform provides natural language understanding (NLU) powered by AI models, enabling chatbots to comprehend and respond to complex user queries accurately.",
+        "Users can customize chatbot flows with a drag-and-drop builder, simplifying the creation of tailored conversational experiences without coding expertise.",
+        "Botika includes analytics and reporting tools that track chatbot performance, user interactions, and insights to optimize business strategies.",
+        "It supports multilingual capabilities, particularly for Indonesian and English, ensuring effective communication in diverse markets.",
+        "The platform features seamless handover to human agents when needed, blending AI automation with human support for better resolution.",
+        "Botika provides pre-built templates for common industries like e-commerce and banking, accelerating deployment for specific use cases.",
+        "Security features such as data encryption and compliance with privacy standards protect user information during interactions.",
+        "Integration with CRM systems and APIs allows businesses to connect chatbots with existing tools for enhanced data synchronization.",
+        "Real-time monitoring and alerts enable administrators to oversee chatbot operations and intervene promptly if issues arise."
+    ],
+    "faqs": [
+        {
+            "question": "What is Botika primarily used for?",
+            "answer": "Botika is used to build and deploy AI-powered chatbots for customer service, sales, and automation in businesses. It helps streamline interactions and reduce operational costs."
+        },
+        {
+            "question": "Does Botika support multiple languages?",
+            "answer": "Yes, Botika supports multiple languages, with a strong focus on Indonesian and English. This allows businesses to cater to diverse customer bases effectively."
+        },
+        {
+            "question": "Is there a free trial available for Botika?",
+            "answer": "Botika offers a free trial period for new users to test its core features. This limited access helps evaluate the platform before committing to a paid plan."
+        },
+        {
+            "question": "How does Botika integrate with other apps?",
+            "answer": "Botika integrates with popular messaging platforms like WhatsApp, Telegram, and LINE, as well as CRM systems via APIs. This ensures seamless data flow and omnichannel support."
+        },
+        {
+            "question": "Can non-technical users build chatbots on Botika?",
+            "answer": "Yes, Botika's drag-and-drop builder allows non-technical users to create and customize chatbots easily. No advanced coding skills are required for basic setups."
+        },
+        {
+            "question": "What industries benefit most from Botika?",
+            "answer": "Industries like e-commerce, banking, healthcare, and customer support benefit greatly from Botika. It automates routine tasks and enhances user engagement in these sectors."
+        },
+        {
+            "question": "How secure is Botika for handling customer data?",
+            "answer": "Botika employs data encryption and complies with privacy regulations to secure customer information. Regular security updates ensure protection against potential threats."
+        },
+        {
+            "question": "Does Botika use advanced AI like GPT?",
+            "answer": "Yes, Botika leverages advanced AI models similar to GPT for natural language processing. This enables more intelligent and context-aware conversations."
+        },
+        {
+            "question": "Can Botika handle high-volume queries?",
+            "answer": "Botika is scalable and can manage high volumes of queries efficiently. Its cloud-based infrastructure ensures reliable performance during peak times."
+        },
+        {
+            "question": "What analytics does Botika provide?",
+            "answer": "Botika offers detailed analytics on chatbot interactions, user engagement, and performance metrics. These insights help businesses refine their strategies."
+        }
+    ]
+}

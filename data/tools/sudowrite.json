@@ -1,0 +1,68 @@
+{
+    "name": "Sudowrite",
+    "description": "Sudowrite is an AI-powered writing assistant designed to help fiction writers overcome creative blocks and enhance their storytelling process.",
+    "longDescription": "Sudowrite is an AI-driven platform tailored specifically for fiction writers, offering tools to assist with brainstorming, drafting, and editing novels or screenplays. Founded by sci-fi authors Amit Gupta and James Yu, it leverages advanced language models like GPT-4, Claude, and the proprietary Muse model to generate contextually relevant text that aligns with a writer's style. The platform aims to break writer's block, maintain narrative consistency, and enhance creative output without replacing the human touch in storytelling. It supports writers of all levels, from beginners tackling blank page syndrome to experienced authors refining complex narratives. Sudowrite emphasizes a collaborative approach, acting as a creative partner rather than an autonomous writer, and is praised for its user-friendly interface and community-driven features.",
+    "url": "https://sudowrite.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sudowrite.com.webp",
+    "category": "AI Creative Writing",
+    "categorySlug": "ai-creative-writing",
+    "slug": "sudowrite",
+    "categories": [
+        "AI Creative Writing",
+        "AI Design Assistant",
+        "AI Writing Assistants",
+        "AI Story Generator",
+        "AI Writing",
+        "AI Plot Generator"
+    ],
+    "features": [
+        "Story Bible organizes character details, world rules, and timelines to ensure narrative consistency across a book or series.",
+        "Brainstorm feature generates creative ideas for characters, settings, and plot points to spark inspiration and overcome writer's block.",
+        "Write feature produces up to 300 words of prose in the user's voice, analyzing tone and plot to maintain coherence.",
+        "Describe mode creates vivid, sensory-rich descriptions based on keywords or sentences to enhance scene depth.",
+        "Rewrite tool offers targeted revisions to improve clarity, style, or tone while preserving the writer's intent.",
+        "Story Engine generates detailed outlines and scene drafts from a synopsis, guiding writers from idea to completed story.",
+        "Feedback feature provides AI-driven critiques, acting as a beta reader to suggest improvements and highlight strengths.",
+        "Expand feature fleshes out scenes with additional details to add richness and depth to the narrative.",
+        "Plugins allow users to access community-created tools for specialized tasks like writing spicy scenes or improving openings.",
+        "Style Matching analyzes a sample paragraph to generate text that mimics the user's unique writing voice."
+    ],
+    "faqs": [
+        {
+            "question": "What is Sudowrite designed for?",
+            "answer": "Sudowrite is designed to assist fiction writers in brainstorming, drafting, and editing novels or screenplays using AI-powered tools tailored to creative writing."
+        },
+        {
+            "question": "Does Sudowrite offer a free trial?",
+            "answer": "Yes, Sudowrite provides a free trial with approximately 10,000 AI credits, allowing users to test all features without a credit card."
+        },
+        {
+            "question": "Can Sudowrite plagiarize existing works?",
+            "answer": "Sudowrite generates original text by predicting words based on patterns, but it can reproduce familiar text if given verbatim inputs like popular book excerpts, which is against its terms of service."
+        },
+        {
+            "question": "What languages does Sudowrite support?",
+            "answer": "Sudowrite supports writing in nearly any language, matching the input language for suggestions, though some features may default to English if uncertain."
+        },
+        {
+            "question": "Does Sudowrite use my writing to train its models?",
+            "answer": "No, Sudowrite does not use your writing to train its AI models, though it incorporates user feedback to improve the platform."
+        },
+        {
+            "question": "Can Sudowrite write an entire novel for me?",
+            "answer": "Sudowrite is not meant to write complete novels autonomously but assists by generating ideas, drafts, and suggestions that writers refine to maintain their unique voice."
+        },
+        {
+            "question": "What AI models does Sudowrite use?",
+            "answer": "Sudowrite uses over two dozen models, including GPT-3.5, GPT-4, Claude, and its proprietary Muse model, optimized for fiction writing."
+        },
+        {
+            "question": "Is Sudowrite suitable for non-fiction writing?",
+            "answer": "Sudowrite is primarily designed for fiction, so it’s less suited for non-fiction tasks like blog posts or marketing copy."
+        },
+        {
+            "question": "How does the Story Engine feature work?",
+            "answer": "Story Engine takes a synopsis, genre, and tone to create a detailed outline and scene drafts, guiding writers step-by-step through the story creation process."
+        }
+    ]
+}

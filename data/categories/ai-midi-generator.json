@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Midi Generator Tools in 2025",
+    "summary": "Discover the world of AI Midi Generators, where creativity meets technology. These innovative tools empower musicians and producers to effortlessly create unique melodies, harmonies, and rhythms, streamlining the composition process. With features like customizable styles and real-time playback, you can enhance your musical projects and spark inspiration. Whether you're a seasoned artist or a budding creator, AI Midi Generators offer endless possibilities to elevate your sound. Explore our curated selection of tools today and unlock your musical potential!",
+    "tools": [
+        {
+            "id": "389",
+            "name": "Fadr",
+            "slug": "fadr",
+            "description": "Fadr is an AI-powered music creation platform for remixing, stem separation, and DJing.",
+            "icon": "/logo/fadr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-midi-generator"
+            ]
+        },
+        {
+            "id": "667",
+            "name": "AIVA",
+            "slug": "aiva",
+            "description": "AIVA is an AI-powered music generation platform that creates original compositions for various creative projects.",
+            "icon": "/logo/www.aiva.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-midi-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Audio Splitter Tools in 2025",
+    "summary": "Discover the power of AI Audio Splitters, designed to streamline your audio editing process. These innovative tools effortlessly separate audio tracks, allowing you to isolate vocals, instruments, or sound effects with precision. Whether you're a podcaster, musician, or content creator, AI Audio Splitters enhance your workflow, saving you time and improving your production quality. Explore our curated selection of top-notch AI Audio Splitters today and elevate your audio projects to new heights. Start transforming your sound with cutting-edge technology now!",
+    "tools": [
+        {
+            "id": "555",
+            "name": "FliFlik",
+            "slug": "fliflik",
+            "description": "FliFlik provides AI-powered multimedia software for editing and enhancing videos, audio, and images across multiple platforms.",
+            "icon": "/logo/fliflik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-audio-splitter"
+            ]
+        },
+        {
+            "id": "1441",
+            "name": "Vocal Remover",
+            "slug": "vocal-remover",
+            "description": "VocalRemover.org is an online tool that uses AI to separate vocals from music tracks, creating instrumentals, karaoke versions, and more.",
+            "icon": "/logo/vocalremover.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-audio-splitter"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Tweet Hunter",
+    "description": "Tweet Hunter is an AI-powered platform designed to help users grow and monetize their X (formerly Twitter) audience through content creation, scheduling, and analytics.",
+    "longDescription": "Tweet Hunter is an all-in-one, AI-driven tool that empowers content creators, marketers, and businesses to enhance their presence on X by streamlining content creation and audience engagement. Its mission is to simplify Twitter management, enabling users to build and monetize their audience efficiently. The platform leverages artificial intelligence to provide tweet suggestions, automate scheduling, and offer detailed analytics to optimize performance. By addressing challenges like manual content creation and engagement tracking, Tweet Hunter helps users save time and boost their online visibility. It serves a wide range of users, from individual influencers to digital marketing agencies, seeking to grow their X following effectively. The platform also integrates with other apps via Zapier to enhance workflow automation.",
+    "url": "https://tweethunter.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tweethunter.io.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "tweet-hunter",
+    "categories": [
+        "AI Writing",
+        "AI Tweet Generator",
+        "AI Social Media",
+        "AI Lead Generation",
+        "AI Scheduling",
+        "AI Marketing",
+        "AI Inspirational Quotes",
+        "AI CRM",
+        "AI Browsers"
+    ],
+    "features": [
+        "AI Tweet Generator creates high-quality, tailored tweet suggestions to boost engagement and save content creation time.",
+        "Auto-scheduling allows users to plan and queue up to 30 days of tweets in just 30 minutes for consistent posting.",
+        "Analytics Dashboard provides detailed insights into tweet performance to help users optimize their content strategy.",
+        "Auto-Plug feature turns viral tweets into lead magnets automatically, driving audience growth.",
+        "Content Inspiration tool identifies trending topics in a user’s niche to spark relevant tweet ideas.",
+        "TweetPik enables users to capture and share professional screenshots of tweets for promotional purposes.",
+        "Tweet Hunter X (formerly Twemex) browser extension enhances X browsing with a powerful sidebar for targeted searches and content discovery.",
+        "Auto-DM and Auto-Retweet features automate engagement with followers to maintain consistent interaction.",
+        "CRM Platform helps manage audience relationships and track interactions for better monetization opportunities.",
+        "Ghostwriting Services offer AI-assisted content creation to maintain a professional and engaging X presence."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tweet Hunter used for?",
+            "answer": "Tweet Hunter is an AI-powered tool designed to help users grow their X audience by automating content creation, scheduling tweets, and providing performance analytics."
+        },
+        {
+            "question": "Does Tweet Hunter offer a free plan?",
+            "answer": "Yes, Tweet Hunter offers a free plan with limited access to core features, allowing users to test its functionality before subscribing to a paid plan."
+        },
+        {
+            "question": "Can Tweet Hunter automate my tweets?",
+            "answer": "Yes, Tweet Hunter’s auto-scheduling and auto-retweet features allow users to plan and automate tweets for consistent posting and engagement."
+        },
+        {
+            "question": "Is Tweet Hunter safe to use with my X account?",
+            "answer": "Tweet Hunter is designed to comply with X’s policies, ensuring safe usage for managing and growing your account."
+        },
+        {
+            "question": "How does the AI Tweet Generator work?",
+            "answer": "The AI Tweet Generator analyzes trending topics and user preferences to suggest engaging, high-quality tweets tailored to your audience."
+        },
+        {
+            "question": "Can I integrate Tweet Hunter with other tools?",
+            "answer": "Yes, Tweet Hunter integrates with over 8,000 apps via Zapier, enabling seamless automation with tools like Discord, Pocket, and systeme.io."
+        },
+        {
+            "question": "Does Tweet Hunter support content for multiple X accounts?",
+            "answer": "Yes, Tweet Hunter allows users to manage multiple X accounts, streamlining content creation and scheduling across profiles."
+        },
+        {
+            "question": "What kind of analytics does Tweet Hunter provide?",
+            "answer": "Tweet Hunter offers detailed analytics on tweet performance, including engagement metrics, to help users refine their content strategy."
+        }
+    ]
+}

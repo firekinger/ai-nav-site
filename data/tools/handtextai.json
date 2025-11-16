@@ -1,0 +1,80 @@
+{
+    "name": "HandtextAI",
+    "description": "HandtextAI is an AI-powered platform that converts digital text into realistic, customizable handwritten documents.",
+    "longDescription": "HandtextAI is an online tool that transforms text into handwritten documents using AI technology. It allows users to convert PDF, DOCX, and other documents into handwriting with customizable options. The platform offers 90 handwriting fonts, various paper styles, and effects to create authentic-looking notes, letters, and assignments. It serves students, professionals, and organizations by providing a quick and realistic handwriting generation service. By leveraging AI, it solves the problem of needing handwritten documents without the time-consuming manual writing.",
+    "url": "https://handtextai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/handtextai.com.webp",
+    "category": "Text to Handwriting",
+    "categorySlug": "text-to-handwriting",
+    "slug": "handtextai",
+    "categories": [
+        "Text to Handwriting",
+        "AI Font Generator",
+        "AI Document Extraction",
+        "AI PDF",
+        "AI Realistic Image Generator",
+        "AI Math",
+        "AI Room Planner",
+        "AI Writing Assistants",
+        "AI Texture Generator"
+    ],
+    "features": [
+        "Simulates natural handwritten text with genuine variations for authenticity.",
+        "Offers multiple backgrounds with various paper styles and textures for customization.",
+        "Allows users to upload custom fonts to use their own handwriting.",
+        "Supports multi-page documents for creating longer handwritten content effortlessly.",
+        "Provides advanced typography options to fine-tune letter spacing, size, and alignment.",
+        "Adds visual effects like blur, shading, and shadows for enhanced realism.",
+        "Generates authentic-looking printed documents and notes.",
+        "Enables saving work as PDF or image files for easy sharing.",
+        "Imports PDF, DOCX, and other document types for conversion to handwriting.",
+        "Includes 90 handwriting fonts for diverse style options.",
+        "Supports tables to include and customize within documents.",
+        "Allows adding shapes to enhance notes with handwritten elements.",
+        "Generates realistic cursive handwriting from text input.",
+        "Features an AI-powered writing assistant for essays and homework.",
+        "Generates handwritten math equations and expressions."
+    ],
+    "faqs": [
+        {
+            "question": "How do I convert text to handwriting?",
+            "answer": "Type your text, click to load the editor, and wait 5 seconds for the handwritten document to be created."
+        },
+        {
+            "question": "What file types can I import?",
+            "answer": "You can import PDF, DOCX, and other document types for conversion."
+        },
+        {
+            "question": "How many handwriting fonts are available?",
+            "answer": "There are 90 handwriting fonts to choose from."
+        },
+        {
+            "question": "Can I use my own handwriting?",
+            "answer": "Yes, you can create and upload a custom font using your own handwriting."
+        },
+        {
+            "question": "What export options are available?",
+            "answer": "You can save your work as PDF or image files."
+        },
+        {
+            "question": "Does it support multi-page documents?",
+            "answer": "Yes, it supports creating documents with multiple pages effortlessly."
+        },
+        {
+            "question": "How do I add visual effects?",
+            "answer": "You can add blur, shading, and shadows for realism in your documents."
+        },
+        {
+            "question": "Can I include tables and shapes?",
+            "answer": "Yes, you can include and customize tables and add handwritten shapes."
+        },
+        {
+            "question": "Is there support for math equations?",
+            "answer": "Yes, it can generate handwritten math equations and expressions."
+        },
+        {
+            "question": "Where can I find help?",
+            "answer": "Check the detailed user guide at https://handtextai.com/how-to-use for assistance."
+        }
+    ]
+}

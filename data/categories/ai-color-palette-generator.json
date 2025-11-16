@@ -1,0 +1,138 @@
+{
+    "title": "The Best 12 AI Color Palette Generator Tools in 2025",
+    "summary": "Discover the perfect hues for your projects with our AI Color Palette Generator category. These innovative tools harness the power of artificial intelligence to create stunning color combinations tailored to your needs, enhancing your design workflow. Whether you're a graphic designer, artist, or marketer, our generators simplify the color selection process, ensuring your visuals stand out. Explore a variety of user-friendly options that save you time and inspire creativity. Dive into our collection today and elevate your design game with the perfect palette!",
+    "tools": [
+        {
+            "id": "424",
+            "name": "Kome",
+            "slug": "kome-ai",
+            "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+            "icon": "/logo/kome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "Brandmark",
+            "slug": "brandmark",
+            "description": "Brandmark is an AI-powered logo maker that creates professional logos and branding assets for businesses.",
+            "icon": "/logo/brandmark.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "469",
+            "name": "Designs.ai",
+            "slug": "designs-ai",
+            "description": "Designs.ai is an AI-powered platform for creating logos, images, videos, and other marketing assets effortlessly.",
+            "icon": "/logo/designs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "496",
+            "name": "Facetune",
+            "slug": "facetune",
+            "description": "Facetune is a mobile app for AI-powered photo and video editing, specializing in selfie enhancements and creative retouching.",
+            "icon": "/logo/www.facetuneapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "686",
+            "name": "Flim",
+            "slug": "flim-ai",
+            "description": "Flim is an AI-powered visual inspiration platform offering a vast database of film stills and video clips for creatives.",
+            "icon": "/logo/flim.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "854",
+            "name": "ColorMagic",
+            "slug": "colormagic",
+            "description": "ColorMagic is an AI-powered platform that generates custom color palettes based on user-provided keywords for design and creative projects.",
+            "icon": "/logo/colormagic.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "913",
+            "name": "Reimagine Home",
+            "slug": "reimagine-home-ai",
+            "description": "Reimagine Home is an AI-powered platform that allows users to upload photos of their living spaces and generate personalized interior design ideas instantly.",
+            "icon": "/logo/www.reimaginehome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "1117",
+            "name": "Contrast",
+            "slug": "contrast",
+            "description": "Contrast is an AI-powered platform for enhancing image contrast, analyzing visuals, and generating accessible designs for creative and professional use.",
+            "icon": "/logo/www.getcontrast.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "1144",
+            "name": "My Color Analysis",
+            "slug": "my-color-analysis-ai",
+            "description": "My Color Analysis is an AI-powered platform that analyzes users' photos to determine their personal color season and recommend flattering colors for fashion, makeup, and hair.",
+            "icon": "/logo/mycoloranalysis.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "1155",
+            "name": "Fashn.ai",
+            "slug": "fashn-ai",
+            "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+            "icon": "/logo/fashn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "1173",
+            "name": "Palette Maker",
+            "slug": "palette-maker",
+            "description": "Palette Maker is an online tool that leverages AI to generate, customize, and extract color palettes for designers and creative professionals.",
+            "icon": "/logo/palettemaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        },
+        {
+            "id": "985",
+            "name": "BrandWell",
+            "slug": "brandwell-ai",
+            "description": "BrandWell.ai is an AI-powered platform that helps users generate professional brand identities, including names, logos, and marketing assets, to build strong brands quickly and affordably.",
+            "icon": "/logo/brandwell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-color-palette-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Cheers",
+    "description": "Cheers.tech is an AI-powered platform that attributes customer feedback, reviews, and interactions to individual frontline employees, providing managers with actionable insights to improve brand performance.",
+    "longDescription": "Cheers.tech is designed as a control center for managing frontline brand interactions, addressing key questions about customer experiences, employee contributions, and scaling successful practices. It uses AI to create a real-time dataset that attributes online reviews, social mentions, loyalty sign-ups, and NPS surveys to specific employees, moving beyond anonymous aggregated data. The platform enables managers to recognize top performers, provide targeted coaching, and engineer behaviors that shape brand narratives, addressing the limitations of current tools that only provide vague averages. It facilitates seamless customer feedback collection through NFC-enabled badges and customizable mobile pages, ensuring high engagement without requiring apps or accounts. The mission is to connect reputation management to frontline performance, as demonstrated by case studies like Vivint Smart Home, which collected over 65,000 five-star reviews in five months.",
+    "url": "https://www.cheers.tech/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.cheers.tech.webp",
+    "category": "AI Digital Marketing",
+    "categorySlug": "ai-digital-marketing",
+    "slug": "cheers",
+    "categories": [
+        "AI Digital Marketing",
+        "AI Text Classifier",
+        "AI Project Management",
+        "AI Customer Service",
+        "AI Data Mining",
+        "AI For Data Analytics",
+        "AI Coaching",
+        "AI Review Generator"
+    ],
+    "features": [
+        "NFC-Enabled Badges allow employees to initiate customer feedback collection with a tap, linking interactions to specific employees.",
+        "AI-Powered Attribution analyzes feedback sentiment and attributes interactions instantly to individual employees, eliminating anonymous data.",
+        "Customizable Customer Pages enable branding and customization of mobile pages for actions like reviews, loyalty sign-ups, and referrals.",
+        "Real-Time Dashboard provides a control center with metrics like Net Promoter Score, Google reviews, and employee performance for actionable insights.",
+        "Employee Leaderboard displays rankings based on attributed reviews, referrals, loyalty sign-ups, and average ratings to recognize top performers.",
+        "Frictionless Customer Experience ensures no app downloads or account creation are needed, launching a standard mobile web page for easy interaction.",
+        "Private Feedback Option allows customers to submit private feedback to management, enabling issue resolution before public negative reviews.",
+        "Integration with Review Platforms supports leaving reviews on platforms like Google, Trustpilot, Yelp, and Reddit, with attribution to employees.",
+        "Loyalty and Referral Tracking tracks customer actions like loyalty program sign-ups and referrals, attributing them to specific employees.",
+        "Targeted Coaching Tools help managers identify areas for coaching based on individual employee performance data."
+    ],
+    "faqs": [
+        {
+            "question": "How exactly does Cheers attribute customer feedback to individual employees?",
+            "answer": "Every employee carries an NFC-enabled badge with a unique ID; when a customer taps it, their actions are timestamped and attributed to that employee in the dashboard in real time."
+        },
+        {
+            "question": "Will customers need to download an app or create an account?",
+            "answer": "No, the experience is frictionless, launching a standard mobile web page compatible with any modern iPhone or Android without apps, log-ins, or passwords."
+        },
+        {
+            "question": "Can the customer-facing experience be customized to our brand?",
+            "answer": "Absolutely, the mobile page is fully customizable for branding, colors, messaging, and desired actions like reviews or app downloads."
+        },
+        {
+            "question": "Why is frontline attribution critical in the age of AI and LLMs?",
+            "answer": "Consumers are shifting to AI-driven recommendations, and Cheers ensures feedback includes specific keywords for LLM recommendations by attributing and incentivizing employee behaviors."
+        },
+        {
+            "question": "How does Cheers handle negative feedback? Are we violating Google’s policy against 'review gating'?",
+            "answer": "Cheers adheres to Google’s Terms, offering all customers equal feedback opportunities publicly, with an option for private feedback to resolve issues before public negative reviews."
+        },
+        {
+            "question": "How does Cheers integrate with existing review platforms?",
+            "answer": "Cheers supports integrations with platforms like Google, Trustpilot, Yelp, and Reddit, allowing customers to leave reviews directly while attributing them to specific employees."
+        },
+        {
+            "question": "What devices are compatible with the NFC badges?",
+            "answer": "The NFC badges work with any modern iPhone or Android device that supports NFC tapping for seamless interactions."
+        },
+        {
+            "question": "Can Cheers help in identifying underperforming employees?",
+            "answer": "Yes, by providing detailed performance metrics and leaderboards, managers can spot areas for improvement and offer targeted coaching based on attributed data."
+        },
+        {
+            "question": "How quickly is feedback attributed in Cheers?",
+            "answer": "Feedback is attributed in real time as soon as the customer interacts via the NFC badge, updating the dashboard instantly."
+        },
+        {
+            "question": "Does Cheers use AI for sentiment analysis?",
+            "answer": "Yes, AI analyzes the sentiment of customer feedback to provide deeper insights into employee performance and brand impact."
+        }
+    ]
+}

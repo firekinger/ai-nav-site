@@ -1,0 +1,72 @@
+{
+    "name": "VEED.IO",
+    "description": "VEED.IO is an AI-powered online video editing platform that simplifies the creation and enhancement of professional-quality videos for creators and businesses.",
+    "longDescription": "VEED.IO is a cloud-based video editing platform designed to make video creation accessible to both beginners and professionals, offering tools to edit, record, and share videos effortlessly. Its mission is to streamline the video editing process by reducing complex tasks to a few clicks, empowering users to produce engaging content for social media, marketing, or education. The platform supports a wide range of formats and includes AI-driven features like auto-subtitles and voice cloning to enhance accessibility and efficiency. By providing a user-friendly interface and real-time collaboration capabilities, VEED.IO caters to content creators, marketers, educators, and businesses seeking to create impactful videos without requiring advanced technical skills. It eliminates the need for expensive software or hardware, making professional video production affordable and scalable. The platform is particularly valued for its ability to optimize videos for various platforms, ensuring seamless sharing and audience engagement.",
+    "url": "https://www.veed.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/veed.io.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "veed-io",
+    "categories": [
+        "AI Video Editor",
+        "AI Video Generator",
+        "AI Social Media",
+        "AI Lip Sync Generator",
+        "AI Meeting Assistant",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Auto-subtitles generate accurate captions in over 100 languages, saving time and improving video accessibility for diverse audiences.",
+        "Screen and webcam recording allows users to create tutorials or presentations directly within the platform, eliminating the need for external tools.",
+        "Customizable templates provide pre-designed layouts for quick video creation, ideal for social media posts, ads, or branded content.",
+        "AI video generation creates videos from text prompts, enabling rapid production of engaging content for social media or marketing.",
+        "Real-time collaboration enables teams to work simultaneously on video projects, streamlining workflows for businesses and agencies.",
+        "Stock media library offers access to royalty-free videos, images, and music to enhance projects without additional sourcing.",
+        "Video compression reduces file sizes for easy sharing and uploading, maintaining quality for online platforms.",
+        "Voice cloning and text-to-speech provide over 1,000 natural-sounding voices in multiple languages for professional voiceovers.",
+        "Noise removal and clean audio tools enhance video sound quality, ensuring clear and professional output.",
+        "Custom branding allows users to apply brand kits, including logos, fonts, and colors, for consistent video aesthetics."
+    ],
+    "faqs": [
+        {
+            "question": "What is VEED.IO used for?",
+            "answer": "VEED.IO is an online video editing platform used to create, edit, and share professional-quality videos for social media, marketing, education, and more."
+        },
+        {
+            "question": "Does VEED.IO offer a free plan?",
+            "answer": "Yes, VEED.IO offers a free plan with basic editing tools, 720p exports, and 30 minutes of auto-subtitles per month, but videos include a watermark."
+        },
+        {
+            "question": "Can I collaborate with my team on VEED.IO?",
+            "answer": "Yes, VEED.IO supports real-time collaboration, allowing multiple users to edit projects, leave comments, and share feedback in a shared workspace."
+        },
+        {
+            "question": "What types of videos can I create with VEED.IO?",
+            "answer": "You can create social media videos, marketing ads, training materials, tutorials, and more, with tools optimized for platforms like YouTube, TikTok, and Instagram."
+        },
+        {
+            "question": "Are VEED.IO’s AI tools available in all plans?",
+            "answer": "Advanced AI tools like voice cloning and AI video generation are primarily available in the Pro, Business, and Enterprise plans."
+        },
+        {
+            "question": "Can I remove watermarks from videos in VEED.IO?",
+            "answer": "Watermarks can be removed by upgrading to the Lite plan or higher, starting at $9 per month."
+        },
+        {
+            "question": "Does VEED.IO support video uploads from other platforms?",
+            "answer": "Yes, you can upload videos from your computer, Dropbox, YouTube, or Google Drive for editing on VEED.IO."
+        },
+        {
+            "question": "Is VEED.IO suitable for beginners?",
+            "answer": "VEED.IO’s intuitive drag-and-drop interface and templates make it ideal for beginners, requiring no prior video editing experience."
+        },
+        {
+            "question": "Can I use VEED.IO for professional video editing?",
+            "answer": "Yes, VEED.IO offers advanced features like 4K exports, custom branding, and AI tools, making it suitable for professional-grade video production."
+        },
+        {
+            "question": "Does VEED.IO have customer support?",
+            "answer": "VEED.IO provides support via chat, email, and a help center, with priority support for Pro and Business plan users."
+        }
+    ]
+}

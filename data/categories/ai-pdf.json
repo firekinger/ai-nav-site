@@ -1,0 +1,160 @@
+{
+    "title": "The Best 14 AI PDF Tools in 2025",
+    "summary": "Unlock the power of AI with our 'AI PDF' tools, designed to streamline your document management and enhance productivity. From intelligent PDF editing and conversion to automated data extraction and summarization, these innovative solutions cater to diverse needs, saving you time and effort. Whether you're a student, professional, or researcher, our curated selection of AI PDF tools will transform how you interact with documents. Explore our collection today and discover how these cutting-edge technologies can simplify your workflow and elevate your efficiency!",
+    "tools": [
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "134",
+            "name": "Wondershare",
+            "slug": "wondershare",
+            "description": "Wondershare provides AI-powered software solutions for video editing, PDF management, data recovery, and mobile device management to enhance creativity and productivity.",
+            "icon": "/logo/wondershare.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "176",
+            "name": "ChatPDF",
+            "slug": "chatpdf",
+            "description": "ChatPDF enables users to interact with PDF documents through AI-powered conversations and analysis.",
+            "icon": "/logo/www.chatpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "494",
+            "name": "Glarity",
+            "slug": "glarity",
+            "description": "Glarity is a free, open-source browser extension that uses AI to summarize and translate content from YouTube, Google, and other web platforms.",
+            "icon": "/logo/glarity.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "610",
+            "name": "AskYourPDF",
+            "slug": "askyourpdf",
+            "description": "AskYourPDF is an AI-powered platform that enables users to interact conversationally with PDF documents, extracting insights and answers efficiently.",
+            "icon": "/logo/askyourpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "615",
+            "name": "Trancy",
+            "slug": "trancy",
+            "description": "Trancy is a language learning platform offering AI-powered bilingual subtitles and translation tools for immersive learning on video and web content.",
+            "icon": "/logo/www.trancy.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "717",
+            "name": "PDF.ai",
+            "slug": "pdf-ai",
+            "description": "PDF.ai is an AI-powered platform that enables users to interact with PDF documents through chat, summarization, and analysis for enhanced productivity.",
+            "icon": "/logo/pdf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "728",
+            "name": "PDF To Brainrot",
+            "slug": "pdf-to-brainrot",
+            "description": "PDF To Brainrot transforms PDFs into engaging TikTok-style 'brainrot' videos to make learning fun and effective.",
+            "icon": "/logo/pdftobrainrot.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "785",
+            "name": "ChatGOT",
+            "slug": "chatgot",
+            "description": "ChatGOT is a free AI chatbot assistant integrating advanced models like DeepSeek, GPT-4, Claude 3.5, and Gemini 2.0 to enhance productivity and creativity.",
+            "icon": "/logo/www.chatgot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "827",
+            "name": "SciSpace",
+            "slug": "scispace",
+            "description": "SciSpace is an AI-powered platform that streamlines academic research by helping users discover, analyze, and create research papers efficiently.",
+            "icon": "/logo/scispace.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "1023",
+            "name": "ChatDOC",
+            "slug": "chatdoc",
+            "description": "ChatDOC is an AI-powered platform that allows users to interact with documents through natural language chat, enabling quick extraction of insights, summaries, and answers from PDFs and other files.",
+            "icon": "/logo/chatdoc.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "1194",
+            "name": "HandtextAI",
+            "slug": "handtextai",
+            "description": "HandtextAI is an AI-powered platform that converts digital text into realistic, customizable handwritten documents.",
+            "icon": "/logo/handtextai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "1272",
+            "name": "ReadyBase",
+            "slug": "readybase-ai",
+            "description": "ReadyBase is an AI-powered platform that transforms raw data such as notes, research, images, and files into polished, brand-compliant PDFs in seconds.",
+            "icon": "/logo/readybase.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        },
+        {
+            "id": "1238",
+            "name": "Futurwise",
+            "slug": "futurwise",
+            "description": "Futurwise is a knowledge platform that delivers hyper-personalized, AI-generated summaries of articles, videos, podcasts, PDFs, and more, helping users cut through information overload with tailored insights in over 25 languages.",
+            "icon": "/logo/www.futurwise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Continue",
+    "description": "Continue.dev provides open-source AI code assistants to enhance developer productivity and streamline coding workflows.",
+    "longDescription": "Continue.dev is an open-source platform that offers customizable AI code assistants integrated into popular IDEs like VS Code and JetBrains, enabling developers to create, share, and use AI-driven coding tools. Founded in 2023 by Continue Dev, Inc., it aims to amplify developer productivity by providing context-aware code suggestions, chat-based assistance, and automated code editing without vendor lock-in. The platform supports a wide range of large language models (LLMs), including local and cloud-based options, ensuring flexibility and privacy for users. It addresses challenges like code context management and data security, allowing developers to tailor AI tools to their specific workflows. Continue.dev also collects development data locally to improve AI performance, fostering a community-driven approach to software development. Its modular architecture supports enterprises and individual developers alike, promoting transparency and control over AI integration.",
+    "url": "https://www.continue.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.continue.dev.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "continue",
+    "categories": [
+        "AI Code Assistant",
+        "Prompt Engineering",
+        "Open Source AI Models",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "AI Business Ideas Generator",
+        "AI Code Review",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Agent mode enables autonomous codebase modifications, streamlining complex coding tasks for developers.",
+        "Chat feature allows developers to interact with LLMs directly in the IDE, providing quick answers without leaving the workspace.",
+        "Edit mode offers inline code modifications, simplifying updates without switching files.",
+        "Autocomplete provides real-time code suggestions as developers type, enhancing coding speed and accuracy.",
+        "Context engineering lets users reference GitHub issues, files, or web searches directly in prompts, improving AI response relevance.",
+        "Customizable rules allow developers to define how AI assistants behave, ensuring alignment with project needs.",
+        "Support for any LLM, including local models, ensures privacy and flexibility for sensitive or offline environments.",
+        "Open-source IDE extensions for VS Code and JetBrains enable seamless integration into existing workflows.",
+        "Centralized configuration for enterprises ensures secure management of AI permissions and proprietary data.",
+        "Development data collection saves usage data locally, enabling teams to fine-tune AI models for better performance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Continue.dev?",
+            "answer": "Continue.dev is an open-source platform that integrates customizable AI code assistants into IDEs like VS Code and JetBrains to enhance developer productivity."
+        },
+        {
+            "question": "Is Continue.dev free to use?",
+            "answer": "Yes, Continue.dev offers a free plan with its open-source IDE extensions, allowing access to core features with no cost."
+        },
+        {
+            "question": "Which IDEs does Continue.dev support?",
+            "answer": "Continue.dev supports Visual Studio Code and JetBrains IDEs through its open-source extensions."
+        },
+        {
+            "question": "Can I use local AI models with Continue.dev?",
+            "answer": "Yes, Continue.dev supports any LLM, including local models like those using ggml, ensuring privacy and offline capability."
+        },
+        {
+            "question": "How does Continue.dev ensure data privacy?",
+            "answer": "Development data is saved locally by default, and users can deploy models on their own infrastructure to maintain full control."
+        },
+        {
+            "question": "What is context engineering in Continue.dev?",
+            "answer": "Context engineering allows users to include specific project details, like GitHub issues or files, in prompts to make AI responses more relevant."
+        },
+        {
+            "question": "Can enterprises use Continue.dev?",
+            "answer": "Yes, Continue.dev offers enterprise-grade features like centralized configuration and secure data management for organization-wide deployment."
+        },
+        {
+            "question": "How do I install Continue.dev?",
+            "answer": "Install the Continue extension from the Visual Studio Marketplace or JetBrains Plugin Marketplace and follow the setup guide on the official site."
+        },
+        {
+            "question": "Does Continue.dev support team collaboration?",
+            "answer": "Yes, it enables teams to share custom AI coding assistants with centralized configs for consistent workflows."
+        },
+        {
+            "question": "How does Continue.dev compare to GitHub Copilot?",
+            "answer": "Unlike GitHub Copilot, Continue.dev is open-source, supports any LLM, and offers greater customization without vendor lock-in."
+        }
+    ]
+}

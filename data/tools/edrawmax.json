@@ -1,0 +1,73 @@
+{
+    "name": "EdrawMax",
+    "description": "EdrawMax is an all-in-one diagramming tool powered by AI for creating professional flowcharts, mind maps, and over 280 types of diagrams.",
+    "longDescription": "EdrawMax is a versatile, AI-powered diagramming platform designed to help professionals, students, and educators create visually compelling diagrams with ease. Its mission is to simplify complex ideas through intuitive visualization tools, enabling users to communicate concepts effectively across industries. The platform supports over 280 diagram types, from flowcharts to floor plans, and integrates AI-driven features like diagram generation and content analysis to streamline workflows. By offering cloud-based collaboration and extensive template libraries, EdrawMax addresses the needs of teams and individuals seeking to plan, visualize, and present ideas efficiently. It serves a global user base, providing cross-platform compatibility and robust file export options to enhance productivity. The tool is particularly valued for its user-friendly interface and ability to import/export Visio files, making it a strong alternative to traditional diagramming software.",
+    "url": "https://www.edrawmax.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.edrawmax.com.webp",
+    "category": "AI Diagram Generator",
+    "categorySlug": "ai-diagram-generator",
+    "slug": "edrawmax",
+    "categories": [
+        "AI Diagram Generator",
+        "AI Mind Mapping",
+        "AI Content Detector",
+        "AI Workflow",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI diagram generator creates professional diagrams from text prompts, saving time and effort.",
+        "Over 40,000 templates enable users to quickly start projects like flowcharts, org charts, and mind maps.",
+        "Cloud-based collaboration allows teams to edit and share diagrams in real-time across devices.",
+        "Supports 280+ diagram types, including technical drawings, infographics, and floor plans, for diverse use cases.",
+        "Imports and exports Visio files, ensuring compatibility with industry-standard diagramming tools.",
+        "Drag-and-drop interface simplifies diagram creation for users with no design experience.",
+        "Extensive symbol library with 26,000+ vector icons enhances visual customization.",
+        "Multi-format export options, including PDF, Word, and HTML, facilitate easy sharing.",
+        "AI-powered analysis tools generate insights from Gantt charts, flowcharts, and other diagrams.",
+        "Cross-platform support ensures seamless access on Windows, macOS, Linux, and mobile devices.",
+        "Real-time brainstorming tools help teams visualize ideas during collaborative sessions.",
+        "Secure file encryption and share expiration settings protect user data during collaboration."
+    ],
+    "faqs": [
+        {
+            "question": "What types of diagrams can I create with EdrawMax?",
+            "answer": "EdrawMax supports over 280 diagram types, including flowcharts, mind maps, org charts, floor plans, circuit diagrams, and infographics."
+        },
+        {
+            "question": "Is EdrawMax free to use?",
+            "answer": "Yes, EdrawMax offers a free plan with limited features, allowing users to create up to 5 diagrams and access basic templates."
+        },
+        {
+            "question": "Can I collaborate with my team on EdrawMax?",
+            "answer": "EdrawMax provides cloud-based collaboration tools, enabling real-time editing and sharing of diagrams with team members."
+        },
+        {
+            "question": "Does EdrawMax support Visio files?",
+            "answer": "Yes, EdrawMax allows users to import, edit, and export Visio (.vsdx and .vsd) files without compatibility issues."
+        },
+        {
+            "question": "Is EdrawMax available on mobile devices?",
+            "answer": "EdrawMax is accessible on iOS and Android devices, with cloud sync for seamless diagramming on the go."
+        },
+        {
+            "question": "How does the AI diagram generator work?",
+            "answer": "The AI diagram generator creates diagrams instantly from text prompts, such as 'create a project timeline,' simplifying the design process."
+        },
+        {
+            "question": "Can I export my diagrams to other formats?",
+            "answer": "EdrawMax supports exporting diagrams to multiple formats, including PDF, Word, Excel, PPT, JPEG, and HTML."
+        },
+        {
+            "question": "Is my data secure on EdrawMax?",
+            "answer": "EdrawMax uses high-level SSL encryption to secure file transfers and offers share expiration settings to protect user privacy."
+        },
+        {
+            "question": "Who can benefit from using EdrawMax?",
+            "answer": "EdrawMax is ideal for professionals, students, educators, and designers needing to create diagrams for business, education, or technical purposes."
+        },
+        {
+            "question": "Are there templates available for beginners?",
+            "answer": "EdrawMax offers over 40,000 professionally designed templates to help beginners start diagramming quickly."
+        }
+    ]
+}

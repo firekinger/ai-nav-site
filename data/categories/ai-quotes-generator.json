@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Quotes Generator Tools in 2025",
+    "summary": "Discover the power of inspiration with our AI Quotes Generator category! These innovative tools effortlessly create unique and thought-provoking quotes tailored to your needs, whether for social media, presentations, or personal motivation. By harnessing advanced algorithms, you can save time and spark creativity, making it easier than ever to find the perfect words. Explore our curated selection of AI Quotes Generators today and elevate your content with fresh insights and ideas. Start your journey to inspiration now!",
+    "tools": [
+        {
+            "id": "1048",
+            "name": "Mindsera",
+            "slug": "mindsera",
+            "description": "Mindsera is an AI-powered journaling app designed to enhance mindset, productivity, and personal growth through intelligent insights and habit tracking.",
+            "icon": "/logo/www.mindsera.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-quotes-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Cutout.Pro",
+    "description": "Cutout.Pro is an AI-powered platform for automated photo and video editing, specializing in background removal and visual content creation.",
+    "longDescription": "Cutout.Pro is an AI-driven visual design platform that simplifies complex photo and video editing tasks for individuals and businesses. Founded in 2018, it leverages artificial intelligence and computer vision to provide tools for background removal, image enhancement, and content generation. The platform caters to a wide range of users, including e-commerce sellers, photographers, graphic designers, and marketers, by offering automated solutions that eliminate the need for advanced editing skills. Its cloud-based system ensures accessibility and rapid processing, while API integrations allow developers to incorporate its features into custom applications. Cutout.Pro aims to streamline workflows and enhance visual content quality, making professional-grade editing accessible to all.",
+    "url": "https://www.cutout.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cutout.pro.webp",
+    "category": "AI Background Remover",
+    "categorySlug": "ai-background-remover",
+    "slug": "cutout-pro",
+    "categories": [
+        "AI Background Remover",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Art Generator",
+        "AI Digital Marketing",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "AI-powered background removal automatically isolates subjects from photos and videos with precision, saving time for users.",
+        "Photo enhancement tools upscale resolution and improve image quality, delivering vibrant and detailed visuals.",
+        "Video background removal eliminates the need for green screens, enabling seamless background changes in videos.",
+        "Face and hair segmentation provides hair-level precision for editing human and pet images, ideal for detailed portraits.",
+        "AI art generation allows users to create unique digital artwork with unlimited access to creative styles.",
+        "Passport and ID photo creation automates the production of professional-grade photos with proper sizing for official documents.",
+        "API integration enables developers to embed Cutout.Pro’s AI tools into their applications for enhanced media processing.",
+        "Batch processing supports high-volume image and video editing, boosting efficiency for businesses.",
+        "Customized printing overlays product images onto items like T-shirts and mugs for e-commerce previews."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cutout.Pro used for?",
+            "answer": "Cutout.Pro is used for AI-powered photo and video editing, including background removal, image enhancement, and content generation for personal and business use."
+        },
+        {
+            "question": "Does Cutout.Pro offer a free plan?",
+            "answer": "Yes, Cutout.Pro provides a free trial with limited access to its features, allowing users to test the platform before subscribing."
+        },
+        {
+            "question": "Can I use Cutout.Pro without editing skills?",
+            "answer": "Absolutely, its user-friendly interface and automated AI tools make professional editing accessible to beginners and experts alike."
+        },
+        {
+            "question": "What file formats are supported by Cutout.Pro?",
+            "answer": "Cutout.Pro supports images in JPG, PNG, BMP, and TIFF formats, and videos in MP4, MOV, and AVI formats."
+        },
+        {
+            "question": "Is Cutout.Pro suitable for e-commerce businesses?",
+            "answer": "Yes, it helps create high-quality product images by removing backgrounds and enhancing visuals, boosting sales and engagement."
+        },
+        {
+            "question": "Can developers integrate Cutout.Pro into their apps?",
+            "answer": "Cutout.Pro offers APIs for seamless integration, allowing developers to add AI editing tools to their applications."
+        },
+        {
+            "question": "How accurate is the background removal feature?",
+            "answer": "The background removal is highly accurate with precise edge detailing, though complex backgrounds may require minor manual adjustments."
+        },
+        {
+            "question": "Is my data secure with Cutout.Pro?",
+            "answer": "Cutout.Pro deletes uploaded images immediately after processing to ensure data security, but users should verify privacy policies."
+        }
+    ]
+}

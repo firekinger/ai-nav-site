@@ -1,0 +1,336 @@
+{
+    "title": "The Best 30 AI Meeting Assistant Tools in 2025",
+    "summary": "Unlock the potential of your meetings with our AI Meeting Assistant tools. Designed to streamline scheduling, enhance collaboration, and capture key insights, these innovative solutions help you stay organized and focused. Say goodbye to tedious note-taking and missed action items—our AI tools ensure every meeting is productive and efficient. Whether you're a team leader or a remote worker, these assistants cater to your unique needs. Explore our curated selection of AI Meeting Assistants today and transform the way you connect and collaborate!",
+    "tools": [
+        {
+            "id": "12",
+            "name": "Grammarly",
+            "slug": "grammarly",
+            "description": "Grammarly is an AI-powered writing assistant that enhances writing quality through grammar, spelling, and style corrections across multiple platforms.",
+            "icon": "/logo/grammarly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "CapCut",
+            "slug": "capcut",
+            "description": "CapCut is an AI-powered platform for easy video editing and graphic design across multiple devices.",
+            "icon": "/logo/capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "VEED.IO",
+            "slug": "veed-io",
+            "description": "VEED.IO is an AI-powered online video editing platform that simplifies the creation and enhancement of professional-quality videos for creators and businesses.",
+            "icon": "/logo/veed.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "InVideo",
+            "slug": "invideo",
+            "description": "InVideo is an AI-powered video creation platform that simplifies professional-quality video production for users of all skill levels.",
+            "icon": "/logo/invideo.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "83",
+            "name": "Zapier",
+            "slug": "zapier",
+            "description": "Zapier is a no-code automation platform that connects apps to streamline workflows and boost productivity.",
+            "icon": "/logo/zapier.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "77",
+            "name": "LanguageTool",
+            "slug": "languagetool",
+            "description": "LanguageTool is an AI-powered grammar, style, and spell checker enhancing writing in over 30 languages.",
+            "icon": "/logo/languagetool.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Transkriptor",
+            "slug": "transkriptor",
+            "description": "Transkriptor provides AI-powered transcription and subtitle generation for audio and video content.",
+            "icon": "/logo/transkriptor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "Tactiq",
+            "slug": "tactiq",
+            "description": "Tactiq provides real-time transcription and meeting note automation for teams using video conferencing platforms.",
+            "icon": "/logo/tactiq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "174",
+            "name": "Read AI",
+            "slug": "read-ai",
+            "description": "Read AI provides AI-powered tools to enhance meeting productivity and communication insights.",
+            "icon": "/logo/www.read.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "180",
+            "name": "Fathom",
+            "slug": "fathom",
+            "description": "Fathom provides AI-powered meeting notes, transcription, and analytics to enhance productivity.",
+            "icon": "/logo/fathom.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "188",
+            "name": "Fireflies.ai",
+            "slug": "fireflies-ai",
+            "description": "Fireflies.ai is an AI-powered meeting assistant that automates note-taking, transcription, and task management for virtual and in-person meetings.",
+            "icon": "/logo/fireflies.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "283",
+            "name": "tl;dv",
+            "slug": "tldv",
+            "description": "tl;dv is an AI-powered platform for recording, transcribing, and summarizing virtual meetings on Zoom and Google Meet.",
+            "icon": "/logo/tldv.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "366",
+            "name": "Flowith",
+            "slug": "flowith",
+            "description": "Flowith is an AI-powered creation workspace designed to enhance productivity and streamline complex tasks through an intuitive canvas-based interface.",
+            "icon": "/logo/flowith.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "529",
+            "name": "Lindy",
+            "slug": "lindy-ai",
+            "description": "Lindy is a no-code AI platform for creating custom AI agents to automate business and personal workflows.",
+            "icon": "/logo/www.lindy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "614",
+            "name": "Bardeen",
+            "slug": "bardeen-ai",
+            "description": "Bardeen is an AI-powered workflow automation platform that streamlines repetitive tasks for GTM teams by integrating with popular apps.",
+            "icon": "/logo/www.bardeen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "833",
+            "name": "MeetGeek",
+            "slug": "meetgeek-ai",
+            "description": "MeetGeek is an AI-powered meeting assistant that automates recording, transcription, and summarization of meetings to enhance productivity.",
+            "icon": "/logo/meetgeek.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1033",
+            "name": "MyMeet.ai",
+            "slug": "mymeet-ai",
+            "description": "MyMeet.ai is an AI-powered platform that automates meeting transcription, summarization, and action item tracking to boost productivity and collaboration.",
+            "icon": "/logo/mymeet.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1054",
+            "name": "Noota",
+            "slug": "noota",
+            "description": "Noota is an AI-powered platform that automates meeting transcription, summarization, and analysis to enhance productivity for teams and professionals.",
+            "icon": "/logo/www.noota.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1075",
+            "name": "Sembly AI",
+            "slug": "sembly-ai",
+            "description": "Sembly AI is an AI notetaker designed for teams and professionals, offering features like transcription, meeting summaries, and actionable insights for various meeting types.",
+            "icon": "/logo/www.sembly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1076",
+            "name": "Avoma",
+            "slug": "avoma",
+            "description": "Avoma is an all-in-one AI platform that automates note-taking, scheduling, coaching, and revenue intelligence to enhance business efficiency and growth.",
+            "icon": "/logo/www.avoma.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1078",
+            "name": "Humanly",
+            "slug": "humanly",
+            "description": "Humanly is an AI-powered platform that streamlines talent acquisition and recruiting processes for HR teams.",
+            "icon": "/logo/www.humanly.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1172",
+            "name": "Brella",
+            "slug": "brella",
+            "description": "Brella is an event networking platform that uses AI to facilitate meaningful connections and engagement for virtual, hybrid, and in-person events.",
+            "icon": "/logo/www.brella.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1187",
+            "name": "Exemplary AI",
+            "slug": "exemplary-ai",
+            "description": "Exemplary AI is an innovative platform that leverages artificial intelligence to provide transcription, summarization, translation, and content generation services for audio and video files.",
+            "icon": "/logo/exemplary.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "1193",
+            "name": "Circleback",
+            "slug": "circleback-ai",
+            "description": "Circleback is an AI-powered meeting assistant that automatically transcribes, summarizes, and organizes notes from virtual meetings to enhance productivity.",
+            "icon": "/logo/circleback.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Feedly",
+            "slug": "feedly",
+            "description": "Feedly is a news aggregator that curates personalized content feeds for individuals and teams to stay informed on topics that matter.",
+            "icon": "/logo/feedly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "44",
+            "name": "Loom",
+            "slug": "loom",
+            "description": "Loom is a video messaging platform that enables users to record and share screen and camera videos for effective asynchronous communication.",
+            "icon": "/logo/loom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Publer",
+            "slug": "publer",
+            "description": "Publer is a social media management platform that streamlines scheduling, publishing, and analyzing posts across multiple social networks.",
+            "icon": "/logo/publer.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Bolt.new",
+            "slug": "bolt-new",
+            "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+            "icon": "/logo/bolt.new.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meeting-assistant"
+            ]
+        }
+    ]
+}

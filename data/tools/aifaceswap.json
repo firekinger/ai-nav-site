@@ -1,0 +1,61 @@
+{
+    "name": "AIFaceSwap",
+    "description": "AIFaceSwap.io is a free online platform for seamlessly swapping faces in photos and videos using advanced AI technology.",
+    "longDescription": "AIFaceSwap.io is an innovative online tool designed to allow users to swap faces in images and videos effortlessly, leveraging cutting-edge artificial intelligence to produce realistic and high-quality results. The platform caters to creators, developers, and enthusiasts looking to enhance their projects with creative face-swapping capabilities for purposes like entertainment, character design, and virtual experiences. It requires no sign-up or software installation, making it accessible to a wide audience. The service prioritizes user privacy by not storing uploaded data and offers a secure environment for content creation. With a user-friendly interface and support for multiple languages, AIFaceSwap.io serves a global community, fostering creativity and fun without watermarks or usage limits.",
+    "url": "https://aifaceswap.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aifaceswap.io.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "aifaceswap",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Design Assistant",
+        "AI Video Editor",
+        "AI Developer Tools",
+        "AI News"
+    ],
+    "features": [
+        "Instant face swapping allows users to exchange faces in photos or videos with a single click, delivering seamless and realistic results.",
+        "No sign-up or login is required, enabling quick access to face-swapping tools without account creation.",
+        "The platform supports multiple face swaps in group photos, ideal for creating fun content for pranks or parties.",
+        "AI-powered technology ensures high-quality face swaps with natural blending, enhancing creative projects like memes or skits.",
+        "User-uploaded data is not stored, prioritizing privacy and security for all users.",
+        "The API integration feature allows developers to embed face-swapping capabilities into their applications quickly.",
+        "Multilingual support makes the platform accessible to users from various countries, broadening its global reach.",
+        "Free downloads of swapped images and videos come without watermarks, ensuring clean outputs for personal or commercial use."
+    ],
+    "faqs": [
+        {
+            "question": "Is AIFaceSwap.io free to use?",
+            "answer": "Yes, AIFaceSwap.io is completely free with no watermarks or daily usage limits, though high traffic may require patience."
+        },
+        {
+            "question": "Do I need to sign up to use the face swap tool?",
+            "answer": "No, the platform requires no sign-up or login, allowing instant access to its features."
+        },
+        {
+            "question": "Is my data safe when using AIFaceSwap.io?",
+            "answer": "The platform does not store uploaded photos or videos, ensuring user privacy and data security."
+        },
+        {
+            "question": "Can I swap multiple faces in a single photo?",
+            "answer": "Yes, AIFaceSwap.io supports multiple face swaps in group photos, perfect for creative group content."
+        },
+        {
+            "question": "How long does it take to process a face swap?",
+            "answer": "Face swaps are typically processed in about 3 seconds, depending on server load and image complexity."
+        },
+        {
+            "question": "Can I use the face-swapped content commercially?",
+            "answer": "Yes, you can use the content commercially, provided the original images do not infringe on copyrights or privacy rights."
+        },
+        {
+            "question": "Is there an API available for developers?",
+            "answer": "Yes, AIFaceSwap.io offers an API for developers to integrate face-swapping technology into their applications."
+        },
+        {
+            "question": "Does the platform support video face swaps?",
+            "answer": "Yes, AIFaceSwap.io allows face swaps in videos, creating engaging and realistic results for various content types."
+        }
+    ]
+}

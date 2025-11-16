@@ -1,0 +1,58 @@
+{
+    "name": "Media.io",
+    "description": "Media.io is an online platform offering AI-powered tools for editing, converting, and enhancing audio, video, and image files directly in the browser.",
+    "longDescription": "Media.io is a versatile, cloud-based multimedia processing platform designed to simplify audio, video, and image editing for users of all skill levels. Its mission is to provide accessible, high-quality media manipulation tools without the need for software downloads, catering to content creators, educators, and professionals. The platform leverages AI to automate complex tasks like subtitle generation and background removal, ensuring efficiency and professional-grade results. By supporting a wide range of file formats and integrating with services like Google Drive, Media.io addresses compatibility and accessibility needs. It solves problems related to bulky software, limited device compatibility, and time-consuming editing processes, making it ideal for both personal and commercial projects.",
+    "url": "https://www.media.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/media.io.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "media-io",
+    "categories": [
+        "AI Video Editor",
+        "AI Audio Editing",
+        "AI Photo Editor",
+        "AI Tools Directory",
+        "AI Social Media",
+        "AI Course"
+    ],
+    "features": [
+        "AI Video Enhancer improves video quality up to 8K resolution, delivering crisp and professional visuals.",
+        "AI Object and Background Remover eliminates unwanted elements from videos and images for cleaner content.",
+        "Automatic Subtitle Generation creates subtitles in over 90 languages, enhancing video accessibility.",
+        "Video and Audio Conversion supports multiple formats, ensuring compatibility across devices and platforms.",
+        "Video Compression reduces file sizes without sacrificing quality, ideal for web and social media sharing.",
+        "Noise Reduction enhances audio clarity by removing background noise, perfect for podcasts and videos.",
+        "Video Trimming allows users to cut unwanted sections, improving content focus and engagement.",
+        "Image Editing Tools enable cropping, resizing, and text addition for quick photo enhancements."
+    ],
+    "faqs": [
+        {
+            "question": "What is Media.io used for?",
+            "answer": "Media.io is used for editing, converting, and enhancing audio, video, and image files online, catering to content creators, educators, and professionals."
+        },
+        {
+            "question": "Does Media.io offer a free plan?",
+            "answer": "Yes, Media.io provides a free plan with basic features, though it has limitations on file size and processing capabilities."
+        },
+        {
+            "question": "Can I use Media.io for commercial projects?",
+            "answer": "Yes, Media.io allows users to create content for both personal and commercial purposes without restrictions on processed files."
+        },
+        {
+            "question": "Does Media.io require software downloads?",
+            "answer": "No, Media.io is a browser-based platform, so no software installation is needed to use its tools."
+        },
+        {
+            "question": "How does Media.io ensure user privacy?",
+            "answer": "Media.io automatically deletes processed files after completion and uses industry-standard security measures to protect user data."
+        },
+        {
+            "question": "What file formats does Media.io support?",
+            "answer": "Media.io supports a wide range of formats, including MP3, WAV, MP4, AVI, and various image types for versatile media processing."
+        },
+        {
+            "question": "Is Media.io suitable for beginners?",
+            "answer": "Yes, its user-friendly interface makes it accessible for beginners while offering advanced features for professionals."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Coze",
+    "description": "Coze is a no-code AI chatbot development platform for creating and deploying bots across multiple messaging apps.",
+    "longDescription": "Coze is a next-generation AI chatbot development platform designed to empower users, regardless of coding experience, to create and deploy custom AI bots. Built by ByteDance, it leverages large language models to enable seamless bot creation with a user-friendly drag-and-drop interface. The platform supports integration with various messaging apps like Discord, Telegram, and Slack, making it versatile for personal and commercial use. Coze aims to simplify automation, enhance customer service, and streamline workflows by offering tools like plugins, memory, and multi-agent collaboration. It serves a wide audience, from developers to non-technical users, seeking efficient chatbot solutions. The platform also ensures secure data handling with industry-standard encryption.",
+    "url": "https://www.coze.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.coze.com.webp",
+    "category": "AI Chat Generator",
+    "categorySlug": "ai-chat-generator",
+    "slug": "coze",
+    "categories": [
+        "AI Chat Generator",
+        "No-Code&Low-Code",
+        "Large Language Models (LLMs)",
+        "AI Workflow",
+        "AI API",
+        "AI Customer Service",
+        "AI Agent"
+    ],
+    "features": [
+        "No-code bot builder allows users to create AI chatbots using a simple drag-and-drop interface, making it accessible to non-programmers.",
+        "Multi-channel deployment enables bots to be published on platforms like Discord, Telegram, Slack, and more for broad accessibility.",
+        "Large language model integration powers natural, conversational bot interactions for enhanced user engagement.",
+        "Plugin support connects bots to external services like Google Search and DALL·E 3, expanding functionality.",
+        "Multi-agent mode allows multiple bots to collaborate, handling complex workflows efficiently.",
+        "Knowledge integration enables bots to access and utilize custom data for personalized responses.",
+        "Workflow customization provides tools to design tailored automation processes for specific user needs.",
+        "API integration offers advanced users flexibility to connect bots with existing systems.",
+        "Long and short-term memory capabilities allow bots to retain context for more coherent interactions.",
+        "Real-time WebSocket support enables dynamic, interactive chatbot conversations.",
+        "Secure data handling ensures user and bot data is protected with industry-standard encryption."
+    ],
+    "faqs": [
+        {
+            "question": "What is Coze used for?",
+            "answer": "Coze is a platform for building AI chatbots without coding, enabling users to create bots for customer service, task automation, or personal projects, deployable across various messaging apps."
+        },
+        {
+            "question": "Do I need coding skills to use Coze?",
+            "answer": "No, Coze’s drag-and-drop interface allows anyone to build chatbots without coding, though advanced users can use APIs for customization."
+        },
+        {
+            "question": "Is Coze free to use?",
+            "answer": "Coze offers a free plan with essential features and limited resources, with paid plans available for larger or commercial needs."
+        },
+        {
+            "question": "Which platforms can I deploy Coze bots to?",
+            "answer": "Coze supports deployment to Discord, Telegram, Slack, Reddit, and others via webhooks, including Messenger and Instagram."
+        },
+        {
+            "question": "How secure is Coze for handling data?",
+            "answer": "Coze adheres to privacy regulations and uses industry-standard encryption to protect user and bot data."
+        },
+        {
+            "question": "Can Coze bots handle complex tasks?",
+            "answer": "Yes, Coze supports multi-agent collaboration and workflow customization, enabling bots to manage complex tasks efficiently."
+        },
+        {
+            "question": "Does Coze support multiple languages?",
+            "answer": "Coze’s large language models support multilingual interactions, making it suitable for global use."
+        },
+        {
+            "question": "Can I integrate Coze with my existing systems?",
+            "answer": "Yes, Coze offers API integration for advanced users to connect bots with external systems or applications."
+        }
+    ]
+}

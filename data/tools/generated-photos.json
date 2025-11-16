@@ -1,0 +1,61 @@
+{
+    "name": "Generated Photos",
+    "description": "Generated Photos provides AI-generated, copyright-free headshot and full-body images for creative and commercial use.",
+    "longDescription": "Generated Photos is a platform offering a diverse collection of AI-generated, photorealistic images of human faces and full-body models for use in creative projects, marketing, and game design. Its mission is to provide high-quality, worry-free visual content that eliminates the need for traditional photoshoots, saving users time and resources. The website allows users to search, customize, and download images or integrate them via an API, catering to designers, marketers, and developers. By leveraging advanced AI technology, it ensures unique, royalty-free images that can be tailored to specific parameters like age, emotion, or pose. The platform also offers datasets for AI training, addressing needs in machine learning and computer vision.",
+    "url": "https://generated.photos/?utm_source=ainavdir",
+    "screenshot": "/screenshot/generated.photos.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "generated-photos",
+    "categories": [
+        "AI Image Generator",
+        "AI Portrait Generator",
+        "AI Person Generator",
+        "AI API",
+        "AI Design Generator",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Search and filter a vast database of AI-generated faces using parameters like age, gender, and emotion for precise image selection.",
+        "Create custom photorealistic faces or full-body humans by defining specific attributes in the Face Generator and Human Generator tools.",
+        "Download high-quality, copyright-free images for commercial and creative projects without licensing concerns.",
+        "Integrate AI-generated images into applications or workflows seamlessly using the platform’s API.",
+        "Access bulk download options and datasets for large-scale projects or AI model training.",
+        "Use the Anonymizer tool to upload a similar face and generate unique, AI-crafted versions for enhanced privacy or customization.",
+        "Modify existing photos in real-time to adjust features like pose or lighting, streamlining creative workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is Generated Photos used for?",
+            "answer": "Generated Photos provides AI-generated images for creative projects, marketing campaigns, game design, and AI model training, offering royalty-free visuals."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Generated Photos offers a free plan allowing limited access to images for personal or non-commercial use with attribution required."
+        },
+        {
+            "question": "Can I use these images commercially?",
+            "answer": "Commercial use is permitted with a paid license, ensuring worry-free usage for advertising, products, or other business needs."
+        },
+        {
+            "question": "How does the Face Generator work?",
+            "answer": "The Face Generator lets users define parameters like age, emotion, or ethnicity to create custom, photorealistic AI-generated faces."
+        },
+        {
+            "question": "What is the Anonymizer tool?",
+            "answer": "The Anonymizer allows users to upload a face and generate a unique AI version, useful for privacy or creating similar but distinct images."
+        },
+        {
+            "question": "Can I integrate Generated Photos with my app?",
+            "answer": "Yes, the platform offers an API for seamless integration of AI-generated images into applications or workflows."
+        },
+        {
+            "question": "Are the images copyright-free?",
+            "answer": "All images are copyright-free and royalty-free, with usage rights depending on the purchased license."
+        },
+        {
+            "question": "What are the datasets used for?",
+            "answer": "Datasets provide diverse AI-generated images for training machine learning models in computer vision and other AI applications."
+        }
+    ]
+}

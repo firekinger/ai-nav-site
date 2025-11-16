@@ -1,0 +1,72 @@
+{
+    "name": "MindsDB",
+    "description": "MindsDB is an open-source platform that integrates machine learning capabilities directly into databases, enabling users to build, train, and deploy AI models using SQL.",
+    "longDescription": "MindsDB is an innovative open-source AI layer designed for existing databases, allowing developers and data practitioners to create and deploy machine learning models without leaving their SQL environment. Its mission is to democratize AI by bridging the gap between data storage and machine learning, making advanced analytics accessible to those without deep data science expertise. By enabling in-database ML, MindsDB solves common problems like data silos, complex ETL processes, and the need for separate ML tools, thus streamlining workflows for real-time predictions and insights. The platform supports a wide range of databases, including MySQL, PostgreSQL, and cloud-based systems, and integrates with popular ML frameworks like TensorFlow and Hugging Face. Overall, it empowers businesses to leverage AI for tasks such as forecasting, classification, and natural language processing directly on their data.",
+    "url": "https://mindsdb.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mindsdb.com.webp",
+    "category": "AI For Data Analytics",
+    "categorySlug": "ai-for-data-analytics",
+    "slug": "mindsdb",
+    "categories": [
+        "AI For Data Analytics",
+        "AI Tools Directory",
+        "SQL Query Builder",
+        "AI Text Classifier",
+        "Open Source AI Models",
+        "AI Predictions"
+    ],
+    "features": [
+        "In-database machine learning allows users to train and deploy ML models directly within their database using simple SQL queries, reducing the need for external tools and simplifying integration.",
+        "AutoML functionality automatically selects optimal models and hyperparameters based on the data, making ML accessible to non-experts and accelerating development.",
+        "Time-series forecasting enables accurate predictions for sequential data, benefiting applications like financial modeling, demand planning, and anomaly detection.",
+        "Natural language processing integration lets users apply NLP models to text data in databases, facilitating sentiment analysis and text classification tasks.",
+        "Seamless database connectivity supports popular systems like MySQL, PostgreSQL, MongoDB, and cloud services, ensuring versatility across different data environments.",
+        "Pre-built ML handlers provide easy integration with frameworks such as LightGBM, Hugging Face, and OpenAI, allowing quick deployment of advanced AI models.",
+        "Real-time predictions enable on-the-fly inference within database queries, supporting dynamic applications like recommendation systems and fraud detection.",
+        "Open-source community-driven extensions allow users to contribute and customize handlers for specific use cases, fostering innovation and collaboration.",
+        "Enterprise-grade security features in pro versions include role-based access control and encryption, ensuring safe handling of sensitive data.",
+        "Scalable deployment options support cloud, on-premises, or hybrid setups, accommodating growing data and ML workloads efficiently."
+    ],
+    "faqs": [
+        {
+            "question": "What is MindsDB?",
+            "answer": "MindsDB is an open-source platform that adds an AI layer to databases, allowing users to build and deploy machine learning models using SQL. It integrates ML directly into data workflows, making AI accessible without specialized expertise."
+        },
+        {
+            "question": "Is MindsDB free to use?",
+            "answer": "Yes, MindsDB offers a free open-source version with core features. There is also a pro version with additional enterprise capabilities like enhanced support and scalability."
+        },
+        {
+            "question": "Which databases does MindsDB support?",
+            "answer": "MindsDB supports a variety of databases including MySQL, PostgreSQL, MongoDB, Snowflake, and Redis, among others. This broad compatibility allows integration with both relational and NoSQL systems."
+        },
+        {
+            "question": "How does MindsDB handle machine learning models?",
+            "answer": "MindsDB enables users to train models using SQL commands and deploys them for predictions within the database. It supports AutoML for automatic model selection and integrates with external frameworks like TensorFlow."
+        },
+        {
+            "question": "Can MindsDB be used for time-series forecasting?",
+            "answer": "Yes, MindsDB has built-in support for time-series forecasting, allowing users to create predictive models for data like stock prices or sales trends. It handles features such as seasonality and trend analysis automatically."
+        },
+        {
+            "question": "What are the benefits of using MindsDB for businesses?",
+            "answer": "MindsDB streamlines AI adoption by reducing the complexity of ML integration, enabling faster insights from data. It lowers costs by eliminating the need for separate ML infrastructure and empowers non-data scientists to build models."
+        },
+        {
+            "question": "How secure is MindsDB?",
+            "answer": "MindsDB includes security features like encryption and access controls in its pro version. As an open-source tool, users can audit the code, and it follows best practices for data privacy in database integrations."
+        },
+        {
+            "question": "Does MindsDB support natural language processing?",
+            "answer": "Yes, MindsDB integrates with NLP models from sources like Hugging Face, allowing users to perform text analysis tasks directly in their databases. This is useful for sentiment analysis or entity recognition."
+        },
+        {
+            "question": "How do I get started with MindsDB?",
+            "answer": "You can install MindsDB via Docker, pip, or directly from source, then connect it to your database. The documentation provides tutorials for creating your first ML model with SQL queries."
+        },
+        {
+            "question": "What makes MindsDB different from other ML platforms?",
+            "answer": "Unlike traditional ML tools that require data export and separate environments, MindsDB operates directly within databases using SQL. This in-database approach minimizes latency and simplifies workflows for data-driven AI."
+        }
+    ]
+}

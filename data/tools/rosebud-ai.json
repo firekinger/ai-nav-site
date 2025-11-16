@@ -1,0 +1,62 @@
+{
+    "name": "Rosebud AI",
+    "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+    "longDescription": "Rosebud AI is an innovative platform that empowers users to create, share, and play 2D and 3D games and creative applications using generative AI, eliminating the need for extensive coding knowledge. Founded in 2019 by Lisha Li, the company aims to transform game development by making it accessible and fun, turning imagination into immersive experiences. Its mission is to shift the balance from consumption to creation, enabling anyone to build entire universes through intuitive, AI-powered tools. The platform supports a wide range of users, from hobbyists to educators, by offering resources like sprite sheet generators and AI-driven non-player characters (NPCs). Rosebud AI also fosters a community where users can exchange ideas and explore games created by others, enhancing creativity and collaboration.",
+    "url": "https://www.rosebud.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.rosebud.ai.webp",
+    "category": "AI Game Generator",
+    "categorySlug": "ai-game-generator",
+    "slug": "rosebud-ai",
+    "categories": [
+        "AI Game Generator",
+        "AI Creative Writing",
+        "AI Character",
+        "AI Story Generator",
+        "AI Project Management",
+        "AI Design Generator"
+    ],
+    "features": [
+        "The Rosebud Game Creator allows users to design game mechanics, environments, and characters effortlessly using AI-driven features.",
+        "The Sprite Sheet Generator automates the creation of animation frames for game sprites, streamlining the animation process for developers.",
+        "AI NPCs enable dynamic interactions with players through sophisticated AI algorithms, enhancing gameplay engagement.",
+        "The Visual Novel Maker provides templates and tools for crafting immersive narrative-driven stories with minimal technical expertise.",
+        "The platform supports cross-platform game development, allowing games to be created and played across multiple devices.",
+        "Real-time collaboration features enable team-based game development, fostering seamless project coordination.",
+        "Users can import custom assets to personalize their game projects, enhancing creative flexibility.",
+        "The platform offers educational resources, including blogs on AI game development and generative AI, to support learning and integration in curricula."
+    ],
+    "faqs": [
+        {
+            "question": "What is Rosebud AI?",
+            "answer": "Rosebud AI is a platform that uses generative AI to simplify game development, allowing users to create 2D and 3D games and creative apps without coding skills."
+        },
+        {
+            "question": "Is there a free trial available for Rosebud AI?",
+            "answer": "Yes, Rosebud AI offers a free trial for users to explore its features and test the platform’s capabilities."
+        },
+        {
+            "question": "Do I need coding experience to use Rosebud AI?",
+            "answer": "No, Rosebud AI is designed to be accessible to users with varying levels of coding knowledge, simplifying the game development process with AI tools."
+        },
+        {
+            "question": "Can I monetize games created on Rosebud AI?",
+            "answer": "Yes, users have full rights to monetize the games they create using Rosebud AI."
+        },
+        {
+            "question": "Does Rosebud AI support team collaboration?",
+            "answer": "Yes, the platform offers real-time collaboration features for team-based game development projects."
+        },
+        {
+            "question": "Are there community resources for Rosebud AI users?",
+            "answer": "Yes, Rosebud AI has an active community where users can share ideas, tips, and resources to enhance their projects."
+        },
+        {
+            "question": "What types of games can I create with Rosebud AI?",
+            "answer": "Rosebud AI supports various game types, including visual novels, RPGs, cozy games, and interactive stories, through specialized tools like Visual Novel Maker and RPG Maker."
+        },
+        {
+            "question": "Is Rosebud AI suitable for educational purposes?",
+            "answer": "Yes, Rosebud AI provides educational tools and content, such as blogs on AI game development, to help educators integrate AI into their curricula."
+        }
+    ]
+}

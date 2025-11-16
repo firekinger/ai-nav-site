@@ -1,0 +1,65 @@
+{
+    "name": "Softr",
+    "description": "Softr enables users to build custom web apps, client portals, and internal tools without coding, using Airtable or Google Sheets data.",
+    "longDescription": "Softr is a no-code platform designed to empower non-technical users to create custom web applications, client portals, and internal tools quickly and efficiently. By leveraging data from Airtable, Google Sheets, and other sources, it simplifies the development process, eliminating the need for coding expertise. Softr’s mission is to democratize software development, enabling businesses, startups, and individuals to build tailored solutions that streamline workflows and enhance productivity. Its intuitive interface and pre-built templates allow users to launch functional apps in minutes, making it ideal for rapid prototyping and scalable solutions. The platform integrates seamlessly with popular tools like Zapier, Stripe, and HubSpot, ensuring flexibility and connectivity. Softr’s focus on user permissions and data security makes it suitable for both internal team tools and customer-facing applications.",
+    "url": "https://www.softr.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.softr.io.webp",
+    "category": "No-Code&Low-Code",
+    "categorySlug": "no-code-low-code",
+    "slug": "softr",
+    "categories": [
+        "No-Code&Low-Code",
+        "AI Website Builder",
+        "AI Document Extraction",
+        "AI Workflow",
+        "AI For Data Analytics",
+        "AI Productivity Tools",
+        "AI API"
+    ],
+    "features": [
+        "Build web apps in minutes using 100+ responsive, customizable templates for portals, trackers, and more.",
+        "Integrate with 14+ data sources like Airtable, Google Sheets, HubSpot, and SQL for real-time data syncing.",
+        "Manage user permissions to control access and ensure secure data sharing for internal or external users.",
+        "Create client portals with seamless integrations for tools like Stripe, Zapier, and Intercom to enhance functionality.",
+        "Design mobile-friendly apps with no coding, ensuring accessibility across devices for all users.",
+        "Use workflow automation to streamline processes and reduce manual tasks within custom applications.",
+        "Access 24/7 chat support on all plans to resolve issues and keep projects moving smoothly.",
+        "Hire certified Softr experts for advanced project customization and professional guidance.",
+        "Leverage Softr’s API to extend app functionality and connect with custom third-party services.",
+        "Build internal tools like CRMs or intranets to organize team data and improve operational efficiency."
+    ],
+    "faqs": [
+        {
+            "question": "What is Softr used for?",
+            "answer": "Softr is used to create custom web apps, client portals, and internal tools without coding, leveraging data from Airtable or Google Sheets."
+        },
+        {
+            "question": "Does Softr offer a free plan?",
+            "answer": "Yes, Softr provides a free plan with limited features, allowing users to build and test apps before upgrading."
+        },
+        {
+            "question": "Can I integrate Softr with my existing data?",
+            "answer": "Softr connects to 14+ data sources, including Airtable, Google Sheets, HubSpot, and SQL, for seamless data integration."
+        },
+        {
+            "question": "Is coding required to use Softr?",
+            "answer": "No, Softr is a no-code platform, enabling anyone to build apps using its intuitive drag-and-drop interface."
+        },
+        {
+            "question": "How secure is Softr for sensitive data?",
+            "answer": "Softr is SOC 2 (Type II) compliant and supports SSO (SAML, OpenID), ensuring secure data handling and user access control."
+        },
+        {
+            "question": "Can Softr apps be used on mobile devices?",
+            "answer": "Yes, Softr apps are mobile-friendly, providing a seamless experience across desktops, tablets, and smartphones."
+        },
+        {
+            "question": "What kind of support does Softr offer?",
+            "answer": "Softr provides 24/7 chat support on all plans and access to certified experts for advanced project assistance."
+        },
+        {
+            "question": "How quickly can I build an app with Softr?",
+            "answer": "With pre-built templates and an intuitive interface, users can create a functional app in under 30 minutes."
+        }
+    ]
+}

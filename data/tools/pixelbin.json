@@ -1,0 +1,66 @@
+{
+    "name": "PixelBin",
+    "description": "PixelBin is an AI-powered platform for managing, optimizing, and transforming digital assets like images and videos for enhanced visual experiences.",
+    "longDescription": "PixelBin.io is an AI-driven platform designed to streamline digital asset management, offering tools for real-time image and video transformations, optimization, and delivery. It serves businesses, creators, and developers by providing seamless integration with existing systems through extensive SDKs and APIs. The platform addresses challenges like slow image loading and complex editing by automating tasks such as background removal, upscaling, and watermark removal. Its user-friendly interface caters to both beginners and professionals, making it ideal for e-commerce, social media, and design workflows. PixelBin aims to enhance visual content quality while reducing operational costs and time, as demonstrated by case studies like The Pant Project, which revamped its catalog in just four days.",
+    "url": "https://pixelbin.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pixelbin.io.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "pixelbin",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Image Upscaler",
+        "AI Watermark Remover",
+        "AI Shopping Assistant",
+        "AI Social Media Post Generator",
+        "AI API"
+    ],
+    "features": [
+        "AI-powered background removal isolates subjects in images with zero manual effort, perfect for product photography and portraits.",
+        "The image upscaling feature enhances resolution while preserving details, ideal for high-quality prints and digital displays.",
+        "Real-time image transformations allow instant adjustments like cropping, resizing, and applying filters for efficient content creation.",
+        "Automatic image optimization reduces file sizes by up to 30% without quality loss, improving website loading speeds.",
+        "Content delivery network (CDN) integration ensures fast image and video delivery across devices for a seamless user experience.",
+        "Social media templates provide pre-designed formats for platforms like Instagram and LinkedIn, optimizing posts for engagement.",
+        "Extensive SDKs and APIs enable easy integration with various tech stacks for developers and businesses.",
+        "Watermark removal eliminates logos and text from images cleanly, maintaining professional quality for branded content.",
+        "The intuitive drag-and-drop interface simplifies editing, making it accessible for users with no prior experience.",
+        "Marketplace-ready tools craft images optimized for e-commerce platforms like Shopify, Amazon, and eBay to boost visibility and sales."
+    ],
+    "faqs": [
+        {
+            "question": "What is PixelBin used for?",
+            "answer": "PixelBin is used for managing, optimizing, and transforming digital assets like images and videos using AI-powered tools for businesses, creators, and developers."
+        },
+        {
+            "question": "Does PixelBin offer a free plan?",
+            "answer": "Yes, PixelBin offers a free plan with 3 credits monthly, allowing users to test core features like background removal and image optimization."
+        },
+        {
+            "question": "How does PixelBin's AI background removal work?",
+            "answer": "The AI-powered background remover automatically isolates subjects in images, eliminating manual editing for product photography or portraits."
+        },
+        {
+            "question": "Can PixelBin integrate with my existing system?",
+            "answer": "PixelBin provides extensive SDKs and APIs for seamless integration with various backend, frontend, and mobile frameworks."
+        },
+        {
+            "question": "Is PixelBin suitable for e-commerce?",
+            "answer": "Yes, PixelBin offers tools to create marketplace-ready images optimized for platforms like Shopify, Amazon, and eBay to enhance visibility and sales."
+        },
+        {
+            "question": "How does the credit system work in PixelBin?",
+            "answer": "Different features consume varying credits, so users must plan usage carefully, especially on the free plan with limited monthly credits."
+        },
+        {
+            "question": "Can PixelBin handle bulk image processing?",
+            "answer": "Yes, PixelBin supports bulk image transformations, making it efficient for managing large numbers of images for websites or catalogs."
+        },
+        {
+            "question": "What support options are available for PixelBin users?",
+            "answer": "Users can contact PixelBin support at support@pixelbin.io or social@pixelbin.io for assistance with account or technical issues."
+        }
+    ]
+}

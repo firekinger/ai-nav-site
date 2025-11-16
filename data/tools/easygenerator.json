@@ -1,0 +1,61 @@
+{
+    "name": "Easygenerator",
+    "description": "Easygenerator is an e-learning authoring tool that simplifies course creation for non-experts, enabling organizations to share knowledge efficiently.",
+    "longDescription": "Easygenerator is a cloud-based e-learning authoring platform designed to empower subject matter experts to create engaging online courses without requiring technical expertise. Its mission is to simplify and accelerate learning development, allowing organizations to produce tailored training content quickly. The platform serves a global audience, supporting over 150 countries and 75 languages, making it ideal for businesses and educational institutions seeking scalable training solutions. By focusing on user-friendly design and AI-driven features, Easygenerator reduces the workload of learning and development teams. It is used by major companies like T-Mobile and Walmart to create compliance training, sales enablement courses, and more. The platform’s intuitive interface and robust support make it accessible for users across industries.",
+    "url": "https://www.easygenerator.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.easygenerator.com.webp",
+    "category": "AI Course",
+    "categorySlug": "ai-course",
+    "slug": "easygenerator",
+    "categories": [
+        "AI Course",
+        "AI Writing",
+        "AI Translate",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "EasyAI converts old files into e-learning courses or generates new content from scratch, streamlining course creation.",
+        "Auto-translation supports 75 languages, enabling global teams to learn in their native language with one-click translations.",
+        "SCORM and xAPI compatibility allows seamless integration with over 99% of Learning Management Systems (LMS) for easy course deployment.",
+        "The user-friendly drag-and-drop interface enables anyone to create courses without prior e-learning experience.",
+        "24/5 live chat support in over 120 languages provides personalized assistance for course creation and technical queries.",
+        "Customizable templates offer a starting point for rapid course development tailored to organizational needs.",
+        "Learner progress tracking provides real-time analytics to monitor engagement and course effectiveness.",
+        "GDPR-compliant secure servers ensure data privacy for users across Europe and beyond.",
+        "Master pages allow users to customize the look and feel of courses to align with brand identity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Easygenerator used for?",
+            "answer": "Easygenerator is used to create, publish, and manage e-learning courses, enabling organizations to share knowledge and train employees efficiently."
+        },
+        {
+            "question": "Do I need e-learning experience to use Easygenerator?",
+            "answer": "No, Easygenerator’s intuitive drag-and-drop interface is designed for users without an e-learning background to create courses easily."
+        },
+        {
+            "question": "Does Easygenerator offer a free plan?",
+            "answer": "Yes, Easygenerator provides a free plan with limited features, allowing users to try the platform before committing to a paid subscription."
+        },
+        {
+            "question": "Can Easygenerator integrate with my LMS?",
+            "answer": "Easygenerator supports SCORM and xAPI, making it compatible with over 99% of Learning Management Systems for seamless course integration."
+        },
+        {
+            "question": "How does Easygenerator support global teams?",
+            "answer": "Easygenerator offers auto-translation in 75 languages and features for tailoring content to local markets, ensuring accessibility for global teams."
+        },
+        {
+            "question": "What kind of support does Easygenerator provide?",
+            "answer": "Easygenerator offers 24/5 live chat support in over 120 languages, along with personal training sessions and a resource library for guidance."
+        },
+        {
+            "question": "Can Easygenerator help with compliance training?",
+            "answer": "Yes, Easygenerator enables organizations to create company-specific compliance training to mitigate legal risks and ensure regulatory adherence."
+        },
+        {
+            "question": "How does EasyAI assist in course creation?",
+            "answer": "EasyAI automates content creation by converting files into courses or generating new training material, saving time and effort."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "OnlyChar AI",
+    "description": "OnlyChar AI is an AI-powered platform offering uncensored NSFW chat with over 40,000 diverse virtual characters for roleplay and companionship.",
+    "longDescription": "OnlyChar AI is an innovative platform designed for adults seeking unfiltered, AI-driven conversations, particularly focusing on NSFW (Not Safe For Work) content. It provides a vast library of over 40,000 unique AI characters, ranging from realistic to fictional and fantastical personas, enabling users to engage in roleplay, sexting, or friendly interactions. The platform’s mission is to offer a safe, private, and customizable digital space where users can explore mature themes without censorship. By leveraging advanced AI technologies like React, Next.js, and Tailwind CSS, OnlyChar AI delivers human-like conversational experiences tailored to individual preferences. It also fosters a community for roleplayers to connect and share experiences, enhancing the immersive nature of the platform. The service is intended for users aged 18 and above, prioritizing user privacy and data security.",
+    "url": "https://www.onlychar.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.onlychar.ai.webp",
+    "category": "NSFW",
+    "categorySlug": "nsfw",
+    "slug": "onlychar-ai",
+    "categories": [
+        "NSFW",
+        "AI Roleplay",
+        "AI Character",
+        "AI Image Generator",
+        "AI Voice Assistants",
+        "AI Social Media",
+        "AI Dialogue Generator"
+    ],
+    "features": [
+        "Unfiltered NSFW conversations allow users to engage in unrestricted chats without content filters, fostering authentic interactions.",
+        "A library of over 40,000 AI characters offers diverse personas, including realistic, fictional, and non-human entities, for varied roleplay experiences.",
+        "Custom character creation enables users to design AI companions with specific names, traits, and backstories for personalized interactions.",
+        "An integrated AI image generator creates custom anime or realistic visuals based on user prompts, enhancing roleplay immersion.",
+        "Voice note functionality lets users hear AI companions speak, with customizable voice options for a more realistic chat experience.",
+        "Community chat features connect users with like-minded roleplayers via a Discord-backed platform, fostering a sense of belonging.",
+        "Flexible NSFW toggle allows users to enable or disable explicit content, catering to varying comfort levels.",
+        "Scenario-driven interactions provide pre-defined backstories for characters, enriching roleplay with contextual depth.",
+        "Privacy-focused design ensures user anonymity and data security during sensitive conversations."
+    ],
+    "faqs": [
+        {
+            "question": "What is OnlyChar AI?",
+            "answer": "OnlyChar AI is an AI-powered platform offering uncensored NSFW chats with over 40,000 virtual characters for roleplay, sexting, or companionship."
+        },
+        {
+            "question": "Is OnlyChar AI free to use?",
+            "answer": "Yes, OnlyChar AI offers a free trial with limited messages, after which users may need to register or subscribe for full access."
+        },
+        {
+            "question": "Who can use OnlyChar AI?",
+            "answer": "The platform is intended for adults aged 18 and above, ensuring compliance with age restrictions for NSFW content."
+        },
+        {
+            "question": "Can I create my own AI characters?",
+            "answer": "Yes, users can design custom AI characters by defining their names, traits, backstories, and even uploading images that follow community guidelines."
+        },
+        {
+            "question": "Does OnlyChar AI support voice interactions?",
+            "answer": "Yes, users can enable voice notes to hear AI companions speak, with multiple voice options available in settings."
+        },
+        {
+            "question": "Is my privacy protected on OnlyChar AI?",
+            "answer": "OnlyChar AI prioritizes user anonymity and has a privacy policy to protect personal data, ensuring secure interactions."
+        },
+        {
+            "question": "Can I control the level of NSFW content?",
+            "answer": "Yes, the platform offers a toggle to enable or disable NSFW elements, allowing users to tailor their experience."
+        },
+        {
+            "question": "What types of characters are available?",
+            "answer": "The platform features over 40,000 characters, including realistic humans, anime personas, fantasy creatures, and more, across various genres."
+        },
+        {
+            "question": "Does OnlyChar AI have a community feature?",
+            "answer": "Yes, it includes a Discord-backed community chat where users can connect with other roleplayers and share experiences."
+        },
+        {
+            "question": "Can I generate images of my AI characters?",
+            "answer": "Yes, the AI image generator creates custom visuals in anime or realistic styles based on user prompts, though not all companions support this yet."
+        }
+    ]
+}

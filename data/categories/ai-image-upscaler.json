@@ -1,0 +1,611 @@
+{
+    "title": "The Best 55 AI Image Upscaler Tools in 2025",
+    "summary": "Unlock the potential of your images with our AI Image Upscaler tools. Designed to enhance image quality without losing detail, these innovative solutions allow you to enlarge photos, graphics, and artwork effortlessly. Whether you're a photographer, designer, or content creator, our tools help you achieve stunning results, making your visuals pop. Say goodbye to pixelation and hello to clarity! Explore our curated selection of AI Image Upscalers today and elevate your visual content to new heights. Start transforming your images now!",
+    "tools": [
+        {
+            "id": "40",
+            "name": "SeaArt AI",
+            "slug": "seaart-ai",
+            "description": "SeaArt AI is an AI-powered platform for creating and customizing digital artwork, videos, and characters from text or image prompts.",
+            "icon": "/logo/seaart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "186",
+            "name": "Upscale.media",
+            "slug": "upscale-media",
+            "description": "Upscale.media is an AI-powered platform that enhances and upscales images to improve their quality and resolution.",
+            "icon": "/logo/www.upscale.media.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "190",
+            "name": "ImgUpscaler",
+            "slug": "imgupscaler",
+            "description": "ImgUpscaler provides AI-powered tools to enhance and upscale images for improved quality and clarity.",
+            "icon": "/logo/imgupscaler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "284",
+            "name": "HitPaw",
+            "slug": "hitpaw",
+            "description": "HitPaw offers AI-powered multimedia editing tools for video, audio, and image enhancement.",
+            "icon": "/logo/www.hitpaw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "309",
+            "name": "Bigjpg",
+            "slug": "bigjpg",
+            "description": "Bigjpg is an AI-powered tool for lossless image upscaling, specializing in anime-style artworks and photos.",
+            "icon": "/logo/bigjpg.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "ClipDrop",
+            "slug": "clipdrop",
+            "description": "ClipDrop is an AI-powered platform for editing and creating professional-grade visuals with ease.",
+            "icon": "/logo/clipdrop.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "334",
+            "name": "LetsEnhance",
+            "slug": "letsenhance",
+            "description": "LetsEnhance uses AI to upscale and enhance images, improving resolution and quality for professional and personal use.",
+            "icon": "/logo/letsenhance.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "370",
+            "name": "Flux AI",
+            "slug": "flux-ai",
+            "description": "Flux AI is an advanced AI-powered platform for generating high-quality images and videos from text prompts.",
+            "icon": "/logo/flux1.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "387",
+            "name": "BeautyPlus",
+            "slug": "beautyplus",
+            "description": "BeautyPlus is a free AI-powered photo and video editing platform offering creative tools for selfies, aesthetic filters, and professional-quality enhancements.",
+            "icon": "/logo/www.beautyplus.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "410",
+            "name": "Phot.AI",
+            "slug": "phot-ai",
+            "description": "Phot.AI is an AI-powered platform for seamless photo editing and visual design, catering to e-commerce, content creators, and professionals.",
+            "icon": "/logo/www.phot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "414",
+            "name": "Flux AI",
+            "slug": "flux-ai-io",
+            "description": "Flux AI provides advanced AI-powered tools for generating high-quality images and videos from text and image inputs.",
+            "icon": "/logo/flux-ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "432",
+            "name": "Aitubo",
+            "slug": "aitubo",
+            "description": "Aitubo is an AI-powered platform for generating high-quality images, videos, music, and avatars from text or images, catering to creators and artists.",
+            "icon": "/logo/aitubo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "445",
+            "name": "Imglarger",
+            "slug": "imglarger",
+            "description": "Imglarger provides AI-powered tools to enhance, upscale, edit, and convert images for professional and personal use.",
+            "icon": "/logo/imglarger.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "446",
+            "name": "Neural.love",
+            "slug": "neural-love",
+            "description": "Neural.love is an AI-powered platform for creating and enhancing images, videos, and audio with user-friendly tools.",
+            "icon": "/logo/neural.love.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "448",
+            "name": "GoEnhance AI",
+            "slug": "goenhance-ai",
+            "description": "GoEnhance AI is an AI-powered platform for transforming and enhancing videos and images with advanced creative tools.",
+            "icon": "/logo/www.goenhance.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "461",
+            "name": "DomoAI",
+            "slug": "domoai",
+            "description": "DomoAI is an AI-powered platform for transforming videos, images, and text into high-quality animations and creative styles.",
+            "icon": "/logo/www.domoai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "Hotpot.ai",
+            "slug": "hotpot-ai",
+            "description": "Hotpot.ai is an AI-powered platform for creating and enhancing images, graphics, and written content to boost creativity and productivity.",
+            "icon": "/logo/hotpot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "484",
+            "name": "BasedLabs",
+            "slug": "basedlabs-ai",
+            "description": "BasedLabs is an AI-powered platform for generating and editing images and videos, catering to creators and enthusiasts.",
+            "icon": "/logo/www.basedlabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "485",
+            "name": "PixelBin",
+            "slug": "pixelbin",
+            "description": "PixelBin is an AI-powered platform for managing, optimizing, and transforming digital assets like images and videos for enhanced visual experiences.",
+            "icon": "/logo/pixelbin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "492",
+            "name": "X-Design",
+            "slug": "x-design",
+            "description": "X-Design provides AI-powered photo editing tools to create professional product visuals for e-commerce and marketing.",
+            "icon": "/logo/www.x-design.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "508",
+            "name": "Pincel",
+            "slug": "pincel",
+            "description": "Pincel is an AI-powered online image editing app that simplifies photo manipulation for users of all skill levels.",
+            "icon": "/logo/pincel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "514",
+            "name": "VanceAI",
+            "slug": "vanceai",
+            "description": "VanceAI provides AI-powered tools for photo enhancement, editing, and restoration to boost creativity and productivity.",
+            "icon": "/logo/vanceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "553",
+            "name": "Magnific AI",
+            "slug": "magnific-ai",
+            "description": "Magnific AI is an advanced AI-powered tool for upscaling and enhancing images with high-resolution detail and creative customization.",
+            "icon": "/logo/magnific.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "557",
+            "name": "CGDream",
+            "slug": "cgdream-ai",
+            "description": "CGDream is an AI-powered image and 3D model generator that transforms text, images, or 3D inputs into stunning, customizable visuals.",
+            "icon": "/logo/cgdream.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "558",
+            "name": "Upscayl",
+            "slug": "upscayl",
+            "description": "Upscayl is a free, open-source AI image upscaler that enhances low-resolution images for Linux, MacOS, and Windows.",
+            "icon": "/logo/upscayl.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "608",
+            "name": "ImageColorizer",
+            "slug": "imagecolorizer",
+            "description": "ImageColorizer uses AI to colorize and restore black-and-white photos, enhancing old images with vibrant colors and clarity.",
+            "icon": "/logo/imagecolorizer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "664",
+            "name": "Autodraft AI",
+            "slug": "autodraft-ai",
+            "description": "Autodraft AI is a platform for creating 2D animations, comics, and webtoons using AI-driven tools for visual storytelling.",
+            "icon": "/logo/autodraft.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "682",
+            "name": "Logo Diffusion",
+            "slug": "logo-diffusion",
+            "description": "Logo Diffusion is an AI-powered platform for creating custom logos and brand assets quickly from text prompts or sketches.",
+            "icon": "/logo/logodiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "683",
+            "name": "Flair AI",
+            "slug": "flair-ai",
+            "description": "Flair AI is an AI-powered design tool for creating professional product photography and branded visual content for e-commerce.",
+            "icon": "/logo/flair.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "705",
+            "name": "Stockimg AI",
+            "slug": "stockimg-ai",
+            "description": "Stockimg AI is an AI-powered platform for generating high-quality, custom visuals like logos, stock photos, and illustrations.",
+            "icon": "/logo/stockimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1346",
+            "name": "Facy.ai",
+            "slug": "facy-ai",
+            "description": "Facy.ai is a cloud-based AI platform for face swapping in images and videos, providing free and premium tools for high-quality media editing and transformations.",
+            "icon": "/logo/facy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "757",
+            "name": "ImgGen AI",
+            "slug": "imggen-ai",
+            "description": "ImgGen AI is a free online platform for generating and enhancing high-quality images using AI-driven tools.",
+            "icon": "/logo/imggen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "821",
+            "name": "PhotoRestore.io",
+            "slug": "photorestore-io",
+            "description": "PhotoRestore.io is a free AI-powered platform for restoring and enhancing old, damaged, or blurry photos to preserve cherished memories.",
+            "icon": "/logo/www.photorestore.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "871",
+            "name": "Gigapixel AI",
+            "slug": "gigapixel-ai",
+            "description": "Gigapixel AI is an AI-powered tool designed to upscale and enhance images with remarkable detail and clarity.",
+            "icon": "/logo/gigapixelai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "910",
+            "name": "UniFab",
+            "slug": "unifab-ai",
+            "description": "UniFab is an AI-powered software suite for enhancing, converting, and optimizing video and audio files to achieve professional-quality results.",
+            "icon": "/logo/unifab.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "950",
+            "name": "A1.art",
+            "slug": "a1-art",
+            "description": "A1.art is an AI-powered platform that enables users to generate unique digital artworks from text prompts effortlessly.",
+            "icon": "/logo/a1.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "991",
+            "name": "Journey AI Art",
+            "slug": "journey-ai-art",
+            "description": "Journey AI Art is an innovative platform that uses artificial intelligence to generate unique and stunning artwork from user-provided text prompts.",
+            "icon": "/logo/journeyaiart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1045",
+            "name": "Image Upscaling",
+            "slug": "image-upscaling",
+            "description": "Image-Upscaling.net is an online platform that utilizes AI technology to upscale and enhance image resolutions, making low-quality images sharper and larger without losing detail.",
+            "icon": "/logo/image-upscaling.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1084",
+            "name": "cre8tiveAI",
+            "slug": "cre8tiveai",
+            "description": "cre8tiveAI is an AI-driven online platform offering advanced photo editing tools to enhance, retouch, and transform images effortlessly.",
+            "icon": "/logo/cre8tiveai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1093",
+            "name": "Imagewith.AI",
+            "slug": "imagewith-ai",
+            "description": "Imagewith.AI is an AI-powered online platform offering advanced image editing tools to enhance, upscale, and manipulate images effortlessly.",
+            "icon": "/logo/www.imagewith.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1133",
+            "name": "Upsampler",
+            "slug": "upsampler",
+            "description": "Upsampler is an AI-driven platform that specializes in upscaling and enhancing images to higher resolutions while preserving quality.",
+            "icon": "/logo/upsampler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1171",
+            "name": "UpscalePics",
+            "slug": "upscalepics",
+            "description": "UpscalePics is an AI-driven online platform that specializes in enhancing image resolution and quality through advanced upscaling technology.",
+            "icon": "/logo/upscalepics.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1174",
+            "name": "FluxPro.ai",
+            "slug": "fluxpro-ai",
+            "description": "FluxPro.ai is an advanced AI platform that enables users to generate high-quality, realistic images from text prompts using the state-of-the-art Flux.1 Pro model.",
+            "icon": "/logo/fluxpro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1177",
+            "name": "BlueWillow",
+            "slug": "bluewillow-ai",
+            "description": "BlueWillow is an AI-powered platform that enables users to generate stunning images from text prompts via a Discord bot, making art creation accessible and free.",
+            "icon": "/logo/www.bluewillow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1303",
+            "name": "AI Image Editor",
+            "slug": "ai-image-editor",
+            "description": "AI Image Editor is an online platform that leverages artificial intelligence to provide advanced image editing tools for users to enhance, manipulate, and generate images effortlessly.",
+            "icon": "/logo/aiimageeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "ImaginePro",
+            "slug": "imaginepro-ai",
+            "description": "ImaginePro is an AI-powered platform that enables users to generate high-quality images and designs for professional and creative purposes.",
+            "icon": "/logo/www.imaginepro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1347",
+            "name": "ImageFX",
+            "slug": "imagefx",
+            "description": "ImageFX is an AI-driven platform that enables users to generate, edit, and apply effects to images using advanced artificial intelligence tools.",
+            "icon": "/logo/imagefx.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1319",
+            "name": "Cashzine AI",
+            "slug": "cashzine-ai",
+            "description": "Cashzine AI is an online platform providing AI-powered tools for image editing, including background removal, upscaling, and sketching animation generation.",
+            "icon": "/logo/cashzineapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1370",
+            "name": "ImgEnhancer AI",
+            "slug": "imgenhancer-ai",
+            "description": "ImgEnhancer AI is an online platform that uses artificial intelligence to enhance and improve the quality of images through advanced editing tools.",
+            "icon": "/logo/imgenhancer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1393",
+            "name": "Haimeta",
+            "slug": "haimeta",
+            "description": "Haimeta is an AI-powered creative platform that enables users to generate images, videos, 3D models, and immersive virtual spaces from text prompts and images through human-AI collaboration.",
+            "icon": "/logo/www.haimeta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1422",
+            "name": "Qwen Image AI",
+            "slug": "qwen-image-ai",
+            "description": "Qwen Image AI is an innovative platform providing AI-driven tools for image generation, editing, and analysis powered by advanced models from Alibaba's Qwen family.",
+            "icon": "/logo/qwenimageai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1318",
+            "name": "Picsman.ai",
+            "slug": "picsman-ai",
+            "description": "Picsman.ai is an online AI photo editor offering tools for image editing, enhancement, and generation, including features like object removal, virtual clothing try-ons, and image upscaling.",
+            "icon": "/logo/www.picsman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        },
+        {
+            "id": "1443",
+            "name": "Remaker AI",
+            "slug": "remaker-ai",
+            "description": "Remaker AI is an online platform that leverages artificial intelligence for advanced image editing, face swapping, and creative content generation.",
+            "icon": "/logo/remaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-upscaler"
+            ]
+        }
+    ]
+}

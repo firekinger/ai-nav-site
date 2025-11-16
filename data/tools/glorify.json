@@ -1,0 +1,75 @@
+{
+    "name": "Glorify",
+    "description": "Glorify is a design tool that enables entrepreneurs and marketers to create marketing visuals, offering features like AI-powered tools, template libraries, and collaboration capabilities.",
+    "longDescription": "Glorify is a design platform designed for over 300,000 entrepreneurs and marketers, focusing on creating marketing visuals to convert browsers into buyers. It provides a limitless canvas for designing multiple graphics and videos, integrating AI-powered tools to enhance speed and ease of use. The tool offers access to a vast library of free, high-quality assets and supports collaboration through features like team workspaces and file sharing. Its mission is to empower e-commerce and CPG business owners with user-friendly, professional design solutions, catering to both beginners and experienced designers with pro workflows. Glorify differentiates itself by tailoring its features for e-commerce needs, making professional design accessible without requiring advanced skills.",
+    "url": "https://glorify.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/glorify.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "glorify",
+    "categories": [
+        "AI Image Generator",
+        "AI Background Remover",
+        "AI Background Generator",
+        "AI Copywriting",
+        "AI Design Assistant",
+        "AI Marketing",
+        "AI Writing",
+        "AI Art Generator",
+        "AI Mockup Generator",
+        "AI Photo Enhancer"
+    ],
+    "features": [
+        "Design multiple graphics and videos on a limitless canvas within one platform to streamline creative workflows.",
+        "Access a range of easy-to-use editing capabilities, including background removal and image adjustments, for quick enhancements.",
+        "Utilize AI-powered tools such as AI image generator, AI product background, AI writer, and AI background remover to automate and accelerate design tasks.",
+        "Provide a vast library of high-quality stock photos, illustrations, mockups, and templates, all available for commercial use to inspire and support designs.",
+        "Enable teamwork with features for sharing, collaboration, and commenting directly on files to facilitate group projects.",
+        "Organize design files with folders, brand kits, and tags for easy access and management, improving efficiency.",
+        "Export designs in various formats, including print-ready PDFs, with options for batch exporting and controlled sharing to meet diverse needs.",
+        "Offer pro workflows like gradients, pen tool, blending, text on path, patterns, and upcoming masking features for advanced editing.",
+        "Include tools for adding realistic shadows, reflections, and annotations to product photos, enhancing visual appeal for marketing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Glorify, and how does it work?",
+            "answer": "Glorify is a design tool for creating marketing visuals, working by providing a limitless canvas and AI-powered features for easy customization and asset creation."
+        },
+        {
+            "question": "How is Glorify different from other design tools?",
+            "answer": "Glorify is tailored for e-commerce, offering AI tools, free asset libraries, and collaboration features, distinguishing it from tools like Canva and Photoshop."
+        },
+        {
+            "question": "Do I have to be a designer to use Glorify?",
+            "answer": "No, Glorify is user-friendly and designed for non-designers, with easy editing capabilities and templates for quick design creation."
+        },
+        {
+            "question": "How do the AI credits work?",
+            "answer": "AI credits are used for AI-powered features like image generation and background removal, allocated based on the chosen subscription plan."
+        },
+        {
+            "question": "Do I have the right to use Glorify for commercial purposes?",
+            "answer": "Yes, Glorify's assets, including stock photos and mockups, are available for commercial use as part of the subscription."
+        },
+        {
+            "question": "Can I collaborate with my team on Glorify?",
+            "answer": "Yes, Glorify offers features for team collaboration, including inviting guests, adding comments, and sharing files with controlled access."
+        },
+        {
+            "question": "Are there templates available in Glorify?",
+            "answer": "Yes, Glorify provides over 11,000 customizable templates, including thematic collections for various design needs."
+        },
+        {
+            "question": "Can I export designs for print?",
+            "answer": "Yes, Glorify allows exporting in print-ready PDF formats and other formats suitable for both digital and print purposes."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, Glorify offers a 7-day free trial for all plans, allowing users to test core features before committing to a subscription."
+        },
+        {
+            "question": "What kind of support does Glorify provide?",
+            "answer": "Glorify provides customer support through various channels, including help centers and priority support for higher-tier plans."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "There's an AI for That",
+    "description": "There's an AI for That is the world's largest AI tools directory, helping users discover and explore thousands of AI-powered applications across various categories.",
+    "longDescription": "There's an AI for That is a comprehensive online directory that aggregates and categorizes thousands of AI tools and applications, making it easier for users to find AI solutions for specific needs. Founded to address the rapid growth of AI technologies, its mission is to democratize access to AI by providing a centralized platform for discovery and information. The website serves developers, businesses, and everyday users by offering searchable databases, user reviews, and updates on emerging AI tools. It solves the problem of information overload in the AI space by curating tools with descriptions, pricing, and usage details. Users can browse categories like productivity, creative design, and more to find tailored AI solutions. Overall, it acts as a go-to resource for staying informed about the latest AI innovations and integrating them into workflows.",
+    "url": "https://theresanaiforthat.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/theresanaiforthat.com.webp",
+    "category": "AI Tools Directory",
+    "categorySlug": "ai-tools-directory",
+    "slug": "theres-an-ai-for-that",
+    "categories": [
+        "AI Tools Directory",
+        "AI Text Classifier",
+        "AI Reviews",
+        "AI Search Engine",
+        "AI Productivity Tools",
+        "AI Creative Writing",
+        "AI Business Ideas Generator",
+        "AI Healthcare"
+    ],
+    "features": [
+        "The search functionality allows users to quickly find AI tools by keywords, categories, or specific tasks, saving time on manual research.",
+        "Tool listings include detailed descriptions, pricing information, and user ratings to help evaluate options effectively.",
+        "Category-based browsing enables exploration of AI tools in areas like productivity, marketing, and education for targeted discovery.",
+        "User-submitted tools feature allows community contributions, ensuring the directory stays up-to-date with new AI developments.",
+        "Saved tools and favorites let users bookmark and organize preferred AI applications for easy access later.",
+        "Trending and popular sections highlight the most viewed or highly rated AI tools, guiding users to proven solutions.",
+        "Integration with AI news and updates keeps users informed about the latest advancements and tool releases.",
+        "Free registration provides personalized recommendations and notifications for new tools matching user interests.",
+        "API access for developers allows integration of the directory's data into other applications or services.",
+        "Community forums or comments sections facilitate discussions and feedback on AI tools among users."
+    ],
+    "faqs": [
+        {
+            "question": "What is There's an AI for That?",
+            "answer": "It's a comprehensive directory of AI tools that helps users discover and explore thousands of AI applications across various categories. The site aggregates information to make finding the right AI solution easier."
+        },
+        {
+            "question": "Is the website free to use?",
+            "answer": "Yes, the core features like searching and browsing AI tools are completely free. Some advanced features may require a free account registration."
+        },
+        {
+            "question": "How can I submit a new AI tool to the directory?",
+            "answer": "You can submit a tool via the submission form on the website, providing details like name, description, and URL. Submissions are reviewed before being added to ensure quality."
+        },
+        {
+            "question": "What categories of AI tools are available?",
+            "answer": "Categories include productivity, creative design, marketing, education, health, and many more, covering a wide range of AI applications."
+        },
+        {
+            "question": "Can I rate or review AI tools on the site?",
+            "answer": "Yes, registered users can leave ratings and reviews to share their experiences, helping others make informed decisions."
+        },
+        {
+            "question": "How often is the directory updated?",
+            "answer": "The directory is updated daily with new tools, user submissions, and trending updates to reflect the latest in AI technology."
+        },
+        {
+            "question": "Is there a mobile app for There's an AI for That?",
+            "answer": "Currently, there is no dedicated mobile app, but the website is mobile-friendly for easy access on smartphones and tablets."
+        },
+        {
+            "question": "How does the site help with AI tool selection?",
+            "answer": "It provides filters, comparisons, and user feedback to narrow down options based on needs like pricing, features, and popularity."
+        },
+        {
+            "question": "Are there premium features or subscriptions?",
+            "answer": "The site is mostly free, but may offer premium listings or advertising options for tool developers."
+        },
+        {
+            "question": "Can I get personalized AI tool recommendations?",
+            "answer": "By creating an account and specifying interests, users can receive tailored suggestions and notifications for relevant new tools."
+        }
+    ]
+}

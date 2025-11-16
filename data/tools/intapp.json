@@ -1,0 +1,60 @@
+{
+    "name": "Intapp",
+    "description": "Intapp provides cloud-based software solutions tailored for professional services firms to enhance risk management, compliance, and operational efficiency.",
+    "longDescription": "Intapp is a technology company specializing in industry-specific software for professional and financial services firms, such as law firms, accounting practices, and investment banks. Its mission is to empower these organizations to operate more effectively by addressing complex challenges in compliance, collaboration, and data management. The platform integrates various tools that streamline workflows, from client intake to conflict resolution, helping firms mitigate risks and improve productivity. By incorporating AI and analytics, Intapp enables data-driven decision-making and automates routine tasks, allowing professionals to focus on high-value work. Overall, it solves problems related to regulatory compliance and operational silos in high-stakes industries.",
+    "url": "https://www.intapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.intapp.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "intapp",
+    "categories": [
+        "AI Assistant",
+        "AI For Data Analytics",
+        "AI Customer Service",
+        "AI Contract Review"
+    ],
+    "features": [
+        "Intapp Conflicts leverages AI to automate conflict-of-interest checks, reducing manual reviews and ensuring compliance in legal and financial dealings.",
+        "Intapp Intake streamlines client onboarding processes with automated workflows, speeding up new business acceptance while maintaining regulatory standards.",
+        "Intapp Time offers advanced time tracking and billing tools, helping professionals capture billable hours accurately and improve revenue management.",
+        "Intapp Collaboration provides secure, cloud-based platforms for team communication and document sharing, enhancing productivity across distributed teams.",
+        "Intapp Data Insights uses analytics and AI to deliver actionable intelligence from firm data, supporting strategic decision-making and performance optimization.",
+        "Intapp Walls ensures information barriers and ethical walls are maintained, preventing unauthorized data access in sensitive environments.",
+        "Intapp Terms automates contract review and management with AI, identifying risks and standardizing terms for faster negotiations.",
+        "Intapp Employee Compliance tracks and manages employee certifications and disclosures, simplifying adherence to industry regulations."
+    ],
+    "faqs": [
+        {
+            "question": "What industries does Intapp serve?",
+            "answer": "Intapp primarily serves professional services firms, including law firms, accounting firms, consulting practices, and investment banks. Its solutions are tailored to address the unique regulatory and operational needs of these sectors."
+        },
+        {
+            "question": "How does Intapp use AI in its software?",
+            "answer": "Intapp incorporates AI to automate tasks like conflict checks, contract analysis, and data insights. This helps users identify risks faster and make informed decisions without extensive manual effort."
+        },
+        {
+            "question": "Is Intapp cloud-based?",
+            "answer": "Yes, Intapp's solutions are fully cloud-based, offering scalability, security, and accessibility from anywhere. This eliminates the need for on-premises infrastructure and supports remote work."
+        },
+        {
+            "question": "Can Intapp integrate with other tools?",
+            "answer": "Intapp supports integrations with popular systems like Microsoft Office 365, CRM platforms, and financial software. This allows seamless data flow and enhances overall firm efficiency."
+        },
+        {
+            "question": "What is Intapp's approach to data security?",
+            "answer": "Intapp prioritizes data security with features like encryption, access controls, and compliance with standards such as GDPR and SOC 2. This ensures sensitive client information is protected against breaches."
+        },
+        {
+            "question": "How does Intapp help with compliance management?",
+            "answer": "Intapp's tools automate compliance processes, including employee disclosures and ethical walls, reducing the risk of violations. It provides real-time monitoring and reporting to keep firms audit-ready."
+        },
+        {
+            "question": "What support does Intapp offer to new users?",
+            "answer": "Intapp provides implementation services, training resources, and ongoing customer support. This includes dedicated account managers and access to a knowledge base for self-help."
+        },
+        {
+            "question": "Is Intapp suitable for small firms?",
+            "answer": "While designed for mid-to-large firms, Intapp offers scalable solutions that can benefit smaller practices with customizable features. However, it may require evaluation for cost-effectiveness in very small operations."
+        }
+    ]
+}

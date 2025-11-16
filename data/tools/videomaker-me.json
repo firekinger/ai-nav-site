@@ -1,0 +1,65 @@
+{
+    "name": "Videomaker.me",
+    "description": "Videomaker.me is an AI-powered platform for creating high-quality videos from text or images with synchronized audio and cinematic effects.",
+    "longDescription": "Videomaker.me is an online AI video generator platform that leverages Google’s Veo 3 technology to transform text prompts or images into dynamic, high-quality videos with synchronized audio. It aims to simplify video creation for users without editing skills, making it accessible for content creators, marketers, and educators. The platform supports a range of applications, from social media content to professional video prototyping, by offering intuitive tools and templates. Its mission is to democratize video production by providing free access to advanced AI-driven filmmaking capabilities directly from a browser. By integrating features like lip-synced dialogue and ambient audio, Videomaker.me delivers professional-grade videos in seconds.",
+    "url": "https://videomaker.me/?utm_source=ainavdir",
+    "screenshot": "/screenshot/videomaker.me.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "videomaker-me",
+    "categories": [
+        "AI Video Generator",
+        "AI Audio Editing",
+        "AI Movie Script Generator",
+        "AI Social Media Post Generator",
+        "AI Marketing",
+        "AI Course",
+        "AI Story Generator"
+    ],
+    "features": [
+        "Text-to-video generation creates HD videos from simple text prompts, enabling quick content creation without editing expertise.",
+        "Image-to-video conversion transforms still images into dynamic videos with realistic motion, ideal for animating photos.",
+        "Synchronized audio generation adds ambient sounds, dialogue, and effects that match video scenes for immersive results.",
+        "Flow integration combines Veo 3, Imagen 4, and Gemini AI to design cinematic scenes with customizable camera shots and styles.",
+        "Over 60 AI effects and style transfers allow users to apply cinematic or surreal filters for unique video aesthetics.",
+        "No signup or downloads required, offering instant browser-based access to video creation tools for all users.",
+        "Fast video rendering produces full HD videos in seconds, perfect for creators needing quick turnaround.",
+        "Customizable templates provide pre-designed options for social media, marketing, or educational videos, streamlining production.",
+        "Lip-synced dialogue ensures AI-generated characters speak naturally, enhancing narrative-driven videos.",
+        "Scene-aware audio adjusts background sounds to match video context, creating realistic soundscapes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Videomaker.me?",
+            "answer": "Videomaker.me is an AI-powered platform that uses Google’s Veo 3 to create high-quality videos from text or images with synchronized audio, ideal for content creators and marketers."
+        },
+        {
+            "question": "Do I need to sign up to use Videomaker.me?",
+            "answer": "No, Videomaker.me allows users to create videos directly from their browser without requiring a signup or account."
+        },
+        {
+            "question": "Is Videomaker.me free to use?",
+            "answer": "Yes, Videomaker.me offers free access to its core video creation features, though some advanced functionalities may have limitations."
+        },
+        {
+            "question": "What types of videos can I create with Videomaker.me?",
+            "answer": "You can create social media clips, marketing videos, educational content, or cinematic short films using text or image prompts."
+        },
+        {
+            "question": "Does Videomaker.me support audio in videos?",
+            "answer": "Yes, it generates synchronized audio, including ambient sounds, dialogue, and effects, with lip-syncing for realistic results."
+        },
+        {
+            "question": "Can I customize the style of my videos?",
+            "answer": "Videomaker.me offers over 60 AI effects and style transfers, allowing customization from cinematic to surreal aesthetics."
+        },
+        {
+            "question": "How long does it take to generate a video?",
+            "answer": "Videos are typically generated in seconds, with full HD quality and synchronized audio, depending on the complexity of the prompt."
+        },
+        {
+            "question": "Do I need video editing experience to use Videomaker.me?",
+            "answer": "No, the platform is designed for users with no editing skills, offering an intuitive interface and pre-made templates."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "title": "The Best 10 AI Dating Assistant Tools in 2025",
+    "summary": "Discover the future of romance with our AI Dating Assistant tools, designed to enhance your dating experience. These innovative solutions help you craft the perfect profile, suggest conversation starters, and even analyze compatibility, making it easier to connect with potential partners. Say goodbye to awkward first dates and hello to meaningful connections! Whether you're new to dating or looking to refine your approach, our AI tools provide personalized insights tailored to your needs. Explore our collection today and take the first step towards finding your perfect match!",
+    "tools": [
+        {
+            "id": "136",
+            "name": "Uhmegle",
+            "slug": "uhmegle",
+            "description": "Uhmegle is a free, anonymous video and text chat platform connecting users worldwide with strangers for spontaneous conversations.",
+            "icon": "/logo/uhmegle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "487",
+            "name": "Kupid AI",
+            "slug": "kupid-ai",
+            "description": "Kupid AI is an AI-powered chat platform offering personalized virtual companionship and immersive conversations with customizable AI characters.",
+            "icon": "/logo/www.kupid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "589",
+            "name": "ROAST",
+            "slug": "roast",
+            "description": "ROAST is an AI-powered service that optimizes online dating profiles to increase matches and improve dating outcomes.",
+            "icon": "/logo/roast.dating.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "609",
+            "name": "DreamGF.ai",
+            "slug": "dreamgf-ai",
+            "description": "DreamGF.ai is an AI-powered platform for creating and interacting with customizable virtual girlfriends for companionship and personalized experiences.",
+            "icon": "/logo/dreamgf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "706",
+            "name": "Flipped.Chat",
+            "slug": "flipped-chat",
+            "description": "Flipped.Chat is an AI-powered platform for interactive virtual dating and storytelling with customizable AI companions.",
+            "icon": "/logo/flipped.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "756",
+            "name": "YOUR.GG",
+            "slug": "your-gg",
+            "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+            "icon": "/logo/your.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "764",
+            "name": "RIZZ AI",
+            "slug": "rizz-ai",
+            "description": "RIZZ AI is an AI-powered dating assistant that enhances users' dating experiences with personalized conversation starters and flirting advice.",
+            "icon": "/logo/www.rizzai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "959",
+            "name": "MyLoves.ai",
+            "slug": "myloves-ai",
+            "description": "MyLoves.ai is an AI-powered platform that allows users to create and interact with customizable virtual romantic companions for companionship and entertainment.",
+            "icon": "/logo/www.myloves.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "1156",
+            "name": "TinderProfile.ai",
+            "slug": "tinderprofile-ai",
+            "description": "TinderProfile.ai is an AI-powered platform that analyzes and generates enhanced photos to optimize Tinder profiles and increase matches on dating apps.",
+            "icon": "/logo/tinderprofile.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        },
+        {
+            "id": "1365",
+            "name": "Gaslighting Check",
+            "slug": "gaslighting-check",
+            "description": "Gaslighting Check is an AI-powered platform designed to help users detect and understand gaslighting behaviors in conversations and relationships.",
+            "icon": "/logo/www.gaslightingcheck.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dating-assistant"
+            ]
+        }
+    ]
+}

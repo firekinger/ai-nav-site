@@ -1,0 +1,71 @@
+{
+    "name": "Pokecut",
+    "description": "Pokecut is an AI-powered online photo editing platform that transforms ordinary images into professional-quality visuals with ease.",
+    "longDescription": "Pokecut is an innovative AI-driven photo editing tool designed to help users create studio-quality images without requiring advanced design skills. Established in 2021, its mission is to empower everyone— from casual users to e-commerce sellers and professional designers— to express their creativity through intuitive AI tools. The platform offers features like background removal, photo enhancement, and AI-generated backgrounds, making it ideal for creating product photos, social media content, and personal visuals. Pokecut is accessible on web, iOS, and Android, requiring no registration for basic use, which promotes ease and efficiency. By leveraging advanced AI models like Stable Diffusion and Flux, it delivers high-precision editing capabilities. The platform continuously updates its technology to stay at the forefront of the AI photo editing industry.",
+    "url": "https://www.pokecut.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.pokecut.com.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "pokecut",
+    "categories": [
+        "AI Photo Editor",
+        "AI Background Remover",
+        "AI Photo Enhancer",
+        "AI Image Generator",
+        "AI Product Photography",
+        "AI Social Media Post Generator",
+        "AI Design Assistant",
+        "AI Document Extraction",
+        "AI Portrait Generator"
+    ],
+    "features": [
+        "AI Background Remover instantly erases photo backgrounds with high precision, creating transparent PNGs for versatile use in e-commerce or social media.",
+        "AI Photo Enhancer improves image clarity and resolution, converting low-quality photos into high-definition visuals in seconds.",
+        "AI Background Changer offers over 1,000 professional templates and solid colors to customize image backdrops effortlessly.",
+        "Magic Eraser removes unwanted objects or photobombers from images with one click, ensuring clean and polished results.",
+        "Batch Processing allows users to edit multiple images simultaneously, streamlining workflows for e-commerce sellers and designers.",
+        "AI Image Expander extends photos to adjust composition, transforming half-body shots into full-body portraits with natural results.",
+        "Smart Relight adjusts lighting intelligently to enhance image quality and create professional-grade visuals.",
+        "Template Library provides over 1,000 beautifully designed templates for product photography, social media, and marketing materials.",
+        "Text and Sticker Tools enable users to add customizable text, shadows, outlines, and stickers to enhance creative designs.",
+        "High-Resolution Export preserves original image quality, supporting formats like PNG, JPEG, and WebP for professional outputs."
+    ],
+    "faqs": [
+        {
+            "question": "Is Pokecut free to use?",
+            "answer": "Yes, Pokecut offers a free plan with five daily credits for basic features like background removal and photo enhancement, with premium features available via a Pro subscription."
+        },
+        {
+            "question": "Do I need to sign up to use Pokecut?",
+            "answer": "No, Pokecut allows users to edit photos without registration, making it accessible for quick and easy use."
+        },
+        {
+            "question": "Can I use Pokecut images for commercial purposes?",
+            "answer": "Yes, images created with Pokecut’s AI tools can be used commercially, provided they don’t include non-Pokecut design resources with separate copyrights."
+        },
+        {
+            "question": "What types of images can Pokecut edit?",
+            "answer": "Pokecut supports a wide range of images, including portraits, product photos, logos, graphics, and illustrations, with precise editing even for complex backgrounds."
+        },
+        {
+            "question": "How fast is the background removal process?",
+            "answer": "Pokecut’s AI background remover processes most images within 5 seconds, delivering instant transparent background results."
+        },
+        {
+            "question": "Does Pokecut support batch editing?",
+            "answer": "Yes, Pokecut offers batch processing for background removal and other edits, ideal for efficient workflows in e-commerce and design."
+        },
+        {
+            "question": "What platforms is Pokecut available on?",
+            "answer": "Pokecut is available on web, iOS, and Android platforms, ensuring accessibility across devices."
+        },
+        {
+            "question": "Can Pokecut enhance low-quality images?",
+            "answer": "Yes, the AI Photo Enhancer improves clarity and resolution, making low-quality images suitable for professional use."
+        },
+        {
+            "question": "Are there templates for specific use cases?",
+            "answer": "Pokecut provides over 1,000 templates tailored for e-commerce, social media, promotions, and creative designs."
+        }
+    ]
+}

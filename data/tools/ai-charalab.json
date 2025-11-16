@@ -1,0 +1,71 @@
+{
+    "name": "AI CharaLab",
+    "description": "AI CharaLab offers a free online AI character generator that creates lifelike characters based on user descriptions or photos, supporting various styles like realistic, anime, 3D, and fantasy.",
+    "longDescription": "AI CharaLab is a platform that uses artificial intelligence to generate unique characters from text descriptions or photos, catering to creators for stories, games, or personal projects. Users can describe character details such as appearance, style, and personality, and the tool transforms these into high-quality images. It supports diverse art styles and aims to assist users in creating vivid characters without needing design expertise, delivering results instantly and for free. The mission is to unleash creativity by providing an accessible tool for character generation in various genres and styles.",
+    "url": "https://aicharalab.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aicharalab.com.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "ai-charalab",
+    "categories": [
+        "AI Character",
+        "AI Description Generator",
+        "AI 3D Model Generator",
+        "AI Project Management",
+        "AI Design Assistant",
+        "AI Writing"
+    ],
+    "features": [
+        "Users can describe character appearance, style, and personality to generate lifelike AI characters.",
+        "The tool supports multiple styles including realistic, cartoon, 3D, and fantasy characters.",
+        "It allows transformation of personal photos into styles like anime, superhero, or Ghibli.",
+        "Characters can be customized for use in stories, games, or personal projects.",
+        "The generation process involves describing the character, clicking 'Generate,' and downloading or sharing the result.",
+        "It delivers high-resolution images within seconds without requiring design expertise.",
+        "No account or login is needed, and it is completely free to use.",
+        "Generated characters can be used for commercial purposes like novels, comics, or games.",
+        "The platform does not currently support modifying generated characters, suggesting optimization of descriptions instead."
+    ],
+    "faqs": [
+        {
+            "question": "What is an AI character generator?",
+            "answer": "An AI character generator is a tool that uses artificial intelligence to create characters, generating images based on user input."
+        },
+        {
+            "question": "Is AI CharaLab free to use?",
+            "answer": "Yes, AI CharaLab is completely free and does not require an account or login."
+        },
+        {
+            "question": "What styles can I create characters in?",
+            "answer": "It offers various styles including Ghibli, 3D, fantasy, and anime for character creation."
+        },
+        {
+            "question": "Can I modify a generated character?",
+            "answer": "Modification is not supported currently; users can optimize descriptions for better results."
+        },
+        {
+            "question": "Can I use generated characters commercially?",
+            "answer": "Yes, generated characters can be used for commercial purposes like novels, comics, or games."
+        },
+        {
+            "question": "How do I start creating a character?",
+            "answer": "Describe your character in the input box, click 'Generate,' and download or share the result."
+        },
+        {
+            "question": "Do I need design skills to use this tool?",
+            "answer": "No, AI handles complex design tasks, so no design expertise is required."
+        },
+        {
+            "question": "How long does it take to generate a character?",
+            "answer": "Characters are generated within minutes with AI assistance."
+        },
+        {
+            "question": "Can I turn my photo into a character?",
+            "answer": "Yes, the image-to-image tool can transform photos into styles like anime or superhero."
+        },
+        {
+            "question": "What should I do if I'm not satisfied with the character?",
+            "answer": "Try optimizing the description and other details for a better result."
+        }
+    ]
+}

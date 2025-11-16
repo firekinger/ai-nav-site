@@ -1,0 +1,63 @@
+{
+    "name": "FlowGPT",
+    "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+    "longDescription": "FlowGPT is a community-driven platform designed to empower users to explore, create, and share AI prompts and conversational chatbots. It leverages advanced language models, such as those similar to ChatGPT, to enable users to generate creative, technical, or practical outputs for various use cases. The platform fosters a collaborative environment where developers, writers, and enthusiasts can access a marketplace of prompts and AI tools tailored to specific needs. FlowGPT aims to democratize access to AI technology by providing an intuitive interface and a library of user-generated content. It serves both beginners and advanced users, offering tools to enhance productivity, creativity, and problem-solving. The platform also supports customization, allowing users to build and refine their own AI-driven solutions.",
+    "url": "https://flowgpt.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/flowgpt.com.webp",
+    "category": "AI Prompt Generator",
+    "categorySlug": "ai-prompt-generator",
+    "slug": "flowgpt",
+    "categories": [
+        "AI Prompt Generator",
+        "AI Chatbot",
+        "AI Design Assistant",
+        "AI Code Generator",
+        "AI Social Media",
+        "AI Productivity Tools",
+        "AI Translate",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Prompt Marketplace enables users to browse and use community-created AI prompts for various tasks.",
+        "Custom Chatbot Creation allows users to design and deploy personalized AI chatbots for specific purposes.",
+        "Community Collaboration fosters sharing and feedback on prompts and chatbots to improve quality and usability.",
+        "Integration with Language Models provides access to powerful AI models for generating high-quality responses.",
+        "Prompt Customization lets users tailor prompts to suit niche applications, from writing to coding.",
+        "User-Friendly Interface ensures easy navigation for both novice and experienced AI users.",
+        "Cross-Industry Applications support use cases in education, business, creative writing, and more.",
+        "Prompt Rating System helps users identify high-quality prompts based on community feedback.",
+        "API Access enables developers to integrate FlowGPT's AI capabilities into external applications.",
+        "Multilingual Support allows users to create and use prompts in multiple languages.",
+        "Prompt Templates provide ready-to-use frameworks for common tasks like storytelling or data analysis."
+    ],
+    "faqs": [
+        {
+            "question": "What is FlowGPT used for?",
+            "answer": "FlowGPT is used to create, share, and discover AI prompts and chatbots for tasks like writing, coding, and problem-solving."
+        },
+        {
+            "question": "Is FlowGPT free to use?",
+            "answer": "FlowGPT offers a free plan with access to core features, though premium plans unlock additional functionality."
+        },
+        {
+            "question": "Can I create my own chatbot on FlowGPT?",
+            "answer": "Yes, FlowGPT allows users to design and customize their own AI chatbots for specific use cases."
+        },
+        {
+            "question": "What kind of prompts are available on FlowGPT?",
+            "answer": "Prompts range from creative writing and coding to business analysis and educational tools, created by the community."
+        },
+        {
+            "question": "Do I need coding skills to use FlowGPT?",
+            "answer": "No, FlowGPT’s user-friendly interface makes it accessible to non-coders, though developers can use API features."
+        },
+        {
+            "question": "How does the community contribute to FlowGPT?",
+            "answer": "Users share prompts, provide feedback, and rate content to improve the platform’s offerings."
+        },
+        {
+            "question": "Can FlowGPT be used for professional projects?",
+            "answer": "Yes, FlowGPT supports professional use cases like marketing, coding, and research with tailored prompts."
+        }
+    ]
+}

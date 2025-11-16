@@ -1,0 +1,61 @@
+{
+    "name": "DeepWiki",
+    "description": "DeepWiki is an AI-powered tool that generates interactive, wiki-style documentation for GitHub repositories to simplify codebase understanding.",
+    "longDescription": "DeepWiki, developed by Cognition Labs, is an innovative platform that transforms GitHub repositories into comprehensive, Wikipedia-like documentation using advanced AI. By analyzing code, README files, and configurations, it creates structured knowledge bases that help developers quickly grasp complex project architectures. The tool serves open-source contributors, software engineers, and students by providing clear explanations, interactive diagrams, and a conversational AI assistant. Its mission is to reduce the time and effort required to understand unfamiliar codebases, making software development more accessible and efficient. DeepWiki supports both public and private repositories, with free access for public ones and secure authentication for private ones. It has indexed over 50,000 repositories, processing billions of lines of code to empower developers worldwide.",
+    "url": "https://deepwiki.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepwiki.com.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "deepwiki",
+    "categories": [
+        "AI Developer Tools",
+        "AI For Data Analytics",
+        "No-Code&Low-Code",
+        "AI Infographic Generator",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Automatically generates detailed, wiki-style documentation from GitHub repositories, enabling quick comprehension of codebases.",
+        "Creates interactive Mermaid diagrams to visualize code architecture and data flow, simplifying complex system understanding.",
+        "Offers a conversational AI assistant powered by Devin’s DeepResearch agent, allowing users to ask context-aware questions about code.",
+        "Supports public repositories without login, making it instantly accessible for exploring open-source projects.",
+        "Provides Deep Research mode for in-depth codebase analysis, identifying issues and optimization opportunities.",
+        "Enables secure access to private repositories through authentication, ideal for enterprise and team use.",
+        "Integrates with the Model Context Protocol (MCP) server for programmatic access to documentation and search capabilities.",
+        "Generates dependency graphs and module interaction visuals, offering a macro-level view of project structures."
+    ],
+    "faqs": [
+        {
+            "question": "What is DeepWiki?",
+            "answer": "DeepWiki is an AI-powered tool that generates wiki-style documentation for GitHub repositories, simplifying codebase exploration with interactive diagrams and a conversational AI assistant."
+        },
+        {
+            "question": "How do I use DeepWiki?",
+            "answer": "Replace 'github.com' with 'deepwiki.com' in any GitHub repository URL (e.g., https://github.com/user/repo to https://deepwiki.com/user/repo) to access its AI-generated documentation instantly."
+        },
+        {
+            "question": "Is DeepWiki free to use?",
+            "answer": "Yes, DeepWiki is free for public GitHub repositories without requiring a login; private repositories require a paid Devin account for secure access."
+        },
+        {
+            "question": "What types of repositories does DeepWiki support?",
+            "answer": "DeepWiki supports repositories in various programming languages like JavaScript, Python, Go, Rust, and Java, covering most common development fields."
+        },
+        {
+            "question": "Can DeepWiki help with private repositories?",
+            "answer": "Yes, DeepWiki supports private repositories with secure authentication, making it suitable for enterprise and team codebases."
+        },
+        {
+            "question": "How accurate is DeepWiki’s AI-generated documentation?",
+            "answer": "While generally accurate, AI interpretations may occasionally simplify complex code patterns or miss domain-specific details, depending on the repository’s documentation quality."
+        },
+        {
+            "question": "Does DeepWiki require installation?",
+            "answer": "No, DeepWiki requires no installation; it works directly through a browser by modifying the GitHub URL or using its search interface."
+        },
+        {
+            "question": "Can I ask questions about the codebase?",
+            "answer": "Yes, DeepWiki’s AI assistant allows users to ask natural language questions about functions, modules, or configurations, providing context-grounded answers."
+        }
+    ]
+}

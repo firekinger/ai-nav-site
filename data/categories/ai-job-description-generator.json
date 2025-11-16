@@ -1,0 +1,171 @@
+{
+    "title": "The Best 16 AI Job Description Generator Tools in 2025",
+    "summary": "Unlock the power of AI with our AI Job Description Generator category, designed to streamline your hiring process. These innovative tools help you create tailored, engaging job descriptions in minutes, ensuring you attract the right talent effortlessly. Say goodbye to generic listings and hello to customized content that reflects your company’s unique culture and requirements. Explore our curated selection of AI-driven solutions today and transform your recruitment strategy for the better. Start crafting compelling job descriptions that stand out—dive into our tools now!",
+    "tools": [
+        {
+            "id": "592",
+            "name": "Chattr",
+            "slug": "chattr-ai",
+            "description": "Chattr is an AI-powered platform that streamlines frontline hiring through automation and conversational AI.",
+            "icon": "/logo/chattr.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "710",
+            "name": "VMock",
+            "slug": "vmock",
+            "description": "VMock is an AI-driven career acceleration platform that provides personalized resume, cover letter, and interview feedback to students and professionals.",
+            "icon": "/logo/www.vmock.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "754",
+            "name": "Sonara",
+            "slug": "sonara-ai",
+            "description": "Sonara is an AI-powered job search automation platform that streamlines job hunting by matching and applying to relevant opportunities.",
+            "icon": "/logo/www.sonara.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "775",
+            "name": "Swooped",
+            "slug": "swooped",
+            "description": "Swooped is an AI-powered job search platform that optimizes resumes and cover letters to help job seekers land remote jobs faster.",
+            "icon": "/logo/swooped.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "826",
+            "name": "Testportal",
+            "slug": "testportal",
+            "description": "Testportal is an online platform for creating and managing assessments, quizzes, and exams for education and business.",
+            "icon": "/logo/testportal.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "847",
+            "name": "Jobhire.ai",
+            "slug": "jobhire-ai",
+            "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+            "icon": "/logo/jobhire.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "916",
+            "name": "LockedIn AI",
+            "slug": "lockedin-ai",
+            "description": "LockedIn AI is an AI-driven platform that helps users optimize their LinkedIn profiles, generate personalized job application materials, and enhance professional networking.",
+            "icon": "/logo/www.lockedinai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1034",
+            "name": "Wonsulting",
+            "slug": "wonsulting",
+            "description": "Wonsulting is a career development platform that provides AI-powered tools and consulting services to help job seekers optimize their resumes, LinkedIn profiles, and job search strategies.",
+            "icon": "/logo/www.wonsulting.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1049",
+            "name": "Kula",
+            "slug": "kula-ai",
+            "description": "Kula is an AI-powered recruiting platform that automates personalized outreach, streamlines candidate engagement, and enhances talent acquisition for businesses.",
+            "icon": "/logo/www.kula.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1069",
+            "name": "Sheets Resume",
+            "slug": "sheets-resume",
+            "description": "Sheets Resume is an AI-powered platform that helps users build, tailor, and optimize professional resumes quickly and affordably.",
+            "icon": "/logo/sheetsresume.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1121",
+            "name": "Hiration",
+            "slug": "hiration",
+            "description": "Hiration is an AI-powered career platform that assists users in building professional resumes, cover letters, and preparing for job interviews to enhance their job search success.",
+            "icon": "/logo/www.hiration.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1180",
+            "name": "saasguru",
+            "slug": "saasguru",
+            "description": "saasguru is an AI-powered platform offering personalized training, certification preparation, and career resources for Salesforce and cloud technologies.",
+            "icon": "/logo/www.saasguru.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1198",
+            "name": "Interviews.chat",
+            "slug": "interviews-chat",
+            "description": "Interviews.chat is an AI-powered platform designed to help users prepare for job interviews through simulated conversations and personalized feedback.",
+            "icon": "/logo/www.interviews.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1202",
+            "name": "ResumeTrick",
+            "slug": "resumetrick",
+            "description": "ResumeTrick is an AI-powered online platform that simplifies resume and cover letter creation with customizable templates and intelligent suggestions to help job seekers stand out.",
+            "icon": "/logo/resumetrick.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        },
+        {
+            "id": "1424",
+            "name": "NTRVSTA",
+            "slug": "ntrvsta",
+            "description": "NTRVSTA is an AI-powered platform that automates interviews to make hiring more efficient, fair, and engaging for companies and candidates.",
+            "icon": "/logo/www.ntrvsta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-job-description-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Dereference AI Codetabs",
+    "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+    "longDescription": "Dereference AI Codetabs is an innovative Integrated Development Environment (IDE) built to optimize AI-driven software development by integrating with command-line AI tools like Claude Code and Gemini CLI. Its mission is to empower developers to achieve up to 100x productivity through features like multi-session orchestration and atomic branching. The platform allows developers to run parallel AI conversations with models like Claude, GPT-4, and Gemini, maintaining separate contexts for efficient solution comparison. Built with Rust for native performance, it ensures fast response times and secure local processing without telemetry. It caters to developers seeking to streamline workflows, explore multiple coding solutions, and maintain privacy. The IDE is versatile, supporting any programming language compatible with AI coding assistants.",
+    "url": "https://www.dereference.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.dereference.dev.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "dereference-ai-codetabs",
+    "categories": [
+        "AI Developer Tools",
+        "AI Models",
+        "AI Project Management",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Chatbot"
+    ],
+    "features": [
+        "Multi-session orchestration enables running parallel AI conversations with different models for efficient solution comparison.",
+        "Atomic branching allows developers to create conversation branches to explore alternative solutions without losing context.",
+        "Native performance, built with Rust, ensures lightning-fast response times and efficient memory usage.",
+        "Privacy-first design processes all data locally, securing code and API keys without tracking or telemetry.",
+        "Seamless AI tool integration supports instant switching between models like Claude, GPT-4, and Gemini.",
+        "Intelligent context management maintains separate contexts for each session to streamline workflows.",
+        "Checkpoint setting enables instant branching or resuming of AI conversations for flexible development.",
+        "Versatile language support works with any programming language integrated with AI coding assistants."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dereference AI Codetabs?",
+            "answer": "Dereference AI Codetabs is a prompt-first IDE that integrates with AI tools like Claude Code and Gemini CLI to enhance developer productivity through multi-session orchestration and atomic branching."
+        },
+        {
+            "question": "Which AI models does Dereference support?",
+            "answer": "It supports Claude, GPT-4, and Gemini, allowing seamless switching between these models in parallel sessions."
+        },
+        {
+            "question": "Is Dereference free to use?",
+            "answer": "Dereference offers a free trial, though some features may require a paid plan; check dereference.dev for details."
+        },
+        {
+            "question": "How does atomic branching work?",
+            "answer": "Atomic branching lets developers create branches from any point in an AI conversation to explore alternative solutions, which can be merged back into the main flow, similar to Git."
+        },
+        {
+            "question": "Does Dereference support collaborative features?",
+            "answer": "Currently, Dereference focuses on individual workflows, but future updates may enhance team collaboration functionalities."
+        },
+        {
+            "question": "Is my data secure with Dereference?",
+            "answer": "Yes, Dereference processes all data locally without telemetry, ensuring your code and API keys remain secure."
+        },
+        {
+            "question": "Can I use Dereference with any programming language?",
+            "answer": "Yes, it supports any language compatible with AI coding assistants, making it highly versatile."
+        },
+        {
+            "question": "How do I get started with Dereference?",
+            "answer": "Sign up at dereference.dev, install the native app, configure your AI model API keys, and start a new session."
+        }
+    ]
+}

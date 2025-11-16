@@ -1,0 +1,71 @@
+{
+    "name": "Gladia",
+    "description": "Gladia provides an AI-powered Audio Intelligence API for accurate, multilingual speech-to-text transcription and audio analysis.",
+    "longDescription": "Gladia is an advanced AI platform offering an Audio Intelligence API that enables developers and businesses to integrate real-time and asynchronous speech-to-text transcription into their applications. Founded in 2022, Gladia aims to simplify audio data processing by providing high-accuracy transcription in over 100 languages, enhanced by proprietary models like Whisper-Zero and Solaria. The platform addresses enterprise needs by offering features like speaker diarization, word-level timestamps, and audio intelligence add-ons for insights such as summarization and entity recognition. It serves industries like customer service, media, and virtual meetings, ensuring compatibility with various tech stacks and compliance with GDPR and SOC 2 standards. Gladia’s mission is to empower companies to extract valuable insights from audio data without technical limitations, enhancing productivity and user experience.",
+    "url": "https://www.gladia.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.gladia.io.webp",
+    "category": "AI Speech-to-Text",
+    "categorySlug": "ai-speech-to-text",
+    "slug": "gladia",
+    "categories": [
+        "AI Speech-to-Text",
+        "AI Transcription",
+        "AI Language Learning",
+        "AI Audio Editing",
+        "AI Text Classifier",
+        "AI Subtitle Generator",
+        "AI API"
+    ],
+    "features": [
+        "Real-time transcription converts speech to text instantly, enabling seamless integration for live applications like call centers.",
+        "Asynchronous transcription processes audio files in under 60 seconds per hour, ideal for large-scale media processing.",
+        "Speaker diarization segments audio by identifying and separating different speakers, enhancing transcript clarity.",
+        "Word-level timestamps provide precise timing for each transcribed word, supporting detailed analysis and subtitle creation.",
+        "Multilingual support transcribes and translates audio in over 100 languages, catering to global audiences.",
+        "Code-switching capabilities accurately handle mixed-language conversations, ensuring reliable transcription in diverse settings.",
+        "Audio intelligence add-ons like summarization and entity recognition extract key insights from audio for CRM and analytics.",
+        "Custom vocabulary support improves transcription accuracy for industry-specific terms in fields like healthcare and finance.",
+        "SRT and VTT subtitle formats enable synchronized captions for multimedia, enhancing accessibility.",
+        "Noise handling ensures clear transcription in challenging audio environments, improving reliability for real-world use.",
+        "API compatibility integrates seamlessly with all tech stacks, including SIP and WebSockets, for easy implementation.",
+        "GDPR and SOC 2 compliance ensures secure and privacy-conscious data handling for enterprise users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gladia’s Audio Intelligence API?",
+            "answer": "Gladia’s API provides real-time and asynchronous speech-to-text transcription with audio intelligence features like diarization and summarization, supporting over 100 languages."
+        },
+        {
+            "question": "Does Gladia offer a free plan?",
+            "answer": "Yes, Gladia provides a free tier with limited usage, allowing users to test the API before committing to paid plans."
+        },
+        {
+            "question": "What languages does Gladia support?",
+            "answer": "Gladia supports over 100 languages, including Georgian, with specialized models for regional dialects and mixed-language speech."
+        },
+        {
+            "question": "How fast is Gladia’s transcription process?",
+            "answer": "Gladia transcribes one hour of audio in under 60 seconds for asynchronous tasks, with real-time transcription offering minimal latency."
+        },
+        {
+            "question": "What industries benefit from Gladia’s API?",
+            "answer": "Industries like customer service, media, sales, and virtual meeting platforms use Gladia for transcription, analysis, and enhanced user experiences."
+        },
+        {
+            "question": "How does Gladia ensure data privacy?",
+            "answer": "Gladia complies with GDPR and SOC 2 standards, with encrypted backups and no user data used for training in Pro or Enterprise plans."
+        },
+        {
+            "question": "Can Gladia’s API integrate with my existing tech stack?",
+            "answer": "Yes, Gladia’s API is language-agnostic and compatible with all tech stacks, including telephony protocols like SIP and VoIP."
+        },
+        {
+            "question": "What are Gladia’s audio intelligence add-ons?",
+            "answer": "Add-ons include summarization, emotion detection, content tagging, and named entity recognition, enhancing audio data insights."
+        },
+        {
+            "question": "How can I report bugs or request features?",
+            "answer": "Users can report bugs to support@gladia.io or submit feature requests via Gladia’s Discord or dedicated form."
+        }
+    ]
+}

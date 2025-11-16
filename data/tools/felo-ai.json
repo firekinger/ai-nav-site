@@ -1,0 +1,58 @@
+{
+    "name": "Felo AI",
+    "description": "Felo AI provides an AI-powered translation and research tool for seamless multilingual communication and information retrieval.",
+    "longDescription": "Felo AI is an innovative platform designed to break language barriers and streamline research through advanced artificial intelligence. It offers real-time translation across multiple languages, enabling users to communicate and access information effortlessly. The platform integrates AI-driven search capabilities to provide accurate, context-aware results for professional and personal use. Felo AI aims to empower users by simplifying cross-lingual interactions and delivering reliable insights. Its mission is to make global knowledge accessible to everyone, regardless of language or location. The tool is particularly valuable for professionals, students, and travelers seeking efficient translation and research solutions.",
+    "url": "https://felo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/felo.ai.webp",
+    "category": "AI Translate",
+    "categorySlug": "ai-translate",
+    "slug": "felo-ai",
+    "categories": [
+        "AI Translate",
+        "AI Data Mining",
+        "AI Speech Recognition",
+        "AI Document Extraction",
+        "AI Text-to-Speech"
+    ],
+    "features": [
+        "Real-time translation supports over 100 languages for seamless multilingual communication.",
+        "AI-powered search delivers contextually relevant results from diverse sources.",
+        "Voice translation enables hands-free, real-time interpretation for conversations.",
+        "Text-to-speech functionality converts translated text into natural-sounding audio.",
+        "Document translation preserves formatting for professional and academic documents.",
+        "Cross-platform accessibility allows usage on web, iOS, and Android devices.",
+        "Customizable translation settings cater to specific industries or user preferences.",
+        "Integrated research tools summarize and analyze information for quick insights.",
+        "Offline translation mode ensures functionality without an internet connection."
+    ],
+    "faqs": [
+        {
+            "question": "What languages does Felo AI support?",
+            "answer": "Felo AI supports over 100 languages, including major ones like English, Spanish, Chinese, and less common ones like Swahili and Icelandic."
+        },
+        {
+            "question": "Is Felo AI free to use?",
+            "answer": "Felo AI offers a free plan with basic translation and search features, while premium plans unlock advanced functionalities and higher usage limits."
+        },
+        {
+            "question": "Can Felo AI translate documents?",
+            "answer": "Yes, Felo AI can translate documents while preserving formatting, making it ideal for professional and academic use."
+        },
+        {
+            "question": "Does Felo AI work offline?",
+            "answer": "Felo AI provides an offline translation mode for select languages, ensuring usability without an internet connection."
+        },
+        {
+            "question": "How accurate is Felo AI's translation?",
+            "answer": "Felo AI uses advanced AI models to deliver highly accurate, context-aware translations, though accuracy may vary for complex or idiomatic phrases."
+        },
+        {
+            "question": "Can I use Felo AI on my phone?",
+            "answer": "Yes, Felo AI is available on iOS and Android devices, offering full functionality on mobile platforms."
+        },
+        {
+            "question": "What makes Felo AI different from other translation tools?",
+            "answer": "Felo AI combines translation with AI-powered research, offering a unique blend of real-time communication and information retrieval tools."
+        }
+    ]
+}

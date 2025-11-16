@@ -1,0 +1,63 @@
+{
+    "name": "GitMind",
+    "description": "GitMind is an AI-powered collaborative mind mapping and brainstorming tool for creating and sharing visual diagrams.",
+    "longDescription": "GitMind is a versatile, AI-driven platform designed to help users visualize and organize ideas through mind maps, flowcharts, and other diagrams. It aims to foster creativity and streamline collaboration for individuals and teams, including students, educators, and professionals. The platform supports real-time collaboration, allowing multiple users to co-edit mind maps seamlessly across devices. By leveraging AI, GitMind can generate structured mind maps from text, videos, or other inputs, simplifying complex information. Its mission is to empower users to capture inspiration, enhance productivity, and create a 'metaverse of ideas' through intuitive and visually appealing tools. GitMind’s free accessibility and cross-platform support make it a go-to solution for brainstorming, project planning, and knowledge organization.",
+    "url": "https://gitmind.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gitmind.com.webp",
+    "category": "AI Mind Mapping",
+    "categorySlug": "ai-mind-mapping",
+    "slug": "gitmind",
+    "categories": [
+        "AI Mind Mapping",
+        "AI Project Management",
+        "AI Diagram Generator",
+        "AI Design Assistant",
+        "AI Knowledge Graph",
+        "AI Chatbot"
+    ],
+    "features": [
+        "AI-generated mind maps automatically create structured diagrams from text, videos, or other inputs, saving time and effort.",
+        "Real-time collaboration enables multiple users to edit and comment on mind maps simultaneously, enhancing teamwork.",
+        "Cross-platform synchronization allows users to access and edit mind maps on Windows, Mac, iOS, Android, and web browsers.",
+        "Customizable templates provide a variety of pre-designed mind maps, flowcharts, and UML diagrams for quick project starts.",
+        "Export options support saving mind maps as images, PDFs, Word documents, or other formats for easy sharing.",
+        "Interactive interface offers drag-and-drop functionality and customizable nodes to create visually appealing diagrams.",
+        "Cloud storage ensures secure access to mind maps from any device, preventing data loss.",
+        "AI chatbot integration assists users in refining concepts and generating ideas within the platform.",
+        "Task management tools allow users to organize to-do lists, schedules, and project plans within mind maps."
+    ],
+    "faqs": [
+        {
+            "question": "What is GitMind used for?",
+            "answer": "GitMind is used for creating mind maps, flowcharts, and diagrams to organize ideas, plan projects, and facilitate collaborative brainstorming."
+        },
+        {
+            "question": "Is GitMind free to use?",
+            "answer": "Yes, GitMind offers a free plan with core features, though some advanced AI functionalities may require credits or a subscription."
+        },
+        {
+            "question": "Can I collaborate with others on GitMind?",
+            "answer": "GitMind supports real-time collaboration, allowing multiple users to co-edit and comment on mind maps simultaneously."
+        },
+        {
+            "question": "Does GitMind work on mobile devices?",
+            "answer": "Yes, GitMind is available on iOS and Android, with apps that sync changes in real-time across devices."
+        },
+        {
+            "question": "How does the AI feature in GitMind work?",
+            "answer": "GitMind’s AI can generate mind maps from text, videos, or other inputs, and includes a chatbot to refine ideas and concepts."
+        },
+        {
+            "question": "Can I export my mind maps from GitMind?",
+            "answer": "Yes, GitMind allows exporting mind maps as images, PDFs, Word documents, and other formats for easy sharing."
+        },
+        {
+            "question": "Is there a limit to how many mind maps I can create?",
+            "answer": "Free users can create up to 10 mind maps; additional maps require upgrading to a paid plan or purchasing credits."
+        },
+        {
+            "question": "Does GitMind offer templates for different diagram types?",
+            "answer": "GitMind provides a variety of customizable templates for mind maps, flowcharts, UML diagrams, and more."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Tongyi",
+    "description": "Tongyi is an AI-powered platform by Alibaba Cloud offering versatile tools for text, coding, and multimedia tasks.",
+    "longDescription": "Tongyi, developed by Alibaba Cloud, is a large language model (LLM) platform designed to provide intelligent assistance across various domains, including text generation, coding, and multimedia processing. Its mission is to enhance productivity and creativity for individuals and businesses by leveraging advanced natural language processing (NLP) and AI capabilities. The platform serves users ranging from students and professionals to enterprises, offering tools to streamline tasks like document analysis, coding, and content creation. Tongyi supports multiple languages, making it accessible globally, and integrates seamlessly with Alibaba’s ecosystem, such as DingTalk and Tmall Genie. It stands out for its commitment to ethical AI, prioritizing privacy, fairness, and transparency. The platform is continuously updated to improve performance based on user feedback and technological advancements.",
+    "url": "https://www.tongyi.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tongyi.com.webp",
+    "category": "AI Character",
+    "categorySlug": "ai-character",
+    "slug": "tongyi",
+    "categories": [
+        "AI Character",
+        "AI For Data Analytics",
+        "AI Code Assistant",
+        "AI Translate",
+        "AI Video Editor",
+        "AI Text Generator",
+        "AI Workflow"
+    ],
+    "features": [
+        "Intelligent Q&A generates accurate, context-aware responses to complex user queries, enhancing research and decision-making.",
+        "Document processing handles long documents up to 10 million words and parses multiple formats, ideal for professional use.",
+        "Intelligent coding via Tongyi Lingma assists developers with code writing, debugging, and optimization on mobile devices.",
+        "Multilingual support enables seamless interaction and translation across various languages for global accessibility.",
+        "Audio and video analysis processes up to 50 files simultaneously, offering summaries and multilingual translations.",
+        "Text generation creates coherent content for emails, proposals, or creative writing, saving users time.",
+        "Integration with Alibaba apps like DingTalk automates workplace tasks such as meeting note summarization.",
+        "Visual content generation produces images or animations from user prompts, boosting creative projects.",
+        "Real-time learning improves responses based on user interactions, ensuring personalized assistance.",
+        "PPT creation tools streamline professional presentations with AI-driven design suggestions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tongyi used for?",
+            "answer": "Tongyi is an AI platform for tasks like text generation, coding, document analysis, and multimedia processing, serving both personal and professional needs."
+        },
+        {
+            "question": "Is Tongyi free to use?",
+            "answer": "Tongyi offers a free plan with access to core features, though some advanced functionalities may require a subscription or enterprise access."
+        },
+        {
+            "question": "Does Tongyi support multiple languages?",
+            "answer": "Yes, Tongyi supports multiple languages, including Chinese and English, making it suitable for global users and multilingual tasks."
+        },
+        {
+            "question": "Can Tongyi help with coding?",
+            "answer": "Tongyi Lingma, integrated into the platform, assists with writing, debugging, and learning code, even on mobile devices."
+        },
+        {
+            "question": "How does Tongyi ensure data privacy?",
+            "answer": "Alibaba Cloud emphasizes ethical AI, ensuring Tongyi is developed with strong privacy, fairness, and transparency standards."
+        },
+        {
+            "question": "Is Tongyi available on mobile devices?",
+            "answer": "Yes, Tongyi is accessible via iOS, Android apps, and WeChat mini-programs for convenient mobile use."
+        },
+        {
+            "question": "Can Tongyi process large documents?",
+            "answer": "Tongyi can process documents up to 10 million words and handle multiple formats, ideal for legal, financial, or research tasks."
+        },
+        {
+            "question": "How do I register for Tongyi?",
+            "answer": "Users can register using a phone number or Taobao account through the Tongyi website or app."
+        }
+    ]
+}

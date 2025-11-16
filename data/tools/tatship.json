@@ -1,0 +1,62 @@
+{
+    "name": "Tatship",
+    "description": "Tatship is a platform for designing and virtually trying on tattoos to help users make informed decisions before getting inked.",
+    "longDescription": "Tatship is an innovative platform that allows users to design and simulate tattoos virtually, enabling them to preview how a tattoo will look on their body before committing to permanent ink. Its mission is to empower users to make confident, regret-free tattoo decisions by offering tools to customize designs, adjust placements, and visualize results in real-time. The platform caters to both tattoo enthusiasts and beginners, helping them explore styles, sizes, and placements with ease. By providing a user-friendly interface and AI-driven design generation, Tatship bridges the gap between imagination and reality. It also facilitates better communication with tattoo artists by allowing users to share precise visual references. Additionally, Tatship offers temporary tattoo options for physical try-ons, ensuring users can test their designs in real life.",
+    "url": "https://tatship.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tatship.com.webp",
+    "category": "AI Tattoo Generator",
+    "categorySlug": "ai-tattoo-generator",
+    "slug": "tatship",
+    "categories": [
+        "AI Tattoo Generator",
+        "AI Clothing Removal",
+        "AI Dermatology",
+        "AI Design Assistant",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Upload a photo to virtually try on tattoo designs on your body, ensuring a realistic preview of placement and style.",
+        "Generate unique tattoo designs using AI by describing your preferences, simplifying the creative process.",
+        "Customize tattoo designs by rotating, resizing, or repositioning them to fit your body perfectly.",
+        "Use the Precision Eraser Tool to refine designs by removing unwanted areas for intricate detailing.",
+        "Apply the Advanced Mask Tool to add sophisticated effects like double exposure for enhanced visual appeal.",
+        "Order custom temporary tattoos to test designs on your skin before committing to permanent ink.",
+        "Save and share design screenshots with tattoo artists to improve communication and clarity.",
+        "Access a vast library of high-quality design elements to create personalized tattoo artwork.",
+        "Find tattoo artists through the Tattoo Artists Finder, matching your needs and preferences."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tatship?",
+            "answer": "Tatship is a platform for designing and virtually trying on tattoos, allowing users to preview designs on their body and make informed decisions before getting inked."
+        },
+        {
+            "question": "Is Tatship free to use?",
+            "answer": "Yes, Tatship offers free access to its core tattoo design and virtual try-on tools without requiring sign-up."
+        },
+        {
+            "question": "Can I create my own tattoo designs on Tatship?",
+            "answer": "Yes, you can upload photos, use AI to generate designs, or combine elements to create custom tattoos."
+        },
+        {
+            "question": "Does Tatship store my uploaded photos?",
+            "answer": "No, Tatship ensures your personal photos remain offline and are not stored in their database for privacy."
+        },
+        {
+            "question": "Can I use Tatship to communicate with my tattoo artist?",
+            "answer": "Yes, you can save and share screenshots of your designs to provide clear visual references to your tattoo artist."
+        },
+        {
+            "question": "How realistic is the virtual try-on feature?",
+            "answer": "Tatship’s AI-driven skin analysis and virtual try-on feature provide a highly realistic preview of how tattoos look on your body."
+        },
+        {
+            "question": "Can I order physical tattoos from Tatship?",
+            "answer": "Yes, Tatship allows you to order high-quality temporary tattoos to test your designs on your skin before getting a permanent one."
+        },
+        {
+            "question": "Is Tatship suitable for tattoo beginners?",
+            "answer": "Absolutely, Tatship is designed to help beginners visualize and experiment with tattoo ideas, reducing the fear of regret."
+        }
+    ]
+}

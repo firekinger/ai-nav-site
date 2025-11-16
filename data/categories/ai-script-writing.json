@@ -1,0 +1,215 @@
+{
+    "title": "The Best 19 AI Script Writing Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Script Writing tools, designed to streamline the script development process for filmmakers, content creators, and marketers. These innovative solutions enhance storytelling, generate engaging dialogue, and save you valuable time, allowing you to focus on your vision. Whether you're crafting a short film, a podcast, or a marketing video, our curated selection of AI tools will elevate your writing experience. Explore our AI Script Writing category today and discover how these powerful resources can transform your projects!",
+    "tools": [
+        {
+            "id": "327",
+            "name": "AI Studios",
+            "slug": "ai-studios",
+            "description": "AI Studios is an AI-powered video generation platform that transforms text into professional videos with realistic avatars and multilingual voiceovers.",
+            "icon": "/logo/www.aistudios.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "330",
+            "name": "Revid AI",
+            "slug": "revid-ai",
+            "description": "Revid AI is an AI-powered platform for creating viral short videos for social media platforms like TikTok, Instagram, and YouTube.",
+            "icon": "/logo/www.revid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "407",
+            "name": "Topview AI",
+            "slug": "topview-ai",
+            "description": "Topview AI is an AI-powered video editor that transforms links or media assets into viral marketing videos with one click.",
+            "icon": "/logo/www.topview.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "455",
+            "name": "JoggAI",
+            "slug": "joggai",
+            "description": "JoggAI is an AI-powered video generator that creates engaging videos with lifelike AI avatars from text, URLs, or images.",
+            "icon": "/logo/www.jogg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "481",
+            "name": "HyperWrite",
+            "slug": "hyperwrite",
+            "description": "HyperWrite is an AI-powered writing assistant that enhances productivity and creativity for content creation and communication.",
+            "icon": "/logo/www.hyperwriteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "489",
+            "name": "LOVO AI",
+            "slug": "lovo-ai",
+            "description": "LOVO AI is an AI-powered platform for generating realistic voiceovers and creating professional videos with text-to-speech technology.",
+            "icon": "/logo/lovo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "632",
+            "name": "Arcads",
+            "slug": "arcads-ai",
+            "description": "Arcads is an AI-powered platform that transforms text into high-quality video ads using customizable AI actors for marketing campaigns.",
+            "icon": "/logo/www.arcads.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "636",
+            "name": "Toolsaday",
+            "slug": "toolsaday",
+            "description": "Toolsaday is an AI-powered platform designed to streamline content creation and enhance productivity for marketers, writers, and professionals.",
+            "icon": "/logo/toolsaday.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "641",
+            "name": "CinemaFlow AI",
+            "slug": "cinemaflow-ai",
+            "description": "CinemaFlow AI transforms scripts into stunning visual videos using advanced AI technology with a single click.",
+            "icon": "/logo/www.cinemaflow.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "668",
+            "name": "Crayo AI",
+            "slug": "crayo-ai",
+            "description": "Crayo AI is an AI-powered platform for creating viral-ready short-form videos for social media in minutes.",
+            "icon": "/logo/crayo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "685",
+            "name": "AutoShorts.ai",
+            "slug": "autoshorts-ai",
+            "description": "AutoShorts.ai is an AI-powered platform that automates the creation, scheduling, and posting of faceless videos for TikTok and YouTube to grow social media channels effortlessly.",
+            "icon": "/logo/autoshorts.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "697",
+            "name": "Wondercraft",
+            "slug": "wondercraft-ai",
+            "description": "Wondercraft is an AI-powered platform for creating studio-quality podcasts, audiobooks, and ads effortlessly.",
+            "icon": "/logo/www.wondercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "707",
+            "name": "VidAU",
+            "slug": "vidau-ai",
+            "description": "VidAU is an AI-powered platform for creating high-quality video ads and content with minimal effort.",
+            "icon": "/logo/www.vidau.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "732",
+            "name": "Short AI",
+            "slug": "short-ai",
+            "description": "Short AI is an AI-powered platform for creating viral, faceless short-form videos for social media platforms like YouTube and TikTok.",
+            "icon": "/logo/www.short.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "838",
+            "name": "Syllaby",
+            "slug": "syllaby",
+            "description": "Syllaby is an AI-powered platform that streamlines the creation of viral social media videos with tools for ideation, scripting, and editing.",
+            "icon": "/logo/syllaby.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "1046",
+            "name": "Katalist",
+            "slug": "katalist-ai",
+            "description": "Katalist.ai is an AI-powered platform that transforms scripts into professional storyboards for filmmakers, advertisers, and content creators.",
+            "icon": "/logo/www.katalist.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "1077",
+            "name": "Outset",
+            "slug": "outset-ai",
+            "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+            "icon": "/logo/outset.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-script-writing"
+            ]
+        },
+        {
+            "id": "1120",
+            "name": "MakeUGC",
+            "slug": "makeugc-ai",
+            "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+            "icon": "/logo/www.makeugc.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-script-writing"
+            ]
+        }
+    ]
+}

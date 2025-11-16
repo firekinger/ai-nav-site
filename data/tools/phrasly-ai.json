@@ -1,0 +1,66 @@
+{
+    "name": "Phrasly",
+    "description": "Phrasly transforms AI-generated content into human-like text to bypass AI detection and enhance writing quality.",
+    "longDescription": "Phrasly is an AI-powered platform designed to humanize AI-generated text, making it indistinguishable from human-written content to bypass advanced AI detectors like Turnitin and GPTZero. Its mission is to assist students, writers, and content creators in producing authentic, high-quality text that maintains academic integrity and readability. By leveraging proprietary algorithms trained on extensive human-written datasets, Phrasly refines AI outputs to improve flow, coherence, and natural tone. The platform also includes an AI detector to verify content authenticity, catering to users who need reliable, undetectable text for academic or professional purposes. It supports various use cases, from generating essays to creating blog posts, with a focus on efficiency and customization.",
+    "url": "https://phrasly.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/phrasly.ai.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "phrasly-ai",
+    "categories": [
+        "Humanizer AI",
+        "AI Paraphraser",
+        "Bypass AI",
+        "AI Writing",
+        "AI Essay Writer",
+        "AI Plagiarism Checker",
+        "AI SEO Tools",
+        "AI Grammar Checker",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Transforms AI-generated text into human-like content to bypass AI detectors like Turnitin and GPTZero.",
+        "Offers an AI detector with 99.8% accuracy to verify if content is flagged as AI-generated.",
+        "Provides multiple humanization modes (Easy, Medium, Aggressive) to customize text output based on user needs.",
+        "Generates content with custom in-text citations sourced from the internet for credible academic writing.",
+        "Allows export of content to multiple formats like Google Docs and Microsoft Word for seamless integration.",
+        "Features sentence variation options, enabling users to select rewrites that match their preferred style.",
+        "Supports unlimited word processing without monthly caps, ideal for high-volume content creators.",
+        "Enhances text readability and flow, ensuring natural and engaging output for readers.",
+        "Provides a user-friendly interface with time-saving metrics, such as hours saved during content creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Phrasly used for?",
+            "answer": "Phrasly humanizes AI-generated text to make it undetectable by AI detectors and improve its natural tone for academic or professional use."
+        },
+        {
+            "question": "Does Phrasly offer a free plan?",
+            "answer": "Yes, Phrasly provides a free trial that allows users to humanize up to 300 words without a subscription."
+        },
+        {
+            "question": "Can Phrasly bypass AI detectors like Turnitin?",
+            "answer": "Phrasly claims to bypass detectors like Turnitin by transforming text to read as human-written, though results may vary with some detectors."
+        },
+        {
+            "question": "How does Phrasly ensure content quality?",
+            "answer": "Phrasly uses algorithms trained on high-quality human texts to enhance readability, coherence, and authenticity of AI-generated content."
+        },
+        {
+            "question": "Is Phrasly suitable for academic writing?",
+            "answer": "Yes, Phrasly supports academic writing by generating credible content with custom citations, but users should ensure ethical use to maintain integrity."
+        },
+        {
+            "question": "What are the limitations of Phrasly?",
+            "answer": "While effective, Phrasly may produce inconsistent results with some detectors and occasionally shorten content length during rewriting."
+        },
+        {
+            "question": "Can Phrasly help with writer’s block?",
+            "answer": "Phrasly aids users with writer’s block by providing rephrased content and new sentence variations to spark ideas."
+        },
+        {
+            "question": "Does Phrasly support bulk content processing?",
+            "answer": "Yes, Phrasly offers unlimited word processing, making it suitable for agencies or users handling large content volumes."
+        }
+    ]
+}

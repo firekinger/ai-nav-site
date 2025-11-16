@@ -1,0 +1,71 @@
+{
+    "name": "Collov AI",
+    "description": "Collov AI is an AI-powered platform that enables users to generate personalized interior design ideas, virtual stagings, and home furnishing recommendations through advanced artificial intelligence.",
+    "longDescription": "Collov AI is a cutting-edge online platform that harnesses the power of artificial intelligence to simplify and enhance interior design processes for homeowners, designers, and real estate professionals. Its mission is to make professional-level design accessible to everyone by democratizing tools that were once limited to experts, thereby saving time and reducing costs associated with traditional design methods. The platform solves common problems like design indecision, visualization challenges, and the need for quick iterations by allowing users to upload room photos and receive AI-generated design suggestions tailored to their preferences. It serves users by providing instant, customizable design inspirations, virtual staging for real estate listings, and integration with e-commerce for seamless purchasing of recommended items. Overall, Collov AI bridges the gap between imagination and reality in home design, empowering users to create beautiful spaces without extensive expertise or resources.",
+    "url": "https://collov.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/collov.ai.webp",
+    "category": "AI Interior Design",
+    "categorySlug": "ai-interior-design",
+    "slug": "collov-ai",
+    "categories": [
+        "AI Interior Design",
+        "AI Design Assistant",
+        "AI Room Planner",
+        "AI Real Estate",
+        "AI 3D Model Generator"
+    ],
+    "features": [
+        "AI Design Generator allows users to upload room photos and instantly receive multiple design variations based on selected styles, colors, and themes, streamlining the creative process.",
+        "Virtual Staging feature transforms empty or outdated spaces into fully furnished visuals, helping real estate agents showcase properties more appealingly to potential buyers.",
+        "Personalized Recommendations use AI to suggest furniture and decor items that match the generated designs, complete with direct links to purchase from partner retailers.",
+        "Style Customization enables users to choose from a wide array of design styles like modern, minimalist, or bohemian, ensuring the outputs align with individual tastes.",
+        "High-Resolution Rendering produces photorealistic images of designed spaces, allowing for detailed previews before any physical changes are made.",
+        "Collaborative Tools let multiple users share and edit designs in real-time, facilitating teamwork for families or professional design teams.",
+        "Mobile App Integration provides on-the-go access to design tools, enabling users to capture room photos directly from their phones and generate ideas instantly.",
+        "Eco-Friendly Suggestions incorporate sustainable material options into designs, promoting environmentally conscious home improvements.",
+        "Budget Estimator calculates approximate costs for implemented designs based on recommended items, helping users plan financially.",
+        "3D Walkthroughs offer immersive virtual tours of AI-generated spaces, enhancing the visualization experience beyond static images."
+    ],
+    "faqs": [
+        {
+            "question": "What is Collov AI primarily used for?",
+            "answer": "Collov AI is mainly used for generating AI-powered interior design ideas and virtual stagings. It helps users visualize and plan home renovations or furnishings quickly."
+        },
+        {
+            "question": "Is Collov AI free to use?",
+            "answer": "Yes, Collov AI offers a free plan with basic features like limited design generations. Premium subscriptions unlock unlimited access and advanced tools."
+        },
+        {
+            "question": "How does the AI Design Generator work?",
+            "answer": "Users upload a photo of their room, select preferences like style and color, and the AI processes this to create customized design options. It's powered by advanced machine learning models for realistic results."
+        },
+        {
+            "question": "Can I purchase items from the designs?",
+            "answer": "Yes, Collov AI provides direct links to buy recommended furniture and decor from partnered retailers. This integrates shopping seamlessly into the design experience."
+        },
+        {
+            "question": "Is Collov AI suitable for professional designers?",
+            "answer": "Absolutely, professionals use it for quick ideation, client presentations, and virtual staging in real estate. It saves time while offering high-quality, customizable outputs."
+        },
+        {
+            "question": "What file formats are supported for uploads?",
+            "answer": "Common image formats like JPEG and PNG are supported for room photos. Ensure images are clear for the best AI processing results."
+        },
+        {
+            "question": "How accurate are the AI-generated designs?",
+            "answer": "The designs are highly accurate and realistic, thanks to trained AI models on vast datasets. However, results can vary based on input quality and may require user tweaks."
+        },
+        {
+            "question": "Does Collov AI offer mobile support?",
+            "answer": "Yes, there's a mobile app for iOS and Android that allows on-the-go design generation and photo uploads."
+        },
+        {
+            "question": "Can I collaborate with others on designs?",
+            "answer": "Collov AI includes sharing features for real-time collaboration. Invite others via link to view or edit designs together."
+        },
+        {
+            "question": "What makes Collov AI different from other design tools?",
+            "answer": "Unlike traditional software, Collov uses AI for instant, intelligent suggestions without manual drawing. It combines design, staging, and shopping in one platform."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Komodo Decks",
+    "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+    "longDescription": "Komodo Decks is a versatile platform designed to streamline team productivity through seamless screen recording and AI-driven tools. It allows users to capture unlimited screen videos, automatically transform them into shareable standard operating procedures (SOPs), and generate AI-powered meeting notes and summaries. The platform supports businesses, educators, and content creators by simplifying the creation of high-quality instructional content and enhancing team collaboration. Its browser-based interface and Chrome extension make it accessible and easy to use without requiring advanced technical skills. By integrating features like real-time analytics and collaborative spaces, Komodo Decks addresses the need for efficient asynchronous communication and documentation.",
+    "url": "https://komododecks.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/komododecks.com.webp",
+    "category": "AI Video Recording",
+    "categorySlug": "ai-video-recording",
+    "slug": "komodo-decks",
+    "categories": [
+        "AI Video Recording",
+        "AI Notes Generator",
+        "AI SOP",
+        "AI Video Editor",
+        "AI Project Management",
+        "AI For Data Analytics",
+        "AI Tutorial"
+    ],
+    "features": [
+        "Unlimited screen recording allows users to capture videos of any length without restrictions, ideal for creating detailed tutorials or demos.",
+        "AI-powered meeting notes automatically generate summaries and action items from recorded calls, saving time and improving productivity.",
+        "Komodo Guides transforms screen recordings into interactive step-by-step SOPs, simplifying the creation of detailed documentation.",
+        "The cloud-based video editor enables quick and easy editing of recorded or uploaded videos directly in the browser.",
+        "Real-time analytics provide insights into viewer engagement, including view counts and comments, to track content performance.",
+        "The Spaces feature facilitates team collaboration by grouping members and enabling built-in annotation and commenting.",
+        "Custom branding options allow users to personalize the viewing experience with tailored video pages.",
+        "The Chrome extension enables instant screen recording directly from the browser with a single click.",
+        "Mobile apps for iOS and Android support video creation from presentations, enhancing flexibility for on-the-go users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Komodo Decks used for?",
+            "answer": "Komodo Decks is used for screen recording, creating interactive SOPs, and generating AI-powered meeting notes to enhance team productivity and communication."
+        },
+        {
+            "question": "Is Komodo Decks free to use?",
+            "answer": "Yes, Komodo Decks offers a free plan with unlimited screen recording and video creation, though some advanced features may require a paid plan."
+        },
+        {
+            "question": "How does the AI in Komodo Decks work?",
+            "answer": "The AI analyzes recorded videos to generate meeting summaries, action items, and interactive guides, extracting key insights for easy sharing."
+        },
+        {
+            "question": "Can I edit videos on Komodo Decks?",
+            "answer": "Yes, Komodo Decks provides a fully browser-based video editor to easily edit recorded or uploaded videos."
+        },
+        {
+            "question": "Does Komodo Decks support team collaboration?",
+            "answer": "Yes, the Spaces feature allows teams to collaborate seamlessly with built-in annotations and commenting tools."
+        },
+        {
+            "question": "How does Komodo Decks compare to Loom?",
+            "answer": "Komodo Decks offers unlimited recording and AI-driven SOP creation, often praised for fewer restrictions and more generous features compared to Loom."
+        },
+        {
+            "question": "Can I use Komodo Decks on mobile devices?",
+            "answer": "Yes, Komodo Decks offers iOS and Android apps for creating and sharing videos from presentations or recordings."
+        },
+        {
+            "question": "Does Komodo Decks provide analytics for videos?",
+            "answer": "Yes, it provides real-time analytics, including view counts and user comments, delivered daily to your inbox."
+        }
+    ]
+}

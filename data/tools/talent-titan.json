@@ -1,0 +1,69 @@
+{
+    "name": "Talent Titan",
+    "description": "Talent Titan is an AI-powered platform that connects businesses with top talent through intelligent matching and recruitment tools.",
+    "longDescription": "Talent Titan is a modern recruitment platform designed to streamline the hiring process for companies by leveraging artificial intelligence. Its mission is to bridge the gap between employers and skilled professionals, making talent acquisition faster and more efficient. The platform solves common problems in hiring, such as sifting through numerous resumes and identifying the best fits, by using AI algorithms to match candidates with job openings. It serves businesses of all sizes, from startups to enterprises, by providing tools for job posting, candidate screening, and interview scheduling. Overall, Talent Titan aims to reduce time-to-hire and improve the quality of hires through data-driven insights.",
+    "url": "https://talenttitan.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/talenttitan.com.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "talent-titan",
+    "categories": [
+        "AI Recruiting",
+        "AI Resume Checker",
+        "AI Interview Assistant"
+    ],
+    "features": [
+        "AI-powered candidate matching that analyzes resumes and job requirements to suggest the best fits, saving recruiters time.",
+        "Automated resume screening to filter out unqualified applicants quickly and efficiently.",
+        "Job posting tools that allow employers to create and distribute listings across multiple channels with ease.",
+        "Interview scheduling integration that coordinates calendars and sends reminders to streamline the process.",
+        "Analytics dashboard providing insights into hiring metrics, such as time-to-fill and candidate quality.",
+        "Candidate database management for storing and searching profiles of potential hires.",
+        "Customizable assessment tools to evaluate skills and fit through AI-driven tests.",
+        "Collaboration features for hiring teams to share notes and feedback on candidates.",
+        "Mobile accessibility enabling users to manage recruitment on the go.",
+        "Integration with popular HR systems for seamless data flow."
+    ],
+    "faqs": [
+        {
+            "question": "What is Talent Titan?",
+            "answer": "Talent Titan is an AI-driven recruitment platform that helps businesses find and hire top talent efficiently. It uses advanced algorithms to match candidates with job openings."
+        },
+        {
+            "question": "How does the AI matching work?",
+            "answer": "The AI analyzes job descriptions and candidate profiles, including skills and experience, to provide ranked recommendations. This reduces manual review time significantly."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Talent Titan offers a limited free trial for new users to explore core features. After the trial, subscription plans are required for full access."
+        },
+        {
+            "question": "Can I integrate Talent Titan with my existing HR software?",
+            "answer": "Yes, Talent Titan supports integrations with popular HR systems like Workday and BambooHR. This allows for smooth data synchronization."
+        },
+        {
+            "question": "What industries does Talent Titan cater to?",
+            "answer": "Talent Titan serves various industries including tech, finance, healthcare, and marketing. Its flexible tools can be adapted to specific sector needs."
+        },
+        {
+            "question": "How secure is candidate data on Talent Titan?",
+            "answer": "Talent Titan employs industry-standard encryption and compliance with GDPR to protect user data. Regular security audits ensure ongoing protection."
+        },
+        {
+            "question": "Does Talent Titan offer support for remote hiring?",
+            "answer": "Yes, it includes features for virtual interviews and remote candidate assessment. This makes it ideal for global or distributed teams."
+        },
+        {
+            "question": "What pricing plans are available?",
+            "answer": "Talent Titan has tiered pricing starting from basic plans for small teams to enterprise solutions with advanced features. Custom quotes are available for large organizations."
+        },
+        {
+            "question": "Can candidates use Talent Titan for free?",
+            "answer": "Candidates can create profiles and apply to jobs for free. Premium features like profile boosts may require payment."
+        },
+        {
+            "question": "How does Talent Titan improve hiring efficiency?",
+            "answer": "By automating screening and matching, it reduces time-to-hire by up to 50%. Analytics help refine recruitment strategies over time."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Mappedin",
+    "description": "Mappedin provides indoor mapping and wayfinding solutions to enhance navigation and experiences in large venues like malls, airports, and offices.",
+    "longDescription": "Mappedin is a platform specializing in digital indoor mapping technology that helps venue owners and operators create interactive, customizable maps for better navigation and user engagement. Its mission is to transform how people interact with physical spaces by providing accurate, real-time mapping solutions that improve accessibility and efficiency. The platform serves users by solving problems related to indoor navigation, such as getting lost in complex buildings, and enables businesses to offer enhanced visitor experiences through integrated apps and analytics. Mappedin caters to industries like retail, healthcare, and transportation, allowing for seamless integration with mobile apps and websites. Overall, it empowers organizations to digitize their spaces, making them more navigable and data-driven.",
+    "url": "https://www.mappedin.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mappedin.com.webp",
+    "category": "AI Map Generator",
+    "categorySlug": "ai-map-generator",
+    "slug": "mappedin",
+    "categories": [
+        "AI Map Generator",
+        "AI Search Engine",
+        "AI Predictions"
+    ],
+    "features": [
+        "The Mappedin Maker tool allows users to easily create and edit high-fidelity 3D indoor maps, streamlining the process of digitizing physical spaces for better accuracy and usability.",
+        "Wayfinding features provide optimal routing and directions within venues, helping visitors navigate complex environments efficiently and reducing frustration.",
+        "AI-powered search enables intelligent querying of locations and amenities, delivering relevant results quickly to enhance user satisfaction.",
+        "Analytics dashboards offer insights into visitor behavior and space utilization, allowing venue managers to make data-informed decisions for improvements.",
+        "SDK integration supports embedding maps into mobile apps and websites, providing developers with flexible tools to build custom navigation experiences.",
+        "Multi-floor support handles complex building structures, ensuring seamless transitions between levels for comprehensive indoor mapping.",
+        "Real-time updates allow for dynamic changes to maps, such as temporary closures or events, keeping information current for users.",
+        "Accessibility features include options for voice guidance and inclusive design, making spaces more navigable for all users, including those with disabilities.",
+        "Customization options let businesses brand maps and add specific data layers, tailoring the experience to their unique needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mappedin used for?",
+            "answer": "Mappedin is used to create interactive digital maps for indoor spaces like shopping centers and airports, helping with navigation and venue management. It solves issues related to wayfinding in large buildings."
+        },
+        {
+            "question": "Does Mappedin offer AI features?",
+            "answer": "Yes, Mappedin incorporates AI for features like intelligent search and path optimization. This enhances the accuracy and relevance of navigation suggestions."
+        },
+        {
+            "question": "Is there a free version of Mappedin?",
+            "answer": "Mappedin does not offer a completely free plan for its core features, but it provides demos and trials for potential customers. It's primarily a paid enterprise solution."
+        },
+        {
+            "question": "How does Mappedin integrate with apps?",
+            "answer": "Mappedin provides SDKs for iOS, Android, and web, allowing easy integration of maps into custom applications. This enables developers to add navigation functionalities seamlessly."
+        },
+        {
+            "question": "What industries does Mappedin serve?",
+            "answer": "Mappedin serves industries such as retail, healthcare, transportation, and corporate offices. It helps these sectors improve visitor experiences through better indoor mapping."
+        },
+        {
+            "question": "Can Mappedin handle large venues?",
+            "answer": "Yes, Mappedin is designed for large-scale venues with multi-floor support and scalable mapping tools. It manages complex structures efficiently."
+        },
+        {
+            "question": "How secure is Mappedin's data?",
+            "answer": "Mappedin prioritizes data security with encryption and compliance standards. Venue data is protected to ensure privacy and reliability."
+        },
+        {
+            "question": "Does Mappedin provide analytics?",
+            "answer": "Yes, it offers analytics on visitor traffic and space usage. This helps managers optimize layouts and operations based on real data."
+        },
+        {
+            "question": "Is Mappedin mobile-friendly?",
+            "answer": "Absolutely, Mappedin's maps are optimized for mobile devices. Users can access navigation on smartphones for on-the-go assistance."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Bolt.new",
+    "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+    "longDescription": "Bolt.new is an innovative AI-powered web development platform designed to simplify the creation of full-stack web applications by allowing users to generate, edit, and deploy code directly in the browser. Developed by StackBlitz, it leverages WebContainers technology to provide a secure, in-browser development environment without the need for local setups. The platform supports a wide range of JavaScript frameworks and integrates with tools like Figma, Netlify, and Supabase, making it accessible to developers, designers, and non-coders alike. Its mission is to streamline prototyping, development, and deployment, enabling users to transform ideas into functional apps quickly. By combining natural language prompts with real-time code execution, Bolt.new empowers users to iterate rapidly and deploy production-ready applications with minimal effort. It’s particularly valuable for those seeking to prototype ideas or build scalable web solutions efficiently.",
+    "url": "https://bolt.new/?utm_source=ainavdir",
+    "screenshot": "/screenshot/bolt.new.webp",
+    "category": "AI Code Generator",
+    "categorySlug": "ai-code-generator",
+    "slug": "bolt-new",
+    "categories": [
+        "AI Code Generator",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Design Assistant",
+        "AI Meeting Assistant"
+    ],
+    "features": [
+        "AI-driven code generation allows users to create complex web applications from simple text prompts, saving development time.",
+        "In-browser development environment powered by WebContainers enables running Node.js, installing npm packages, and testing APIs without local setup.",
+        "One-click deployment to platforms like Netlify or Cloudflare simplifies publishing applications with no server configuration needed.",
+        "Figma integration converts design files into production-ready code, enhancing designer-developer collaboration.",
+        "Real-time collaboration features enable multiple users to work on projects simultaneously, similar to Google Docs.",
+        "Supports popular JavaScript frameworks like React, Next.js, Vue, and Svelte, ensuring flexibility for diverse project needs.",
+        "Error detection and auto-fixing by the AI assistant help resolve coding issues quickly, improving development efficiency.",
+        "Offline support allows developers to continue working without an internet connection, enhancing productivity.",
+        "Open-source codebase enables developers to build custom AI-powered tools using Bolt’s framework and WebContainer API."
+    ],
+    "faqs": [
+        {
+            "question": "What is Bolt.new?",
+            "answer": "Bolt.new is an AI-powered platform that allows users to create, edit, and deploy full-stack web applications directly in the browser using natural language prompts and WebContainers technology."
+        },
+        {
+            "question": "Is Bolt.new free to use?",
+            "answer": "Bolt.new offers a free plan with daily AI token limits, with paid subscriptions available for more tokens and private projects."
+        },
+        {
+            "question": "What frameworks does Bolt.new support?",
+            "answer": "Bolt.new supports popular JavaScript frameworks like React, Next.js, Vue, Svelte, and more, as long as they run on StackBlitz’s WebContainers."
+        },
+        {
+            "question": "Can non-developers use Bolt.new?",
+            "answer": "Yes, non-developers can use Bolt.new to create apps via simple prompts, though some technical knowledge enhances the experience for complex projects."
+        },
+        {
+            "question": "How does Bolt.new handle deployment?",
+            "answer": "Bolt.new offers one-click deployment to platforms like Netlify, streamlining the process without requiring complex hosting configurations."
+        },
+        {
+            "question": "Does Bolt.new support team collaboration?",
+            "answer": "Yes, Bolt.new provides real-time collaboration features, allowing multiple users to work on the same project simultaneously."
+        },
+        {
+            "question": "Can Bolt.new work offline?",
+            "answer": "Yes, Bolt.new supports offline development, allowing users to continue coding without an internet connection."
+        },
+        {
+            "question": "How does Bolt.new integrate with Figma?",
+            "answer": "Bolt.new connects with Figma to translate design components into responsive web code, enabling rapid prototyping and collaboration."
+        }
+    ]
+}

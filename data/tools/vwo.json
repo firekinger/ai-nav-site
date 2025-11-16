@@ -1,0 +1,68 @@
+{
+    "name": "VWO",
+    "description": "VWO is a leading platform for A/B testing and digital experience optimization to enhance website conversions and user engagement.",
+    "longDescription": "VWO (Visual Website Optimizer) is a comprehensive digital experience optimization platform designed to help businesses improve their website and app performance through data-driven experimentation. Founded in 2010 by Wingify, it enables companies to conduct A/B testing, multivariate testing, and personalization to optimize user experiences across web, mobile, and server-side environments. The platform integrates seamlessly with existing tech stacks, providing tools for visitor research, hypothesis building, and continuous experimentation. VWO serves over 6,000 customers in 90+ countries, including brands like eBay, Vodafone, and Toyota, empowering them to boost conversions and reduce cart abandonment. Its AI-powered features, such as VWO Copilot, analyze user behavior to suggest actionable optimization ideas, making it a go-to solution for marketers, product managers, and developers. With a focus on privacy and performance, VWO ensures GDPR compliance and minimal impact on website load times.",
+    "url": "https://vwo.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vwo.com.webp",
+    "category": "AI Testing",
+    "categorySlug": "ai-testing",
+    "slug": "vwo",
+    "categories": [
+        "AI Testing",
+        "AI Writing Assistants",
+        "AI Productivity Tools",
+        "AI Recording",
+        "AI Marketing"
+    ],
+    "features": [
+        "A/B testing allows businesses to compare different webpage versions to optimize user experience and increase conversion rates.",
+        "VWO Copilot uses AI to analyze user behavior and suggest actionable optimization ideas for experiments and personalization.",
+        "Heatmaps and session recordings help identify conversion roadblocks by visualizing user interactions on websites and apps.",
+        "Multivariate testing enables testing multiple element combinations to determine the most effective design for conversions.",
+        "Personalization tools create tailored experiences for specific user segments based on behavior or demographics.",
+        "VWO SmartCode ensures minimal impact on website load times with asynchronous loading for seamless experimentation.",
+        "Server-side testing supports complex back-end experiments without compromising user experience across devices.",
+        "Integration with Contentful allows users to create and test webpage variations directly within their CMS.",
+        "Form analytics track user interactions with forms to optimize completion rates and reduce drop-offs.",
+        "Robust SDKs in 8+ languages enable testing on mobile apps and server-side environments with consistent performance.",
+        "Real-time impact reports based on Bayesian statistics provide reliable data for confident decision-making."
+    ],
+    "faqs": [
+        {
+            "question": "What is VWO used for?",
+            "answer": "VWO is used for A/B testing, personalization, and user behavior analysis to optimize digital experiences and increase website conversions."
+        },
+        {
+            "question": "Does VWO offer a free plan?",
+            "answer": "Yes, VWO offers a free plan for up to 50,000 monthly tracked users, with limited features suitable for smaller businesses."
+        },
+        {
+            "question": "How does VWO ensure data privacy?",
+            "answer": "VWO is GDPR compliant, hosts data on Google Cloud Platform, and uses a privacy-first approach to protect user information."
+        },
+        {
+            "question": "Can VWO integrate with other tools?",
+            "answer": "VWO integrates with platforms like Contentful, Google Analytics, and CDPs to unify data and enhance experimentation capabilities."
+        },
+        {
+            "question": "What types of tests can I run with VWO?",
+            "answer": "VWO supports A/B testing, multivariate testing, split URL testing, multi-device, and server-side testing for comprehensive optimization."
+        },
+        {
+            "question": "How does VWO Copilot work?",
+            "answer": "VWO Copilot uses AI to analyze user behavior, suggest test ideas, create variations, and uncover optimization opportunities."
+        },
+        {
+            "question": "Is VWO suitable for enterprise businesses?",
+            "answer": "Yes, VWO is designed for enterprises, handling billions of daily requests with 100% uptime and 24/7 support."
+        },
+        {
+            "question": "Can I use VWO without coding skills?",
+            "answer": "VWO’s WYSIWYG Visual Editor allows users to launch tests without coding, making it accessible for non-technical teams."
+        },
+        {
+            "question": "How does VWO impact website performance?",
+            "answer": "VWO’s asynchronous SmartCode minimizes website load time impact, ensuring a seamless user experience during tests."
+        }
+    ]
+}

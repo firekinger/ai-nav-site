@@ -1,0 +1,65 @@
+{
+    "name": "Katalist",
+    "description": "Katalist.ai is an AI-powered platform that transforms scripts into professional storyboards for filmmakers, advertisers, and content creators.",
+    "longDescription": "Katalist.ai is an innovative AI tool designed to streamline the pre-production process in video creation by automatically generating storyboards from written scripts. Its mission is to democratize storytelling by making high-quality visual planning accessible to creators of all levels, reducing time and costs associated with manual storyboard creation. The platform serves users in film, advertising, marketing, and education by providing AI-driven visualizations that help conceptualize ideas quickly. It solves problems like creative blocks and resource limitations by offering customizable, editable storyboards that can be shared and collaborated on in real-time. Overall, Katalist empowers users to focus more on creativity and less on technical drawing skills, bridging the gap between scriptwriting and visual production.",
+    "url": "https://www.katalist.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.katalist.ai.webp",
+    "category": "Storyboard AI",
+    "categorySlug": "storyboard-ai",
+    "slug": "katalist-ai",
+    "categories": [
+        "Storyboard AI",
+        "AI Script Writing",
+        "AI Creative Writing",
+        "AI Image Generator",
+        "AI Story Generator",
+        "AI Movie Script Generator",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI-powered script-to-storyboard conversion automatically generates visual sequences from text inputs, saving hours of manual work.",
+        "Customizable templates allow users to tailor storyboards to specific styles, genres, or branding needs for personalized outputs.",
+        "Real-time collaboration tools enable teams to edit, comment, and iterate on storyboards simultaneously from anywhere.",
+        "Integrated image generation uses AI to create high-quality visuals, characters, and scenes based on descriptive prompts.",
+        "Export options in various formats like PDF, images, or video make it easy to integrate storyboards into production workflows.",
+        "Script analysis features provide insights on pacing, shot composition, and narrative flow to enhance storytelling quality.",
+        "User-friendly interface with drag-and-drop editing simplifies the process for non-artists and beginners.",
+        "Asset library offers pre-built elements like characters and backgrounds to speed up customization.",
+        "Version history tracks changes, allowing users to revert or compare different iterations of a storyboard.",
+        "Integration with popular tools like Google Drive or Adobe Suite streamlines workflow for professional users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Katalist.ai used for?",
+            "answer": "Katalist.ai is primarily used to generate storyboards from scripts using AI, helping in pre-production for videos, films, and ads. It automates the visualization process to make it faster and more accessible."
+        },
+        {
+            "question": "Does Katalist.ai offer a free plan?",
+            "answer": "Yes, Katalist.ai provides a free tier with limited features and storyboard generations per month. Users can upgrade to paid plans for unlimited access and advanced tools."
+        },
+        {
+            "question": "How accurate are the AI-generated storyboards?",
+            "answer": "The AI generates storyboards based on script details, with high accuracy in visualizing scenes, but users can edit outputs for precision. It improves with user feedback and refinements."
+        },
+        {
+            "question": "Can I collaborate with my team on Katalist.ai?",
+            "answer": "Yes, the platform supports real-time collaboration where multiple users can edit and comment on the same storyboard. This is ideal for remote teams in creative industries."
+        },
+        {
+            "question": "What file formats can I export storyboards to?",
+            "answer": "Storyboards can be exported as PDFs, image sequences, or even animated videos. This flexibility allows integration with other production software."
+        },
+        {
+            "question": "Is Katalist.ai suitable for beginners?",
+            "answer": "Absolutely, its intuitive interface and AI automation make it accessible for beginners without drawing skills. Tutorials and templates help new users get started quickly."
+        },
+        {
+            "question": "How does Katalist.ai handle script inputs?",
+            "answer": "Users upload or paste scripts, and the AI analyzes them to create sequential visuals. It supports various script formats and allows manual adjustments for better results."
+        },
+        {
+            "question": "What industries benefit most from Katalist.ai?",
+            "answer": "Filmmakers, advertisers, marketers, educators, and content creators in video production benefit the most. It's particularly useful for brainstorming and pitching ideas visually."
+        }
+    ]
+}

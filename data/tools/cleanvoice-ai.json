@@ -1,0 +1,77 @@
+{
+    "name": "Cleanvoice AI",
+    "description": "Cleanvoice AI is an AI-powered platform that automates podcast and audio editing by removing noise, fillers, and imperfections for professional-grade sound.",
+    "longDescription": "Cleanvoice AI is an innovative artificial intelligence platform designed to streamline audio editing for podcasters, content creators, and businesses. Its mission is to save users time by automating the removal of unwanted sounds like filler words, stutters, and background noise, delivering studio-quality audio without manual effort. The platform supports multiple languages and accents, making it accessible for diverse users. By offering tools like transcription and content generation, it simplifies the entire audio production workflow. Cleanvoice AI is particularly valuable for those seeking to enhance audio clarity and professionalism with minimal technical expertise. It transforms raw recordings into polished content, enabling creators to focus on storytelling rather than editing.",
+    "url": "https://cleanvoice.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cleanvoice.ai.webp",
+    "category": "AI Audio Editing",
+    "categorySlug": "ai-audio-editing",
+    "slug": "cleanvoice-ai",
+    "categories": [
+        "AI Audio Editing",
+        "AI Noise Cancellation",
+        "AI Podcast",
+        "AI Transcription",
+        "AI Proofreading",
+        "AI Writing",
+        "AI Language Learning",
+        "AI Voice Enhancer",
+        "AI Podcast Editing",
+        "AI Workflow"
+    ],
+    "features": [
+        "Filler Words Remover automatically detects and eliminates 'ums' and 'ahs' in over 20 languages for smoother, professional audio.",
+        "Background Noise Remover reduces ambient sounds like traffic or cafe noise, ensuring crisp and clear recordings.",
+        "Silence Remover identifies and shortens unnecessary pauses, maintaining a polished and engaging audio flow.",
+        "Mouth Sound Remover eliminates distracting clicks and lip smacks, enhancing the listening experience.",
+        "Stutter Remover smooths over verbal repetitions, preserving the natural tone of the speaker.",
+        "Automatic Transcription converts audio into error-free text, supporting multiple formats for easy repurposing.",
+        "Podcast Summary Generator creates concise show notes and highlights key episode points for audience engagement.",
+        "Social Media Content Creation produces platform-specific posts like Twitter threads and LinkedIn updates from audio content.",
+        "Multi-Track Editing allows simultaneous editing of separate guest tracks, syncing them into a cohesive podcast.",
+        "Level Balancing ensures all voices are heard clearly with consistent volume across the recording.",
+        "Loudness Normalization maintains industry-standard audio levels for a professional output."
+    ],
+    "faqs": [
+        {
+            "question": "What types of noise can Cleanvoice AI remove?",
+            "answer": "Cleanvoice AI can remove background noises like traffic, cafe sounds, white noise, and even reverb or hiss, ensuring clear audio."
+        },
+        {
+            "question": "Does Cleanvoice AI support multiple languages?",
+            "answer": "Yes, Cleanvoice AI supports over 20 languages and can handle various accents, making it versatile for global users."
+        },
+        {
+            "question": "Can I try Cleanvoice AI for free?",
+            "answer": "Cleanvoice AI offers a free trial with limited credits, allowing users to test its core features before subscribing."
+        },
+        {
+            "question": "What audio formats does Cleanvoice AI support?",
+            "answer": "The platform supports common formats like MP3, WAV, M4A, AAC, OGG, and FLAC for both input and output."
+        },
+        {
+            "question": "Can Cleanvoice AI edit video podcasts?",
+            "answer": "Yes, Cleanvoice AI recently introduced video editing features, enabling noise removal and enhancements for video podcasts."
+        },
+        {
+            "question": "How long does it take to process an audio file?",
+            "answer": "Processing times vary, but most audio files are cleaned in minutes, though some users have reported occasional delays."
+        },
+        {
+            "question": "Does Cleanvoice AI work for voiceovers?",
+            "answer": "Yes, it removes background noise and enhances clarity for voiceovers, making them sound professional."
+        },
+        {
+            "question": "Can I upload multiple files at once?",
+            "answer": "Cleanvoice AI supports batch file uploads, allowing users to process multiple audio tracks simultaneously."
+        },
+        {
+            "question": "How does the transcription feature work?",
+            "answer": "The AI analyzes audio and generates accurate text transcripts, which can be downloaded in multiple formats."
+        },
+        {
+            "question": "Is Cleanvoice AI suitable for beginners?",
+            "answer": "Yes, its intuitive interface requires no editing jargon, making it accessible for first-time users."
+        }
+    ]
+}

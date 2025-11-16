@@ -1,0 +1,83 @@
+{
+    "title": "The Best 7 AI Website Designer Tools in 2025",
+    "summary": "Discover the future of web design with our AI Website Designer category. These innovative tools streamline the design process, enabling users to create stunning, responsive websites effortlessly. Benefit from features like automated layout suggestions, personalized design elements, and user-friendly interfaces that cater to both beginners and professionals. Whether you're launching a personal blog or a business site, our curated selection of AI-driven solutions will help you achieve your vision quickly and efficiently. Explore our tools today and transform your web design experience!",
+    "tools": [
+        {
+            "id": "313",
+            "name": "BrandCrowd",
+            "slug": "brandcrowd",
+            "description": "BrandCrowd is an online platform offering customizable logo designs and branding tools for businesses and entrepreneurs.",
+            "icon": "/logo/www.brandcrowd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "518",
+            "name": "Wegic",
+            "slug": "wegic-ai",
+            "description": "Wegic is an AI-powered website builder that creates and manages professional websites through conversational interactions, requiring no coding skills.",
+            "icon": "/logo/wegic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "635",
+            "name": "B12",
+            "slug": "b12",
+            "description": "B12 is an AI-powered website builder designed for professional service providers to create and manage polished websites quickly.",
+            "icon": "/logo/www.b12.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "644",
+            "name": "Dora",
+            "slug": "dora",
+            "description": "Dora is an AI-powered no-code platform for designing and publishing stunning 3D animated websites.",
+            "icon": "/logo/www.dora.run.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "1008",
+            "name": "PNGMaker.io",
+            "slug": "pngmaker-io",
+            "description": "PNGMaker.io is an AI-driven online platform that allows users to generate, edit, and customize transparent PNG images effortlessly.",
+            "icon": "/logo/pngmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        },
+        {
+            "id": "1191",
+            "name": "Plerdy",
+            "slug": "plerdy",
+            "description": "Plerdy is a SaaS platform offering tools for website optimization, user behavior analysis, SEO enhancement, and conversion rate improvement to boost online performance.",
+            "icon": "/logo/www.plerdy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-website-designer"
+            ]
+        }
+    ]
+}

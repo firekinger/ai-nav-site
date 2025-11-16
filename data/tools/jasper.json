@@ -1,0 +1,62 @@
+{
+    "name": "Jasper",
+    "description": "Jasper is an AI-powered platform designed to create on-brand marketing content quickly and efficiently.",
+    "longDescription": "Jasper is an AI content creation platform tailored for marketers, enabling businesses to produce high-quality, brand-aligned content at scale. Founded in 2021, it leverages advanced language models to generate marketing copy, blog posts, social media content, and more, streamlining the content creation process. The platform integrates with tools like WordPress and SEMrush, offering features such as SEO optimization and brand voice customization to ensure consistency across channels. Jasper's mission is to empower marketing teams to move faster, maintain authenticity, and achieve measurable business outcomes. It serves a wide range of industries, including healthcare, real estate, and eCommerce, by providing intuitive workflows and enterprise-grade security. With over 100,000 users, Jasper is recognized as a leader in AI-driven content generation.",
+    "url": "https://www.jasper.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.jasper.ai.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "jasper",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Writing",
+        "AI Marketing",
+        "AI SEO Tools",
+        "AI Image Generator",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Translate"
+    ],
+    "features": [
+        "Jasper's Brand Voice feature customizes AI-generated content to match a company's unique tone, ensuring brand consistency across all outputs.",
+        "The platform offers over 100 marketing-focused templates for creating blog posts, ad copy, and social media content with ease.",
+        "Jasper's Surfer SEO integration optimizes content in real-time by suggesting relevant keywords to improve search rankings.",
+        "The AI-native doc editor allows teams to collaboratively create and edit content at scale within an intuitive workspace.",
+        "Jasper Chat provides conversational AI with marketing expertise, enabling quick content revisions and idea generation.",
+        "The Jasper Everywhere browser extension integrates AI assistance into CMS, email, and social media platforms for seamless content creation.",
+        "Jasper ART generates on-brand visuals and images, enhancing marketing campaigns with striking graphics.",
+        "The platform supports content creation in over 30 languages, enabling global marketing strategies.",
+        "Jasper Agents autonomously handle tasks like SEO optimization, personalization, and deep research for efficient workflows.",
+        "The no-code interface allows marketers to build custom AI apps and workflows without technical expertise."
+    ],
+    "faqs": [
+        {
+            "question": "What is Jasper AI used for?",
+            "answer": "Jasper AI is used to generate marketing content like blog posts, ad copy, and social media posts, helping teams create on-brand content faster."
+        },
+        {
+            "question": "Does Jasper offer a free plan?",
+            "answer": "Yes, Jasper offers a 7-day free trial with limited word credits, allowing users to test its core features before subscribing."
+        },
+        {
+            "question": "Can Jasper integrate with other tools?",
+            "answer": "Jasper integrates with platforms like WordPress, SEMrush, and Surfer SEO to streamline content creation and optimization."
+        },
+        {
+            "question": "Is Jasper suitable for small businesses?",
+            "answer": "Yes, Jasper’s affordable plans and easy-to-use interface make it ideal for small businesses looking to scale content production."
+        },
+        {
+            "question": "How does Jasper ensure brand consistency?",
+            "answer": "Jasper’s Brand Voice feature learns a company’s tone and style, applying it to all generated content for consistent branding."
+        },
+        {
+            "question": "Can Jasper generate images?",
+            "answer": "Yes, Jasper ART creates on-brand visuals and images to complement marketing content."
+        },
+        {
+            "question": "Is Jasper secure for enterprise use?",
+            "answer": "Jasper offers enterprise-grade security and an LLM-agnostic architecture to protect user data and ensure privacy."
+        }
+    ]
+}

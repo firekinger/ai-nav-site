@@ -1,0 +1,65 @@
+{
+    "name": "AISplash",
+    "description": "AISplash is an AI-powered platform that enables users to generate creative and customized images for various purposes, focusing on artistic and marketing needs.",
+    "longDescription": "AISplash is an innovative AI-driven website designed to help users create stunning visual content effortlessly. Its mission is to democratize access to high-quality image generation, allowing both professionals and hobbyists to produce unique artwork without advanced design skills. The platform leverages advanced AI algorithms to interpret user prompts and generate images that match specific styles, themes, or requirements. It solves problems related to time-consuming manual design processes by providing quick, customizable outputs that can be used in marketing, social media, or personal projects. Overall, AISplash serves as a creative tool that enhances productivity and sparks imagination for its users.",
+    "url": "https://aisplash.me/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aisplash.me.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "aisplash",
+    "categories": [
+        "AI Image Generator",
+        "AI Creative Writing",
+        "AI Marketing",
+        "AI Design Assistant",
+        "AI Social Media Post Generator",
+        "AI Prompt Generator",
+        "AI Image Description Generator",
+        "AI Art Generator"
+    ],
+    "features": [
+        "AI-powered image generation allows users to create custom visuals from text prompts, saving time on design tasks.",
+        "Style customization options enable selection of artistic styles like abstract, realistic, or vintage to match user preferences.",
+        "High-resolution outputs ensure generated images are suitable for professional use in marketing or print materials.",
+        "Prompt refinement tools help users iterate on their ideas to achieve the perfect image result.",
+        "Integration with social media platforms facilitates easy sharing of generated content directly from the site.",
+        "Batch generation feature supports creating multiple images at once for efficient workflow.",
+        "User-friendly interface makes it accessible for beginners without requiring technical expertise.",
+        "Customizable color palettes allow precise control over the aesthetic of generated images.",
+        "Real-time preview shows image generation progress, enabling on-the-fly adjustments."
+    ],
+    "faqs": [
+        {
+            "question": "What is AISplash?",
+            "answer": "AISplash is an AI platform for generating custom images based on text descriptions. It uses advanced algorithms to create visuals for creative and professional needs."
+        },
+        {
+            "question": "Is AISplash free to use?",
+            "answer": "Yes, AISplash offers a free tier with limited generations per day. Upgrading to a paid plan unlocks unlimited access and advanced features."
+        },
+        {
+            "question": "How do I generate an image on AISplash?",
+            "answer": "Simply enter a text prompt describing your desired image, select styles or parameters, and click generate. The AI processes it in seconds."
+        },
+        {
+            "question": "What types of images can I create?",
+            "answer": "You can create a wide range including abstract art, marketing graphics, social media posts, and more. The tool supports various themes and styles."
+        },
+        {
+            "question": "Can I use generated images commercially?",
+            "answer": "Yes, images generated on AISplash can be used commercially, but check the terms for any restrictions on resale or distribution."
+        },
+        {
+            "question": "Does AISplash require any software installation?",
+            "answer": "No, it's a web-based platform accessible via any modern browser. No downloads or installations are needed."
+        },
+        {
+            "question": "How accurate are the generated images to my prompt?",
+            "answer": "Accuracy depends on prompt clarity; detailed descriptions yield better results. Users can refine prompts for improved outcomes."
+        },
+        {
+            "question": "Is there customer support available?",
+            "answer": "Yes, AISplash provides email support and a help center with tutorials. Premium users get priority assistance."
+        }
+    ]
+}

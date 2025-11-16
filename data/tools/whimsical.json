@@ -1,0 +1,65 @@
+{
+    "name": "Whimsical",
+    "description": "Whimsical is a collaborative platform for creating flowcharts, wireframes, mind maps, and project documentation to streamline team workflows.",
+    "longDescription": "Whimsical is a visual collaboration platform designed to help teams create, share, and manage diagrams, wireframes, mind maps, and project documentation in a user-friendly interface. Its mission is to simplify complex ideas and foster seamless teamwork by providing intuitive tools that enhance clarity and productivity. The platform supports real-time collaboration, enabling teams to brainstorm, plan, and execute projects efficiently. Whimsical is widely used by product managers, designers, developers, and other professionals to visualize workflows, design user interfaces, or document processes. By combining simplicity with powerful functionality, it addresses the needs of both technical and non-technical users seeking to organize and communicate ideas effectively.",
+    "url": "https://whimsical.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/whimsical.com.webp",
+    "category": "Whiteboard AI",
+    "categorySlug": "whiteboard-ai",
+    "slug": "whimsical",
+    "categories": [
+        "Whiteboard AI",
+        "AI Diagram Generator",
+        "AI Design Assistant",
+        "AI Mind Mapping",
+        "AI Project Management"
+    ],
+    "features": [
+        "Flowcharts allow users to create clear, customizable diagrams to visualize processes and workflows efficiently.",
+        "Wireframes enable rapid design of user interfaces with drag-and-drop components for prototyping.",
+        "Mind maps help teams brainstorm and organize ideas visually to spark creativity and clarity.",
+        "Sticky notes facilitate collaborative brainstorming sessions with easy-to-use, color-coded notes.",
+        "Project docs provide a centralized space for teams to create and share structured documentation.",
+        "Real-time collaboration allows multiple users to work on projects simultaneously with live updates.",
+        "Templates offer pre-built layouts for common use cases like user flows, sitemaps, and retrospectives.",
+        "Commenting and feedback tools enable team members to share insights and suggestions directly on projects.",
+        "Version history tracks changes and allows users to revert to previous iterations of their work.",
+        "Integrations with tools like Slack, Jira, and Figma streamline workflows by connecting with existing platforms.",
+        "Export options let users download projects as PDFs, images, or shareable links for easy distribution.",
+        "Customizable permissions allow teams to control access and editing rights for different collaborators."
+    ],
+    "faqs": [
+        {
+            "question": "What is Whimsical used for?",
+            "answer": "Whimsical is used for creating flowcharts, wireframes, mind maps, and project documentation to help teams visualize and manage projects collaboratively."
+        },
+        {
+            "question": "Does Whimsical offer a free plan?",
+            "answer": "Yes, Whimsical offers a free plan with limited boards and features, suitable for individual users or small teams to try the platform."
+        },
+        {
+            "question": "Can multiple users collaborate in real time?",
+            "answer": "Yes, Whimsical supports real-time collaboration, allowing team members to work simultaneously and see updates instantly."
+        },
+        {
+            "question": "What integrations does Whimsical support?",
+            "answer": "Whimsical integrates with tools like Slack, Jira, Figma, and others to enhance workflow connectivity and productivity."
+        },
+        {
+            "question": "Is Whimsical suitable for non-designers?",
+            "answer": "Yes, Whimsical’s intuitive interface makes it accessible for non-designers, such as project managers and developers, to create visual content."
+        },
+        {
+            "question": "Can I export my work from Whimsical?",
+            "answer": "Yes, Whimsical allows users to export projects as PDFs, images, or shareable links for easy distribution."
+        },
+        {
+            "question": "Does Whimsical store version history?",
+            "answer": "Yes, Whimsical tracks version history, enabling users to view and restore previous versions of their projects."
+        },
+        {
+            "question": "Is Whimsical secure for team collaboration?",
+            "answer": "Whimsical provides customizable permissions and secure cloud storage to ensure safe and controlled team collaboration."
+        }
+    ]
+}

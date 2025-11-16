@@ -1,0 +1,61 @@
+{
+    "name": "Genie 3 World",
+    "description": "Genie 3 World offers a revolutionary platform for creating and interacting with immersive 3D virtual environments using text prompts, powered by DeepMind's advanced world model technology.",
+    "longDescription": "Genie 3 World is an innovative website that utilizes Genie 3 technology, developed by DeepMind, to enable users to generate and explore interactive 3D virtual worlds through simple text prompts. It supports a range of applications, including robot training, educational simulations, and entertainment, by providing features like real-time physics simulation, dynamic weather, responsive AI characters, and professional-grade visual fidelity. Users can navigate these environments with keyboard controls, modify them in real-time (e.g., adding weather effects or characters), and maintain environmental consistency and realism. The platform is designed for developers, researchers, and creators, as evidenced by community showcases and testimonials highlighting its impact on virtual warehouse generation, game prototyping, and educational simulations. Access is available through the web interface, with an FAQ section addressing common user queries about its capabilities and usage.",
+    "url": "https://genie3world.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/genie3world.com.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "genie-3-world",
+    "categories": [
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "AI Robot",
+        "AI Course",
+        "AI Movie Generator"
+    ],
+    "features": [
+        "Intelligent Environment Simulation creates realistic virtual environments with accurate physics, suitable for training autonomous agents and robots in controlled digital spaces.",
+        "Contextual World Understanding delivers sophisticated spatial analysis, including realistic lighting, object permanence, and natural environmental interactions using advanced AI.",
+        "Interactive World Model Technology allows creation of fully explorable 3D environments like virtual warehouses or fantasy landscapes with precise physics and real-time interactivity.",
+        "Promptable World Events enables dynamic modifications during exploration, such as adding weather effects or spawning characters, while maintaining world consistency.",
+        "Real-Time Navigation Control supports seamless navigation through generated worlds using keyboard and mouse, featuring responsive spatial and environmental physics.",
+        "Visual Memory Preservation maintains scene integrity and object permanence, ensuring realistic lighting, shadows, and environmental state during movement.",
+        "Intelligent World Event System analyzes environments to apply modifications like weather patterns or terrain adjustments for immersive world evolution.",
+        "Contextual Atmosphere Enhancement transforms virtual atmospheres with intelligent understanding, enabling seamless transitions while preserving realism and physics."
+    ],
+    "faqs": [
+        {
+            "question": "How does Genie 3 differ from other world generation tools?",
+            "answer": "Genie 3 is a revolutionary world model from DeepMind that creates interactive 3D environments through text prompts with advanced spatial context understanding."
+        },
+        {
+            "question": "What are the world generation capabilities of Genie 3 World?",
+            "answer": "It supports real-time environment creation, character spawning, weather modification, terrain adjustments, and maintains visual coherence throughout interactions."
+        },
+        {
+            "question": "Can Genie 3 World handle complex interactive environments?",
+            "answer": "Yes, it features advanced contextual understanding, spatial relationships, physics consistency, and natural interactions for complex scenarios."
+        },
+        {
+            "question": "What is the world model technology behind Genie 3?",
+            "answer": "The technology understands full environmental context for natural physics simulation, realistic generation, and intelligent modifications in virtual spaces."
+        },
+        {
+            "question": "How accurate is the physics simulation in Genie 3 World?",
+            "answer": "It provides professional-grade accuracy with intelligent environmental reconstruction, spatial depth, lighting dynamics, and realistic object interactions."
+        },
+        {
+            "question": "How do I get started with Genie 3 World?",
+            "answer": "Access the platform via the web interface at genie3world.com, describe your vision with text prompts, and explore using keyboard controls."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, users can try the core features for free to generate and interact with basic 3D worlds, with potential premium options for advanced use."
+        },
+        {
+            "question": "What applications is Genie 3 World best suited for?",
+            "answer": "It excels in robot training simulations, educational content creation, game prototyping, and entertainment world building."
+        }
+    ]
+}

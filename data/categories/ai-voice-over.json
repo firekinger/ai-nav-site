@@ -1,0 +1,347 @@
+{
+    "title": "The Best 31 AI Voice Over Tools in 2025",
+    "summary": "Discover the transformative power of AI Voice Over tools, designed to elevate your audio content with professional-quality narration. Whether you're creating videos, podcasts, or presentations, these innovative solutions offer natural-sounding voices, customizable tones, and multiple languages to suit your needs. Save time and reduce costs while enhancing engagement with captivating audio. Explore our curated selection of AI Voice Over tools today and unlock the potential of your projects with seamless, high-quality voiceovers that resonate with your audience!",
+    "tools": [
+        {
+            "id": "212",
+            "name": "Pictory",
+            "slug": "pictory",
+            "description": "Pictory.ai transforms text, videos, and audio into engaging, professional-quality videos using AI-driven tools.",
+            "icon": "/logo/pictory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "227",
+            "name": "Magic Hour",
+            "slug": "magic-hour",
+            "description": "Magic Hour is an AI-powered platform for creating and editing professional-quality videos with ease.",
+            "icon": "/logo/magichour.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1283",
+            "name": "Vidfly.ai",
+            "slug": "vidfly-ai",
+            "description": "Vidfly.ai is an AI-driven platform that allows users to generate high-quality videos quickly from text prompts, images, or scripts, catering to content creators and marketers.",
+            "icon": "/logo/vidfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "256",
+            "name": "LTX Studio",
+            "slug": "ltx-studio",
+            "description": "LTX Studio is an AI-powered platform for creating and editing professional-quality videos and animations from text prompts or scripts.",
+            "icon": "/logo/ltx.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "378",
+            "name": "FakeYou",
+            "slug": "fakeyou",
+            "description": "FakeYou is an AI-powered platform that generates realistic text-to-speech audio and voice conversions using celebrity and character voices.",
+            "icon": "/logo/fakeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "407",
+            "name": "Topview AI",
+            "slug": "topview-ai",
+            "description": "Topview AI is an AI-powered video editor that transforms links or media assets into viral marketing videos with one click.",
+            "icon": "/logo/www.topview.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "478",
+            "name": "Lumen5",
+            "slug": "lumen5",
+            "description": "Lumen5 is an AI-powered video creation platform that transforms text into engaging videos for businesses and marketers.",
+            "icon": "/logo/lumen5.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "569",
+            "name": "Faceless Video",
+            "slug": "faceless-video",
+            "description": "Faceless Video automates the creation and posting of AI-generated faceless videos for social media platforms like TikTok and YouTube.",
+            "icon": "/logo/faceless.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "661",
+            "name": "DreamPress AI",
+            "slug": "dreampress-ai",
+            "description": "DreamPress AI is an AI-powered platform for generating personalized fiction stories and visuals across various genres.",
+            "icon": "/logo/www.dreampress.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "612",
+            "name": "DupDub",
+            "slug": "dupdub",
+            "description": "DupDub is an AI-powered platform for creating realistic voiceovers, animated avatars, and multimedia content.",
+            "icon": "/logo/www.dupdub.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "664",
+            "name": "Autodraft AI",
+            "slug": "autodraft-ai",
+            "description": "Autodraft AI is a platform for creating 2D animations, comics, and webtoons using AI-driven tools for visual storytelling.",
+            "icon": "/logo/autodraft.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "668",
+            "name": "Crayo AI",
+            "slug": "crayo-ai",
+            "description": "Crayo AI is an AI-powered platform for creating viral-ready short-form videos for social media in minutes.",
+            "icon": "/logo/crayo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "672",
+            "name": "Crikk",
+            "slug": "crikk",
+            "description": "Crikk is an AI-powered text-to-speech platform that converts text, PDFs, and images into natural-sounding audio for enhanced reading and productivity.",
+            "icon": "/logo/crikk.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "680",
+            "name": "AnimateAI",
+            "slug": "animateai",
+            "description": "AnimateAI is an all-in-one AI-powered video generation tool for creating stunning animation videos quickly and cost-effectively.",
+            "icon": "/logo/animateai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "728",
+            "name": "PDF To Brainrot",
+            "slug": "pdf-to-brainrot",
+            "description": "PDF To Brainrot transforms PDFs into engaging TikTok-style 'brainrot' videos to make learning fun and effective.",
+            "icon": "/logo/pdftobrainrot.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "751",
+            "name": "Supademo",
+            "slug": "supademo",
+            "description": "Supademo enables businesses to create and share AI-powered interactive product demos to drive engagement and conversions.",
+            "icon": "/logo/supademo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "784",
+            "name": "AIcut",
+            "slug": "aicut",
+            "description": "AIcut.pro is an AI-powered platform for creating engaging faceless short videos from text for social media platforms like YouTube, TikTok, and Instagram.",
+            "icon": "/logo/www.aicut.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "TTSOpenAI",
+            "slug": "ttsopenai",
+            "description": "TTSOpenAI provides advanced AI-powered text-to-speech services to convert text into natural-sounding audio for various applications.",
+            "icon": "/logo/ttsopenai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "877",
+            "name": "Vidful.ai",
+            "slug": "vidful-ai",
+            "description": "Vidful.ai is an AI-powered platform that allows users to generate, edit, and enhance videos using advanced artificial intelligence tools.",
+            "icon": "/logo/vidful.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "889",
+            "name": "Coefont Cloud",
+            "slug": "coefont-cloud",
+            "description": "Coefont Cloud is an AI-driven platform providing high-quality voice synthesis services for generating natural-sounding speech from text, catering to creators in media, entertainment, and education.",
+            "icon": "/logo/coefont.cloud.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1091",
+            "name": "Presenti.ai",
+            "slug": "presenti-ai",
+            "description": "Presenti.ai is an AI-driven platform that helps users create professional presentations quickly and easily from simple text prompts.",
+            "icon": "/logo/presenti.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1107",
+            "name": "Fables",
+            "slug": "fables",
+            "description": "Fables.gg is an AI-powered platform for generating and sharing interactive stories and fables.",
+            "icon": "/logo/fables.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1163",
+            "name": "Woxo",
+            "slug": "woxo",
+            "description": "Woxo is an AI-driven platform that simplifies video creation, allowing users to generate engaging short-form videos for social media using text prompts and customizable templates.",
+            "icon": "/logo/woxo.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1406",
+            "name": "Golpo AI Video",
+            "slug": "golpo-ai-video",
+            "description": "Golpo AI Video is an AI-driven platform that enables users to generate and edit videos using advanced artificial intelligence technology.",
+            "icon": "/logo/video.golpoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1339",
+            "name": "Vidduo",
+            "slug": "vidduo",
+            "description": "Vidduo is an AI-powered platform for seamless video dubbing and translation, enabling users to adapt content across languages with natural voiceovers and lip-syncing.",
+            "icon": "/logo/www.vidduo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1329",
+            "name": "Veo",
+            "slug": "www-veo",
+            "description": "Veo is an AI-powered platform specializing in video generation and editing tools for creators and businesses.",
+            "icon": "/logo/www-veo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "Reeroll",
+            "slug": "reeroll",
+            "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+            "icon": "/logo/reeroll.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1369",
+            "name": "HistorySleep",
+            "slug": "historysleep",
+            "description": "HistorySleep is an AI-powered platform that generates personalized historical bedtime stories to promote relaxation and better sleep.",
+            "icon": "/logo/www.historysleep.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        },
+        {
+            "id": "1376",
+            "name": "Aivo3",
+            "slug": "aivo3",
+            "description": "Aivo3 is an AI-powered platform specializing in voice generation and conversion for creative and professional applications.",
+            "icon": "/logo/aivo3.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-over"
+            ]
+        }
+    ]
+}

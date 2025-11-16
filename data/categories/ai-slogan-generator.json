@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Slogan Generator Tools in 2025",
+    "summary": "Unlock the power of creativity with our AI Slogan Generator category! These innovative tools are designed to help you craft catchy, memorable slogans that resonate with your audience. Whether you're launching a new product, rebranding, or enhancing your marketing strategy, our AI-driven solutions save you time and spark inspiration. Explore a variety of user-friendly options that cater to your unique needs and elevate your brand's voice. Dive in now to discover the perfect slogan that sets you apart!",
+    "tools": [
+        {
+            "id": "985",
+            "name": "BrandWell",
+            "slug": "brandwell-ai",
+            "description": "BrandWell.ai is an AI-powered platform that helps users generate professional brand identities, including names, logos, and marketing assets, to build strong brands quickly and affordably.",
+            "icon": "/logo/brandwell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-slogan-generator"
+            ]
+        }
+    ]
+}

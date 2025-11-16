@@ -1,0 +1,61 @@
+{
+    "name": "Luvvoice",
+    "description": "Luvvoice provides AI-powered text-to-speech and voice cloning for creating realistic audio content.",
+    "longDescription": "Luvvoice is an AI-driven platform specializing in text-to-speech and voice cloning technologies, enabling users to generate lifelike audio for various applications. Its mission is to make high-quality, customizable voiceovers accessible to content creators, businesses, and developers. The platform leverages advanced AI to convert text into natural-sounding speech in multiple languages and accents. It caters to use cases like audiobooks, podcasts, e-learning, and marketing, offering both pre-built voices and custom voice cloning. Luvvoice aims to streamline audio production by providing an intuitive interface and scalable solutions for personal and commercial projects.",
+    "url": "https://luvvoice.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/luvvoice.com.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "luvvoice",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Voice Translator",
+        "AI Digital Marketing",
+        "AI Developer Tools",
+        "AI Music Generator",
+        "AI Course"
+    ],
+    "features": [
+        "Text-to-speech conversion generates natural-sounding audio from text in various languages and accents, ideal for diverse content creation needs.",
+        "Voice cloning allows users to create custom AI voices based on real human voices for personalized audio output.",
+        "Multi-language support enables audio generation in numerous languages, catering to global audiences.",
+        "Customizable voice parameters let users adjust pitch, speed, and tone for tailored audio results.",
+        "API integration provides developers with tools to embed Luvvoice’s functionality into their own applications or platforms.",
+        "High-quality audio output ensures professional-grade sound suitable for commercial use like advertisements or e-learning.",
+        "User-friendly interface simplifies the process of creating and downloading audio files for all skill levels.",
+        "Real-time preview allows users to hear and refine audio before finalizing their projects.",
+        "Scalable plans support both individual creators and large enterprises with varying usage needs.",
+        "Voice emotion modulation enables adding emotional nuances to speech for more engaging audio content."
+    ],
+    "faqs": [
+        {
+            "question": "What is Luvvoice used for?",
+            "answer": "Luvvoice is used to create AI-generated voiceovers for audiobooks, podcasts, videos, e-learning, and marketing content."
+        },
+        {
+            "question": "Does Luvvoice offer a free plan?",
+            "answer": "Yes, Luvvoice provides a free plan with limited features, allowing users to test its text-to-speech capabilities."
+        },
+        {
+            "question": "Can I clone my own voice with Luvvoice?",
+            "answer": "Yes, Luvvoice offers voice cloning, enabling users to create custom AI voices based on their own recordings."
+        },
+        {
+            "question": "What languages does Luvvoice support?",
+            "answer": "Luvvoice supports multiple languages and accents, making it suitable for global content creation."
+        },
+        {
+            "question": "Is Luvvoice suitable for commercial use?",
+            "answer": "Yes, Luvvoice provides high-quality audio and commercial licensing options for professional projects."
+        },
+        {
+            "question": "Can developers integrate Luvvoice into their apps?",
+            "answer": "Luvvoice offers an API for developers to integrate its text-to-speech and voice cloning features into custom applications."
+        },
+        {
+            "question": "How customizable are the voices on Luvvoice?",
+            "answer": "Users can adjust pitch, speed, tone, and even emotional nuances to create tailored audio outputs."
+        }
+    ]
+}

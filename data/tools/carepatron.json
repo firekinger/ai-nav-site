@@ -1,0 +1,69 @@
+{
+    "name": "Carepatron",
+    "description": "Carepatron is an all-in-one healthcare practice management software designed to streamline administrative tasks and enhance client care for health professionals.",
+    "longDescription": "Carepatron is a cloud-based practice management and electronic health record (EHR) platform tailored for healthcare professionals, particularly mental health practitioners, to optimize workflows and improve client outcomes. Founded in 2019 by Jamie Frew and David Pene, the platform aims to reduce administrative burdens by consolidating scheduling, documentation, billing, and compliance into a single, user-friendly interface. It supports solo practitioners and small to medium-sized teams by offering customizable tools and HIPAA-compliant features to ensure secure and efficient practice management. By leveraging AI and automation, Carepatron simplifies tasks like note-taking and appointment reminders, allowing providers to focus on delivering quality care. The platform serves users in over 30 countries and emphasizes collaborative healthcare through seamless connections between patients, providers, and teams. Its mission is to empower healthcare professionals with modern technology to work their way while enhancing productivity and client engagement.",
+    "url": "https://www.carepatron.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.carepatron.com.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "carepatron",
+    "categories": [
+        "AI Project Management",
+        "AI Healthcare",
+        "AI Tools Directory",
+        "AI Document Extraction",
+        "AI Accounting",
+        "AI Scheduling",
+        "AI Workflow"
+    ],
+    "features": [
+        "Online scheduling automation enables clients to book, reschedule, or cancel appointments 24/7, reducing no-shows and improving access.",
+        "HIPAA-compliant health records securely store and manage sensitive client information with encrypted data transmission.",
+        "AI-powered clinical note generation automates documentation, saving time and ensuring accurate, professional records.",
+        "Integrated telehealth video calling supports virtual consultations with seamless integration to Zoom, Google Meet, or Microsoft Teams.",
+        "Customizable templates for assessments, treatment plans, and progress notes streamline documentation for mental health professionals.",
+        "Automated appointment reminders via text, phone, or email reduce missed appointments and enhance client engagement.",
+        "Online payment processing and billing tools generate invoices and track insurance claims, simplifying financial management.",
+        "Patient portal allows clients to access records, complete forms, and communicate with providers, enhancing interaction.",
+        "Calendar synchronization connects Carepatron with personal calendars for seamless schedule management across devices.",
+        "Document management organizes and stores client files securely, replacing the need for separate cloud storage solutions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Carepatron used for?",
+            "answer": "Carepatron is a practice management and EHR platform designed to streamline scheduling, documentation, billing, and compliance for healthcare professionals, particularly in mental health."
+        },
+        {
+            "question": "Is Carepatron HIPAA compliant?",
+            "answer": "Yes, Carepatron is fully HIPAA compliant, ensuring secure storage and transmission of sensitive client data with military-grade encryption."
+        },
+        {
+            "question": "Does Carepatron offer a free plan?",
+            "answer": "Yes, Carepatron provides a free plan with access to core features like telehealth and HIPAA-compliant tools, though with some limitations."
+        },
+        {
+            "question": "Can clients book appointments online with Carepatron?",
+            "answer": "Yes, clients can book, reschedule, or cancel appointments 24/7 through Carepatron’s online scheduling system based on provider availability."
+        },
+        {
+            "question": "Does Carepatron integrate with other platforms?",
+            "answer": "Carepatron integrates with platforms like Zoom, Google Meet, Microsoft Teams, and personal calendars for seamless workflow management."
+        },
+        {
+            "question": "How does Carepatron’s AI assist healthcare providers?",
+            "answer": "Carepatron’s AI automates tasks like clinical note generation, patient response drafting, and scheduling, reducing administrative time."
+        },
+        {
+            "question": "Is Carepatron suitable for solo practitioners?",
+            "answer": "Yes, Carepatron is designed for solo practitioners and small to medium-sized teams, offering customizable tools to fit individual needs."
+        },
+        {
+            "question": "Can I customize templates in Carepatron?",
+            "answer": "Yes, Carepatron allows users to create and customize templates for assessments, treatment plans, and notes to suit their practice."
+        },
+        {
+            "question": "How secure is Carepatron’s data storage?",
+            "answer": "Carepatron uses 256-bit encryption and regular third-party audits to ensure secure, HIPAA-compliant data storage."
+        }
+    ]
+}

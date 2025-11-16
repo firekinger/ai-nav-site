@@ -1,0 +1,55 @@
+{
+    "name": "Viggle AI",
+    "description": "Viggle AI is an AI-powered platform for creating and editing animated videos from text prompts or images.",
+    "longDescription": "Viggle AI is an innovative platform that leverages artificial intelligence to simplify video animation creation for users of all skill levels. It allows users to generate animated videos from text prompts, images, or a combination of both, making it accessible for creators, marketers, and businesses. The platform's mission is to democratize video production by providing intuitive tools that reduce the need for advanced technical expertise. By harnessing AI, Viggle AI enables rapid creation of high-quality animations for storytelling, marketing, or entertainment purposes. It serves a wide range of users, from individual creators to businesses looking to produce engaging visual content efficiently.",
+    "url": "https://viggle.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/viggle.ai.webp",
+    "category": "AI Animation Generator",
+    "categorySlug": "ai-animation-generator",
+    "slug": "viggle-ai",
+    "categories": [
+        "AI Animation Generator",
+        "Text to Video",
+        "Image to Video",
+        "AI Video Editor",
+        "AI Digital Marketing",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "Text-to-video generation creates animated videos from simple text prompts, enabling quick content creation.",
+        "Image-to-video conversion transforms static images into dynamic animations, enhancing visual storytelling.",
+        "Real-time video editing allows users to tweak animations instantly, streamlining the creative process.",
+        "Customizable templates offer pre-designed animation styles, saving time for users with specific needs.",
+        "AI-driven motion effects add lifelike movements to characters or objects, improving video quality.",
+        "Cloud-based rendering ensures fast processing and accessibility from any device with an internet connection.",
+        "Multi-format export supports various video formats, making content compatible with platforms like YouTube or Instagram.",
+        "User-friendly interface simplifies navigation for beginners, reducing the learning curve for video creation.",
+        "Collaborative tools enable teams to work together on projects, enhancing productivity for group efforts."
+    ],
+    "faqs": [
+        {
+            "question": "What is Viggle AI used for?",
+            "answer": "Viggle AI is used to create and edit animated videos from text prompts or images, ideal for marketing, storytelling, or social media content."
+        },
+        {
+            "question": "Do I need video editing experience to use Viggle AI?",
+            "answer": "No, Viggle AI’s intuitive interface and AI-driven tools make it easy for beginners to create professional-quality animations without prior experience."
+        },
+        {
+            "question": "Is there a free plan available on Viggle AI?",
+            "answer": "Yes, Viggle AI offers a free plan with limited features, allowing users to try the platform before upgrading to premium options."
+        },
+        {
+            "question": "What types of videos can I create with Viggle AI?",
+            "answer": "You can create animated videos for marketing, social media, educational content, or personal projects using text, images, or templates."
+        },
+        {
+            "question": "Can I export videos for social media platforms?",
+            "answer": "Yes, Viggle AI supports exporting videos in multiple formats compatible with platforms like YouTube, Instagram, and TikTok."
+        },
+        {
+            "question": "Does Viggle AI support team collaboration?",
+            "answer": "Yes, the platform includes collaborative tools that allow multiple users to work on a project simultaneously."
+        }
+    ]
+}

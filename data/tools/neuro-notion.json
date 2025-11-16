@@ -1,0 +1,73 @@
+{
+    "name": "Neuro-Notion",
+    "description": "Neuro-Notion offers Claudia, an AI personal assistant designed specifically for ADHD brains, helping users organize chaotic thoughts into actionable tasks through voice-first interaction and ADHD-centric features.",
+    "longDescription": "Neuro-Notion provides Claudia, an ADHD management platform engineered to help users organize their lives and regain control, focusing on the unique needs of ADHD brains. It is built on neuroscience, incorporating reward loops, dopamine triggers, and motivation systems tailored for ADHD, reducing friction and celebrating how ADHD minds work. Unlike other tools adapted for neurotypicals, Claudia is designed from the ground up for ADHD, offering a voice-first approach that transforms spoken chaotic thoughts into prioritized and scheduled actions instantly. The platform aims to address common ADHD struggles like racing thoughts, vanishing ideas, and motivation crashes, providing a single app to handle tasks, notes, reminders, goals, and routines. Founded by Josh, who has severe combined ADHD, it reflects a personal mission to create a tool that understands and works with ADHD processing. User testimonials highlight its effectiveness in reducing stress, improving productivity, and providing structure for ADHDers.",
+    "url": "https://www.neuro-notion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.neuro-notion.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "neuro-notion",
+    "categories": [
+        "AI Assistant",
+        "AI Productivity Tools",
+        "AI Task Management",
+        "AI Inspirational Quotes",
+        "AI Writing Assistants",
+        "AI Life",
+        "AI Scheduling"
+    ],
+    "features": [
+        "Claudia allows users to voice their thoughts without typing, transforming them into organized actions instantly.",
+        "It breaks down and prioritizes complex voice inputs, such as reminders and schedules, automatically.",
+        "The platform is built on neuroscience, leveraging reward loops and dopamine triggers for ADHD motivation.",
+        "It consolidates tasks, notes, reminders, goals, and routines into one app, reducing the need for multiple tools.",
+        "Claudia reduces friction with near-zero setup, designed specifically for the chaotic input typical of ADHD brains.",
+        "It helps users capture brilliant ideas quickly, preventing them from being forgotten.",
+        "The tool provides structure for tasks, projects, and goals, aiding users in staying on track.",
+        "It offers lightning-fast thought capture, saving time and energy while improving memory.",
+        "Claudia adapts to users' changing needs, such as during moves or new jobs, helping maintain organization.",
+        "It celebrates how ADHD minds work, focusing on working with rather than fighting the brain's natural processes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Claudia?",
+            "answer": "Claudia is an AI personal assistant designed specifically for ADHD brains to help organize thoughts and manage tasks."
+        },
+        {
+            "question": "How does Claudia work?",
+            "answer": "Users speak their thoughts, and Claudia instantly organizes them into prioritized actions and schedules."
+        },
+        {
+            "question": "Is Claudia free to try?",
+            "answer": "Yes, Claudia can be tried for free with no card required."
+        },
+        {
+            "question": "Who is Claudia built for?",
+            "answer": "It is built for people with ADHD, addressing their unique struggles with organization and motivation."
+        },
+        {
+            "question": "How is Claudia different from other productivity tools?",
+            "answer": "Unlike tools adapted for neurotypicals, Claudia is engineered from the ground up for ADHD, reducing friction and celebrating ADHD thinking."
+        },
+        {
+            "question": "Can Claudia handle multiple types of tasks?",
+            "answer": "Yes, it manages tasks, notes, reminders, goals, and routines all in one place."
+        },
+        {
+            "question": "Does Claudia require a lot of setup?",
+            "answer": "No, it is designed for near-zero friction, requiring minimal setup and maintenance."
+        },
+        {
+            "question": "Who created Claudia?",
+            "answer": "It was created by Josh, the founder, who has severe combined ADHD and built it based on personal experience."
+        },
+        {
+            "question": "Will Claudia work for my specific ADHD challenges?",
+            "answer": "It aims to address common ADHD struggles like racing thoughts and motivation crashes, though individual results may vary."
+        },
+        {
+            "question": "How do I get started with Claudia?",
+            "answer": "Users can start by trying it for free, with no card needed, and begin voicing their thoughts immediately."
+        }
+    ]
+}

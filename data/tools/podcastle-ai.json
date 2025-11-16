@@ -1,0 +1,60 @@
+{
+    "name": "Podcastle",
+    "description": "Podcastle is an AI-powered platform for creating, editing, and distributing professional-quality podcasts and videos directly in your browser.",
+    "longDescription": "Podcastle is an all-in-one platform designed to simplify podcast and video creation for content creators, marketers, and teams. Leveraging AI technology, it enables users to record, edit, and distribute studio-quality content without needing advanced equipment or technical expertise. The platform supports solo creators, small businesses, and large organizations by offering tools for audio enhancement, video production, and collaborative workflows. Its mission is to empower creators to focus on storytelling by streamlining production processes. Podcastle is SOC 2 Type 2 compliant, ensuring secure and reliable content creation for professional use. The platform also offers a free plan alongside premium options to suit various user needs.",
+    "url": "https://podcastle.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/podcastle.ai.webp",
+    "category": "AI Podcast",
+    "categorySlug": "ai-podcast",
+    "slug": "podcastle-ai",
+    "categories": [
+        "AI Podcast",
+        "AI Audio Editing",
+        "AI Video Generator",
+        "AI Transcription",
+        "AI Noise Cancellation",
+        "AI Project Management",
+        "AI Music Generator",
+        "AI Video Enhancer"
+    ],
+    "features": [
+        "AI-powered audio enhancement removes background noise and improves sound quality with one click.",
+        "The platform allows recording of high-quality audio and video with remote guests in a browser-based studio.",
+        "Automatic transcription generates accurate subtitles for videos in multiple languages, including English and Spanish.",
+        "AI-driven background blurring adds a professional depth-of-field effect to video recordings.",
+        "Users can access a library of over 7,000 royalty-free music tracks and sound effects for content creation.",
+        "The platform supports collaborative workspaces for teams to manage and produce content efficiently.",
+        "Eye contact correction ensures presenters appear to face the camera, even when reading scripts.",
+        "Podcastle enables seamless publishing of podcasts to major networks from a dedicated hosting page."
+    ],
+    "faqs": [
+        {
+            "question": "What is Podcastle used for?",
+            "answer": "Podcastle is used to create, edit, and distribute professional-quality podcasts and videos using AI-powered tools directly in a browser."
+        },
+        {
+            "question": "Does Podcastle offer a free plan?",
+            "answer": "Yes, Podcastle provides a free plan with limited features, suitable for occasional content creators."
+        },
+        {
+            "question": "Can I collaborate with a team on Podcastle?",
+            "answer": "Yes, Podcastle offers collaborative workspaces that allow teams to manage and produce content together efficiently."
+        },
+        {
+            "question": "What languages are supported for transcription?",
+            "answer": "Podcastle supports automatic transcription in languages like English, Spanish, French, German, and Italian."
+        },
+        {
+            "question": "Is Podcastle secure for professional use?",
+            "answer": "Podcastle is SOC 2 Type 2 compliant, ensuring secure handling of data for professional and organizational use."
+        },
+        {
+            "question": "Can I publish my podcast directly from Podcastle?",
+            "answer": "Yes, Podcastle allows users to host and publish podcasts to major networks from a dedicated page."
+        },
+        {
+            "question": "Does Podcastle support video editing?",
+            "answer": "Yes, Podcastle offers AI-driven video editing features like background blurring and eye contact correction."
+        }
+    ]
+}

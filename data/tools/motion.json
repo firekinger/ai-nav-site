@@ -1,0 +1,53 @@
+{
+    "name": "Motion",
+    "description": "Motion is an AI-powered productivity tool that automates task management and scheduling to optimize daily workflows.",
+    "longDescription": "Motion is an AI-driven platform designed to streamline productivity by automating task management, scheduling, and project planning for individuals and teams. Its mission is to reduce the cognitive load of organizing work, allowing users to focus on high-priority tasks. The platform integrates with calendars and tools like Google Calendar to intelligently schedule tasks based on deadlines, availability, and user preferences. By leveraging AI, Motion adapts to users’ work habits, suggesting optimal times for tasks and meetings to maximize efficiency. It serves professionals, teams, and businesses looking to enhance productivity without manual planning overhead.",
+    "url": "https://www.usemotion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.usemotion.com.webp",
+    "category": "AI Task Management",
+    "categorySlug": "ai-task-management",
+    "slug": "motion",
+    "categories": [
+        "AI Task Management",
+        "AI Scheduling",
+        "AI Project Management",
+        "AI Calendar",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-driven task scheduling automatically prioritizes and allocates time for tasks based on urgency and user availability.",
+        "Calendar integration syncs with tools like Google Calendar to streamline scheduling across platforms.",
+        "Smart meeting planner suggests optimal meeting times by analyzing participants’ schedules and preferences.",
+        "Task prioritization uses AI to rank tasks by importance and deadlines, ensuring focus on critical work.",
+        "Time-blocking feature organizes daily schedules into focused work periods to boost productivity.",
+        "Project management tools allow teams to track progress and collaborate on shared tasks seamlessly.",
+        "Customizable workflows let users tailor task and scheduling preferences to their unique needs.",
+        "Real-time adjustments dynamically reschedule tasks when conflicts or new priorities arise."
+    ],
+    "faqs": [
+        {
+            "question": "What is Motion used for?",
+            "answer": "Motion is a productivity tool that uses AI to automate task management, scheduling, and project planning to optimize workflows."
+        },
+        {
+            "question": "Does Motion offer a free plan?",
+            "answer": "Motion does not offer a free plan but provides a trial period for users to test its features."
+        },
+        {
+            "question": "Can Motion integrate with my calendar?",
+            "answer": "Yes, Motion integrates with popular calendar tools like Google Calendar to streamline scheduling."
+        },
+        {
+            "question": "How does Motion prioritize tasks?",
+            "answer": "Motion’s AI analyzes deadlines, task importance, and user availability to prioritize and schedule tasks effectively."
+        },
+        {
+            "question": "Is Motion suitable for team collaboration?",
+            "answer": "Yes, Motion offers project management tools that enable teams to track tasks and collaborate efficiently."
+        },
+        {
+            "question": "Can I customize my workflow in Motion?",
+            "answer": "Motion allows users to customize workflows to align with their specific task and scheduling preferences."
+        }
+    ]
+}

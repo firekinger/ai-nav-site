@@ -1,0 +1,80 @@
+{
+    "name": "Lindy",
+    "description": "Lindy is a no-code AI platform for creating custom AI agents to automate business and personal workflows.",
+    "longDescription": "Lindy is an innovative no-code platform that enables users to build and deploy AI-powered agents, referred to as 'Lindies,' to automate a wide range of tasks without requiring coding skills. Its mission is to streamline repetitive workflows, enhance productivity, and empower businesses and individuals to focus on strategic goals by automating mundane tasks. The platform integrates with over 3,000 tools, including Gmail, Slack, and HubSpot, allowing seamless automation across existing systems. Lindy serves diverse industries, from customer support to sales, by providing tailored AI solutions that adapt to user needs. By leveraging natural language processing and machine learning, Lindy makes automation accessible to non-technical users, fostering efficiency and scalability. The platform’s user-friendly interface and robust integrations position it as a versatile tool for modern workflow optimization.",
+    "url": "https://www.lindy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.lindy.ai.webp",
+    "category": "AI Tools Directory",
+    "categorySlug": "ai-tools-directory",
+    "slug": "lindy-ai",
+    "categories": [
+        "AI Tools Directory",
+        "No-Code&Low-Code",
+        "AI Workflow",
+        "AI Agent",
+        "AI Email Assistant",
+        "AI Meeting Assistant",
+        "AI Customer Service",
+        "AI Lead Generation",
+        "AI CRM",
+        "AI Social Media Post Generator",
+        "AI Language Learning"
+    ],
+    "features": [
+        "Create custom AI agents in minutes using a no-code interface to automate tasks like email drafting or meeting scheduling.",
+        "Integrate with over 3,000 apps, including Gmail, Zoom, and Salesforce, for seamless workflow automation.",
+        "Use natural language commands to configure AI agents, making automation accessible without technical expertise.",
+        "Automate lead research and personalized outreach emails to improve sales efficiency and conversion rates.",
+        "Record, transcribe, and summarize meetings on platforms like Zoom or Google Meet to enhance productivity.",
+        "Triage and prioritize emails by categorizing them as urgent, FYI, or archive based on user preferences.",
+        "Escalate complex tasks to human team members with a built-in human-in-the-loop system for oversight.",
+        "Access pre-built templates for common tasks like customer support or podcast interview prep to save setup time.",
+        "Monitor and action incoming email attachments autonomously to streamline document processing.",
+        "Generate compelling social media posts for platforms like LinkedIn or X using AI-driven content creation tools.",
+        "Update CRM systems automatically based on meeting recordings or customer interactions to ensure data accuracy.",
+        "Provide real-time meeting insights and personalized tips to improve sales calls or client interactions.",
+        "Scale automations to handle thousands of tasks simultaneously, running 24/7 for maximum efficiency."
+    ],
+    "faqs": [
+        {
+            "question": "What is Lindy used for?",
+            "answer": "Lindy is used to create AI agents that automate repetitive tasks like email management, meeting scheduling, customer support, and sales outreach, saving time and boosting productivity."
+        },
+        {
+            "question": "Do I need coding skills to use Lindy?",
+            "answer": "No, Lindy’s no-code platform allows users to build AI agents using a drag-and-drop interface and natural language commands, making it accessible to non-technical users."
+        },
+        {
+            "question": "Which apps does Lindy integrate with?",
+            "answer": "Lindy integrates with over 3,000 apps, including Gmail, Slack, HubSpot, Zoom, Salesforce, and Airtable, enabling seamless workflow automation."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Lindy offers a free plan with 400 task credits monthly, allowing users to test core features with limited usage."
+        },
+        {
+            "question": "How secure is my data with Lindy?",
+            "answer": "Lindy encrypts data at rest and during transmission, uses secure OAuth connections, and follows standard SaaS security practices to protect user information."
+        },
+        {
+            "question": "Can Lindy handle customer support tasks?",
+            "answer": "Yes, Lindy can automate customer support by drafting responses based on past tickets and FAQs, escalating complex issues to human agents when needed."
+        },
+        {
+            "question": "How does Lindy compare to Zapier?",
+            "answer": "Unlike Zapier, Lindy focuses on AI-powered agents that handle complex, decision-based tasks using natural language and machine learning for smarter automation."
+        },
+        {
+            "question": "Can Lindy automate meeting preparation?",
+            "answer": "Yes, Lindy can research meeting attendees, summarize past interactions, and send timely context or Zoom links to prepare users efficiently."
+        },
+        {
+            "question": "What industries benefit from Lindy?",
+            "answer": "Lindy serves industries like sales, marketing, customer support, healthcare, and HR by automating repetitive tasks tailored to specific workflows."
+        },
+        {
+            "question": "Is Lindy refundable?",
+            "answer": "Yes, Lindy offers refunds, though processing may take a few days due to past support constraints, which have since been resolved."
+        }
+    ]
+}

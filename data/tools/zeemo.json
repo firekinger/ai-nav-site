@@ -1,0 +1,60 @@
+{
+    "name": "Zeemo",
+    "description": "Zeemo is an AI-powered platform that simplifies video captioning and translation for content creators and businesses.",
+    "longDescription": "Zeemo is a cloud-based video transcription and subtitling platform that leverages artificial intelligence to automate the process of adding captions to videos. Its mission is to enhance video accessibility and engagement for a global audience by providing accurate, multilingual subtitles with minimal effort. Designed for content creators, educators, marketers, and businesses, Zeemo streamlines workflows by offering fast transcription, translation, and customization options. The platform supports a wide range of users, from individual vloggers to media companies, helping them reach diverse audiences on platforms like YouTube, TikTok, and Instagram. With a user-friendly interface and advanced AI capabilities, Zeemo eliminates the need for manual captioning, saving time and resources. It is available as both a web-based application and a mobile app, ensuring flexibility across devices.",
+    "url": "https://www.zeemo.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/zeemo.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "zeemo",
+    "categories": [
+        "AI Video Generator",
+        "AI Note Taker",
+        "AI Translate",
+        "AI Social Media",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Automatic Caption Generation: Zeemo uses AI to transcribe video audio into captions with over 98% accuracy, saving hours of manual work.",
+        "Multilingual Translation: The platform translates captions into over 113 languages, making videos accessible to global audiences.",
+        "Dynamic Visual Effects: Zeemo offers customizable caption styles and animations to enhance viewer engagement on social media platforms.",
+        "Video Editing Integration: Users can trim, edit, and sync captions directly within Zeemo’s intuitive editor for a seamless workflow.",
+        "Platform-Specific Resizing: Zeemo adjusts video dimensions and captions to optimize content for platforms like TikTok, YouTube, and Instagram.",
+        "Automatic Timestamping: The tool auto-syncs transcribed text with video timelines, eliminating manual timestamp creation.",
+        "Batch Subtitle Editing: Zeemo allows simultaneous editing of subtitles for multiple videos, boosting efficiency for high-volume creators."
+    ],
+    "faqs": [
+        {
+            "question": "What is Zeemo used for?",
+            "answer": "Zeemo is an AI-powered tool for automatically generating and translating video captions, making content accessible and engaging for global audiences."
+        },
+        {
+            "question": "Does Zeemo offer a free plan?",
+            "answer": "Yes, Zeemo provides a free trial with limited features, allowing users to test its captioning capabilities without a subscription."
+        },
+        {
+            "question": "How accurate are Zeemo’s captions?",
+            "answer": "Zeemo’s AI achieves over 98% accuracy in transcribing audio to text, though minor edits may be needed for complex dialogues or accents."
+        },
+        {
+            "question": "Can I customize the appearance of captions?",
+            "answer": "Yes, Zeemo offers dynamic visual effects, allowing users to adjust caption styles, fonts, colors, and animations to match their brand."
+        },
+        {
+            "question": "Which languages does Zeemo support?",
+            "answer": "Zeemo supports transcription in 95 languages and translation in over 113 languages, catering to diverse global audiences."
+        },
+        {
+            "question": "Is Zeemo suitable for social media content?",
+            "answer": "Zeemo optimizes captions and video formats for platforms like YouTube, TikTok, and Instagram, enhancing engagement and accessibility."
+        },
+        {
+            "question": "Does Zeemo integrate with video editing software?",
+            "answer": "Zeemo’s built-in editor allows seamless caption integration, but it also supports exporting SRT files for use in other editing tools."
+        },
+        {
+            "question": "How does Zeemo ensure data privacy?",
+            "answer": "Zeemo prioritizes user privacy by using secure data handling practices and complying with legal requirements for data protection."
+        }
+    ]
+}

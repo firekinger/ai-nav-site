@@ -1,0 +1,72 @@
+{
+    "name": "Roboflow",
+    "description": "Roboflow provides tools to build, train, and deploy computer vision models for developers and enterprises.",
+    "longDescription": "Roboflow is a software platform that simplifies the development of computer vision applications by offering an end-to-end solution for data management, model training, and deployment. Founded in 2019 by Brad Dwyer and Joseph Nelson, it enables developers to upload images and videos, annotate datasets, train state-of-the-art models, and deploy them via APIs or to edge devices. The platform serves over one million developers, including half of the Fortune 100, addressing use cases in industries like healthcare, agriculture, and smart cities. Its open-source tools, such as Supervision and Autodistill, enhance accessibility, while enterprise-grade security ensures data privacy. Roboflow’s mission is to make computer vision accessible to all, from hobbyists to large corporations, by streamlining complex workflows. The platform also supports a community-driven ecosystem with datasets and pre-trained models on Roboflow Universe.",
+    "url": "https://roboflow.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/roboflow.com.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "roboflow",
+    "categories": [
+        "AI Image Recognition",
+        "AI Project Management",
+        "AI Research Tool",
+        "AI Healthcare"
+    ],
+    "features": [
+        "Roboflow Annotate enables ultra-fast image and video labeling with AI-assisted tools, supporting formats like JSON, XML, and YOLO for efficient dataset preparation.",
+        "Roboflow Train allows one-click training of custom computer vision models, optimizing for speed or accuracy based on user needs.",
+        "Roboflow Deploy provides scalable APIs and SDKs for deploying models to cloud, edge devices, or browsers, ensuring seamless integration.",
+        "Roboflow Universe offers access to over 500,000 open-source datasets and pre-trained models for rapid prototyping and research.",
+        "The Supervision library provides model-agnostic tools for tasks like object detection, tracking, and visualization, enhancing post-inference workflows.",
+        "Autodistill automates data labeling by using large foundation models to train smaller, faster models, reducing manual effort.",
+        "Roboflow Inference delivers a high-performance, open-source server for running computer vision models in production environments.",
+        "Dataset Health Check analyzes image sizes, class balance, and annotation quality to improve model performance before training.",
+        "Roboflow Collect enables automated image collection via webcams on edge devices, using text or image prompts for targeted data capture.",
+        "The platform supports integrations with tools like Ultralytics YOLO, TensorFlow, and PyTorch for flexible workflows.",
+        "Roboflow Workflows allows no-code creation of complex computer vision pipelines, such as object detection and license plate reading.",
+        "Enterprise-grade security features, including SOC2 Type 2 compliance and AES-256 encryption, ensure data privacy and compliance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Roboflow used for?",
+            "answer": "Roboflow is used to build, train, and deploy computer vision models, simplifying tasks like image annotation, model training, and deployment for developers and businesses."
+        },
+        {
+            "question": "Does Roboflow offer a free plan?",
+            "answer": "Yes, Roboflow’s Public plan is free for personal and research projects, with datasets shared on Roboflow Universe, though premium features require paid plans."
+        },
+        {
+            "question": "Can I integrate Roboflow with my Python scripts?",
+            "answer": "Yes, Roboflow’s Python SDK allows seamless integration with custom scripts, supporting tasks like dataset management, model training, and inference."
+        },
+        {
+            "question": "What types of computer vision tasks does Roboflow support?",
+            "answer": "Roboflow supports object detection, image classification, instance segmentation, and keypoint detection, catering to diverse use cases."
+        },
+        {
+            "question": "Is Roboflow suitable for production-level tasks?",
+            "answer": "Yes, Roboflow is used for both prototyping and production, with scalable APIs and deployment options for edge devices and cloud infrastructure."
+        },
+        {
+            "question": "How does Roboflow ensure data security?",
+            "answer": "Roboflow complies with SOC2 Type 2 and HIPAA standards, using AES-256 encryption and SSL transport to secure data in transit and at rest."
+        },
+        {
+            "question": "Can beginners use Roboflow without machine learning expertise?",
+            "answer": "Yes, Roboflow’s user-friendly interface and one-click training make it accessible for beginners, while advanced tools cater to experts."
+        },
+        {
+            "question": "What is Roboflow Universe?",
+            "answer": "Roboflow Universe is a repository of over 500,000 open-source datasets and pre-trained models, enabling users to kickstart computer vision projects."
+        },
+        {
+            "question": "Does Roboflow support video analysis?",
+            "answer": "Yes, Roboflow supports video annotation and analysis, with tools like Supervision for object tracking and real-time video processing."
+        },
+        {
+            "question": "How does Autodistill work?",
+            "answer": "Autodistill uses large foundation models like SAM to automate data labeling, enabling faster training of smaller, efficient models."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Nano-Banana",
+    "description": "Nano Banana is an advanced AI image editor that transforms images using natural language commands, offering features like character restoration, scene reconstruction, and image fusion.",
+    "longDescription": "Nano Banana is an AI-powered image editor that allows users to edit images using simple text prompts with natural language understanding. It excels in maintaining character consistency and preserving scenes, powered by nano banana technology. The platform serves users by providing intuitive editing capabilities for personal and commercial projects, such as social media content and marketing campaigns. It supports various image formats and offers plans for different user needs, from free exploration to enterprise-level solutions. Its mission is to revolutionize photo editing with advanced AI features, delivering perfect results in a single attempt.",
+    "url": "https://www.nano-banana.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.nano-banana.ai.webp",
+    "category": "AI Photo Editor",
+    "categorySlug": "ai-photo-editor",
+    "slug": "nano-banana-ai",
+    "categories": [
+        "AI Photo Editor",
+        "AI Image Description Generator",
+        "AI Character",
+        "AI Image Combiner",
+        "AI Influencer",
+        "AI UGC Video Generator",
+        "AI Image Enhancer",
+        "AI Image Generator",
+        "AI Design Generator"
+    ],
+    "features": [
+        "Perfect results in a single attempt with one-shot editing capabilities.",
+        "Process multiple images simultaneously with support for advanced multi-image editing workflows.",
+        "Edit images using simple text prompts with advanced natural language understanding.",
+        "Maintain perfect character details across edits, excelling at preserving faces and identities.",
+        "Seamlessly blend edits with original backgrounds using superior scene fusion technology.",
+        "Create consistent AI influencers and UGC content, ideal for social media and marketing campaigns.",
+        "Transform images with AI-powered editing using simple text commands and natural language understanding.",
+        "Support for uploading images in JPEG, PNG, or WebP formats up to 5MB for image-to-image transformations.",
+        "Offer ultra-fast generation with optimized neural engine, delivering results in milliseconds.",
+        "Provide high-resolution output up to 1024x1024 in paid plans for professional use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Nano Banana?",
+            "answer": "Nano Banana is an advanced AI image editor that allows you to transform any image using simple text prompts, featuring superior character consistency and scene preservation powered by nano banana AI."
+        },
+        {
+            "question": "How does it work?",
+            "answer": "Simply upload your image, write a natural language description of the changes you want, and nano banana AI will generate the edited image in milliseconds, requiring no technical expertise."
+        },
+        {
+            "question": "How is it better than Flux Kontext?",
+            "answer": "Nano Banana surpasses Flux Kontext with superior scene preservation, better character consistency, and one-shot editing capabilities, delivering more natural and realistic results."
+        },
+        {
+            "question": "Can I use it for commercial projects?",
+            "answer": "Yes, Nano Banana supports commercial use, perfect for creating UGC content, social media materials, marketing campaigns, and AI influencer content for business purposes."
+        },
+        {
+            "question": "What types of edits can it handle?",
+            "answer": "Nano Banana can handle a wide range of edits including character modifications, scene changes, style transfers, object additions/removals, and complex multi-image editing workflows while maintaining consistency."
+        },
+        {
+            "question": "Where can I try Nano Banana?",
+            "answer": "You can try Nano Banana right here on our website by clicking 'Start Editing' or 'Try The AI Editor' to access the online editor and experience natural language image editing."
+        }
+    ]
+}

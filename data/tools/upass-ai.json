@@ -1,0 +1,75 @@
+{
+    "name": "uPass.ai",
+    "description": "uPass.ai is an AI-powered platform that humanizes AI-generated text to make it undetectable by AI content detectors, helping users create authentic-looking content.",
+    "longDescription": "uPass.ai is a specialized AI tool designed to transform machine-generated text into content that mimics human writing styles, effectively bypassing AI detection systems. Its mission is to assist content creators, students, and professionals in producing work that appears original and avoids penalties from plagiarism or AI detection tools. By leveraging advanced algorithms, it analyzes and rewrites text to incorporate natural variations, idioms, and inconsistencies typical of human authors. This serves users by enabling them to use AI writing assistants without the risk of their content being flagged as artificial. The platform addresses the growing challenge of AI content proliferation and the need for undetectable outputs in academic, marketing, and creative fields. Overall, uPass.ai empowers users to harness AI's efficiency while maintaining the authenticity required in various industries.",
+    "url": "https://upass.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/upass.ai.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "upass-ai",
+    "categories": [
+        "Humanizer AI",
+        "AI Rewriter",
+        "Bypass AI",
+        "AI Plagiarism Checker",
+        "AI Essay Writer",
+        "AI Marketing",
+        "AI SEO Tools",
+        "AI Language Learning",
+        "AI Content Detector"
+    ],
+    "features": [
+        "Text humanization feature rewrites AI-generated content to include human-like nuances, ensuring it passes AI detectors with high accuracy.",
+        "Multiple rewriting modes allow users to choose levels of humanization, from light adjustments to comprehensive overhauls, tailoring outputs to specific needs.",
+        "Built-in plagiarism checker scans the humanized text to confirm originality and reduce the risk of duplication issues.",
+        "Supports various input sources, including direct text pasting or file uploads, making it versatile for different workflows.",
+        "Real-time processing delivers quick results, enabling users to generate undetectable content efficiently without long wait times.",
+        "Customizable settings let users adjust parameters like readability level, tone, and complexity to match their target audience.",
+        "Integration with popular AI writers like ChatGPT allows seamless workflow from generation to humanization.",
+        "Analytics dashboard provides insights on detection scores, helping users refine their content for better undetectability.",
+        "Batch processing capability handles multiple texts at once, ideal for high-volume users like content agencies.",
+        "Secure data handling ensures user inputs and outputs are protected with encryption and privacy measures."
+    ],
+    "faqs": [
+        {
+            "question": "What is uPass.ai used for?",
+            "answer": "uPass.ai is used to humanize AI-generated text, making it appear as if written by a human to bypass AI detection tools. This is particularly useful for students, writers, and marketers who need authentic-looking content."
+        },
+        {
+            "question": "Does uPass.ai offer a free plan?",
+            "answer": "Yes, uPass.ai provides a free tier with limited usage, allowing users to test the tool before committing to a paid subscription. Upgrades unlock unlimited access and advanced features."
+        },
+        {
+            "question": "How accurate is uPass.ai at bypassing detectors?",
+            "answer": "uPass.ai boasts high accuracy rates, often exceeding 95% in evading popular detectors like GPTZero or Originality.ai, based on its advanced algorithms. However, results can vary depending on the original text and detector used."
+        },
+        {
+            "question": "Can I use uPass.ai for academic writing?",
+            "answer": "Yes, it's commonly used for academic purposes to make AI-assisted essays undetectable, but users should adhere to ethical guidelines and institutional policies on AI use."
+        },
+        {
+            "question": "What languages does uPass.ai support?",
+            "answer": "uPass.ai primarily supports English, with plans to expand to other languages. It focuses on nuanced humanization for English text to ensure natural flow."
+        },
+        {
+            "question": "Is my data safe with uPass.ai?",
+            "answer": "Yes, uPass.ai employs robust encryption and does not store user data long-term, prioritizing privacy and security in all operations."
+        },
+        {
+            "question": "How does uPass.ai differ from other humanizers?",
+            "answer": "uPass.ai stands out with its customizable modes and integrated analytics, offering more control and insights compared to basic rewriting tools."
+        },
+        {
+            "question": "Can uPass.ai handle long-form content?",
+            "answer": "Absolutely, it supports long documents up to thousands of words, processing them efficiently in batches if needed."
+        },
+        {
+            "question": "What if the humanized text still gets detected?",
+            "answer": "uPass.ai offers revisions and tips to improve undetectability, and premium users get priority support for troubleshooting."
+        },
+        {
+            "question": "Is uPass.ai suitable for SEO content?",
+            "answer": "Yes, it helps create human-like SEO content that ranks well without triggering AI penalties from search engines."
+        }
+    ]
+}

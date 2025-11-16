@@ -1,0 +1,64 @@
+{
+    "name": "Deepfake Maker",
+    "description": "Deepfake Maker is an online AI-powered platform for creating face swaps and deepfake content in photos, videos, and GIFs.",
+    "longDescription": "Deepfake Maker is a user-friendly online tool that leverages advanced AI to enable face swapping and deepfake creation for photos, videos, and GIFs without requiring technical expertise. Its mission is to make high-quality, realistic face transformations accessible to everyone for entertainment, creative projects, or personal use. The platform emphasizes privacy by not storing user data or requiring sign-ups, ensuring a secure and anonymous experience. It serves a wide audience, from casual users creating fun content to creators producing engaging media, with a focus on speed and ease of use. By offering free, unlimited access to its core features, Deepfake Maker democratizes AI-driven content creation while maintaining a straightforward interface for all skill levels.",
+    "url": "https://deepfakemaker.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepfakemaker.io.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "deepfake-maker",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Photo Editor",
+        "AI GIF Generator",
+        "AI Art Generator",
+        "AI Social Media Post Generator",
+        "AI Clothing Removal"
+    ],
+    "features": [
+        "AI-powered face swapping instantly replaces faces in photos for realistic transformations in seconds.",
+        "Video face swap technology accurately recognizes and replaces faces in videos for seamless deepfake creation.",
+        "GIF face swapping allows users to create personalized, fun GIFs with swapped faces for memes or social media.",
+        "Face morphing enables users to blend faces in static images for creative or humorous effects.",
+        "Multiple face swap supports group photos, allowing simultaneous face replacements for enhanced flexibility.",
+        "Real-time preview lets users see face swap results before finalizing their content, improving accuracy.",
+        "No-login policy ensures user privacy by not requiring accounts or collecting personal data.",
+        "Uncensored AI art generation creates unique, high-quality images without restrictions for creative freedom.",
+        "AI clothes remover offers one-click clothing removal from images for specialized content creation.",
+        "Diverse templates provide a variety of styles and scenarios to customize face swaps for different needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Deepfake Maker used for?",
+            "answer": "Deepfake Maker allows users to swap faces in photos, videos, and GIFs using AI for entertainment, memes, or creative projects."
+        },
+        {
+            "question": "Is Deepfake Maker free to use?",
+            "answer": "Yes, Deepfake Maker offers 100% free access to its core features, including unlimited face swaps, with no sign-up required."
+        },
+        {
+            "question": "Do I need to create an account to use the platform?",
+            "answer": "No, Deepfake Maker requires no login, ensuring user privacy and immediate access to its tools."
+        },
+        {
+            "question": "How long does it take to process a face swap?",
+            "answer": "Face swaps are typically processed in 2-5 seconds, depending on the content type and complexity."
+        },
+        {
+            "question": "Is my data stored when I use Deepfake Maker?",
+            "answer": "Deepfake Maker does not store uploaded or generated content, prioritizing user privacy and security."
+        },
+        {
+            "question": "Can I swap multiple faces in a group photo?",
+            "answer": "Yes, the multiple face swap feature allows simultaneous face replacements in group photos for quick results."
+        },
+        {
+            "question": "What types of files can I upload for face swapping?",
+            "answer": "The platform supports multiple image formats, videos, and GIFs for flexible content creation."
+        },
+        {
+            "question": "Is Deepfake Maker safe and legitimate?",
+            "answer": "Deepfake Maker is considered legitimate with a trust score of 61% by ScamAdviser, but users should verify its safety before sharing personal data."
+        }
+    ]
+}

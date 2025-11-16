@@ -1,0 +1,75 @@
+{
+    "name": "TryItOn AI",
+    "description": "TryItOn AI is an AI-driven platform that transforms user-uploaded selfies into professional-quality headshots for personal and business use.",
+    "longDescription": "TryItOn AI is an online service that leverages advanced artificial intelligence to generate studio-grade headshots from simple selfies, making professional photography accessible without the need for expensive photoshoots. Its mission is to democratize high-quality portrait creation, helping individuals and professionals enhance their online presence on platforms like LinkedIn, resumes, or social media. The platform solves the problem of time-consuming and costly traditional photography by using AI models trained on diverse datasets to produce realistic, customizable results. Users upload a set of photos, and the AI analyzes facial features, lighting, and expressions to create polished images. This serves job seekers, entrepreneurs, and anyone needing quick, affordable professional visuals, with options for various styles and enhancements.",
+    "url": "https://www.tryitonai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.tryitonai.com.webp",
+    "category": "AI Headshot Generator",
+    "categorySlug": "ai-headshot-generator",
+    "slug": "tryiton-ai",
+    "categories": [
+        "AI Headshot Generator",
+        "AI Portrait Generator",
+        "AI Image Enhancer",
+        "AI Photography",
+        "AI Influencer",
+        "AI Linkedin Photo Generator",
+        "AI Profile Picture Generator",
+        "AI Face Analyzer",
+        "AI Image Generator"
+    ],
+    "features": [
+        "AI-powered headshot generation that converts everyday selfies into professional portraits, saving time and money on traditional photography.",
+        "Customizable styles including business, casual, or creative themes to match user preferences and needs.",
+        "High-resolution output suitable for LinkedIn profiles, resumes, websites, and social media.",
+        "Batch processing allowing users to generate multiple headshots from a single upload session for variety.",
+        "Privacy-focused handling of user photos, with data deletion options after processing.",
+        "Quick turnaround time, delivering results in minutes rather than days.",
+        "Integration with email for easy sharing and downloading of generated images.",
+        "Option to refine images with adjustments for lighting, background, and attire.",
+        "Support for diverse ethnicities and ages through inclusive AI training data.",
+        "Affordable pricing tiers starting with a free trial for initial testing."
+    ],
+    "faqs": [
+        {
+            "question": "What is TryItOn AI?",
+            "answer": "TryItOn AI is an online tool that uses AI to create professional headshots from selfies. It helps users get high-quality portraits without hiring a photographer."
+        },
+        {
+            "question": "How does the AI generate headshots?",
+            "answer": "Users upload 10-12 selfies, and the AI analyzes them to produce realistic professional images. The process involves machine learning models trained on photography data."
+        },
+        {
+            "question": "Is TryItOn AI free to use?",
+            "answer": "It offers a free trial for limited headshots, but full access requires a paid plan. This allows users to test the core features before committing."
+        },
+        {
+            "question": "What types of photos can I upload?",
+            "answer": "You can upload clear selfies taken in good lighting from various angles. The AI works best with diverse poses and expressions for optimal results."
+        },
+        {
+            "question": "How long does it take to get results?",
+            "answer": "Results are typically generated within minutes after upload. Processing time may vary based on server load."
+        },
+        {
+            "question": "Are my photos secure?",
+            "answer": "Yes, TryItOn AI prioritizes privacy and deletes user photos after processing unless opted otherwise. Data is handled securely with encryption."
+        },
+        {
+            "question": "Can I customize the headshots?",
+            "answer": "Yes, users can choose styles, backgrounds, and attire options. Further refinements are available in paid plans."
+        },
+        {
+            "question": "What if I'm not satisfied with the results?",
+            "answer": "TryItOn AI offers revisions or refunds in certain cases. Contact support for assistance with unsatisfactory outputs."
+        },
+        {
+            "question": "Is it suitable for business use?",
+            "answer": "Absolutely, it's ideal for professional profiles, team photos, and branding. Many users apply it for LinkedIn and corporate needs."
+        },
+        {
+            "question": "Does it support different ethnicities?",
+            "answer": "Yes, the AI is trained on diverse datasets to handle various skin tones, features, and ages accurately."
+        }
+    ]
+}

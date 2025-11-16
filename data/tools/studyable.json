@@ -1,0 +1,67 @@
+{
+    "name": "Studyable",
+    "description": "Studyable is an AI-powered study platform that helps students create flashcards, grade essays, and get instant explanations to enhance learning efficiency.",
+    "longDescription": "Studyable is an innovative AI-driven web application designed to revolutionize the way students study and learn. Its mission is to make education more accessible and effective by leveraging artificial intelligence to automate tedious study tasks and provide personalized learning support. The platform serves users, primarily students and educators, by offering tools that generate study materials, assess written work, and clarify complex concepts in real-time. It solves common problems like time-consuming note-taking and inconsistent feedback by using advanced AI models to deliver quick, accurate assistance. Overall, Studyable aims to boost academic performance and reduce study-related stress through intelligent, user-friendly features.",
+    "url": "https://studyable.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/studyable.app.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "studyable",
+    "categories": [
+        "AI Homework Helper",
+        "AI Flashcard Maker",
+        "AI Essay Writer",
+        "AI Summarizer",
+        "AI Quiz Generator",
+        "AI Diagram Generator",
+        "AI For Data Analytics",
+        "AI Language Learning",
+        "AI Research Tool"
+    ],
+    "features": [
+        "AI Flashcard Generator automatically creates customizable flashcards from notes or textbooks, helping users memorize information more effectively.",
+        "Essay Grader provides instant, detailed feedback on essays, including scores and suggestions for improvement, to enhance writing skills.",
+        "Study Chat offers real-time explanations and answers to questions, acting as a virtual tutor for various subjects.",
+        "Diagram Explainer analyzes and describes diagrams or images, making visual learning materials easier to understand.",
+        "Practice Tests generate tailored quizzes and exams based on user input, allowing for targeted practice and self-assessment.",
+        "Note Summarizer condenses lengthy notes into concise summaries, saving time and improving retention.",
+        "Vocabulary Builder identifies and explains key terms from texts, aiding in building a stronger vocabulary.",
+        "Progress Tracking monitors study habits and performance over time, providing insights to optimize learning strategies.",
+        "Collaborative Study Rooms enable group study sessions with shared AI tools, fostering teamwork and collective learning.",
+        "Mobile Accessibility ensures users can study on-the-go with a responsive design compatible with various devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Studyable?",
+            "answer": "Studyable is an AI-powered platform that assists with studying by generating flashcards, grading essays, and providing explanations. It uses advanced AI to make learning more efficient and personalized."
+        },
+        {
+            "question": "Is Studyable free to use?",
+            "answer": "Yes, Studyable offers a free plan with access to core features, though some advanced tools may require a premium subscription."
+        },
+        {
+            "question": "How does the Essay Grader work?",
+            "answer": "The Essay Grader analyzes your written work using AI, providing a score, detailed feedback, and suggestions for improvement. It evaluates structure, grammar, content, and more to help refine your writing."
+        },
+        {
+            "question": "Can Studyable help with any subject?",
+            "answer": "Studyable supports a wide range of subjects including math, science, history, and languages, thanks to its versatile AI models. However, it's most effective for text-based and conceptual learning."
+        },
+        {
+            "question": "How accurate is the AI in Studyable?",
+            "answer": "The AI is powered by advanced models like GPT, ensuring high accuracy in explanations and grading. Users should verify critical information, as AI can occasionally make errors."
+        },
+        {
+            "question": "Does Studyable store my data?",
+            "answer": "Studyable stores user data securely to enable features like progress tracking, but it prioritizes privacy and allows users to manage or delete their information."
+        },
+        {
+            "question": "Can I use Studyable on my phone?",
+            "answer": "Yes, Studyable is mobile-friendly with a responsive web design, allowing seamless access on smartphones and tablets without needing a dedicated app."
+        },
+        {
+            "question": "How do I create flashcards in Studyable?",
+            "answer": "Simply upload your notes or text, and the AI will generate flashcards automatically. You can then customize, review, and quiz yourself using the built-in tools."
+        }
+    ]
+}

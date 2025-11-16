@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI Stock Video Generator Tools in 2025",
+    "summary": "Unlock the power of creativity with our AI Stock Video Generator category! These innovative tools enable users to effortlessly create stunning stock videos tailored to their needs, saving time and resources. Whether you're a marketer, content creator, or business owner, these AI-driven solutions offer high-quality visuals that enhance your projects and engage your audience. Explore our curated selection of AI stock video generators today and elevate your content strategy with ease. Dive in now to discover the perfect tool for your next video project!",
+    "tools": [
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "430",
+            "name": "AdCreative.ai",
+            "slug": "adcreative-ai",
+            "description": "AdCreative.ai uses AI to generate high-converting ad creatives and social media content for businesses.",
+            "icon": "/logo/www.adcreative.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "452",
+            "name": "Predis.ai",
+            "slug": "predis-ai",
+            "description": "Predis.ai is an AI-powered platform for creating, scheduling, and managing social media content to enhance brand engagement.",
+            "icon": "/logo/predis.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "630",
+            "name": "Zebracat",
+            "slug": "zebracat-ai",
+            "description": "Zebracat is an AI-powered platform that transforms text into engaging, professional-quality marketing videos in minutes.",
+            "icon": "/logo/www.zebracat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "637",
+            "name": "Blaze AI",
+            "slug": "blaze-ai",
+            "description": "Blaze AI is an AI-driven platform that streamlines content creation and marketing for businesses, producing brand-aligned content in seconds.",
+            "icon": "/logo/www.blaze.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "705",
+            "name": "Stockimg AI",
+            "slug": "stockimg-ai",
+            "description": "Stockimg AI is an AI-powered platform for generating high-quality, custom visuals like logos, stock photos, and illustrations.",
+            "icon": "/logo/stockimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "834",
+            "name": "Visla",
+            "slug": "visla",
+            "description": "Visla is an AI-powered platform for creating, editing, and sharing professional-quality videos for businesses and educators.",
+            "icon": "/logo/www.visla.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        },
+        {
+            "id": "1318",
+            "name": "Picsman.ai",
+            "slug": "picsman-ai",
+            "description": "Picsman.ai is an online AI photo editor offering tools for image editing, enhancement, and generation, including features like object removal, virtual clothing try-ons, and image upscaling.",
+            "icon": "/logo/www.picsman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-stock-video-generator"
+            ]
+        }
+    ]
+}

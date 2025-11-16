@@ -1,0 +1,69 @@
+{
+    "name": "Outset",
+    "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+    "longDescription": "Outset is a user research platform designed for modern teams seeking high-quality feedback at speed and scale, utilizing AI to conduct and synthesize video, audio, and usability sessions. It supports various research needs, from exploratory studies to usability and concept testing, powering smarter decisions throughout the product and innovation lifecycle. The platform allows for AI-moderated interviews that engage participants in rich dialogue, probe deeper for insights, and generate instant summaries and highlight reels. Trusted by top companies, Outset aims to accelerate research processes, saving time and delivering insights that enhance understanding of consumers and product design. With Outset, research teams are able to conduct in-depth qualitative research at a speed and scale that's never before been possible.",
+    "url": "https://outset.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/outset.ai.webp",
+    "category": "AI Interview Assistant",
+    "categorySlug": "ai-interview-assistant",
+    "slug": "outset-ai",
+    "categories": [
+        "AI Interview Assistant",
+        "AI Question Generator",
+        "AI Script Writing",
+        "AI Text Classifier",
+        "AI Reel Generator",
+        "AI Translate",
+        "AI Dialogue Generator",
+        "AI Marketing",
+        "AI Testing"
+    ],
+    "features": [
+        "Conduct hundreds of user interviews simultaneously in any language with AI-moderated dialogue and probing for deeper insights.",
+        "Instantly generate summaries, themes, powerful quotes, and customizable highlight reels from interviews using AI synthesis.",
+        "Customize the AI interviewer by selecting personas, building discussion guides, adding moderator instructions, and choosing languages.",
+        "Run qualitative research interviews via video, voice, or text, with the AI interviewer responding in the participant's preferred mode.",
+        "Recruit participants flexibly from your own customers, internal panels, or trusted partners like User Interviews and Prolific, with no extra fees.",
+        "Test various assets, including marketing materials, Figma prototypes, live websites, product designs, and videos, with adaptive AI-led conversations.",
+        "Allow participants to share screens and walk through prototypes while the AI asks follow-up questions, mimicking real qualitative research.",
+        "Set up research in minutes with flexible flows, avoiding rigid test scripts, and synthesize participant feedback instantly without manual review.",
+        "Organize themes, tag key moments, and summarize findings automatically with AI-powered synthesis.",
+        "Identify patterns, summarize themes, and surface emotional cues to help teams go from interviews to impact faster.",
+        "Uncover market trends, segment audiences, and track brand perception using AI-driven interviews and analysis.",
+        "Ask thoughtful follow-up questions, explore participant reasoning, and adapt dynamically to different workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What's Outset's pricing model?",
+            "answer": "Outset uses an annual subscription model. Pricing is based on the number of user seats, projected usage, and selected features."
+        },
+        {
+            "question": "Is my data safe with your platform?",
+            "answer": "We use encryption protocols to safeguard data transmission, regularly monitor for any vulnerabilities, and implement industry-standard security practices."
+        },
+        {
+            "question": "How does this compare to open-ended survey questions?",
+            "answer": "Open-ended survey questions get notoriously low engagement (you often need to send it to 1000+ people just to get a few dozen good answers). Our AI-interview probes deeper and reacts in real-time to respondents’ answers, which evokes deeper, more actionable conversation."
+        },
+        {
+            "question": "Is this as good as a human interview?",
+            "answer": "AI-moderated research is a powerful tool in a research team’s toolkit to get in-depth data at a speed an order of magnitude faster than traditional methods. AI-moderated research is additive – uncovering insights you aren’t getting today – but not meant to replace human-led ethnographic researchers. In fact, many researchers use this to augment human-moderated methods to build a more nuanced and vibrant picture of their audience."
+        },
+        {
+            "question": "We need help recruiting participants. Can Outset help?",
+            "answer": "We offer an integration with top panel companies that includes screening. Our customers use a combination of their own user base, panel agency integrations, or professional recruiters."
+        },
+        {
+            "question": "We are sensitive about our users’ data. How do we send participants to Outset without sharing PII?",
+            "answer": "Outset does not need any PII. You can use URL parameters to pass metadata to Outset so that you can analyze participant responses without sharing PII. Additionally, none of the interview data is used to train AI models. Ever."
+        },
+        {
+            "question": "I have a unique analysis process. Can I export this data?",
+            "answer": "Yes! You can export a CSV of all conversations as well as AI-generated categories for each participant under each question."
+        },
+        {
+            "question": "How do we provide incentives to participants through Outset?",
+            "answer": "We support multiple methods. We can pass you completion data, collect emails, or provide special codes for participants so you can use your current system for incentives."
+        }
+    ]
+}

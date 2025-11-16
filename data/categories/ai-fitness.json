@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Fitness Tools in 2025",
+    "summary": "Discover the transformative power of AI Fitness tools designed to elevate your health and wellness journey. From personalized workout plans to nutrition tracking and real-time coaching, these innovative solutions cater to your unique fitness needs. Experience enhanced motivation, smarter goal-setting, and data-driven insights that help you achieve your fitness aspirations more efficiently. Whether you're a beginner or a seasoned athlete, our curated selection of AI Fitness tools empowers you to optimize your routine and stay on track. Explore our collection today and unlock your potential!",
+    "tools": [
+        {
+            "id": "949",
+            "name": "FitnessAI",
+            "slug": "fitnessai",
+            "description": "FitnessAI is an AI-powered mobile app that generates personalized weightlifting workout plans to help users build strength and achieve fitness goals efficiently.",
+            "icon": "/logo/www.fitnessai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        },
+        {
+            "id": "984",
+            "name": "Woebot Health",
+            "slug": "woebot-health",
+            "description": "Woebot Health is an AI-powered platform offering conversational mental health support through a chatbot designed to deliver cognitive behavioral therapy techniques.",
+            "icon": "/logo/woebothealth.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        },
+        {
+            "id": "1112",
+            "name": "Planfit",
+            "slug": "planfit-ai",
+            "description": "Planfit is an AI-powered fitness platform that provides personalized workout plans and training guidance to help users achieve their fitness goals efficiently.",
+            "icon": "/logo/planfit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        },
+        {
+            "id": "1365",
+            "name": "Gaslighting Check",
+            "slug": "gaslighting-check",
+            "description": "Gaslighting Check is an AI-powered platform designed to help users detect and understand gaslighting behaviors in conversations and relationships.",
+            "icon": "/logo/www.gaslightingcheck.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        },
+        {
+            "id": "1243",
+            "name": "RxPT",
+            "slug": "rxpt",
+            "description": "RxPT is an AI-powered platform designed to streamline prescription management and provide personalized health advice for users in the US.",
+            "icon": "/logo/www.rxpt.us.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        },
+        {
+            "id": "1369",
+            "name": "HistorySleep",
+            "slug": "historysleep",
+            "description": "HistorySleep is an AI-powered platform that generates personalized historical bedtime stories to promote relaxation and better sleep.",
+            "icon": "/logo/www.historysleep.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-fitness"
+            ]
+        }
+    ]
+}

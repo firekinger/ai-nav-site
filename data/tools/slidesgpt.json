@@ -1,0 +1,61 @@
+{
+    "name": "SlidesGPT",
+    "description": "SlidesGPT is an AI-powered platform that generates professional PowerPoint presentations, Google Slides, and PDFs from text prompts.",
+    "longDescription": "SlidesGPT is an innovative AI-driven tool designed to streamline the creation of professional presentations by leveraging ChatGPT technology. It enables users, including students, educators, and professionals, to generate engaging PowerPoint presentations, Google Slides, and PDFs quickly from simple text prompts. The platform aims to save users significant time by automating slide creation, layout design, and image selection, making it ideal for business, educational, and personal use. By offering both free and paid tiers, including enterprise solutions, SlidesGPT caters to a wide audience seeking efficient, high-quality presentation solutions. Its mission is to simplify the presentation-making process while ensuring visually appealing and content-rich results. The tool also supports custom branding, allowing users to incorporate their own templates for a personalized touch.",
+    "url": "https://slidesgpt.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/slidesgpt.com.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "slidesgpt",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Design Assistant",
+        "AI Chat Generator",
+        "AI API",
+        "AI Image Description Generator"
+    ],
+    "features": [
+        "Generates complete PowerPoint presentations from text prompts in seconds, saving users hours of manual work.",
+        "Supports multiple export formats, including PPT, PPTX, and PDF, for versatile use across platforms.",
+        "Automatically creates slide outlines and content based on user input, ensuring structured and coherent presentations.",
+        "Selects and integrates relevant images to enhance slide visuals, improving audience engagement.",
+        "Offers customizable templates for users to apply their own branding or corporate identity to presentations.",
+        "Provides API integration for enterprise users, enabling seamless incorporation into workflows.",
+        "Allows users to generate single slides or entire decks, offering flexibility for various needs.",
+        "Improves slide content, tone, and style based on user prompts, ensuring professional-quality output."
+    ],
+    "faqs": [
+        {
+            "question": "What is SlidesGPT?",
+            "answer": "SlidesGPT is an AI-powered tool that creates professional PowerPoint presentations, Google Slides, and PDFs from text prompts using ChatGPT technology."
+        },
+        {
+            "question": "Is SlidesGPT free to use?",
+            "answer": "Yes, SlidesGPT offers a free plan with limited features, allowing users to create up to five AI-generated presentations."
+        },
+        {
+            "question": "Can I customize the slides with my own branding?",
+            "answer": "Yes, SlidesGPT allows users to upload custom master templates to incorporate their branding, such as logos and color schemes."
+        },
+        {
+            "question": "What types of presentations can SlidesGPT create?",
+            "answer": "SlidesGPT can create presentations for various purposes, including business pitches, educational lectures, and personal projects, based on user prompts."
+        },
+        {
+            "question": "How does SlidesGPT differ from ChatGPT for presentations?",
+            "answer": "Unlike ChatGPT, SlidesGPT generates fully designed slides with images and layouts, offering faster and more polished results suitable for professional use."
+        },
+        {
+            "question": "Does SlidesGPT support enterprise solutions?",
+            "answer": "Yes, SlidesGPT offers enterprise plans with API integration and custom template support for large-scale or business-specific needs."
+        },
+        {
+            "question": "Can I edit the slides after they are generated?",
+            "answer": "Yes, generated slides can be edited in PowerPoint or Google Slides to fine-tune content or adjust designs as needed."
+        },
+        {
+            "question": "How long does it take to generate a presentation?",
+            "answer": "SlidesGPT can generate a complete presentation in seconds to minutes, depending on the complexity of the prompt."
+        }
+    ]
+}

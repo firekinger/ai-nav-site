@@ -1,0 +1,74 @@
+{
+    "name": "Syndy",
+    "description": "Syndy is an AI-powered copywriting assistant that transforms ideas into engaging LinkedIn posts while preserving the user's authentic voice.",
+    "longDescription": "Syndy is an AI copywriting tool tailored for LinkedIn, enabling users to generate professional posts in just two clicks. Its mission is to boost users' LinkedIn presence by creating thought-leadership content that maintains authenticity and drives engagement. By leveraging style cloning and data from analyzed posts, Syndy helps creators save time while solving the challenge of producing compelling content without losing personal style. The platform serves detail-oriented writers and professionals seeking to enhance their social media impact. It offers a free trial to access all features, emphasizing user control and voice preservation as key intellectual property.",
+    "url": "https://syndy.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/syndy.ai.webp",
+    "category": "AI Copywriting",
+    "categorySlug": "ai-copywriting",
+    "slug": "syndy-ai",
+    "categories": [
+        "AI Copywriting",
+        "AI Writing",
+        "AI Linkedin Headshot",
+        "AI Writing Assistants",
+        "AI Style Transfer",
+        "AI Document Extraction",
+        "AI Content Detector",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Generates an engaging opening for content from various options to lock in readers in 1 second.",
+        "Enriches thoughts with cases, examples, narratives, and more to shape them into full context.",
+        "Formats content like a pro, from short paragraphs to ascending listicles, for optimal readability.",
+        "Allows switching tone from subtle to impactful using a rich style palette or custom options for tweaks.",
+        "Provides shortcuts to keep momentum going at all times for savvy writers.",
+        "Offers a preview feature optimized for all devices to see how content will appear in the feed.",
+        "Records detailed AI usage logs and version history, with the ability to revert to any previous state.",
+        "Includes an 'Expand Content' feature to transform a few sentences into rich, in-depth content.",
+        "Uses style cloning to preserve your unique voice and create authentic content.",
+        "Provides personalized elaboration to turn ideas into compelling stories."
+    ],
+    "faqs": [
+        {
+            "question": "What is the cost of Syndy after the free trial?",
+            "answer": "Pricing starts at $19 per month, previously $49."
+        },
+        {
+            "question": "Do I need to provide payment details for the free trial?",
+            "answer": "No payment is required today for the 1-month free trial."
+        },
+        {
+            "question": "Can I cancel my subscription anytime?",
+            "answer": "Yes, you can cancel anytime."
+        },
+        {
+            "question": "Are all features available during the free trial?",
+            "answer": "All features are unlocked during the free trial."
+        },
+        {
+            "question": "Is Syndy optimized for mobile devices?",
+            "answer": "The preview feature is optimized for all devices, ensuring content looks great on mobile."
+        },
+        {
+            "question": "How does Syndy preserve my authentic voice?",
+            "answer": "Syndy treats your voice as valuable IP and uses style cloning to replicate it in generated content."
+        },
+        {
+            "question": "How does Syndy maintain my writing style?",
+            "answer": "Through AI-powered style cloning, Syndy analyzes and replicates your unique writing style for authentic posts."
+        },
+        {
+            "question": "What kind of content can I create with Syndy?",
+            "answer": "Syndy is designed for LinkedIn posts, including thought-leadership content, professional updates, and engaging stories."
+        },
+        {
+            "question": "How long is the free trial?",
+            "answer": "The free trial lasts for 1 month with access to all features."
+        },
+        {
+            "question": "Can I use Syndy for platforms other than LinkedIn?",
+            "answer": "While optimized for LinkedIn, the generated content can be adapted for other social media platforms."
+        }
+    ]
+}

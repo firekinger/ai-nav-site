@@ -1,0 +1,75 @@
+{
+    "name": "Browserfly",
+    "description": "Browserfly is an AI agent that integrates into your browser to automate tasks, summarize content, and enhance web interactions.",
+    "longDescription": "Browserfly is an AI-powered assistant designed to live within your web browser, providing seamless integration for enhanced productivity and automation. It specializes in summarizing web content, extracting key information, and optimizing summaries for platforms like YouTube and Bilibili. The tool enables users to automate repetitive tasks, make informed shopping decisions through cross-tab chats, and navigate websites intelligently in Agent Mode. Additionally, it supports bringing your own API key (BYOK) for using preferred AI models, making it flexible for various user needs. By solving common browsing inefficiencies, Browserfly empowers users to interact more efficiently with the web, reducing time spent on manual processes.",
+    "url": "https://browserfly.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/browserfly.app.webp",
+    "category": "AI Browsers",
+    "categorySlug": "ai-browsers",
+    "slug": "browserfly",
+    "categories": [
+        "AI Browsers",
+        "AI Article Summarizer",
+        "AI Document Extraction",
+        "AI Task Management",
+        "AI Forms",
+        "AI Shopping Assistant",
+        "AI Prompt Generator",
+        "AI Chat Generator"
+    ],
+    "features": [
+        "Summarizes content across various websites, allowing users to quickly grasp essential information without reading entire pages.",
+        "Extracts key information from web pages, helping users gather specific data efficiently for research or decision-making.",
+        "Creates concise summaries optimized for platforms like YouTube and Bilibili, enhancing content sharing and consumption.",
+        "Customizes AI chat prompts for quick actions, enabling personalized interactions and faster task completion.",
+        "Automates repetitive tasks and workflows, boosting productivity by handling routine browser activities.",
+        "Provides shopping assistance through cross-tabs chat, aiding users in making better buying decisions by comparing options.",
+        "Navigates websites in Agent Mode, allowing the AI to browse and interact autonomously on behalf of the user.",
+        "Interacts with web elements in Agent Mode, such as clicking buttons or filling fields to streamline user experiences.",
+        "Extracts content in Agent Mode, pulling out relevant data from complex web structures for easy access.",
+        "Completes forms in Agent Mode, saving time on registrations, surveys, or other input-heavy tasks.",
+        "Supports Bring Your Own Key (BYOK) to use preferred AI models, offering flexibility and cost control for advanced users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Browserfly?",
+            "answer": "Browserfly is an AI assistant that integrates into your browser to summarize content, automate tasks, and assist with shopping and website interactions."
+        },
+        {
+            "question": "Is Browserfly free to use?",
+            "answer": "Yes, it offers 30 free credits per month, with additional credits available for purchase at $2 for 50 credits."
+        },
+        {
+            "question": "Can I use my own AI model with Browserfly?",
+            "answer": "Yes, through the Bring Your Own Key (BYOK) feature, you can integrate your preferred AI model using your own API key."
+        },
+        {
+            "question": "What platforms does Browserfly optimize summaries for?",
+            "answer": "Browserfly optimizes summaries specifically for YouTube and Bilibili, making them more effective for those video platforms."
+        },
+        {
+            "question": "What capabilities does Agent Mode provide?",
+            "answer": "Agent Mode allows the AI to navigate websites, interact with elements, extract content, and complete forms autonomously."
+        },
+        {
+            "question": "How does Browserfly help with shopping?",
+            "answer": "It provides assistance through cross-tabs chat, helping users compare products and make informed buying decisions across multiple tabs."
+        },
+        {
+            "question": "How do I get started with Browserfly?",
+            "answer": "Install the browser extension from the website, sign up if needed, and start using the features with your free credits."
+        },
+        {
+            "question": "What are credits in Browserfly?",
+            "answer": "Credits are used to power AI features; you get 30 free per month, and can buy more for extended usage."
+        },
+        {
+            "question": "Is Browserfly secure?",
+            "answer": "Browserfly operates within your browser and supports BYOK for privacy, but always review permissions when installing extensions."
+        },
+        {
+            "question": "Can Browserfly automate custom workflows?",
+            "answer": "Yes, by customizing AI prompts and using Agent Mode, users can set up automation for specific repetitive tasks."
+        }
+    ]
+}

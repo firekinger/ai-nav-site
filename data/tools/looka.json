@@ -1,0 +1,59 @@
+{
+    "name": "Looka",
+    "description": "Looka is an AI-powered platform for designing logos and building brand identities.",
+    "longDescription": "Looka is an AI-driven design platform that empowers users to create professional logos and cohesive brand identities without requiring advanced design skills. By leveraging artificial intelligence, it generates custom logo designs based on user preferences, such as style, color, and industry. The platform also offers a suite of branding tools, including business card designs, social media kits, and website builders, to help businesses establish a consistent visual presence. Looka targets entrepreneurs, small business owners, and startups seeking affordable, high-quality branding solutions. Its intuitive interface and AI automation make it accessible for non-designers, while still offering customization options for more experienced users. The mission of Looka is to simplify the branding process, making professional design accessible to everyone.",
+    "url": "https://looka.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/looka.com.webp",
+    "category": "AI Logo Generator",
+    "categorySlug": "ai-logo-generator",
+    "slug": "looka",
+    "categories": [
+        "AI Logo Generator",
+        "AI Design Assistant",
+        "AI Graphic Design",
+        "AI Social Media",
+        "AI Website Builder"
+    ],
+    "features": [
+        "AI-generated logo designs tailored to user preferences for quick and professional results.",
+        "Customizable templates for business cards, social media assets, and other branding materials.",
+        "Brand kit creation to ensure consistent visual identity across platforms.",
+        "Website builder integration for creating branded websites with ease.",
+        "High-resolution logo files in multiple formats for versatile use.",
+        "Color palette and font recommendations to align with brand aesthetics.",
+        "Social media profile and cover image templates optimized for various platforms.",
+        "Logo mockup generator to visualize designs on real-world products.",
+        "Unlimited design edits within the platform for ongoing customization.",
+        "Instant logo previews to see designs in context during creation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Looka used for?",
+            "answer": "Looka is used to create professional logos and branding materials using AI, helping businesses establish a cohesive visual identity."
+        },
+        {
+            "question": "Do I need design skills to use Looka?",
+            "answer": "No, Looka’s AI-driven platform is designed for non-designers, guiding users through an intuitive process to create professional logos."
+        },
+        {
+            "question": "Is Looka free to use?",
+            "answer": "Looka requires a paid plan to download high-resolution logos and access branding tools, though you can explore designs for free."
+        },
+        {
+            "question": "Can I edit my logo after creating it?",
+            "answer": "Yes, Looka allows unlimited edits to your logo within the platform, even after purchase."
+        },
+        {
+            "question": "What types of branding materials does Looka offer?",
+            "answer": "Looka provides business card designs, social media kits, website templates, and other assets to build a consistent brand."
+        },
+        {
+            "question": "Does Looka provide logo files for printing and digital use?",
+            "answer": "Yes, Looka offers high-resolution logo files in formats like PNG, SVG, and PDF for both print and digital applications."
+        },
+        {
+            "question": "Can I use Looka to create a website?",
+            "answer": "Yes, Looka includes a website builder to create branded websites that align with your logo and identity."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "StockCake",
+    "description": "StockCake provides a vast library of high-quality, AI-generated stock photos for free commercial and personal use.",
+    "longDescription": "StockCake is an innovative platform offering millions of high-quality, AI-generated stock photos that are completely free and in the public domain. Founded by Nen Fard, the website aims to democratize access to visual media by eliminating the costs and licensing complexities typically associated with stock photography. It serves a wide range of users, including designers, marketers, bloggers, educators, and students, who need compelling visuals for projects like websites, social media, and presentations. The platform’s ever-expanding library ensures diverse, professional-grade images that enhance creative work without requiring attribution. StockCake also launched StockTune, a similar platform for royalty-free music, showcasing its scalable model. By leveraging AI, StockCake addresses the demand for accessible, high-quality imagery, fostering a creative community free from financial barriers.",
+    "url": "https://stockcake.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/stockcake.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "stockcake",
+    "categories": [
+        "AI Image Generator",
+        "AI Product Photography",
+        "AI Graphic Design",
+        "AI Digital Marketing",
+        "AI Photography",
+        "Storyboard AI"
+    ],
+    "features": [
+        "Offers millions of AI-generated stock photos, ensuring a vast and diverse image library for various project needs.",
+        "Provides high-quality, professional-grade images that are crisp, clear, and suitable for both digital and print media.",
+        "Requires no attribution, allowing users to incorporate images into projects without crediting the source.",
+        "Features an intuitive search function, enabling users to quickly find images by keywords related to themes or subjects.",
+        "Supports both commercial and personal use, making it versatile for businesses, creators, and individuals.",
+        "Continuously updates its library with new AI-generated images, ensuring fresh content for users.",
+        "Provides instant downloads, allowing users to access images immediately for efficient project integration.",
+        "Eliminates licensing complexities with a straightforward CC0 license, offering complete freedom for image use."
+    ],
+    "faqs": [
+        {
+            "question": "What is StockCake?",
+            "answer": "StockCake is a platform offering millions of free, high-quality, AI-generated stock photos for commercial and personal use without attribution."
+        },
+        {
+            "question": "Do I need to pay to use StockCake images?",
+            "answer": "No, all images on StockCake are completely free to use under a CC0 license, with no hidden fees or costs."
+        },
+        {
+            "question": "Can I use StockCake images for commercial projects?",
+            "answer": "Yes, StockCake images are free for both commercial and personal use, with no attribution required."
+        },
+        {
+            "question": "How do I find specific images on StockCake?",
+            "answer": "Use the website’s search function to enter keywords related to your desired theme, and relevant images will appear for download."
+        },
+        {
+            "question": "Are the images on StockCake AI-generated?",
+            "answer": "Yes, StockCake’s images are created using AI technology, ensuring high quality and variety across themes."
+        },
+        {
+            "question": "Do I need to sign up to download images?",
+            "answer": "No, you can browse and download images without signing up, though a signup option is available for additional features."
+        },
+        {
+            "question": "How often is the StockCake library updated?",
+            "answer": "The library is updated daily with new AI-generated images to provide fresh content for users."
+        },
+        {
+            "question": "What is the quality of StockCake images like?",
+            "answer": "StockCake offers crisp, high-resolution images suitable for professional use in digital and print projects."
+        },
+        {
+            "question": "Can I edit StockCake images for my projects?",
+            "answer": "Yes, you can freely edit StockCake images to suit your project needs, as they are in the public domain."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Eleven Music AI",
+    "description": "Eleven Music AI is an innovative platform that leverages artificial intelligence to generate, customize, and produce high-quality music tracks for creators and musicians.",
+    "longDescription": "Eleven Music AI is a cutting-edge AI-driven platform designed to democratize music creation by allowing users to generate original music compositions effortlessly. Its mission is to empower both professional musicians and hobbyists to explore creative possibilities without needing extensive musical expertise or expensive equipment. The website solves problems like creative blocks and time constraints by using advanced algorithms to compose melodies, harmonies, and full tracks based on user inputs such as genre, mood, or lyrics. It serves users by providing tools for rapid prototyping of songs, soundtracks for videos, or personalized music experiences. Ultimately, Eleven Music AI bridges the gap between technology and artistry, making music production accessible to a global audience.",
+    "url": "https://elevenmusicai.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/elevenmusicai.io.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "eleven-music-ai",
+    "categories": [
+        "AI Music Generator",
+        "AI Creative Writing",
+        "AI Lyrics Generator",
+        "AI Writing",
+        "AI Audio Editing"
+    ],
+    "features": [
+        "AI-powered music generation that creates original tracks from simple text prompts, enabling quick composition without musical skills.",
+        "Customizable music editing tools allowing users to adjust tempo, instruments, and styles for personalized outputs.",
+        "High-quality audio export options in various formats, ensuring professional-grade results for commercial use.",
+        "Genre-specific templates that help users start with predefined styles like pop, classical, or electronic music.",
+        "Collaborative features for sharing and co-editing music projects with other users in real-time.",
+        "Lyric integration that syncs generated music with user-provided lyrics for complete song creation.",
+        "Mood-based generation that tailors music to emotions like upbeat, relaxing, or intense for targeted applications.",
+        "Royalty-free licensing for generated music, allowing users to use tracks commercially without legal hassles.",
+        "Integration with popular DAWs (Digital Audio Workstations) for seamless workflow incorporation.",
+        "Advanced AI learning from user feedback to improve future generations and personalize suggestions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Eleven Music AI?",
+            "answer": "Eleven Music AI is an online platform that uses artificial intelligence to generate and customize music tracks based on user inputs. It helps users create original compositions quickly and easily."
+        },
+        {
+            "question": "Do I need musical experience to use it?",
+            "answer": "No, the platform is designed for all skill levels, with intuitive tools that allow beginners to generate music using simple prompts."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, Eleven Music AI offers a free tier with limited generations and features, allowing users to try the service before upgrading."
+        },
+        {
+            "question": "Can I use the generated music commercially?",
+            "answer": "Yes, most plans include royalty-free licensing for commercial use, but check the terms for specific restrictions on free tiers."
+        },
+        {
+            "question": "How does the AI generate music?",
+            "answer": "The AI analyzes user inputs like genre, mood, and lyrics, then uses machine learning models trained on vast music datasets to compose unique tracks."
+        },
+        {
+            "question": "What file formats can I export music in?",
+            "answer": "Users can export in common formats like MP3, WAV, and MIDI, suitable for various applications."
+        },
+        {
+            "question": "Is my data secure on the platform?",
+            "answer": "Yes, Eleven Music AI employs encryption and privacy measures to protect user data and generated content."
+        },
+        {
+            "question": "Can I collaborate with others?",
+            "answer": "The platform supports real-time collaboration, allowing multiple users to edit and refine music projects together."
+        },
+        {
+            "question": "What genres does it support?",
+            "answer": "It supports a wide range including pop, rock, classical, hip-hop, electronic, and more, with options for custom blends."
+        },
+        {
+            "question": "How do I get started?",
+            "answer": "Sign up for a free account, enter a prompt or select a template, and let the AI generate your music in seconds."
+        }
+    ]
+}

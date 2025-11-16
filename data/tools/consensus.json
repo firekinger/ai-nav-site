@@ -1,0 +1,52 @@
+{
+    "name": "Consensus",
+    "description": "Consensus is an AI-powered search engine that provides evidence-based answers from scientific research.",
+    "longDescription": "Consensus is an AI-driven platform designed to make scientific research accessible by providing clear, evidence-based answers to user queries. It leverages advanced natural language processing to extract insights from peer-reviewed academic papers, offering users reliable information without the need to navigate complex studies. The platform aims to democratize access to scientific knowledge, serving students, researchers, professionals, and curious individuals. By summarizing and synthesizing research findings, Consensus helps users make informed decisions on topics ranging from health to social sciences. Its mission is to bridge the gap between academic research and practical application, ensuring users receive accurate and trustworthy information.",
+    "url": "https://consensus.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/consensus.app.webp",
+    "category": "AI Research Papers",
+    "categorySlug": "ai-research-papers",
+    "slug": "consensus",
+    "categories": [
+        "AI Research Papers",
+        "AI Search Engine",
+        "AI Article Summarizer"
+    ],
+    "features": [
+        "AI-powered search delivers concise answers from peer-reviewed research, saving users time.",
+        "Summarizes complex scientific papers into easy-to-understand insights for all users.",
+        "Covers diverse topics, including health, social sciences, and technology, for broad applicability.",
+        "Provides citations to original studies, ensuring transparency and credibility.",
+        "Offers a free tier with access to core search and summary features for all users.",
+        "Supports advanced filtering to refine search results by study type or publication date.",
+        "Includes a 'Consensus Meter' to show the strength of agreement across studies.",
+        "Allows users to save and organize research findings for future reference.",
+        "Integrates natural language queries, enabling conversational question-asking."
+    ],
+    "faqs": [
+        {
+            "question": "What is Consensus used for?",
+            "answer": "Consensus is used to search and summarize scientific research, providing evidence-based answers to questions across various fields."
+        },
+        {
+            "question": "Is Consensus free to use?",
+            "answer": "Yes, Consensus offers a free plan with access to core search and summary features, though premium plans unlock additional functionality."
+        },
+        {
+            "question": "How accurate are the answers provided by Consensus?",
+            "answer": "Consensus pulls insights directly from peer-reviewed research, ensuring high accuracy and credibility with citations for verification."
+        },
+        {
+            "question": "Can I use Consensus for non-academic purposes?",
+            "answer": "Yes, Consensus is designed for anyone seeking reliable answers, including professionals, students, and curious individuals."
+        },
+        {
+            "question": "What types of questions can I ask on Consensus?",
+            "answer": "You can ask questions on topics like health, economics, or technology, and Consensus will provide answers based on scientific studies."
+        },
+        {
+            "question": "Does Consensus support advanced search filters?",
+            "answer": "Yes, users can filter results by study type, publication date, or other criteria to refine their research."
+        }
+    ]
+}

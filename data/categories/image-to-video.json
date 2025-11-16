@@ -1,0 +1,193 @@
+{
+    "title": "The Best 17 Image to Video Tools in 2025",
+    "summary": "Transform your static images into captivating videos with our 'Image to Video' tools. Designed for creators, marketers, and educators, these innovative AI solutions enable you to bring your visuals to life, enhancing engagement and storytelling. With features like automated animations, customizable templates, and seamless editing, you can effortlessly create dynamic content that resonates with your audience. Discover how these tools can elevate your projects and streamline your workflow. Explore our curated selection of Image to Video tools today and unlock your creative potential!",
+    "tools": [
+        {
+            "id": "183",
+            "name": "Vidu",
+            "slug": "vidu",
+            "description": "Vidu is an AI-powered platform for generating high-quality videos and animations from text prompts or images.",
+            "icon": "/logo/www.vidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "185",
+            "name": "Viggle AI",
+            "slug": "viggle-ai",
+            "description": "Viggle AI is an AI-powered platform for creating and editing animated videos from text prompts or images.",
+            "icon": "/logo/viggle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "321",
+            "name": "AKOOL",
+            "slug": "akool",
+            "description": "AKOOL is a generative AI platform for creating personalized visual marketing and advertising content.",
+            "icon": "/logo/akool.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "365",
+            "name": "Kaiber",
+            "slug": "kaiber",
+            "description": "Kaiber is an AI-powered creative platform for generating stunning videos, animations, and visuals from text, images, or audio inputs.",
+            "icon": "/logo/www.kaiber.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "412",
+            "name": "Vivago AI",
+            "slug": "vivago-ai",
+            "description": "Vivago AI is a free AI-powered platform for creating high-quality images, videos, and 3D models from text or image prompts.",
+            "icon": "/logo/vivago.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "461",
+            "name": "DomoAI",
+            "slug": "domoai",
+            "description": "DomoAI is an AI-powered platform for transforming videos, images, and text into high-quality animations and creative styles.",
+            "icon": "/logo/www.domoai.app.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1346",
+            "name": "Facy.ai",
+            "slug": "facy-ai",
+            "description": "Facy.ai is a cloud-based AI platform for face swapping in images and videos, providing free and premium tools for high-quality media editing and transformations.",
+            "icon": "/logo/facy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "Hunyuan Video AI",
+            "slug": "hunyuan-video-ai",
+            "description": "Hunyuan Video AI is an advanced platform that leverages artificial intelligence to generate and edit videos from text prompts and images.",
+            "icon": "/logo/hunyuanvideoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "804",
+            "name": "MindVideo AI",
+            "slug": "mindvideo-ai",
+            "description": "MindVideo AI is a free online AI video generator that transforms text or images into stunning videos using innovative AI effects and models.",
+            "icon": "/logo/www.mindvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1038",
+            "name": "ImageMover.ai",
+            "slug": "imagemover-ai",
+            "description": "ImageMover.ai is an AI-powered platform that transforms images, text, and scripts into professional videos using advanced algorithms and templates.",
+            "icon": "/logo/imagemover.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1087",
+            "name": "CocoClip AI",
+            "slug": "cococlip-ai",
+            "description": "CocoClip AI is an innovative platform that leverages artificial intelligence to simplify video creation, enabling users to generate professional-quality videos from text, images, or ideas effortlessly.",
+            "icon": "/logo/cococlip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1126",
+            "name": "VideoFaceSwap.io",
+            "slug": "videofaceswap-io",
+            "description": "VideoFaceSwap.io is an AI-driven platform that enables users to seamlessly swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/videofaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1406",
+            "name": "Golpo AI Video",
+            "slug": "golpo-ai-video",
+            "description": "Golpo AI Video is an AI-driven platform that enables users to generate and edit videos using advanced artificial intelligence technology.",
+            "icon": "/logo/video.golpoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1266",
+            "name": "Movely AI",
+            "slug": "movely-ai",
+            "description": "Movely AI is an online platform that generates AI videos and edits photos using a simple one-tap animation system and a library of over 1,000 professionally designed templates.",
+            "icon": "/logo/movelyai.com.webp",
+            "isFree": false,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1371",
+            "name": "AI Animate Image",
+            "slug": "ai-animate-image",
+            "description": "AI Animate Image is an innovative platform that leverages artificial intelligence to convert static images into engaging animations and videos.",
+            "icon": "/logo/www.aianimateimage.org.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "1388",
+            "name": "FaceSwapVideo.ai",
+            "slug": "faceswapvideo-ai",
+            "description": "FaceSwapVideo.ai is an AI-powered platform that enables users to easily swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/faceswapvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Hailuo AI Video",
+            "slug": "hailuo-ai-video",
+            "description": "Hailuo AI Video transforms text and images into stunning AI-generated videos for creators and businesses.",
+            "icon": "/logo/hailuoai.video.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-video"
+            ]
+        }
+    ]
+}

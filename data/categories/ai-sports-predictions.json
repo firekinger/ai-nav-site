@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Sports Predictions Tools in 2025",
+    "summary": "Unlock the future of sports analysis with our AI Sports Predictions category. These cutting-edge tools leverage advanced algorithms to provide accurate forecasts for games, player performances, and betting outcomes. By harnessing data-driven insights, users can make informed decisions, enhance their strategies, and gain a competitive edge. Whether you're a sports enthusiast, a bettor, or a team manager, our curated selection of AI tools is designed to meet your needs. Dive into the world of AI-powered sports predictions and elevate your game—explore our tools today!",
+    "tools": [
+        {
+            "id": "998",
+            "name": "Pixellot",
+            "slug": "pixellot",
+            "description": "Pixellot is an AI-powered platform that automates sports video production and streaming for teams, leagues, and broadcasters.",
+            "icon": "/logo/www.pixellot.tv.webp",
+            "isFree": false,
+            "categories": [
+                "ai-sports-predictions"
+            ]
+        },
+        {
+            "id": "1164",
+            "name": "Powder",
+            "slug": "powder",
+            "description": "Powder is an AI-powered clipping tool that automatically generates highlight clips from gaming streams and videos for content creators.",
+            "icon": "/logo/powder.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sports-predictions"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Dermatology Tools in 2025",
+    "summary": "Discover the transformative world of AI Dermatology, where cutting-edge technology meets skincare expertise. This category features innovative tools designed to enhance skin health, diagnose conditions, and personalize treatment plans. Users can benefit from accurate assessments, timely insights, and tailored recommendations, all aimed at improving dermatological outcomes. Whether you're a healthcare professional or an individual seeking skincare solutions, our AI Dermatology tools empower you to make informed decisions. Explore our curated selection today and unlock the future of skincare innovation!",
+    "tools": [
+        {
+            "id": "828",
+            "name": "Tatship",
+            "slug": "tatship",
+            "description": "Tatship is a platform for designing and virtually trying on tattoos to help users make informed decisions before getting inked.",
+            "icon": "/logo/tatship.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dermatology"
+            ]
+        },
+        {
+            "id": "976",
+            "name": "Eye Shapes",
+            "slug": "eye-shapes",
+            "description": "Eye Shapes is a website that helps users identify their unique eye shape using an AI-powered analyzer and provides guidance on makeup techniques and eyewear choices.",
+            "icon": "/logo/www.eye-shapes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dermatology"
+            ]
+        },
+        {
+            "id": "1119",
+            "name": "Skinive",
+            "slug": "skinive",
+            "description": "Skinive is an AI-powered platform that enables users to analyze skin conditions using smartphone photos for early detection and health monitoring.",
+            "icon": "/logo/skinive.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-dermatology"
+            ]
+        }
+    ]
+}

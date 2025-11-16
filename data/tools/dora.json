@@ -1,0 +1,69 @@
+{
+    "name": "Dora",
+    "description": "Dora is an AI-powered no-code platform for designing and publishing stunning 3D animated websites.",
+    "longDescription": "Dora is a no-code web design platform that leverages AI to enable users, including designers and freelancers, to create professional 3D animated websites without writing code. Its mission is to break down coding barriers, allowing creative professionals to focus on design aesthetics and craft immersive, responsive web experiences. The platform integrates seamlessly with tools like Figma, offering a visual canvas for intuitive design and a text-to-website feature that generates sites from natural language prompts. Dora serves users by simplifying the web development process, making it accessible to those without technical expertise while delivering visually captivating results. It is particularly tailored for professionals seeking to create standout portfolios or business sites with advanced 3D and animation effects. The platform continues to evolve, with features like AI-generated 3D assets in development to further enhance its capabilities.",
+    "url": "https://www.dora.run/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.dora.run.webp",
+    "category": "AI Website Builder",
+    "categorySlug": "ai-website-builder",
+    "slug": "dora",
+    "categories": [
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI UX Design",
+        "AI Animation Generator",
+        "AI Website Designer",
+        "AI Business Ideas Generator"
+    ],
+    "features": [
+        "AI-powered text-to-website feature generates fully editable websites from natural language prompts, simplifying the design process.",
+        "No-code visual canvas allows users to create professional websites with drag-and-drop simplicity, eliminating coding barriers.",
+        "Responsive design system ensures websites adapt seamlessly across devices, enhancing user experience.",
+        "Figma integration enables designers to import designs directly into Dora, streamlining workflows.",
+        "3D object and scene import functionality creates immersive effects previously achievable only through coding.",
+        "Drag-and-connect constraint layout system makes building intuitive, responsive layouts effortless.",
+        "Free plan includes access to core features like SSL, instant publishing, and 120 free credits for site generation.",
+        "Customizable templates provide a starting point for portfolios, business sites, or personal blogs, tailored to user needs.",
+        "Advanced AI animation tools (in development) automate complex animations, reducing manual effort.",
+        "Flexible domain setups allow users to publish sites with a free dora.run domain or custom domains.",
+        "Community support through Discord offers resources and assistance for users to troubleshoot and collaborate."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dora AI used for?",
+            "answer": "Dora AI is used to create and publish 3D animated websites without coding, using AI-driven tools and natural language prompts to simplify web design."
+        },
+        {
+            "question": "Does Dora offer a free plan?",
+            "answer": "Yes, Dora provides a free plan with features like SSL, instant publishing, and 120 free credits for generating websites."
+        },
+        {
+            "question": "Can I import designs from Figma to Dora?",
+            "answer": "Yes, Dora supports seamless Figma integration, allowing designers to import their designs directly into the platform."
+        },
+        {
+            "question": "Do I need coding skills to use Dora?",
+            "answer": "No, Dora’s no-code platform is designed for users without coding skills, offering a visual canvas and AI tools for easy web design."
+        },
+        {
+            "question": "What types of websites can I create with Dora?",
+            "answer": "Dora supports creating various websites, including portfolios, business sites, and personal blogs, with customizable 3D animated templates."
+        },
+        {
+            "question": "Are Dora websites responsive?",
+            "answer": "Yes, Dora’s drag-and-connect constraint layout system ensures websites are fully responsive across all devices."
+        },
+        {
+            "question": "Can Dora generate 3D assets or animations?",
+            "answer": "AI-generated 3D assets and animations are in development and will be available in future versions of Dora AI."
+        },
+        {
+            "question": "How does the text-to-website feature work?",
+            "answer": "Users input natural language prompts, and Dora AI generates a fully editable website with coordinated images, text, and UI elements."
+        },
+        {
+            "question": "What support is available for Dora users?",
+            "answer": "Dora offers community support through a public Discord channel and resources for reporting bugs or requesting features."
+        }
+    ]
+}

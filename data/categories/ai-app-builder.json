@@ -1,0 +1,468 @@
+{
+    "title": "The Best 42 AI App Builder Tools in 2025",
+    "summary": "Unlock your creativity with our AI App Builder category, designed to empower users in crafting custom applications effortlessly. These innovative tools streamline the app development process, enabling you to create, test, and deploy applications without extensive coding knowledge. Benefit from enhanced efficiency, reduced costs, and rapid prototyping, all while harnessing the power of artificial intelligence. Whether you're a startup founder or a seasoned developer, our curated selection of AI app builders will help you turn your ideas into reality. Explore our tools today and start building the future!",
+    "tools": [
+        {
+            "id": "102",
+            "name": "Google AI Studio",
+            "slug": "google-ai-studio",
+            "description": "Google AI Studio is a browser-based IDE for prototyping and building AI applications with Google's Gemini models.",
+            "icon": "/logo/aistudio.google.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "132",
+            "name": "Lovable",
+            "slug": "lovable",
+            "description": "Lovable.dev is an AI-powered platform that enables users to build full-stack web applications using natural language prompts.",
+            "icon": "/logo/lovable.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Poe",
+            "slug": "poe",
+            "description": "Poe is a platform for interacting with multiple AI models and creating custom chatbots.",
+            "icon": "/logo/poe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "158",
+            "name": "Framer",
+            "slug": "framer",
+            "description": "Framer is a web design and prototyping tool for creating interactive, visually stunning websites and applications.",
+            "icon": "/logo/www.framer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "333",
+            "name": "Base44",
+            "slug": "base44",
+            "description": "Base44 is an AI-powered no-code platform that enables users to create fully functional web and mobile apps using natural language prompts.",
+            "icon": "/logo/base44.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "258",
+            "name": "Dify",
+            "slug": "dify",
+            "description": "Dify is an open-source platform for building and deploying AI-powered applications and workflows.",
+            "icon": "/logo/dify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "319",
+            "name": "Glide",
+            "slug": "glide",
+            "description": "Glide is a no-code platform that enables users to create custom, AI-powered business apps from spreadsheets without coding.",
+            "icon": "/logo/www.glideapps.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "402",
+            "name": "Uizard",
+            "slug": "uizard",
+            "description": "Uizard is an AI-powered design tool that simplifies UI/UX design, enabling users to create wireframes, mockups, and prototypes rapidly.",
+            "icon": "/logo/uizard.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "443",
+            "name": "Dippy AI",
+            "slug": "dippy-ai",
+            "description": "Dippy AI offers personalized AI companions for engaging chats, roleplay, and emotional support on mobile and web platforms.",
+            "icon": "/logo/www.dippy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "562",
+            "name": "Output",
+            "slug": "output",
+            "description": "Output provides innovative music creation tools and software for musicians and producers.",
+            "icon": "/logo/output.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "570",
+            "name": "Appy Pie",
+            "slug": "appy-pie",
+            "description": "Appy Pie is a no-code platform for creating mobile apps, websites, chatbots, and automating workflows with AI-driven tools.",
+            "icon": "/logo/www.appypie.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "625",
+            "name": "Create",
+            "slug": "create",
+            "description": "Create.xyz is an AI-powered platform that enables users to build custom web and mobile applications using natural language prompts.",
+            "icon": "/logo/www.create.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "638",
+            "name": "Tarteel AI",
+            "slug": "tarteel-ai",
+            "description": "Tarteel AI is an AI-powered Quran memorization app that provides real-time recitation feedback and progress tracking for Muslims worldwide.",
+            "icon": "/logo/www.tarteel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "799",
+            "name": "UI Bakery",
+            "slug": "ui-bakery",
+            "description": "UI Bakery is a low-code platform for building customizable internal tools and business apps with drag-and-drop functionality and API integrations.",
+            "icon": "/logo/uibakery.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "859",
+            "name": "DataButton",
+            "slug": "databutton",
+            "description": "DataButton is an AI-powered platform that enables users to build and deploy custom web apps using natural language prompts without extensive coding knowledge.",
+            "icon": "/logo/databutton.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "939",
+            "name": "Superwhisper",
+            "slug": "superwhisper",
+            "description": "Superwhisper is an AI-powered app for Mac that enables fast, offline voice-to-text transcription in any application to boost productivity.",
+            "icon": "/logo/superwhisper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "951",
+            "name": "Albato",
+            "slug": "albato",
+            "description": "Albato is an AI-driven no-code integration platform that connects apps and automates workflows without coding.",
+            "icon": "/logo/albato.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "972",
+            "name": "Relay",
+            "slug": "relay",
+            "description": "Relay.app is an AI-powered automation platform that combines human oversight with intelligent workflows to streamline business processes and boost productivity.",
+            "icon": "/logo/www.relay.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "995",
+            "name": "Thunderbit",
+            "slug": "thunderbit",
+            "description": "Thunderbit is a no-code platform that enables users to build and deploy AI-powered applications quickly and efficiently without requiring programming skills.",
+            "icon": "/logo/thunderbit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1047",
+            "name": "Bagel",
+            "slug": "bagel-ai",
+            "description": "Bagel.ai is a no-code platform empowering businesses to build, deploy, and manage custom AI models for data analysis and automation without requiring programming expertise.",
+            "icon": "/logo/bagel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1102",
+            "name": "BoltAI",
+            "slug": "boltai",
+            "description": "BoltAI is a native macOS application that provides instant access to various AI models like ChatGPT, enhancing productivity through seamless integration into daily workflows.",
+            "icon": "/logo/boltai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1158",
+            "name": "PartyRock",
+            "slug": "partyrock",
+            "description": "PartyRock is an AWS-powered generative AI playground that lets users build and share fun AI apps without coding.",
+            "icon": "/logo/partyrock.aws.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1208",
+            "name": "SmythOS",
+            "slug": "smythos",
+            "description": "SmythOS is an AI operating system that empowers users to visually build, deploy, and manage AI agents and workflows without extensive coding.",
+            "icon": "/logo/smythos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1227",
+            "name": "CopilotKit",
+            "slug": "copilotkit-ai",
+            "description": "CopilotKit is an agentic framework that enables developers to build AI copilots into applications, offering customizable UI components and support for various LLM and agent frameworks.",
+            "icon": "/logo/www.copilotkit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1230",
+            "name": "Airops",
+            "slug": "airops",
+            "description": "Airops is a no-code platform that enables users to build, deploy, and scale AI-powered applications and workflows effortlessly.",
+            "icon": "/logo/www.airops.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1232",
+            "name": "Tad.ai",
+            "slug": "tad-ai",
+            "description": "Tad.ai is an AI-powered platform providing intelligent assistance for daily tasks and productivity enhancement.",
+            "icon": "/logo/tad.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1261",
+            "name": "Rebolt",
+            "slug": "rebolt-ai",
+            "description": "Rebolt is an AI platform that enables users to build enterprise apps and agents through natural language conversations, integrated with company tools and data.",
+            "icon": "/logo/www.rebolt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1348",
+            "name": "Miniflow.ai",
+            "slug": "miniflow-ai",
+            "description": "Miniflow.ai is an AI-powered platform for building and automating workflows using no-code tools and intelligent agents.",
+            "icon": "/logo/miniflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1341",
+            "name": "Cobot",
+            "slug": "cobot",
+            "description": "Cobot is an AI-powered to-do app that automates tasks using integrated apps and workflows to boost productivity.",
+            "icon": "/logo/cobot.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1417",
+            "name": "Stakly",
+            "slug": "stakly",
+            "description": "Stakly is an AI-powered platform designed for developers to manage, optimize, and collaborate on technology stacks efficiently.",
+            "icon": "/logo/www.stakly.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1385",
+            "name": "RapidNative",
+            "slug": "rapidnative",
+            "description": "RapidNative is an AI-powered platform that enables rapid development of native mobile applications without extensive coding expertise.",
+            "icon": "/logo/www.rapidnative.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1379",
+            "name": "Veo4",
+            "slug": "veo4",
+            "description": "Veo4 is a developer-oriented platform providing AI-powered video generation tools for creating high-quality videos from text prompts.",
+            "icon": "/logo/veo4.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1355",
+            "name": "ChatVIA",
+            "slug": "chatvia-ai",
+            "description": "ChatVIA is an AI platform that enables users to create custom AI agents trained on their own data for providing instant, human-like support on websites and for businesses.",
+            "icon": "/logo/chatvia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1330",
+            "name": "Open Lovable",
+            "slug": "open-lovable",
+            "description": "Open Lovable is a free, open-source AI website builder that transforms any website into customizable React/Next.js applications in seconds.",
+            "icon": "/logo/open-lovable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1311",
+            "name": "Dabe",
+            "slug": "dabe",
+            "description": "Dabe is a no-code AI automation platform that streamlines tasks across 250+ apps using AI agents.",
+            "icon": "/logo/dabe.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1273",
+            "name": "Widgens",
+            "slug": "widgens",
+            "description": "Widgens is an AI-powered text-to-UI technology that transforms text prompts into interactive user interfaces and visual content for creation, browsing, and organization.",
+            "icon": "/logo/widgens.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1263",
+            "name": "Rewrait",
+            "slug": "rewrait",
+            "description": "Rewrait is an AI-powered writing assistant that offers context-aware rewriting, grammar checking, style improvements, multilingual support, and productivity tools as a superior alternative to Grammarly and QuillBot.",
+            "icon": "/logo/rewrait.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1444",
+            "name": "Make",
+            "slug": "make",
+            "description": "Make is a no-code automation platform that enables users to connect apps, automate workflows, and streamline business processes without coding expertise.",
+            "icon": "/logo/www.make.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "1440",
+            "name": "Airtable",
+            "slug": "airtable",
+            "description": "Airtable is an AI-native platform for building custom enterprise-grade applications, interfaces, automations, and agents from data without coding.",
+            "icon": "/logo/airtable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Bolt.new",
+            "slug": "bolt-new",
+            "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+            "icon": "/logo/bolt.new.webp",
+            "isFree": true,
+            "categories": [
+                "ai-app-builder"
+            ]
+        }
+    ]
+}

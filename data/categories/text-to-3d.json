@@ -1,0 +1,105 @@
+{
+    "title": "The Best 9 Text to 3D Tools in 2025",
+    "summary": "Unlock the future of creativity with our 'Text to 3D' category, where innovative AI tools transform your written ideas into stunning three-dimensional visuals. Perfect for designers, marketers, and content creators, these tools streamline the design process, enhance storytelling, and bring concepts to life with ease. Experience the power of turning text prompts into captivating 3D models, saving you time and boosting your productivity. Dive into our curated selection of cutting-edge solutions and elevate your projects today—explore the tools in this category now!",
+    "tools": [
+        {
+            "id": "43",
+            "name": "Leonardo.Ai",
+            "slug": "leonardo-ai",
+            "description": "Leonardo.Ai is an AI-driven platform for generating high-quality visual assets for creative projects.",
+            "icon": "/logo/leonardo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "213",
+            "name": "Luma AI",
+            "slug": "luma-ai",
+            "description": "Luma AI provides advanced AI tools for creating and manipulating 3D content and videos from text, images, or videos.",
+            "icon": "/logo/lumalabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "219",
+            "name": "Meshy",
+            "slug": "meshy",
+            "description": "Meshy is an AI-powered platform for creating high-quality 3D models and assets from text or images.",
+            "icon": "/logo/www.meshy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "266",
+            "name": "Mermaid Chart",
+            "slug": "mermaid-chart",
+            "description": "Mermaid Chart is a platform for creating and sharing interactive diagrams and flowcharts using text-based code.",
+            "icon": "/logo/www.mermaidchart.com.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "308",
+            "name": "Tripo3D",
+            "slug": "tripo3d",
+            "description": "Tripo3D is an AI-powered platform that transforms text prompts or images into high-quality 3D models for various creative and professional applications.",
+            "icon": "/logo/www.tripo3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Hyper3D",
+            "slug": "hyper3d",
+            "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+            "icon": "/logo/hyper3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "912",
+            "name": "Move AI",
+            "slug": "move-ai",
+            "description": "Move AI is a cutting-edge platform that leverages artificial intelligence for markerless motion capture, enabling creators to convert video footage into high-quality 3D animations without specialized hardware.",
+            "icon": "/logo/www.move.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "1081",
+            "name": "Common Sense Machines",
+            "slug": "common-sense-machines-ai",
+            "description": "CSM.ai is an AI platform that transforms 2D images or text into interactive 3D models and scenes for creative and professional use.",
+            "icon": "/logo/www.csm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        },
+        {
+            "id": "1414",
+            "name": "Genie 3 World",
+            "slug": "genie-3-world",
+            "description": "Genie 3 World offers a revolutionary platform for creating and interacting with immersive 3D virtual environments using text prompts, powered by DeepMind's advanced world model technology.",
+            "icon": "/logo/genie3world.com.webp",
+            "isFree": true,
+            "categories": [
+                "text-to-3d"
+            ]
+        }
+    ]
+}

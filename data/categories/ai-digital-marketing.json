@@ -1,0 +1,1106 @@
+{
+    "title": "The Best 100 AI Digital Marketing Tools in 2025",
+    "summary": "Unlock the potential of your marketing strategy with our AI Digital Marketing tools. Designed to enhance your campaigns, these innovative solutions streamline content creation, optimize ad targeting, and analyze consumer behavior, ensuring you stay ahead in a competitive landscape. Whether you're a small business or a seasoned marketer, our curated selection of AI tools will help you save time, boost engagement, and drive conversions. Explore our category now to discover how these cutting-edge technologies can transform your marketing efforts and elevate your brand!",
+    "tools": [
+        {
+            "id": "1",
+            "name": "ChatGPT",
+            "slug": "chatgpt",
+            "description": "ChatGPT is an AI-powered chatbot platform designed to provide human-like conversational responses and assist with various tasks.",
+            "icon": "/logo/chatgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "131",
+            "name": "Sora",
+            "slug": "sora",
+            "description": "Sora transforms text and images into immersive AI-generated videos for creative storytelling and visualization.",
+            "icon": "/logo/sora.chatgpt.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "CapCut",
+            "slug": "capcut",
+            "description": "CapCut is an AI-powered platform for easy video editing and graphic design across multiple devices.",
+            "icon": "/logo/capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "HubSpot",
+            "slug": "hubspot",
+            "description": "HubSpot provides an AI-powered CRM platform to streamline marketing, sales, and customer service for business growth.",
+            "icon": "/logo/hubspot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Mailchimp",
+            "slug": "mailchimp",
+            "description": "Mailchimp is an all-in-one marketing platform specializing in email marketing, automation, and analytics to help businesses engage customers and drive growth.",
+            "icon": "/logo/mailchimp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Cutout.Pro",
+            "slug": "cutout-pro",
+            "description": "Cutout.Pro is an AI-powered platform for automated photo and video editing, specializing in background removal and visual content creation.",
+            "icon": "/logo/cutout.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "135",
+            "name": "123RF",
+            "slug": "123rf",
+            "description": "123RF is a royalty-free stock photography platform offering millions of images, vectors, videos, and audio for creative projects.",
+            "icon": "/logo/www.123rf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "137",
+            "name": "Clipto",
+            "slug": "clipto",
+            "description": "Clipto is an AI-powered platform for transcription, video editing, and digital asset management, designed to streamline content creation.",
+            "icon": "/logo/www.clipto.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "143",
+            "name": "Krea AI",
+            "slug": "krea-ai",
+            "description": "Krea AI is a platform for generating and editing images and videos using advanced AI tools.",
+            "icon": "/logo/www.krea.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Vidnoz",
+            "slug": "vidnoz",
+            "description": "Vidnoz is an AI-powered platform for creating professional videos quickly using avatars, templates, and voiceovers.",
+            "icon": "/logo/vidnoz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "149",
+            "name": "Pollo AI",
+            "slug": "pollo-ai",
+            "description": "Pollo AI is a platform offering advanced AI-powered video generation and editing tools for creating professional-grade content.",
+            "icon": "/logo/pollo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "Pica AI",
+            "slug": "pica-ai",
+            "description": "Pica AI provides AI-powered tools for creating and editing images, videos, and avatars with advanced customization options.",
+            "icon": "/logo/www.pica-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "151",
+            "name": "Klaviyo",
+            "slug": "klaviyo",
+            "description": "Klaviyo is a marketing automation platform that empowers businesses to create personalized email and SMS campaigns.",
+            "icon": "/logo/www.klaviyo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "153",
+            "name": "Opus Pro",
+            "slug": "opus-pro",
+            "description": "Opus Pro is an AI-powered video editing platform designed to streamline content creation for creators and businesses.",
+            "icon": "/logo/www.opus.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "162",
+            "name": "Voicemod",
+            "slug": "voicemod",
+            "description": "Voicemod is a real-time voice changer and soundboard software for gamers, content creators, and communication platforms.",
+            "icon": "/logo/www.voicemod.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "163",
+            "name": "Undetectable AI",
+            "slug": "undetectable-ai",
+            "description": "Undetectable AI provides tools to create and detect AI-generated content while ensuring it appears human-written.",
+            "icon": "/logo/undetectable.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "164",
+            "name": "GoBranded",
+            "slug": "gobranded",
+            "description": "GoBranded provides AI-powered branding and marketing solutions to help businesses create and manage their brand identity.",
+            "icon": "/logo/gobranded.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "Intercom",
+            "slug": "intercom",
+            "description": "Intercom provides a customer messaging platform to enhance business communication and engagement.",
+            "icon": "/logo/www.intercom.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "179",
+            "name": "WatermarkRemover.io",
+            "slug": "watermarkremover-io",
+            "description": "WatermarkRemover.io is an online tool that uses AI to remove watermarks from images and videos, offering a user-friendly solution for content creators.",
+            "icon": "/logo/www.watermarkremover.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "183",
+            "name": "Vidu",
+            "slug": "vidu",
+            "description": "Vidu is an AI-powered platform for generating high-quality videos and animations from text prompts or images.",
+            "icon": "/logo/www.vidu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "185",
+            "name": "Viggle AI",
+            "slug": "viggle-ai",
+            "description": "Viggle AI is an AI-powered platform for creating and editing animated videos from text prompts or images.",
+            "icon": "/logo/viggle.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "186",
+            "name": "Upscale.media",
+            "slug": "upscale-media",
+            "description": "Upscale.media is an AI-powered platform that enhances and upscales images to improve their quality and resolution.",
+            "icon": "/logo/www.upscale.media.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "197",
+            "name": "Udio",
+            "slug": "udio",
+            "description": "Udio is an AI-powered platform for creating high-quality, royalty-free music tailored to user preferences.",
+            "icon": "/logo/www.udio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "204",
+            "name": "iFoto",
+            "slug": "ifoto",
+            "description": "iFoto is an AI-powered platform for enhancing and editing photos for personal and e-commerce use.",
+            "icon": "/logo/www.ifoto.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "Luvvoice",
+            "slug": "luvvoice",
+            "description": "Luvvoice provides AI-powered text-to-speech and voice cloning for creating realistic audio content.",
+            "icon": "/logo/luvvoice.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "209",
+            "name": "FlexClip",
+            "slug": "flexclip",
+            "description": "FlexClip is an online video editing platform that enables users to create professional-quality videos with ease.",
+            "icon": "/logo/www.flexclip.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "212",
+            "name": "Pictory",
+            "slug": "pictory",
+            "description": "Pictory.ai transforms text, videos, and audio into engaging, professional-quality videos using AI-driven tools.",
+            "icon": "/logo/pictory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "218",
+            "name": "Synthesia",
+            "slug": "synthesia",
+            "description": "Synthesia is an AI-powered platform for creating professional videos from text in minutes.",
+            "icon": "/logo/www.synthesia.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "220",
+            "name": "Insmind",
+            "slug": "insmind",
+            "description": "Insmind is an AI-powered platform for creating and editing images, offering tools for design, photo enhancement, and background removal.",
+            "icon": "/logo/www.insmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "221",
+            "name": "VMake",
+            "slug": "vmake",
+            "description": "VMake provides AI-powered tools for creating and editing professional-grade images and videos for e-commerce and marketing.",
+            "icon": "/logo/vmake.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "225",
+            "name": "PlayHT",
+            "slug": "playht",
+            "description": "PlayHT is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/play.ht.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "227",
+            "name": "Magic Hour",
+            "slug": "magic-hour",
+            "description": "Magic Hour is an AI-powered platform for creating and editing professional-quality videos with ease.",
+            "icon": "/logo/magichour.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "TTSMaker",
+            "slug": "ttsmaker",
+            "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+            "icon": "/logo/ttsmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "232",
+            "name": "Mureka",
+            "slug": "mureka",
+            "description": "Mureka is an AI-powered platform for creating and managing music and audio content.",
+            "icon": "/logo/www.mureka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "233",
+            "name": "StealthWriter",
+            "slug": "stealthwriter",
+            "description": "StealthWriter.ai is an AI-powered tool designed to humanize AI-generated text and make it undetectable by AI detection tools.",
+            "icon": "/logo/stealthwriter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "245",
+            "name": "Animaker",
+            "slug": "animaker",
+            "description": "Animaker is a cloud-based platform for creating animated videos and presentations with easy-to-use templates and AI-powered tools.",
+            "icon": "/logo/www.animaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "250",
+            "name": "LANDR",
+            "slug": "landr",
+            "description": "LANDR provides AI-driven music production tools and services for creators to master, distribute, and promote their music.",
+            "icon": "/logo/www.landr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "251",
+            "name": "Fliki",
+            "slug": "fliki",
+            "description": "Fliki is an AI-powered platform that transforms text into engaging videos and audio content with realistic voiceovers.",
+            "icon": "/logo/fliki.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "255",
+            "name": "Clickworker",
+            "slug": "clickworker",
+            "description": "Clickworker is a crowdsourcing platform that connects businesses with freelancers for tasks like data entry, content creation, and AI training data.",
+            "icon": "/logo/www.clickworker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "261",
+            "name": "Captions",
+            "slug": "captions",
+            "description": "Captions is an AI-powered platform for creating, editing, and enhancing videos with automated subtitles, translations, and visual effects.",
+            "icon": "/logo/www.captions.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "268",
+            "name": "Clipfly",
+            "slug": "clipfly",
+            "description": "Clipfly is an AI-powered platform for creating and editing videos effortlessly.",
+            "icon": "/logo/www.clipfly.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "ScreenApp",
+            "slug": "screenapp",
+            "description": "ScreenApp is a versatile screen recording and video editing platform designed to simplify content creation and collaboration.",
+            "icon": "/logo/screenapp.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "291",
+            "name": "Stable Diffusion Online",
+            "slug": "stable-diffusion-online",
+            "description": "Stable Diffusion Online is a user-friendly platform for generating high-quality AI images from text prompts using the Stable Diffusion XL model.",
+            "icon": "/logo/stablediffusionweb.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "295",
+            "name": "WriteHuman",
+            "slug": "writehuman",
+            "description": "WriteHuman transforms AI-generated text into authentic, human-like content that bypasses AI detection tools.",
+            "icon": "/logo/writehuman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "296",
+            "name": "Erase.bg",
+            "slug": "erase-bg",
+            "description": "Erase.bg is an AI-powered tool that removes image backgrounds quickly and offers editing features for professional results.",
+            "icon": "/logo/www.erase.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "303",
+            "name": "Chad AI",
+            "slug": "chad-ai",
+            "description": "Chad AI provides a Russian-language AI chatbot powered by advanced neural networks for text, code, and image generation without VPN or registration.",
+            "icon": "/logo/chadgpt.ru.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "310",
+            "name": "Seismic",
+            "slug": "seismic",
+            "description": "Seismic provides an AI-powered sales enablement platform to enhance customer engagement and drive revenue growth for go-to-market teams.",
+            "icon": "/logo/www.seismic.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "315",
+            "name": "Humanize AI",
+            "slug": "humanize-ai",
+            "description": "Humanize AI converts AI-generated text into natural, human-like content to bypass AI detection and enhance readability.",
+            "icon": "/logo/www.humanizeai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "317",
+            "name": "Easy-Peasy.AI",
+            "slug": "easy-peasy-ai",
+            "description": "Easy-Peasy.AI is an all-in-one AI platform for creating content, images, audio, and transcriptions efficiently.",
+            "icon": "/logo/easy-peasy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "ClipDrop",
+            "slug": "clipdrop",
+            "description": "ClipDrop is an AI-powered platform for editing and creating professional-grade visuals with ease.",
+            "icon": "/logo/clipdrop.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "AIPRM",
+            "slug": "aiprm",
+            "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+            "icon": "/logo/www.aiprm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "327",
+            "name": "AI Studios",
+            "slug": "ai-studios",
+            "description": "AI Studios is an AI-powered video generation platform that transforms text into professional videos with realistic avatars and multilingual voiceovers.",
+            "icon": "/logo/www.aistudios.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "336",
+            "name": "ImageKit",
+            "slug": "imagekit",
+            "description": "ImageKit.io provides real-time image and video optimization, transformation, and delivery solutions for websites and apps.",
+            "icon": "/logo/imagekit.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "339",
+            "name": "Submagic",
+            "slug": "submagic",
+            "description": "Submagic is an AI-powered platform that creates captivating short-form videos with dynamic captions, B-rolls, and smart edits to boost social media engagement.",
+            "icon": "/logo/www.submagic.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "342",
+            "name": "PopAi",
+            "slug": "popai",
+            "description": "PopAi is an AI-powered tool designed to enhance productivity through document interaction, presentation creation, and image generation.",
+            "icon": "/logo/www.popai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "344",
+            "name": "Crisp",
+            "slug": "crisp",
+            "description": "Crisp is an all-in-one customer messaging platform designed to enhance business communication through live chat, chatbots, and CRM integration.",
+            "icon": "/logo/crisp.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "347",
+            "name": "Murf AI",
+            "slug": "murf-ai",
+            "description": "Murf AI is an AI-powered text-to-speech platform that creates realistic voiceovers for various content needs.",
+            "icon": "/logo/murf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "350",
+            "name": "Voicemaker",
+            "slug": "voicemaker",
+            "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+            "icon": "/logo/voicemaker.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "351",
+            "name": "Humbot",
+            "slug": "humbot",
+            "description": "Humbot is an AI-powered platform that humanizes AI-generated text to bypass detection and enhance readability.",
+            "icon": "/logo/humbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "355",
+            "name": "Photofeeler",
+            "slug": "photofeeler",
+            "description": "Photofeeler provides anonymous feedback to optimize profile photos for business, social, and dating purposes.",
+            "icon": "/logo/www.photofeeler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "365",
+            "name": "Kaiber",
+            "slug": "kaiber",
+            "description": "Kaiber is an AI-powered creative platform for generating stunning videos, animations, and visuals from text, images, or audio inputs.",
+            "icon": "/logo/www.kaiber.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "375",
+            "name": "Unscreen",
+            "slug": "unscreen",
+            "description": "Unscreen is an AI-powered tool that automatically removes backgrounds from videos and GIFs for seamless editing.",
+            "icon": "/logo/www.unscreen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "378",
+            "name": "FakeYou",
+            "slug": "fakeyou",
+            "description": "FakeYou is an AI-powered platform that generates realistic text-to-speech audio and voice conversions using celebrity and character voices.",
+            "icon": "/logo/fakeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "386",
+            "name": "HypeAuditor",
+            "slug": "hypeauditor",
+            "description": "HypeAuditor is an AI-powered influencer marketing platform that helps brands and agencies discover, analyze, and manage influencer campaigns across major social media platforms.",
+            "icon": "/logo/hypeauditor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "388",
+            "name": "Typecast",
+            "slug": "typecast",
+            "description": "Typecast is an AI voice generator that transforms text into realistic, emotion-driven speech and creates engaging video content with virtual avatars.",
+            "icon": "/logo/typecast.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "395",
+            "name": "Flick",
+            "slug": "flick",
+            "description": "Flick is an AI-powered social media marketing platform designed to help creators, brands, and marketers grow and manage their social media presence.",
+            "icon": "/logo/www.flick.social.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "397",
+            "name": "Easy With AI",
+            "slug": "easy-with-ai",
+            "description": "Easy With AI is a comprehensive directory of AI tools and resources to help users discover and utilize AI solutions across various industries.",
+            "icon": "/logo/easywithai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "398",
+            "name": "StockCake",
+            "slug": "stockcake",
+            "description": "StockCake provides a vast library of high-quality, AI-generated stock photos for free commercial and personal use.",
+            "icon": "/logo/stockcake.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "Copy.ai",
+            "slug": "copy-ai",
+            "description": "Copy.ai is an AI-powered platform designed to streamline content creation and enhance go-to-market strategies for businesses.",
+            "icon": "/logo/www.copy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1293",
+            "name": "AI Pro",
+            "slug": "ai-pro",
+            "description": "AI Pro is an AI-powered platform designed to generate high-quality, SEO-optimized articles and content for bloggers, marketers, and businesses.",
+            "icon": "/logo/ai-pro.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "404",
+            "name": "Algolia",
+            "slug": "algolia",
+            "description": "Algolia provides an AI-powered search and discovery platform to deliver fast, relevant digital experiences for websites and apps.",
+            "icon": "/logo/www.algolia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "406",
+            "name": "ZeroGPT Plus",
+            "slug": "zerogpt-plus",
+            "description": "ZeroGPT Plus offers a free AI content detector and humanizer to identify and refine AI-generated text from models like ChatGPT, GPT-4, Gemini, and Claude.",
+            "icon": "/logo/www.zerogpt.plus.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "407",
+            "name": "Topview AI",
+            "slug": "topview-ai",
+            "description": "Topview AI is an AI-powered video editor that transforms links or media assets into viral marketing videos with one click.",
+            "icon": "/logo/www.topview.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "409",
+            "name": "AIChatting",
+            "slug": "aichatting",
+            "description": "AIChatting is a free online platform for engaging with AI chatbots and generating text content.",
+            "icon": "/logo/www.aichatting.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "410",
+            "name": "Phot.AI",
+            "slug": "phot-ai",
+            "description": "Phot.AI is an AI-powered platform for seamless photo editing and visual design, catering to e-commerce, content creators, and professionals.",
+            "icon": "/logo/www.phot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "415",
+            "name": "Mage",
+            "slug": "mage",
+            "description": "Mage is an AI-powered platform for generating high-quality images and videos from text prompts using Stable Diffusion models.",
+            "icon": "/logo/www.mage.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "419",
+            "name": "GlobalGPT",
+            "slug": "globalgpt",
+            "description": "GlobalGPT is an all-in-one AI platform offering access to multiple AI models for content creation, coding, and research.",
+            "icon": "/logo/www.glbgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "422",
+            "name": "GPTOnline.ai",
+            "slug": "gptonline-ai",
+            "description": "GPTOnline.ai provides free access to ChatGPT technology for AI-powered conversations, translations, and knowledge retrieval without registration.",
+            "icon": "/logo/gptonline.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "532",
+            "name": "MyQRcode",
+            "slug": "myqrcode",
+            "description": "MyQRcode is a platform for creating customizable QR codes for businesses, events, and personal use with AI-driven design options.",
+            "icon": "/logo/myqrcode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "663",
+            "name": "Gupshup",
+            "slug": "gupshup",
+            "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+            "icon": "/logo/www.gupshup.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "777",
+            "name": "Elai.io",
+            "slug": "elai-io",
+            "description": "Elai.io is an AI-powered platform that transforms text into high-quality, interactive video content with digital human presenters.",
+            "icon": "/logo/elai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "823",
+            "name": "Mailmodo",
+            "slug": "mailmodo",
+            "description": "Mailmodo is an email marketing platform that enables businesses to create and send interactive, app-like emails to boost engagement and conversions.",
+            "icon": "/logo/www.mailmodo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "870",
+            "name": "AI Video Generator",
+            "slug": "ai-video-generator",
+            "description": "AI Video Generator is an online platform that uses artificial intelligence to create videos from text prompts, images, or other inputs, making video production accessible and efficient.",
+            "icon": "/logo/aivideogenerator.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "917",
+            "name": "SEO Writing AI",
+            "slug": "seo-writing-ai",
+            "description": "SEO Writing AI is an AI-driven platform that automates the creation of SEO-optimized content for blogs, articles, and marketing purposes.",
+            "icon": "/logo/seowriting.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "964",
+            "name": "SurgeGraph",
+            "slug": "surgegraph",
+            "description": "SurgeGraph is an AI-powered SEO content platform that enables users to generate, optimize, and publish high-performing content for better search engine rankings.",
+            "icon": "/logo/surgegraph.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "989",
+            "name": "Upgrow",
+            "slug": "upgrow",
+            "description": "Upgrow is an AI-powered platform that helps businesses and influencers grow their Instagram presence organically by attracting real, targeted followers.",
+            "icon": "/logo/www.upgrow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1022",
+            "name": "AI Carousels",
+            "slug": "ai-carousels",
+            "description": "AI Carousels is an AI-powered platform designed to help users create engaging carousel posts for social media quickly and effortlessly.",
+            "icon": "/logo/www.aicarousels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "59",
+            "name": "Fams.ai",
+            "slug": "fams-ai",
+            "description": "Fams.ai is a user-driven platform for creating and roleplaying with AI characters, offering engaging and diverse content creation experiences.",
+            "icon": "/logo/fams.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1169",
+            "name": "Koala",
+            "slug": "koala",
+            "description": "Koala is an AI-powered platform providing tools for generating SEO-optimized content and interactive chat experiences to streamline writing and communication tasks.",
+            "icon": "/logo/koala.sh.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1231",
+            "name": "Clearscope",
+            "slug": "clearscope",
+            "description": "Clearscope is an AI-powered SEO content optimization platform that helps users create and refine content to improve search engine rankings through data-driven insights.",
+            "icon": "/logo/www.clearscope.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "The SMS City",
+            "slug": "the-sms-city",
+            "description": "The SMS City provides automated WhatsApp and SMS solutions for businesses, offering tools like e-commerce integrations, AI-powered chatbots, and marketing campaigns to enhance customer engagement and boost sales.",
+            "icon": "/logo/thesmscity.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1378",
+            "name": "Cheers",
+            "slug": "cheers",
+            "description": "Cheers.tech is an AI-powered platform that attributes customer feedback, reviews, and interactions to individual frontline employees, providing managers with actionable insights to improve brand performance.",
+            "icon": "/logo/www.cheers.tech.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "1249",
+            "name": "WAN S2V",
+            "slug": "wan-s2v",
+            "description": "WAN S2V is an AI-driven platform specializing in speech-to-video conversion, enabling users to create animated videos from audio inputs.",
+            "icon": "/logo/wan-s2v.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Doubao",
+            "slug": "doubao",
+            "description": "Doubao is an AI-powered conversational assistant platform by ByteDance, offering multimodal solutions for text, image, and audio tasks.",
+            "icon": "/logo/doubao.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Publer",
+            "slug": "publer",
+            "description": "Publer is a social media management platform that streamlines scheduling, publishing, and analyzing posts across multiple social networks.",
+            "icon": "/logo/publer.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Chatbot App",
+            "slug": "chatbot-app",
+            "description": "Chatbot App provides an AI-powered platform for seamless chatting, productivity tools, and creative solutions.",
+            "icon": "/logo/chatbotapp.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "94",
+            "name": "PixVerse",
+            "slug": "pixverse",
+            "description": "PixVerse is an AI-powered platform that transforms text and images into stunning, high-quality videos for creators and businesses.",
+            "icon": "/logo/pixverse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        },
+        {
+            "id": "127",
+            "name": "Pippit AI",
+            "slug": "pippit-ai",
+            "description": "Pippit AI is an AI-powered platform for creating and managing marketing videos, images, and avatars for e-commerce and social media.",
+            "icon": "/logo/pippit.capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-digital-marketing"
+            ]
+        }
+    ]
+}

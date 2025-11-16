@@ -1,0 +1,138 @@
+{
+    "title": "The Best 12 AI Report Writing Tools in 2025",
+    "summary": "Unlock the power of AI Report Writing tools to streamline your documentation process and enhance your productivity. These innovative solutions help you generate clear, concise, and well-structured reports in a fraction of the time, allowing you to focus on analysis and insights. Whether you're a student, professional, or researcher, these tools cater to your unique needs, ensuring accuracy and efficiency. Explore our curated selection of AI Report Writing tools today and transform the way you create reports—effortlessly and effectively!",
+    "tools": [
+        {
+            "id": "533",
+            "name": "Jam",
+            "slug": "jam",
+            "description": "Jam is a browser extension that streamlines bug reporting by capturing technical details and replays for developers.",
+            "icon": "/logo/jam.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "670",
+            "name": "Dovetail",
+            "slug": "dovetail",
+            "description": "Dovetail is a customer insights hub that transforms research data into actionable insights for teams and businesses.",
+            "icon": "/logo/dovetail.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "831",
+            "name": "Datarails",
+            "slug": "datarails",
+            "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+            "icon": "/logo/www.datarails.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1057",
+            "name": "Rize",
+            "slug": "rize",
+            "description": "Rize is an AI-powered time tracking tool that automatically monitors and analyzes your work habits to improve productivity and prevent burnout.",
+            "icon": "/logo/rize.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1333",
+            "name": "ExcelDashboard.ai",
+            "slug": "exceldashboard-ai",
+            "description": "ExcelDashboard.ai is an AI-powered platform that simplifies the creation and management of interactive data dashboards within Microsoft Excel.",
+            "icon": "/logo/www.exceldashboard.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1427",
+            "name": "Radal AI",
+            "slug": "radal-ai",
+            "description": "Radal.ai is an AI-driven platform focused on advanced data analysis and research tools to empower users with insightful decision-making.",
+            "icon": "/logo/radal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1304",
+            "name": "Psynth",
+            "slug": "psynth-ai",
+            "description": "Psynth is an AI-powered software that transforms patient test results, intake data, and clinical observations into accurate, top-quality diagnostic reports for psychologists in minutes.",
+            "icon": "/logo/www.psynth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1437",
+            "name": "Asana",
+            "slug": "asana",
+            "description": "Asana is a collaborative work management platform that helps teams organize tasks, track projects, and achieve goals efficiently.",
+            "icon": "/logo/asana.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        },
+        {
+            "id": "1447",
+            "name": "Linear",
+            "slug": "linear",
+            "description": "Linear is a modern project management and issue tracking platform designed for high-performance software teams to plan, track, and deliver products efficiently.",
+            "icon": "/logo/linear.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-report-writing"
+            ]
+        }
+    ]
+}

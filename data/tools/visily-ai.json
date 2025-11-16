@@ -1,0 +1,63 @@
+{
+    "name": "Visily",
+    "description": "Visily is an AI-powered UI design platform for creating high-fidelity wireframes and prototypes quickly, tailored for non-designers and teams.",
+    "longDescription": "Visily is an AI-driven web-based platform designed to simplify and accelerate the creation of user interface wireframes and prototypes, making UI/UX design accessible to non-designers and professionals alike. Its mission is to empower teams, including product managers, developers, and entrepreneurs, to visualize and iterate on app and website designs without requiring extensive design skills. By leveraging advanced AI features, Visily transforms text prompts, screenshots, or hand-drawn sketches into fully editable, high-fidelity designs in minutes. The platform supports real-time collaboration, enabling teams to brainstorm, edit, and refine designs together seamlessly. Visily addresses the challenge of time-consuming design processes by offering intuitive tools and a vast library of customizable templates, reducing the learning curve and enhancing productivity.",
+    "url": "https://www.visily.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.visily.ai.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "visily-ai",
+    "categories": [
+        "AI Design Assistant",
+        "AI Design Generator",
+        "AI Project Management",
+        "AI Document Extraction",
+        "AI Diagram Generator"
+    ],
+    "features": [
+        "Text to Design AI generates fully editable UI designs from simple text prompts, enabling rapid prototyping without design expertise.",
+        "Screenshot to Design AI converts app or website screenshots into customizable wireframes, streamlining the redesign process.",
+        "Sketch to Design AI transforms hand-drawn sketches into professional digital designs, ideal for quick ideation.",
+        "Magic Theme allows users to switch between wireframe and high-fidelity designs with one click, enhancing design flexibility.",
+        "Structured Data Fill automatically populates tables with organized content, saving time on data input tasks.",
+        "Magic Image finds similar images for design boards, ensuring visual consistency across projects.",
+        "Real-time co-designing enables teams to collaborate simultaneously on projects, boosting productivity and feedback loops.",
+        "Extensive template library with over 1,500 customizable templates accelerates the design process for websites and apps.",
+        "Flowchart and wireflow tools allow users to create and iterate UX flows quickly, improving design planning.",
+        "Figma export feature converts Visily designs to Figma, maintaining structure for seamless integration with other tools."
+    ],
+    "faqs": [
+        {
+            "question": "What is Visily used for?",
+            "answer": "Visily is used for creating high-fidelity UI wireframes and prototypes for apps and websites, enabling rapid ideation and collaboration for teams and non-designers."
+        },
+        {
+            "question": "Is there a free plan available for Visily?",
+            "answer": "Yes, Visily offers a free Starter plan with access to basic features, limited AI credits, and templates, suitable for individual or small-scale projects."
+        },
+        {
+            "question": "Can Visily convert sketches into digital designs?",
+            "answer": "Yes, Visily's Sketch to Design AI transforms hand-drawn sketches into editable wireframes, making it easy to digitize rough ideas."
+        },
+        {
+            "question": "Does Visily support team collaboration?",
+            "answer": "Visily enables real-time co-designing, allowing team members to edit, comment, and brainstorm on projects simultaneously."
+        },
+        {
+            "question": "Can I export my Visily designs to other tools?",
+            "answer": "Yes, Visily supports exporting designs to Figma, PDF, JPG, and PNG, ensuring compatibility with other workflows."
+        },
+        {
+            "question": "Is Visily suitable for non-designers?",
+            "answer": "Absolutely, Visily��s intuitive interface and AI-driven features make it accessible for non-designers to create professional UI designs."
+        },
+        {
+            "question": "How does Visily��s AI improve the design process?",
+            "answer": "Visily��s AI automates tasks like converting screenshots or text into designs, reducing manual effort and speeding up prototyping."
+        },
+        {
+            "question": "What types of templates does Visily offer?",
+            "answer": "Visily provides over 1,500 customizable templates for websites, mobile apps, flowcharts, and UI components to streamline design creation."
+        }
+    ]
+}

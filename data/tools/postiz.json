@@ -1,0 +1,64 @@
+{
+    "name": "Postiz",
+    "description": "Postiz is an open-source social media management tool that enables users to schedule posts, generate AI-assisted content, create visuals, and analyze performance across multiple platforms to grow their audience and business.",
+    "longDescription": "Postiz is an all-in-one, open-source social media management platform designed to simplify the creation, scheduling, and optimization of content across diverse networks. Its mission is to empower creators, businesses, and agencies by providing efficient, privacy-focused tools that enhance productivity and engagement without the fragmentation of multiple apps. Users benefit from AI-driven features that automate content generation and visual design, solving common pain points like time-consuming manual posting and inconsistent branding. By supporting over 20 platforms including Instagram, X, LinkedIn, and TikTok, Postiz centralizes workflows and enables data-driven strategies for audience growth and lead capture. As a self-hostable solution, it prioritizes user control and customization, making it accessible for individuals and teams alike. Ultimately, Postiz transforms social media management into a streamlined process that drives business success.",
+    "url": "https://postiz.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/postiz.com.webp",
+    "category": "AI Social Media",
+    "categorySlug": "ai-social-media",
+    "slug": "postiz",
+    "categories": [
+        "AI Social Media",
+        "AI Writing",
+        "AI Image Generator",
+        "AI Scheduling",
+        "AI Productivity Tools",
+        "Open Source AI Models",
+        "AI Social Media Post Generator",
+        "AI Marketing"
+    ],
+    "features": [
+        "Seamless Scheduling allows users to plan, automate, and cross-post content to multiple social platforms simultaneously, ensuring consistent presence and saving significant time.",
+        "The AI Content Assistant generates engaging captions, posts, and ideas tailored to user needs, accelerating the creative process and improving content relevance for better engagement.",
+        "AI Image Design offers a user-friendly, Canva-like interface powered by AI to create and edit custom visuals, enhancing the aesthetic quality of social media assets without design expertise.",
+        "Teamwork Organization facilitates collaboration by enabling task assignment, channel management, and shared access, streamlining workflows for agencies and business teams.",
+        "Auto Actions automates interactions such as liking, commenting, and posting based on triggers or milestones, boosting audience engagement and reach organically.",
+        "Comprehensive Analytics provides detailed insights into post performance, audience demographics, and trends, empowering users to refine strategies and measure ROI effectively.",
+        "Multi-Platform Support integrates with over 20 networks like Instagram, X, LinkedIn, TikTok, Discord, and Mastodon, centralizing management to reduce tool-switching.",
+        "Self-Hosting Capabilities allow users to deploy Postiz on their own servers, ensuring data privacy, full customization, and no dependency on third-party hosting."
+    ],
+    "faqs": [
+        {
+            "question": "What is Postiz?",
+            "answer": "Postiz is an open-source social media management tool that helps users schedule posts, create AI-assisted content, and analyze performance across multiple platforms. It is designed for creators, businesses, and agencies to streamline their social media workflows."
+        },
+        {
+            "question": "Is Postiz free to use?",
+            "answer": "Yes, Postiz is completely free as an open-source project, allowing self-hosting without any costs. While hosted versions may offer premium features, the core functionality is accessible at no charge."
+        },
+        {
+            "question": "Which social media platforms does Postiz support?",
+            "answer": "Postiz supports over 20 platforms, including Instagram, X (formerly Twitter), LinkedIn, Facebook, TikTok, YouTube, Discord, Bluesky, Mastodon, Pinterest, Threads, Reddit, and more, enabling comprehensive cross-posting."
+        },
+        {
+            "question": "Does Postiz include AI features?",
+            "answer": "Yes, it features an AI Content Assistant for generating text-based content and an AI Image Design tool for creating visuals, both of which enhance creativity and efficiency in social media management."
+        },
+        {
+            "question": "Can teams collaborate on Postiz?",
+            "answer": "Absolutely, Postiz offers teamwork organization tools for assigning tasks, managing multiple channels, and sharing access, making it ideal for agencies and business teams to work together seamlessly."
+        },
+        {
+            "question": "What are Auto Actions in Postiz?",
+            "answer": "Auto Actions automate routine tasks like liking, commenting, or posting based on predefined rules or milestones, helping to increase engagement and save time on manual interactions."
+        },
+        {
+            "question": "How does Postiz handle analytics?",
+            "answer": "Postiz provides comprehensive analytics to track metrics such as reach, engagement, and audience growth, allowing users to gain actionable insights and optimize their content strategies."
+        },
+        {
+            "question": "Is Postiz self-hostable?",
+            "answer": "Yes, as an open-source tool available on GitHub, Postiz can be self-hosted on your own server, providing full control over data and customization options for privacy-conscious users."
+        }
+    ]
+}

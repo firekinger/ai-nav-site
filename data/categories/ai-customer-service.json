@@ -1,0 +1,798 @@
+{
+    "title": "The Best 72 AI Customer Service Tools in 2025",
+    "summary": "Discover the transformative power of AI Customer Service tools designed to enhance your business's customer interactions. These innovative solutions streamline support processes, improve response times, and elevate customer satisfaction, all while reducing operational costs. Whether you're looking to implement chatbots, virtual assistants, or automated ticketing systems, our curated selection offers the perfect tools to meet your needs. Explore the future of customer engagement and unlock the potential of AI to drive your success. Dive into our AI Customer Service category today and find the right solution for your business!",
+    "tools": [
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "114",
+            "name": "Jotform",
+            "slug": "jotform",
+            "description": "Jotform is an online form builder that simplifies data collection, automation, and payment processing for businesses and individuals.",
+            "icon": "/logo/www.jotform.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "HubSpot",
+            "slug": "hubspot",
+            "description": "HubSpot provides an AI-powered CRM platform to streamline marketing, sales, and customer service for business growth.",
+            "icon": "/logo/hubspot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "140",
+            "name": "tawk.to",
+            "slug": "tawk-to",
+            "description": "tawk.to provides a free live chat platform to help businesses engage with website visitors in real time.",
+            "icon": "/logo/www.tawk.to.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "68",
+            "name": "Talkie AI",
+            "slug": "talkie-ai",
+            "description": "Talkie AI is a platform for creating and interacting with customizable AI characters for immersive chat experiences.",
+            "icon": "/logo/talkie-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "Intercom",
+            "slug": "intercom",
+            "description": "Intercom provides a customer messaging platform to enhance business communication and engagement.",
+            "icon": "/logo/www.intercom.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "167",
+            "name": "Abacus.AI",
+            "slug": "abacus-ai",
+            "description": "Abacus.AI provides enterprise-grade AI solutions for building and deploying custom machine learning models.",
+            "icon": "/logo/abacus.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "YesChat",
+            "slug": "yeschat",
+            "description": "YesChat.ai provides a platform for interacting with advanced AI chatbots to assist with various tasks and queries.",
+            "icon": "/logo/www.yeschat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "189",
+            "name": "Gizmo AI",
+            "slug": "gizmo-ai",
+            "description": "Gizmo AI provides a platform for creating and managing AI-powered chatbots to enhance user engagement and automate tasks.",
+            "icon": "/logo/gizmo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "191",
+            "name": "Chaport",
+            "slug": "chaport",
+            "description": "Chaport provides a live chat and chatbot platform to enhance customer support and engagement for businesses.",
+            "icon": "/logo/www.chaport.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "274",
+            "name": "DocsBot",
+            "slug": "docsbot",
+            "description": "DocsBot is an AI-powered platform that creates custom chatbots for answering questions based on your documentation and content.",
+            "icon": "/logo/docsbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "320",
+            "name": "Scale AI",
+            "slug": "scale-ai",
+            "description": "Scale AI provides a data-centric platform to accelerate the development of AI applications through high-quality data annotation and model evaluation.",
+            "icon": "/logo/scale.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "344",
+            "name": "Crisp",
+            "slug": "crisp",
+            "description": "Crisp is an all-in-one customer messaging platform designed to enhance business communication through live chat, chatbots, and CRM integration.",
+            "icon": "/logo/crisp.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "383",
+            "name": "Hume AI",
+            "slug": "hume-ai",
+            "description": "Hume AI develops emotionally intelligent AI to enhance human-machine interactions.",
+            "icon": "/logo/www.hume.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "408",
+            "name": "Stability AI",
+            "slug": "stability-ai",
+            "description": "Stability AI provides open-source generative AI tools for creating images, videos, audio, and 3D content.",
+            "icon": "/logo/stability.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "425",
+            "name": "Chatbase",
+            "slug": "chatbase",
+            "description": "Chatbase is a platform for building and deploying AI-powered customer service chatbots trained on custom data.",
+            "icon": "/logo/www.chatbase.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "465",
+            "name": "Voiceflow",
+            "slug": "voiceflow",
+            "description": "Voiceflow is a collaborative platform for teams to design, develop, and launch AI-powered chat and voice agents at scale.",
+            "icon": "/logo/www.voiceflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "479",
+            "name": "Sintra",
+            "slug": "sintra-ai",
+            "description": "Sintra.ai provides AI-powered virtual employees to automate business tasks and enhance productivity for small businesses.",
+            "icon": "/logo/sintra.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "529",
+            "name": "Lindy",
+            "slug": "lindy-ai",
+            "description": "Lindy is a no-code AI platform for creating custom AI agents to automate business and personal workflows.",
+            "icon": "/logo/www.lindy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "537",
+            "name": "Re:amaze",
+            "slug": "reamaze",
+            "description": "Re:amaze is a cloud-based helpdesk and customer messaging platform for eCommerce and businesses to support, engage, and convert customers.",
+            "icon": "/logo/www.reamaze.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "AutoResponder.ai",
+            "slug": "autoresponder-ai",
+            "description": "AutoResponder.ai provides AI-powered automatic replies for popular messaging platforms to streamline communication.",
+            "icon": "/logo/autoresponder.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "575",
+            "name": "Filevine",
+            "slug": "filevine",
+            "description": "Filevine provides AI-powered legal practice management software to streamline case management, document handling, and client communication for law firms.",
+            "icon": "/logo/www.filevine.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "584",
+            "name": "Missive",
+            "slug": "missive",
+            "description": "Missive is a collaborative email and chat platform that streamlines team communication and task management across multiple channels.",
+            "icon": "/logo/missiveapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "663",
+            "name": "Gupshup",
+            "slug": "gupshup",
+            "description": "Gupshup provides a conversational messaging platform to enhance business-customer interactions across multiple channels.",
+            "icon": "/logo/www.gupshup.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "599",
+            "name": "Coze",
+            "slug": "coze",
+            "description": "Coze is a no-code AI chatbot development platform for creating and deploying bots across multiple messaging apps.",
+            "icon": "/logo/www.coze.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "624",
+            "name": "Landbot",
+            "slug": "landbot",
+            "description": "Landbot is a no-code AI chatbot platform that enables businesses to create conversational experiences for customer engagement and automation.",
+            "icon": "/logo/landbot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "670",
+            "name": "Dovetail",
+            "slug": "dovetail",
+            "description": "Dovetail is a customer insights hub that transforms research data into actionable insights for teams and businesses.",
+            "icon": "/logo/dovetail.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "751",
+            "name": "Supademo",
+            "slug": "supademo",
+            "description": "Supademo enables businesses to create and share AI-powered interactive product demos to drive engagement and conversions.",
+            "icon": "/logo/supademo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "767",
+            "name": "Guidde",
+            "slug": "guidde",
+            "description": "Guidde is an AI-powered platform for creating and sharing video documentation and tutorials quickly and efficiently.",
+            "icon": "/logo/www.guidde.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "779",
+            "name": "Bland AI",
+            "slug": "bland-ai",
+            "description": "Bland AI provides a platform for automating phone calls with hyper-realistic AI agents for enterprises.",
+            "icon": "/logo/www.bland.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "800",
+            "name": "Glassix",
+            "slug": "glassix",
+            "description": "Glassix provides an AI-powered unified messaging platform for omnichannel customer communication and support.",
+            "icon": "/logo/www.glassix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "FastBots",
+            "slug": "fastbots-ai",
+            "description": "FastBots.ai is a no-code platform for creating AI-powered chatbots trained on custom business data to provide 24/7 customer support and automation.",
+            "icon": "/logo/fastbots.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "830",
+            "name": "AI for Work",
+            "slug": "ai-for-work",
+            "description": "AI for Work provides a comprehensive library of over 2,000 job-specific ChatGPT prompts to enhance professional productivity across various industries.",
+            "icon": "/logo/www.aiforwork.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "863",
+            "name": "Sierra",
+            "slug": "sierra-ai",
+            "description": "Sierra is an AI platform that develops autonomous AI agents to revolutionize customer service and business operations through intelligent automation.",
+            "icon": "/logo/sierra.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "864",
+            "name": "VocAI",
+            "slug": "vocai",
+            "description": "VocAI is an AI-powered platform that provides intelligent customer support solutions and customer feedback analysis for e-commerce businesses.",
+            "icon": "/logo/www.voc.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "873",
+            "name": "PolyAI",
+            "slug": "polyai",
+            "description": "PolyAI is a platform that delivers AI-powered conversational voice assistants to help businesses automate and enhance customer service interactions.",
+            "icon": "/logo/poly.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "891",
+            "name": "Synthflow.ai",
+            "slug": "synthflow-ai",
+            "description": "Synthflow.ai is a no-code platform for building AI voice agents that automate customer interactions, handle calls, and streamline business operations.",
+            "icon": "/logo/synthflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "892",
+            "name": "CustomGPT.ai",
+            "slug": "customgpt-ai",
+            "description": "CustomGPT.ai is a no-code platform for building custom AI chatbots powered by GPT technology, integrated with users' own data for personalized responses.",
+            "icon": "/logo/customgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "LiveChatAI",
+            "slug": "livechatai",
+            "description": "LiveChatAI is an AI-powered platform that enables businesses to create and deploy customized chatbots trained on their own content for efficient customer support and engagement.",
+            "icon": "/logo/livechatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "907",
+            "name": "PlayAI",
+            "slug": "playai",
+            "description": "PlayAI is a platform that empowers businesses to build and deploy AI-powered voice agents for automated phone calls, customer support, and sales interactions.",
+            "icon": "/logo/play.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "931",
+            "name": "BotPenguin",
+            "slug": "botpenguin",
+            "description": "BotPenguin is an AI-powered chatbot platform that enables businesses to create and deploy no-code chatbots for customer engagement across multiple messaging channels.",
+            "icon": "/logo/botpenguin.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "946",
+            "name": "YourGPT",
+            "slug": "yourgpt-ai",
+            "description": "YourGPT.ai is an AI platform that enables users to build, customize, and deploy intelligent chatbots and AI agents for various applications.",
+            "icon": "/logo/yourgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "955",
+            "name": "BoldDesk",
+            "slug": "bolddesk",
+            "description": "BoldDesk is a comprehensive help desk software platform designed to enhance customer support through ticketing, knowledge management, and AI-driven automation.",
+            "icon": "/logo/www.bolddesk.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "966",
+            "name": "Intapp",
+            "slug": "intapp",
+            "description": "Intapp provides cloud-based software solutions tailored for professional services firms to enhance risk management, compliance, and operational efficiency.",
+            "icon": "/logo/www.intapp.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1007",
+            "name": "AI Agent Store",
+            "slug": "ai-agent-store",
+            "description": "AI Agent Store is a marketplace platform offering pre-built AI agents for automating tasks, enhancing productivity, and solving various business and personal needs.",
+            "icon": "/logo/aiagentstore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1019",
+            "name": "Botnoi AI",
+            "slug": "botnoi-ai",
+            "description": "Botnoi.ai is a leading AI platform in Thailand that provides intelligent chatbots, voice assistants, and AI solutions to enhance customer engagement and business operations.",
+            "icon": "/logo/botnoi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1020",
+            "name": "Salesmate",
+            "slug": "salesmate",
+            "description": "Salesmate is a cloud-based CRM platform that empowers sales teams with tools for managing leads, deals, and customer relationships to drive business growth.",
+            "icon": "/logo/www.salesmate.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1021",
+            "name": "Botika",
+            "slug": "botika",
+            "description": "Botika is an AI-powered platform specializing in conversational AI and chatbots for enhancing customer service and business automation.",
+            "icon": "/logo/botika.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1070",
+            "name": "TutorOcean",
+            "slug": "tutorocean",
+            "description": "TutorOcean is an online platform offering private tutoring services with both AI and human tutors for academic support across various subjects and levels.",
+            "icon": "/logo/www.tutorocean.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1080",
+            "name": "Kore.ai",
+            "slug": "kore-ai",
+            "description": "Kore.ai is a leading conversational AI platform that empowers enterprises to build, deploy, and manage intelligent virtual assistants and chatbots for enhanced customer and employee experiences.",
+            "icon": "/logo/kore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1147",
+            "name": "Beam AI",
+            "slug": "beam-ai",
+            "description": "Beam AI is a leading platform for agentic process automation, offering advanced AI agents to automate workflows and enhance operational efficiency for businesses.",
+            "icon": "/logo/beam.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1148",
+            "name": "Wotnot",
+            "slug": "wotnot",
+            "description": "Wotnot is an AI-powered no-code platform for building and deploying chatbots to automate customer support, lead generation, and engagement across websites and messaging apps.",
+            "icon": "/logo/wotnot.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1153",
+            "name": "WiziShop",
+            "slug": "wizishop",
+            "description": "WiziShop is an AI-powered e-commerce platform that enables users to create, manage, and optimize online stores with automated tools and features.",
+            "icon": "/logo/wizishop.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1175",
+            "name": "Forethought",
+            "slug": "forethought-ai",
+            "description": "Forethought offers an AI agent platform designed to enhance customer support and service for CX teams by cutting costs, accelerating resolution times, and resolving up to 90% of inquiries with a multi-agent system.",
+            "icon": "/logo/forethought.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1195",
+            "name": "SiteGPT",
+            "slug": "sitegpt-ai",
+            "description": "SiteGPT is an AI platform that enables users to create custom chatbots trained on their website's content for personalized customer support and engagement.",
+            "icon": "/logo/sitegpt.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1212",
+            "name": "ChatAI",
+            "slug": "chatai",
+            "description": "ChatAI is an AI-powered platform that provides conversational AI tools for personal and business use, enabling users to interact with intelligent chatbots for various tasks.",
+            "icon": "/logo/chatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1284",
+            "name": "Wonderchat",
+            "slug": "wonderchat",
+            "description": "Wonderchat is an AI platform that enables users to quickly build and deploy custom chatbots trained on their own data for improved customer engagement and support.",
+            "icon": "/logo/wonderchat.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1256",
+            "name": "The SMS City",
+            "slug": "the-sms-city",
+            "description": "The SMS City provides automated WhatsApp and SMS solutions for businesses, offering tools like e-commerce integrations, AI-powered chatbots, and marketing campaigns to enhance customer engagement and boost sales.",
+            "icon": "/logo/thesmscity.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1378",
+            "name": "Cheers",
+            "slug": "cheers",
+            "description": "Cheers.tech is an AI-powered platform that attributes customer feedback, reviews, and interactions to individual frontline employees, providing managers with actionable insights to improve brand performance.",
+            "icon": "/logo/www.cheers.tech.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1289",
+            "name": "CrawlChat",
+            "slug": "crawlchat",
+            "description": "CrawlChat transforms documentation and knowledge sources into AI chatbots for efficient customer support and engagement across websites, Discord, and Slack.",
+            "icon": "/logo/crawlchat.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1259",
+            "name": "ChatIn",
+            "slug": "chatin",
+            "description": "ChatIn is an AI-powered platform that transforms customer support with 24/7 intelligent conversations to boost engagement, satisfaction, and business growth.",
+            "icon": "/logo/chatin.support.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1244",
+            "name": "Revyu.ai",
+            "slug": "revyu-ai",
+            "description": "Revyu.ai is an AI-powered platform that enables businesses to generate, analyze, and manage customer reviews to boost online reputation and sales.",
+            "icon": "/logo/www.revyu.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "Sayfone",
+            "slug": "sayfone",
+            "description": "Sayfone is an AI-powered platform that enables users to generate realistic synthetic voices for phone calls, messages, and customer service applications.",
+            "icon": "/logo/www.sayfone.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1257",
+            "name": "Deforge.io",
+            "slug": "deforge-io",
+            "description": "Deforge.io is a no-code platform for visually building, connecting, and deploying AI agents for applications like customer service, content generation, data analysis, and blockchain integrations.",
+            "icon": "/logo/deforge.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1139",
+            "name": "PerfectCSR AI",
+            "slug": "perfectcsr-ai",
+            "description": "PerfectCSR AI is a no-code platform for creating AI-powered chatbots that automate customer support and boost engagement on websites.",
+            "icon": "/logo/perfectcsr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "920",
+            "name": "eesel AI",
+            "slug": "eesel-ai",
+            "description": "eesel AI provides an AI-powered platform that delivers instant answers to company questions by integrating with existing tools and knowledge bases.",
+            "icon": "/logo/www.eesel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Microsoft Copilot",
+            "slug": "microsoft-copilot",
+            "description": "Microsoft Copilot is an AI-powered assistant enhancing productivity across Microsoft 365 and web tasks.",
+            "icon": "/logo/copilot.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Feedly",
+            "slug": "feedly",
+            "description": "Feedly is a news aggregator that curates personalized content feeds for individuals and teams to stay informed on topics that matter.",
+            "icon": "/logo/feedly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "1326",
+            "name": "HelpGenie",
+            "slug": "helpgenie-ai",
+            "description": "HelpGenie is an AI-powered helpdesk that provides instant, context-aware support to resolve workplace issues 5x faster with 24/7 availability.",
+            "icon": "/logo/helpgenie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-customer-service"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Chatbot App",
+            "slug": "chatbot-app",
+            "description": "Chatbot App provides an AI-powered platform for seamless chatting, productivity tools, and creative solutions.",
+            "icon": "/logo/chatbotapp.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-customer-service"
+            ]
+        }
+    ]
+}

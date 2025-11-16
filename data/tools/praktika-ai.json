@@ -1,0 +1,71 @@
+{
+    "name": "Praktika",
+    "description": "Praktika is an AI-powered mobile app designed to help users learn and practice English through interactive conversations with personalized AI avatars.",
+    "longDescription": "Praktika.ai is a cutting-edge language learning platform that uses artificial intelligence to create immersive, personalized English practice sessions. Users interact with AI-generated avatars that simulate real-life conversations, adapting to individual skill levels and learning goals. The mission of Praktika is to make language acquisition accessible and engaging by eliminating barriers like scheduling with human tutors or fear of making mistakes in real interactions. It addresses common challenges in language learning, such as building speaking confidence, improving pronunciation, and expanding vocabulary, through instant feedback and tailored exercises. By leveraging AI, Praktika provides a flexible, on-demand learning experience that fits into users' daily routines, helping them achieve fluency more effectively.",
+    "url": "https://praktika.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/praktika.ai.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "praktika-ai",
+    "categories": [
+        "AI Language Learning",
+        "AI Dialogue Generator",
+        "AI Voice Assistants",
+        "AI Grammar Checker",
+        "AI Speech Recognition"
+    ],
+    "features": [
+        "Personalized AI avatars that adapt to the user's English proficiency level, interests, and goals for a customized learning experience.",
+        "Real-time conversational practice simulating natural dialogues to build speaking confidence and fluency.",
+        "Instant feedback on pronunciation, grammar, and vocabulary to help users correct mistakes immediately and improve quickly.",
+        "Voice recognition technology that analyzes speech patterns and provides targeted pronunciation coaching.",
+        "Customized learning paths with lessons tailored to specific objectives, such as business English or travel conversations.",
+        "Progress tracking tools that monitor improvement over time and suggest areas for further practice.",
+        "Vocabulary-building exercises integrated into conversations to expand word knowledge in context.",
+        "Immersive role-playing scenarios that make learning fun and relevant to real-world situations.",
+        "Offline access to certain features, allowing practice without an internet connection.",
+        "Daily challenges and gamified elements to keep users motivated and engaged in their learning journey."
+    ],
+    "faqs": [
+        {
+            "question": "What is Praktika.ai?",
+            "answer": "Praktika.ai is an AI-driven app for learning English through interactive conversations with virtual avatars. It provides personalized practice to improve speaking, listening, and pronunciation skills."
+        },
+        {
+            "question": "Is Praktika free to use?",
+            "answer": "Yes, Praktika offers free access to core features with some limitations, while premium subscriptions unlock unlimited practice and advanced tools."
+        },
+        {
+            "question": "What languages does Praktika support?",
+            "answer": "Praktika currently focuses on English learning, with AI avatars designed to help non-native speakers practice and improve their skills."
+        },
+        {
+            "question": "How does the AI provide feedback?",
+            "answer": "The AI analyzes your speech in real-time using voice recognition, offering instant corrections on pronunciation, grammar, and word choice to enhance learning."
+        },
+        {
+            "question": "Can I use Praktika offline?",
+            "answer": "Some features like basic lessons are available offline, but full conversational practice and updates require an internet connection."
+        },
+        {
+            "question": "Is Praktika suitable for beginners?",
+            "answer": "Yes, Praktika caters to all levels, including beginners, by starting with simple conversations and gradually increasing complexity based on user progress."
+        },
+        {
+            "question": "How does Praktika personalize learning?",
+            "answer": "The app uses AI to assess your skill level and preferences, then customizes avatars, topics, and exercises to match your goals and interests."
+        },
+        {
+            "question": "What devices is Praktika available on?",
+            "answer": "Praktika is primarily a mobile app available for iOS and Android devices, with potential web access in development."
+        },
+        {
+            "question": "Does Praktika track my progress?",
+            "answer": "Yes, the app includes detailed progress reports, showing improvements in fluency, vocabulary, and pronunciation over time."
+        },
+        {
+            "question": "Can I practice specific topics like business English?",
+            "answer": "Absolutely, Praktika allows users to select topics such as business, travel, or daily life for targeted conversational practice."
+        }
+    ]
+}

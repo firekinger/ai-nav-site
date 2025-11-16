@@ -1,0 +1,76 @@
+{
+    "name": "Lumen5",
+    "description": "Lumen5 is an AI-powered video creation platform that transforms text into engaging videos for businesses and marketers.",
+    "longDescription": "Lumen5 is a cloud-based video creation platform designed to simplify the production of professional-quality videos for brands, businesses, and content creators. Powered by artificial intelligence, it automates the process of turning text-based content, such as blog posts or scripts, into dynamic videos with minimal user effort. The platform’s mission is to enable anyone, regardless of video editing experience, to create engaging social media content, promotional videos, or thought leadership materials in minutes. Lumen5 serves marketing teams, small businesses, and enterprises by providing tools to streamline video production, enhance brand consistency, and boost audience engagement. Its intuitive interface and extensive media library make it a versatile solution for scaling video content strategies.",
+    "url": "https://lumen5.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/lumen5.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "lumen5",
+    "categories": [
+        "AI Video Generator",
+        "AI Social Media Post Generator",
+        "AI Proofreading",
+        "AI Voice Over",
+        "AI Translate",
+        "AI Product Description Generator",
+        "AI Writing",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-driven text-to-video conversion automatically transforms blogs or scripts into video storyboards, saving time on content creation.",
+        "A built-in media library offers millions of royalty-free photos, videos, and audio tracks, eliminating the need for external assets.",
+        "Drag-and-drop editing tools allow users to customize videos with ease, ensuring flexibility and creative control.",
+        "Customizable branding options enable users to apply logos, color schemes, and fonts for consistent brand identity.",
+        "Social media optimization automatically formats videos for platforms like Instagram, YouTube, or LinkedIn, maximizing reach.",
+        "AI voiceover feature, powered by ElevenLabs, generates natural-sounding narration to enhance video storytelling.",
+        "Multilingual content creation tools support translations and right-to-left text for global market scalability.",
+        "Auto-generated closed captions improve accessibility and engagement for diverse audiences.",
+        "RSS feed integration automates content import from blogs or websites, streamlining video production workflows.",
+        "Template library provides pre-designed layouts to jumpstart video creation with professional aesthetics.",
+        "Collaboration tools allow teams to share, comment, and edit videos seamlessly, enhancing productivity.",
+        "Video analytics provide insights into viewer engagement to optimize future content performance."
+    ],
+    "faqs": [
+        {
+            "question": "What is Lumen5 used for?",
+            "answer": "Lumen5 is used to create professional videos from text content, ideal for social media, marketing, and thought leadership."
+        },
+        {
+            "question": "Do I need video editing experience to use Lumen5?",
+            "answer": "No, Lumen5’s AI and intuitive drag-and-drop interface make it easy for anyone to create videos without prior experience."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Lumen5 offers a free Community Plan with basic features, including watermarked videos and 480p resolution."
+        },
+        {
+            "question": "Can I customize videos to match my brand?",
+            "answer": "Yes, Lumen5 allows you to add custom logos, colors, and fonts to ensure videos align with your brand identity."
+        },
+        {
+            "question": "What types of content can I turn into videos?",
+            "answer": "You can convert blog posts, scripts, news articles, or any text-based content into videos using Lumen5’s AI tools."
+        },
+        {
+            "question": "Does Lumen5 support multiple languages?",
+            "answer": "Yes, Lumen5 offers translation tools and right-to-left text support for creating multilingual videos."
+        },
+        {
+            "question": "How long does it take to create a video?",
+            "answer": "With Lumen5’s AI, you can create a video draft in minutes and finalize it with minimal editing."
+        },
+        {
+            "question": "Can I collaborate with my team on Lumen5?",
+            "answer": "Yes, Lumen5’s collaboration tools allow team members to share, comment, and edit videos together."
+        },
+        {
+            "question": "What video resolutions are available?",
+            "answer": "The free plan offers 480p, while paid plans (Starter and Professional) provide 720p and 1080p resolutions."
+        },
+        {
+            "question": "Does Lumen5 integrate with other tools?",
+            "answer": "Yes, Lumen5 supports RSS feed integration and a Chrome extension for seamless content import."
+        }
+    ]
+}

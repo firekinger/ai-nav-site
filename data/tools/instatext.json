@@ -1,0 +1,66 @@
+{
+    "name": "InstaText",
+    "description": "InstaText is an AI-powered writing assistant that enhances text by providing instant suggestions for grammar, style, clarity, and rephrasing to improve overall writing quality.",
+    "longDescription": "InstaText is an online platform that leverages artificial intelligence to help users refine and improve their English writing. Its mission is to make communication more effective by transforming rough drafts into polished, professional text. The tool analyzes inputted text and offers intelligent suggestions for rephrasing sentences, correcting grammar, and enhancing vocabulary. It serves a wide range of users, including students, professionals, and non-native English speakers, by solving common writing challenges like awkward phrasing or lack of conciseness. By integrating seamlessly into workflows, InstaText boosts productivity and confidence in writing tasks.",
+    "url": "https://instatext.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/instatext.io.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "instatext",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Grammar Checker",
+        "AI Paraphraser",
+        "AI Design Assistant",
+        "AI Productivity Tools",
+        "AI Homework Helper",
+        "AI Writing",
+        "AI SEO Tools"
+    ],
+    "features": [
+        "AI-driven rephrasing suggests alternative wordings to make text clearer and more engaging.",
+        "Grammar and spelling corrections automatically detect and fix errors for error-free writing.",
+        "Style improvements provide recommendations to enhance tone, conciseness, and overall readability.",
+        "Real-time editing allows users to see suggestions instantly as they type or paste text.",
+        "Vocabulary enrichment offers synonyms and better word choices to elevate language quality.",
+        "Batch processing enables editing of multiple paragraphs or documents efficiently.",
+        "Integration with browsers and apps for seamless use in emails, documents, or web forms.",
+        "Personalized suggestions based on user preferences for tailored writing assistance.",
+        "Plagiarism avoidance through unique rephrasing to ensure originality.",
+        "Mobile compatibility for on-the-go text improvements."
+    ],
+    "faqs": [
+        {
+            "question": "What is InstaText?",
+            "answer": "InstaText is an AI tool designed to improve writing by suggesting rephrasings, grammar fixes, and style enhancements. It helps users create clearer and more professional text effortlessly."
+        },
+        {
+            "question": "Is InstaText free to use?",
+            "answer": "Yes, InstaText offers a free plan with limited features and a trial period. For full access, users can upgrade to a paid subscription."
+        },
+        {
+            "question": "How does InstaText improve my writing?",
+            "answer": "It uses AI to analyze your text and provide suggestions for better phrasing, grammar, and style. This results in more concise and impactful writing."
+        },
+        {
+            "question": "Can InstaText be used for non-English text?",
+            "answer": "InstaText primarily supports English writing improvements. It may not fully function with other languages."
+        },
+        {
+            "question": "Is my data secure with InstaText?",
+            "answer": "Yes, InstaText prioritizes user privacy and does not store text without permission. All processing is done securely."
+        },
+        {
+            "question": "What types of users benefit from InstaText?",
+            "answer": "Students, professionals, bloggers, and non-native speakers find it useful for polishing essays, emails, reports, and more."
+        },
+        {
+            "question": "Does InstaText integrate with other tools?",
+            "answer": "It offers browser extensions and integrations for easy use in Google Docs, emails, and other platforms."
+        },
+        {
+            "question": "How accurate are InstaText's suggestions?",
+            "answer": "Suggestions are powered by advanced AI and are highly accurate, but users should review them for context-specific fit."
+        }
+    ]
+}

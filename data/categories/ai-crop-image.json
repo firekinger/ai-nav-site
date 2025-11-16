@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Crop Image Tools in 2025",
+    "summary": "Discover the power of AI Crop Image tools, designed to enhance your visual content effortlessly. These innovative solutions allow you to quickly and accurately crop images, ensuring optimal framing and composition for your projects. Whether you're a designer, marketer, or content creator, these tools save you time and elevate your work with precision. Explore our curated selection of AI-driven cropping tools to streamline your workflow and achieve stunning results. Dive in now and transform your images with ease!",
+    "tools": [
+        {
+            "id": "1017",
+            "name": "AI Passport Photos",
+            "slug": "ai-passport-photos",
+            "description": "AI Passport Photos is an online platform that leverages artificial intelligence to transform user-uploaded images into compliant passport, visa, and ID photos for various countries.",
+            "icon": "/logo/www.aipassportphotos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-crop-image"
+            ]
+        },
+        {
+            "id": "1164",
+            "name": "Powder",
+            "slug": "powder",
+            "description": "Powder is an AI-powered clipping tool that automatically generates highlight clips from gaming streams and videos for content creators.",
+            "icon": "/logo/powder.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-crop-image"
+            ]
+        }
+    ]
+}

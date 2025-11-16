@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Rap Generator Tools in 2025",
+    "summary": "Unleash your creativity with our AI Rap Generator category! These innovative tools empower users to craft unique rap lyrics effortlessly, whether you're a budding artist or a seasoned lyricist. Enjoy the benefits of instant inspiration, personalized verses, and the ability to experiment with different styles and themes. Our AI-driven solutions cater to your artistic needs, making songwriting more accessible and fun. Dive into the world of AI-generated rap and elevate your music game today—explore our curated selection of tools now!",
+    "tools": [
+        {
+            "id": "883",
+            "name": "Melobytes",
+            "slug": "melobytes",
+            "description": "Melobytes is an innovative online platform providing a wide array of AI-powered tools for creative content generation in music, audio, images, and more.",
+            "icon": "/logo/melobytes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-rap-generator"
+            ]
+        }
+    ]
+}

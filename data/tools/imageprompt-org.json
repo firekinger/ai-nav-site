@@ -1,0 +1,73 @@
+{
+    "name": "ImagePrompt.org",
+    "description": "ImagePrompt.org is an AI-powered platform for creating and transforming image prompts to generate stunning AI art.",
+    "longDescription": "ImagePrompt.org is an innovative online platform designed to simplify AI art creation by enabling users to generate, analyze, and transform image prompts for various AI image generation models like Midjourney, Flux, and Stable Diffusion. The platform bridges the gap between visual inspiration and AI-driven art creation, making it accessible to users regardless of their technical or artistic expertise. It offers tools to convert images into detailed text prompts, generate creative image descriptions, and optimize prompts for specific AI models. By focusing on simplicity, creativity, and inclusivity, ImagePrompt.org empowers artists, designers, and hobbyists to bring their ideas to life through AI-generated visuals. The platform also prioritizes user privacy, ensuring uploaded images are processed temporarily and deleted immediately after use.",
+    "url": "https://imageprompt.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/imageprompt.org.webp",
+    "category": "Image to Prompt",
+    "categorySlug": "image-to-prompt",
+    "slug": "imageprompt-org",
+    "categories": [
+        "Image to Prompt",
+        "AI Art Generator",
+        "AI Design Assistant",
+        "AI Image Recognition",
+        "Image to 3D Model",
+        "AI UX Design",
+        "Text to Image"
+    ],
+    "features": [
+        "The Image to Prompt Generator converts uploaded images into detailed text prompts tailored for AI models like Midjourney, Flux, and Stable Diffusion, enabling users to recreate or enhance visuals.",
+        "The AI Image Generator creates high-quality images from text prompts, allowing users to visualize detailed concepts with minimal input.",
+        "The Image Prompt Generator transforms simple ideas into comprehensive prompts, helping users refine their creative vision for AI art generation.",
+        "Multi-language support enables users worldwide to create prompts in various languages, enhancing accessibility for a global audience.",
+        "The user-friendly interface simplifies navigation and tool usage, making AI art creation intuitive for beginners and professionals alike.",
+        "Daily usage tracking provides transparency by showing users their remaining free uses and reset times, ensuring predictable access.",
+        "The platform supports multiple image formats (PNG, JPG, WEBP) with a 4MB size limit, offering flexibility for various image types.",
+        "Advanced AI algorithms analyze images to identify subjects, actions, styles, color schemes, and moods, producing accurate and detailed prompts.",
+        "The free plan offers five daily uses for image-to-text tools, making core features accessible without immediate cost.",
+        "Prompt optimization ensures compatibility with specific AI models, improving the quality and relevance of generated images."
+    ],
+    "faqs": [
+        {
+            "question": "What is ImagePrompt.org used for?",
+            "answer": "ImagePrompt.org helps users create and transform image prompts for AI art generation, supporting models like Midjourney, Flux, and Stable Diffusion."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, ImagePrompt.org offers a free plan with five daily uses for image-to-text tools, resetting at midnight Pacific Time."
+        },
+        {
+            "question": "What types of images can I upload?",
+            "answer": "You can upload images in PNG, JPG, or WEBP formats with a maximum file size of 4MB, including photographs, digital art, and illustrations."
+        },
+        {
+            "question": "How does the Image to Prompt Generator work?",
+            "answer": "It uses AI to analyze uploaded images, identifying subjects, styles, and moods to generate detailed text prompts for AI image generation models."
+        },
+        {
+            "question": "Can I use ImagePrompt.org for abstract images?",
+            "answer": "Yes, but results for abstract or complex images may be more generalized compared to clear, high-resolution images."
+        },
+        {
+            "question": "Does ImagePrompt.org store my uploaded images?",
+            "answer": "No, uploaded images are processed temporarily to generate prompts and are immediately deleted to ensure user privacy."
+        },
+        {
+            "question": "What AI models does ImagePrompt.org support?",
+            "answer": "The platform supports General Image Prompt, Flux, Midjourney, and Stable Diffusion, tailoring prompts to each model’s requirements."
+        },
+        {
+            "question": "How can I access more than five daily uses?",
+            "answer": "You can upgrade to premium plans starting at $14.99/month or purchase a $9.99 Power Pack for 50 additional uses valid for 48 hours."
+        },
+        {
+            "question": "Is the platform suitable for beginners?",
+            "answer": "Yes, its user-friendly interface and clear instructions make it accessible for users with no prior AI or art experience."
+        },
+        {
+            "question": "Can I generate prompts in languages other than English?",
+            "answer": "Yes, ImagePrompt.org supports multi-language prompt generation, catering to a global audience."
+        }
+    ]
+}

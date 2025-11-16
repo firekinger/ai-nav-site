@@ -1,0 +1,60 @@
+{
+    "name": "Brain.fm",
+    "description": "Brain.fm provides science-backed functional music to enhance focus, relaxation, and sleep.",
+    "longDescription": "Brain.fm is a neuroscience-based audio platform that delivers personalized, AI-generated music designed to optimize brain function for focus, relaxation, meditation, and sleep. Founded in 2014, its mission is to unlock users' full potential by using patented technology to influence neural phase locking, aligning brainwaves with specific mental states. The platform serves users seeking to improve productivity, reduce stress, or enhance sleep quality, particularly those with demanding work schedules or conditions like ADHD. By combining human-composed music with advanced algorithms, Brain.fm creates distraction-free soundscapes tailored to individual preferences. It conducts ongoing research with academic institutions and has received funding from the National Science Foundation to validate its approach. The service is accessible via web and mobile apps, making it a versatile tool for cognitive enhancement.",
+    "url": "https://www.brain.fm/?utm_source=ainavdir",
+    "screenshot": "/screenshot/brain.fm.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "brain-fm",
+    "categories": [
+        "AI Music Generator",
+        "AI Mental Health",
+        "AI Productivity Tools",
+        "AI Audio Editing"
+    ],
+    "features": [
+        "Focus Mode uses rhythmic pulses to boost concentration and productivity for tasks like deep work or studying.",
+        "Relax Mode induces calming alpha brainwaves to reduce stress and promote mental clarity during breaks.",
+        "Sleep Mode offers thousands of tracks with 3D spatial audio to enhance rest and improve sleep quality.",
+        "Meditation Mode provides guided and unguided sessions to support mindfulness and mental tranquility.",
+        "Customizable music genres and neural effect levels allow users to tailor audio to their preferences and cognitive needs.",
+        "Built-in Pomodoro timer helps users manage work sessions with timed focus intervals and breaks.",
+        "Offline listening enables access to favorite tracks without an internet connection for uninterrupted use.",
+        "3D spatial audio creates immersive soundscapes that minimize distractions and enhance mental focus."
+    ],
+    "faqs": [
+        {
+            "question": "What is Brain.fm and how does it work?",
+            "answer": "Brain.fm is a platform that uses AI-generated music to influence brainwave activity, helping users focus, relax, or sleep. Its patented technology promotes neural phase locking to align brainwaves with desired mental states."
+        },
+        {
+            "question": "Is there a free trial for Brain.fm?",
+            "answer": "Yes, Brain.fm offers a 7-day free trial, allowing users to test its features without a credit card."
+        },
+        {
+            "question": "How is Brain.fm different from binaural beats?",
+            "answer": "Unlike binaural beats, which use a single technique, Brain.fm employs multiple methods, including direct stereo modulation and 3D spatial audio, for stronger neural effects."
+        },
+        {
+            "question": "Can I use Brain.fm offline?",
+            "answer": "Yes, Brain.fm supports offline listening by allowing users to download tracks for use without an internet connection."
+        },
+        {
+            "question": "What types of music genres are available?",
+            "answer": "Brain.fm offers genres like lo-fi, classical, cinematic, and electronic, with customizable nature sounds like rain or forest."
+        },
+        {
+            "question": "Is Brain.fm suitable for people with ADHD?",
+            "answer": "Yes, Brain.fm’s focus music is designed to reduce distractions and enhance concentration, making it particularly beneficial for users with ADHD."
+        },
+        {
+            "question": "How does the Pomodoro timer feature work?",
+            "answer": "The built-in Pomodoro timer alternates 25-minute focus sessions with 5-minute breaks, with optional motivational quotes to enhance productivity."
+        },
+        {
+            "question": "Does Brain.fm conduct scientific research?",
+            "answer": "Yes, Brain.fm collaborates with academic institutions and has received National Science Foundation funding to study its music’s effects on brain activity."
+        }
+    ]
+}

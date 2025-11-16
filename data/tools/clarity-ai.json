@@ -1,0 +1,58 @@
+{
+    "name": "Clarity AI",
+    "description": "Clarity AI is a sustainability technology platform that leverages artificial intelligence to provide actionable environmental, social, and governance (ESG) insights for investors and corporations.",
+    "longDescription": "Clarity AI is a tech company focused on sustainability analytics, using AI and machine learning to analyze vast datasets on ESG factors. Its mission is to empower investors, asset managers, and companies to make informed decisions that promote sustainable practices and mitigate risks. The platform addresses challenges like data opacity in sustainability reporting by offering transparent, science-based insights derived from over 30,000 data sources. It serves users by integrating seamlessly with existing workflows, helping them comply with regulations and align investments with global sustainability goals. Ultimately, Clarity AI aims to drive positive societal and environmental impact through data-driven intelligence.",
+    "url": "https://clarity.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/clarity.ai.webp",
+    "category": "AI For Finance",
+    "categorySlug": "ai-for-finance",
+    "slug": "clarity-ai",
+    "categories": [
+        "AI For Finance",
+        "AI Data Mining"
+    ],
+    "features": [
+        "AI-powered ESG scoring provides comprehensive assessments of companies' sustainability performance, enabling users to identify risks and opportunities quickly.",
+        "Customizable reporting tools allow users to generate tailored sustainability reports that meet regulatory requirements and stakeholder expectations.",
+        "Data integration capabilities connect with thousands of sources to ensure accurate and up-to-date ESG information for informed decision-making.",
+        "Portfolio analysis features help investors optimize their holdings for sustainability, maximizing impact while maintaining financial returns.",
+        "Regulatory compliance tracking monitors evolving ESG standards globally, assisting users in staying ahead of legal obligations.",
+        "Collaborative dashboards enable teams to share insights and collaborate on sustainability strategies in real-time.",
+        "Machine learning algorithms enhance data accuracy by cleaning and normalizing inconsistent sustainability metrics from diverse sources.",
+        "Impact measurement tools quantify the real-world effects of investments on environmental and social outcomes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Clarity AI?",
+            "answer": "Clarity AI is a platform that uses AI to deliver sustainability insights, helping investors and companies assess ESG factors. It analyzes data from numerous sources to provide transparent and actionable information."
+        },
+        {
+            "question": "Who can use Clarity AI?",
+            "answer": "Clarity AI is primarily designed for institutional investors, asset managers, corporations, and financial institutions seeking to integrate sustainability into their strategies."
+        },
+        {
+            "question": "How does Clarity AI ensure data accuracy?",
+            "answer": "The platform employs advanced AI and machine learning to process and normalize data from over 30,000 sources, ensuring high reliability and reducing biases in ESG assessments."
+        },
+        {
+            "question": "Is Clarity AI compliant with global regulations?",
+            "answer": "Yes, Clarity AI aligns with major ESG regulations like the EU's SFDR and TCFD, providing tools to help users meet reporting requirements efficiently."
+        },
+        {
+            "question": "What types of insights does Clarity AI provide?",
+            "answer": "It offers insights on environmental impact, social responsibility, governance practices, and overall sustainability scores for companies and portfolios."
+        },
+        {
+            "question": "Can Clarity AI integrate with other tools?",
+            "answer": "Yes, it supports API integrations and works with popular financial platforms to seamlessly incorporate ESG data into existing workflows."
+        },
+        {
+            "question": "How does Clarity AI differ from traditional ESG providers?",
+            "answer": "Unlike traditional providers, Clarity AI uses AI for deeper, more granular analysis, covering a broader range of data points and offering customizable, real-time insights."
+        },
+        {
+            "question": "What is the cost of using Clarity AI?",
+            "answer": "Clarity AI operates on a subscription model tailored to organizational needs; pricing details are available upon request through their sales team."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Cyanite.ai",
+    "description": "Cyanite.ai is an AI-driven platform specializing in music analysis, tagging, and search to empower music professionals with intelligent metadata extraction and discovery tools.",
+    "longDescription": "Cyanite.ai is a innovative AI company that develops technology for analyzing and understanding music through machine learning models. Its mission is to make vast music catalogs searchable and accessible by automatically extracting detailed metadata such as genres, moods, instruments, and vocal characteristics. This helps solve challenges in the music industry like manual tagging and inefficient search, enabling faster and more accurate music discovery for labels, libraries, and streaming services. Users can integrate Cyanite's API to process audio files in real-time or in bulk, providing actionable insights that enhance recommendation systems and content management. Overall, it serves music professionals by bridging the gap between raw audio data and meaningful, AI-powered applications.",
+    "url": "https://cyanite.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cyanite.ai.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "cyanite-ai",
+    "categories": [
+        "AI Music Generator",
+        "AI Text Classifier",
+        "AI Audio Editing",
+        "AI Speech Recognition"
+    ],
+    "features": [
+        "AI-powered music tagging automatically detects and assigns genres, subgenres, moods, instruments, and energy levels to tracks, saving time on manual cataloging.",
+        "Similarity search functionality identifies tracks that musically match a reference song based on attributes like tempo, key, and structure, aiding in playlist creation and recommendations.",
+        "Keyword-to-music search allows users to query descriptive terms and receive matching tracks, simplifying content discovery for creative projects.",
+        "Voice analysis extracts vocal traits such as gender, type, and similarity to other voices, enhancing metadata for vocal-focused music applications.",
+        "Bulk processing enables efficient analysis of large music libraries, providing scalable solutions for enterprises managing extensive catalogs.",
+        "API integration offers seamless incorporation into existing platforms, allowing developers to build custom music intelligence features.",
+        "High-accuracy models, trained on diverse datasets, ensure reliable results across various music styles and languages.",
+        "Real-time analysis processes tracks in seconds, supporting dynamic applications like live music recommendations.",
+        "Customizable metadata extraction lets users focus on specific attributes relevant to their needs, improving workflow efficiency.",
+        "Visualization tools provide graphical representations of music features, helping users understand and utilize analysis results effectively."
+    ],
+    "faqs": [
+        {
+            "question": "What is Cyanite.ai?",
+            "answer": "Cyanite.ai is an AI platform designed for music analysis, offering tools to extract metadata and enable intelligent search. It helps music industry professionals automate tagging and discovery processes."
+        },
+        {
+            "question": "How does the music tagging feature work?",
+            "answer": "The tagging feature uses AI models to analyze audio files and automatically assign labels for genres, moods, instruments, and more. This process is fast and accurate, reducing the need for manual input."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Cyanite.ai offers a free plan with limited API queries for testing and small-scale use. Users can upgrade to paid plans for higher volumes and advanced features."
+        },
+        {
+            "question": "What industries benefit from Cyanite.ai?",
+            "answer": "Music labels, streaming services, production libraries, and app developers benefit from its tools. It enhances catalog management, recommendations, and content search in the music ecosystem."
+        },
+        {
+            "question": "How accurate is the AI analysis?",
+            "answer": "The AI models are trained on vast datasets, achieving high accuracy across diverse music types. Continuous improvements ensure reliability, though results can vary with audio quality."
+        },
+        {
+            "question": "Can I integrate Cyanite.ai with my existing software?",
+            "answer": "Yes, it provides a flexible API for easy integration into various platforms and applications. Documentation and support are available to assist with setup."
+        },
+        {
+            "question": "What types of music does it support?",
+            "answer": "Cyanite.ai supports a wide range of music genres and styles, including electronic, classical, pop, and more. It handles various audio formats for broad applicability."
+        },
+        {
+            "question": "How does similarity search help users?",
+            "answer": "Similarity search finds tracks that match a reference based on musical elements, aiding in creating playlists or discovering alternatives. This feature streamlines content curation for professionals."
+        }
+    ]
+}

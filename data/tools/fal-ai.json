@@ -1,0 +1,59 @@
+{
+    "name": "Fal.ai",
+    "description": "Fal.ai provides a platform for building and deploying AI-powered applications with a focus on real-time generative AI solutions.",
+    "longDescription": "Fal.ai is a cloud-based platform designed to simplify the development and deployment of AI-powered applications, particularly for generative AI tasks. It offers developers tools and APIs to create real-time, scalable AI solutions for industries like gaming, creative design, and media production. The platform emphasizes low-latency performance, enabling seamless integration of AI models into applications. Fal.ai supports a range of generative models, such as image and video generation, and provides serverless infrastructure to reduce operational complexity. Its mission is to empower developers to build innovative AI-driven experiences without needing extensive infrastructure management. The platform caters to both individual developers and enterprises seeking to leverage AI for creative and technical solutions.",
+    "url": "https://fal.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fal.ai.webp",
+    "category": "AI Art Generator",
+    "categorySlug": "ai-art-generator",
+    "slug": "fal-ai",
+    "categories": [
+        "AI Art Generator",
+        "AI Image Generator",
+        "AI Video Generator",
+        "AI Developer Tools",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Serverless AI inference allows developers to run AI models without managing infrastructure, reducing costs and complexity.",
+        "Real-time generative AI APIs enable fast image, video, and audio generation for dynamic applications.",
+        "Scalable cloud infrastructure ensures AI models perform efficiently under varying workloads.",
+        "Pre-trained models for tasks like image generation and text-to-image conversion accelerate development.",
+        "Custom model integration lets developers deploy their own AI models for tailored solutions.",
+        "Low-latency processing supports real-time applications like gaming and live content creation.",
+        "Developer-friendly SDKs and documentation simplify integration into existing workflows.",
+        "Pay-as-you-go pricing offers flexibility for projects of all sizes, from prototypes to enterprise solutions.",
+        "WebSocket support enables real-time, bidirectional communication for interactive AI applications.",
+        "Model versioning ensures seamless updates and management of AI models in production."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fal.ai used for?",
+            "answer": "Fal.ai is used to build and deploy AI-powered applications, particularly for real-time generative tasks like image, video, and audio creation."
+        },
+        {
+            "question": "Does Fal.ai offer a free plan?",
+            "answer": "Yes, Fal.ai provides a free tier with limited credits for developers to test and prototype AI applications."
+        },
+        {
+            "question": "What types of AI models does Fal.ai support?",
+            "answer": "Fal.ai supports generative AI models for tasks like text-to-image, image-to-video, and audio generation, with options for custom model integration."
+        },
+        {
+            "question": "Is Fal.ai suitable for enterprise use?",
+            "answer": "Yes, Fal.ai’s scalable infrastructure and APIs are designed to support enterprise-grade applications with high performance and reliability."
+        },
+        {
+            "question": "How does Fal.ai ensure low latency?",
+            "answer": "Fal.ai uses optimized cloud infrastructure and WebSocket technology to deliver real-time AI inference with minimal latency."
+        },
+        {
+            "question": "Can I use my own AI models on Fal.ai?",
+            "answer": "Yes, Fal.ai allows developers to upload and deploy custom AI models alongside its pre-trained offerings."
+        },
+        {
+            "question": "What industries benefit from Fal.ai?",
+            "answer": "Fal.ai serves industries like gaming, media, creative design, and software development, where real-time AI enhances user experiences."
+        }
+    ]
+}

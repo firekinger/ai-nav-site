@@ -1,0 +1,47 @@
+{
+    "name": "NaturalReader",
+    "description": "NaturalReader provides text-to-speech solutions to convert text into natural-sounding audio for enhanced accessibility and productivity.",
+    "longDescription": "NaturalReader is a text-to-speech platform designed to help users convert written text into natural-sounding speech, catering to individuals with reading difficulties, language learners, and professionals seeking efficient content consumption. The platform supports multiple languages and offers a variety of realistic voices, making it versatile for personal, educational, and professional use. It aims to improve accessibility by enabling users to listen to documents, eBooks, or web pages on the go. NaturalReader also integrates with various devices and platforms, ensuring seamless usability across desktops, mobile apps, and web browsers. Its mission is to break down barriers to reading and enhance productivity through innovative voice technology.",
+    "url": "https://www.naturalreaders.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.naturalreaders.com.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "naturalreader",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Translate",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Converts text from documents, PDFs, and web pages into natural-sounding speech for easy listening.",
+        "Offers a wide range of realistic voices in multiple languages to suit diverse user preferences.",
+        "Provides a mobile app for iOS and Android, enabling on-the-go access to text-to-speech functionality.",
+        "Includes a dyslexia-friendly font option to improve readability for users with visual or reading impairments.",
+        "Supports cloud syncing, allowing users to access their documents across multiple devices seamlessly.",
+        "Features adjustable reading speeds to customize the listening experience for different needs.",
+        "Integrates with web browsers via a Chrome extension for real-time text-to-speech conversion.",
+        "Allows users to upload and convert large documents for efficient audio-based content consumption."
+    ],
+    "faqs": [
+        {
+            "question": "What types of files can NaturalReader convert to speech?",
+            "answer": "NaturalReader supports text files, PDFs, Word documents, and web pages, allowing users to convert a wide range of content into audio."
+        },
+        {
+            "question": "Is there a free version of NaturalReader available?",
+            "answer": "Yes, NaturalReader offers a free plan with basic text-to-speech features, though premium voices and advanced functionalities require a subscription."
+        },
+        {
+            "question": "Can NaturalReader be used offline?",
+            "answer": "The desktop and mobile apps offer offline functionality for certain features, but some web-based tools may require an internet connection."
+        },
+        {
+            "question": "Does NaturalReader support multiple languages?",
+            "answer": "Yes, NaturalReader supports over 20 languages with a variety of voice options for each, catering to global users."
+        },
+        {
+            "question": "Is NaturalReader suitable for users with dyslexia?",
+            "answer": "NaturalReader includes dyslexia-friendly fonts and audio options to assist users with dyslexia in accessing written content more comfortably."
+        }
+    ]
+}

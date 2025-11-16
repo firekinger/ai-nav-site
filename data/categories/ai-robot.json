@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Robot Tools in 2025",
+    "summary": "Discover the transformative power of AI Robots in our dedicated category, designed to streamline tasks and enhance productivity. These innovative tools leverage advanced algorithms to automate processes, improve efficiency, and provide intelligent solutions tailored to your needs. Whether you're looking to optimize workflows, enhance customer interactions, or explore robotics for personal use, our curated selection has you covered. Dive into the future of automation and unlock new possibilities today. Explore our AI Robot tools now and elevate your projects to the next level!",
+    "tools": [
+        {
+            "id": "908",
+            "name": "Encord",
+            "slug": "encord",
+            "description": "Encord is a data-centric AI platform that enables teams to annotate, curate, and manage visual data for building high-performance computer vision models.",
+            "icon": "/logo/encord.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-robot"
+            ]
+        },
+        {
+            "id": "1104",
+            "name": "CyberSquare",
+            "slug": "cybersquare",
+            "description": "CyberSquare provides coding, AI, and robotics education solutions for schools, offering a comprehensive suite of products to enhance computer science curriculum from KG 1 to plus two.",
+            "icon": "/logo/cybersquare.org.webp",
+            "isFree": false,
+            "categories": [
+                "ai-robot"
+            ]
+        },
+        {
+            "id": "1215",
+            "name": "Segment Anything",
+            "slug": "segment-anything",
+            "description": "Segment Anything is an AI-powered platform by Meta that provides advanced image segmentation models and tools for identifying and isolating objects in images with high precision.",
+            "icon": "/logo/segment-anything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-robot"
+            ]
+        },
+        {
+            "id": "1414",
+            "name": "Genie 3 World",
+            "slug": "genie-3-world",
+            "description": "Genie 3 World offers a revolutionary platform for creating and interacting with immersive 3D virtual environments using text prompts, powered by DeepMind's advanced world model technology.",
+            "icon": "/logo/genie3world.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-robot"
+            ]
+        }
+    ]
+}

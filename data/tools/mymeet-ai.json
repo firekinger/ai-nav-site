@@ -1,0 +1,71 @@
+{
+    "name": "MyMeet.ai",
+    "description": "MyMeet.ai is an AI-powered platform that automates meeting transcription, summarization, and action item tracking to boost productivity and collaboration.",
+    "longDescription": "MyMeet.ai is an advanced AI tool designed to enhance virtual and in-person meetings by leveraging artificial intelligence to handle note-taking and analysis. Its mission is to eliminate the inefficiencies of manual meeting documentation, allowing users to focus on discussions rather than recording details. The platform integrates seamlessly with popular conferencing tools like Zoom and Microsoft Teams, providing real-time transcription and insights. It solves common problems such as forgotten follow-ups and miscommunication by generating actionable summaries and highlighting key decisions. Ultimately, MyMeet.ai serves professionals, teams, and businesses by streamlining workflows and improving overall meeting effectiveness.",
+    "url": "https://mymeet.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mymeet.ai.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "mymeet-ai",
+    "categories": [
+        "AI Meeting Assistant",
+        "AI Transcription",
+        "AI Summarizer",
+        "AI Task Management",
+        "AI Text Classifier",
+        "AI Language Learning",
+        "AI Video Editor",
+        "AI Productivity Tools",
+        "AI Workflow"
+    ],
+    "features": [
+        "Automatic transcription converts spoken words into accurate text, ensuring no details are missed during meetings.",
+        "AI-generated summaries condense lengthy discussions into concise overviews, saving users time on review.",
+        "Action item detection identifies tasks, deadlines, and assignees, facilitating easy follow-up and accountability.",
+        "Real-time collaboration allows multiple users to edit and comment on notes during or after the meeting.",
+        "Integration with video platforms like Zoom and Teams enables seamless recording and analysis without additional setup.",
+        "Searchable archives let users quickly find past meeting content using keywords or topics.",
+        "Sentiment analysis evaluates the tone of discussions to provide insights into team dynamics and engagement.",
+        "Customizable templates tailor note formats to specific meeting types, enhancing organization and relevance.",
+        "Multi-language support transcribes and summarizes meetings in various languages, aiding global teams.",
+        "Secure data handling ensures all meeting information is encrypted and compliant with privacy standards."
+    ],
+    "faqs": [
+        {
+            "question": "What is MyMeet.ai?",
+            "answer": "MyMeet.ai is an AI-driven platform that automates the process of transcribing, summarizing, and analyzing meetings to improve productivity. It integrates with common video tools and provides actionable insights."
+        },
+        {
+            "question": "How does MyMeet.ai transcribe meetings?",
+            "answer": "The platform uses advanced AI algorithms to convert audio from meetings into text in real-time. It supports multiple speakers and accents for accurate results."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, MyMeet.ai offers a free tier with limited features, such as basic transcription for a set number of meetings per month. Users can upgrade for unlimited access and advanced tools."
+        },
+        {
+            "question": "What integrations does MyMeet.ai support?",
+            "answer": "It integrates with popular platforms like Zoom, Microsoft Teams, Google Meet, and calendar apps for easy scheduling and recording."
+        },
+        {
+            "question": "How secure is MyMeet.ai?",
+            "answer": "MyMeet.ai employs end-to-end encryption and complies with data protection regulations like GDPR to ensure user privacy and security."
+        },
+        {
+            "question": "Can MyMeet.ai handle meetings in multiple languages?",
+            "answer": "Yes, the platform supports transcription and summarization in several languages, making it suitable for international teams."
+        },
+        {
+            "question": "What are the benefits of using MyMeet.ai for teams?",
+            "answer": "It reduces time spent on note-taking, improves collaboration through shared summaries, and helps track action items to enhance team efficiency."
+        },
+        {
+            "question": "How accurate is the AI summarization?",
+            "answer": "The AI is trained on vast datasets for high accuracy, but users can edit summaries for precision. It improves over time with user feedback."
+        },
+        {
+            "question": "Does MyMeet.ai offer customer support?",
+            "answer": "Yes, support is available via email, chat, and a help center with tutorials and FAQs."
+        }
+    ]
+}

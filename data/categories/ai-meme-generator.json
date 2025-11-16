@@ -1,0 +1,160 @@
+{
+    "title": "The Best 14 AI Meme Generator Tools in 2025",
+    "summary": "Unleash your creativity with our AI Meme Generator category! These innovative tools empower you to effortlessly create hilarious and shareable memes, perfect for social media or personal use. With user-friendly interfaces and customizable options, you can generate unique content that resonates with your audience. Whether you're a marketer looking to engage followers or just want to have fun, our AI meme generators simplify the process and spark inspiration. Dive into the world of meme-making and explore our curated selection of tools today!",
+    "tools": [
+        {
+            "id": "156",
+            "name": "Kapwing",
+            "slug": "kapwing",
+            "description": "Kapwing is an online platform for creating and editing videos, images, and GIFs with user-friendly tools.",
+            "icon": "/logo/kapwing.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "495",
+            "name": "Reface",
+            "slug": "reface-ai",
+            "description": "Reface is an AI-powered platform for creating realistic face swaps and animations in photos, videos, and GIFs.",
+            "icon": "/logo/reface.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "526",
+            "name": "MyShell AI",
+            "slug": "myshell-ai",
+            "description": "MyShell AI is a platform for creating, sharing, and owning AI-powered agents and creative tools for image generation, voice cloning, and chatbots.",
+            "icon": "/logo/app.myshell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "541",
+            "name": "Deepswap",
+            "slug": "deepswap-ai",
+            "description": "Deepswap is an AI-powered platform for seamless face swapping in videos, photos, and GIFs, offering realistic results for creative and professional use.",
+            "icon": "/logo/www.deepswap.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "650",
+            "name": "VidMage",
+            "slug": "vidmage-ai",
+            "description": "VidMage is an AI-powered platform for seamless face swapping in photos, videos, and GIFs, offering realistic results for creative and entertainment purposes.",
+            "icon": "/logo/vidmage.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "718",
+            "name": "Glif",
+            "slug": "glif",
+            "description": "Glif is a low-code platform for creating AI-powered mini-apps and chatbots that generate multimedia content.",
+            "icon": "/logo/glif.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "825",
+            "name": "SendFame",
+            "slug": "sendfame",
+            "description": "SendFame is an AI-powered platform for creating personalized celebrity video messages and custom music for personal and parody use.",
+            "icon": "/logo/sendfame.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "846",
+            "name": "Supermeme.ai",
+            "slug": "supermeme-ai",
+            "description": "Supermeme.ai is an AI-powered platform that allows users to generate customized memes quickly for social media, marketing, and entertainment.",
+            "icon": "/logo/supermeme.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1039",
+            "name": "CrazyFaceAI",
+            "slug": "crazyfaceai",
+            "description": "CrazyFaceAI is an innovative platform that uses artificial intelligence to enable fun and creative face swapping and image manipulation for users seeking entertaining visual transformations.",
+            "icon": "/logo/crazyfaceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1064",
+            "name": "WeFaceSwap",
+            "slug": "wefaceswap",
+            "description": "WeFaceSwap is an AI-driven platform that enables users to easily swap faces in photos and videos for creative and entertainment purposes.",
+            "icon": "/logo/www.wefaceswap.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1103",
+            "name": "Tangia",
+            "slug": "tangia",
+            "description": "Tangia is a platform that enhances live streaming with AI-powered tools, interactive features, and a vast library of voices and memes for streamers.",
+            "icon": "/logo/www.tangia.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1377",
+            "name": "Italian Brainrot",
+            "slug": "italian-brainrot",
+            "description": "Italian Brainrot is a playful AI-powered platform that generates humorous, meme-inspired content focused on Italian culture and language to entertain users with lighthearted 'brainrot' style diversions.",
+            "icon": "/logo/italian-brainrot.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        },
+        {
+            "id": "1380",
+            "name": "Memu Pro",
+            "slug": "memu-pro",
+            "description": "Memu Pro is an AI-driven platform for generating and customizing personalized memes using intelligent tools.",
+            "icon": "/logo/memu.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-meme-generator"
+            ]
+        }
+    ]
+}

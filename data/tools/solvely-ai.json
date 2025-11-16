@@ -1,0 +1,65 @@
+{
+    "name": "Solvely",
+    "description": "Solvely is an AI-powered homework assistant providing step-by-step solutions for math, science, and other academic subjects.",
+    "longDescription": "Solvely is an AI-driven educational platform designed to assist students, parents, and educators by providing instant, step-by-step solutions to homework problems across various subjects, including math, physics, and chemistry. Powered by advanced AI models like GPT-4, it simplifies complex concepts for learners from K-12 to graduate levels. Users can upload images or type questions to receive detailed explanations, fostering understanding rather than just providing answers. The platform also offers tools like quiz generation and personalized tutoring to enhance learning outcomes. Its mission is to make academic support accessible, efficient, and engaging, helping users master challenging topics with ease. Solvely integrates with learning management systems like Canvas and Moodle for seamless educational support.",
+    "url": "https://solvely.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/solvely.ai.webp",
+    "category": "AI Homework Helper",
+    "categorySlug": "ai-homework-helper",
+    "slug": "solvely-ai",
+    "categories": [
+        "AI Homework Helper",
+        "AI Math",
+        "AI Tutorial",
+        "AI Quiz Generator",
+        "AI Image Recognition",
+        "AI Essay Writer",
+        "AI Note Taker"
+    ],
+    "features": [
+        "AI-powered problem solver delivers step-by-step solutions for math, physics, and chemistry, enhancing understanding of complex concepts.",
+        "Photo input allows users to snap pictures of homework problems for instant AI analysis and solutions.",
+        "Quiz generator creates customized quizzes from study materials, aiding exam preparation and self-assessment.",
+        "Personalized AI tutor provides tailored explanations and answers follow-up questions to clarify doubts.",
+        "Covers a wide range of subjects, including algebra, calculus, geometry, statistics, and liberal arts, for all academic levels.",
+        "Integration with platforms like Canvas, Blackboard, and Moodle streamlines academic workflows.",
+        "Free tier offers basic access to problem-solving and explanations, making it accessible to all users.",
+        "Essay draft generator creates structured essay outlines from prompts, helping students overcome writer’s block.",
+        "Note-taking tool transcribes and summarizes lecture audio, improving study efficiency.",
+        "High accuracy rate of 90% ensures reliable solutions, particularly for STEM subjects."
+    ],
+    "faqs": [
+        {
+            "question": "What subjects does Solvely cover?",
+            "answer": "Solvely covers a wide range of subjects, including math (algebra, calculus, geometry, statistics), physics, chemistry, and liberal arts, suitable for K-12 to graduate-level students."
+        },
+        {
+            "question": "Can I use Solvely for free?",
+            "answer": "Yes, Solvely offers a free tier with basic access to problem-solving and step-by-step explanations, though premium features require a subscription."
+        },
+        {
+            "question": "How does the photo input feature work?",
+            "answer": "Users can take a photo of a homework problem, and Solvely’s AI analyzes the image to provide instant, step-by-step solutions."
+        },
+        {
+            "question": "Does Solvely only solve math problems?",
+            "answer": "No, while Solvely excels in math, it also provides solutions for science, liberal arts, and other academic subjects."
+        },
+        {
+            "question": "Can Solvely help with exam preparation?",
+            "answer": "Yes, Solvely’s quiz generator creates customized quizzes, and its step-by-step solutions help students master concepts for exams."
+        },
+        {
+            "question": "Is an internet connection required to use Solvely?",
+            "answer": "Yes, Solvely requires an internet connection to provide real-time answers and solutions."
+        },
+        {
+            "question": "How accurate are Solvely’s solutions?",
+            "answer": "Solvely boasts a 90% accuracy rate, particularly in STEM subjects, ensuring reliable and precise answers."
+        },
+        {
+            "question": "Can teachers use Solvely for classroom activities?",
+            "answer": "Yes, teachers can use Solvely’s quiz generator and problem-solving features to create interactive materials and support students."
+        }
+    ]
+}

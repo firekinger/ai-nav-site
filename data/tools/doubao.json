@@ -1,0 +1,58 @@
+{
+    "name": "Doubao",
+    "description": "Doubao is an AI-powered conversational assistant platform by ByteDance, offering multimodal solutions for text, image, and audio tasks.",
+    "longDescription": "Doubao, developed by ByteDance, is a leading AI chatbot platform in China, designed to provide intelligent, multimodal conversational assistance. Launched in August 2024, it has rapidly gained popularity with nearly 60 million monthly active users by November 2024, outpacing competitors like Baidu and Alibaba-backed chatbots. The platform leverages ByteDance's ecosystem, integrating seamlessly with services like Douyin to enhance user engagement and personalization. Doubao's mission is to democratize AI access through an aggressive pricing strategy, making its advanced proprietary large models available to individuals, educators, and businesses. It excels in tasks like answering queries, generating content, and processing multimedia, with upcoming features like text-to-video generation further expanding its creative capabilities. This versatility positions Doubao as a comprehensive tool for productivity and creativity in daily life and professional settings.",
+    "url": "https://www.doubao.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/doubao.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "doubao",
+    "categories": [
+        "AI Chatbot",
+        "Text to Image",
+        "AI Translate",
+        "AI Music Generator",
+        "AI Cooking Assistant",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "Doubao provides instant answers to user queries across various topics, enhancing productivity and decision-making.",
+        "The platform supports text-to-image generation, enabling users to create visual content from simple prompts.",
+        "Doubao offers multilingual text translation, facilitating seamless communication across languages.",
+        "Users can generate audio content, such as songs or voiceovers, with AI-driven tools for creative projects.",
+        "The AI integrates with ByteDance's ecosystem, offering personalized experiences through data-driven recommendations.",
+        "Doubao's medical consultation feature provides quick health-related insights based on user inputs.",
+        "The platform supports audio recording and transcription, simplifying note-taking and content creation.",
+        "Doubao's upcoming text-to-video feature will allow users to create dynamic video content effortlessly."
+    ],
+    "faqs": [
+        {
+            "question": "What is Doubao and who created it?",
+            "answer": "Doubao is an AI-powered conversational assistant developed by ByteDance, designed to handle text, image, and audio tasks."
+        },
+        {
+            "question": "Do I need to register to use Doubao?",
+            "answer": "No registration is required for basic use, but registering with a TikTok account or phone number unlocks additional features."
+        },
+        {
+            "question": "Is Doubao free to use?",
+            "answer": "Doubao offers free access to its core features, with some advanced functionalities available to registered users."
+        },
+        {
+            "question": "Can Doubao generate images or videos?",
+            "answer": "Yes, Doubao supports text-to-image generation and will soon include text-to-video capabilities for creative projects."
+        },
+        {
+            "question": "What languages does Doubao support?",
+            "answer": "Doubao supports multiple languages for translation and communication, with strong performance in Chinese and English."
+        },
+        {
+            "question": "How does Doubao compare to other AI chatbots?",
+            "answer": "Doubao outperforms competitors like Baidu’s Wenxiaoyan and Alibaba’s Kimi in user base and multimodal capabilities."
+        },
+        {
+            "question": "Can Doubao assist with medical queries?",
+            "answer": "Yes, Doubao offers a medical consultation feature to provide quick health insights based on user inputs."
+        }
+    ]
+}

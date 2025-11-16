@@ -1,0 +1,73 @@
+{
+    "name": "Ryne AI",
+    "description": "Ryne AI is an innovative platform that uses artificial intelligence to generate rhymes, lyrics, and creative writing content for users in music and poetry.",
+    "longDescription": "Ryne AI is a cutting-edge AI-driven tool designed to assist users in creating rhymes, song lyrics, and poetic content effortlessly. Its mission is to democratize creative writing by leveraging advanced language models to inspire musicians, poets, and writers. The platform solves the problem of writer's block by providing instant suggestions based on user inputs like themes, styles, or keywords. It serves a wide range of users from amateur songwriters to professional artists looking for quick inspiration. By integrating AI with creative processes, Ryne AI enhances productivity and fosters innovation in artistic expression. Overall, it aims to make rhyme and lyric generation accessible and fun for everyone.",
+    "url": "https://ryne.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ryne.ai.webp",
+    "category": "AI Poem Generator",
+    "categorySlug": "ai-poem-generator",
+    "slug": "ryne-ai",
+    "categories": [
+        "AI Poem Generator",
+        "AI Lyrics Generator",
+        "AI Creative Writing",
+        "AI Song Generator",
+        "AI Music Generator",
+        "AI Writing",
+        "AI Inspirational Quotes"
+    ],
+    "features": [
+        "AI-powered rhyme generation that suggests perfect rhymes and near-rhymes based on user-provided words or phrases, saving time for writers.",
+        "Lyrics composition tool that creates full song verses or choruses tailored to specific genres like rap, pop, or folk, enhancing musical creativity.",
+        "Customizable style options allowing users to select tones such as romantic, humorous, or inspirational for personalized content output.",
+        "Integration with music apps to export generated lyrics directly into composition software, streamlining the songwriting workflow.",
+        "Real-time collaboration feature where multiple users can co-create lyrics with AI assistance, ideal for band members or writing teams.",
+        "Thesaurus and synonym suggestions embedded in the tool to expand vocabulary and improve the quality of generated content.",
+        "Free tier access with basic features, upgrading to premium for advanced AI models and unlimited generations.",
+        "User history and favorites saving to revisit and refine previous rhyme or lyric ideas easily.",
+        "Mobile-friendly interface for on-the-go inspiration, perfect for capturing ideas anytime, anywhere.",
+        "Feedback system that learns from user edits to improve future suggestions, making the AI smarter over time."
+    ],
+    "faqs": [
+        {
+            "question": "What is Ryne AI primarily used for?",
+            "answer": "Ryne AI is mainly used for generating rhymes, lyrics, and creative writing content using AI technology. It helps users overcome creative blocks by providing instant suggestions based on their inputs."
+        },
+        {
+            "question": "Is Ryne AI free to use?",
+            "answer": "Yes, Ryne AI offers a free plan with limited daily generations and basic features. Users can upgrade to a paid subscription for unlimited access and advanced tools."
+        },
+        {
+            "question": "How does the rhyme generation work?",
+            "answer": "Users input a word or phrase, and the AI analyzes it to produce matching rhymes, near-rhymes, and suggestions. It considers phonetic similarities and context for accurate results."
+        },
+        {
+            "question": "Can I use Ryne AI for professional music production?",
+            "answer": "Absolutely, many professionals use it for inspiration in songwriting. However, it's recommended to refine AI-generated content to ensure originality and fit your style."
+        },
+        {
+            "question": "Does Ryne AI support different languages?",
+            "answer": "Currently, it primarily supports English, with plans to expand to other languages. Users can request features for multilingual support."
+        },
+        {
+            "question": "How secure is my data on Ryne AI?",
+            "answer": "Ryne AI prioritizes user privacy with encrypted data storage and no sharing of personal creations without consent. You own all content you generate."
+        },
+        {
+            "question": "Can I collaborate with others using Ryne AI?",
+            "answer": "Yes, the platform includes real-time collaboration tools for sharing sessions and co-editing lyrics with team members."
+        },
+        {
+            "question": "What makes Ryne AI different from other AI writing tools?",
+            "answer": "Ryne AI specializes in rhyme and lyric generation with music-focused features, unlike general writing tools. It integrates audio previews and genre-specific templates for a tailored experience."
+        },
+        {
+            "question": "Is there a mobile app for Ryne AI?",
+            "answer": "Ryne AI is accessible via web on mobile devices, with a dedicated app in development for better offline functionality."
+        },
+        {
+            "question": "How accurate are the AI suggestions?",
+            "answer": "The suggestions are highly accurate based on advanced NLP models, but users can provide feedback to refine outputs. Accuracy improves with user-specific customizations."
+        }
+    ]
+}

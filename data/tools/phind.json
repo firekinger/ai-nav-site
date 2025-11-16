@@ -1,0 +1,65 @@
+{
+    "name": "Phind",
+    "description": "Phind is an AI-powered search engine designed for developers, providing instant answers and code examples for technical queries.",
+    "longDescription": "Phind is an AI-driven search engine and assistant tailored for developers, leveraging generative AI and large language models to deliver fast, accurate answers to technical and coding questions. Founded in 2022 by Michael Royzen in San Francisco, it aims to streamline development workflows by providing contextual, high-quality responses. Unlike traditional search engines, Phind combines web results with AI-generated answers, offering code snippets, explanations, and guides. It supports a conversational interface, allowing users to ask follow-up questions while maintaining context, making it ideal for debugging and learning. The platform is optimized for speed, delivering answers in about 15 seconds, and is trusted by developers at institutions like the University of Texas at Austin. Phind’s mission is to enhance coding efficiency and help developers transition from ideas to functional products seamlessly.",
+    "url": "https://www.phind.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.phind.com.webp",
+    "category": "AI Search Engine",
+    "categorySlug": "ai-search-engine",
+    "slug": "phind",
+    "categories": [
+        "AI Search Engine",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Art Generator",
+        "AI Developer Tools",
+        "SQL Query Builder",
+        "AI Chatbot"
+    ],
+    "features": [
+        "Phind delivers answers to technical queries within 15 seconds, minimizing search time and boosting productivity.",
+        "The platform generates accurate code snippets and examples, helping developers implement solutions quickly.",
+        "It integrates with users’ codebases, providing real-time, context-aware suggestions and debugging assistance.",
+        "Phind’s 32K token context window supports comprehensive responses for complex programming tasks.",
+        "The conversational interface retains conversation history, enabling seamless follow-up questions.",
+        "A VS Code extension provides in-editor AI assistance, streamlining coding workflows.",
+        "Phind’s Pro plan offers unlimited access to advanced models like Phind-405B and Phind-70B, plus features like in-browser code testing.",
+        "Users can opt out of data training, ensuring privacy for sensitive projects.",
+        "The platform supports multiple programming languages, including Python, Java, and C++.",
+        "Phind’s cited sources can be hovered over for transparency, enhancing trust in answers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Phind used for?",
+            "answer": "Phind is an AI-powered search engine designed for developers to get quick, accurate answers and code examples for technical and programming queries."
+        },
+        {
+            "question": "Is Phind free to use?",
+            "answer": "Yes, Phind offers a free plan with unlimited access to its own AI model and limited daily uses of advanced models like GPT-4."
+        },
+        {
+            "question": "Does Phind support multiple programming languages?",
+            "answer": "Yes, Phind supports various programming languages, including Python, Java, C++, and more, providing tailored code solutions."
+        },
+        {
+            "question": "Can Phind integrate with my codebase?",
+            "answer": "Phind can connect with users’ codebases to offer real-time, context-aware suggestions and debugging assistance."
+        },
+        {
+            "question": "How fast does Phind provide answers?",
+            "answer": "Phind typically delivers answers within 15 seconds, making it a fast solution for developers."
+        },
+        {
+            "question": "Is there a mobile app for Phind?",
+            "answer": "Phind does not have a native mobile app but offers Progressive Web App (PWA) support for iOS and Android via browser."
+        },
+        {
+            "question": "What is the Phind Pro plan?",
+            "answer": "Phind Pro offers unlimited access to advanced models, multi-query search, in-browser code testing, and a 32K token context window."
+        },
+        {
+            "question": "How accurate is Phind for coding tasks?",
+            "answer": "Phind achieves a 75% PASS 1 rate, meaning it delivers correct answers on the first try 75% of the time, and scores 82.3% on the HumanEval benchmark."
+        }
+    ]
+}

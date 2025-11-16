@@ -1,0 +1,71 @@
+{
+    "name": "AI Outreach",
+    "description": "AI Outreach is a platform that generates unique, personalized messages for cold email, LinkedIn, and SMS outreach, enhancing sender reputation and conversion rates.",
+    "longDescription": "AI Outreach is an AI-powered platform designed to create personalized outreach messages for cold email, LinkedIn, and SMS to improve engagement and conversion. It uses advanced AI analysis and research, including Light Research powered by Gemini Flash, to ensure messages are unique and LinkedIn-safe. The platform processes prospect data through a multi-stage pipeline, including profile enrichment, deep web research, and lead qualification, achieving 99% accuracy in identifying qualified prospects. It aims to double LinkedIn response rates and triple email-to-appointment conversions with tailored messages. Users can upload CSV files and receive ready-to-send, personalized messages under 270 characters.",
+    "url": "https://aioutreach.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aioutreach.io.webp",
+    "category": "AI Message Generator",
+    "categorySlug": "ai-message-generator",
+    "slug": "ai-outreach",
+    "categories": [
+        "AI Message Generator",
+        "AI Social Media",
+        "AI Lead Generation",
+        "AI Email Marketing",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Generates 100% unique and personalized messages for cold email, LinkedIn, and SMS to protect sender reputation.",
+        "Offers Light Research powered by Gemini Flash for affordable, email-forward volume outreach.",
+        "Achieves 99% accuracy in lead qualification using advanced AI analysis and comprehensive research.",
+        "Doubles LinkedIn response rates and triples email-to-appointment conversions with tailored messages.",
+        "Supports intelligent file processing for CSV and Excel formats with automatic column detection, handling up to 10MB files.",
+        "Fetches detailed LinkedIn profiles in real-time for both sender and prospects, supporting 50k+ profiles.",
+        "Provides deep web research on prospects using Perplexity AI with 10+ data sources and 30-day recency.",
+        "Allows export of enriched prospect data and messages as CSV with instant download and auto-formatting.",
+        "Processes each prospect in 10-15 seconds through a six-step AI pipeline including upload, parse, research, and message generation.",
+        "Offers a simple three-step process: upload CSV, AI research and analysis, and receive personalized messages ready to send."
+    ],
+    "faqs": [
+        {
+            "question": "Do I need a credit card to start using AI Outreach?",
+            "answer": "No, no credit card is required for instant access."
+        },
+        {
+            "question": "How many free prospects can I start with?",
+            "answer": "You can start with 5 free prospects."
+        },
+        {
+            "question": "What file formats does AI Outreach support for uploads?",
+            "answer": "It supports CSV and Excel formats with automatic column detection."
+        },
+        {
+            "question": "How long does it take to process each prospect?",
+            "answer": "It takes 10-15 seconds per prospect through the AI pipeline."
+        },
+        {
+            "question": "Are the generated messages LinkedIn-safe?",
+            "answer": "Yes, messages are designed to never be flagged as spam or generic outreach."
+        },
+        {
+            "question": "What is the maximum file size for uploads?",
+            "answer": "The maximum file size is 10MB."
+        },
+        {
+            "question": "Does AI Outreach provide research on prospects?",
+            "answer": "Yes, it includes deep web research using Perplexity AI with 10+ data sources and 30-day recency."
+        },
+        {
+            "question": "Can I download the results?",
+            "answer": "Yes, you can download enriched data and messages as CSV with instant download and auto-formatting."
+        },
+        {
+            "question": "What is the accuracy rate for lead qualification?",
+            "answer": "It achieves 99% accuracy in identifying qualified prospects."
+        },
+        {
+            "question": "How does AI Outreach improve outreach campaigns?",
+            "answer": "It doubles LinkedIn response rates and triples email-to-appointment conversions with personalized messages."
+        }
+    ]
+}

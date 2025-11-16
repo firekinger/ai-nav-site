@@ -1,0 +1,66 @@
+{
+    "name": "Wordtune",
+    "description": "Wordtune is an AI-powered writing assistant that enhances clarity, tone, and fluency in written content.",
+    "longDescription": "Wordtune is an AI-driven writing companion designed to improve the clarity, coherence, and authenticity of written content across various platforms. It leverages advanced natural language processing to offer real-time suggestions for paraphrasing, rewriting, and adjusting tone to match the user's intent and audience. The platform serves professionals, students, and casual writers by streamlining the writing process and reducing errors. Its mission is to empower users to express their ideas confidently, whether drafting emails, essays, or marketing content. Wordtune also supports multilingual translation, making it a valuable tool for non-native English speakers. By integrating seamlessly with browsers and apps, it ensures accessibility wherever users write.",
+    "url": "https://www.wordtune.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.wordtune.com.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "wordtune",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Paraphraser",
+        "AI Grammar Checker",
+        "AI Research Tool",
+        "AI Translate",
+        "AI Writing",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Paraphrasing tool reshapes sentences into clear, engaging alternatives while preserving meaning.",
+        "Grammar and spelling checker ensures error-free text with real-time corrections.",
+        "Tone adjustment allows users to switch between formal and casual tones with one click.",
+        "AI-powered translation rewrites text from 10 languages into fluent English.",
+        "Content generation creates contextually relevant text based on user input or prompts.",
+        "Sentence lengthening or shortening tailors content to meet specific word count needs.",
+        "Synonym tool provides alternative word choices to enhance vocabulary and avoid repetition.",
+        "Browser extension integrates seamlessly with Chrome, Edge, and Firefox for writing on any website.",
+        "Mobile keyboard enables AI-assisted writing on iOS and Android devices.",
+        "Summarizer condenses articles, PDFs, or videos to save reading time.",
+        "Citation support includes sources with generated content to ensure credibility and avoid plagiarism."
+    ],
+    "faqs": [
+        {
+            "question": "What is Wordtune used for?",
+            "answer": "Wordtune is an AI writing assistant that helps users paraphrase, adjust tone, correct grammar, and generate content for emails, essays, and more."
+        },
+        {
+            "question": "Does Wordtune offer a free plan?",
+            "answer": "Yes, Wordtune provides a free plan with up to 10 rewrites, three AI generations, and three summaries daily, plus unlimited grammar corrections."
+        },
+        {
+            "question": "Can Wordtune help with academic writing?",
+            "answer": "Wordtune is ideal for students, offering citation support and paraphrasing tools to avoid plagiarism and meet word count requirements."
+        },
+        {
+            "question": "Which languages does Wordtune support for translation?",
+            "answer": "Wordtune supports translation and rewriting from 10 languages, including Spanish, Mandarin, Arabic, and French, into English."
+        },
+        {
+            "question": "Is Wordtune compatible with my browser?",
+            "answer": "Wordtune’s extension works with Chrome, Edge, Firefox, and Arc, integrating with most websites where you write."
+        },
+        {
+            "question": "How does Wordtune ensure data privacy?",
+            "answer": "Wordtune anonymizes user inputs, removes personal information, and complies with ISO27001 standards to protect privacy."
+        },
+        {
+            "question": "Can Wordtune be used on mobile devices?",
+            "answer": "Yes, Wordtune offers a mobile keyboard for iOS and Android, enabling AI-assisted writing on the go."
+        },
+        {
+            "question": "Does Wordtune integrate with other apps?",
+            "answer": "Wordtune integrates with web applications, browsers, Google Docs, and Microsoft Word for seamless use."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "ExcelDashboard.ai",
+    "description": "ExcelDashboard.ai is an AI-powered platform that simplifies the creation and management of interactive data dashboards within Microsoft Excel.",
+    "longDescription": "ExcelDashboard.ai is a cutting-edge AI tool designed to automate and enhance the process of building dashboards in Excel, making data visualization accessible to users without advanced technical skills. Its mission is to empower businesses and individuals to derive insights from data quickly by leveraging artificial intelligence to generate charts, graphs, and reports. The platform solves common problems like time-consuming manual dashboard creation and the need for programming knowledge by providing intuitive AI-driven suggestions and automations. Users can upload data, describe their needs, and let the AI handle the rest, resulting in professional-grade dashboards. This serves professionals in various fields, from finance to marketing, by streamlining data analysis workflows. Overall, it bridges the gap between raw data and actionable insights using AI technology.",
+    "url": "https://www.exceldashboard.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.exceldashboard.ai.webp",
+    "category": "Excel AI",
+    "categorySlug": "excel-ai",
+    "slug": "exceldashboard-ai",
+    "categories": [
+        "Excel AI",
+        "AI Charting",
+        "AI Excel Formula Generator",
+        "AI For Data Analytics",
+        "AI Report Writing",
+        "AI Productivity Tools",
+        "AI Predictions"
+    ],
+    "features": [
+        "AI-powered dashboard generation automatically creates interactive Excel dashboards based on user-uploaded data and simple descriptions, saving hours of manual work.",
+        "Data visualization suggestions provide intelligent recommendations for charts, graphs, and layouts to best represent the underlying data patterns.",
+        "Seamless integration with Microsoft Excel allows users to import and export dashboards directly, maintaining compatibility with existing workflows.",
+        "Customizable templates offer pre-built designs that can be tailored via AI to fit specific business needs or branding.",
+        "Real-time data updating enables dashboards to refresh automatically with new data inputs, ensuring up-to-date insights.",
+        "Collaboration tools facilitate sharing and editing of dashboards among team members for enhanced productivity.",
+        "Advanced analytics features include AI-driven trend predictions and anomaly detection within the Excel environment.",
+        "User-friendly interface with natural language processing allows users to query and modify dashboards using everyday language.",
+        "Export options to various formats like PDF or web embeds make it easy to present dashboards outside of Excel.",
+        "Security measures ensure data privacy and compliance with standards like GDPR during AI processing."
+    ],
+    "faqs": [
+        {
+            "question": "What is ExcelDashboard.ai?",
+            "answer": "ExcelDashboard.ai is an AI tool that helps users create professional dashboards in Excel by automating design and data visualization processes. It uses artificial intelligence to interpret data and generate insights without requiring coding skills."
+        },
+        {
+            "question": "How do I get started with ExcelDashboard.ai?",
+            "answer": "Sign up for a free account on the website, upload your Excel data, and describe what kind of dashboard you need. The AI will generate it automatically, and you can customize it further."
+        },
+        {
+            "question": "Does ExcelDashboard.ai require any software installation?",
+            "answer": "No, it's a web-based platform that integrates directly with Microsoft Excel. You can access it through your browser and export results to Excel files."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, ExcelDashboard.ai offers a free tier with limited features for basic dashboard creation. Upgrading to paid plans unlocks advanced AI capabilities and unlimited usage."
+        },
+        {
+            "question": "What types of data can I use with this tool?",
+            "answer": "It supports various data formats including CSV, Excel spreadsheets, and database exports. The AI can handle numerical, categorical, and time-series data for comprehensive analysis."
+        },
+        {
+            "question": "How secure is my data on ExcelDashboard.ai?",
+            "answer": "The platform employs encryption andingame (3D) and adheres to strict security standards to protect user data. Data is not stored without permission and is deleted after processing unless specified otherwise."
+        },
+        {
+            "question": "Can I collaborate with others on dashboards?",
+            "answer": "Yes, the tool includes sharing features that allow multiple users to view, edit, and comment on dashboards in real-time."
+        },
+        {
+            "question": "What if I need custom features?",
+            "answer": "Paid plans offer customization options, and enterprise users can request tailored AI models. Contact support for specific requirements."
+        }
+    ]
+}

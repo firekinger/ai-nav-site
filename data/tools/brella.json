@@ -1,0 +1,69 @@
+{
+    "name": "Brella",
+    "description": "Brella is an event networking platform that uses AI to facilitate meaningful connections and engagement for virtual, hybrid, and in-person events.",
+    "longDescription": "Brella is a comprehensive event management and networking platform designed to enhance attendee experiences through intelligent matchmaking and seamless interactions. Its mission is to empower event organizers, sponsors, and participants to build valuable connections that drive business outcomes and foster community. The platform addresses common challenges in event planning, such as low engagement and inefficient networking, by leveraging AI to suggest personalized matches based on user profiles and goals. It serves a wide range of users, including corporations, associations, and event agencies, helping them host successful events across various formats. Overall, Brella transforms traditional events into dynamic, data-driven experiences that maximize ROI and participant satisfaction.",
+    "url": "https://www.brella.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.brella.io.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "brella",
+    "categories": [
+        "AI Meeting Assistant",
+        "AI Lead Generation",
+        "AI Data Mining"
+    ],
+    "features": [
+        "AI-powered matchmaking connects attendees with relevant contacts based on shared interests, goals, and profiles, enhancing networking efficiency.",
+        "Customizable event agendas allow organizers to create personalized schedules, ensuring smooth flow and high engagement for participants.",
+        "Live streaming and virtual meeting tools enable hybrid event formats, making it easy to include remote attendees in real-time sessions.",
+        "Sponsor management features provide dedicated spaces for partners to showcase offerings, generate leads, and measure ROI through analytics.",
+        "Real-time chat and messaging facilitate instant communication between attendees, fostering spontaneous connections and discussions.",
+        "Mobile app integration offers on-the-go access to event details, networking opportunities, and updates, improving user convenience.",
+        "Advanced analytics and reporting deliver insights into attendee behavior, engagement metrics, and overall event performance for data-driven improvements.",
+        "Integration with CRM and other tools streamlines data flow, allowing seamless synchronization of contacts and event information.",
+        "Custom branding options enable organizers to tailor the platform's look and feel to match their event's theme and identity.",
+        "Secure data handling ensures compliance with privacy standards, protecting user information during events and interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Brella?",
+            "answer": "Brella is an event networking platform that uses AI to connect attendees, sponsors, and organizers for more effective virtual, hybrid, and in-person events. It focuses on matchmaking, scheduling, and engagement tools to enhance overall event experiences."
+        },
+        {
+            "question": "How does Brella's AI matchmaking work?",
+            "answer": "Brella's AI analyzes user profiles, interests, and goals to suggest personalized connections. This helps attendees find relevant matches quickly, increasing the chances of meaningful interactions and business opportunities."
+        },
+        {
+            "question": "Is Brella suitable for virtual events?",
+            "answer": "Yes, Brella supports fully virtual events with features like live streaming, virtual meetings, and digital networking. It ensures remote participants can engage just as effectively as in-person attendees."
+        },
+        {
+            "question": "What types of events can use Brella?",
+            "answer": "Brella is versatile for conferences, trade shows, corporate meetings, and networking events across industries. It scales for small gatherings to large-scale international events."
+        },
+        {
+            "question": "How does Brella help sponsors?",
+            "answer": "Sponsors get dedicated profiles, lead generation tools, and analytics to track interactions. This maximizes visibility and helps measure the return on their event investment."
+        },
+        {
+            "question": "Can Brella integrate with other software?",
+            "answer": "Yes, Brella integrates with CRM systems, marketing tools, and registration platforms for seamless data management. This reduces manual work and enhances event efficiency."
+        },
+        {
+            "question": "What analytics does Brella provide?",
+            "answer": "Brella offers real-time insights into attendance, engagement, networking activity, and ROI. Organizers can use these metrics to evaluate success and plan future events."
+        },
+        {
+            "question": "Is there a mobile app for Brella?",
+            "answer": "Yes, Brella's mobile app allows users to access event agendas, network on the go, and receive updates. It's available for iOS and Android devices."
+        },
+        {
+            "question": "How secure is Brella?",
+            "answer": "Brella prioritizes data security with GDPR compliance, encryption, and secure access controls. This ensures user information is protected during all event interactions."
+        },
+        {
+            "question": "What support does Brella offer?",
+            "answer": "Brella provides dedicated event success managers, training resources, and 24/7 support. This helps organizers set up and run events smoothly."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "ChatFAI",
+    "description": "ChatFAI is an AI-powered platform for interactive conversations with fictional and historical characters from various media.",
+    "longDescription": "ChatFAI is an innovative AI-driven web application that enables users to engage in lifelike conversations with characters from movies, TV shows, books, and historical contexts. Its mission is to provide an immersive and entertaining experience, allowing fans to interact with their favorite characters as if they were real. By leveraging advanced natural language processing and machine learning, the platform ensures natural dialogue flow and maintains conversation context for a seamless user experience. Users can choose from a vast library of pre-existing characters or create custom personalities tailored to their preferences. ChatFAI prioritizes user privacy with encrypted conversations, making it a secure space for personal and creative interactions. The platform also supports cross-platform integration, such as Discord, to enhance community engagement.",
+    "url": "https://chatfai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chatfai.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "chatfai",
+    "categories": [
+        "AI Chatbot",
+        "AI Character",
+        "AI Language Learning",
+        "AI Roleplay",
+        "AI Story Generator",
+        "AI Voice Assistants",
+        "AI Translate"
+    ],
+    "features": [
+        "Engage in realistic conversations with AI-driven fictional and historical characters for an immersive experience.",
+        "Create and customize unique characters with specific traits, backgrounds, and appearances to suit user preferences.",
+        "Access a vast library of pre-existing characters from movies, TV shows, books, and history for diverse interactions.",
+        "Enjoy secure and private conversations with encrypted chat storage to protect user data.",
+        "Integrate ChatFAI with Discord to share characters and engage in group chats with friends.",
+        "Utilize voice chat functionality with select characters for a more interactive and lifelike experience.",
+        "Explore role-playing scenarios and interactive storytelling with characters for creative engagement.",
+        "Interact in multiple languages to accommodate users from diverse linguistic backgrounds."
+    ],
+    "faqs": [
+        {
+            "question": "What is ChatFAI?",
+            "answer": "ChatFAI is an AI-powered platform that allows users to have realistic conversations with characters from movies, TV shows, books, and history, or create custom characters."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, ChatFAI offers a free plan with 500 messages per month, limited memory, and access to community characters."
+        },
+        {
+            "question": "Can I create my own characters?",
+            "answer": "Yes, users can create custom characters by defining their name, personality, background, and appearance through the 'My Characters' section."
+        },
+        {
+            "question": "Is my data secure on ChatFAI?",
+            "answer": "ChatFAI ensures user privacy with encrypted conversations and secure storage, preventing unauthorized access to chat data."
+        },
+        {
+            "question": "Can I use ChatFAI on other platforms?",
+            "answer": "Yes, ChatFAI integrates with Discord, allowing users to add characters to servers and engage in group conversations."
+        },
+        {
+            "question": "Does ChatFAI support voice interactions?",
+            "answer": "Certain characters support voice chat functionality, enabling users to send and receive voice messages for a more immersive experience."
+        },
+        {
+            "question": "Can I chat with real people or celebrities?",
+            "answer": "No, ChatFAI only supports interactions with AI-generated fictional or historical characters, not real individuals."
+        },
+        {
+            "question": "How can I report inappropriate content?",
+            "answer": "Users can report issues by selecting the 'Report' option under a character’s menu and providing a reason for the report."
+        }
+    ]
+}

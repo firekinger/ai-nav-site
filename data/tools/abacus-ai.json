@@ -1,0 +1,57 @@
+{
+    "name": "Abacus.AI",
+    "description": "Abacus.AI provides enterprise-grade AI solutions for building and deploying custom machine learning models.",
+    "longDescription": "Abacus.AI is a comprehensive AI platform designed to simplify the development, deployment, and management of machine learning models for enterprises. It offers end-to-end AI solutions, enabling businesses to leverage data for predictive analytics, natural language processing, and computer vision. The platform automates complex machine learning tasks, making it accessible to non-experts while providing advanced tools for data scientists. Abacus.AI serves industries like finance, healthcare, and retail by delivering scalable, production-ready AI models. Its mission is to democratize AI, allowing organizations to integrate intelligent solutions seamlessly into their operations.",
+    "url": "https://abacus.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/abacus.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "abacus-ai",
+    "categories": [
+        "AI Predictions",
+        "AI Writing",
+        "AI Image Recognition",
+        "AI Art Generator",
+        "AI Customer Service",
+        "AI For Data Analytics",
+        "AI Assistant"
+    ],
+    "features": [
+        "Abacus.AI enables rapid development of custom AI models tailored to specific business needs, reducing development time.",
+        "The platform automates data preprocessing, model training, and hyperparameter tuning for efficient workflows.",
+        "It supports advanced natural language processing for tasks like text classification and sentiment analysis.",
+        "Abacus.AI offers computer vision capabilities for image recognition and object detection applications.",
+        "Real-time model deployment ensures AI solutions are scalable and production-ready.",
+        "The platform provides monitoring and retraining tools to maintain model accuracy over time.",
+        "It integrates seamlessly with existing enterprise systems for streamlined adoption.",
+        "Abacus.AI includes explainability features to interpret model predictions for transparency.",
+        "The platform supports generative AI for creating synthetic data and enhancing creativity.",
+        "It offers pre-built templates for common use cases like churn prediction and fraud detection."
+    ],
+    "faqs": [
+        {
+            "question": "What types of AI models can I build with Abacus.AI?",
+            "answer": "Abacus.AI supports a wide range of models, including predictive analytics, NLP, computer vision, and generative AI, tailored to specific business use cases."
+        },
+        {
+            "question": "Is Abacus.AI suitable for non-technical users?",
+            "answer": "Yes, the platform automates complex tasks, making it accessible to non-experts while offering advanced tools for data scientists."
+        },
+        {
+            "question": "Does Abacus.AI offer a free plan?",
+            "answer": "Abacus.AI does not offer a free plan but provides enterprise-grade solutions with pricing based on usage and needs."
+        },
+        {
+            "question": "How does Abacus.AI ensure model performance over time?",
+            "answer": "The platform includes monitoring and automated retraining features to maintain model accuracy and relevance."
+        },
+        {
+            "question": "Can Abacus.AI integrate with existing business systems?",
+            "answer": "Yes, Abacus.AI is designed to integrate seamlessly with enterprise systems for smooth implementation."
+        },
+        {
+            "question": "What industries does Abacus.AI serve?",
+            "answer": "Abacus.AI caters to industries like finance, healthcare, retail, and more, offering tailored AI solutions."
+        }
+    ]
+}

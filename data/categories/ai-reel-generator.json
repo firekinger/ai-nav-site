@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Reel Generator Tools in 2025",
+    "summary": "Discover the power of AI Reel Generators, designed to transform your video content creation process. These innovative tools streamline the production of engaging reels, enabling you to captivate your audience with minimal effort. Key benefits include automated editing, customizable templates, and enhanced storytelling capabilities, making it easier than ever to share your message. Whether you're a marketer, content creator, or business owner, these AI solutions cater to your unique needs. Explore our curated selection of AI Reel Generators today and elevate your video content to new heights!",
+    "tools": [
+        {
+            "id": "1077",
+            "name": "Outset",
+            "slug": "outset-ai",
+            "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+            "icon": "/logo/outset.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-reel-generator"
+            ]
+        }
+    ]
+}

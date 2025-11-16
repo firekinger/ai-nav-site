@@ -1,0 +1,62 @@
+{
+    "name": "Beatoven.ai",
+    "description": "Beatoven.ai is an AI-powered platform that generates royalty-free, customizable background music for videos, podcasts, and games.",
+    "longDescription": "Beatoven.ai is an innovative AI music generation platform designed to empower content creators, filmmakers, podcasters, and game developers by providing royalty-free, customizable background music. Founded in 2021 by Mansoor Rahimat Khan and Siddharth Bhardwaj, the platform leverages advanced AI technology to create unique, mood-based tracks tailored to users' creative visions without requiring musical expertise. It uses ethically sourced data and collaborates with musicians to ensure fair compensation and legal compliance. The user-friendly interface allows creators to input text prompts, select genres, moods, and instruments, and edit tracks in real-time to align with their projects. Beatoven.ai addresses the challenge of copyright issues by offering a non-exclusive perpetual license with each download, enabling worry-free monetization across platforms like YouTube and social media. The platform has attracted over 1.5 million users and generated more than 3 million tracks, making it a go-to solution for accessible, high-quality music creation.",
+    "url": "https://www.beatoven.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.beatoven.ai.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "beatoven-ai",
+    "categories": [
+        "AI Music Generator",
+        "AI Creative Writing",
+        "AI Writing",
+        "AI Audio Editing"
+    ],
+    "features": [
+        "Generate royalty-free music instantly based on text prompts, moods, or uploaded video/audio, aligning perfectly with content creators’ needs.",
+        "Choose from eight genres, such as cinematic or pop, and 16 moods, like motivational or dreamy, to create tailored soundtracks.",
+        "Customize tracks by selecting or editing instruments, tempo, and composition elements for precise alignment with creative projects.",
+        "Download music stems in MP3 or WAV formats with a non-exclusive perpetual license for monetization across digital platforms.",
+        "Use an interactive editing suite to tweak tracks in real-time without requiring prior music production knowledge.",
+        "Access AI-driven suggestions to enhance compositions based on advanced music theory and production techniques.",
+        "Collaborate with others online to refine tracks, enabling seamless teamwork for remote music creation projects.",
+        "Analyze video or audio content to automatically generate music that matches the tone and pacing of the input.",
+        "Ensure ethical music creation with Fairly Trained certification, using only licensed data and compensating contributing musicians.",
+        "Export and share tracks directly to social media or embed them in presentations and websites for versatile use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Beatoven.ai used for?",
+            "answer": "Beatoven.ai is used to create royalty-free, AI-generated background music for videos, podcasts, games, and other content, customizable to fit specific moods and genres."
+        },
+        {
+            "question": "Do I need musical expertise to use Beatoven.ai?",
+            "answer": "No, Beatoven.ai’s intuitive interface allows users to create high-quality music using simple text prompts or uploads without any music theory knowledge."
+        },
+        {
+            "question": "Can I use Beatoven.ai music for commercial purposes?",
+            "answer": "Yes, each downloaded track comes with a non-exclusive perpetual license, allowing monetization on platforms like YouTube, Twitch, and Instagram, but check the licensing terms for specifics."
+        },
+        {
+            "question": "Is there a free version of Beatoven.ai?",
+            "answer": "Yes, Beatoven.ai offers a free version with limited features, while premium subscriptions provide full access to advanced customization and capabilities."
+        },
+        {
+            "question": "Will I face copyright issues using Beatoven.ai music?",
+            "answer": "You should not face copyright claims, as tracks are royalty-free; if a claim occurs, use the provided track ID and license to resolve it via Beatoven.ai’s support."
+        },
+        {
+            "question": "Can I upload Beatoven.ai music to Spotify?",
+            "answer": "No, direct distribution on music streaming platforms like Spotify is not allowed, but tracks can be used as samples in remixes."
+        },
+        {
+            "question": "How does Beatoven.ai ensure ethical AI practices?",
+            "answer": "Beatoven.ai is certified by Fairly Trained, using only licensed data and compensating musicians, ensuring ethical and creator-friendly music generation."
+        },
+        {
+            "question": "What formats can I download music in?",
+            "answer": "Tracks can be downloaded as MP3 or WAV stems, offering flexibility for integration into various content creation workflows."
+        }
+    ]
+}

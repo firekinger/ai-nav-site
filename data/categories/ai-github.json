@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Github Tools in 2025",
+    "summary": "Discover the power of AI in software development with our 'AI GitHub' category. This curated selection of tools enhances your coding experience by automating tasks, improving collaboration, and optimizing code quality. Whether you're a developer seeking to streamline workflows or a team leader aiming to boost productivity, these AI-driven solutions are designed to meet your needs. Explore our collection to unlock innovative features that can transform your projects and elevate your coding efficiency. Dive in now and revolutionize your development process!",
+    "tools": [
+        {
+            "id": "132",
+            "name": "Lovable",
+            "slug": "lovable",
+            "description": "Lovable.dev is an AI-powered platform that enables users to build full-stack web applications using natural language prompts.",
+            "icon": "/logo/lovable.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-github"
+            ]
+        },
+        {
+            "id": "434",
+            "name": "Eraser",
+            "slug": "eraser",
+            "description": "Eraser is a collaborative platform for engineering teams to create, edit, and share technical documentation and diagrams.",
+            "icon": "/logo/www.eraser.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-github"
+            ]
+        },
+        {
+            "id": "633",
+            "name": "Locofy",
+            "slug": "locofy-ai",
+            "description": "Locofy.ai converts Figma and Adobe XD designs into production-ready frontend code, accelerating web and mobile app development.",
+            "icon": "/logo/www.locofy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-github"
+            ]
+        },
+        {
+            "id": "1028",
+            "name": "Codeflash",
+            "slug": "codeflash-ai",
+            "description": "Codeflash is an AI-powered tool that optimizes Python code for performance, verifies correctness, and integrates with GitHub to enhance development speed.",
+            "icon": "/logo/www.codeflash.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-github"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Magic Hour",
+    "description": "Magic Hour is an AI-powered platform for creating and editing professional-quality videos with ease.",
+    "longDescription": "Magic Hour is an all-in-one AI video creation platform designed to simplify the process of producing professional-grade videos for creators, businesses, and individuals. Leveraging advanced AI technology, it enables users to generate, edit, and enhance videos without requiring extensive technical skills or expensive software. The platform supports a wide range of use cases, from social media content to marketing campaigns, by offering intuitive tools and templates. Its mission is to democratize video production, making it accessible to everyone, from amateurs to seasoned professionals. Magic Hour stands out by combining AI automation with user-friendly interfaces, reducing the time and cost of video creation. It caters to users looking to streamline workflows while maintaining high-quality outputs.",
+    "url": "https://magichour.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/magichour.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "magic-hour",
+    "categories": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Animation Generator",
+        "AI Social Media Post Generator",
+        "AI Lip Sync Generator",
+        "AI Voice Over",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "AI Video Generator creates professional videos from text prompts or scripts in minutes.",
+        "Text-to-Video feature converts written content into engaging video content effortlessly.",
+        "Video Templates provide customizable, pre-designed layouts for quick video creation.",
+        "AI Video Editor allows users to trim, enhance, and refine videos with automated tools.",
+        "Animation Maker generates dynamic animations for intros, outros, or full videos.",
+        "Video-to-Video tool transforms existing footage into new styles or formats using AI.",
+        "Auto Subtitling adds accurate, customizable captions to videos for accessibility.",
+        "AI Voiceovers generate natural-sounding voice narrations from text inputs.",
+        "Background Removal isolates subjects in videos for professional-grade editing.",
+        "Stock Footage Integration provides access to a library of high-quality video clips.",
+        "Social Media Optimization tailors videos for platforms like Instagram, TikTok, and YouTube.",
+        "Real-Time Previews let users see edits instantly before finalizing projects.",
+        "Multi-Language Support enables video creation and subtitling in various languages."
+    ],
+    "faqs": [
+        {
+            "question": "What is Magic Hour used for?",
+            "answer": "Magic Hour is an AI-powered platform for creating, editing, and enhancing professional-quality videos for social media, marketing, or personal projects."
+        },
+        {
+            "question": "Does Magic Hour offer a free plan?",
+            "answer": "Yes, Magic Hour provides a free plan with limited access to its core features, ideal for testing the platform."
+        },
+        {
+            "question": "Can I create videos from text prompts?",
+            "answer": "Yes, the Text-to-Video feature allows users to generate videos directly from written scripts or prompts."
+        },
+        {
+            "question": "Is Magic Hour suitable for beginners?",
+            "answer": "Absolutely, its user-friendly interface and AI automation make it accessible for users with no prior video editing experience."
+        },
+        {
+            "question": "What types of videos can I create?",
+            "answer": "You can create social media content, marketing videos, animations, tutorials, and more using customizable templates and AI tools."
+        },
+        {
+            "question": "Does Magic Hour support multiple languages?",
+            "answer": "Yes, the platform offers multi-language support for video creation and subtitling."
+        },
+        {
+            "question": "Can I edit existing videos with Magic Hour?",
+            "answer": "Yes, the AI Video Editor and Video-to-Video tools allow users to enhance or transform existing footage."
+        },
+        {
+            "question": "How does the Auto Subtitling feature work?",
+            "answer": "Auto Subtitling uses AI to generate accurate captions, which users can customize for style and timing."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Music AI",
+    "description": "Music AI provides state-of-the-art, ethical AI solutions for audio and music applications, including stem separation, voice transfers, and metadata classification, to empower businesses and creators in audio production.",
+    "longDescription": "Music AI is a platform that offers advanced AI-powered tools for audio and music processing, designed to transform workflows for creators, businesses, and developers in the music, audio, and video industries. Its mission is to unlock creative potential by providing ethical, high-quality AI models that enhance audio clarity, customization, and efficiency. The website serves users by reducing production time, enabling precise audio manipulation like stem separation and voice transformations, and integrating seamlessly into existing systems via APIs and SDKs. It solves problems such as complex mixing, transcription accuracy, and content analysis, making professional-grade audio tools accessible to both novices and experts. Trusted by thousands, it emphasizes data privacy and supports a range of applications from live performances to cinematic production.",
+    "url": "https://music.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/music.ai.webp",
+    "category": "AI Stems Splitter",
+    "categorySlug": "ai-stems-splitter",
+    "slug": "music-ai",
+    "categories": [
+        "AI Stems Splitter",
+        "AI Voice Cloning",
+        "AI Transcriber",
+        "AI Mastering",
+        "AI Text Classifier",
+        "AI Audio Enhancer",
+        "AI Speech-to-Text",
+        "AI Language Learning",
+        "AI Audio Editing",
+        "AI Content Detector"
+    ],
+    "features": [
+        "Separates individual instruments or voices from audio tracks for enhanced mixing, mastering, and creative remixing.",
+        "Transcribes and aligns lyrics from audio files with multi-language support, improving content accessibility and analysis.",
+        "Classifies audio metadata for better categorization, insights, and efficient content management.",
+        "Enhances audio quality through AI-driven mixing and mastering, delivering professional results quickly.",
+        "Transforms voices using AI models for timbre changes, dubbing, or language conversions, enabling versatile audio applications.",
+        "Provides automated lyrics and speech transcription for accurate content identification and localization.",
+        "Supports live stem separation for real-time processing in electronic performances and applications.",
+        "Enables cinematic stem separation to scale video production and distribution with high-quality audio isolation.",
+        "Offers advanced volume control and effects for precise audio management and enhancement.",
+        "Facilitates translation and localization of audio content for global reach and inclusivity.",
+        "Integrates with third-party tools and offers continuous updates to streamline workflows and boost productivity.",
+        "Provides API and SDK access for seamless incorporation into custom software and applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is the purpose of Music AI?",
+            "answer": "Music AI provides state-of-the-art ethical AI solutions for audio and music applications, offering tools like stem separation, customizable workflows, and API integrations to enhance audio production and development."
+        },
+        {
+            "question": "Who can use Music AI's services?",
+            "answer": "Music AI's services are designed for a wide range of users, including hardware companies, record labels, technology companies, developers, and individual artists seeking to enhance audio projects with advanced AI tools."
+        },
+        {
+            "question": "How can I start using Music AI?",
+            "answer": "To begin using Music AI, sign up for free at https://music.ai/dash/auth/signup or contact our sales team at https://music.ai/contact/."
+        },
+        {
+            "question": "Does Music AI provide an API and other integration tools?",
+            "answer": "Yes, Music AI provides our API at https://music.ai/docs/api/reference/ along with SDKs and a desktop client to facilitate seamless integration into your software, and all accounts have access to our API."
+        },
+        {
+            "question": "How can I contact customer support for assistance?",
+            "answer": "You can contact the support team through the platform at https://music.ai/dash/org/personal-01ad8c37-ede6-4087-a0a6-b819445d0514/support, or enterprise clients can contact our customer success agent."
+        },
+        {
+            "question": "What are the pricing options for Music AI?",
+            "answer": "For individuals and small businesses, you can choose from Pay-as-you-go or Professional plans at https://music.ai/pricing/. For enterprises and businesses with larger processing needs, please reach out at https://music.ai/contact/ to discuss volume-based pricing."
+        },
+        {
+            "question": "How does billing work for different account types?",
+            "answer": "Enterprise accounts receive monthly invoices based on their contract. Pay-as-you-go and Professional members receive payment receipts from Stripe and can find detailed billing information in the billing page of their Music AI account."
+        },
+        {
+            "question": "Can I upload files directly to Music AI?",
+            "answer": "Yes, Music AI can upload files directly with a signed, public URL both in the web platform and through the API."
+        },
+        {
+            "question": "Does Music AI train on user data?",
+            "answer": "No, Music AI never trains with your data and prioritizes data privacy and security, implementing robust protection controls to safeguard your creations."
+        },
+        {
+            "question": "What audio file formats can Music AI process?",
+            "answer": "The Music AI platform can process most standard audio and video file formats for any type of media."
+        }
+    ]
+}

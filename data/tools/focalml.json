@@ -1,0 +1,62 @@
+{
+    "name": "FocalML",
+    "description": "FocalML is an AI-powered platform specializing in machine learning tools for image analysis and computer vision tasks.",
+    "longDescription": "FocalML is a cutting-edge website that provides accessible machine learning solutions focused on image processing and analysis. Its mission is to democratize AI tools for developers, researchers, and businesses by offering user-friendly interfaces for complex ML tasks. The platform solves problems related to data-intensive image analysis, such as object detection and pattern recognition, without requiring extensive coding expertise. Users can upload datasets, train models, and deploy solutions efficiently. It serves a wide range of industries including healthcare, retail, and autonomous systems by streamlining AI workflows. Overall, FocalML empowers users to harness AI for visual data insights, fostering innovation in computer vision applications.",
+    "url": "https://focalml.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/focalml.com.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "focalml",
+    "categories": [
+        "AI Image Recognition",
+        "AI Models",
+        "AI Charting",
+        "AI API",
+        "No-Code&Low-Code",
+        "AI Healthcare"
+    ],
+    "features": [
+        "Image upload and preprocessing tools allow users to clean and prepare datasets quickly for machine learning models.",
+        "Custom model training enables users to build and fine-tune AI models for specific image analysis needs with minimal coding.",
+        "Real-time object detection provides instant identification and classification of elements in images or videos.",
+        "Data visualization dashboards offer intuitive graphs and heatmaps to interpret AI analysis results effectively.",
+        "Integration with popular APIs allows seamless connection to other tools and platforms for extended functionality.",
+        "Collaborative workspaces support team-based projects for sharing models and insights securely.",
+        "Automated reporting generates detailed summaries of analysis outcomes to aid decision-making.",
+        "Scalable cloud computing ensures efficient handling of large datasets without local hardware limitations."
+    ],
+    "faqs": [
+        {
+            "question": "What is FocalML primarily used for?",
+            "answer": "FocalML is used for AI-driven image analysis and computer vision tasks, helping users process visual data with machine learning models."
+        },
+        {
+            "question": "Do I need coding experience to use FocalML?",
+            "answer": "No, FocalML offers user-friendly interfaces that allow non-coders to train and deploy models, though advanced users can access code-level customization."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, FocalML provides a free tier with limited features for individual users and small projects."
+        },
+        {
+            "question": "How secure is data on FocalML?",
+            "answer": "FocalML employs industry-standard encryption and secure cloud storage to protect user data and models."
+        },
+        {
+            "question": "Can I integrate FocalML with other tools?",
+            "answer": "Yes, it supports APIs for integration with platforms like Google Cloud, AWS, and popular data tools."
+        },
+        {
+            "question": "What industries benefit from FocalML?",
+            "answer": "Industries such as healthcare for medical imaging, retail for inventory analysis, and automotive for object detection benefit greatly."
+        },
+        {
+            "question": "How does FocalML handle large datasets?",
+            "answer": "It uses scalable cloud infrastructure to process large datasets efficiently, with options for batch processing."
+        },
+        {
+            "question": "Is customer support available?",
+            "answer": "Yes, FocalML offers email support and a knowledge base, with premium plans including live chat."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Whisper Transcribe",
+    "description": "Whisper Transcribe is an online platform that uses AI to transcribe audio and video files into text with high accuracy and support for multiple languages.",
+    "longDescription": "Whisper Transcribe is a web-based service powered by OpenAI's Whisper AI model, designed to convert spoken audio from videos, podcasts, and recordings into accurate text transcripts. Its mission is to make transcription accessible and efficient for individuals and businesses, eliminating the need for manual note-taking or expensive professional services. The platform serves users by handling various audio formats and languages, making it ideal for content creators, journalists, researchers, and educators who need quick and reliable speech-to-text conversion. It solves problems like time-consuming transcription processes and language barriers by offering features such as automatic translation and speaker identification. Overall, it democratizes AI-driven audio processing, enabling users to focus on content analysis rather than transcription labor.",
+    "url": "https://www.whispertranscribe.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.whispertranscribe.com.webp",
+    "category": "AI Transcription",
+    "categorySlug": "ai-transcription",
+    "slug": "whisper-transcribe",
+    "categories": [
+        "AI Transcription",
+        "AI Speech-to-Text",
+        "AI Translate",
+        "AI Audio Editing",
+        "AI Subtitle Generator",
+        "AI Noise Cancellation",
+        "AI Note Taker",
+        "AI Content Detector"
+    ],
+    "features": [
+        "Utilizes OpenAI's Whisper model for highly accurate speech-to-text transcription of audio and video files in real-time.",
+        "Supports over 90 languages, allowing users to transcribe and translate content for global audiences effortlessly.",
+        "Offers speaker diarization to identify and label different speakers in conversations, enhancing transcript usability for interviews and meetings.",
+        "Provides free access with options for uploading files up to a certain size, making it accessible for casual users.",
+        "Includes timestamping in transcripts, enabling easy navigation and reference to specific parts of the audio.",
+        "Allows users to download transcripts in various formats like TXT or SRT for subtitles, improving compatibility with editing tools.",
+        "Features automatic punctuation and capitalization to produce readable, professional-quality text outputs.",
+        "Supports translation of transcribed text into multiple languages, aiding cross-lingual communication and content localization.",
+        "Ensures secure file handling with temporary storage and deletion after processing to protect user privacy.",
+        "Integrates noise reduction capabilities to improve accuracy in low-quality or noisy audio recordings."
+    ],
+    "faqs": [
+        {
+            "question": "What is Whisper Transcribe?",
+            "answer": "Whisper Transcribe is an AI-powered online tool that converts audio and video files into text using OpenAI's Whisper model. It supports transcription and translation in multiple languages."
+        },
+        {
+            "question": "Is Whisper Transcribe free to use?",
+            "answer": "Yes, it offers free access to core transcription features, though there may be limits on file size or usage for heavy users. Premium options might be available for advanced needs."
+        },
+        {
+            "question": "What file formats does it support?",
+            "answer": "It supports common audio and video formats like MP3, WAV, MP4, and others. Users can upload files directly from their devices."
+        },
+        {
+            "question": "How accurate is the transcription?",
+            "answer": "Accuracy is high, especially for clear audio, thanks to the advanced Whisper AI model. It handles accents and multiple speakers well, but noisy environments may reduce precision."
+        },
+        {
+            "question": "Can it translate transcripts?",
+            "answer": "Yes, it provides translation features to convert transcribed text into other languages. This is useful for multilingual content creation."
+        },
+        {
+            "question": "Does it support speaker identification?",
+            "answer": "Yes, the diarization feature distinguishes between speakers and labels them in the transcript. This is particularly helpful for meetings or podcasts."
+        },
+        {
+            "question": "How long does transcription take?",
+            "answer": "Processing time depends on file length and server load, but most files are transcribed within minutes. Longer files may take up to an hour."
+        },
+        {
+            "question": "Is my data secure?",
+            "answer": "Files are processed securely and deleted after transcription. The platform does not store user data long-term without consent."
+        },
+        {
+            "question": "Can I use it for subtitles?",
+            "answer": "Yes, transcripts can be exported in SRT format for subtitles. This integrates well with video editing software."
+        },
+        {
+            "question": "What languages are supported?",
+            "answer": "Over 90 languages are supported for transcription and translation. This includes major languages like English, Spanish, Chinese, and more."
+        }
+    ]
+}

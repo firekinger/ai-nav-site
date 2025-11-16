@@ -1,0 +1,67 @@
+{
+    "name": "Trickle",
+    "description": "Trickle is an AI-powered knowledge management tool that helps users organize, summarize, and retrieve information from screenshots and notes effortlessly.",
+    "longDescription": "Trickle is an innovative AI-driven platform designed to serve as a second brain for users by capturing and organizing screenshots, notes, and ideas into a searchable database. Its mission is to eliminate information overload by using AI to automatically summarize and categorize content, making it easy for professionals and teams to access insights quickly. The platform solves problems like scattered information across devices and apps by providing a centralized hub where users can query their knowledge base naturally. It integrates with various tools and supports collaboration, enhancing productivity in work and personal projects. Overall, Trickle empowers users to focus on creativity and decision-making rather than manual organization.",
+    "url": "https://trickle.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/trickle.so.webp",
+    "category": "AI Knowledge Management",
+    "categorySlug": "ai-knowledge-management",
+    "slug": "trickle",
+    "categories": [
+        "AI Knowledge Management",
+        "AI Search Engine",
+        "AI Article Summarizer",
+        "AI Project Management",
+        "AI Productivity Tools",
+        "AI Data Mining",
+        "AI Writing Assistants",
+        "AI Workflow",
+        "AI Image Description Generator"
+    ],
+    "features": [
+        "AI-powered screenshot organization automatically categorizes and summarizes captured images, saving users time on manual sorting.",
+        "Natural language querying allows users to search their knowledge base using everyday questions, delivering relevant results instantly.",
+        "Collaborative workspaces enable teams to share and co-edit notes and screenshots, fostering better teamwork and knowledge sharing.",
+        "Automatic summarization condenses lengthy notes or articles into key points, helping users grasp essentials quickly.",
+        "Integration with popular apps like Slack and Notion streamlines workflows by pulling in data seamlessly.",
+        "Customizable tags and folders provide flexible organization options tailored to individual or team needs.",
+        "AI-driven insights generate recommendations and connections between related pieces of information for deeper understanding.",
+        "Mobile and desktop apps ensure accessibility across devices, keeping your knowledge base at your fingertips.",
+        "Secure data encryption protects user information, ensuring privacy in knowledge management.",
+        "Export options allow users to download organized data in various formats for reports or backups."
+    ],
+    "faqs": [
+        {
+            "question": "What is Trickle primarily used for?",
+            "answer": "Trickle is used for organizing and managing knowledge from screenshots and notes using AI. It helps users build a searchable second brain to retrieve information efficiently."
+        },
+        {
+            "question": "Does Trickle offer a free plan?",
+            "answer": "Yes, Trickle provides a free plan with basic features like limited storage and AI summarization. Users can upgrade for more advanced capabilities and unlimited access."
+        },
+        {
+            "question": "How does the AI search work in Trickle?",
+            "answer": "The AI search allows natural language queries to find relevant screenshots and notes. It uses advanced algorithms to understand context and deliver accurate results quickly."
+        },
+        {
+            "question": "Can I collaborate with my team on Trickle?",
+            "answer": "Absolutely, Trickle supports team workspaces where members can share, edit, and comment on content. This makes it ideal for collaborative projects and knowledge sharing."
+        },
+        {
+            "question": "What integrations does Trickle support?",
+            "answer": "Trickle integrates with tools like Slack, Notion, and Google Drive. These integrations help import data seamlessly and enhance workflow efficiency."
+        },
+        {
+            "question": "Is my data secure on Trickle?",
+            "answer": "Yes, Trickle employs robust encryption and security measures to protect user data. It complies with industry standards to ensure privacy and data integrity."
+        },
+        {
+            "question": "How does Trickle handle screenshot summarization?",
+            "answer": "Trickle's AI analyzes screenshots to extract key information and generate concise summaries. This feature helps users quickly understand and reference visual content without manual effort."
+        },
+        {
+            "question": "Can I use Trickle on mobile devices?",
+            "answer": "Trickle offers mobile apps for iOS and Android, allowing users to capture and access their knowledge base on the go. The experience is synchronized across all devices."
+        }
+    ]
+}

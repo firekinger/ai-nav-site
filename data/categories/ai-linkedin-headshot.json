@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Linkedin Headshot Tools in 2025",
+    "summary": "Elevate your professional presence with our AI LinkedIn Headshot tools. Designed to create stunning, high-quality profile pictures, these innovative solutions help you make a lasting impression in the competitive job market. Enjoy the benefits of personalized styles, quick processing, and enhanced image quality, all tailored to showcase your best self. Whether you're job hunting or networking, a standout headshot is essential. Explore our curated selection of AI tools today and transform your LinkedIn profile into a powerful asset!",
+    "tools": [
+        {
+            "id": "246",
+            "name": "Resume Worded",
+            "slug": "resume-worded",
+            "description": "Resume Worded provides AI-powered tools and feedback to optimize resumes and LinkedIn profiles for job seekers.",
+            "icon": "/logo/resumeworded.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        },
+        {
+            "id": "436",
+            "name": "Taplio",
+            "slug": "taplio",
+            "description": "Taplio is an AI-powered tool designed to enhance LinkedIn presence through content creation, scheduling, and analytics.",
+            "icon": "/logo/taplio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        },
+        {
+            "id": "520",
+            "name": "Careerflow",
+            "slug": "careerflow-ai",
+            "description": "Careerflow provides AI-powered tools to optimize job searches, resumes, and LinkedIn profiles for faster hiring at top companies.",
+            "icon": "/logo/www.careerflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        },
+        {
+            "id": "629",
+            "name": "WonsultingAI",
+            "slug": "wonsultingai",
+            "description": "WonsultingAI provides AI-powered tools to streamline job searches, offering resume building, cover letter generation, and interview preparation.",
+            "icon": "/logo/www.wonsulting.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        },
+        {
+            "id": "710",
+            "name": "VMock",
+            "slug": "vmock",
+            "description": "VMock is an AI-driven career acceleration platform that provides personalized resume, cover letter, and interview feedback to students and professionals.",
+            "icon": "/logo/www.vmock.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        },
+        {
+            "id": "1384",
+            "name": "Syndy",
+            "slug": "syndy-ai",
+            "description": "Syndy is an AI-powered copywriting assistant that transforms ideas into engaging LinkedIn posts while preserving the user's authentic voice.",
+            "icon": "/logo/syndy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-linkedin-headshot"
+            ]
+        }
+    ]
+}

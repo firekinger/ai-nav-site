@@ -1,0 +1,479 @@
+{
+    "title": "The Best 43 AI Graphic Design Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Graphic Design tools, designed to streamline your design process and elevate your projects. Whether you're a professional designer or a business owner, these innovative solutions offer intuitive features that enhance creativity, automate repetitive tasks, and deliver stunning visuals in minutes. Say goodbye to design roadblocks and hello to efficiency and inspiration. Explore our curated selection of AI Graphic Design tools today and transform your ideas into captivating graphics effortlessly!",
+    "tools": [
+        {
+            "id": "104",
+            "name": "Adobe",
+            "slug": "adobe",
+            "description": "Adobe provides creative, marketing, and document management solutions to empower digital experiences.",
+            "icon": "/logo/adobe.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Remove.bg",
+            "slug": "remove-bg",
+            "description": "Remove.bg is a tool for automatically removing backgrounds from images with ease.",
+            "icon": "/logo/remove.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "CapCut",
+            "slug": "capcut",
+            "description": "CapCut is an AI-powered platform for easy video editing and graphic design across multiple devices.",
+            "icon": "/logo/capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "34",
+            "name": "Fotor",
+            "slug": "fotor",
+            "description": "Fotor is an all-in-one online photo editing and graphic design platform that empowers users to create stunning visuals with AI-powered tools and templates.",
+            "icon": "/logo/fotor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "47",
+            "name": "Pixlr",
+            "slug": "pixlr",
+            "description": "Pixlr is an AI-powered online photo editing and design platform for creating stunning visuals.",
+            "icon": "/logo/pixlr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Microsoft Designer",
+            "slug": "microsoft-designer",
+            "description": "Microsoft Designer is an AI-powered graphic design app for creating professional-quality social media posts, invitations, and graphics.",
+            "icon": "/logo/designer.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "BeFunky",
+            "slug": "befunky",
+            "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+            "icon": "/logo/www.befunky.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "Kittl",
+            "slug": "kittl",
+            "description": "Kittl is an AI-powered design platform for creating professional-grade graphics and branding materials.",
+            "icon": "/logo/www.kittl.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "216",
+            "name": "Looka",
+            "slug": "looka",
+            "description": "Looka is an AI-powered platform for designing logos and building brand identities.",
+            "icon": "/logo/looka.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "220",
+            "name": "Insmind",
+            "slug": "insmind",
+            "description": "Insmind is an AI-powered platform for creating and editing images, offering tools for design, photo enhancement, and background removal.",
+            "icon": "/logo/www.insmind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "235",
+            "name": "Craiyon",
+            "slug": "craiyon",
+            "description": "Craiyon is an AI-powered platform that generates unique images from text prompts, enabling users to create visual art effortlessly.",
+            "icon": "/logo/www.craiyon.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "270",
+            "name": "Magic Studio",
+            "slug": "magic-studio",
+            "description": "Magic Studio provides AI-powered tools for creating and editing stunning images effortlessly.",
+            "icon": "/logo/magicstudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "280",
+            "name": "Vectorizer.AI",
+            "slug": "vectorizer-ai",
+            "description": "Vectorizer.AI converts raster images into high-quality vector graphics using advanced AI technology.",
+            "icon": "/logo/vectorizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "296",
+            "name": "Erase.bg",
+            "slug": "erase-bg",
+            "description": "Erase.bg is an AI-powered tool that removes image backgrounds quickly and offers editing features for professional results.",
+            "icon": "/logo/www.erase.bg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "309",
+            "name": "Bigjpg",
+            "slug": "bigjpg",
+            "description": "Bigjpg is an AI-powered tool for lossless image upscaling, specializing in anime-style artworks and photos.",
+            "icon": "/logo/bigjpg.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "313",
+            "name": "BrandCrowd",
+            "slug": "brandcrowd",
+            "description": "BrandCrowd is an online platform offering customizable logo designs and branding tools for businesses and entrepreneurs.",
+            "icon": "/logo/www.brandcrowd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "338",
+            "name": "Design Bundles",
+            "slug": "design-bundles",
+            "description": "Design Bundles provides premium and free digital design resources for crafters, graphic designers, and businesses.",
+            "icon": "/logo/designbundles.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "345",
+            "name": "Vexels",
+            "slug": "vexels",
+            "description": "Vexels is a design platform offering high-quality graphic resources and tools for creating print-on-demand merchandise and professional designs.",
+            "icon": "/logo/www.vexels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "364",
+            "name": "LogoAI",
+            "slug": "logoai",
+            "description": "LogoAI is an AI-powered platform that enables businesses to create professional logos and cohesive brand identities effortlessly.",
+            "icon": "/logo/www.logoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "381",
+            "name": "AutoDraw",
+            "slug": "autodraw",
+            "description": "AutoDraw is a web-based tool that uses AI to transform rough sketches into polished illustrations, making drawing accessible to everyone.",
+            "icon": "/logo/autodraw.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "395",
+            "name": "Flick",
+            "slug": "flick",
+            "description": "Flick is an AI-powered social media marketing platform designed to help creators, brands, and marketers grow and manage their social media presence.",
+            "icon": "/logo/www.flick.social.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "398",
+            "name": "StockCake",
+            "slug": "stockcake",
+            "description": "StockCake provides a vast library of high-quality, AI-generated stock photos for free commercial and personal use.",
+            "icon": "/logo/stockcake.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "415",
+            "name": "Mage",
+            "slug": "mage",
+            "description": "Mage is an AI-powered platform for generating high-quality images and videos from text prompts using Stable Diffusion models.",
+            "icon": "/logo/www.mage.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "Brandmark",
+            "slug": "brandmark",
+            "description": "Brandmark is an AI-powered logo maker that creates professional logos and branding assets for businesses.",
+            "icon": "/logo/brandmark.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "500",
+            "name": "StarryAI",
+            "slug": "starryai",
+            "description": "StarryAI is an AI-powered art generator that transforms text prompts into high-quality digital artworks.",
+            "icon": "/logo/starryai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "514",
+            "name": "VanceAI",
+            "slug": "vanceai",
+            "description": "VanceAI provides AI-powered tools for photo enhancement, editing, and restoration to boost creativity and productivity.",
+            "icon": "/logo/vanceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "553",
+            "name": "Magnific AI",
+            "slug": "magnific-ai",
+            "description": "Magnific AI is an advanced AI-powered tool for upscaling and enhancing images with high-resolution detail and creative customization.",
+            "icon": "/logo/magnific.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "558",
+            "name": "Upscayl",
+            "slug": "upscayl",
+            "description": "Upscayl is a free, open-source AI image upscaler that enhances low-resolution images for Linux, MacOS, and Windows.",
+            "icon": "/logo/upscayl.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "561",
+            "name": "Pixelied",
+            "slug": "pixelied",
+            "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+            "icon": "/logo/pixelied.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "626",
+            "name": "Mockey",
+            "slug": "mockey-ai",
+            "description": "Mockey is a free online AI-powered mockup generator for creating high-quality product visuals.",
+            "icon": "/logo/mockey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "627",
+            "name": "Edraw.AI",
+            "slug": "edraw-ai",
+            "description": "Edraw.AI is an AI-powered platform for creating professional diagrams, flowcharts, and mind maps to enhance visual collaboration and productivity.",
+            "icon": "/logo/www.edraw.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "853",
+            "name": "Rendair.ai",
+            "slug": "rendair-ai",
+            "description": "Rendair.ai is an AI-driven platform that enables users to generate high-quality interior design renders and visualizations quickly and effortlessly.",
+            "icon": "/logo/www.rendair.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1008",
+            "name": "PNGMaker.io",
+            "slug": "pngmaker-io",
+            "description": "PNGMaker.io is an AI-driven online platform that allows users to generate, edit, and customize transparent PNG images effortlessly.",
+            "icon": "/logo/pngmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1170",
+            "name": "Logomakerr.ai",
+            "slug": "logomakerr-ai",
+            "description": "Logomakerr.ai is an AI-powered platform that allows users to generate professional logos quickly based on simple inputs like company name and industry.",
+            "icon": "/logo/logomakerr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1173",
+            "name": "Palette Maker",
+            "slug": "palette-maker",
+            "description": "Palette Maker is an online tool that leverages AI to generate, customize, and extract color palettes for designers and creative professionals.",
+            "icon": "/logo/palettemaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "ImaginePro",
+            "slug": "imaginepro-ai",
+            "description": "ImaginePro is an AI-powered platform that enables users to generate high-quality images and designs for professional and creative purposes.",
+            "icon": "/logo/www.imaginepro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "ThumbnailCreator",
+            "slug": "thumbnailcreator",
+            "description": "ThumbnailCreator is an AI-powered online tool designed to generate professional YouTube thumbnails quickly, helping content creators boost click-through rates and video views.",
+            "icon": "/logo/www.thumbnailcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "1427",
+            "name": "Radal AI",
+            "slug": "radal-ai",
+            "description": "Radal.ai is an AI-driven platform focused on advanced data analysis and research tools to empower users with insightful decision-making.",
+            "icon": "/logo/radal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Picsart",
+            "slug": "picsart",
+            "description": "Picsart is a creative platform offering AI-powered photo and video editing tools for users of all skill levels.",
+            "icon": "/logo/picsart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "65",
+            "name": "Ideogram",
+            "slug": "ideogram",
+            "description": "Ideogram is an AI-powered platform that transforms text prompts into stunning, hyper-realistic images to boost creativity.",
+            "icon": "/logo/ideogram.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "98",
+            "name": "Planner 5D",
+            "slug": "planner-5d",
+            "description": "Planner 5D is an AI-powered home design platform for creating 2D/3D floor plans and interior designs.",
+            "icon": "/logo/planner5d.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Freepik",
+            "slug": "freepik",
+            "description": "Freepik is an AI-powered creative suite offering stock assets and tools for designers.",
+            "icon": "/logo/www.freepik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-graphic-design"
+            ]
+        }
+    ]
+}

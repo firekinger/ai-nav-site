@@ -1,0 +1,58 @@
+{
+    "name": "Mermaid Chart",
+    "description": "Mermaid Chart is a platform for creating and sharing interactive diagrams and flowcharts using text-based code.",
+    "longDescription": "Mermaid Chart is an online tool designed to simplify the creation, visualization, and sharing of diagrams and flowcharts through a text-based syntax called Mermaid. It enables users, particularly developers and technical teams, to generate complex diagrams like flowcharts, sequence diagrams, and Gantt charts without manual drawing. The platform integrates with tools like GitHub, VS Code, and Microsoft Teams, streamlining workflows for collaborative projects. Its mission is to enhance productivity by providing an intuitive, code-driven approach to diagramming that is both accessible and efficient. Users can create professional-grade visuals for documentation, presentations, or project planning, making it ideal for technical and non-technical users alike.",
+    "url": "https://www.mermaidchart.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mermaidchart.com.webp",
+    "category": "AI Design Assistant",
+    "categorySlug": "ai-design-assistant",
+    "slug": "mermaid-chart",
+    "categories": [
+        "AI Design Assistant",
+        "AI Diagram Generator",
+        "Text to 3D",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Text-to-diagram functionality allows users to create flowcharts, sequence diagrams, and more using simple Mermaid syntax, reducing design time.",
+        "Real-time collaboration enables teams to edit and review diagrams together, enhancing project coordination.",
+        "Integration with GitHub, VS Code, and other tools streamlines diagramming within existing developer workflows.",
+        "Export options support sharing diagrams in formats like PNG, SVG, and PDF for versatile use in presentations or documentation.",
+        "Customizable themes and styling ensure diagrams align with branding or project requirements.",
+        "Cloud-based storage provides secure access to diagrams from anywhere, facilitating remote work.",
+        "Interactive diagram viewer allows users to zoom, pan, and explore diagrams dynamically for better understanding.",
+        "Version control tracks changes to diagrams, enabling teams to manage revisions effectively.",
+        "AI-powered suggestions assist in optimizing diagram layouts and improving clarity (assumed based on industry trends).",
+        "Template library offers pre-built diagram structures to accelerate the creation process."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mermaid Chart used for?",
+            "answer": "Mermaid Chart is used to create and share diagrams like flowcharts and sequence diagrams using a text-based syntax, ideal for technical documentation and collaboration."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Mermaid Chart offers a free plan with access to core diagramming features, though advanced functionalities may require a paid subscription."
+        },
+        {
+            "question": "Can I collaborate with my team on diagrams?",
+            "answer": "Yes, Mermaid Chart supports real-time collaboration, allowing multiple users to edit and comment on diagrams simultaneously."
+        },
+        {
+            "question": "What types of diagrams can I create?",
+            "answer": "You can create flowcharts, sequence diagrams, Gantt charts, class diagrams, and more using Mermaid Chart’s versatile syntax."
+        },
+        {
+            "question": "Does Mermaid Chart integrate with other tools?",
+            "answer": "Yes, it integrates with tools like GitHub, VS Code, and Microsoft Teams to enhance workflow efficiency."
+        },
+        {
+            "question": "Can I export my diagrams?",
+            "answer": "Diagrams can be exported as PNG, SVG, or PDF files for easy sharing and inclusion in documents."
+        },
+        {
+            "question": "Is coding knowledge required to use Mermaid Chart?",
+            "answer": "No, while coding knowledge helps, the intuitive syntax and templates make it accessible to non-technical users."
+        }
+    ]
+}

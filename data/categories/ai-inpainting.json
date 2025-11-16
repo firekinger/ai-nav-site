@@ -1,0 +1,94 @@
+{
+    "title": "The Best 8 AI Inpainting Tools in 2025",
+    "summary": "Discover the transformative power of AI Inpainting tools, designed to enhance your creative projects by seamlessly filling in missing or damaged parts of images. These innovative solutions leverage advanced algorithms to restore, edit, and refine visuals with precision and ease. Whether you're a designer, photographer, or content creator, AI Inpainting can save you time and elevate your work to new heights. Explore our curated selection of top-notch tools and unlock your creative potential today! Dive in and experience the future of image editing.",
+    "tools": [
+        {
+            "id": "316",
+            "name": "Cleanup.pictures",
+            "slug": "cleanup-pictures",
+            "description": "Cleanup.pictures is an AI-powered online tool for removing unwanted objects, people, text, or defects from photos in seconds.",
+            "icon": "/logo/cleanup.pictures.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "396",
+            "name": "Dzine",
+            "slug": "dzine",
+            "description": "Dzine is an AI-powered platform for intuitive image generation and editing, designed for creators of all skill levels.",
+            "icon": "/logo/www.dzine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "557",
+            "name": "CGDream",
+            "slug": "cgdream-ai",
+            "description": "CGDream is an AI-powered image and 3D model generator that transforms text, images, or 3D inputs into stunning, customizable visuals.",
+            "icon": "/logo/cgdream.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "664",
+            "name": "Autodraft AI",
+            "slug": "autodraft-ai",
+            "description": "Autodraft AI is a platform for creating 2D animations, comics, and webtoons using AI-driven tools for visual storytelling.",
+            "icon": "/logo/autodraft.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "897",
+            "name": "Fooocus",
+            "slug": "fooocus",
+            "description": "Fooocus is an AI-powered platform that simplifies image generation using Stable Diffusion, focusing on ease of use and high-quality outputs without complex configurations.",
+            "icon": "/logo/fooocus.one.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "1234",
+            "name": "Hama",
+            "slug": "hama",
+            "description": "Hama is an AI-powered web application that enables users to easily remove unwanted objects, people, or backgrounds from images with high precision.",
+            "icon": "/logo/www.hama.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        },
+        {
+            "id": "1303",
+            "name": "AI Image Editor",
+            "slug": "ai-image-editor",
+            "description": "AI Image Editor is an online platform that leverages artificial intelligence to provide advanced image editing tools for users to enhance, manipulate, and generate images effortlessly.",
+            "icon": "/logo/aiimageeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-inpainting"
+            ]
+        }
+    ]
+}

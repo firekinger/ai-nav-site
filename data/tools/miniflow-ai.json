@@ -1,0 +1,70 @@
+{
+    "name": "Miniflow.ai",
+    "description": "Miniflow.ai is an AI-powered platform for building and automating workflows using no-code tools and intelligent agents.",
+    "longDescription": "Miniflow.ai is a no-code AI platform designed to help users create, automate, and manage workflows efficiently without requiring programming skills. Its mission is to democratize AI automation, enabling businesses and individuals to streamline repetitive tasks and enhance productivity through intelligent agents. The platform solves problems related to manual processes by integrating AI to handle data processing, decision-making, and integrations with other tools. Users can build custom flows for various applications, from marketing automation to data analysis, making complex operations accessible to non-technical users. Overall, it serves as a bridge between AI capabilities and everyday business needs, fostering innovation and efficiency.",
+    "url": "https://miniflow.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/miniflow.ai.webp",
+    "category": "AI Workflow",
+    "categorySlug": "ai-workflow",
+    "slug": "miniflow-ai",
+    "categories": [
+        "AI Workflow",
+        "AI App Builder",
+        "AI Agent",
+        "AI Productivity Tools",
+        "AI For Data Analytics",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "No-code workflow builder allows users to drag-and-drop components to create automated processes quickly, reducing development time.",
+        "AI agents intelligently handle tasks like data extraction and decision-making, improving accuracy and efficiency in workflows.",
+        "Seamless integrations with popular tools such as Google Workspace, Slack, and CRM systems enable smooth data flow across platforms.",
+        "Real-time monitoring and analytics provide insights into workflow performance, helping users optimize and troubleshoot issues.",
+        "Customizable templates offer pre-built workflows for common use cases, accelerating setup for beginners.",
+        "Scalable architecture supports growing needs, from small personal projects to enterprise-level automations.",
+        "Secure data handling ensures compliance with privacy standards, protecting sensitive information in automated processes.",
+        "Collaboration tools allow teams to work together on workflow designs, fostering shared productivity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Miniflow.ai?",
+            "answer": "Miniflow.ai is a no-code platform that leverages AI to build and automate workflows, helping users streamline tasks without coding expertise."
+        },
+        {
+            "question": "Does Miniflow.ai offer a free plan?",
+            "answer": "Yes, Miniflow.ai provides a free tier with limited features, allowing users to test basic workflows before upgrading."
+        },
+        {
+            "question": "How do I integrate Miniflow.ai with other apps?",
+            "answer": "You can connect Miniflow.ai to various apps via built-in integrations or APIs, setting up triggers and actions in the workflow builder."
+        },
+        {
+            "question": "Is Miniflow.ai suitable for non-technical users?",
+            "answer": "Absolutely, its drag-and-drop interface and pre-built templates make it accessible for users without programming knowledge."
+        },
+        {
+            "question": "What kind of workflows can I create?",
+            "answer": "You can build workflows for automation in marketing, data analysis, customer support, and more, customized to your needs."
+        },
+        {
+            "question": "How secure is Miniflow.ai?",
+            "answer": "Miniflow.ai employs robust security measures, including data encryption and compliance with standards like GDPR, to protect user information."
+        },
+        {
+            "question": "Can I collaborate with my team on Miniflow.ai?",
+            "answer": "Yes, the platform supports team collaboration features, allowing multiple users to edit and manage workflows together."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "Miniflow.ai offers documentation, tutorials, and customer support via email or chat for paid users."
+        },
+        {
+            "question": "How does AI enhance workflows in Miniflow.ai?",
+            "answer": "AI agents in Miniflow.ai can perform intelligent tasks like natural language processing or predictive analytics within your workflows."
+        },
+        {
+            "question": "Is there a mobile app for Miniflow.ai?",
+            "answer": "Currently, Miniflow.ai is web-based, but it is optimized for mobile browsers for on-the-go access."
+        }
+    ]
+}

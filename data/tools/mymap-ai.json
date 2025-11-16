@@ -1,0 +1,65 @@
+{
+    "name": "MyMap AI",
+    "description": "MyMap AI is an AI-powered platform that transforms ideas into visual mind maps, flowcharts, and presentations through a chat interface.",
+    "longDescription": "MyMap AI is an innovative tool designed to simplify the creation of visual diagrams, enabling users to transform text, PDFs, and web content into organized mind maps, flowcharts, and presentations. By leveraging AI, it eliminates the need for design skills, making it accessible to students, professionals, and content creators. The platform’s mission is to enhance productivity and creativity by providing a visual, non-linear alternative to text-based tools like ChatGPT. It supports real-time collaboration and integrates web search results to create context-rich diagrams. MyMap AI caters to diverse use cases, from academic research to project management and creative storytelling. Its intuitive chat-based interface streamlines idea organization and visualization for users worldwide.",
+    "url": "https://www.mymap.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.mymap.ai.webp",
+    "category": "AI Mind Mapping",
+    "categorySlug": "ai-mind-mapping",
+    "slug": "mymap-ai",
+    "categories": [
+        "AI Mind Mapping",
+        "AI Design Assistant",
+        "Whiteboard AI",
+        "AI Presentation Generator",
+        "AI Project Management",
+        "Storyboard AI",
+        "AI Chatbot"
+    ],
+    "features": [
+        "AI-powered mind map generation converts text or uploaded files into visual diagrams in seconds, simplifying complex information.",
+        "Real-time web search integration pulls relevant data from Google or Bing to enrich diagrams with up-to-date context.",
+        "Collaborative editing allows multiple users to work on the same diagram simultaneously, enhancing team brainstorming.",
+        "Export options enable saving mind maps as PNG, PDF, or shareable URLs for easy distribution and use.",
+        "AI presentation generator creates professional slideshows from user inputs, ideal for meetings or pitches.",
+        "PDF summarizer condenses lengthy documents into key points, streamlining research and study processes.",
+        "Chat-based interface lets users generate diagrams by conversing with AI, eliminating manual design efforts.",
+        "Kanban board creation helps project managers visualize tasks and timelines for efficient workflow management.",
+        "Storyboard generation transforms narrative ideas into visual outlines, aiding content creators in planning.",
+        "Comparison chart maker produces visual data comparisons, simplifying analysis for professionals and analysts."
+    ],
+    "faqs": [
+        {
+            "question": "What is MyMap AI used for?",
+            "answer": "MyMap AI helps users create mind maps, flowcharts, presentations, and other visual content from text, PDFs, or web searches, ideal for studying, project management, and content creation."
+        },
+        {
+            "question": "Is MyMap AI free to use?",
+            "answer": "Yes, MyMap AI offers a free trial with limited features, such as three daily internet searches and low-resolution exports, with premium plans unlocking full functionality."
+        },
+        {
+            "question": "Can I collaborate with others on MyMap AI?",
+            "answer": "Yes, MyMap AI supports real-time collaboration, allowing multiple users to edit the same diagram for group projects or brainstorming sessions."
+        },
+        {
+            "question": "How does MyMap AI differ from ChatGPT?",
+            "answer": "Unlike ChatGPT’s text-based output, MyMap AI generates visual diagrams like mind maps and flowcharts, offering a spatial way to organize information."
+        },
+        {
+            "question": "What file types can I upload to MyMap AI?",
+            "answer": "MyMap AI accepts various file types, including PDFs, Word, and Excel, to generate context-based visual diagrams."
+        },
+        {
+            "question": "Can I export my diagrams from MyMap AI?",
+            "answer": "Yes, diagrams can be exported as PNG, PDF, or shared via a public URL for easy access and distribution."
+        },
+        {
+            "question": "Does MyMap AI support web searches?",
+            "answer": "Yes, the platform integrates Google and Bing searches to incorporate real-time web data into your diagrams."
+        },
+        {
+            "question": "Is MyMap AI suitable for students?",
+            "answer": "Absolutely, students can use MyMap AI to create study guides, summarize notes, and visualize complex topics for better understanding."
+        }
+    ]
+}

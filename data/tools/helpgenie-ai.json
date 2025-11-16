@@ -1,0 +1,72 @@
+{
+    "name": "HelpGenie",
+    "description": "HelpGenie is an AI-powered helpdesk that provides instant, context-aware support to resolve workplace issues 5x faster with 24/7 availability.",
+    "longDescription": "HelpGenie is an AI-driven platform designed to automate workplace support by delivering instant answers to employee questions using internal documents, policies, and files. Its mission is to reduce repetitive support tasks for teams like HR, IT, Operations, Engineering, and Finance, thereby cutting support time by up to 70% and enhancing productivity. Powered by advanced AI technologies like ChatGPT, it understands context, resolves complex issues, and learns from interactions to improve over time. The tool integrates seamlessly with Slack, allowing for quick setup and customizable configurations tailored to specific teams. It emphasizes enterprise-grade security, ensuring user data privacy without using company information for model training. Overall, HelpGenie serves users by minimizing back-and-forth communications, offering smart replies with human handoff options, and providing consistent, round-the-clock assistance.",
+    "url": "https://helpgenie.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/helpgenie.ai.webp",
+    "category": "AI Customer Service",
+    "categorySlug": "ai-customer-service",
+    "slug": "helpgenie-ai",
+    "categories": [
+        "AI Customer Service",
+        "AI Answer",
+        "AI Knowledge Management",
+        "AI Assistant",
+        "AI Recruiting",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "Delivers instant answers to employee questions using ChatGPT and internal knowledge within Slack, streamlining support processes.",
+        "Automates support for various teams like HR, IT, Ops, Engineering, and Finance, reducing overall support time by up to 70%.",
+        "Allows customizable configuration of channels and knowledge sources for tailored team-specific support, enhancing relevance and efficiency.",
+        "Provides smart AI-generated replies with the option for seamless handoff to human agents when complex issues arise.",
+        "Ensures enterprise-grade security and data privacy, guaranteeing that company data is not used to train AI models.",
+        "Enables quick and easy setup by adding to Slack, uploading files, and inviting the bot to channels for immediate use.",
+        "Learns from every interaction to improve answer accuracy and handle more complex queries over time.",
+        "Offers 24/7 consistent support availability, ensuring help is always accessible regardless of time zones or hours.",
+        "Reduces back-and-forth communications by providing context-aware resolutions based on uploaded documents and policies.",
+        "Supports integration with workplace tools like Slack to fit into existing workflows without disruption."
+    ],
+    "faqs": [
+        {
+            "question": "How does HelpGenie ensure data privacy?",
+            "answer": "HelpGenie is built with enterprise-grade security, ensuring your data is never used to train models. It prioritizes privacy by handling information securely within your workspace."
+        },
+        {
+            "question": "Is there a cost to try HelpGenie?",
+            "answer": "You can try HelpGenie for free with no risk and no credit card required, allowing you to test its features before committing."
+        },
+        {
+            "question": "How do I set up HelpGenie in Slack?",
+            "answer": "Add HelpGenie to your Slack workspace, choose channels, upload knowledge files, and invite @HelpGenie to your channels for quick activation."
+        },
+        {
+            "question": "Can HelpGenie handle support for multiple teams?",
+            "answer": "Yes, it is configurable for tailored support across teams like HR, IT, Ops, Engineering, and Finance, adapting to diverse departmental needs."
+        },
+        {
+            "question": "What happens if HelpGenie’s answers are inaccurate?",
+            "answer": "Responses may be inaccurate, so it is recommended to review them before use. For complex cases, you can hand off to a human agent."
+        },
+        {
+            "question": "Does HelpGenie replace human support entirely?",
+            "answer": "No, it offers smart replies with the option for handoff to a human when needed, complementing rather than replacing human support."
+        },
+        {
+            "question": "How quickly can HelpGenie start providing answers?",
+            "answer": "HelpGenie can start responding to employee questions instantly after setup, providing immediate value to your team."
+        },
+        {
+            "question": "What types of files can I upload for HelpGenie to use?",
+            "answer": "HelpGenie supports uploading documents, policies, and various files to build its knowledge base, though specific formats may vary—common office files are typically compatible."
+        },
+        {
+            "question": "Is HelpGenie suitable for small businesses?",
+            "answer": "Yes, its focus on reducing support time and easy setup makes it beneficial for businesses of various sizes, including small teams looking to automate routine queries."
+        },
+        {
+            "question": "Can I customize how HelpGenie responds in different channels?",
+            "answer": "Yes, it allows quick configuration of channels and knowledge sources for tailored, context-specific responses in different team environments."
+        }
+    ]
+}

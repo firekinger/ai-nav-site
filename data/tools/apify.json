@@ -1,0 +1,57 @@
+{
+    "name": "Apify",
+    "description": "Apify is a web scraping and automation platform that enables users to extract data and automate tasks across websites.",
+    "longDescription": "Apify is a powerful platform designed for web scraping, data extraction, and automation, catering to businesses, developers, and researchers. It simplifies the process of collecting structured data from websites by providing tools to build, deploy, and manage web crawlers. With a user-friendly interface and a robust API, Apify supports a wide range of use cases, from market research to price monitoring. The platform’s mission is to make the web more accessible by turning unstructured web data into actionable insights. It also offers a marketplace for pre-built scraping tools, called Actors, which users can customize or use out-of-the-box. Apify serves industries like e-commerce, real estate, and finance by enabling scalable data collection and automation.",
+    "url": "https://apify.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/apify.com.webp",
+    "category": "AI Web Scraping",
+    "categorySlug": "ai-web-scraping",
+    "slug": "apify",
+    "categories": [
+        "AI Web Scraping",
+        "AI Productivity Tools",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Apify’s web scraping tools allow users to extract structured data from websites efficiently and reliably.",
+        "The platform supports automation of repetitive web tasks, such as form submissions or price tracking, saving time and effort.",
+        "Apify Actors are pre-built, customizable scraping scripts available in the Apify Store for quick deployment.",
+        "The platform offers a robust API for integrating scraping and automation tasks into existing workflows or applications.",
+        "Users can schedule and manage crawlers to run automatically at specified intervals for continuous data collection.",
+        "Apify provides proxy management to handle IP rotation and avoid website bans during scraping.",
+        "The platform supports data storage and export in formats like JSON, CSV, or Excel for easy analysis.",
+        "Apify’s visual interface allows non-coders to create scraping tasks without writing complex code.",
+        "It offers scalability to handle large-scale scraping projects with cloud-based infrastructure.",
+        "Users can monitor and debug scraping tasks with detailed logs and performance analytics."
+    ],
+    "faqs": [
+        {
+            "question": "What is Apify used for?",
+            "answer": "Apify is used for web scraping, data extraction, and automating tasks like price monitoring, market research, or content aggregation."
+        },
+        {
+            "question": "Does Apify offer a free plan?",
+            "answer": "Yes, Apify provides a free plan with limited usage for testing and small-scale scraping projects."
+        },
+        {
+            "question": "Do I need coding skills to use Apify?",
+            "answer": "No, Apify’s visual interface and pre-built Actors allow non-coders to perform scraping and automation tasks."
+        },
+        {
+            "question": "What types of data can Apify scrape?",
+            "answer": "Apify can scrape text, images, prices, product details, and other structured or unstructured data from websites."
+        },
+        {
+            "question": "Can Apify integrate with other tools?",
+            "answer": "Yes, Apify’s API and webhooks enable seamless integration with tools like Zapier, Google Sheets, or custom applications."
+        },
+        {
+            "question": "How does Apify handle website blocks during scraping?",
+            "answer": "Apify offers proxy management and IP rotation to bypass anti-scraping measures and ensure reliable data collection."
+        },
+        {
+            "question": "Is Apify suitable for large-scale projects?",
+            "answer": "Yes, Apify’s cloud infrastructure supports scalable scraping and automation for enterprise-level needs."
+        }
+    ]
+}

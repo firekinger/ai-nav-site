@@ -1,0 +1,67 @@
+{
+    "name": "Team-GPT",
+    "description": "Team-GPT is an AI collaboration platform designed to enhance team productivity and streamline AI-driven workflows for businesses.",
+    "longDescription": "Team-GPT is a team-oriented AI workspace that enables organizations to integrate and collaborate using various AI models, such as ChatGPT, Claude, and Gemini, to boost productivity and streamline workflows. It aims to simplify AI adoption by offering a secure, organized environment where teams can share prompts, manage projects, and leverage AI for content creation, data analysis, and task automation. The platform is tailored for enterprise needs, emphasizing security, compliance, and scalability with features like on-premise deployment and advanced admin controls. By providing tools like pre-built templates and usage analytics, Team-GPT helps teams produce high-quality, on-brand content and optimize business processes efficiently. It supports a wide range of industries, including marketing, M&A advisory, and education, by offering model-agnostic flexibility and integrations with tools like Google Drive and Notion. The mission is to empower teams to harness AI collaboratively, ensuring data privacy and fostering innovation across departments.",
+    "url": "https://team-gpt.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/team-gpt.com.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "team-gpt",
+    "categories": [
+        "AI Assistant",
+        "Large Language Models (LLMs)",
+        "AI Writing",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Marketing",
+        "AI Project Management"
+    ],
+    "features": [
+        "Collaborative AI workspace allows teams to share and reuse AI chats and prompts, enhancing teamwork and efficiency.",
+        "Model-agnostic platform supports multiple AI models like GPT-4o, Claude 3.5 Sonnet, and LLaMA, enabling tailored AI solutions.",
+        "Project Knowledge feature integrates company data into AI conversations for context-aware responses, improving accuracy.",
+        "Pages offers an AI-first text editor for paragraph-by-paragraph document creation and refinement, boosting content quality.",
+        "Pre-built templates for marketing tasks like SEO blog posts and email sequences accelerate content production.",
+        "Enterprise-grade security ensures data privacy with SOC 2, GDPR compliance, and on-premise deployment options.",
+        "Usage analytics provide insights into team AI adoption, helping optimize workflows and identify improvement areas.",
+        "Integrations with tools like Google Drive and Notion streamline operations and enhance workflow efficiency.",
+        "Advanced admin controls, including SAML SSO and role-based access, ensure secure user management.",
+        "Automated workflows connect multiple AI actions for hands-free task execution, saving time.",
+        "Built-in training resources, including a free interactive course, simplify AI onboarding for non-technical users.",
+        "Conversation forking allows teams to experiment with different AI responses efficiently."
+    ],
+    "faqs": [
+        {
+            "question": "What is Team-GPT?",
+            "answer": "Team-GPT is an AI collaboration platform that enables teams to work with multiple AI models, share prompts, and manage projects in a secure workspace."
+        },
+        {
+            "question": "Does Team-GPT offer a free trial?",
+            "answer": "Team-GPT does not offer a free trial but provides a 30-day money-back guarantee for risk-free testing."
+        },
+        {
+            "question": "Which AI models are supported by Team-GPT?",
+            "answer": "Team-GPT supports models like GPT-4o, Claude 3.5 Sonnet, Gemini, LLaMA, and custom models via API keys."
+        },
+        {
+            "question": "Can Team-GPT be deployed on-premise?",
+            "answer": "Yes, Team-GPT offers on-premise and private cloud deployment options for enhanced data security."
+        },
+        {
+            "question": "How does Team-GPT ensure data privacy?",
+            "answer": "Team-GPT ensures data privacy with encryption, SOC 2 compliance, and options to redact sensitive data before sharing with AI providers."
+        },
+        {
+            "question": "What kind of support is available for Team-GPT users?",
+            "answer": "Team-GPT offers email and chat support, with enterprise customers receiving dedicated account management and 24/7 support."
+        },
+        {
+            "question": "Can I integrate Team-GPT with other tools?",
+            "answer": "Yes, Team-GPT integrates with tools like Google Drive and Notion, with more integrations in development."
+        },
+        {
+            "question": "How does Team-GPT help with AI adoption?",
+            "answer": "Team-GPT provides usage analytics, preconfigured prompts, and a free interactive course to accelerate AI adoption across teams."
+        }
+    ]
+}

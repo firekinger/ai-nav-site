@@ -1,0 +1,2382 @@
+{
+    "title": "The Best 218 AI Creative Writing Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Creative Writing tools, designed to inspire and enhance your writing process. Whether you're crafting compelling stories, engaging blog posts, or captivating marketing copy, these innovative solutions streamline your workflow and spark new ideas. Experience the benefits of enhanced creativity, improved productivity, and tailored suggestions that cater to your unique style. Explore our curated selection of AI writing tools today and transform your writing journey into an effortless and enjoyable experience. Dive in now to discover the future of creative expression!",
+    "tools": [
+        {
+            "id": "115",
+            "name": "Perchance",
+            "slug": "perchance",
+            "description": "Perchance is a platform for creating and using random text and AI-powered content generators, offering tools for storytelling, character creation, and image generation.",
+            "icon": "/logo/perchance.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "326",
+            "name": "AIPRM",
+            "slug": "aiprm",
+            "description": "AIPRM provides a Chrome extension with curated prompt templates to enhance ChatGPT and Claude for SEO, marketing, and productivity tasks.",
+            "icon": "/logo/www.aiprm.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "362",
+            "name": "AI Novel",
+            "slug": "ai-novel",
+            "description": "AI Novel is a platform for creating, sharing, and exploring AI-generated novels and web stories.",
+            "icon": "/logo/ai-novel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "394",
+            "name": "Sudowrite",
+            "slug": "sudowrite",
+            "description": "Sudowrite is an AI-powered writing assistant designed to help fiction writers overcome creative blocks and enhance their storytelling process.",
+            "icon": "/logo/sudowrite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "399",
+            "name": "Copy.ai",
+            "slug": "copy-ai",
+            "description": "Copy.ai is an AI-powered platform designed to streamline content creation and enhance go-to-market strategies for businesses.",
+            "icon": "/logo/www.copy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "429",
+            "name": "Lexica",
+            "slug": "lexica",
+            "description": "Lexica is an AI-powered platform for searching and generating high-quality images using Stable Diffusion technology.",
+            "icon": "/logo/lexica.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "430",
+            "name": "AdCreative.ai",
+            "slug": "adcreative-ai",
+            "description": "AdCreative.ai uses AI to generate high-converting ad creatives and social media content for businesses.",
+            "icon": "/logo/www.adcreative.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "433",
+            "name": "PromptHero",
+            "slug": "prompthero",
+            "description": "PromptHero is a search engine and community platform for discovering and sharing AI-generated art prompts for models like Stable Diffusion, Midjourney, and DALL-E.",
+            "icon": "/logo/prompthero.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "446",
+            "name": "Neural.love",
+            "slug": "neural-love",
+            "description": "Neural.love is an AI-powered platform for creating and enhancing images, videos, and audio with user-friendly tools.",
+            "icon": "/logo/neural.love.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "448",
+            "name": "GoEnhance AI",
+            "slug": "goenhance-ai",
+            "description": "GoEnhance AI is an AI-powered platform for transforming and enhancing videos and images with advanced creative tools.",
+            "icon": "/logo/www.goenhance.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "Brandmark",
+            "slug": "brandmark",
+            "description": "Brandmark is an AI-powered logo maker that creates professional logos and branding assets for businesses.",
+            "icon": "/logo/brandmark.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "459",
+            "name": "Squibler",
+            "slug": "squibler",
+            "description": "Squibler is an AI-powered writing platform designed to help authors and screenwriters create, organize, and publish books, novels, and screenplays efficiently.",
+            "icon": "/logo/www.squibler.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "461",
+            "name": "DomoAI",
+            "slug": "domoai",
+            "description": "DomoAI is an AI-powered platform for transforming videos, images, and text into high-quality animations and creative styles.",
+            "icon": "/logo/www.domoai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "463",
+            "name": "Nova AI",
+            "slug": "nova-ai",
+            "description": "Nova AI is a chatbot and personal assistant powered by advanced AI models like GPT-4, Gemini, and Claude, offering conversational and task-assistance features.",
+            "icon": "/logo/novaapp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "473",
+            "name": "Pinecone",
+            "slug": "pinecone",
+            "description": "Pinecone is a vector database designed to power AI applications with fast and scalable similarity search.",
+            "icon": "/logo/www.pinecone.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "484",
+            "name": "BasedLabs",
+            "slug": "basedlabs-ai",
+            "description": "BasedLabs is an AI-powered platform for generating and editing images and videos, catering to creators and enthusiasts.",
+            "icon": "/logo/www.basedlabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "491",
+            "name": "Dezgo",
+            "slug": "dezgo",
+            "description": "Dezgo is an AI-powered platform for generating high-quality images and videos from text prompts.",
+            "icon": "/logo/dezgo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "495",
+            "name": "Reface",
+            "slug": "reface-ai",
+            "description": "Reface is an AI-powered platform for creating realistic face swaps and animations in photos, videos, and GIFs.",
+            "icon": "/logo/reface.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "498",
+            "name": "Tipsy Chat",
+            "slug": "tipsy-chat",
+            "description": "Tipsy Chat is an AI-driven platform for unfiltered role-playing and storytelling with customizable virtual characters.",
+            "icon": "/logo/tipsy.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "500",
+            "name": "StarryAI",
+            "slug": "starryai",
+            "description": "StarryAI is an AI-powered art generator that transforms text prompts into high-quality digital artworks.",
+            "icon": "/logo/starryai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "503",
+            "name": "Writer",
+            "slug": "writer",
+            "description": "Writer is a generative AI platform designed to enhance enterprise productivity through AI-driven content creation and management.",
+            "icon": "/logo/writer.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "505",
+            "name": "AI Song Maker",
+            "slug": "ai-song-maker",
+            "description": "AI Song Maker is an AI-powered platform for creating royalty-free songs from text prompts or melodies.",
+            "icon": "/logo/www.aisongmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "516",
+            "name": "Customuse",
+            "slug": "customuse",
+            "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+            "icon": "/logo/customuse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "524",
+            "name": "MidReal",
+            "slug": "midreal-ai",
+            "description": "MidReal is an AI-powered platform for creating interactive, illustrated stories from a single sentence.",
+            "icon": "/logo/midreal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "525",
+            "name": "RedQuill",
+            "slug": "redquill",
+            "description": "RedQuill is an AI-powered platform for generating and sharing personalized spicy and erotic stories.",
+            "icon": "/logo/www.redquill.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "530",
+            "name": "Gencraft",
+            "slug": "gencraft",
+            "description": "Gencraft is an AI-powered platform that transforms text prompts into stunning digital art, images, videos, and emojis.",
+            "icon": "/logo/gencraft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "531",
+            "name": "PromptBase",
+            "slug": "promptbase",
+            "description": "PromptBase is a marketplace for buying and selling AI prompts for models like Midjourney, ChatGPT, and Stable Diffusion.",
+            "icon": "/logo/promptbase.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "534",
+            "name": "Learn Prompting",
+            "slug": "learn-prompting",
+            "description": "Learn Prompting is an e-learning platform offering free and paid courses on prompt engineering and generative AI to enhance AI interaction skills.",
+            "icon": "/logo/learnprompting.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "543",
+            "name": "Grey's Secret Room",
+            "slug": "greys-secret-room",
+            "description": "Grey's Secret Room provides AI-powered tools for virtual clothing try-ons, undressing simulations, and face swaps for photos and videos.",
+            "icon": "/logo/undressbaby.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "544",
+            "name": "DeepSwapper",
+            "slug": "deepswapper",
+            "description": "DeepSwapper is an AI-powered platform for seamless face swapping in photos and videos.",
+            "icon": "/logo/www.deepswapper.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "547",
+            "name": "FLORA",
+            "slug": "flora-ai",
+            "description": "FLORA is an AI-powered creative platform that integrates text, image, and video generation tools into an infinite canvas for professionals.",
+            "icon": "/logo/www.florafauna.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "550",
+            "name": "Humanizer",
+            "slug": "humanizer",
+            "description": "Humanizer.org transforms AI-generated text into natural, human-like content that bypasses AI detection and enhances engagement.",
+            "icon": "/logo/humanizer.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "551",
+            "name": "DreamGen",
+            "slug": "dreamgen",
+            "description": "DreamGen is an AI-powered platform for uncensored role-playing and story generation, enabling users to create and explore imaginative narratives.",
+            "icon": "/logo/dreamgen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "553",
+            "name": "Magnific AI",
+            "slug": "magnific-ai",
+            "description": "Magnific AI is an advanced AI-powered tool for upscaling and enhancing images with high-resolution detail and creative customization.",
+            "icon": "/logo/magnific.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "AIFreeBox",
+            "slug": "aifreebox",
+            "description": "AIFreeBox offers a comprehensive suite of free AI tools for content creation, social media, and productivity enhancement.",
+            "icon": "/logo/aifreebox.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "Book by Anyone",
+            "slug": "book-by-anyone",
+            "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+            "icon": "/logo/www.bookbyanyone.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "560",
+            "name": "Mammouth AI",
+            "slug": "mammouth-ai",
+            "description": "Mammouth AI provides access to leading AI models for text and image generation through a single affordable subscription.",
+            "icon": "/logo/mammouth.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "562",
+            "name": "Output",
+            "slug": "output",
+            "description": "Output provides innovative music creation tools and software for musicians and producers.",
+            "icon": "/logo/output.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "564",
+            "name": "mymind",
+            "slug": "mymind",
+            "description": "mymind is a private, AI-enhanced platform for saving and organizing notes, bookmarks, images, and articles effortlessly.",
+            "icon": "/logo/mymind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "565",
+            "name": "Musicfy",
+            "slug": "musicfy",
+            "description": "Musicfy is an AI-powered platform for creating and customizing music with voice cloning and text-to-music features.",
+            "icon": "/logo/musicfy.lol.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "571",
+            "name": "SoulGen",
+            "slug": "soulgen",
+            "description": "SoulGen is an AI-powered platform that generates stunning anime and realistic images or videos from text prompts, enabling users to create customized characters and artwork.",
+            "icon": "/logo/www.soulgen.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "574",
+            "name": "Brev AI",
+            "slug": "brev-ai",
+            "description": "Brev AI is an AI-powered music generator that transforms text prompts into professional-quality, royalty-free music tracks.",
+            "icon": "/logo/brev.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "661",
+            "name": "DreamPress AI",
+            "slug": "dreampress-ai",
+            "description": "DreamPress AI is an AI-powered platform for generating personalized fiction stories and visuals across various genres.",
+            "icon": "/logo/www.dreampress.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1351",
+            "name": "Hera",
+            "slug": "hera",
+            "description": "Hera is an AI-powered platform that enables users to generate and edit videos using advanced artificial intelligence tools.",
+            "icon": "/logo/hera.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "Rosebud AI",
+            "slug": "rosebud-ai",
+            "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+            "icon": "/logo/www.rosebud.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "597",
+            "name": "LabLab.ai",
+            "slug": "lablab-ai",
+            "description": "LabLab.ai is a platform that hosts AI hackathons and fosters innovation by connecting developers with cutting-edge AI technologies.",
+            "icon": "/logo/lablab.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "602",
+            "name": "Pikzels",
+            "slug": "pikzels",
+            "description": "Pikzels is an AI-powered platform for creating viral YouTube thumbnails and titles in seconds.",
+            "icon": "/logo/pikzels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "604",
+            "name": "Story.com",
+            "slug": "story-com",
+            "description": "Story.com is an AI-powered platform for creating and consuming interactive stories and videos with consistent characters.",
+            "icon": "/logo/www.story.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "611",
+            "name": "Luzia",
+            "slug": "luzia",
+            "description": "Luzia is an AI-powered virtual assistant that simplifies daily tasks and enhances productivity through natural conversation.",
+            "icon": "/logo/www.luzia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "635",
+            "name": "B12",
+            "slug": "b12",
+            "description": "B12 is an AI-powered website builder designed for professional service providers to create and manage polished websites quickly.",
+            "icon": "/logo/www.b12.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "641",
+            "name": "CinemaFlow AI",
+            "slug": "cinemaflow-ai",
+            "description": "CinemaFlow AI transforms scripts into stunning visual videos using advanced AI technology with a single click.",
+            "icon": "/logo/www.cinemaflow.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "642",
+            "name": "Andi",
+            "slug": "andi",
+            "description": "Andi is an AI-powered search engine that delivers conversational, ad-free answers instead of traditional link lists.",
+            "icon": "/logo/andisearch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "660",
+            "name": "Palette.fm",
+            "slug": "palette-fm",
+            "description": "Palette.fm is an AI-powered tool that colorizes black-and-white photos and videos with realistic and customizable results.",
+            "icon": "/logo/palette.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "667",
+            "name": "AIVA",
+            "slug": "aiva",
+            "description": "AIVA is an AI-powered music generation platform that creates original compositions for various creative projects.",
+            "icon": "/logo/www.aiva.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "674",
+            "name": "Vocareum",
+            "slug": "vocareum",
+            "description": "Vocareum provides a cloud-based platform for hands-on learning and assessment in AI, data science, and cloud computing education.",
+            "icon": "/logo/www.vocareum.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "678",
+            "name": "Pareto",
+            "slug": "pareto",
+            "description": "Pareto.io offers Tess AI, a generative AI platform, and digital marketing services to enhance business productivity and growth.",
+            "icon": "/logo/pareto.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "681",
+            "name": "RoomGPT",
+            "slug": "roomgpt",
+            "description": "RoomGPT is an AI-powered platform that transforms room photos into redesigned spaces with various design themes in seconds.",
+            "icon": "/logo/www.roomgpt.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "684",
+            "name": "BeArt AI",
+            "slug": "beart-ai",
+            "description": "BeArt AI is a free online platform offering AI-driven tools for seamless face swapping and editing in photos, videos, and GIFs.",
+            "icon": "/logo/beart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "686",
+            "name": "Flim",
+            "slug": "flim-ai",
+            "description": "Flim is an AI-powered visual inspiration platform offering a vast database of film stills and video clips for creatives.",
+            "icon": "/logo/flim.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "687",
+            "name": "Modal",
+            "slug": "modal",
+            "description": "Modal provides serverless cloud infrastructure for running AI, ML, and data-intensive applications without managing infrastructure.",
+            "icon": "/logo/modal.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "692",
+            "name": "ColoringBook AI",
+            "slug": "coloringbook-ai",
+            "description": "ColoringBook AI is an AI-powered platform for creating and downloading free printable coloring pages from text or images.",
+            "icon": "/logo/www.coloringbook.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "693",
+            "name": "Delphi",
+            "slug": "delphi-ai",
+            "description": "Delphi is an AI-powered platform that creates digital clones of experts to scale personalized interactions and knowledge sharing.",
+            "icon": "/logo/www.delphi.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "703",
+            "name": "Gooey.AI",
+            "slug": "gooey-ai",
+            "description": "Gooey.AI is a low-code AI orchestration platform that simplifies the integration and deployment of generative AI workflows for developers and businesses.",
+            "icon": "/logo/gooey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "704",
+            "name": "EarnBetter",
+            "slug": "earnbetter",
+            "description": "EarnBetter is a free AI-powered platform that streamlines job searches by optimizing resumes, matching jobs, and providing tailored application tools.",
+            "icon": "/logo/earnbetter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "705",
+            "name": "Stockimg AI",
+            "slug": "stockimg-ai",
+            "description": "Stockimg AI is an AI-powered platform for generating high-quality, custom visuals like logos, stock photos, and illustrations.",
+            "icon": "/logo/stockimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "708",
+            "name": "Aftershoot",
+            "slug": "aftershoot",
+            "description": "Aftershoot is an AI-powered software that automates photo culling, editing, and retouching for photographers.",
+            "icon": "/logo/aftershoot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "712",
+            "name": "Mubert",
+            "slug": "mubert",
+            "description": "Mubert is an AI-powered platform that generates royalty-free music for content creators, streamers, and businesses.",
+            "icon": "/logo/mubert.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "718",
+            "name": "Glif",
+            "slug": "glif",
+            "description": "Glif is a low-code platform for creating AI-powered mini-apps and chatbots that generate multimedia content.",
+            "icon": "/logo/glif.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "720",
+            "name": "Harvey",
+            "slug": "harvey-ai",
+            "description": "Harvey provides AI-powered solutions to streamline legal workflows for law firms and corporate legal teams.",
+            "icon": "/logo/www.harvey.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "721",
+            "name": "FunFun AI",
+            "slug": "funfun-ai",
+            "description": "FunFun AI is a platform for creating and interacting with customizable AI-powered virtual companions and generating AI-driven art and videos.",
+            "icon": "/logo/www.funfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "727",
+            "name": "BlackInk AI",
+            "slug": "blackink-ai",
+            "description": "BlackInk AI is an AI-powered platform that generates unique, custom tattoo designs in seconds based on user prompts.",
+            "icon": "/logo/blackink.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "731",
+            "name": "Genmo",
+            "slug": "genmo-ai",
+            "description": "Genmo is a frontier AI lab offering open-source video generation models to create high-quality videos from text prompts.",
+            "icon": "/logo/www.genmo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "737",
+            "name": "Claid.ai",
+            "slug": "claid-ai",
+            "description": "Claid.ai is an AI-powered platform that enhances product photography for e-commerce by automating image editing and generation.",
+            "icon": "/logo/claid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "746",
+            "name": "ColorifyAI",
+            "slug": "colorifyai",
+            "description": "ColorifyAI is an AI-powered platform that generates custom coloring pages from text prompts or images, fostering creativity for kids and adults.",
+            "icon": "/logo/colorifyai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "748",
+            "name": "DeepMotion",
+            "slug": "deepmotion",
+            "description": "DeepMotion provides AI-powered motion capture and 3D animation tools to create lifelike digital human movements for various industries.",
+            "icon": "/logo/www.deepmotion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "755",
+            "name": "Covers.ai",
+            "slug": "covers-ai",
+            "description": "Covers.ai provides AI-powered tools for artists, creators, and fans to generate viral music covers, remixes, and TikTok content.",
+            "icon": "/logo/www.covers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "763",
+            "name": "Beatoven.ai",
+            "slug": "beatoven-ai",
+            "description": "Beatoven.ai is an AI-powered platform that generates royalty-free, customizable background music for videos, podcasts, and games.",
+            "icon": "/logo/www.beatoven.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "771",
+            "name": "Boomy",
+            "slug": "boomy",
+            "description": "Boomy is an AI-powered platform that enables users to create and monetize original music effortlessly.",
+            "icon": "/logo/boomy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "778",
+            "name": "Pollinations.AI",
+            "slug": "pollinations-ai",
+            "description": "Pollinations.AI is an open-source platform for generating AI-driven images, text, audio, and videos with a user-friendly API.",
+            "icon": "/logo/pollinations.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "790",
+            "name": "VoiceDub",
+            "slug": "voicedub-ai",
+            "description": "VoiceDub is an AI-powered platform for creating high-quality voice covers, voiceovers, and audio content using advanced voice cloning and text-to-speech technologies.",
+            "icon": "/logo/voicedub.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "795",
+            "name": "MindMap AI",
+            "slug": "mindmap-ai",
+            "description": "MindMap AI is an AI-powered tool for creating and organizing interactive mind maps to enhance brainstorming and productivity.",
+            "icon": "/logo/mindmapai.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "803",
+            "name": "Wirestock",
+            "slug": "wirestock",
+            "description": "Wirestock is a platform for creators to sell photos, videos, and AI-generated art on major marketplaces.",
+            "icon": "/logo/wirestock.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "811",
+            "name": "Eden AI",
+            "slug": "eden-ai",
+            "description": "Eden AI provides a unified API to integrate multiple AI models and workflows for developers and businesses.",
+            "icon": "/logo/www.edenai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "812",
+            "name": "Logically.app",
+            "slug": "logically-app",
+            "description": "Logically.app (formerly Afforai) is an AI-powered research and writing workspace for managing references, conducting literature reviews, and collaborating on academic papers.",
+            "icon": "/logo/afforai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "813",
+            "name": "Maket",
+            "slug": "maket-ai",
+            "description": "Maket is a generative AI platform that automates architectural design, enabling architects and designers to create floorplans, 3D renders, and explore styles instantly.",
+            "icon": "/logo/www.maket.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "825",
+            "name": "SendFame",
+            "slug": "sendfame",
+            "description": "SendFame is an AI-powered platform for creating personalized celebrity video messages and custom music for personal and parody use.",
+            "icon": "/logo/sendfame.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "828",
+            "name": "Tatship",
+            "slug": "tatship",
+            "description": "Tatship is a platform for designing and virtually trying on tattoos to help users make informed decisions before getting inked.",
+            "icon": "/logo/tatship.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "844",
+            "name": "Neural Frames",
+            "slug": "neural-frames",
+            "description": "Neural Frames is an AI-powered platform that generates animated videos from text prompts, enabling users to create music videos, animations, and visual content effortlessly.",
+            "icon": "/logo/www.neuralframes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "845",
+            "name": "Prompt Genie",
+            "slug": "prompt-genie",
+            "description": "Prompt Genie is an AI-powered tool that enhances and optimizes user prompts for ChatGPT to generate superior responses and results.",
+            "icon": "/logo/www.prompt-genie.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "846",
+            "name": "Supermeme.ai",
+            "slug": "supermeme-ai",
+            "description": "Supermeme.ai is an AI-powered platform that allows users to generate customized memes quickly for social media, marketing, and entertainment.",
+            "icon": "/logo/supermeme.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "852",
+            "name": "DaVinci AI",
+            "slug": "davinci-ai",
+            "description": "DaVinci AI is a cutting-edge platform that uses artificial intelligence to create high-quality images and art from text descriptions.",
+            "icon": "/logo/davinci.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "854",
+            "name": "ColorMagic",
+            "slug": "colormagic",
+            "description": "ColorMagic is an AI-powered platform that generates custom color palettes based on user-provided keywords for design and creative projects.",
+            "icon": "/logo/colormagic.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "857",
+            "name": "ImageToVideo AI",
+            "slug": "imagetovideo-ai",
+            "description": "ImageToVideo AI is an online platform that uses artificial intelligence to convert static images into dynamic videos, catering to creators, marketers, and casual users.",
+            "icon": "/logo/imagetovideoai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "860",
+            "name": "MusicGeneratorAI",
+            "slug": "musicgeneratorai",
+            "description": "MusicGeneratorAI is an AI-driven platform that enables users to generate custom music tracks from text prompts and creative inputs.",
+            "icon": "/logo/musicgeneratorai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "861",
+            "name": "Visual Electric",
+            "slug": "visual-electric",
+            "description": "Visual Electric is an AI-powered platform that enables users to generate high-quality images from text prompts, focusing on creative and professional visual design.",
+            "icon": "/logo/visualelectric.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "866",
+            "name": "Hunyuan Video AI",
+            "slug": "hunyuan-video-ai",
+            "description": "Hunyuan Video AI is an advanced platform that leverages artificial intelligence to generate and edit videos from text prompts and images.",
+            "icon": "/logo/hunyuanvideoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "868",
+            "name": "RPRP.ai",
+            "slug": "rprp-ai",
+            "description": "RPRP.ai is an AI-powered platform that enables users to engage in immersive role-playing experiences with customizable AI characters.",
+            "icon": "/logo/rprp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "870",
+            "name": "AI Video Generator",
+            "slug": "ai-video-generator",
+            "description": "AI Video Generator is an online platform that uses artificial intelligence to create videos from text prompts, images, or other inputs, making video production accessible and efficient.",
+            "icon": "/logo/aivideogenerator.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "871",
+            "name": "Gigapixel AI",
+            "slug": "gigapixel-ai",
+            "description": "Gigapixel AI is an AI-powered tool designed to upscale and enhance images with remarkable detail and clarity.",
+            "icon": "/logo/gigapixelai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "874",
+            "name": "HeyPhoto",
+            "slug": "heyphoto",
+            "description": "HeyPhoto is an AI-powered online tool for editing and enhancing photos, with a focus on facial modifications and improvements.",
+            "icon": "/logo/hey-photo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "876",
+            "name": "RunDiffusion",
+            "slug": "rundiffusion",
+            "description": "RunDiffusion is a cloud-based platform that enables users to generate AI-powered images using models like Stable Diffusion without requiring powerful local hardware.",
+            "icon": "/logo/rundiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "878",
+            "name": "Dittin AI",
+            "slug": "dittin-ai",
+            "description": "Dittin AI is an uncensored AI chatbot platform that allows users to create, customize, and engage in immersive role-playing conversations with AI characters.",
+            "icon": "/logo/dittin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "883",
+            "name": "Melobytes",
+            "slug": "melobytes",
+            "description": "Melobytes is an innovative online platform providing a wide array of AI-powered tools for creative content generation in music, audio, images, and more.",
+            "icon": "/logo/melobytes.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "804",
+            "name": "MindVideo AI",
+            "slug": "mindvideo-ai",
+            "description": "MindVideo AI is a free online AI video generator that transforms text or images into stunning videos using innovative AI effects and models.",
+            "icon": "/logo/www.mindvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "897",
+            "name": "Fooocus",
+            "slug": "fooocus",
+            "description": "Fooocus is an AI-powered platform that simplifies image generation using Stable Diffusion, focusing on ease of use and high-quality outputs without complex configurations.",
+            "icon": "/logo/fooocus.one.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "899",
+            "name": "Viggle AI",
+            "slug": "viggle-ai-io",
+            "description": "Viggle AI is an innovative platform that uses artificial intelligence to animate static images into dynamic videos and create customizable video content effortlessly.",
+            "icon": "/logo/viggleai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "900",
+            "name": "NoFilterGPT",
+            "slug": "nofiltergpt",
+            "description": "NoFilterGPT is an AI chatbot platform that offers uncensored conversations, enabling users to explore unrestricted topics with advanced language models.",
+            "icon": "/logo/nofiltergpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "906",
+            "name": "Amped Studio",
+            "slug": "amped-studio",
+            "description": "Amped Studio is an online digital audio workstation that enables users to create, edit, and collaborate on music productions directly in their web browser.",
+            "icon": "/logo/ampedstudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "909",
+            "name": "Pietra Studio",
+            "slug": "pietra-studio",
+            "description": "Pietra Studio is a platform empowering creators and entrepreneurs to launch and scale e-commerce brands with tools for design, manufacturing, and fulfillment.",
+            "icon": "/logo/www.pietrastudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "927",
+            "name": "Uncensored",
+            "slug": "uncensored",
+            "description": "Uncensored.com is a platform providing unrestricted AI-powered chat and content generation for users seeking free expression without censorship.",
+            "icon": "/logo/uncensored.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "933",
+            "name": "Vocalize.fm",
+            "slug": "vocalize-fm",
+            "description": "Vocalize.fm is an AI-driven platform that enables users to generate high-quality podcasts and audio content from text using advanced voice synthesis technology.",
+            "icon": "/logo/www.vocalize.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "935",
+            "name": "Spacely AI",
+            "slug": "spacely-ai",
+            "description": "Spacely AI is an innovative AI-powered platform that enables users to generate professional interior design ideas, visualizations, and floor plans for homes and spaces effortlessly.",
+            "icon": "/logo/www.spacely.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "938",
+            "name": "StockTune",
+            "slug": "stocktune",
+            "description": "StockTune is an AI-powered platform that generates royalty-free music tracks for creators, offering customizable and high-quality audio content.",
+            "icon": "/logo/stocktune.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "943",
+            "name": "DesiVocal",
+            "slug": "desivocal",
+            "description": "DesiVocal is an AI-powered platform specializing in voice generation and conversion with a focus on South Asian accents, languages, and cultural nuances.",
+            "icon": "/logo/www.desivocal.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "945",
+            "name": "Type.ai",
+            "slug": "type-ai",
+            "description": "Type.ai is an AI-powered writing assistant that helps users generate, edit, and refine text content efficiently.",
+            "icon": "/logo/type.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "948",
+            "name": "FluxAI.art",
+            "slug": "fluxai-art",
+            "description": "FluxAI.art is an AI-powered platform that enables users to generate high-quality images from text prompts using the advanced Flux AI model.",
+            "icon": "/logo/fluxai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "950",
+            "name": "A1.art",
+            "slug": "a1-art",
+            "description": "A1.art is an AI-powered platform that enables users to generate unique digital artworks from text prompts effortlessly.",
+            "icon": "/logo/a1.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "953",
+            "name": "Reflect",
+            "slug": "reflect",
+            "description": "Reflect is an AI-powered note-taking app that helps users capture, organize, and connect ideas through networked notes and intelligent features.",
+            "icon": "/logo/reflect.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Alpha3D",
+            "slug": "alpha3d",
+            "description": "Alpha3D is an AI-driven platform that allows users to generate high-quality 3D models from 2D images or text prompts for applications in AR, VR, gaming, and design.",
+            "icon": "/logo/www.alpha3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "967",
+            "name": "Krikey AI",
+            "slug": "krikey-ai",
+            "description": "Krikey AI is an innovative platform that harnesses artificial intelligence to simplify the creation of 3D animations, custom avatars, and AI-generated videos for creators and businesses.",
+            "icon": "/logo/www.krikey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "968",
+            "name": "VisionStory AI",
+            "slug": "visionstory-ai",
+            "description": "VisionStory AI is an AI-powered platform that enables users to create engaging visual stories from text prompts, combining narrative generation with image creation.",
+            "icon": "/logo/www.visionstory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "974",
+            "name": "Archivinci",
+            "slug": "archivinci",
+            "description": "Archivinci is an AI-powered platform that transforms architectural sketches and ideas into professional renders and designs.",
+            "icon": "/logo/www.archivinci.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "977",
+            "name": "Suno",
+            "slug": "suno-ai",
+            "description": "Suno is an AI-powered platform that enables users to generate original music and songs from text prompts.",
+            "icon": "/logo/sunoai.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "MyJotBot",
+            "slug": "myjotbot",
+            "description": "MyJotBot is an AI-powered personal assistant for jotting down notes, organizing ideas, and enhancing productivity through intelligent automation.",
+            "icon": "/logo/myjotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "991",
+            "name": "Journey AI Art",
+            "slug": "journey-ai-art",
+            "description": "Journey AI Art is an innovative platform that uses artificial intelligence to generate unique and stunning artwork from user-provided text prompts.",
+            "icon": "/logo/journeyaiart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "993",
+            "name": "Pebblely",
+            "slug": "pebblely",
+            "description": "Pebblely is an AI-powered tool that generates professional product photos for e-commerce and marketing purposes.",
+            "icon": "/logo/pebblely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "999",
+            "name": "MyArchitectAI",
+            "slug": "myarchitectai",
+            "description": "MyArchitectAI is an AI-driven platform that transforms sketches, ideas, and descriptions into photorealistic architectural renders and designs quickly and efficiently.",
+            "icon": "/logo/www.myarchitectai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1000",
+            "name": "Ryne AI",
+            "slug": "ryne-ai",
+            "description": "Ryne AI is an innovative platform that uses artificial intelligence to generate rhymes, lyrics, and creative writing content for users in music and poetry.",
+            "icon": "/logo/ryne.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1373",
+            "name": "Serif.ai",
+            "slug": "serif-ai",
+            "description": "Serif.ai is an AI-powered platform specializing in typography and creative design tools for generating and editing fonts, graphics, and visual elements.",
+            "icon": "/logo/www.serif.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1008",
+            "name": "PNGMaker.io",
+            "slug": "pngmaker-io",
+            "description": "PNGMaker.io is an AI-driven online platform that allows users to generate, edit, and customize transparent PNG images effortlessly.",
+            "icon": "/logo/pngmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1009",
+            "name": "Maestro Labs",
+            "slug": "maestro-labs",
+            "description": "Maestro Labs is an AI-driven platform specializing in music and audio generation, editing, and analysis to empower creators with innovative tools.",
+            "icon": "/logo/www.maestrolabs.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1039",
+            "name": "CrazyFaceAI",
+            "slug": "crazyfaceai",
+            "description": "CrazyFaceAI is an innovative platform that uses artificial intelligence to enable fun and creative face swapping and image manipulation for users seeking entertaining visual transformations.",
+            "icon": "/logo/crazyfaceai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1042",
+            "name": "AI Music Generator",
+            "slug": "ai-music-generator",
+            "description": "AI Music Generator is an online platform that uses artificial intelligence to create custom music tracks based on user inputs like text descriptions, genres, and moods.",
+            "icon": "/logo/ai-music-generator.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1046",
+            "name": "Katalist",
+            "slug": "katalist-ai",
+            "description": "Katalist.ai is an AI-powered platform that transforms scripts into professional storyboards for filmmakers, advertisers, and content creators.",
+            "icon": "/logo/www.katalist.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1048",
+            "name": "Mindsera",
+            "slug": "mindsera",
+            "description": "Mindsera is an AI-powered journaling app designed to enhance mindset, productivity, and personal growth through intelligent insights and habit tracking.",
+            "icon": "/logo/www.mindsera.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1053",
+            "name": "OCMaker",
+            "slug": "ocmaker",
+            "description": "OCMaker is an AI-powered platform that enables users to create and customize original characters for stories, games, and art.",
+            "icon": "/logo/www.ocmaker.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1062",
+            "name": "Kive",
+            "slug": "kive-ai",
+            "description": "Kive is an AI-powered platform that helps creatives organize, search, and collaborate on visual assets like images and videos.",
+            "icon": "/logo/kive.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1064",
+            "name": "WeFaceSwap",
+            "slug": "wefaceswap",
+            "description": "WeFaceSwap is an AI-driven platform that enables users to easily swap faces in photos and videos for creative and entertainment purposes.",
+            "icon": "/logo/www.wefaceswap.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1081",
+            "name": "Common Sense Machines",
+            "slug": "common-sense-machines-ai",
+            "description": "CSM.ai is an AI platform that transforms 2D images or text into interactive 3D models and scenes for creative and professional use.",
+            "icon": "/logo/www.csm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1093",
+            "name": "Imagewith.AI",
+            "slug": "imagewith-ai",
+            "description": "Imagewith.AI is an AI-powered online platform offering advanced image editing tools to enhance, upscale, and manipulate images effortlessly.",
+            "icon": "/logo/www.imagewith.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1096",
+            "name": "XJoy AI",
+            "slug": "xjoy-ai",
+            "description": "XJoy AI is an AI-powered platform specializing in NSFW content creation, virtual girlfriends, and image/video manipulations.",
+            "icon": "/logo/www.xjoy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1098",
+            "name": "HomeVisualizer.ai",
+            "slug": "homevisualizer-ai",
+            "description": "HomeVisualizer.ai is an AI-powered platform that enables users to generate and visualize home interior designs effortlessly.",
+            "icon": "/logo/www.homevisualizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1107",
+            "name": "Fables",
+            "slug": "fables",
+            "description": "Fables.gg is an AI-powered platform for generating and sharing interactive stories and fables.",
+            "icon": "/logo/fables.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1109",
+            "name": "Copyspace.ai",
+            "slug": "copyspace-ai",
+            "description": "Copyspace.ai is an AI-driven platform that helps users generate high-quality marketing copy, social media content, and creative writing effortlessly.",
+            "icon": "/logo/www.copyspace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1111",
+            "name": "The Good AI",
+            "slug": "the-good-ai",
+            "description": "The Good AI is an AI-powered writing assistant that generates essays, articles, and other written content quickly and efficiently.",
+            "icon": "/logo/www.the-good-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1114",
+            "name": "FluxAI Pro",
+            "slug": "fluxai-pro",
+            "description": "FluxAI.pro is an online platform that leverages the advanced Flux AI model to generate high-quality images from text descriptions, catering to creative professionals and hobbyists alike.",
+            "icon": "/logo/fluxai.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1118",
+            "name": "BypassGPT",
+            "slug": "bypassgpt",
+            "description": "BypassGPT is an AI-powered tool that humanizes AI-generated text to evade detection by AI content scanners, ensuring it appears authentically human-written.",
+            "icon": "/logo/bypassgpt.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1126",
+            "name": "VideoFaceSwap.io",
+            "slug": "videofaceswap-io",
+            "description": "VideoFaceSwap.io is an AI-driven platform that enables users to seamlessly swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/videofaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1149",
+            "name": "Notebook.ai",
+            "slug": "notebook-ai",
+            "description": "Notebook.ai is a platform designed for writers and roleplayers to create and manage rich, immersive worlds for their stories and campaigns, offering core worldbuilding tools for free.",
+            "icon": "/logo/www.notebook.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1150",
+            "name": "AI Hentai Generator",
+            "slug": "ai-hentai-generator",
+            "description": "AI Hentai Generator is an online AI-powered tool that enables users to create customized hentai-style images based on text prompts.",
+            "icon": "/logo/aihentaigenerator.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "nichesss",
+            "slug": "nichesss",
+            "description": "nichesss is an AI-powered copywriting software that generates various types of content, such as blog posts, ads, social media content, and more, by clicking a button.",
+            "icon": "/logo/nichesss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1155",
+            "name": "Fashn.ai",
+            "slug": "fashn-ai",
+            "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+            "icon": "/logo/fashn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1158",
+            "name": "PartyRock",
+            "slug": "partyrock",
+            "description": "PartyRock is an AWS-powered generative AI playground that lets users build and share fun AI apps without coding.",
+            "icon": "/logo/partyrock.aws.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1170",
+            "name": "Logomakerr.ai",
+            "slug": "logomakerr-ai",
+            "description": "Logomakerr.ai is an AI-powered platform that allows users to generate professional logos quickly based on simple inputs like company name and industry.",
+            "icon": "/logo/logomakerr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1171",
+            "name": "UpscalePics",
+            "slug": "upscalepics",
+            "description": "UpscalePics is an AI-driven online platform that specializes in enhancing image resolution and quality through advanced upscaling technology.",
+            "icon": "/logo/upscalepics.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1177",
+            "name": "BlueWillow",
+            "slug": "bluewillow-ai",
+            "description": "BlueWillow is an AI-powered platform that enables users to generate stunning images from text prompts via a Discord bot, making art creation accessible and free.",
+            "icon": "/logo/www.bluewillow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1181",
+            "name": "Astria.ai",
+            "slug": "astria-ai",
+            "description": "Astria.ai is an AI platform that enables users to fine-tune Stable Diffusion models with their own images for generating custom, high-quality visuals tailored to specific needs.",
+            "icon": "/logo/www.astria.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1184",
+            "name": "BgRem",
+            "slug": "bgrem-ai",
+            "description": "BgRem offers AI-powered tools for creating and editing images and videos, focusing on user-friendly services for content generation.",
+            "icon": "/logo/bgrem.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1188",
+            "name": "LyricStudio",
+            "slug": "lyricstudio",
+            "description": "LyricStudio is an AI-powered platform designed to help songwriters generate creative lyrics, overcome writer's block, and streamline the songwriting process.",
+            "icon": "/logo/lyricstudio.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1203",
+            "name": "Controlla",
+            "slug": "controlla",
+            "description": "Controlla is a music tech platform using AI to create personalized singing voices, generate choirs, and enable interactive music experiences.",
+            "icon": "/logo/www.controlla.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1218",
+            "name": "Word Studio",
+            "slug": "word-studio",
+            "description": "Word Studio is an AI-powered platform offering a suite of writing tools to help users generate, edit, and optimize content efficiently.",
+            "icon": "/logo/word.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1222",
+            "name": "Ludo.ai",
+            "slug": "ludo-ai",
+            "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+            "icon": "/logo/ludo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1229",
+            "name": "Deep Realms",
+            "slug": "deep-realms",
+            "description": "Deep Realms is an AI-powered storytelling and writing platform that enables users to create and explore characters, narratives, and worlds collaboratively with AI.",
+            "icon": "/logo/www.deeprealms.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1343",
+            "name": "GStory",
+            "slug": "gstory-ai",
+            "description": "GStory.ai is an AI-powered platform that enables users to create, customize, and generate interactive stories and narratives using advanced artificial intelligence.",
+            "icon": "/logo/www.gstory.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1295",
+            "name": "Adpex AI",
+            "slug": "adpex-ai",
+            "description": "Adpex AI is an AI-powered platform designed to optimize advertising performance and enhance marketing strategies through intelligent automation.",
+            "icon": "/logo/www.adpexai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1303",
+            "name": "AI Image Editor",
+            "slug": "ai-image-editor",
+            "description": "AI Image Editor is an online platform that leverages artificial intelligence to provide advanced image editing tools for users to enhance, manipulate, and generate images effortlessly.",
+            "icon": "/logo/aiimageeditor.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1400",
+            "name": "Biography Studio AI",
+            "slug": "biography-studio-ai",
+            "description": "Biography Studio AI is an AI-powered platform that transforms spoken personal life stories into professionally written books, audiobooks, or podcasts.",
+            "icon": "/logo/www.biographystudio.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1389",
+            "name": "MakeGirl.ai",
+            "slug": "makegirl-ai",
+            "description": "MakeGirl.ai is an AI-powered platform that offers a spicy AI chat and image generator, focusing on creating personalized AI girlfriends for digital intimacy, roleplay, and companionship.",
+            "icon": "/logo/www.makegirl.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1313",
+            "name": "Postel",
+            "slug": "postel",
+            "description": "Postel is an AI-powered tool designed to help creators and businesses create high-performing content for X (Twitter) that aligns with their voice and grows their audience.",
+            "icon": "/logo/www.postel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1429",
+            "name": "AI Jingle Maker",
+            "slug": "ai-jingle-maker",
+            "description": "AI Jingle Maker is an innovative platform that leverages artificial intelligence to create custom musical jingles for advertising, branding, and entertainment purposes.",
+            "icon": "/logo/www.aijinglemaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1405",
+            "name": "Frame0",
+            "slug": "frame0",
+            "description": "Frame0 is a sleek alternative to Balsamiq for creating beautiful hand-drawn style wireframes and prototypes quickly.",
+            "icon": "/logo/frame0.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1402",
+            "name": "Perspective AI",
+            "slug": "perspective-ai",
+            "description": "Perspective AI is an AI-powered platform that helps users generate diverse perspectives on ideas, topics, and decisions to enhance critical thinking and decision-making.",
+            "icon": "/logo/getperspective.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1268",
+            "name": "Redesignr",
+            "slug": "redesignr-ai",
+            "description": "Redesignr.ai is an AI-driven platform that allows users to upload photos of their rooms and generate redesigned interior spaces in various styles.",
+            "icon": "/logo/redesignr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1406",
+            "name": "Golpo AI Video",
+            "slug": "golpo-ai-video",
+            "description": "Golpo AI Video is an AI-driven platform that enables users to generate and edit videos using advanced artificial intelligence technology.",
+            "icon": "/logo/video.golpoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1301",
+            "name": "Stormy AI",
+            "slug": "stormy-ai",
+            "description": "Stormy.ai is an AI-powered platform for generating creative content and brainstorming ideas.",
+            "icon": "/logo/stormy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1265",
+            "name": "GeminiGen AI",
+            "slug": "geminigen-ai",
+            "description": "GeminiGen AI is a platform that provides access to Google's Gemini AI model for generating text, images, and other content.",
+            "icon": "/logo/geminigen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1328",
+            "name": "Eloquens",
+            "slug": "eloquens-ai",
+            "description": "Eloquens.ai is an AI-powered platform designed to help users generate eloquent speeches, presentations, and written content with ease.",
+            "icon": "/logo/eloquens.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1329",
+            "name": "Veo",
+            "slug": "www-veo",
+            "description": "Veo is an AI-powered platform specializing in video generation and editing tools for creators and businesses.",
+            "icon": "/logo/www-veo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1282",
+            "name": "Refont",
+            "slug": "refont-ai",
+            "description": "Refont is an AI Font Generator that allows users to create beautiful typography, including calligraphy, signatures, and fancy fonts, instantly and without design skills.",
+            "icon": "/logo/refont.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1431",
+            "name": "AniFun.ai",
+            "slug": "anifun-ai",
+            "description": "AniFun.ai is an AI-powered platform that enables users to generate and interact with anime-style characters, images, and stories for creative entertainment.",
+            "icon": "/logo/anifun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1382",
+            "name": "ChatGPT5.so",
+            "slug": "chatgpt5-so",
+            "description": "ChatGPT5.so offers free, instant access to OpenAI's GPT-5 AI model without requiring login, enabling users to engage in conversations, coding, and complex problem-solving.",
+            "icon": "/logo/chatgpt5.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1354",
+            "name": "Muka AI",
+            "slug": "muka-ai",
+            "description": "Muka AI is an innovative platform that leverages artificial intelligence to generate and edit images for creative and professional use.",
+            "icon": "/logo/www.muka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1423",
+            "name": "Veo3 JSON Prompt",
+            "slug": "veo3-json-prompt",
+            "description": "Veo3 JSON Prompt is a specialized tool for creating and optimizing JSON-formatted prompts for AI video generation models like Google's Veo 3.",
+            "icon": "/logo/veo3jsonprompt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1269",
+            "name": "Shockvue",
+            "slug": "shockvue",
+            "description": "Shockvue is an AI image editor that allows users to edit images by simply describing the desired changes, offering a quick and intuitive editing experience.",
+            "icon": "/logo/www.shockvueapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1288",
+            "name": "Snowglobe",
+            "slug": "snowglobe",
+            "description": "Snowglobe is an AI-powered platform for creating and interacting with personalized virtual worlds and AI companions in a contained, immersive environment.",
+            "icon": "/logo/snowglobe.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1296",
+            "name": "Fanvaiy",
+            "slug": "fanvaiy",
+            "description": "Fanvaiy is an AI-powered platform that enables users to generate and edit creative content, focusing on art, images, and multimedia for fans and creators.",
+            "icon": "/logo/fanvaiy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1325",
+            "name": "AI Video Maker",
+            "slug": "ai-video-maker",
+            "description": "AI Video Maker is an online platform that leverages artificial intelligence to simplify video creation and editing for users of all skill levels.",
+            "icon": "/logo/aivideomaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1331",
+            "name": "Nano Banana",
+            "slug": "nano-banana-pro",
+            "description": "Nano Banana is an AI-driven platform specializing in creative image generation and editing with a focus on whimsical, fruit-inspired designs.",
+            "icon": "/logo/nano-banana.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1335",
+            "name": "Reeroll",
+            "slug": "reeroll",
+            "description": "Reeroll is an AI-driven platform that enables users to generate, edit, and customize videos using advanced artificial intelligence tools.",
+            "icon": "/logo/reeroll.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1337",
+            "name": "AISplash",
+            "slug": "aisplash",
+            "description": "AISplash is an AI-powered platform that enables users to generate creative and customized images for various purposes, focusing on artistic and marketing needs.",
+            "icon": "/logo/aisplash.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1369",
+            "name": "HistorySleep",
+            "slug": "historysleep",
+            "description": "HistorySleep is an AI-powered platform that generates personalized historical bedtime stories to promote relaxation and better sleep.",
+            "icon": "/logo/www.historysleep.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1370",
+            "name": "ImgEnhancer AI",
+            "slug": "imgenhancer-ai",
+            "description": "ImgEnhancer AI is an online platform that uses artificial intelligence to enhance and improve the quality of images through advanced editing tools.",
+            "icon": "/logo/imgenhancer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1371",
+            "name": "AI Animate Image",
+            "slug": "ai-animate-image",
+            "description": "AI Animate Image is an innovative platform that leverages artificial intelligence to convert static images into engaging animations and videos.",
+            "icon": "/logo/www.aianimateimage.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1377",
+            "name": "Italian Brainrot",
+            "slug": "italian-brainrot",
+            "description": "Italian Brainrot is a playful AI-powered platform that generates humorous, meme-inspired content focused on Italian culture and language to entertain users with lighthearted 'brainrot' style diversions.",
+            "icon": "/logo/italian-brainrot.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1379",
+            "name": "Veo4",
+            "slug": "veo4",
+            "description": "Veo4 is a developer-oriented platform providing AI-powered video generation tools for creating high-quality videos from text prompts.",
+            "icon": "/logo/veo4.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1384",
+            "name": "Syndy",
+            "slug": "syndy-ai",
+            "description": "Syndy is an AI-powered copywriting assistant that transforms ideas into engaging LinkedIn posts while preserving the user's authentic voice.",
+            "icon": "/logo/syndy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1388",
+            "name": "FaceSwapVideo.ai",
+            "slug": "faceswapvideo-ai",
+            "description": "FaceSwapVideo.ai is an AI-powered platform that enables users to easily swap faces in videos for creative, entertainment, or professional purposes.",
+            "icon": "/logo/faceswapvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1391",
+            "name": "Eleven Music AI",
+            "slug": "eleven-music-ai",
+            "description": "Eleven Music AI is an innovative platform that leverages artificial intelligence to generate, customize, and produce high-quality music tracks for creators and musicians.",
+            "icon": "/logo/elevenmusicai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1392",
+            "name": "AI Genie 3",
+            "slug": "ai-genie-3",
+            "description": "AI Genie 3 is an AI-powered platform that acts as a virtual assistant, granting user wishes through intelligent automation and content generation.",
+            "icon": "/logo/www.aigenie3.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1397",
+            "name": "ElevenMusic",
+            "slug": "elevenmusic-ai",
+            "description": "ElevenMusic.ai is an AI-powered platform for generating and editing music tracks using advanced artificial intelligence.",
+            "icon": "/logo/elevenmusic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1398",
+            "name": "Illustro",
+            "slug": "illustro",
+            "description": "Illustro is an AI-powered platform for generating custom illustrations and graphics from text descriptions.",
+            "icon": "/logo/illustro.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1399",
+            "name": "MusicEleven AI",
+            "slug": "musiceleven-ai",
+            "description": "MusicEleven AI is an innovative platform that uses artificial intelligence to generate custom music tracks based on user inputs like text prompts, moods, or genres.",
+            "icon": "/logo/musiceleven.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1411",
+            "name": "Grok Imagine Art",
+            "slug": "grok-imagine-art",
+            "description": "Grok Imagine Art is an AI-powered platform for generating and exploring artistic images using advanced generative models.",
+            "icon": "/logo/grok-imagine.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1413",
+            "name": "Eleven Music AI",
+            "slug": "eleven-music-ai-com",
+            "description": "Eleven Music AI is an innovative platform that uses artificial intelligence to generate, customize, and produce high-quality music tracks for creators and musicians.",
+            "icon": "/logo/elevenmusicai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1416",
+            "name": "Runway Aleph",
+            "slug": "runway-aleph",
+            "description": "Runway Aleph is an AI-driven platform specializing in video generation and creative design tools to empower users in producing high-quality multimedia content.",
+            "icon": "/logo/runwayaleph.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1418",
+            "name": "Ideart",
+            "slug": "ideart-ai",
+            "description": "Ideart.ai is an AI-driven platform that transforms user ideas into stunning visual art and designs.",
+            "icon": "/logo/ideart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1430",
+            "name": "HorizonX",
+            "slug": "horizonx",
+            "description": "HorizonX is an AI-powered integrated research environment that streamlines the entire research workflow from brainstorming to publication.",
+            "icon": "/logo/www.horizonx.live.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1433",
+            "name": "GrokImagine",
+            "slug": "grokimagine-ai",
+            "description": "GrokImagine.ai is an AI-powered platform that enables users to generate high-quality images from text descriptions using advanced AI models.",
+            "icon": "/logo/grokimagine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1071",
+            "name": "AI Dungeon",
+            "slug": "ai-dungeon",
+            "description": "AI Dungeon is an AI-powered interactive storytelling platform that allows users to create and experience infinite text-based adventures and role-playing games.",
+            "icon": "/logo/aidungeon.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1138",
+            "name": "AI Bucket",
+            "slug": "ai-bucket",
+            "description": "AI Bucket is a platform that provides direct access to over 3,000 handpicked and verified AI tools across various categories to enhance productivity for creators, developers, and businesses.",
+            "icon": "/logo/www.aibucket.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1318",
+            "name": "Picsman.ai",
+            "slug": "picsman-ai",
+            "description": "Picsman.ai is an online AI photo editor offering tools for image editing, enhancement, and generation, including features like object removal, virtual clothing try-ons, and image upscaling.",
+            "icon": "/logo/www.picsman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1443",
+            "name": "Remaker AI",
+            "slug": "remaker-ai",
+            "description": "Remaker AI is an online platform that leverages artificial intelligence for advanced image editing, face swapping, and creative content generation.",
+            "icon": "/logo/remaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1444",
+            "name": "Make",
+            "slug": "make",
+            "description": "Make is a no-code automation platform that enables users to connect apps, automate workflows, and streamline business processes without coding expertise.",
+            "icon": "/logo/www.make.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        },
+        {
+            "id": "1446",
+            "name": "There's an AI for That",
+            "slug": "theres-an-ai-for-that",
+            "description": "There's an AI for That is the world's largest AI tools directory, helping users discover and explore thousands of AI-powered applications across various categories.",
+            "icon": "/logo/theresanaiforthat.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-creative-writing"
+            ]
+        }
+    ]
+}

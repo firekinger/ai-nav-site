@@ -1,0 +1,76 @@
+{
+    "name": "Rezi",
+    "description": "Rezi is an AI-powered resume builder designed to create ATS-optimized resumes and cover letters to enhance job seekers' chances of landing interviews.",
+    "longDescription": "Rezi is an AI-driven platform that streamlines the resume-building process by automating content creation, formatting, and optimization for job applications. Its mission is to empower job seekers with professional, ATS-friendly resumes that increase interview opportunities. The platform uses advanced AI to tailor resumes to specific job descriptions, ensuring alignment with employer expectations. Founded by Jacob Jacquet, Rezi has grown to serve over 3 million users globally, offering tools like keyword targeting and real-time content analysis. It simplifies the job application process by providing customizable templates and expert feedback, making it ideal for professionals across industries. Rezi also supports cover letter creation and LinkedIn profile integration for a seamless job search experience.",
+    "url": "https://www.rezi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.rezi.ai.webp",
+    "category": "AI Resume Builder",
+    "categorySlug": "ai-resume-builder",
+    "slug": "rezi",
+    "categories": [
+        "AI Resume Builder",
+        "AI Task Management",
+        "AI Writing",
+        "AI Search Engine",
+        "AI Cover Letter Generator",
+        "AI Productivity Tools",
+        "AI Coaching",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "AI Resume Builder automates resume creation with tailored content for specific job roles, saving time and improving quality.",
+        "ATS Keyword Targeting identifies and integrates job-specific keywords to enhance resume visibility in applicant tracking systems.",
+        "Real-Time Content Analysis provides instant feedback on resume errors, such as missing bullet points or buzzwords, for improved clarity.",
+        "Rezi Score evaluates resumes across 23 criteria, offering a 1-100 score to guide improvements and ensure job-readiness.",
+        "Customizable Templates offer a variety of ATS-friendly designs with flexible formatting options like font size and color adjustments.",
+        "LinkedIn Profile Import allows users to create resumes quickly by importing data via a Chrome extension, streamlining the process.",
+        "AI Cover Letter Generator creates tailored cover letters based on job titles and company names in seconds.",
+        "Resume Version Management enables users to create, duplicate, and organize multiple resumes for different job applications.",
+        "AI Bullet Point Writer suggests impactful, metrics-driven bullet points to highlight achievements effectively.",
+        "Export Options support downloading resumes in DOCX, PDF, or Google Drive formats for easy sharing and submission.",
+        "Interview Practice Tool provides simulated interview scenarios and feedback to boost user confidence.",
+        "Sharable Resume Link allows users to share resumes via a private, distraction-free URL for professional presentation."
+    ],
+    "faqs": [
+        {
+            "question": "What is Rezi used for?",
+            "answer": "Rezi is an AI-powered resume builder that helps job seekers create professional, ATS-optimized resumes and cover letters to improve their chances of landing interviews."
+        },
+        {
+            "question": "Is Rezi free to use?",
+            "answer": "Rezi offers a free plan with basic features, but premium features like unlimited AI credits and advanced tools require a paid subscription."
+        },
+        {
+            "question": "How does Rezi optimize resumes for ATS?",
+            "answer": "Rezi uses AI to analyze job descriptions and suggest relevant keywords, ensuring resumes are formatted to pass applicant tracking system filters effectively."
+        },
+        {
+            "question": "What is the Rezi Score?",
+            "answer": "The Rezi Score is a 1-100 rating that evaluates a resume’s quality across 23 criteria, providing actionable feedback to improve job-readiness."
+        },
+        {
+            "question": "Can I import my LinkedIn profile to Rezi?",
+            "answer": "Yes, Rezi’s Chrome extension allows users to import their LinkedIn profile to create an ATS-optimized resume quickly."
+        },
+        {
+            "question": "Does Rezi support cover letter creation?",
+            "answer": "Yes, Rezi’s AI Cover Letter Generator creates tailored cover letters based on job titles and company details in seconds."
+        },
+        {
+            "question": "What file formats can I export my resume to?",
+            "answer": "Rezi supports exporting resumes in DOCX, PDF, and Google Drive formats for easy sharing and job applications."
+        },
+        {
+            "question": "Can I create multiple resumes with Rezi?",
+            "answer": "Yes, Rezi allows users to create, duplicate, and manage multiple resume versions tailored to different job roles."
+        },
+        {
+            "question": "Does Rezi offer templates for different industries?",
+            "answer": "Rezi provides over 300 ATS-friendly templates suitable for various industries and experience levels."
+        },
+        {
+            "question": "Is there a money-back guarantee for Rezi’s paid plans?",
+            "answer": "Yes, Rezi offers a 30-day money-back guarantee for its paid subscription plans."
+        }
+    ]
+}

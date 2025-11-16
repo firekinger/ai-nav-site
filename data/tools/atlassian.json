@@ -1,0 +1,87 @@
+{
+    "name": "Atlassian",
+    "description": "Atlassian offers collaboration software for software development, IT, and business teams, featuring tools like Jira and Confluence enhanced with AI capabilities.",
+    "longDescription": "Atlassian is a leading provider of team collaboration and productivity software, empowering over 300,000 companies worldwide, including 80% of Fortune 500 firms, to plan, track, and manage their work efficiently. Its mission is to unleash the potential of every team by providing tools that foster seamless collaboration, particularly in agile environments for software development and beyond. The company addresses key challenges such as project tracking, knowledge sharing, and workflow automation, helping teams reduce downtime and boost productivity. With the integration of Atlassian Intelligence, it incorporates AI to enhance decision-making, content generation, and task automation. Atlassian serves a wide range of users from startups to large enterprises, enabling them to achieve better outcomes through innovative, cloud-based solutions.",
+    "url": "https://www.atlassian.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.atlassian.com.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "atlassian",
+    "categories": [
+        "AI Project Management",
+        "AI Search Engine",
+        "AI Writing",
+        "AI Summarizer",
+        "AI Tools Directory",
+        "AI Workflow",
+        "AI Writing Assistants",
+        "AI Knowledge Management",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "Jira enables teams to plan, track, and manage projects using agile methodologies like Scrum and Kanban, improving workflow efficiency.",
+        "Confluence provides a collaborative workspace for creating, sharing, and organizing knowledge, with real-time editing for team synchronization.",
+        "Atlassian Intelligence uses AI to search for work items via natural language, making information retrieval faster and more intuitive.",
+        "AI automation in Jira streamlines repetitive tasks, allowing teams to focus on high-value work and increase productivity.",
+        "Content generation and transformation features in Atlassian products help users draft, summarize, and improve documents quickly.",
+        "Bug tracking in Jira allows seamless reporting, prioritization, and resolution of issues to maintain software quality.",
+        "DevOps integration supports development, deployment, and management of applications with an open toolchain approach.",
+        "Summarization of work item comments condenses discussions, helping teams stay informed without reading lengthy threads.",
+        "Trello offers visual project management with boards, lists, and cards for simple task organization and collaboration.",
+        "Bitbucket provides code repository management with version control, pull requests, and CI/CD pipelines for developers.",
+        "Jira Service Management facilitates IT service desks with incident management, request fulfillment, and AI-powered insights.",
+        "Enterprise-grade security features ensure data protection across plans, with advanced controls in premium tiers.",
+        "Cloud-based deployment reduces infrastructure overhead, offering scalability and reliability for global teams.",
+        "Integration with third-party apps expands functionality, connecting Atlassian tools to other software ecosystems."
+    ],
+    "faqs": [
+        {
+            "question": "What is Atlassian used for?",
+            "answer": "Atlassian provides tools for team collaboration, project management, and software development, helping teams plan, track, and release work efficiently."
+        },
+        {
+            "question": "Does Atlassian offer free plans?",
+            "answer": "Yes, Atlassian offers free plans for its products like Jira and Confluence, with limited features and usage suitable for small teams or trials."
+        },
+        {
+            "question": "What is Atlassian Intelligence?",
+            "answer": "Atlassian Intelligence is an AI feature set integrated into products like Jira and Confluence, enabling natural language search, content generation, summarization, and automation to boost productivity."
+        },
+        {
+            "question": "Which companies use Atlassian?",
+            "answer": "Over 300,000 companies, including 80% of Fortune 500 firms like Mercedes-Benz, use Atlassian for collaboration and project management."
+        },
+        {
+            "question": "Is Atlassian suitable for startups?",
+            "answer": "Yes, Atlassian's scalable tools and free plans make it ideal for startups, allowing them to grow without initial high costs."
+        },
+        {
+            "question": "What AI features does Jira have?",
+            "answer": "Jira includes AI for natural language search, automation, content generation, comment summarization, and description improvements to enhance team efficiency."
+        },
+        {
+            "question": "How does Confluence support team collaboration?",
+            "answer": "Confluence enables real-time editing, knowledge sharing, and organization of content, with AI features for drafting and summarizing ideas."
+        },
+        {
+            "question": "What are the differences between Atlassian plans?",
+            "answer": "Free plans offer basic features with limits, while Standard, Premium, and Enterprise provide advanced AI, security, and scalability options."
+        },
+        {
+            "question": "Can Atlassian integrate with other tools?",
+            "answer": "Yes, Atlassian products integrate with thousands of third-party apps, enhancing workflows in development, productivity, and business management."
+        },
+        {
+            "question": "How does Atlassian ensure data security?",
+            "answer": "Atlassian offers enterprise-grade security features, including data encryption and access controls, with enhanced options in paid plans."
+        },
+        {
+            "question": "What is Trello used for in Atlassian?",
+            "answer": "Trello is a visual tool for task management using boards and cards, integrated with Atlassian for simple project tracking."
+        },
+        {
+            "question": "Does Atlassian have AI for content creation?",
+            "answer": "Yes, Atlassian Intelligence helps generate, transform, and summarize content in tools like Confluence and Jira."
+        }
+    ]
+}

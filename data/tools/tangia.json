@@ -1,0 +1,97 @@
+{
+    "name": "Tangia",
+    "description": "Tangia is a platform that enhances live streaming with AI-powered tools, interactive features, and a vast library of voices and memes for streamers.",
+    "longDescription": "Tangia is an interactive streaming platform designed to boost viewer engagement and monetization for live streamers. Its mission is to empower creators with cutting-edge AI tools to make streams more dynamic and fun. It serves users by integrating seamlessly with popular streaming software and platforms, allowing chat interactions like AI-generated responses, custom TTS, and meme sharing. Streamers can earn revenue through paid viewer interactions, while building community with features like soundbites and image generation. Overall, Tangia solves the problem of static streams by adding layers of interactivity and personalization.",
+    "url": "https://www.tangia.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.tangia.co.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "tangia",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Character",
+        "AI Image Generator",
+        "AI Meme Generator",
+        "AI Audio Editing",
+        "AI Chat Generator"
+    ],
+    "features": [
+        "Use the Tangia TTS Studio to turn your voice into a hyper-realistic TTS in minutes for personalized stream narration.",
+        "Access a library of over 150 hand-crafted TTS voices for instant use on streams to enhance audio variety.",
+        "Engage chat with AI characters for spontaneous conversations on various topics, increasing viewer interaction.",
+        "Create custom AI personas to add personality to TTS interactions for better viewer engagement.",
+        "Utilize a curated library of thousands of memes that can be shared and added to by the community, with bonuses for contributions.",
+        "Allow chat to submit and approve stream clips as playable soundbites for interactive experiences.",
+        "Enable chat to generate images from prompts, which are displayed on stream with TTS narration for creative fun.",
+        "Enhance alerts with TTS messages, interactions, and videos triggered by Tangia features to improve notifications.",
+        "Improve media sharing with support for multiple platforms, mod access, and a trimmer tool for efficient content handling.",
+        "Offer subscriber discounts on interactions and extra custom TTS slots through the TangiaPass for loyal viewers.",
+        "Earn REP by sharing custom interactions with the community to foster collaboration.",
+        "Provide early access to features and events for Affiliates and Partners, including an IRL trophy for recognition.",
+        "Start dance parties by setting Bit/Token goals with the Tangia Parties feature to gamify streams.",
+        "Integrate Tangia with streaming software like OBS Studio, Streamlabs OBS, Twitch Studio, and platforms like Twitch, YouTube, TikTok, and Kick for broad compatibility."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tangia?",
+            "answer": "Tangia is a platform that enhances live streams with AI-powered tools, interactive features, and a vast library of voices and memes for streamers."
+        },
+        {
+            "question": "How can I use my own voice on stream with Tangia?",
+            "answer": "You can use the Tangia TTS Studio to turn your voice into a hyper-realistic TTS in minutes for use on your stream."
+        },
+        {
+            "question": "Does Tangia offer AI features for streaming?",
+            "answer": "Yes, Tangia offers AI-driven features like AI character conversations, custom AI personas for TTS, and image generation from chat prompts."
+        },
+        {
+            "question": "Can I share memes during my stream with Tangia?",
+            "answer": "Yes, Tangia provides a curated library of thousands of memes that you can use, share, and add to, earning bonuses for contributions."
+        },
+        {
+            "question": "How do soundbites work on Tangia?",
+            "answer": "Chat can submit clips from your stream, which you or a mod can approve, turning them into playable soundbite interactions instantly."
+        },
+        {
+            "question": "What is the TangiaPass and what does it offer?",
+            "answer": "The TangiaPass offers subscriber discounts, extra custom TTS slots, the ability to earn REP by sharing interactions, early access to features for Affiliates and Partners, and Tangia Parties for dance events."
+        },
+        {
+            "question": "Which streaming software is compatible with Tangia?",
+            "answer": "Tangia works with any streaming software that has a browser source, including OBS Studio, Streamlabs OBS, Twitch Studio, and platforms like Twitch, YouTube, TikTok, and Kick."
+        },
+        {
+            "question": "How can chat interact with my stream using Tangia?",
+            "answer": "Chat can engage through AI conversations, submit image generation prompts displayed on stream, and create soundbites from stream clips for interactive play."
+        },
+        {
+            "question": "Do I need to be an Affiliate or Partner to use all Tangia features?",
+            "answer": "No, many features are available to all users, but Affiliates and Partners get early access to features, events, and an IRL trophy."
+        },
+        {
+            "question": "How can I earn bonuses on Tangia?",
+            "answer": "You can earn bonuses by sharing and adding to the community meme library and earning REP by sharing custom interactions."
+        },
+        {
+            "question": "Is Tangia free to use?",
+            "answer": "Tangia operates on a freemium model, where basic features are available for free, and advanced features require a paid subscription like Tangia+."
+        },
+        {
+            "question": "What platforms does Tangia support?",
+            "answer": "Tangia supports Twitch, YouTube, TikTok, and Kick for streaming integrations."
+        },
+        {
+            "question": "How does Tangia help monetize streams?",
+            "answer": "Tangia allows viewers to pay for interactions such as TTS messages, memes, and soundbites, enabling direct monetization of stream engagement."
+        },
+        {
+            "question": "Does Tangia use AI for image generation?",
+            "answer": "Yes, viewers can generate images from text prompts via chat, which are then displayed on the stream with accompanying TTS narration."
+        },
+        {
+            "question": "Can I customize AI characters in Tangia?",
+            "answer": "Yes, you can create custom AI personas to personalize TTS interactions and make them more engaging for your audience."
+        }
+    ]
+}

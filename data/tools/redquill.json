@@ -1,0 +1,63 @@
+{
+    "name": "RedQuill",
+    "description": "RedQuill is an AI-powered platform for generating and sharing personalized spicy and erotic stories.",
+    "longDescription": "RedQuill is an AI-driven storytelling platform designed to create personalized erotic and spicy stories based on user prompts and preferences. It enables users to craft unique narratives, explore a vast library of community-generated content, and remix existing stories to spark creativity. The platform fosters a vibrant community of 'RedQuillers' who share, discuss, and inspire each other in a judgment-free environment. RedQuill emphasizes user privacy with encrypted data and maintains strict content moderation to ensure compliance with ethical and legal guidelines. Its mission is to provide a fun, safe, and creative space for adults to express their fantasies through AI-generated storytelling. The service is accessible via a web-based platform, with both free and premium tiers to cater to different user needs.",
+    "url": "https://www.redquill.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.redquill.net.webp",
+    "category": "AI Story Generator",
+    "categorySlug": "ai-story-generator",
+    "slug": "redquill",
+    "categories": [
+        "AI Story Generator",
+        "NSFW",
+        "AI Content Detector",
+        "AI Creative Writing",
+        "AI Novel"
+    ],
+    "features": [
+        "Generate personalized erotic stories by inputting custom prompts, allowing users to tailor narratives to their specific desires.",
+        "Remix existing stories, characters, or scenarios to create unique content, fostering creativity and collaboration.",
+        "Explore a vast library of user-generated spicy stories, providing inspiration and diverse themes for all preferences.",
+        "Share stories within the RedQuill community, enabling users to connect and engage with other storytellers.",
+        "Utilize advanced AI models to craft stories in various perspectives, such as first, second, or third person, enhancing narrative depth.",
+        "Access premium features like increased story generation limits and early access to new tools with a subscription.",
+        "Benefit from strict content moderation to ensure all stories adhere to ethical and legal guidelines, creating a safe environment.",
+        "Enjoy encrypted user data and story preferences, prioritizing privacy and security for all users.",
+        "Create multi-chapter stories with the AI, allowing for extended narratives and complex story arcs.",
+        "Discover stories across various themes, including fandoms, fetishes, and sexualities, catering to diverse interests."
+    ],
+    "faqs": [
+        {
+            "question": "What is RedQuill?",
+            "answer": "RedQuill is an AI-powered platform where users can generate, read, and share personalized erotic and spicy stories based on custom prompts."
+        },
+        {
+            "question": "Is RedQuill free to use?",
+            "answer": "Yes, RedQuill offers a free tier with limited daily story generation, while premium subscriptions unlock more features and higher quotas."
+        },
+        {
+            "question": "Can I share my stories with others?",
+            "answer": "Yes, users can share their stories within the RedQuill community or set them as private links, encouraging collaboration and feedback."
+        },
+        {
+            "question": "Is my data safe on RedQuill?",
+            "answer": "RedQuill encrypts personal information and story preferences to protect user privacy and ensure data security."
+        },
+        {
+            "question": "What types of stories can I create?",
+            "answer": "Users can create stories across various themes, including romance, fantasy, and NSFW content, as long as they comply with RedQuill’s content guidelines."
+        },
+        {
+            "question": "Can I publish RedQuill stories elsewhere?",
+            "answer": "Yes, users can publish their stories commercially as they retain non-exclusive rights, but public stories may be used by others per the terms of service."
+        },
+        {
+            "question": "Why does the AI sometimes fail to follow my prompts?",
+            "answer": "The AI may require multiple edits to align with complex prompts, and users can remix stories to refine outputs or contact support for assistance."
+        },
+        {
+            "question": "How do I delete my RedQuill account?",
+            "answer": "To delete your account, contact RedQuill support at support@redquill.net, as no direct option is available in the profile section."
+        }
+    ]
+}

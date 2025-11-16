@@ -1,0 +1,64 @@
+{
+    "name": "Planable",
+    "description": "Planable is a social media management tool designed for teams to plan, collaborate, approve, and schedule content across multiple platforms.",
+    "longDescription": "Planable is a content collaboration platform that streamlines social media management for marketing teams, agencies, and brands. Launched in 2016, it provides a centralized hub for creating, reviewing, approving, and scheduling content across platforms like Facebook, Instagram, LinkedIn, and TikTok. The platform aims to eliminate chaotic workflows by offering intuitive tools like drag-and-drop calendars and real-time feedback systems, making collaboration seamless. It is trusted by over 5,000 marketing teams, including brands like Hyundai and KFC, to manage diverse content types, from social media posts to newsletters. Planable’s user-friendly interface mimics native social media platforms, ensuring familiarity and ease of use. Its mission is to empower teams to produce high-quality content efficiently, reducing reliance on spreadsheets and email chains.",
+    "url": "https://planable.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/planable.io.webp",
+    "category": "AI Social Media",
+    "categorySlug": "ai-social-media",
+    "slug": "planable",
+    "categories": [
+        "AI Social Media",
+        "AI Writing Assistants",
+        "AI Scheduling",
+        "AI Workflow",
+        "AI Project Management",
+        "AI Calendar"
+    ],
+    "features": [
+        "Drag-and-drop content calendar allows users to plan and organize posts visually across multiple platforms, enhancing scheduling efficiency.",
+        "Real-time collaboration enables team members and clients to provide instant feedback and annotations directly on content, streamlining the review process.",
+        "Multi-platform publishing supports direct scheduling to nine platforms, including Instagram, TikTok, and LinkedIn, saving time on manual posting.",
+        "Customizable approval workflows let teams set up multi-level approval processes to ensure content is thoroughly reviewed before publishing.",
+        "Pixel-perfect post previews display how content will appear on each platform, ensuring accuracy and brand consistency.",
+        "Social inbox feature allows users to manage and respond to Instagram and Facebook comments and DMs from a single dashboard, boosting engagement efficiency.",
+        "AI-powered content suggestions accelerate content creation by providing quick inspiration tailored to user needs.",
+        "Analytics tools offer performance insights and report generation, helping teams make data-driven decisions for content strategies.",
+        "Dedicated workspaces for brands or clients keep content organized and separate, ideal for agencies managing multiple accounts.",
+        "Bulk scheduling and duplication features enable users to schedule or replicate posts across workspaces, saving time on repetitive tasks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Planable used for?",
+            "answer": "Planable is a social media management tool that helps teams create, plan, review, approve, and schedule content across platforms like Instagram, Facebook, and LinkedIn."
+        },
+        {
+            "question": "Does Planable offer a free plan?",
+            "answer": "Yes, Planable offers a free plan with up to 50 posts, allowing users to access core features without a credit card or time limit."
+        },
+        {
+            "question": "Which social media platforms does Planable support?",
+            "answer": "Planable supports nine platforms: Facebook, Instagram, TikTok, YouTube, Google Business Profiles, Threads, Pinterest, Twitter (X), and LinkedIn."
+        },
+        {
+            "question": "Can I collaborate with my team or clients on Planable?",
+            "answer": "Yes, Planable enables real-time collaboration with features like comments, annotations, and customizable approval workflows for teams and clients."
+        },
+        {
+            "question": "Does Planable integrate with other tools?",
+            "answer": "Planable focuses on native integrations with social media platforms but does not emphasize third-party tool integrations; check their roadmap for updates."
+        },
+        {
+            "question": "Is Planable suitable for agencies?",
+            "answer": "Yes, Planable is designed for agencies, offering dedicated workspaces for multiple clients and streamlined collaboration tools to manage complex workflows."
+        },
+        {
+            "question": "How does Planable handle content approvals?",
+            "answer": "Planable offers customizable approval workflows, allowing teams to set single or multi-level approvals to ensure content is reviewed before publishing."
+        },
+        {
+            "question": "Can I manage Instagram comments in Planable?",
+            "answer": "Yes, Planable’s social inbox allows users to view and respond to Instagram and Facebook comments and DMs directly within the platform."
+        }
+    ]
+}

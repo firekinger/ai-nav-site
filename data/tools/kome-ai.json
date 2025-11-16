@@ -1,0 +1,70 @@
+{
+    "name": "Kome",
+    "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+    "longDescription": "Kome is an innovative AI-powered browser extension designed to streamline online activities by offering tools for summarization, bookmarking, and content creation. It aims to boost productivity for users such as students, researchers, professionals, and content creators by simplifying how they interact with digital content. The extension integrates seamlessly with major browsers, allowing users to summarize articles, YouTube videos, and other web content instantly, while also organizing bookmarks efficiently. By leveraging advanced natural language processing, Kome condenses complex information into concise summaries, saving users time and enhancing comprehension. Additionally, its smart compose feature helps generate emails, tweets, and blog posts, making it a versatile tool for both personal and professional use. Kome’s mission is to make browsing smarter and more efficient, addressing the challenges of information overload in today’s digital world.",
+    "url": "https://kome.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/kome.ai.webp",
+    "category": "AI Article Summarizer",
+    "categorySlug": "ai-article-summarizer",
+    "slug": "kome-ai",
+    "categories": [
+        "AI Article Summarizer",
+        "AI Writing",
+        "AI Transcription",
+        "AI Email Assistant",
+        "AI Color Palette Generator",
+        "AI Browsers",
+        "AI Language Learning",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered summarization instantly condenses articles, news, and YouTube videos, improving reading speed and comprehension.",
+        "The bookmark manager allows users to capture, organize, and easily access content from any website, streamlining research and content discovery.",
+        "Smart Compose uses AI to generate emails, tweets, and blog posts based on bookmarked content, enhancing content creation efficiency.",
+        "The YouTube Transcript Generator provides accurate transcripts in over 120 languages, aiding content creators in repurposing video content.",
+        "Email extraction quickly identifies and copies email addresses from websites, saving time for outreach tasks.",
+        "Color palette extraction enables users to capture and save website color schemes in their preferred format, useful for designers.",
+        "Automated page scrolling simplifies navigation through long web pages, improving user experience.",
+        "Cross-browser compatibility ensures seamless performance on Chrome, Firefox, Edge, Opera, Brave, and Arc.",
+        "The free plan provides access to core features like summarization and bookmarking, making it accessible to all users.",
+        "The premium plan offers 200 summary credits monthly and advanced features for enhanced functionality."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kome AI used for?",
+            "answer": "Kome AI is a browser extension that summarizes web content, manages bookmarks, and assists in creating content like emails and blog posts, boosting productivity."
+        },
+        {
+            "question": "Is Kome AI free to use?",
+            "answer": "Yes, Kome offers a free plan with access to core features like summarization and bookmarking, though advanced features require a premium plan."
+        },
+        {
+            "question": "Which browsers does Kome AI support?",
+            "answer": "Kome AI is compatible with Chrome, Firefox, Edge, Opera, Brave, and Arc, with Safari support planned for the future."
+        },
+        {
+            "question": "Can Kome AI summarize YouTube videos?",
+            "answer": "Yes, Kome AI can summarize YouTube videos and generate accurate transcripts in over 120 languages, aiding content repurposing."
+        },
+        {
+            "question": "How does the Smart Compose feature work?",
+            "answer": "Smart Compose uses AI to generate emails, tweets, or blog posts by leveraging your bookmarked content, streamlining content creation."
+        },
+        {
+            "question": "Is Kome AI suitable for researchers and students?",
+            "answer": "Yes, Kome AI helps researchers and students quickly summarize academic articles and organize study materials, enhancing efficiency."
+        },
+        {
+            "question": "How do I install Kome AI?",
+            "answer": "Visit your browser’s extension marketplace, search for ‘Kome AI,’ and follow the installation instructions to add it to your browser."
+        },
+        {
+            "question": "What are the benefits of the premium plan?",
+            "answer": "The premium plan, priced at $5.99/month, offers 200 summary credits and advanced features like enhanced summarization and priority support."
+        },
+        {
+            "question": "Can Kome AI extract email addresses from websites?",
+            "answer": "Yes, Kome AI can quickly extract email addresses from any website, making it useful for outreach and networking tasks."
+        }
+    ]
+}

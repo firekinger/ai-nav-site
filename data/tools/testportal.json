@@ -1,0 +1,66 @@
+{
+    "name": "Testportal",
+    "description": "Testportal is an online platform for creating and managing assessments, quizzes, and exams for education and business.",
+    "longDescription": "Testportal is an innovative online assessment platform designed to streamline the creation, delivery, and analysis of tests, quizzes, and exams for educational institutions and businesses. Its mission is to empower organizations to evaluate skills and knowledge efficiently, saving time and enhancing decision-making through advanced analytics. The platform supports both remote and on-site assessments, offering tools to automate question generation, grading, and result analysis. By integrating with Microsoft Teams and leveraging AI for question creation, Testportal simplifies the assessment process while ensuring reliability and security. It serves a global user base, including schools, universities, and companies like DHL and RSM Poland, by providing a user-friendly interface and robust data insights. Testportal also emphasizes eco-friendly online testing to reduce paper usage.",
+    "url": "https://testportal.net/?utm_source=ainavdir",
+    "screenshot": "/screenshot/testportal.net.webp",
+    "category": "AI Testing",
+    "categorySlug": "ai-testing",
+    "slug": "testportal",
+    "categories": [
+        "AI Testing",
+        "AI Quiz Generator",
+        "AI For Data Analytics",
+        "AI Job Description Generator"
+    ],
+    "features": [
+        "AI-powered question generation creates customized questions from provided materials in seconds, saving time for test creators.",
+        "Automated grading instantly evaluates responses, reducing manual effort and enabling quick result delivery.",
+        "Advanced analytics provide detailed insights into respondent performance, aiding data-driven decisions.",
+        "Integration with Microsoft Teams enables seamless test creation and management within a familiar collaboration tool.",
+        "Real-time monitoring allows administrators to track test progress and respondent scores during assessments.",
+        "Customizable test settings offer control over access, timing, and question formats to suit specific needs.",
+        "Secure data handling ensures respondent information and results are protected with high-quality security measures.",
+        "Examus proctoring integration enhances test integrity by preventing cheating during remote assessments.",
+        "Question database upload simplifies test creation by allowing bulk import of pre-existing questions.",
+        "Eco-friendly online assessments reduce paper usage, supporting sustainable practices for organizations."
+    ],
+    "faqs": [
+        {
+            "question": "What is Testportal used for?",
+            "answer": "Testportal is used to create, manage, and analyze online tests, quizzes, and exams for educational and business purposes."
+        },
+        {
+            "question": "Does Testportal offer a free plan?",
+            "answer": "Yes, Testportal offers a free plan with limited features, suitable for small-scale assessments."
+        },
+        {
+            "question": "Can Testportal generate questions automatically?",
+            "answer": "Yes, Testportal’s AI can generate questions from uploaded materials or selected topics in seconds."
+        },
+        {
+            "question": "Is Testportal secure for handling sensitive data?",
+            "answer": "Testportal ensures data security with robust measures and collaborates with T-Systems for high-quality online security."
+        },
+        {
+            "question": "How does Testportal integrate with Microsoft Teams?",
+            "answer": "Testportal integrates with Microsoft Teams to allow users to create, share, and analyze tests directly within the Teams environment."
+        },
+        {
+            "question": "Can I monitor test progress in real time?",
+            "answer": "Yes, Testportal provides real-time monitoring to track who has completed the test and their scores."
+        },
+        {
+            "question": "What types of organizations use Testportal?",
+            "answer": "Testportal is used by schools, universities, and businesses like DHL and RSM Poland for skills and knowledge assessments."
+        },
+        {
+            "question": "Does Testportal support proctoring for remote tests?",
+            "answer": "Yes, Testportal offers Examus proctoring to ensure cheat-free remote assessments."
+        },
+        {
+            "question": "How does Testportal help reduce environmental impact?",
+            "answer": "By offering online assessments, Testportal reduces the need for paper, helping save trees and water."
+        }
+    ]
+}

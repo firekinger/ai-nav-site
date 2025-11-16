@@ -1,0 +1,64 @@
+{
+    "name": "EchoWave",
+    "description": "EchoWave is an online video and audio editor that transforms audio content into engaging videos for social media platforms.",
+    "longDescription": "EchoWave is a browser-based platform designed to simplify video and audio editing, enabling creators to convert audio files into visually appealing videos for platforms like Facebook, Instagram, and YouTube. Founded in 2018, its mission is to address the challenge of sharing audio content on social media by offering an intuitive interface that requires no software installation. It caters to podcasters, musicians, and content creators by providing tools to enhance audio with waveforms, subtitles, and effects. The platform supports seamless collaboration through team workspaces and is accessible on various devices, making it ideal for creators aiming to boost engagement. EchoWave's AI-powered features, such as automatic subtitle generation, streamline the editing process, allowing users to focus on creativity. Its user-friendly design ensures accessibility for both beginners and professionals.",
+    "url": "https://echowave.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/echowave.io.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "echowave",
+    "categories": [
+        "AI Video Editor",
+        "AI Subtitle Generator",
+        "AI Social Media Post Generator",
+        "AI Podcast Editing",
+        "AI Repurpose",
+        "AI Project Management"
+    ],
+    "features": [
+        "Convert audio files into engaging videos with customizable waveforms to enhance social media sharing.",
+        "Automatically generate subtitles using AI to make videos accessible and engaging for a wider audience.",
+        "Edit videos directly in the browser without software downloads, saving time and resources.",
+        "Add visual effects, filters, and text overlays to create professional-looking videos effortlessly.",
+        "Support multiple aspect ratios (square, vertical, horizontal) to optimize content for various social platforms.",
+        "Compress video files without quality loss, ensuring quick sharing and efficient storage.",
+        "Merge audio and video assets seamlessly to create cohesive content for marketing or personal use.",
+        "Use drag-and-drop templates for quick video creation, ideal for podcasters and musicians.",
+        "Collaborate in real-time with team members through dedicated workspaces for streamlined project management.",
+        "Export videos in high-quality MP4 format compatible with all major social media platforms."
+    ],
+    "faqs": [
+        {
+            "question": "What is EchoWave used for?",
+            "answer": "EchoWave is an online tool for converting audio into engaging videos with waveforms, subtitles, and effects, ideal for sharing on social media platforms like Instagram and YouTube."
+        },
+        {
+            "question": "Is EchoWave free to use?",
+            "answer": "Yes, EchoWave offers a free plan with core features and a small watermark, while premium features are available for $19/month."
+        },
+        {
+            "question": "Do I need to install software to use EchoWave?",
+            "answer": "No, EchoWave is entirely browser-based, allowing you to edit videos and audio without downloading any software."
+        },
+        {
+            "question": "Can I collaborate with my team on EchoWave?",
+            "answer": "Yes, EchoWave provides team workspaces for real-time collaboration, making it easy to manage projects with multiple editors."
+        },
+        {
+            "question": "What file formats does EchoWave support?",
+            "answer": "EchoWave supports popular video formats like MP4, MOV, AVI, and WebM, and audio formats like MP3, WAV, and AAC."
+        },
+        {
+            "question": "Does EchoWave offer AI-powered features?",
+            "answer": "Yes, EchoWave includes AI-driven tools like automatic subtitle generation and audio visualization to enhance video creation."
+        },
+        {
+            "question": "Can I cancel my EchoWave subscription easily?",
+            "answer": "Yes, you can cancel your subscription anytime through your account dashboard, though some users have reported issues with the cancellation process."
+        },
+        {
+            "question": "Is EchoWave suitable for beginners?",
+            "answer": "Absolutely, EchoWave’s intuitive interface is designed for users of all skill levels, from beginners to professional editors."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Salesmate",
+    "description": "Salesmate is a cloud-based CRM platform that empowers sales teams with tools for managing leads, deals, and customer relationships to drive business growth.",
+    "longDescription": "Salesmate is a comprehensive Customer Relationship Management (CRM) software designed to streamline sales processes for businesses of all sizes. It focuses on automating routine tasks, providing actionable insights, and fostering better team collaboration to help users close deals faster. The platform's mission is to make sales more efficient and intelligent by integrating AI-driven features that predict outcomes and personalize interactions. Salesmate solves key problems like disorganized lead tracking, inefficient follow-ups, and lack of data visibility, enabling teams to focus on building relationships rather than administrative work. With its user-friendly interface and integrations, it serves sales professionals, managers, and growing companies seeking scalable solutions. Overall, it transforms chaotic sales operations into structured, high-performing systems.",
+    "url": "https://www.salesmate.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.salesmate.io.webp",
+    "category": "AI CRM",
+    "categorySlug": "ai-crm",
+    "slug": "salesmate",
+    "categories": [
+        "AI CRM",
+        "AI Sales Assistant",
+        "AI Sales",
+        "AI Email Assistant",
+        "AI Lead Generation",
+        "AI Predictions",
+        "AI Workflow",
+        "AI Customer Service"
+    ],
+    "features": [
+        "Contact Management allows users to store, organize, and segment customer data for personalized outreach and improved relationship building.",
+        "Deal Tracking provides a visual pipeline to monitor sales stages, forecast revenue, and identify opportunities to accelerate closures.",
+        "Email Automation enables sending personalized emails, tracking opens and clicks, and setting up sequences to nurture leads efficiently.",
+        "Reporting and Analytics offer customizable dashboards and reports to analyze sales performance and make data-driven decisions.",
+        "AI-Powered Insights use artificial intelligence to predict deal outcomes, recommend actions, and highlight trends for proactive sales strategies.",
+        "Workflow Automation streamlines repetitive tasks like task assignments and follow-ups, reducing manual effort and errors.",
+        "Mobile App gives access to CRM features on smartphones, allowing sales teams to manage activities and update records from anywhere.",
+        "Integrations with tools like Google Workspace, Microsoft 365, and Zapier ensure seamless connectivity with existing business ecosystems.",
+        "Call Management records calls, transcribes conversations, and logs interactions to maintain a complete history of customer communications.",
+        "Goal Tracking helps set and monitor sales targets, motivating teams with real-time progress updates and performance metrics.",
+        "Custom Fields and Modules allow businesses to tailor the CRM to their specific needs, enhancing flexibility and relevance.",
+        "Team Collaboration features like shared notes and activity feeds promote better communication and alignment within sales teams."
+    ],
+    "faqs": [
+        {
+            "question": "What is Salesmate?",
+            "answer": "Salesmate is a cloud-based CRM platform that helps businesses manage sales pipelines, customer interactions, and team performance. It integrates AI for smarter insights and automation."
+        },
+        {
+            "question": "Does Salesmate offer a free plan?",
+            "answer": "Salesmate does not have a permanent free plan but provides a 15-day free trial to explore its features. After the trial, users must subscribe to a paid plan."
+        },
+        {
+            "question": "How does Salesmate integrate with other tools?",
+            "answer": "Salesmate integrates with popular tools like Google Workspace, Microsoft Office 365, Zapier, and email providers. This allows seamless data flow and enhanced productivity across platforms."
+        },
+        {
+            "question": "What AI features does Salesmate provide?",
+            "answer": "Salesmate includes AI-powered tools for predictive analytics, email composition assistance, and deal scoring. These features help users anticipate customer needs and optimize sales strategies."
+        },
+        {
+            "question": "Is Salesmate suitable for small businesses?",
+            "answer": "Yes, Salesmate is scalable and user-friendly for small businesses, offering affordable plans and essential features like lead management. It grows with your business needs."
+        },
+        {
+            "question": "How secure is data in Salesmate?",
+            "answer": "Salesmate uses enterprise-grade security measures including data encryption, role-based access, and regular backups. It complies with GDPR and other privacy regulations to protect user data."
+        },
+        {
+            "question": "Can I customize Salesmate for my industry?",
+            "answer": "Yes, Salesmate offers custom fields, modules, and workflows to adapt to various industries like real estate or e-commerce. This ensures it fits specific business requirements."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "Salesmate provides 24/7 support via chat, email, and phone, along with a knowledge base and tutorials. Premium plans include dedicated account managers."
+        },
+        {
+            "question": "How does Salesmate help with sales forecasting?",
+            "answer": "Salesmate uses AI-driven analytics to forecast revenue based on pipeline data and historical trends. This helps teams plan and adjust strategies effectively."
+        },
+        {
+            "question": "Is there a mobile app for Salesmate?",
+            "answer": "Yes, Salesmate has a mobile app for iOS and Android that allows users to access contacts, deals, and tasks on the go. It syncs in real-time with the web version."
+        }
+    ]
+}

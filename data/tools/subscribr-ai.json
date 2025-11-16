@@ -1,0 +1,74 @@
+{
+    "name": "Subscribr.ai",
+    "description": "Subscribr.ai is an AI-powered platform designed to automate the creation of personalized newsletters for businesses and creators.",
+    "longDescription": "Subscribr.ai is an innovative AI tool that simplifies newsletter creation by leveraging advanced language models to generate high-quality, engaging content tailored to specific audiences. Its mission is to empower content creators, marketers, and businesses to maintain consistent communication with subscribers without the time-consuming effort of manual writing. The platform solves problems like writer's block, content consistency, and personalization by analyzing user inputs such as topics, tone, and audience preferences to produce ready-to-send newsletters. Users can integrate it with email services for seamless distribution, making it ideal for growing email lists and enhancing subscriber engagement. Overall, it democratizes professional content creation, allowing even non-writers to produce compelling newsletters efficiently.",
+    "url": "https://subscribr.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/subscribr.ai.webp",
+    "category": "AI Newsletter Generator",
+    "categorySlug": "ai-newsletter-generator",
+    "slug": "subscribr-ai",
+    "categories": [
+        "AI Newsletter Generator",
+        "AI Writing",
+        "AI Email Marketing",
+        "AI Writing Assistants",
+        "AI Copywriting",
+        "AI Social Media",
+        "AI Newsletter",
+        "AI Language Learning"
+    ],
+    "features": [
+        "AI-driven content generation automatically creates newsletter drafts based on user-provided topics, ensuring quick and relevant output.",
+        "Customization options allow users to set tone, style, and length to match their brand voice and audience preferences.",
+        "Integration with popular email platforms like Mailchimp enables seamless import and sending of generated newsletters.",
+        "Audience personalization uses AI to tailor content for different subscriber segments, boosting engagement and retention.",
+        "Template library offers pre-designed formats for various newsletter types, saving time on layout and design.",
+        "Real-time editing tools let users refine AI-generated content with suggestions for improvements.",
+        "Analytics dashboard tracks newsletter performance metrics like open rates and clicks to inform future content strategies.",
+        "Multi-language support generates newsletters in various languages, expanding reach to global audiences.",
+        "SEO optimization features embed best practices to make newsletters more discoverable and shareable.",
+        "Collaboration mode allows teams to work together on newsletter creation and approval processes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Subscribr.ai?",
+            "answer": "Subscribr.ai is an AI platform that automates newsletter writing by generating customized content based on user inputs. It helps businesses and creators produce engaging emails without manual effort."
+        },
+        {
+            "question": "Does Subscribr.ai offer a free plan?",
+            "answer": "Yes, Subscribr.ai provides a free tier with limited generations per month. Users can upgrade to paid plans for unlimited access and advanced features."
+        },
+        {
+            "question": "How does the AI generate newsletters?",
+            "answer": "The AI analyzes your specified topics, tone, and audience details to create drafts using natural language processing. You can then edit and refine the output before sending."
+        },
+        {
+            "question": "Can I integrate Subscribr.ai with my email service?",
+            "answer": "Absolutely, it supports integrations with tools like Mailchimp, Sendinblue, and others for direct import and distribution."
+        },
+        {
+            "question": "Is the generated content original?",
+            "answer": "Yes, the AI produces original content based on your inputs, but it's recommended to review for accuracy and uniqueness."
+        },
+        {
+            "question": "What industries benefit most from Subscribr.ai?",
+            "answer": "It's ideal for marketing, e-commerce, blogging, and any sector relying on email communication to engage audiences."
+        },
+        {
+            "question": "How secure is my data on Subscribr.ai?",
+            "answer": "The platform uses encryption and complies with data protection standards to ensure user information and content remain secure."
+        },
+        {
+            "question": "Can I use Subscribr.ai for non-English newsletters?",
+            "answer": "Yes, it supports multiple languages, allowing generation in languages like Spanish, French, and more."
+        },
+        {
+            "question": "What if I'm not satisfied with the AI output?",
+            "answer": "You can regenerate content with adjusted parameters or manually edit it. Paid plans include priority support for assistance."
+        },
+        {
+            "question": "Does Subscribr.ai help with subscriber growth?",
+            "answer": "While primarily for content creation, its analytics and optimization features indirectly support growth by improving engagement."
+        }
+    ]
+}

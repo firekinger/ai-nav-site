@@ -1,0 +1,76 @@
+{
+    "name": "Devv",
+    "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+    "longDescription": "Devv.ai is an innovative AI-driven platform that serves as a specialized search engine for software developers, enabling them to query complex coding problems and receive precise, context-aware responses. Its mission is to accelerate development workflows by providing instant access to reliable information from a vast knowledge base of programming resources, reducing the time spent sifting through irrelevant search results. The platform leverages advanced AI models to understand natural language queries and deliver tailored answers, including code snippets, explanations, and best practices. It solves common developer pain points such as debugging issues, learning new technologies, and optimizing code by offering a more efficient alternative to traditional search engines. Overall, Devv.ai empowers developers to focus more on building and less on searching, fostering productivity in the tech industry.",
+    "url": "https://devv.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/devv.ai.webp",
+    "category": "AI Code Assistant",
+    "categorySlug": "ai-code-assistant",
+    "slug": "devv-ai",
+    "categories": [
+        "AI Code Assistant",
+        "AI Search Engine",
+        "AI Code Generator",
+        "AI Text Generator",
+        "AI Knowledge Base",
+        "AI Course",
+        "AI Research Tool",
+        "AI Productivity Tools",
+        "AI Language Learning",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "AI-powered search delivers precise answers to coding queries by understanding context and intent, saving developers time on research.",
+        "Generates relevant code snippets and examples directly in responses, allowing users to copy and implement solutions immediately.",
+        "Supports natural language processing for queries in plain English, making it accessible for developers of all experience levels.",
+        "Integrates knowledge from multiple sources like Stack Overflow, GitHub, and official docs to provide comprehensive, up-to-date information.",
+        "Offers personalized search history and recommendations to help users track past queries and discover related topics.",
+        "Provides explanations and breakdowns of complex concepts, helping users not just find answers but understand them deeply.",
+        "Features a clean, intuitive interface optimized for quick searches and minimal distractions during coding sessions.",
+        "Includes collaboration tools for sharing search results or queries with team members for collective problem-solving.",
+        "Supports multiple programming languages and frameworks, ensuring broad applicability across various development environments.",
+        "Utilizes AI to detect and suggest optimizations or alternatives in code-related queries, enhancing code quality."
+    ],
+    "faqs": [
+        {
+            "question": "What is Devv.ai?",
+            "answer": "Devv.ai is an AI-powered search engine tailored for developers, providing quick and accurate answers to coding questions. It uses advanced AI to interpret queries and pull from reliable sources."
+        },
+        {
+            "question": "Is Devv.ai free to use?",
+            "answer": "Yes, Devv.ai offers free access to its core search features. There may be premium options for advanced functionalities or higher usage limits."
+        },
+        {
+            "question": "How does Devv.ai differ from Google or Stack Overflow?",
+            "answer": "Unlike general search engines, Devv.ai is specialized for coding with AI that understands technical context, delivering more relevant results faster. It combines sources like Stack Overflow but filters and enhances them with AI insights."
+        },
+        {
+            "question": "What programming languages does Devv.ai support?",
+            "answer": "Devv.ai supports a wide range of languages including Python, JavaScript, Java, C++, and more. It handles queries across popular frameworks and technologies."
+        },
+        {
+            "question": "Can I get code snippets from Devv.ai?",
+            "answer": "Yes, responses often include ready-to-use code snippets with explanations. This helps developers implement solutions directly in their projects."
+        },
+        {
+            "question": "Is my search data private on Devv.ai?",
+            "answer": "Devv.ai prioritizes user privacy and does not share personal search data without consent. Queries are used anonymously to improve the AI model."
+        },
+        {
+            "question": "How accurate are the answers from Devv.ai?",
+            "answer": "Answers are highly accurate due to AI curation from trusted sources, but users should verify critical implementations. The platform continuously improves based on user feedback."
+        },
+        {
+            "question": "Does Devv.ai offer integrations with IDEs?",
+            "answer": "Currently, Devv.ai is web-based, but future updates may include IDE integrations. Users can copy results easily into their development environments."
+        },
+        {
+            "question": "Can beginners use Devv.ai effectively?",
+            "answer": "Absolutely, its natural language support makes it beginner-friendly. It provides explanations that help newcomers learn while solving problems."
+        },
+        {
+            "question": "What if Devv.ai doesn't have an answer to my query?",
+            "answer": "If a query is too niche, Devv.ai suggests related resources or refinements. Users can also contribute feedback to expand its knowledge base."
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "title": "The Best 15 AI Email Assistant Tools in 2025",
+    "summary": "Discover the power of AI Email Assistants, designed to streamline your communication and enhance productivity. These innovative tools help you craft compelling emails, manage your inbox efficiently, and automate responses, saving you valuable time. Whether you're a busy professional or a small business owner, AI Email Assistants can transform your email experience, ensuring you never miss an important message. Explore our curated selection of top-notch AI Email tools today and elevate your email game to new heights!",
+    "tools": [
+        {
+            "id": "196",
+            "name": "HIX.AI",
+            "slug": "hix-ai",
+            "description": "HIX.AI provides AI-powered writing tools to enhance content creation and productivity.",
+            "icon": "/logo/hix.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "223",
+            "name": "Superhuman",
+            "slug": "superhuman",
+            "description": "Superhuman is an AI-powered email client designed to enhance productivity and streamline email management for professionals.",
+            "icon": "/logo/superhuman.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "229",
+            "name": "Instantly",
+            "slug": "instantly",
+            "description": "Instantly.ai provides AI-powered email outreach tools to scale cold email campaigns and boost lead generation.",
+            "icon": "/logo/instantly.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "380",
+            "name": "Recruit CRM",
+            "slug": "recruit-crm",
+            "description": "招募CRM提供人工智能驱动的招聘软件，简化全球招聘和行政搜索机构的招聘流程。",
+            "icon": "/logo/recruitcrm.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "424",
+            "name": "Kome",
+            "slug": "kome-ai",
+            "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+            "icon": "/logo/kome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "470",
+            "name": "Smartlead",
+            "slug": "smartlead-ai",
+            "description": "Smartlead.ai is an AI-powered cold email outreach platform designed to enhance lead generation and sales automation with high deliverability.",
+            "icon": "/logo/www.smartlead.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "529",
+            "name": "Lindy",
+            "slug": "lindy-ai",
+            "description": "Lindy is a no-code AI platform for creating custom AI agents to automate business and personal workflows.",
+            "icon": "/logo/www.lindy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "584",
+            "name": "Missive",
+            "slug": "missive",
+            "description": "Missive is a collaborative email and chat platform that streamlines team communication and task management across multiple channels.",
+            "icon": "/logo/missiveapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "622",
+            "name": "Spark Mail",
+            "slug": "spark-mail",
+            "description": "Spark Mail is an AI-powered email and calendar app designed to enhance productivity and streamline inbox management for individuals and teams.",
+            "icon": "/logo/sparkmailapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "781",
+            "name": "Shortwave",
+            "slug": "shortwave",
+            "description": "Shortwave is an AI-powered email client designed to enhance productivity and streamline inbox management.",
+            "icon": "/logo/www.shortwave.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "1020",
+            "name": "Salesmate",
+            "slug": "salesmate",
+            "description": "Salesmate is a cloud-based CRM platform that empowers sales teams with tools for managing leads, deals, and customer relationships to drive business growth.",
+            "icon": "/logo/www.salesmate.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "1217",
+            "name": "Salesforge",
+            "slug": "salesforge-ai",
+            "description": "Salesforge.ai is an AI-powered sales engagement platform that automates personalized cold email outreach to boost sales efficiency and conversion rates.",
+            "icon": "/logo/www.salesforge.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "1276",
+            "name": "Mocke",
+            "slug": "mocke",
+            "description": "Mocke provides an AI-powered platform for simulating cold email campaigns to quickly test reply rates and campaign performance without launching real campaigns.",
+            "icon": "/logo/mocke.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "1299",
+            "name": "Extra Thursday",
+            "slug": "extra-thursday",
+            "description": "Extra Thursday is a voice-first AI assistant designed to manage emails, plan daily schedules, and handle administrative tasks efficiently.",
+            "icon": "/logo/www.extrathursday.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        },
+        {
+            "id": "1352",
+            "name": "Mailteorite",
+            "slug": "mailteorite",
+            "description": "Mailteorite is an AI-powered platform designed for efficient email management and automation, helping users streamline communication workflows.",
+            "icon": "/logo/mailteorite.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-assistant"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Pixnova AI",
+    "description": "Pixnova AI offers advanced AI-powered image generation and editing tools for creative professionals and enthusiasts.",
+    "longDescription": "Pixnova AI is a cutting-edge platform designed to empower users with AI-driven tools for creating and editing high-quality images. It leverages advanced machine learning models to simplify complex design tasks, making them accessible to both professionals and hobbyists. The platform aims to streamline creative workflows by offering intuitive interfaces and powerful features tailored for art, marketing, and personal projects. By combining innovation with user-friendly design, Pixnova AI seeks to redefine how users approach digital creativity, enabling them to produce stunning visuals with minimal effort.",
+    "url": "https://pixnova.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pixnova.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "pixnova-ai",
+    "categories": [
+        "AI Image Generator",
+        "AI Photo Editor",
+        "AI Art Generator",
+        "AI Background Remover",
+        "AI Style Transfer",
+        "AI Social Media Post Generator",
+        "AI Marketing"
+    ],
+    "features": [
+        "AI-powered image generation creates unique visuals from text prompts, enabling effortless content creation.",
+        "Advanced image editing tools allow users to enhance, retouch, and manipulate images with precision.",
+        "Background removal feature isolates subjects from images in seconds, perfect for marketing and design.",
+        "Style transfer applies artistic styles to images, transforming photos into unique artworks.",
+        "High-resolution upscaling enhances low-quality images for professional-grade outputs.",
+        "Customizable templates streamline design processes for social media, ads, and personal projects.",
+        "Real-time preview ensures users can see changes instantly, improving workflow efficiency.",
+        "Cloud-based storage allows secure access to projects from any device."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pixnova AI used for?",
+            "answer": "Pixnova AI is used for generating and editing images using AI-powered tools, ideal for creative projects like art, marketing, and social media content."
+        },
+        {
+            "question": "Is Pixnova AI free to use?",
+            "answer": "Pixnova AI offers a free plan with limited access to core features, with premium options for advanced functionality."
+        },
+        {
+            "question": "Can I use Pixnova AI for commercial projects?",
+            "answer": "Yes, Pixnova AI allows commercial use of generated and edited images, depending on the subscription plan."
+        },
+        {
+            "question": "Do I need design experience to use Pixnova AI?",
+            "answer": "No, Pixnova AI’s intuitive interface is designed for users of all skill levels, from beginners to professionals."
+        },
+        {
+            "question": "What types of images can Pixnova AI generate?",
+            "answer": "Pixnova AI can generate a wide range of images, including photorealistic visuals, abstract art, and stylized graphics, based on user prompts."
+        },
+        {
+            "question": "Is my data secure on Pixnova AI?",
+            "answer": "Pixnova AI uses secure cloud storage and encryption to protect user data and projects."
+        }
+    ]
+}

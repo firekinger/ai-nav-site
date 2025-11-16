@@ -1,0 +1,68 @@
+{
+    "name": "Hyper3D",
+    "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+    "longDescription": "Hyper3D, developed by Deemos Technology, is an innovative AI-driven platform designed to simplify and accelerate the creation of high-quality 3D models for industries like gaming, animation, virtual reality, and product design. Its flagship tools, Rodin and ChatAvatar, leverage proprietary diffusion models to transform text prompts or 2D images into detailed, production-ready 3D assets with physically based rendering (PBR) textures. The platform caters to a wide audience, from individual creators and educators to large enterprises, offering an intuitive interface and API integration for seamless workflow incorporation. By reducing the complexity and time required for 3D modeling, Hyper3D empowers users to focus on creativity and innovation. The platform also supports multiple export formats, ensuring compatibility with industry-standard tools like Unity, Unreal Engine, and Maya. Its recent Series A funding round highlights its growing influence and commitment to advancing AI-driven 3D model generation globally.",
+    "url": "https://hyper3d.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/hyper3d.ai.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "hyper3d",
+    "categories": [
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "AI Developer Tools",
+        "AI Design Generator",
+        "Image to 3D Model",
+        "AI Animation Generator",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Rodin AI generates realistic 3D models from text or images, enabling rapid asset creation for professional use.",
+        "ChatAvatar creates hyper-realistic 3D facial assets with PBR textures, ideal for animation and gaming.",
+        "Text-to-3D generation allows users to input descriptive prompts to produce customized 3D models aligning with their vision.",
+        "Image-to-3D generation converts single or multiple images into detailed 3D models with options like 'fuse' or 'concat' modes for enhanced flexibility.",
+        "Customizable model specifications let users adjust polygon counts and texture resolutions to meet specific project needs.",
+        "API access enables developers to integrate Hyper3D’s 3D generation capabilities into existing workflows and applications.",
+        "The Sketch tier provides low-resolution models for rapid prototyping and early-stage visualization.",
+        "The Regular tier delivers detailed models with balanced quality and efficiency for professional applications.",
+        "The High Pack tier offers 4K textures and high-poly models for projects requiring superior visual fidelity.",
+        "Export options include GLB, USDZ, FBX, OBJ, and STL formats, ensuring compatibility with various 3D environments.",
+        "OmniCraft and Vecto3d tools enhance model refinement and texture generation for professional-grade outputs.",
+        "Mesh Editor and Model Viewer allow users to refine and visualize 3D assets directly on the platform.",
+        "HDRI generation supports the creation of high-dynamic-range imaging for realistic rendering and visualization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Hyper3D used for?",
+            "answer": "Hyper3D is used to create production-ready 3D models and assets from text or images, serving industries like gaming, animation, virtual reality, and product design."
+        },
+        {
+            "question": "Does Hyper3D offer a free plan?",
+            "answer": "Yes, Hyper3D provides a free trial for 7 days, allowing users to test its core 3D model generation features."
+        },
+        {
+            "question": "What types of inputs can Hyper3D process?",
+            "answer": "Hyper3D supports text prompts and 2D images as inputs, with options to combine multiple images using 'fuse' or 'concat' modes for model generation."
+        },
+        {
+            "question": "Which file formats does Hyper3D support for export?",
+            "answer": "Hyper3D supports exporting 3D models in GLB, USDZ, FBX, OBJ, and STL formats, compatible with tools like Unity and Unreal Engine."
+        },
+        {
+            "question": "Can developers integrate Hyper3D into their applications?",
+            "answer": "Yes, Hyper3D offers an API for developers to seamlessly incorporate its 3D generation capabilities into their workflows or platforms."
+        },
+        {
+            "question": "What industries can benefit from Hyper3D?",
+            "answer": "Hyper3D serves game developers, animators, VR/AR creators, product designers, educators, and marketers by providing high-quality 3D assets."
+        },
+        {
+            "question": "What is the difference between Rodin and ChatAvatar?",
+            "answer": "Rodin generates general 3D models, while ChatAvatar specializes in hyper-realistic 3D facial assets from text or images."
+        },
+        {
+            "question": "How customizable are the 3D models generated by Hyper3D?",
+            "answer": "Users can adjust polygon counts and texture resolutions, with tiers like Sketch, Regular, and High Pack to suit different project needs."
+        }
+    ]
+}

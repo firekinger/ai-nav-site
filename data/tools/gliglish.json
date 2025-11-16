@@ -1,0 +1,73 @@
+{
+    "name": "Gliglish",
+    "description": "Gliglish is a language learning platform that uses AI to help users improve their speaking and listening skills through conversation and roleplay, offering both free and paid plans.",
+    "longDescription": "Gliglish is an AI-powered language learning tool designed to help users learn languages by speaking, mimicking how children learn through conversation. It allows users to practice anytime, anywhere, without the need to schedule classes, making it convenient for busy individuals. The platform is powered by advanced AI technology similar to ChatGPT, providing a friendly and realistic interaction experience. Its mission is to make language learning accessible, affordable, and effective, helping users gain confidence in real-life speaking situations through regular practice and feedback. Gliglish addresses common barriers in language learning like shyness and lack of practice partners by offering a non-judgmental AI tutor.",
+    "url": "https://gliglish.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gliglish.com.webp",
+    "category": "AI Language Learning",
+    "categorySlug": "ai-language-learning",
+    "slug": "gliglish",
+    "categories": [
+        "AI Language Learning",
+        "AI Dialogue Generator",
+        "AI Speech Recognition",
+        "AI Grammar Checker",
+        "AI Translate",
+        "AI Roleplay",
+        "AI Speech Synthesis"
+    ],
+    "features": [
+        "Gliglish uses top-notch artificial intelligence powered by technology similar to ChatGPT for realistic conversation practice.",
+        "It provides audio everywhere, allowing users to click any word to hear and learn its pronunciation.",
+        "The platform offers suggestions to help users never run out of things to say during practice.",
+        "It includes multilingual speech recognition, enabling users to ask questions in their native language about their target language.",
+        "Users can adjust the speed of Gliglish's speech to suit their learning pace.",
+        "Gliglish explains any word in context when clicked, like a teacher would.",
+        "It provides feedback on users' grammar issues as they speak.",
+        "The platform offers translations for words or sentences to aid understanding.",
+        "It includes transliterations for languages like Chinese, Japanese, Korean, Thai, and Greek to help with pronunciation before mastering characters.",
+        "Pronunciation feedback is available in beta, currently only for American English, showing how well users pronounce sentences, words, or sounds."
+    ],
+    "faqs": [
+        {
+            "question": "What is Gliglish?",
+            "answer": "Gliglish is a language learning platform that uses AI to help users improve their speaking and listening skills through conversation and roleplay."
+        },
+        {
+            "question": "Do I need to sign up to use Gliglish?",
+            "answer": "No signup is required to start using Gliglish."
+        },
+        {
+            "question": "How much does Gliglish cost?",
+            "answer": "Gliglish offers a free plan with limited usage, a monthly Plus plan for GBP 25, and an annual Plus plan for GBP 19 per month, paid annually."
+        },
+        {
+            "question": "Can I practice anytime with Gliglish?",
+            "answer": "Yes, Gliglish is always available for practice anytime, anywhere, on your phone or computer."
+        },
+        {
+            "question": "What languages does Gliglish support?",
+            "answer": "Gliglish supports languages like English (United States, United Kingdom, Australia), Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, Filipino, Finnish, French, German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian bokmål, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, and Vietnamese, with more languages coming."
+        },
+        {
+            "question": "Does Gliglish provide feedback on pronunciation?",
+            "answer": "Yes, Gliglish offers pronunciation feedback in beta, currently available only for American English, showing how well users pronounce sentences, words, or sounds."
+        },
+        {
+            "question": "How can Gliglish help me save money?",
+            "answer": "Gliglish is 12x cheaper than traditional one-on-one language classes, allowing users to practice more for less and learn faster."
+        },
+        {
+            "question": "What is included in the Gliglish Plus plans?",
+            "answer": "Gliglish Plus plans include unlimited conversation length, 50 topics of conversation, mini-classes, beginner-friendly mode, multilingual speech recognition, access to new features, and priority access at peak hours, with no commitment and the option to cancel anytime."
+        },
+        {
+            "question": "Is there a free version of Gliglish?",
+            "answer": "Yes, there is a free plan that allows 10 minutes of daily usage with conversations limited to 50 messages and limited availability during peak hours."
+        },
+        {
+            "question": "How does Gliglish help with confidence in speaking?",
+            "answer": "Gliglish helps users become confident by allowing them to talk to a virtual teacher and roleplay real-life situations, improving speaking and listening skills and reducing fear of speaking."
+        }
+    ]
+}

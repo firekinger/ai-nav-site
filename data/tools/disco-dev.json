@@ -1,0 +1,76 @@
+{
+    "name": "Disco.dev",
+    "description": "Disco.dev is a platform providing plug-and-play open-source MCP servers to simplify connections between AI agents and various tools.",
+    "longDescription": "Disco.dev is an innovative platform designed to streamline the integration of new tools with AI agents through Model Context Protocol (MCP) servers. Its mission is to make AI integrations uncomplicated and accessible, eliminating the need for extensive coding. By offering open-source solutions, it enables users to browse, connect, and share integrations effortlessly. This serves developers, AI enthusiasts, and businesses by solving the challenges of complex setup processes, allowing focus on creative applications. Currently in research preview, Disco.dev provides free access to a growing ecosystem of tools and resources.",
+    "url": "https://disco.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/disco.dev.webp",
+    "category": "AI Tools Directory",
+    "categorySlug": "ai-tools-directory",
+    "slug": "disco-dev",
+    "categories": [
+        "AI Tools Directory",
+        "Open Source AI Models",
+        "No-Code&Low-Code",
+        "AI Agent",
+        "AI Assistant",
+        "AI Writing Assistants",
+        "AI Workflow"
+    ],
+    "features": [
+        "Provides plug-and-play open-source MCP servers for seamless AI tool integrations without technical barriers.",
+        "Eliminates the need for coding, making it accessible for non-developers to connect tools to AI agents.",
+        "Simplifies browsing, connecting, and sharing of AI integrations to enhance user efficiency.",
+        "Offers over 37 integrations to support a wide range of AI applications and workflows.",
+        "Grants access to more than 250 tools and resources for comprehensive AI development.",
+        "Features an open-source GitHub repository for MCP servers, promoting community contributions and transparency.",
+        "Allows users to select specific integrations tailored to their unique AI project needs.",
+        "Enables the creation of custom servers for personalized AI agent connections.",
+        "Facilitates direct connectivity to AI agents, improving interaction and functionality.",
+        "Supports interactions with external tools via the MCP protocol for expanded capabilities.",
+        "Operates in research preview mode, inviting early users to test and provide feedback.",
+        "Provides free access during the preview period to encourage widespread adoption.",
+        "Encourages users to star the GitHub repository to support ongoing development and visibility."
+    ],
+    "faqs": [
+        {
+            "question": "What is Disco.dev?",
+            "answer": "Disco.dev is a platform that offers plug-and-play open-source MCP servers to simplify connecting tools to AI agents. It aims to make AI integrations easy without requiring coding skills."
+        },
+        {
+            "question": "What does MCP stand for?",
+            "answer": "MCP stands for Model Context Protocol, a protocol used by Disco.dev to enable seamless interactions between AI agents and external tools."
+        },
+        {
+            "question": "Is Disco.dev free to use?",
+            "answer": "Yes, Disco.dev is currently in research preview and available for free. There are no mentioned paid plans at this stage."
+        },
+        {
+            "question": "How do I get started with Disco.dev?",
+            "answer": "To get started, visit the website, select an integration, create a server, and connect it to your AI agent. No coding is required."
+        },
+        {
+            "question": "What AI agents are supported?",
+            "answer": "Disco.dev supports connections to various AI agents that are compatible with MCP servers. Specific compatibility details can be checked in the integrations list."
+        },
+        {
+            "question": "Is Disco.dev open source?",
+            "answer": "Yes, the MCP servers are open source, with the repository available on GitHub for users to view, contribute, or fork."
+        },
+        {
+            "question": "How many integrations does Disco.dev offer?",
+            "answer": "Disco.dev provides over 37 integrations and access to more than 250 tools and resources."
+        },
+        {
+            "question": "Can I create custom integrations?",
+            "answer": "While plug-and-play options are emphasized, the open-source nature allows advanced users to customize servers for specific needs."
+        },
+        {
+            "question": "What is the research preview?",
+            "answer": "The research preview is the current phase where Disco.dev is available for free testing, allowing users to explore features and provide feedback for improvements."
+        },
+        {
+            "question": "How can I contribute to Disco.dev?",
+            "answer": "You can contribute by starring the GitHub repository, reporting issues, or submitting pull requests to the open-source MCP servers."
+        }
+    ]
+}

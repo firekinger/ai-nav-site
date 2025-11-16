@@ -1,0 +1,64 @@
+{
+    "name": "AiPPT",
+    "description": "AiPPT is an AI-powered toolkit for creating professional presentations with minimal effort.",
+    "longDescription": "AiPPT is an innovative platform that leverages advanced artificial intelligence to simplify and enhance the creation of professional PowerPoint and Google Slides presentations. By automating tasks such as content structuring, template selection, and visual design, it eliminates hours of manual work for users. The platform is designed for a wide audience, including educators, business professionals, and students, aiming to boost productivity and create visually appealing slide decks. Founded in 2018, AiPPT leads the AI-driven presentation solutions industry with a user-friendly interface and seamless integration with popular presentation software. It transforms various input formats, such as documents or URLs, into polished presentations, making it a versatile tool for diverse professional and creative needs. The mission of AiPPT is to streamline presentation creation, ensuring users can focus on delivering their message effectively.",
+    "url": "https://www.aippt.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aippt.com.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "aippt",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Design Assistant",
+        "AI Document Extraction",
+        "AI Project Management",
+        "AI Course",
+        "AI Video Editor"
+    ],
+    "features": [
+        "One-click PPT generation automatically creates professional slide decks from a topic, keywords, or main points, saving users significant time.",
+        "AI-generated outlines analyze user input to produce clear, logical presentation structures, enhancing content organization.",
+        "A vast library of customizable templates caters to various industries and scenarios, ensuring visually appealing presentations.",
+        "Smart document conversion transforms PDFs, Word files, or Google Docs into structured slides with minimal effort.",
+        "Webpage-to-slide functionality converts any URL into well-organized presentation slides instantly.",
+        "Full synchronization with PowerPoint and Google Slides ensures compatibility and seamless editing across platforms.",
+        "AI-driven design suggestions provide relevant visuals, layouts, and formatting options to enhance slide aesthetics.",
+        "Cloud-based accessibility allows users to edit and access presentations from any device with an internet connection.",
+        "Real-time collaboration enables multiple users to work on the same presentation simultaneously, improving teamwork efficiency.",
+        "Interactive content support allows embedding of videos, polls, and charts to create engaging presentations."
+    ],
+    "faqs": [
+        {
+            "question": "What is AiPPT and how does it work?",
+            "answer": "AiPPT is an AI-powered toolkit that creates professional presentations by analyzing user input, such as a topic or document, and automatically generating structured slides with templates and visuals."
+        },
+        {
+            "question": "Can I use AiPPT for free?",
+            "answer": "Yes, AiPPT offers a free trial that allows users to access core features with limited usage, with premium features available through a subscription."
+        },
+        {
+            "question": "What types of files can I upload to AiPPT?",
+            "answer": "AiPPT supports importing local documents like PDFs, TXT, and Word files, as well as Google Docs and Google Slides, for conversion into presentations."
+        },
+        {
+            "question": "Is AiPPT compatible with PowerPoint and Google Slides?",
+            "answer": "Yes, AiPPT fully syncs with PowerPoint and Google Slides, allowing seamless export and editing in these formats."
+        },
+        {
+            "question": "Can I customize the templates provided by AiPPT?",
+            "answer": "Absolutely, AiPPT offers customizable templates where users can adjust layouts, colors, and content to match their preferences or brand."
+        },
+        {
+            "question": "How fast can AiPPT generate a presentation?",
+            "answer": "AiPPT can create a polished presentation in seconds to minutes, depending on the complexity of the input content."
+        },
+        {
+            "question": "Is AiPPT suitable for educational purposes?",
+            "answer": "Yes, AiPPT transforms lesson materials into engaging presentations, saving educators time and enhancing student engagement."
+        },
+        {
+            "question": "Does AiPPT support real-time collaboration?",
+            "answer": "Yes, AiPPT allows multiple users to collaborate on presentations in real time, streamlining team projects."
+        }
+    ]
+}

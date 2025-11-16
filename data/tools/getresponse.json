@@ -1,0 +1,68 @@
+{
+    "name": "GetResponse",
+    "description": "GetResponse is an all-in-one AI-powered email marketing and automation platform that enables businesses to create engaging campaigns, build landing pages, and drive conversions across multiple channels.",
+    "longDescription": "GetResponse is a comprehensive online marketing platform focused on email marketing, automation, and lead generation, empowering over 350,000 customers worldwide to scale their marketing efforts efficiently. Its core mission is to provide affordable, unlimited tools that grow with business success, using AI to simplify content creation, optimization, and personalization without extra costs for scaling. The platform solves common challenges like low email deliverability, manual workflow management, and fragmented marketing channels by offering high deliverability rates (99%), seamless integrations with over 100 tools, and multi-channel support including email, SMS, webinars, and web-push notifications. Users, from small businesses to enterprises, benefit from features like automated sales funnels and AI-driven recommendations that boost engagement and revenue, as evidenced by case studies showing significant sales growth from single campaigns.",
+    "url": "https://www.getresponse.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getresponse.com.webp",
+    "category": "AI Email Marketing",
+    "categorySlug": "ai-email-marketing",
+    "slug": "getresponse",
+    "categories": [
+        "AI Email Marketing",
+        "AI Marketing",
+        "AI Writing",
+        "AI Landing Page Builder",
+        "AI Tools Directory",
+        "AI Lead Generation"
+    ],
+    "features": [
+        "Unlimited Newsletters allow users to send endless emails with AI-generated content for writing, optimizing, and personalizing messages, ensuring high engagement and 99% deliverability across 160+ countries.",
+        "Unlimited Automations enable the creation of complex workflows such as welcome sequences and cart reminders, with AI suggesting optimal actions, segments, and timing to maximize results and save time.",
+        "Unlimited Landing Pages facilitate quick design and publishing of high-converting pages using AI for copywriting and visual selection, accelerating campaign launches and lead capture.",
+        "Webinars provide tools for hosting, recording, and promoting live or on-demand sessions to nurture leads and build audience trust, with attendee limits scaling by plan.",
+        "AI Product Recommendations personalize emails and websites by suggesting relevant products based on user behavior, increasing sales opportunities and customer satisfaction.",
+        "SMS Integration supports direct text messaging for timely customer communications, enhancing reach and response rates beyond email alone.",
+        "Web-Push Notifications re-engage website visitors with personalized alerts, improving retention and conversion without requiring email signups.",
+        "Automated Sales Funnel Creator builds complete funnels to guide leads from awareness to purchase, streamlining the sales process and boosting revenue efficiency.",
+        "Forms and Popups, including banners and bars, capture leads through customizable on-site elements, integrating seamlessly with contact lists for immediate follow-up.",
+        "Over 100 Integrations sync data with e-commerce, CRM, and other tools, automating workflows and providing a unified view of customer interactions."
+    ],
+    "faqs": [
+        {
+            "question": "What is GetResponse?",
+            "answer": "GetResponse is an all-in-one marketing platform specializing in email marketing, automation, landing pages, webinars, and more, powered by AI to help businesses grow their audience and revenue."
+        },
+        {
+            "question": "Does GetResponse offer a free plan?",
+            "answer": "Yes, GetResponse provides a free plan allowing unlimited emails to up to 500 contacts, unlimited landing pages, signup forms, and basic automations, with a 30-day trial for full premium features."
+        },
+        {
+            "question": "How does AI enhance GetResponse's features?",
+            "answer": "AI in GetResponse assists with content generation for emails and landing pages, suggests automation actions and segments, and provides product recommendations, making marketing faster and more effective."
+        },
+        {
+            "question": "What integrations does GetResponse support?",
+            "answer": "GetResponse integrates with over 100 tools, including e-commerce platforms like Shopify, CRMs like Salesforce, and payment gateways, enabling seamless data syncing and automated workflows."
+        },
+        {
+            "question": "Is a credit card required to start?",
+            "answer": "No, you can sign up for the free trial or free plan without a credit card, and cancel anytime without penalties."
+        },
+        {
+            "question": "What kind of support is available?",
+            "answer": "GetResponse offers 24/7 live chat support in English and email support in multiple languages, with premium priority support for higher plans and a 5-star rated customer success team."
+        },
+        {
+            "question": "How many contacts can the free plan handle?",
+            "answer": "The free plan supports up to 500 contacts with unlimited emails, while paid plans scale to 100,000+ contacts based on the chosen tier."
+        },
+        {
+            "question": "Can I host webinars on GetResponse?",
+            "answer": "Yes, the platform includes webinar tools for live and on-demand hosting, with attendee limits starting at 10 in the trial and up to 100 or more in paid plans like Creator and Enterprise."
+        },
+        {
+            "question": "What are the pricing options after the free trial?",
+            "answer": "Plans start at $15.58/month (billed annually) for Starter, up to custom Enterprise pricing, with features like unlimited automations and AI tools unlocking in higher tiers."
+        }
+    ]
+}

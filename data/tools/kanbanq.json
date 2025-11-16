@@ -1,0 +1,71 @@
+{
+    "name": "Kanbanq",
+    "description": "Kanbanq is an AI-powered project management tool designed for developers, designers, and makers, offering visual Kanban boards and agile sprint management for lean workflows.",
+    "longDescription": "Kanbanq is a streamlined project management platform tailored for small teams and individuals who prioritize simplicity and agility in their workflows. Its mission is to eliminate unnecessary complexity from task management, allowing users to focus on productive work rather than administrative burdens. By integrating AI-driven features, it automates routine tasks like sprint summaries and task breakdowns, making it easier for devs, designers, and makers to plan collaboratively and move quickly. The tool serves users by providing a playful, minimalist interface that enhances efficiency without the bloat found in larger project management software. Overall, Kanbanq solves the problem of chaotic task lists and inefficient sprint handling by offering structured backlogs and intelligent automation.",
+    "url": "https://www.kanbanq.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.kanbanq.app.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "kanbanq",
+    "categories": [
+        "AI Project Management",
+        "AI Tools Directory",
+        "AI Task Management",
+        "AI Workflow",
+        "AI Summarizer",
+        "AI Productivity Tools",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Visual Kanban Backlog enables users to organize, prioritize, and drag tasks into sprints, providing clarity and replacing disorganized lists with an intuitive board.",
+        "AI-Driven Sprint Administration uses built-in AI to automatically generate sprint summaries, suggest smart task breakdowns, and craft progress updates, simplifying management for teams.",
+        "Proper Sprint Management includes dedicated structures for handling sprints, addressing gaps often found in traditional Kanban tools and ensuring smooth agile processes.",
+        "Structured Backlogs offer organized storage for tasks, enhancing overall workflow and making it easier to track and prioritize work items.",
+        "Smart AI Features provide advanced capabilities beyond basic text generation, supporting project tasks with intelligent insights and automation to boost productivity.",
+        "No-Login Free Trial allows users to try the tool instantly without an account, making it accessible for quick evaluations and onboarding.",
+        "Lean Interface Design focuses on minimalism and playfulness, creating an enjoyable user experience that reduces friction in daily task management.",
+        "Agile Team Support facilitates collaborative planning for smaller pods, enabling fast iterations and efficient communication among team members."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kanbanq?",
+            "answer": "Kanbanq is an AI-powered project management tool focused on Kanban boards and sprint management for agile teams. It emphasizes simplicity and is ideal for developers, designers, and makers."
+        },
+        {
+            "question": "Does Kanbanq offer a free plan?",
+            "answer": "Yes, Kanbanq provides a generous free tier with core features available without needing an account to start. Premium plans are available for advanced needs at a lower cost than competitors."
+        },
+        {
+            "question": "How does AI integrate into Kanbanq?",
+            "answer": "AI in Kanbanq automates sprint administration by creating summaries, suggesting task breakdowns, and generating progress updates. This helps users save time on administrative tasks and focus on execution."
+        },
+        {
+            "question": "Who is Kanbanq designed for?",
+            "answer": "Kanbanq is tailored for small teams, developers, designers, and makers who prefer lean, agile workflows. It's suitable for those avoiding complex tools in favor of minimalism."
+        },
+        {
+            "question": "Can I use Kanbanq without signing up?",
+            "answer": "Yes, you can try Kanbanq instantly without an account or login, allowing immediate access to its features for testing."
+        },
+        {
+            "question": "What makes Kanbanq different from other Kanban tools?",
+            "answer": "Unlike traditional Kanban tools, Kanbanq includes proper sprint management and AI-driven automation for tasks like summaries and breakdowns. It prioritizes a clean, enjoyable interface over bloated features."
+        },
+        {
+            "question": "Is Kanbanq suitable for large teams?",
+            "answer": "Kanbanq is optimized for smaller teams or pods, focusing on simplicity rather than enterprise-scale features. Larger teams may find it limited compared to more robust platforms."
+        },
+        {
+            "question": "How secure is my data on Kanbanq?",
+            "answer": "Kanbanq ensures data security through standard practices, though specific details aren't highlighted; users should review privacy policies for compliance."
+        },
+        {
+            "question": "Can I integrate Kanbanq with other tools?",
+            "answer": "While not explicitly detailed, Kanbanq's focus on lean design suggests potential for basic integrations; check the platform for available APIs or extensions."
+        },
+        {
+            "question": "What are the premium features in Kanbanq?",
+            "answer": "Premium plans offer enhanced AI capabilities, unlimited projects, and advanced collaboration tools beyond the free tier's limits."
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "title": "The Best 17 AI Anime Art Tools in 2025",
+    "summary": "Discover the captivating world of AI Anime Art tools, where creativity meets cutting-edge technology. This category offers innovative solutions for artists, designers, and enthusiasts looking to generate stunning anime-style artwork effortlessly. With features like customizable styles and high-resolution outputs, these tools empower users to bring their imaginative visions to life. Whether you're creating characters for a game or illustrations for a story, our curated selection of AI tools will enhance your artistic process. Dive in and explore the transformative potential of AI in anime art today!",
+    "tools": [
+        {
+            "id": "70",
+            "name": "PixAI",
+            "slug": "pixai",
+            "description": "PixAI is an AI-powered platform for creating high-quality anime-style artwork and characters effortlessly.",
+            "icon": "/logo/pixai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "84",
+            "name": "Chichi-pui",
+            "slug": "chichi-pui",
+            "description": "Chichi-pui is a Japanese platform for creating and sharing AI-generated illustrations, photos, and gravure images, fostering a vibrant community of AI art enthusiasts.",
+            "icon": "/logo/chichi-pui.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "Yodayo",
+            "slug": "yodayo",
+            "description": "Yodayo is an AI-powered creative platform for anime fans to generate art, interact with AI characters, and engage in a vibrant community.",
+            "icon": "/logo/yodayo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "301",
+            "name": "DreamFace",
+            "slug": "dreamface",
+            "description": "DreamFace is an AI-powered app that transforms photos into animated videos, avatars, and enhanced images with one-click simplicity.",
+            "icon": "/logo/www.dreamfaceapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "309",
+            "name": "Bigjpg",
+            "slug": "bigjpg",
+            "description": "Bigjpg is an AI-powered tool for lossless image upscaling, specializing in anime-style artworks and photos.",
+            "icon": "/logo/bigjpg.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "323",
+            "name": "Live3D",
+            "slug": "live3d",
+            "description": "Live3D is a comprehensive VTuber software suite for creating and animating virtual avatars for streaming and content creation.",
+            "icon": "/logo/live3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "354",
+            "name": "MyIMG",
+            "slug": "myimg",
+            "description": "MyIMG is an AI-powered platform for transforming photos into cartoons, generating images from text, and editing visuals with features like face swapping and clothes removal.",
+            "icon": "/logo/www.myimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Shakker AI",
+            "slug": "shakker-ai",
+            "description": "Shakker AI is a cutting-edge platform for generating and editing high-quality images using advanced AI and Stable Diffusion models.",
+            "icon": "/logo/www.shakker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "432",
+            "name": "Aitubo",
+            "slug": "aitubo",
+            "description": "Aitubo is an AI-powered platform for generating high-quality images, videos, music, and avatars from text or images, catering to creators and artists.",
+            "icon": "/logo/aitubo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "445",
+            "name": "Imglarger",
+            "slug": "imglarger",
+            "description": "Imglarger provides AI-powered tools to enhance, upscale, edit, and convert images for professional and personal use.",
+            "icon": "/logo/imglarger.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "571",
+            "name": "SoulGen",
+            "slug": "soulgen",
+            "description": "SoulGen is an AI-powered platform that generates stunning anime and realistic images or videos from text prompts, enabling users to create customized characters and artwork.",
+            "icon": "/logo/www.soulgen.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "676",
+            "name": "TryNectar",
+            "slug": "trynectar-ai",
+            "description": "TryNectar.ai is an AI-powered platform for creating and interacting with customizable virtual companions and generating high-quality images and videos.",
+            "icon": "/logo/trynectar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "721",
+            "name": "FunFun AI",
+            "slug": "funfun-ai",
+            "description": "FunFun AI is a platform for creating and interacting with customizable AI-powered virtual companions and generating AI-driven art and videos.",
+            "icon": "/logo/www.funfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "739",
+            "name": "Niji Journey",
+            "slug": "niji-journey",
+            "description": "Niji Journey is an AI-powered platform for creating custom anime-style illustrations from text prompts.",
+            "icon": "/logo/nijijourney.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "1150",
+            "name": "AI Hentai Generator",
+            "slug": "ai-hentai-generator",
+            "description": "AI Hentai Generator is an online AI-powered tool that enables users to create customized hentai-style images based on text prompts.",
+            "icon": "/logo/aihentaigenerator.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        },
+        {
+            "id": "1431",
+            "name": "AniFun.ai",
+            "slug": "anifun-ai",
+            "description": "AniFun.ai is an AI-powered platform that enables users to generate and interact with anime-style characters, images, and stories for creative entertainment.",
+            "icon": "/logo/anifun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-anime-art"
+            ]
+        }
+    ]
+}

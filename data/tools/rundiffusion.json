@@ -1,0 +1,71 @@
+{
+    "name": "RunDiffusion",
+    "description": "RunDiffusion is a cloud-based platform that enables users to generate AI-powered images using models like Stable Diffusion without requiring powerful local hardware.",
+    "longDescription": "RunDiffusion is an online service that provides access to high-performance cloud GPUs for running AI image generation tools, primarily focused on Stable Diffusion models. Its mission is to democratize AI art creation by eliminating the need for expensive hardware, allowing artists, designers, and hobbyists to create stunning visuals effortlessly. The platform serves users by offering pre-configured environments where they can input prompts and generate images in real-time or batch processes. It solves problems related to accessibility and cost in AI computing, making advanced tools available to a broader audience. Users can scale their usage based on needs, from casual experimentation to professional projects. Overall, RunDiffusion bridges the gap between complex AI technologies and everyday creators.",
+    "url": "https://rundiffusion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/rundiffusion.com.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "rundiffusion",
+    "categories": [
+        "AI Image Generator",
+        "AI Art Generator",
+        "Prompt Engineering",
+        "AI Creative Writing",
+        "AI Models"
+    ],
+    "features": [
+        "Cloud-based GPU access allows users to run Stable Diffusion models without local hardware, enabling fast image generation.",
+        "Pre-built workspaces come equipped with popular AI tools and extensions for immediate use, saving setup time.",
+        "Prompt-based image creation lets users describe scenes or styles in text to generate custom artwork efficiently.",
+        "Batch processing supports generating multiple images at once, ideal for large-scale projects or iterations.",
+        "Model library provides access to various AI models and checkpoints for diverse artistic outputs.",
+        "Real-time collaboration features enable teams to work on AI art projects together in shared sessions.",
+        "Usage-based pricing ensures users only pay for the compute time they need, optimizing costs.",
+        "Integrated file management allows easy uploading, downloading, and organizing of generated images.",
+        "Automatic updates keep the platform current with the latest AI advancements and model improvements.",
+        "Customizable settings let users tweak parameters like resolution, steps, and samplers for precise control."
+    ],
+    "faqs": [
+        {
+            "question": "What is RunDiffusion?",
+            "answer": "RunDiffusion is a cloud platform for running AI image generation models like Stable Diffusion. It provides virtual machines with GPUs to create images from text prompts without needing your own hardware."
+        },
+        {
+            "question": "Do I need technical knowledge to use RunDiffusion?",
+            "answer": "No advanced technical skills are required as the platform offers pre-configured setups. Beginners can start with simple prompts, while advanced users can customize models and settings."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "Yes, RunDiffusion offers a free trial with limited credits to test the platform. This allows new users to generate a few images before committing to a paid plan."
+        },
+        {
+            "question": "What AI models does RunDiffusion support?",
+            "answer": "The platform primarily supports Stable Diffusion and its variants, including custom models. Users can also access extensions like ControlNet for enhanced control over outputs."
+        },
+        {
+            "question": "How does pricing work on RunDiffusion?",
+            "answer": "Pricing is based on usage time for cloud sessions, with options for hourly rates or subscriptions. Users can monitor and control costs through their dashboard."
+        },
+        {
+            "question": "Can I use RunDiffusion for commercial projects?",
+            "answer": "Yes, generated images can be used commercially, but users should check model licenses for any restrictions. The platform supports professional workflows with high-resolution outputs."
+        },
+        {
+            "question": "What happens if my session times out?",
+            "answer": "Sessions can be set to auto-save progress, and users can resume from where they left off. Idle sessions may pause to conserve resources and costs."
+        },
+        {
+            "question": "Is RunDiffusion secure for my data?",
+            "answer": "Yes, the platform uses encryption and secure cloud infrastructure to protect user data and generated content. Users control access to their workspaces."
+        },
+        {
+            "question": "Can I integrate RunDiffusion with other tools?",
+            "answer": "RunDiffusion supports API access for integration with external apps. This allows automating workflows or embedding AI generation into other software."
+        },
+        {
+            "question": "What file formats are supported for outputs?",
+            "answer": "Generated images can be downloaded in formats like PNG, JPEG, and WEBP. Users can also export entire projects or model files."
+        }
+    ]
+}

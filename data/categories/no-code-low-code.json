@@ -1,0 +1,974 @@
+{
+    "title": "The Best 88 No-Code&Low-Code Tools in 2025",
+    "summary": "Unlock your creativity with our No-Code & Low-Code tools, designed to empower users of all skill levels to build applications without extensive programming knowledge. These innovative solutions streamline development, reduce costs, and accelerate project timelines, making it easier than ever to bring your ideas to life. Whether you're a business professional, entrepreneur, or hobbyist, our curated selection of tools will help you solve complex challenges efficiently. Dive into the world of No-Code & Low-Code and discover how you can transform your vision into reality. Explore our tools today!",
+    "tools": [
+        {
+            "id": "130",
+            "name": "OpenAI",
+            "slug": "openai",
+            "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+            "icon": "/logo/openai.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "132",
+            "name": "Lovable",
+            "slug": "lovable",
+            "description": "Lovable.dev is an AI-powered platform that enables users to build full-stack web applications using natural language prompts.",
+            "icon": "/logo/lovable.dev.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Hugging Face",
+            "slug": "hugging-face",
+            "description": "Hugging Face is a platform for sharing and building open-source machine learning models, datasets, and applications.",
+            "icon": "/logo/huggingface.co.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "120",
+            "name": "n8n",
+            "slug": "n8n",
+            "description": "n8n is a workflow automation platform that combines AI capabilities with no-code and code-based solutions to streamline business processes.",
+            "icon": "/logo/n8n.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "83",
+            "name": "Zapier",
+            "slug": "zapier",
+            "description": "Zapier is a no-code automation platform that connects apps to streamline workflows and boost productivity.",
+            "icon": "/logo/zapier.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Cursor",
+            "slug": "cursor",
+            "description": "Cursor is an AI-powered code editor designed to enhance developer productivity with advanced AI features.",
+            "icon": "/logo/cursor.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "333",
+            "name": "Base44",
+            "slug": "base44",
+            "description": "Base44 is an AI-powered no-code platform that enables users to create fully functional web and mobile apps using natural language prompts.",
+            "icon": "/logo/base44.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Stitch",
+            "slug": "stitch",
+            "description": "Stitch is an AI-powered tool by Google Labs that generates UI designs and frontend code for web and mobile applications from text or image prompts.",
+            "icon": "/logo/stitch.withgoogle.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "264",
+            "name": "Angular",
+            "slug": "angular",
+            "description": "Angular.dev is the official hub for Angular, a platform for building scalable web applications.",
+            "icon": "/logo/angular.dev.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "319",
+            "name": "Glide",
+            "slug": "glide",
+            "description": "Glide is a no-code platform that enables users to create custom, AI-powered business apps from spreadsheets without coding.",
+            "icon": "/logo/www.glideapps.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "356",
+            "name": "10Web",
+            "slug": "10web",
+            "description": "10Web is an AI-powered platform that simplifies WordPress website creation, hosting, and optimization for businesses and individuals.",
+            "icon": "/logo/10web.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "369",
+            "name": "Clay",
+            "slug": "clay",
+            "description": "Clay is a creative go-to-market platform that automates data enrichment and personalized outreach for sales and marketing teams.",
+            "icon": "/logo/www.clay.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "425",
+            "name": "Chatbase",
+            "slug": "chatbase",
+            "description": "Chatbase is a platform for building and deploying AI-powered customer service chatbots trained on custom data.",
+            "icon": "/logo/www.chatbase.co.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "454",
+            "name": "Softr",
+            "slug": "softr",
+            "description": "Softr enables users to build custom web apps, client portals, and internal tools without coding, using Airtable or Google Sheets data.",
+            "icon": "/logo/www.softr.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "518",
+            "name": "Wegic",
+            "slug": "wegic-ai",
+            "description": "Wegic is an AI-powered website builder that creates and manages professional websites through conversational interactions, requiring no coding skills.",
+            "icon": "/logo/wegic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "526",
+            "name": "MyShell AI",
+            "slug": "myshell-ai",
+            "description": "MyShell AI is a platform for creating, sharing, and owning AI-powered agents and creative tools for image generation, voice cloning, and chatbots.",
+            "icon": "/logo/app.myshell.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "529",
+            "name": "Lindy",
+            "slug": "lindy-ai",
+            "description": "Lindy is a no-code AI platform for creating custom AI agents to automate business and personal workflows.",
+            "icon": "/logo/www.lindy.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "546",
+            "name": "Unbounce",
+            "slug": "unbounce",
+            "description": "Unbounce is a no-code platform for building, testing, and optimizing high-converting landing pages to boost leads and sales.",
+            "icon": "/logo/unbounce.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "570",
+            "name": "Appy Pie",
+            "slug": "appy-pie",
+            "description": "Appy Pie is a no-code platform for creating mobile apps, websites, chatbots, and automating workflows with AI-driven tools.",
+            "icon": "/logo/www.appypie.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "573",
+            "name": "Hex",
+            "slug": "hex",
+            "description": "Hex is a collaborative, AI-powered analytics workspace for data science and decision-making.",
+            "icon": "/logo/hex.tech.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "599",
+            "name": "Coze",
+            "slug": "coze",
+            "description": "Coze is a no-code AI chatbot development platform for creating and deploying bots across multiple messaging apps.",
+            "icon": "/logo/www.coze.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "614",
+            "name": "Bardeen",
+            "slug": "bardeen-ai",
+            "description": "Bardeen is an AI-powered workflow automation platform that streamlines repetitive tasks for GTM teams by integrating with popular apps.",
+            "icon": "/logo/www.bardeen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "624",
+            "name": "Landbot",
+            "slug": "landbot",
+            "description": "Landbot is a no-code AI chatbot platform that enables businesses to create conversational experiences for customer engagement and automation.",
+            "icon": "/logo/landbot.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "625",
+            "name": "Create",
+            "slug": "create",
+            "description": "Create.xyz is an AI-powered platform that enables users to build custom web and mobile applications using natural language prompts.",
+            "icon": "/logo/www.create.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "644",
+            "name": "Dora",
+            "slug": "dora",
+            "description": "Dora is an AI-powered no-code platform for designing and publishing stunning 3D animated websites.",
+            "icon": "/logo/www.dora.run.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "678",
+            "name": "Pareto",
+            "slug": "pareto",
+            "description": "Pareto.io offers Tess AI, a generative AI platform, and digital marketing services to enhance business productivity and growth.",
+            "icon": "/logo/pareto.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "684",
+            "name": "BeArt AI",
+            "slug": "beart-ai",
+            "description": "BeArt AI is a free online platform offering AI-driven tools for seamless face swapping and editing in photos, videos, and GIFs.",
+            "icon": "/logo/beart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "689",
+            "name": "Opinion Stage",
+            "slug": "opinion-stage",
+            "description": "Opinion Stage is a platform for creating interactive quizzes, polls, surveys, and forms to boost engagement and gather insights.",
+            "icon": "/logo/www.opinionstage.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "700",
+            "name": "Octoparse",
+            "slug": "octoparse",
+            "description": "Octoparse is a no-code web scraping tool designed to extract structured data from websites efficiently.",
+            "icon": "/logo/www.octoparse.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "702",
+            "name": "Browse AI",
+            "slug": "browse-ai",
+            "description": "Browse AI is a no-code platform for automating web data extraction and monitoring from any website.",
+            "icon": "/logo/www.browse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "703",
+            "name": "Gooey.AI",
+            "slug": "gooey-ai",
+            "description": "Gooey.AI is a low-code AI orchestration platform that simplifies the integration and deployment of generative AI workflows for developers and businesses.",
+            "icon": "/logo/gooey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "718",
+            "name": "Glif",
+            "slug": "glif",
+            "description": "Glif is a low-code platform for creating AI-powered mini-apps and chatbots that generate multimedia content.",
+            "icon": "/logo/glif.app.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "744",
+            "name": "AnythingLLM",
+            "slug": "anythingllm",
+            "description": "AnythingLLM is an all-in-one AI application for chatting with documents, running AI agents, and leveraging LLMs privately with no complex setup.",
+            "icon": "/logo/anythingllm.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "749",
+            "name": "TeleportHQ",
+            "slug": "teleporthq",
+            "description": "TeleportHQ is a low-code platform for building responsive websites and UI components with AI-driven design and code export capabilities.",
+            "icon": "/logo/teleporthq.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "751",
+            "name": "Supademo",
+            "slug": "supademo",
+            "description": "Supademo enables businesses to create and share AI-powered interactive product demos to drive engagement and conversions.",
+            "icon": "/logo/supademo.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "762",
+            "name": "Nanonets",
+            "slug": "nanonets",
+            "description": "Nanonets provides AI-driven document processing and workflow automation for businesses.",
+            "icon": "/logo/nanonets.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "772",
+            "name": "Dorik",
+            "slug": "dorik",
+            "description": "Dorik is an AI-powered, no-code website builder for creating professional websites quickly and easily.",
+            "icon": "/logo/dorik.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "799",
+            "name": "UI Bakery",
+            "slug": "ui-bakery",
+            "description": "UI Bakery is a low-code platform for building customizable internal tools and business apps with drag-and-drop functionality and API integrations.",
+            "icon": "/logo/uibakery.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "800",
+            "name": "Glassix",
+            "slug": "glassix",
+            "description": "Glassix provides an AI-powered unified messaging platform for omnichannel customer communication and support.",
+            "icon": "/logo/www.glassix.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "801",
+            "name": "Magical",
+            "slug": "magical",
+            "description": "Magical is an AI-powered platform that automates repetitive tasks like data entry and messaging to boost productivity.",
+            "icon": "/logo/www.getmagical.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "807",
+            "name": "Fibery",
+            "slug": "fibery",
+            "description": "Fibery is a no-code work management platform that connects teams and streamlines processes with customizable databases and collaboration tools.",
+            "icon": "/logo/fibery.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "810",
+            "name": "Axiom.ai",
+            "slug": "axiom-ai",
+            "description": "Axiom.ai is a no-code browser automation tool that enables users to create bots for automating repetitive web tasks and data scraping.",
+            "icon": "/logo/axiom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "811",
+            "name": "Eden AI",
+            "slug": "eden-ai",
+            "description": "Eden AI provides a unified API to integrate multiple AI models and workflows for developers and businesses.",
+            "icon": "/logo/www.edenai.co.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "FastBots",
+            "slug": "fastbots-ai",
+            "description": "FastBots.ai is a no-code platform for creating AI-powered chatbots trained on custom business data to provide 24/7 customer support and automation.",
+            "icon": "/logo/fastbots.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "823",
+            "name": "Mailmodo",
+            "slug": "mailmodo",
+            "description": "Mailmodo is an email marketing platform that enables businesses to create and send interactive, app-like emails to boost engagement and conversions.",
+            "icon": "/logo/www.mailmodo.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "858",
+            "name": "Zarla",
+            "slug": "zarla",
+            "description": "Zarla is an AI-powered website builder that helps users create professional, customized websites in minutes without coding expertise.",
+            "icon": "/logo/www.zarla.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "859",
+            "name": "DataButton",
+            "slug": "databutton",
+            "description": "DataButton is an AI-powered platform that enables users to build and deploy custom web apps using natural language prompts without extensive coding knowledge.",
+            "icon": "/logo/databutton.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "867",
+            "name": "Composer",
+            "slug": "composer",
+            "description": "Composer is a no-code platform that empowers users to build, backtest, and automate AI-powered investment strategies for automated trading.",
+            "icon": "/logo/www.composer.trade.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "891",
+            "name": "Synthflow.ai",
+            "slug": "synthflow-ai",
+            "description": "Synthflow.ai is a no-code platform for building AI voice agents that automate customer interactions, handle calls, and streamline business operations.",
+            "icon": "/logo/synthflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "892",
+            "name": "CustomGPT.ai",
+            "slug": "customgpt-ai",
+            "description": "CustomGPT.ai is a no-code platform for building custom AI chatbots powered by GPT technology, integrated with users' own data for personalized responses.",
+            "icon": "/logo/customgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "893",
+            "name": "Dust",
+            "slug": "dust",
+            "description": "Dust is a platform that empowers teams to build and deploy custom AI assistants using large language models to enhance productivity and automate workflows.",
+            "icon": "/logo/dust.tt.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "904",
+            "name": "Quadratic",
+            "slug": "quadratic",
+            "description": "Quadratic is an AI-powered spreadsheet platform that combines infinite canvas spreadsheets with Python, SQL, and AI tools for advanced data analysis and visualization.",
+            "icon": "/logo/www.quadratichq.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "924",
+            "name": "FocalML",
+            "slug": "focalml",
+            "description": "FocalML is an AI-powered platform specializing in machine learning tools for image analysis and computer vision tasks.",
+            "icon": "/logo/focalml.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "931",
+            "name": "BotPenguin",
+            "slug": "botpenguin",
+            "description": "BotPenguin is an AI-powered chatbot platform that enables businesses to create and deploy no-code chatbots for customer engagement across multiple messaging channels.",
+            "icon": "/logo/botpenguin.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "946",
+            "name": "YourGPT",
+            "slug": "yourgpt-ai",
+            "description": "YourGPT.ai is an AI platform that enables users to build, customize, and deploy intelligent chatbots and AI agents for various applications.",
+            "icon": "/logo/yourgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "951",
+            "name": "Albato",
+            "slug": "albato",
+            "description": "Albato is an AI-driven no-code integration platform that connects apps and automates workflows without coding.",
+            "icon": "/logo/albato.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1007",
+            "name": "AI Agent Store",
+            "slug": "ai-agent-store",
+            "description": "AI Agent Store is a marketplace platform offering pre-built AI agents for automating tasks, enhancing productivity, and solving various business and personal needs.",
+            "icon": "/logo/aiagentstore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1068",
+            "name": "CodeDesign.ai",
+            "slug": "codedesign-ai",
+            "description": "CodeDesign.ai is an AI-powered platform that enables users to effortlessly build, customize, and deploy professional websites without coding skills.",
+            "icon": "/logo/codedesign.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1080",
+            "name": "Kore.ai",
+            "slug": "kore-ai",
+            "description": "Kore.ai is a leading conversational AI platform that empowers enterprises to build, deploy, and manage intelligent virtual assistants and chatbots for enhanced customer and employee experiences.",
+            "icon": "/logo/kore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1094",
+            "name": "Argil",
+            "slug": "argil-ai",
+            "description": "Argil is a no-code platform that enables users to build and deploy AI agents for automating workflows and tasks efficiently.",
+            "icon": "/logo/www.argil.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1140",
+            "name": "Boost.space",
+            "slug": "boost-space",
+            "description": "Boost.space is a no-code platform that centralizes, synchronizes, and automates data across various business tools to streamline workflows and enhance productivity.",
+            "icon": "/logo/boost.space.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1145",
+            "name": "Powerusers AI",
+            "slug": "powerusers-ai",
+            "description": "Powerusers AI is a directory that curates over 2600 AI tools to boost business productivity, offering features like filtering, saving personal lists, and staying updated with the latest AI apps.",
+            "icon": "/logo/powerusers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1148",
+            "name": "Wotnot",
+            "slug": "wotnot",
+            "description": "Wotnot is an AI-powered no-code platform for building and deploying chatbots to automate customer support, lead generation, and engagement across websites and messaging apps.",
+            "icon": "/logo/wotnot.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1189",
+            "name": "Stack AI",
+            "slug": "stack-ai",
+            "description": "Stack AI is a platform for deploying AI agents to automate enterprise back-office processes and enhance operational efficiency.",
+            "icon": "/logo/www.stack-ai.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1195",
+            "name": "SiteGPT",
+            "slug": "sitegpt-ai",
+            "description": "SiteGPT is an AI platform that enables users to create custom chatbots trained on their website's content for personalized customer support and engagement.",
+            "icon": "/logo/sitegpt.ai.webp",
+            "isFree": false,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1207",
+            "name": "BuildShip",
+            "slug": "buildship",
+            "description": "BuildShip is a platform that enables users to create AI workflows and backend APIs quickly using pre-built nodes and AI, without the need for coding.",
+            "icon": "/logo/buildship.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1208",
+            "name": "SmythOS",
+            "slug": "smythos",
+            "description": "SmythOS is an AI operating system that empowers users to visually build, deploy, and manage AI agents and workflows without extensive coding.",
+            "icon": "/logo/smythos.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1216",
+            "name": "PagePilot.ai",
+            "slug": "pagepilot-ai",
+            "description": "PagePilot.ai is an AI-powered platform that enables users to quickly generate professional, high-converting landing pages for businesses, products, or marketing campaigns.",
+            "icon": "/logo/pagepilot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1284",
+            "name": "Wonderchat",
+            "slug": "wonderchat",
+            "description": "Wonderchat is an AI platform that enables users to quickly build and deploy custom chatbots trained on their own data for improved customer engagement and support.",
+            "icon": "/logo/wonderchat.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1261",
+            "name": "Rebolt",
+            "slug": "rebolt-ai",
+            "description": "Rebolt is an AI platform that enables users to build enterprise apps and agents through natural language conversations, integrated with company tools and data.",
+            "icon": "/logo/www.rebolt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1353",
+            "name": "Supercraft",
+            "slug": "supercraft-ai",
+            "description": "Supercraft.ai is an AI-powered platform that enables users to create and customize advanced AI agents and workflows for various applications.",
+            "icon": "/logo/supercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1363",
+            "name": "Zapform",
+            "slug": "zapform-ai",
+            "description": "Zapform.ai is an AI-powered platform for building intelligent forms, automating data collection, and integrating workflows seamlessly.",
+            "icon": "/logo/www.zapform.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1245",
+            "name": "Octayne AI",
+            "slug": "octayne-ai",
+            "description": "Octayne.ai is an AI-driven platform that empowers businesses with automation tools and intelligent insights to enhance productivity and decision-making.",
+            "icon": "/logo/octayne.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1257",
+            "name": "Deforge.io",
+            "slug": "deforge-io",
+            "description": "Deforge.io is a no-code platform for visually building, connecting, and deploying AI agents for applications like customer service, content generation, data analysis, and blockchain integrations.",
+            "icon": "/logo/deforge.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1403",
+            "name": "Webhookify",
+            "slug": "webhookify",
+            "description": "Webhookify is a user-friendly platform for creating, testing, and managing webhook endpoints without coding.",
+            "icon": "/logo/webhookify.app.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1277",
+            "name": "Disco.dev",
+            "slug": "disco-dev",
+            "description": "Disco.dev is a platform providing plug-and-play open-source MCP servers to simplify connections between AI agents and various tools.",
+            "icon": "/logo/disco.dev.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1385",
+            "name": "RapidNative",
+            "slug": "rapidnative",
+            "description": "RapidNative is an AI-powered platform that enables rapid development of native mobile applications without extensive coding expertise.",
+            "icon": "/logo/www.rapidnative.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1288",
+            "name": "Snowglobe",
+            "slug": "snowglobe",
+            "description": "Snowglobe is an AI-powered platform for creating and interacting with personalized virtual worlds and AI companions in a contained, immersive environment.",
+            "icon": "/logo/snowglobe.so.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1311",
+            "name": "Dabe",
+            "slug": "dabe",
+            "description": "Dabe is a no-code AI automation platform that streamlines tasks across 250+ apps using AI agents.",
+            "icon": "/logo/dabe.io.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1332",
+            "name": "MuleRun",
+            "slug": "mulerun",
+            "description": "MuleRun is an AI-powered platform designed to automate business workflows and enhance productivity through intelligent task management.",
+            "icon": "/logo/mulerun.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1444",
+            "name": "Make",
+            "slug": "make",
+            "description": "Make is a no-code automation platform that enables users to connect apps, automate workflows, and streamline business processes without coding expertise.",
+            "icon": "/logo/www.make.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "1440",
+            "name": "Airtable",
+            "slug": "airtable",
+            "description": "Airtable is an AI-native platform for building custom enterprise-grade applications, interfaces, automations, and agents from data without coding.",
+            "icon": "/logo/airtable.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "116",
+            "name": "DeepWiki",
+            "slug": "deepwiki",
+            "description": "DeepWiki is an AI-powered tool that generates interactive, wiki-style documentation for GitHub repositories to simplify codebase understanding.",
+            "icon": "/logo/deepwiki.com.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "90",
+            "name": "Tally",
+            "slug": "tally",
+            "description": "Tally is a free, intuitive no-code platform for creating and managing online forms, surveys, and quizzes.",
+            "icon": "/logo/tally.so.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Chatbot App",
+            "slug": "chatbot-app",
+            "description": "Chatbot App provides an AI-powered platform for seamless chatting, productivity tools, and creative solutions.",
+            "icon": "/logo/chatbotapp.ai.webp",
+            "isFree": false,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Bolt.new",
+            "slug": "bolt-new",
+            "description": "Bolt.new is an AI-powered platform for creating, running, and deploying full-stack web applications directly in the browser.",
+            "icon": "/logo/bolt.new.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        },
+        {
+            "id": "28",
+            "name": "BLACKBOX AI",
+            "slug": "blackbox-ai",
+            "description": "BLACKBOX AI is an AI-powered platform designed to enhance coding efficiency and automate software development tasks for developers.",
+            "icon": "/logo/blackbox.ai.webp",
+            "isFree": true,
+            "categories": [
+                "no-code-low-code"
+            ]
+        }
+    ]
+}

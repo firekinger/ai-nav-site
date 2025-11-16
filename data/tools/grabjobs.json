@@ -1,0 +1,63 @@
+{
+    "name": "GrabJobs",
+    "description": "GrabJobs is a global job search platform connecting job seekers with employers through AI-driven tools and chat-based applications.",
+    "longDescription": "GrabJobs is an end-to-end hiring automation platform designed to streamline the job search and recruitment process for both job seekers and employers. Founded in 2016, it was the first job site to allow job applications via chatbot, eliminating the need for traditional CV submissions. The platform serves millions of users across 50 countries, offering access to thousands of full-time, part-time, remote, and internship opportunities. Its mission is to make job searching faster, less stressful, and more efficient by leveraging AI to match candidates with suitable roles and automate repetitive recruitment tasks. GrabJobs is used by over 20,000 companies, including major brands like Uniqlo, H&M, and KFC, to reduce hiring time by up to 90%. It prioritizes user experience with features like job alerts, application tracking, and direct employer communication.",
+    "url": "https://grabjobs.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/grabjobs.co.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "grabjobs",
+    "categories": [
+        "AI Recruiting",
+        "AI Chatbot",
+        "AI Resume Builder",
+        "AI Scheduling",
+        "AI Jobs"
+    ],
+    "features": [
+        "Job seekers can apply for jobs via a chatbot without a CV, enabling faster and more accessible applications.",
+        "AI-driven job matching recommends roles tailored to a user’s skills and preferences, improving job fit.",
+        "Employers can post jobs to over 20 job boards in one click, maximizing reach to potential candidates.",
+        "Automated interview chatbots screen applicants, saving employers time and reducing manual effort.",
+        "Job application tracking keeps candidates updated on their application status, enhancing transparency.",
+        "Real-time job alerts notify users of new opportunities matching their criteria, ensuring timely applications.",
+        "Employers can automate interview scheduling and reminders, increasing candidate show-up rates.",
+        "The platform supports job searches across multiple categories like retail, hospitality, and technology, catering to diverse industries.",
+        "Mobile-first design allows seamless job searching and application management via the GrabJobs app.",
+        "Employee satisfaction surveys and analytics help employers improve retention and workplace satisfaction."
+    ],
+    "faqs": [
+        {
+            "question": "What types of jobs are available on GrabJobs?",
+            "answer": "GrabJobs offers a wide range of jobs, including full-time, part-time, remote, internships, and temporary roles in industries like retail, hospitality, sales, and technology."
+        },
+        {
+            "question": "Do I need a CV to apply for jobs on GrabJobs?",
+            "answer": "No, GrabJobs allows job seekers to apply via a chatbot, eliminating the need for a traditional CV, though you can still upload one if desired."
+        },
+        {
+            "question": "Is GrabJobs free for job seekers?",
+            "answer": "Yes, job seekers can use GrabJobs for free to search and apply for jobs, with optional premium features for enhanced functionality."
+        },
+        {
+            "question": "How does GrabJobs ensure the legitimacy of job postings?",
+            "answer": "GrabJobs verifies employers and encourages users to report suspicious listings via a 'Report' button or by emailing cs@grabjobs.co for investigation."
+        },
+        {
+            "question": "Can employers contact me directly on GrabJobs?",
+            "answer": "Yes, employers can search career profiles and contact candidates directly through the platform’s chat interface."
+        },
+        {
+            "question": "How does the AI job matching work?",
+            "answer": "GrabJobs uses AI to analyze your skills, experience, and preferences to recommend jobs that closely match your profile, increasing your chances of finding a suitable role."
+        },
+        {
+            "question": "What is the benefit of the interview chatbot for employers?",
+            "answer": "The interview chatbot automates candidate screening by asking pre-set questions, saving employers time and ensuring consistent evaluations."
+        },
+        {
+            "question": "Can I receive job alerts on GrabJobs?",
+            "answer": "Yes, you can activate job alerts to receive instant notifications via email or messaging about new job postings that match your criteria."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "AIHumanize",
+    "description": "AIHumanize offers AI-powered tools to transform AI-generated text into human-like content and bypass AI detection.",
+    "longDescription": "AIHumanize is an online platform designed to refine AI-generated text, making it more natural, engaging, and undetectable by AI content detectors. Its mission is to bridge the gap between artificial and human-like writing, enabling users to create content that resonates with audiences while maintaining authenticity. The platform serves content creators, marketers, and businesses who rely on AI tools but need their output to appear human-crafted. By leveraging advanced algorithms, AIHumanize enhances readability, tone, and style, ensuring the text aligns with user intent. It addresses the growing need for undetectable AI content in industries like publishing, SEO, and digital marketing. The service is user-friendly, catering to both professionals and casual users seeking high-quality content.",
+    "url": "https://www.aihumanize.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aihumanize.io.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "aihumanize",
+    "categories": [
+        "AI Writing",
+        "Bypass AI",
+        "SEO Writing AI",
+        "AI Translate",
+        "AI Proofreading"
+    ],
+    "features": [
+        "Text humanization transforms AI-generated content into natural, human-like writing for better engagement.",
+        "AI detection bypass ensures content evades detection by tools like Turnitin or GPTZero.",
+        "Tone customization allows users to adjust the tone to match specific audiences or purposes.",
+        "Readability enhancement improves text clarity and flow for a polished output.",
+        "Multilingual support enables humanization of content in multiple languages for global use.",
+        "Real-time editing provides instant feedback and suggestions to refine content efficiently.",
+        "Plagiarism-free output ensures the rewritten content is unique and original.",
+        "SEO optimization integrates keywords to boost search engine rankings without sacrificing quality."
+    ],
+    "faqs": [
+        {
+            "question": "What is AIHumanize used for?",
+            "answer": "AIHumanize refines AI-generated text to make it more human-like, engaging, and undetectable by AI content detectors."
+        },
+        {
+            "question": "Does AIHumanize offer a free plan?",
+            "answer": "Yes, AIHumanize provides a free plan with limited features, allowing users to test its core functionality."
+        },
+        {
+            "question": "Can AIHumanize help with SEO content?",
+            "answer": "Yes, it optimizes content with keywords while maintaining a natural tone to improve search engine rankings."
+        },
+        {
+            "question": "Is the humanized content plagiarism-free?",
+            "answer": "AIHumanize ensures the rewritten content is unique and passes plagiarism checks."
+        },
+        {
+            "question": "What types of users benefit from AIHumanize?",
+            "answer": "Content creators, marketers, students, and businesses use AIHumanize to produce authentic, high-quality content."
+        },
+        {
+            "question": "Does AIHumanize support multiple languages?",
+            "answer": "Yes, the platform offers multilingual support for humanizing content in various languages."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "How Old Do I Look",
+    "description": "How Old Do I Look is an AI-powered website that analyzes uploaded photos to estimate a person's apparent age using facial recognition technology.",
+    "longDescription": "How Old Do I Look is an online tool that leverages artificial intelligence to predict a person's age based on facial features in uploaded images. Its mission is to provide a fun, engaging way for users to discover how old they appear, often sparking curiosity and social sharing. The website serves users by offering quick, accessible age estimations without the need for complex software or expertise, making it ideal for entertainment or self-reflection. It solves the problem of subjective age perception by using machine learning algorithms trained on vast datasets of faces to deliver objective results. Additionally, it promotes awareness of AI capabilities in everyday applications, encouraging users to explore technology in a lighthearted manner. Overall, it combines technology with fun to create an interactive experience that can be enjoyed individually or with friends.",
+    "url": "https://www.howolddoilook.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.howolddoilook.io.webp",
+    "category": "AI Age Progression",
+    "categorySlug": "ai-age-progression",
+    "slug": "how-old-do-i-look",
+    "categories": [
+        "AI Age Progression",
+        "AI Face Recognition",
+        "AI Image Recognition",
+        "AI Games",
+        "AI Predictions",
+        "AI Social Media",
+        "AI Assistant",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "Users can easily upload a photo from their device, and the AI quickly analyzes facial features to estimate age, providing instant results.",
+        "The tool uses advanced facial recognition to detect age with a focus on accuracy, helping users understand how others might perceive their appearance.",
+        "It offers a fun, shareable output that includes the estimated age and sometimes additional insights like confidence levels, encouraging social media sharing.",
+        "The website ensures user privacy by not storing uploaded images permanently, allowing for a worry-free experience.",
+        "Mobile-friendly design enables seamless use on smartphones, making it convenient for on-the-go age estimations.",
+        "Free access to core functionality means anyone can try the age predictor without subscriptions or payments.",
+        "The AI model is continually updated to improve accuracy across diverse ethnicities and age groups, enhancing reliability.",
+        "Users receive visual feedback, such as highlighted facial areas, to explain the basis of the age estimation.",
+        "It supports batch processing for multiple faces in one photo, ideal for group pictures.",
+        "Integrated tips on improving photo quality help users get the most accurate results possible."
+    ],
+    "faqs": [
+        {
+            "question": "How accurate is the age estimation?",
+            "answer": "The accuracy depends on photo quality, lighting, and facial clarity, but the AI is trained on diverse datasets to provide reasonable estimates. It's meant for fun and may vary by individual factors like makeup or expressions."
+        },
+        {
+            "question": "Is my uploaded photo stored on the server?",
+            "answer": "No, photos are processed in real-time and not stored permanently to protect user privacy. They are deleted after analysis."
+        },
+        {
+            "question": "Does it work for all ages and ethnicities?",
+            "answer": "The AI is designed to handle a wide range of ages and ethnicities, though results may be more accurate for certain demographics due to training data. Continuous improvements aim to enhance inclusivity."
+        },
+        {
+            "question": "Can I use it on mobile devices?",
+            "answer": "Yes, the website is optimized for mobile use, allowing easy photo uploads from your phone's camera or gallery."
+        },
+        {
+            "question": "Is there a limit to how many photos I can upload?",
+            "answer": "There is no strict limit for free users, but excessive use might be rate-limited to ensure fair access for everyone."
+        },
+        {
+            "question": "What technology powers the age detection?",
+            "answer": "It uses machine learning models for facial analysis, similar to those in computer vision AI, trained to recognize age-related features."
+        },
+        {
+            "question": "Can it detect multiple people in one photo?",
+            "answer": "Yes, the tool can identify and estimate ages for multiple faces in a single image, providing results for each."
+        },
+        {
+            "question": "Is the service completely free?",
+            "answer": "Yes, core features are free with no hidden costs, though premium options might be available for advanced functionalities in the future."
+        },
+        {
+            "question": "How does it handle privacy and data security?",
+            "answer": "The site complies with standard privacy practices, processing data securely without sharing it with third parties. Users are encouraged to review the privacy policy for details."
+        },
+        {
+            "question": "What if the estimated age is way off?",
+            "answer": "Estimations are approximations and can be influenced by various factors; it's intended for entertainment, not precise measurement. Try different photos for varied results."
+        }
+    ]
+}

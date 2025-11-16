@@ -1,0 +1,77 @@
+{
+    "name": "Missive",
+    "description": "Missive is a collaborative email and chat platform that streamlines team communication and task management across multiple channels.",
+    "longDescription": "Missive is a team-oriented communication platform designed to centralize email, chat, and task management for enhanced productivity. Launched in 2015 from Quebec City, Canada, it empowers teams to manage shared inboxes, collaborate on emails, and automate workflows without switching between apps. Its mission is to unify internal and external communications, reducing the chaos of scattered messages and enabling seamless collaboration. By integrating with over 25 apps like Asana, Salesforce, and OpenAI, Missive tailors workflows to fit diverse business needs. It supports various channels, including email, SMS, WhatsApp, and social media, making it ideal for customer support, sales, and team coordination. The platform’s customizable features and automation capabilities help businesses save time and improve efficiency.",
+    "url": "https://missiveapp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/missiveapp.com.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "missive",
+    "categories": [
+        "AI Project Management",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Task Management",
+        "AI CRM",
+        "AI Customer Service",
+        "AI Workflow"
+    ],
+    "features": [
+        "Shared inboxes allow multiple team members to manage emails collaboratively, ensuring no message is missed.",
+        "Real-time collaborative writing enables teams to compose and review emails together, improving response quality.",
+        "Canned responses provide reusable templates to save time on repetitive emails, streamlining communication.",
+        "Task assignment within conversations allows teams to delegate and track tasks directly from the inbox.",
+        "Automated rules apply filters to auto-archive or assign emails, reducing manual workload.",
+        "Snooze and send later features help users manage their inbox by setting reminders or scheduling emails.",
+        "Integration with over 25 apps, including Asana and Salesforce, enhances workflow connectivity.",
+        "Unified inbox consolidates emails, SMS, WhatsApp, and other channels into a single interface.",
+        "Team chat facilitates internal discussions, supporting group or one-on-one conversations.",
+        "Pinned conversations allow users to drag important threads to the sidebar for quick access.",
+        "AI-powered rules analyze emails and perform actions like creating tasks or escalating issues.",
+        "WhatsApp collaboration enables teams to manage business messages directly within Missive.",
+        "Rich text and HTML signatures provide professional customization for outgoing messages.",
+        "Sharable conversation links allow teams to share full context without screenshots."
+    ],
+    "faqs": [
+        {
+            "question": "What is Missive primarily used for?",
+            "answer": "Missive is used for collaborative email and chat management, allowing teams to share inboxes, assign tasks, and streamline communication across multiple channels."
+        },
+        {
+            "question": "Does Missive offer a free plan?",
+            "answer": "Yes, Missive offers a free plan with limited features, allowing teams to try core functionalities before upgrading to a paid plan."
+        },
+        {
+            "question": "Can Missive integrate with other tools?",
+            "answer": "Missive integrates with over 25 apps, including Asana, Pipedrive, Salesforce, and OpenAI, to enhance workflow efficiency."
+        },
+        {
+            "question": "How does Missive support team collaboration?",
+            "answer": "Missive supports collaboration through shared inboxes, real-time email composition, task assignments, and internal team chat features."
+        },
+        {
+            "question": "Is Missive suitable for customer support?",
+            "answer": "Yes, Missive’s shared inboxes, automation rules, and WhatsApp integration make it ideal for managing customer support communications."
+        },
+        {
+            "question": "Can I use Missive on mobile devices?",
+            "answer": "Missive is available on iOS and Android, offering the same functionality as the desktop and web versions for seamless access."
+        },
+        {
+            "question": "How does Missive handle email automation?",
+            "answer": "Missive’s rules feature allows users to create custom filters to automatically archive, assign, or respond to emails based on specific criteria."
+        },
+        {
+            "question": "Is Missive GDPR compliant?",
+            "answer": "Yes, Missive is fully compliant with the European Union’s GDPR privacy law, ensuring secure handling of user data."
+        },
+        {
+            "question": "Can I schedule emails with Missive?",
+            "answer": "Yes, Missive’s 'Send Later' feature allows users to draft emails and schedule them for delivery at a specific time."
+        },
+        {
+            "question": "Does Missive support WhatsApp for business?",
+            "answer": "Missive integrates with WhatsApp, allowing teams to manage and delegate business messages within the platform."
+        }
+    ]
+}

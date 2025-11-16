@@ -1,0 +1,69 @@
+{
+    "name": "Flashka",
+    "description": "Flashka is an AI-powered study platform that transforms PDFs into flashcards, quizzes, and explanations to enhance learning efficiency.",
+    "longDescription": "Flashka is an AI-driven learning platform designed to streamline and enhance the study process for students by transforming uploaded study materials, such as PDFs, into interactive flashcards, quizzes, and detailed explanations. Founded in 2023 by Bocconi and Politecnico students in Tallinn, Estonia, its mission is to make studying smarter, faster, and more effective through innovative AI technology. The platform supports students across all phases of learning—understanding, memorizing, and testing—using features like spaced repetition and personalized AI tutoring. Flashka addresses common student challenges, such as time-consuming flashcard creation and low retention rates, by automating study material generation and offering an intuitive interface. It is used in 56 countries, supports 20 languages, and has a growing user base of over 23,000, reflecting its global appeal and effectiveness. The platform ensures trustability of AI-generated content through an innovative UI that allows students to verify and customize their study materials.",
+    "url": "https://www.flashka.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.flashka.ai.webp",
+    "category": "AI Flashcard Maker",
+    "categorySlug": "ai-flashcard-maker",
+    "slug": "flashka-ai",
+    "categories": [
+        "AI Flashcard Maker",
+        "AI Quiz Generator",
+        "AI Document Extraction",
+        "AI Language Learning",
+        "AI Translate",
+        "AI Image Description Generator",
+        "AI Homework Helper"
+    ],
+    "features": [
+        "Automatically generates flashcards from uploaded PDFs, saving time and effort for students preparing for exams.",
+        "Utilizes spaced repetition algorithms to optimize memorization and improve long-term retention of study material.",
+        "Creates interactive quizzes with explanations for incorrect answers, enhancing understanding and test preparation.",
+        "Offers an AI tutor that provides personalized explanations and answers questions based on uploaded study materials.",
+        "Supports image occlusion for flashcards, ideal for visual learners studying subjects like anatomy or geography.",
+        "Allows users to highlight text in PDFs to create customized flashcards directly from key information.",
+        "Provides a multilingual interface, supporting 20 languages to cater to a global student audience.",
+        "Enables sharing of flashcards and quizzes with peers, fostering collaborative learning and study groups.",
+        "Marks text with visual cues (e.g., yellow circles) to track areas where explanations or questions were generated, aiding review.",
+        "Offers a freemium model with 50 free daily AI interactions, making it accessible to a wide range of users."
+    ],
+    "faqs": [
+        {
+            "question": "How does Flashka generate flashcards from my study materials?",
+            "answer": "Users upload a PDF, highlight key text, and Flashka’s AI automatically creates flashcards, which can be customized before studying."
+        },
+        {
+            "question": "Is Flashka suitable for professional certification preparation?",
+            "answer": "Yes, Flashka’s ability to generate flashcards and quizzes from any PDF makes it ideal for preparing for professional certifications."
+        },
+        {
+            "question": "What is the free plan’s limitation on Flashka?",
+            "answer": "The free plan offers up to 50 AI interactions per day, with additional interactions available via a paid subscription."
+        },
+        {
+            "question": "Can Flashka be used for visual subjects like anatomy?",
+            "answer": "Flashka’s image occlusion feature allows users to create flashcards from images, perfect for visual subjects like anatomy."
+        },
+        {
+            "question": "Does Flashka support multiple languages?",
+            "answer": "Yes, Flashka supports 20 languages, making it accessible to students worldwide."
+        },
+        {
+            "question": "How does the AI tutor work on Flashka?",
+            "answer": "The AI tutor analyzes uploaded materials to provide explanations and answer questions, offering personalized study support."
+        },
+        {
+            "question": "Can I share my flashcards with others?",
+            "answer": "Flashka allows users to share flashcards and quizzes with classmates or study groups to enhance collaborative learning."
+        },
+        {
+            "question": "Is Flashka’s content reliable for studying?",
+            "answer": "Flashka’s innovative UI ensures trustability by allowing users to verify and edit AI-generated flashcards and quizzes."
+        },
+        {
+            "question": "What types of files can I upload to Flashka?",
+            "answer": "Flashka primarily supports PDF uploads, which are processed to generate flashcards, quizzes, and explanations."
+        }
+    ]
+}

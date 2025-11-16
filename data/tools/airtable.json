@@ -1,0 +1,75 @@
+{
+    "name": "Airtable",
+    "description": "Airtable is an AI-native platform for building custom enterprise-grade applications, interfaces, automations, and agents from data without coding.",
+    "longDescription": "Airtable is a versatile platform that combines the simplicity of a spreadsheet with the power of a database, enabling users to organize and manage data collaboratively. Its mission is to empower teams to build custom apps and workflows using AI to accelerate business operations and achieve higher productivity. The platform solves problems related to data silos, inefficient workflows, and the need for custom software by providing no-code tools that integrate AI for intelligent automation and insights. It serves a wide range of users, from small teams to large enterprises, by offering scalable solutions for data management, app building, and AI-driven decision-making. With features like AI model integrations, Airtable helps users embed intelligence into their processes, making it easier to handle large datasets and complex operations.",
+    "url": "https://airtable.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/airtable.com.webp",
+    "category": "AI App Builder",
+    "categorySlug": "ai-app-builder",
+    "slug": "airtable",
+    "categories": [
+        "AI App Builder",
+        "AI Workflow",
+        "AI Summarizer",
+        "AI Agent",
+        "No-Code&Low-Code",
+        "AI Tools Directory",
+        "AI Text Classifier",
+        "AI Models"
+    ],
+    "features": [
+        "AI-Native App Building allows users to create custom applications, interfaces, automations, and agents using AI without any coding required, accelerating development.",
+        "No-Code Components provide intuitive tools for building apps, enabling non-technical users to design sophisticated solutions quickly and efficiently.",
+        "Scalable Infrastructure supports HyperDB with millions of records and workflows for thousands of users, ensuring performance at enterprise levels.",
+        "AI Model Integration connects with leading providers like OpenAI, Gemini, Llama, and Anthropic to enhance data processing and automation capabilities.",
+        "Flexible Administration offers robust permissions, role-based access control, and integration with identity providers for secure user management.",
+        "Security and Compliance features include ISO, HIPAA, SOC 2 standards, data loss prevention, and no customer data used for AI training, protecting sensitive information.",
+        "Data Residency Options provide European and Australian hosting to meet regional regulatory requirements and ensure compliance.",
+        "Conversational Building enables app creation through natural language interfaces, streamlining the process for rapid prototyping and deployment.",
+        "Workflow Automation uses AI agents to orchestrate actions across operations, dynamically handling thousands of records for efficient processes.",
+        "App Gallery and Templates offer pre-built use cases for scenarios like CRM, event management, and planning, helping users get started quickly.",
+        "AI Credits System provides usage-based access to AI features, with free credits included in all plans for summarization and categorization tasks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Airtable used for?",
+            "answer": "Airtable is used for building AI-powered applications, managing data like a flexible database, and automating workflows to improve team productivity and operations."
+        },
+        {
+            "question": "Does Airtable offer a free plan?",
+            "answer": "Yes, Airtable has a free plan that includes core features like data organization, basic automations, and limited AI credits for users to get started."
+        },
+        {
+            "question": "Do I need coding skills to use Airtable?",
+            "answer": "No, Airtable's no-code platform allows users to build apps and automations through intuitive interfaces and AI assistance without any programming knowledge."
+        },
+        {
+            "question": "What AI features does Airtable provide?",
+            "answer": "Airtable integrates AI for data summarization, categorization, automation, and app building, supporting models from OpenAI, Gemini, and others to embed intelligence in workflows."
+        },
+        {
+            "question": "Is Airtable secure for enterprise use?",
+            "answer": "Yes, it complies with standards like ISO, HIPAA, and SOC 2, offers data encryption, access controls, and does not use customer data to train AI models."
+        },
+        {
+            "question": "Can Airtable handle large amounts of data?",
+            "answer": "Absolutely, with HyperDB supporting hundreds of millions of records and scalable workflows for tens of thousands of users, it's designed for enterprise-scale operations."
+        },
+        {
+            "question": "How does Airtable integrate with other tools?",
+            "answer": "Airtable connects with numerous apps via APIs, automations, and integrations, allowing seamless data flow with tools like Slack, Google Workspace, and Salesforce."
+        },
+        {
+            "question": "What are AI credits in Airtable?",
+            "answer": "AI credits are used for AI-powered tasks like summarization; the free plan offers 500 credits per editor monthly, with paid plans providing more."
+        },
+        {
+            "question": "Does Airtable support data residency?",
+            "answer": "Yes, it offers data residency in Europe and Australia to comply with regional data protection regulations."
+        },
+        {
+            "question": "How can I get started with Airtable?",
+            "answer": "Sign up for a free account, explore templates in the app gallery, and use the conversational builder to create your first base or app."
+        }
+    ]
+}

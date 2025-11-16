@@ -1,0 +1,72 @@
+{
+    "name": "Final Round AI",
+    "description": "Final Round AI provides AI-powered tools to help job seekers excel in interviews and land their dream jobs.",
+    "longDescription": "Final Round AI is an AI-driven platform designed to assist job candidates in navigating the job search and interview process with confidence. Founded in 2023 by Michael Guan and Jay Ma, it offers a suite of tools including real-time interview coaching, resume optimization, and mock interviews tailored to specific roles and industries. The platform's flagship feature, Interview Copilot, provides live, bullet-pointed guidance during interviews to help candidates respond effectively. By leveraging AI, Final Round AI aims to reduce interview anxiety, enhance preparation, and improve performance across various industries, from tech to finance. The platform supports over 90 languages, making it accessible to a global audience. Its mission is to empower job seekers with personalized, actionable insights to stand out in competitive job markets.",
+    "url": "https://www.finalroundai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.finalroundai.com.webp",
+    "category": "AI Coaching",
+    "categorySlug": "ai-coaching",
+    "slug": "final-round-ai",
+    "categories": [
+        "AI Coaching",
+        "Resume AI",
+        "AI Code Assistant",
+        "AI Translate",
+        "AI Recruiting",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Interview Copilot provides real-time transcription and tailored response suggestions during interviews, boosting candidate confidence and clarity.",
+        "AI-driven mock interviews simulate real-world scenarios from top companies, offering instant feedback to improve skills.",
+        "The ATS-friendly Resume Builder optimizes resumes to pass applicant tracking systems, increasing job application success rates.",
+        "The Cover Letter Generator creates tailored cover letters based on job descriptions, saving time and enhancing applications.",
+        "Interview Q&A Flashcards provide role-specific questions to help candidates prepare thoroughly for interviews.",
+        "Coding Copilot assists with technical interviews by offering real-time coding guidance, ideal for software engineering roles.",
+        "Post-interview analytics deliver detailed performance reports, highlighting strengths and areas for improvement.",
+        "Multi-language support in 91 languages ensures accessibility for global job seekers, regardless of location or language.",
+        "Seamless integration with video platforms like Zoom and Google Meet enables real-time assistance during virtual interviews.",
+        "Industry-specific question sets prepare candidates for roles in over 100 industries, including marketing, consulting, and healthcare."
+    ],
+    "faqs": [
+        {
+            "question": "What is Final Round AI?",
+            "answer": "Final Round AI is an AI-powered platform that provides tools like Interview Copilot, resume builders, and mock interviews to help job seekers excel in interviews and land jobs."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Final Round AI offers free access to features like potential interview questions, a basic AI Career Coach, and an ATS-friendly resume builder in beta mode."
+        },
+        {
+            "question": "How does Interview Copilot work?",
+            "answer": "Interview Copilot transcribes interview questions in real-time and provides bullet-pointed response suggestions, acting like a teleprompter to guide candidates during interviews."
+        },
+        {
+            "question": "Can Final Round AI help with technical interviews?",
+            "answer": "Yes, the Coding Copilot feature provides real-time guidance for coding interviews, but it’s only available in paid plans."
+        },
+        {
+            "question": "Does the platform support non-English interviews?",
+            "answer": "Yes, Final Round AI supports interviews in 91 languages, making it suitable for global job seekers."
+        },
+        {
+            "question": "How does the resume builder work?",
+            "answer": "The ATS-friendly Resume Builder analyzes job descriptions and optimizes resumes to pass applicant tracking systems, improving application success."
+        },
+        {
+            "question": "What industries does Final Round AI cover?",
+            "answer": "The platform supports over 100 industries, including marketing, consulting, healthcare, finance, and software, with tailored questions and scenarios."
+        },
+        {
+            "question": "Is the platform easy to use during live interviews?",
+            "answer": "The platform is designed for stealth use in virtual interviews, but some users report integration issues with certain video platforms like Webex."
+        },
+        {
+            "question": "Can I get a refund if I’m not satisfied?",
+            "answer": "Final Round AI’s refund policy is strict, and users have reported difficulties obtaining refunds even after unsubscribing."
+        },
+        {
+            "question": "How does the platform provide feedback?",
+            "answer": "Post-interview analytics provide detailed reports on clarity, confidence, and relevance, with scores and suggestions for improvement."
+        }
+    ]
+}

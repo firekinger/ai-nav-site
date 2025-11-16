@@ -1,0 +1,71 @@
+{
+    "name": "Compozy",
+    "description": "Compozy is a next-level agentic orchestration platform designed to orchestrate multi-agent AI systems with ease, focusing on delivering scalable, reliable, and cost-efficient distributed workflows for enterprise-grade automation.",
+    "longDescription": "Compozy is an advanced platform that enables users to design, deploy, and manage multi-agent AI systems using declarative YAML configurations, simplifying complex automation processes. Its mission is to provide scalable and reliable AI workflows for enterprises, addressing challenges such as debugging, monitoring, and handling untrusted data in production environments. By integrating technologies like Temporal for fault-tolerant execution and Go for high performance, Compozy offers full infrastructure control and surpasses basic frameworks in enterprise readiness. The platform serves developers, teams, and businesses by facilitating the creation of context-aware AI applications with features like memory management and tool integration. Ultimately, it solves problems related to AI orchestration, making it easier to build cost-efficient, secure, and automated solutions for various industries.",
+    "url": "https://compozy.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/compozy.com.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "compozy",
+    "categories": [
+        "AI Agent",
+        "AI Workflow",
+        "AI Task Management",
+        "Large Language Models (LLMs)",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Workflow Management allows designing AI workflows using YAML templates with dynamic variables, directives, and Sprig functions, powered by Temporal for durable execution and reliability.",
+        "Simple Agent Definition enables creating agents with LLM integration, tool support, memory management, and structured outputs, providing enterprise-level capabilities beyond basic frameworks.",
+        "Powerful Task System supports executing diverse tasks including basic, parallel, collection, router, signals, and waits with error handling and concurrency via Go.",
+        "Agnostic Runtime for Tools permits executing custom JavaScript/TypeScript code within tasks and agents using a secure Bun runtime with granular permissions.",
+        "MCP Integration facilitates discovering and executing external tools via Model Context Protocol servers through a secure proxy for seamless system integration.",
+        "Signal-Based Events implement event-driven architectures with signal tasks, wait tasks, and triggers for decoupled and efficient workflow coordination.",
+        "Scheduled Workflows enable creating automated, recurring AI tasks and batch processing powered by Temporal's scheduling features.",
+        "Memory Management provides storage and retrieval of conversation history with configurable backends, flush strategies, and privacy controls for context-aware AI.",
+        "Reliability is ensured through Temporal, a proven workflow engine trusted by Fortune 500 companies, offering fault-tolerant AI workflows.",
+        "Security is enhanced with Go-based design, delivering secure and scalable AI workflows with greater developer control than no-code alternatives."
+    ],
+    "faqs": [
+        {
+            "question": "What is Compozy used for?",
+            "answer": "Compozy is used for orchestrating multi-agent AI systems and managing complex workflows in a scalable and reliable manner. It helps enterprises automate AI processes using declarative YAML configurations."
+        },
+        {
+            "question": "Is Compozy free to use?",
+            "answer": "Yes, Compozy offers a free open-source version that includes full-featured workflow orchestration for self-hosted deployment. Paid options like Cloud and Enterprise are available for advanced features and support."
+        },
+        {
+            "question": "How do I get started with Compozy?",
+            "answer": "To get started, visit the documentation at https://compozy.com/docs/core/getting-started/installation for installation instructions. You can self-host the open-source version and begin defining workflows using YAML."
+        },
+        {
+            "question": "What technologies does Compozy use?",
+            "answer": "Compozy is built with Go for performance and Temporal for reliable workflow execution. It also supports LLM integrations, JavaScript/TypeScript tools via Bun, and MCP for external tool discovery."
+        },
+        {
+            "question": "Does Compozy support multi-agent systems?",
+            "answer": "Yes, Compozy specializes in multi-agent AI orchestration, allowing users to define agents with LLM support, memory management, and task execution for complex interactions."
+        },
+        {
+            "question": "Is Compozy suitable for enterprise use?",
+            "answer": "Absolutely, Compozy is designed for enterprise-grade automation with features like fault-tolerant workflows, security controls, and custom integrations. Enterprise plans offer dedicated support and on-premise options."
+        },
+        {
+            "question": "What kind of tasks can I perform with Compozy?",
+            "answer": "You can execute a variety of tasks including parallel processing, routing, signals, waits, and collections. It supports error handling and concurrency for efficient AI workflow management."
+        },
+        {
+            "question": "Does Compozy integrate with external tools?",
+            "answer": "Yes, through MCP integration, Compozy can discover and execute tools from external servers via a secure proxy. It also allows custom JS/TS code execution."
+        },
+        {
+            "question": "How does Compozy handle memory and context?",
+            "answer": "Compozy provides memory management with configurable backends to store and retrieve conversation history. It includes flush strategies and privacy controls for context-aware applications."
+        },
+        {
+            "question": "When will the Cloud version be available?",
+            "answer": "The Cloud version is coming soon and will include managed infrastructure, scaling, and enhanced monitoring. Check the website for updates on its release."
+        }
+    ]
+}

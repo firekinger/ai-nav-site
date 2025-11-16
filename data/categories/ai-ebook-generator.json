@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Ebook Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Ebook Generator category, designed to streamline the ebook creation process. These innovative tools empower users to effortlessly transform ideas into polished digital books, saving time and enhancing productivity. Whether you're an author, educator, or marketer, our AI solutions offer customizable templates, content suggestions, and formatting assistance to meet your unique needs. Explore our curated selection of AI Ebook Generators today and elevate your writing journey with cutting-edge technology that simplifies the publishing process. Start creating your next bestseller now!",
+    "tools": [
+        {
+            "id": "695",
+            "name": "Enso Connect",
+            "slug": "enso-connect",
+            "description": "Enso Connect is a digital guest experience platform for vacation rentals and hotels, offering AI-powered communication, automation, and personalized upsells.",
+            "icon": "/logo/ensoconnect.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        },
+        {
+            "id": "697",
+            "name": "Wondercraft",
+            "slug": "wondercraft-ai",
+            "description": "Wondercraft is an AI-powered platform for creating studio-quality podcasts, audiobooks, and ads effortlessly.",
+            "icon": "/logo/www.wondercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "TTSOpenAI",
+            "slug": "ttsopenai",
+            "description": "TTSOpenAI provides advanced AI-powered text-to-speech services to convert text into natural-sounding audio for various applications.",
+            "icon": "/logo/ttsopenai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        },
+        {
+            "id": "903",
+            "name": "EbookMaker.ai",
+            "slug": "ebookmaker-ai",
+            "description": "EbookMaker.ai is an AI-powered platform that simplifies ebook creation by generating content, covers, and layouts from user prompts.",
+            "icon": "/logo/ebookmaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        },
+        {
+            "id": "1400",
+            "name": "Biography Studio AI",
+            "slug": "biography-studio-ai",
+            "description": "Biography Studio AI is an AI-powered platform that transforms spoken personal life stories into professionally written books, audiobooks, or podcasts.",
+            "icon": "/logo/www.biographystudio.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        },
+        {
+            "id": "1307",
+            "name": "Workbookly",
+            "slug": "workbookly",
+            "description": "Workbookly is an AI-powered platform for creating, managing, and customizing digital workbooks for education, productivity, and professional development.",
+            "icon": "/logo/workbookly.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-ebook-generator"
+            ]
+        }
+    ]
+}

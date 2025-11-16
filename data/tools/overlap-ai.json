@@ -1,0 +1,73 @@
+{
+    "name": "Overlap",
+    "description": "Overlap is an AI-powered platform that automates video clipping and social media posting, offering tools for creators and companies to manage and enhance their content workflows.",
+    "longDescription": "Overlap is a platform designed to streamline video content creation and social media management using AI technology, focusing on transforming long-form videos into shareable clips. Its mission is to provide end-to-end automation for content creators and companies, enabling them to scale their short-form content and dominate social feeds efficiently. The platform serves users by offering customizable AI agents that edit videos in specific styles, integrate with social media and cloud storage like Google Drive and Dropbox, and automate posting schedules. It aims to enhance productivity and engagement by automating tasks such as clipping, reframing, and cross-posting, catering to solo creators and global brands alike.",
+    "url": "https://overlap.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/overlap.ai.webp",
+    "category": "Long Video To Short Video AI",
+    "categorySlug": "long-video-to-short-video-ai",
+    "slug": "overlap-ai",
+    "categories": [
+        "Long Video To Short Video AI",
+        "AI Writing",
+        "AI Social Media",
+        "AI Workflow",
+        "AI Project Management",
+        "AI Scheduling",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "Automatically detects new videos from connected platforms like YouTube, Drive, or Dropbox and turns them into shareable clips.",
+        "Allows users to build tailored AI agents that edit videos in specific styles and follow custom workflows.",
+        "Enables team collaboration by managing multiple brands and scaling marketing efforts with AI assistance.",
+        "Transforms long-form podcasts, broadcasts, or streams into high-quality clips in minutes using end-to-end automation.",
+        "Scans videos to surface the best moments based on user prompts, creating context-aware clips without manual scrubbing.",
+        "Automatically reframes videos to vertical format, keeping faces and key visuals centered for social media sharing.",
+        "Offers a video editor for customizing color-grading, watermarks, outro music, and subtitles to align with brand identity.",
+        "Facilitates direct posting by connecting with favorite social media platforms and video hosting services for optimized workflows.",
+        "Generates AI-powered posts and personas for brand-aligned social media content, automating the posting process.",
+        "Optimizes post timing, distribution, and engagement windows, allowing users to plan weeks of content in minutes."
+    ],
+    "faqs": [
+        {
+            "question": "Do I retain ownership of my content?",
+            "answer": "Absolutely, you maintain full ownership and control over all content you produce, with Overlap providing AI tools for management and editing."
+        },
+        {
+            "question": "How quickly can I get started with Overlap?",
+            "answer": "Implementation is straightforward, with the sales team offering step-by-step onboarding and integration support, often within a few days."
+        },
+        {
+            "question": "Where can I learn more or request a demo?",
+            "answer": "Schedule a demo or reach out to the support team to see Overlap in action or learn about customizing a solution for your needs."
+        },
+        {
+            "question": "What platforms can I connect with Overlap?",
+            "answer": "You can connect with social media, Google Drive, Dropbox, YouTube, and other video hosting services for integration."
+        },
+        {
+            "question": "Can I customize how my videos are edited?",
+            "answer": "Yes, you can build agents tailored to your needs, including specific editing styles and custom workflows."
+        },
+        {
+            "question": "Does Overlap support team collaboration?",
+            "answer": "Yes, it allows your whole team to collaborate, manage multiple brands, and scale marketing efforts."
+        },
+        {
+            "question": "How does Overlap handle video clipping?",
+            "answer": "It uses AI to detect new uploads, find the best moments, and create ready-to-share clips automatically."
+        },
+        {
+            "question": "Can Overlap optimize my social media posting schedule?",
+            "answer": "Yes, it optimizes post timing, distribution, and engagement windows for planned content."
+        },
+        {
+            "question": "What types of content can Overlap process?",
+            "answer": "It can transform long-form podcasts, broadcasts, streams, and other videos into short clips."
+        },
+        {
+            "question": "Is there support for vertical video formats?",
+            "answer": "Yes, it automatically reframes videos to vertical format, keeping key visuals intact for social media."
+        }
+    ]
+}

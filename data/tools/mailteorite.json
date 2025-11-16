@@ -1,0 +1,64 @@
+{
+    "name": "Mailteorite",
+    "description": "Mailteorite is an AI-powered platform designed for efficient email management and automation, helping users streamline communication workflows.",
+    "longDescription": "Mailteorite is an innovative AI-driven tool that specializes in email automation and management, allowing users to handle large volumes of emails with ease. Its mission is to reduce the time spent on repetitive email tasks by leveraging artificial intelligence to sort, respond, and organize messages intelligently. The platform serves professionals, businesses, and individuals by solving common problems like email overload, missed responses, and inefficient communication. By integrating with popular email services, it provides personalized suggestions and automations tailored to user behavior. Overall, Mailteorite aims to enhance productivity in daily digital interactions through smart, AI-enhanced features.",
+    "url": "https://mailteorite.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mailteorite.com.webp",
+    "category": "AI Email Marketing",
+    "categorySlug": "ai-email-marketing",
+    "slug": "mailteorite",
+    "categories": [
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "AI Productivity Tools",
+        "AI Text Classifier",
+        "AI Email Writer",
+        "AI Assistant",
+        "AI Workflow"
+    ],
+    "features": [
+        "AI-powered email sorting automatically categorizes incoming messages based on content and sender, saving users time on manual organization.",
+        "Automated response generation creates draft replies using natural language processing, ensuring quick and relevant communication.",
+        "Integration with major email providers like Gmail and Outlook allows seamless syncing and management across platforms.",
+        "Customizable automation rules enable users to set up workflows for tasks such as archiving, labeling, or forwarding emails based on specific criteria.",
+        "Analytics dashboard provides insights into email habits, response times, and productivity metrics to help users optimize their communication.",
+        "Spam detection enhanced by AI identifies and filters unwanted emails more accurately than traditional methods.",
+        "Template library offers pre-built, AI-optimized email templates for common scenarios like marketing or customer support.",
+        "Voice-to-email conversion transcribes spoken notes into formatted emails, ideal for on-the-go users."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mailteorite primarily used for?",
+            "answer": "Mailteorite is used for automating and managing email tasks with AI, helping users handle inbox overload efficiently."
+        },
+        {
+            "question": "Does Mailteorite offer a free plan?",
+            "answer": "Yes, Mailteorite provides a free tier with basic features like email sorting and limited automations, while premium plans unlock advanced capabilities."
+        },
+        {
+            "question": "How does the AI in Mailteorite work?",
+            "answer": "The AI analyzes email content, user patterns, and preferences to suggest actions, generate responses, and predict needs, improving over time with usage."
+        },
+        {
+            "question": "Can Mailteorite integrate with my existing email service?",
+            "answer": "Yes, it supports integration with popular services like Gmail, Outlook, and others, allowing you to manage everything from one platform."
+        },
+        {
+            "question": "Is my data secure with Mailteorite?",
+            "answer": "Mailteorite uses encryption and complies with data protection standards to ensure your emails and personal information remain secure and private."
+        },
+        {
+            "question": "What makes Mailteorite different from other email tools?",
+            "answer": "Unlike basic email clients, Mailteorite leverages advanced AI for predictive automation and insights, making it more proactive in managing communications."
+        },
+        {
+            "question": "How do I get started with Mailteorite?",
+            "answer": "Simply sign up on the website, connect your email account, and follow the onboarding tutorial to set up your first automations."
+        },
+        {
+            "question": "Does Mailteorite support team collaboration?",
+            "answer": "Yes, premium plans include team features for shared inboxes and collaborative response handling."
+        }
+    ]
+}

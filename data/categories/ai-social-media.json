@@ -1,0 +1,1909 @@
+{
+    "title": "The Best 173 AI Social Media Tools in 2025",
+    "summary": "Unlock the power of AI Social Media tools to elevate your online presence and streamline your content strategy. These innovative solutions help you automate posts, analyze engagement, and create compelling visuals, saving you time and enhancing your brand's reach. Whether you're a marketer, business owner, or influencer, our curated selection of AI tools is designed to meet your unique needs and drive results. Explore our AI Social Media category today and discover how these cutting-edge tools can transform your social media strategy!",
+    "tools": [
+        {
+            "id": "7",
+            "name": "Janitor AI",
+            "slug": "janitor-ai",
+            "description": "Janitor AI is a platform for creating and interacting with customizable AI chatbots for creative storytelling and role-playing.",
+            "icon": "/logo/janitorai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "CapCut",
+            "slug": "capcut",
+            "description": "CapCut is an AI-powered platform for easy video editing and graphic design across multiple devices.",
+            "icon": "/logo/capcut.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "46",
+            "name": "PhotoRoom",
+            "slug": "photoroom",
+            "description": "PhotoRoom is an AI-powered photo editing platform that simplifies creating professional-quality images for businesses and individuals.",
+            "icon": "/logo/photoroom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "Pixelcut",
+            "slug": "pixelcut",
+            "description": "Pixelcut is an AI-powered photo editor designed to simplify and enhance image creation for e-commerce, social media, and personal projects.",
+            "icon": "/logo/pixelcut.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "32",
+            "name": "Civitai",
+            "slug": "civitai",
+            "description": "Civitai is a platform for sharing, creating, and exploring AI-generated media, specializing in open-source generative AI models.",
+            "icon": "/logo/civitai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "49",
+            "name": "Midjourney",
+            "slug": "midjourney",
+            "description": "Midjourney is an AI-powered platform for generating stunning images from text prompts.",
+            "icon": "/logo/midjourney.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "34",
+            "name": "Fotor",
+            "slug": "fotor",
+            "description": "Fotor is an all-in-one online photo editing and graphic design platform that empowers users to create stunning visuals with AI-powered tools and templates.",
+            "icon": "/logo/fotor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Mailchimp",
+            "slug": "mailchimp",
+            "description": "Mailchimp is an all-in-one marketing platform specializing in email marketing, automation, and analytics to help businesses engage customers and drive growth.",
+            "icon": "/logo/mailchimp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "47",
+            "name": "Pixlr",
+            "slug": "pixlr",
+            "description": "Pixlr is an AI-powered online photo editing and design platform for creating stunning visuals.",
+            "icon": "/logo/pixlr.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Meta AI",
+            "slug": "meta-ai",
+            "description": "Meta AI provides an AI-powered assistant for personalized answers, image generation, and seamless integration across Meta platforms.",
+            "icon": "/logo/meta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "VEED.IO",
+            "slug": "veed-io",
+            "description": "VEED.IO is an AI-powered online video editing platform that simplifies the creation and enhancement of professional-quality videos for creators and businesses.",
+            "icon": "/logo/veed.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "70",
+            "name": "PixAI",
+            "slug": "pixai",
+            "description": "PixAI is an AI-powered platform for creating high-quality anime-style artwork and characters effortlessly.",
+            "icon": "/logo/pixai.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "InVideo",
+            "slug": "invideo",
+            "description": "InVideo is an AI-powered video creation platform that simplifies professional-quality video production for users of all skill levels.",
+            "icon": "/logo/invideo.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "136",
+            "name": "Uhmegle",
+            "slug": "uhmegle",
+            "description": "Uhmegle is a free, anonymous video and text chat platform connecting users worldwide with strangers for spontaneous conversations.",
+            "icon": "/logo/uhmegle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "93",
+            "name": "OpenArt",
+            "slug": "openart",
+            "description": "OpenArt is an AI-powered platform for creating and sharing stunning digital art and images.",
+            "icon": "/logo/openart.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "87",
+            "name": "Tensor.Art",
+            "slug": "tensor-art",
+            "description": "Tensor.Art is an AI-powered platform for generating and hosting high-quality images using advanced models like Stable Diffusion and LoRA.",
+            "icon": "/logo/tensor.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "84",
+            "name": "Chichi-pui",
+            "slug": "chichi-pui",
+            "description": "Chichi-pui is a Japanese platform for creating and sharing AI-generated illustrations, photos, and gravure images, fostering a vibrant community of AI art enthusiasts.",
+            "icon": "/logo/chichi-pui.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "82",
+            "name": "PicWish",
+            "slug": "picwish",
+            "description": "PicWish is an AI-powered photo editing platform for effortless background removal, image enhancement, and professional-grade edits.",
+            "icon": "/logo/picwish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Microsoft Designer",
+            "slug": "microsoft-designer",
+            "description": "Microsoft Designer is an AI-powered graphic design app for creating professional-quality social media posts, invitations, and graphics.",
+            "icon": "/logo/designer.microsoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "153",
+            "name": "Opus Pro",
+            "slug": "opus-pro",
+            "description": "Opus Pro is an AI-powered video editing platform designed to streamline content creation for creators and businesses.",
+            "icon": "/logo/www.opus.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "91",
+            "name": "Media.io",
+            "slug": "media-io",
+            "description": "Media.io is an online platform offering AI-powered tools for editing, converting, and enhancing audio, video, and image files directly in the browser.",
+            "icon": "/logo/media.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "160",
+            "name": "Glasp",
+            "slug": "glasp",
+            "description": "Glasp is a social web highlighter that enables users to capture, organize, and share highlights and notes from web pages and PDFs.",
+            "icon": "/logo/glasp.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "GPTGirlfriend",
+            "slug": "gptgirlfriend",
+            "description": "GPTGirlfriend provides AI-powered virtual companionship through engaging and realistic conversations.",
+            "icon": "/logo/gptgirlfriend.online.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "164",
+            "name": "GoBranded",
+            "slug": "gobranded",
+            "description": "GoBranded provides AI-powered branding and marketing solutions to help businesses create and manage their brand identity.",
+            "icon": "/logo/gobranded.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "169",
+            "name": "PicLumen",
+            "slug": "piclumen",
+            "description": "PicLumen is an AI-powered platform for generating and editing high-quality images for creative and professional use.",
+            "icon": "/logo/www.piclumen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "171",
+            "name": "NightCafe",
+            "slug": "nightcafe",
+            "description": "NightCafe is an AI-powered platform for creating and sharing stunning digital art and images.",
+            "icon": "/logo/creator.nightcafe.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "182",
+            "name": "The StoryGraph",
+            "slug": "the-storygraph",
+            "description": "The StoryGraph is a platform for tracking reading, discovering books, and connecting with a community of book lovers.",
+            "icon": "/logo/thestorygraph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Zeemo",
+            "slug": "zeemo",
+            "description": "Zeemo is an AI-powered platform that simplifies video captioning and translation for content creators and businesses.",
+            "icon": "/logo/zeemo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FlowGPT",
+            "slug": "flowgpt",
+            "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+            "icon": "/logo/flowgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "BeFunky",
+            "slug": "befunky",
+            "description": "BeFunky is an online platform offering intuitive photo editing, graphic design, and collage-making tools for users of all skill levels.",
+            "icon": "/logo/www.befunky.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "200",
+            "name": "Artguru",
+            "slug": "artguru",
+            "description": "Artguru is an AI-powered platform for creating and editing stunning digital art and images.",
+            "icon": "/logo/www.artguru.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "Kittl",
+            "slug": "kittl",
+            "description": "Kittl is an AI-powered design platform for creating professional-grade graphics and branding materials.",
+            "icon": "/logo/www.kittl.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "216",
+            "name": "Looka",
+            "slug": "looka",
+            "description": "Looka is an AI-powered platform for designing logos and building brand identities.",
+            "icon": "/logo/looka.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "239",
+            "name": "Yodayo",
+            "slug": "yodayo",
+            "description": "Yodayo is an AI-powered creative platform for anime fans to generate art, interact with AI characters, and engage in a vibrant community.",
+            "icon": "/logo/yodayo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "286",
+            "name": "Bark",
+            "slug": "bark",
+            "description": "Bark is a parental control platform that monitors children's online activity to ensure their safety.",
+            "icon": "/logo/www.bark.us.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "290",
+            "name": "Piktochart",
+            "slug": "piktochart",
+            "description": "Piktochart is an online platform for creating stunning infographics, presentations, reports, and videos with AI-powered tools and templates.",
+            "icon": "/logo/piktochart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "312",
+            "name": "Creatify",
+            "slug": "creatify",
+            "description": "Creatify is an AI-powered platform that automates the creation of engaging video advertisements from product links or descriptions.",
+            "icon": "/logo/creatify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "323",
+            "name": "Live3D",
+            "slug": "live3d",
+            "description": "Live3D is a comprehensive VTuber software suite for creating and animating virtual avatars for streaming and content creation.",
+            "icon": "/logo/live3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "330",
+            "name": "Revid AI",
+            "slug": "revid-ai",
+            "description": "Revid AI is an AI-powered platform for creating viral short videos for social media platforms like TikTok, Instagram, and YouTube.",
+            "icon": "/logo/www.revid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "340",
+            "name": "Nomi.ai",
+            "slug": "nomi-ai",
+            "description": "Nomi.ai offers personalized AI companions for meaningful conversations and relationships.",
+            "icon": "/logo/nomi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "345",
+            "name": "Vexels",
+            "slug": "vexels",
+            "description": "Vexels is a design platform offering high-quality graphic resources and tools for creating print-on-demand merchandise and professional designs.",
+            "icon": "/logo/www.vexels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "355",
+            "name": "Photofeeler",
+            "slug": "photofeeler",
+            "description": "Photofeeler provides anonymous feedback to optimize profile photos for business, social, and dating purposes.",
+            "icon": "/logo/www.photofeeler.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Wsup.ai",
+            "slug": "wsup-ai",
+            "description": "Wsup.ai is a free platform for engaging in uncensored conversations and roleplay with customizable AI characters.",
+            "icon": "/logo/wsup.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "360",
+            "name": "HiWaifu",
+            "slug": "hiwaifu",
+            "description": "HiWaifu is an AI-powered platform offering customizable virtual companions for chat, roleplay, and personal growth.",
+            "icon": "/logo/www.hiwaifu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "362",
+            "name": "AI Novel",
+            "slug": "ai-novel",
+            "description": "AI Novel is a platform for creating, sharing, and exploring AI-generated novels and web stories.",
+            "icon": "/logo/ai-novel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "364",
+            "name": "LogoAI",
+            "slug": "logoai",
+            "description": "LogoAI is an AI-powered platform that enables businesses to create professional logos and cohesive brand identities effortlessly.",
+            "icon": "/logo/www.logoai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Simplified",
+            "slug": "simplified",
+            "description": "Simplified is an AI-powered platform for creating, editing, and managing content across design, video, and social media.",
+            "icon": "/logo/simplified.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "382",
+            "name": "Artbreeder",
+            "slug": "artbreeder",
+            "description": "Artbreeder is an AI-powered platform for creating and remixing unique images, characters, and artwork through generative AI tools.",
+            "icon": "/logo/www.artbreeder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "386",
+            "name": "HypeAuditor",
+            "slug": "hypeauditor",
+            "description": "HypeAuditor is an AI-powered influencer marketing platform that helps brands and agencies discover, analyze, and manage influencer campaigns across major social media platforms.",
+            "icon": "/logo/hypeauditor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "395",
+            "name": "Flick",
+            "slug": "flick",
+            "description": "Flick is an AI-powered social media marketing platform designed to help creators, brands, and marketers grow and manage their social media presence.",
+            "icon": "/logo/www.flick.social.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "396",
+            "name": "Dzine",
+            "slug": "dzine",
+            "description": "Dzine is an AI-powered platform for intuitive image generation and editing, designed for creators of all skill levels.",
+            "icon": "/logo/www.dzine.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "397",
+            "name": "Easy With AI",
+            "slug": "easy-with-ai",
+            "description": "Easy With AI is a comprehensive directory of AI tools and resources to help users discover and utilize AI solutions across various industries.",
+            "icon": "/logo/easywithai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "412",
+            "name": "Vivago AI",
+            "slug": "vivago-ai",
+            "description": "Vivago AI is a free AI-powered platform for creating high-quality images, videos, and 3D models from text or image prompts.",
+            "icon": "/logo/vivago.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "415",
+            "name": "Mage",
+            "slug": "mage",
+            "description": "Mage is an AI-powered platform for generating high-quality images and videos from text prompts using Stable Diffusion models.",
+            "icon": "/logo/www.mage.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "420",
+            "name": "Deep Dream Generator",
+            "slug": "deep-dream-generator",
+            "description": "Deep Dream Generator is an AI-powered platform for creating stunning images and videos from text prompts or uploaded images.",
+            "icon": "/logo/deepdreamgenerator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "431",
+            "name": "Human or Not",
+            "slug": "human-or-not-ai",
+            "description": "Human or Not is a social Turing game where users chat for two minutes to determine if their partner is a human or an AI bot.",
+            "icon": "/logo/www.humanornot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "436",
+            "name": "Taplio",
+            "slug": "taplio",
+            "description": "Taplio is an AI-powered tool designed to enhance LinkedIn presence through content creation, scheduling, and analytics.",
+            "icon": "/logo/taplio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "440",
+            "name": "PhantomBuster",
+            "slug": "phantombuster",
+            "description": "PhantomBuster is a cloud-based automation platform for data extraction and lead generation across social media and web platforms.",
+            "icon": "/logo/phantombuster.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "444",
+            "name": "Mango Animate",
+            "slug": "mango-animate",
+            "description": "Mango Animate provides user-friendly software for creating professional animated videos, whiteboard animations, and AI-driven video content.",
+            "icon": "/logo/mangoanimate.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "456",
+            "name": "Brandmark",
+            "slug": "brandmark",
+            "description": "Brandmark is an AI-powered logo maker that creates professional logos and branding assets for businesses.",
+            "icon": "/logo/brandmark.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "460",
+            "name": "Rubii AI",
+            "slug": "rubii-ai",
+            "description": "Rubii AI is an interactive platform for creating and engaging with AI-driven virtual characters for roleplay, storytelling, and companionship.",
+            "icon": "/logo/rubii.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "Hotpot.ai",
+            "slug": "hotpot-ai",
+            "description": "Hotpot.ai is an AI-powered platform for creating and enhancing images, graphics, and written content to boost creativity and productivity.",
+            "icon": "/logo/hotpot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "464",
+            "name": "Ssemble",
+            "slug": "ssemble",
+            "description": "Ssemble is an AI-powered online video editor that transforms long-form videos into engaging short-form content for social media platforms.",
+            "icon": "/logo/www.ssemble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "467",
+            "name": "Futurepedia",
+            "slug": "futurepedia",
+            "description": "Futurepedia is a comprehensive directory of AI tools designed to help professionals and enthusiasts discover and leverage AI technologies for various applications.",
+            "icon": "/logo/www.futurepedia.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "469",
+            "name": "Designs.ai",
+            "slug": "designs-ai",
+            "description": "Designs.ai is an AI-powered platform for creating logos, images, videos, and other marketing assets effortlessly.",
+            "icon": "/logo/designs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "479",
+            "name": "Sintra",
+            "slug": "sintra-ai",
+            "description": "Sintra.ai provides AI-powered virtual employees to automate business tasks and enhance productivity for small businesses.",
+            "icon": "/logo/sintra.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "487",
+            "name": "Kupid AI",
+            "slug": "kupid-ai",
+            "description": "Kupid AI is an AI-powered chat platform offering personalized virtual companionship and immersive conversations with customizable AI characters.",
+            "icon": "/logo/www.kupid.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "493",
+            "name": "PFPMaker",
+            "slug": "pfpmaker",
+            "description": "PFPMaker is an AI-powered tool that generates professional and creative profile pictures from user-uploaded photos.",
+            "icon": "/logo/pfpmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "499",
+            "name": "Vozo",
+            "slug": "vozo-ai",
+            "description": "Vozo AI enables users to generate, edit, and localize talking videos with advanced AI-driven tools.",
+            "icon": "/logo/www.vozo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "509",
+            "name": "Quso.ai",
+            "slug": "quso-ai",
+            "description": "Quso.ai is an all-in-one AI-powered platform for social media content creation, management, and analytics.",
+            "icon": "/logo/quso.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "517",
+            "name": "ContentStudio",
+            "slug": "contentstudio",
+            "description": "ContentStudio is a unified social media management and content marketing platform for creating, scheduling, and analyzing content across multiple channels.",
+            "icon": "/logo/contentstudio.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "530",
+            "name": "Gencraft",
+            "slug": "gencraft",
+            "description": "Gencraft is an AI-powered platform that transforms text prompts into stunning digital art, images, videos, and emojis.",
+            "icon": "/logo/gencraft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "532",
+            "name": "MyQRcode",
+            "slug": "myqrcode",
+            "description": "MyQRcode is a platform for creating customizable QR codes for businesses, events, and personal use with AI-driven design options.",
+            "icon": "/logo/myqrcode.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "AutoResponder.ai",
+            "slug": "autoresponder-ai",
+            "description": "AutoResponder.ai provides AI-powered automatic replies for popular messaging platforms to streamline communication.",
+            "icon": "/logo/autoresponder.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "549",
+            "name": "Planable",
+            "slug": "planable",
+            "description": "Planable is a social media management tool designed for teams to plan, collaborate, approve, and schedule content across multiple platforms.",
+            "icon": "/logo/planable.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "554",
+            "name": "AIFreeBox",
+            "slug": "aifreebox",
+            "description": "AIFreeBox offers a comprehensive suite of free AI tools for content creation, social media, and productivity enhancement.",
+            "icon": "/logo/aifreebox.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "561",
+            "name": "Pixelied",
+            "slug": "pixelied",
+            "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+            "icon": "/logo/pixelied.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "568",
+            "name": "Pygmalion",
+            "slug": "pygmalion",
+            "description": "Pygmalion is an open-source AI platform for creating and engaging in chat, role-play, and adventure experiences with dynamic AI characters.",
+            "icon": "/logo/pygmalion.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "569",
+            "name": "Faceless Video",
+            "slug": "faceless-video",
+            "description": "Faceless Video automates the creation and posting of AI-generated faceless videos for social media platforms like TikTok and YouTube.",
+            "icon": "/logo/faceless.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "572",
+            "name": "Songtell",
+            "slug": "songtell",
+            "description": "Songtell uses AI to analyze and uncover the hidden meanings behind song lyrics, enhancing music appreciation for fans and educators.",
+            "icon": "/logo/songtell.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1351",
+            "name": "Hera",
+            "slug": "hera",
+            "description": "Hera is an AI-powered platform that enables users to generate and edit videos using advanced artificial intelligence tools.",
+            "icon": "/logo/hera.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "581",
+            "name": "Muah AI",
+            "slug": "muah-ai",
+            "description": "Muah AI is an AI companion platform offering uncensored, personalized virtual interactions through chat, voice, and photo exchanges.",
+            "icon": "/logo/muah.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "583",
+            "name": "Mobirise",
+            "slug": "mobirise",
+            "description": "Mobirise is a free, offline website builder for creating responsive, mobile-first websites without coding.",
+            "icon": "/logo/mobirise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "590",
+            "name": "Botify AI",
+            "slug": "botify-ai",
+            "description": "Botify AI is a platform for creating and interacting with customizable AI-powered virtual characters for roleplay, storytelling, and companionship.",
+            "icon": "/logo/botify.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "604",
+            "name": "Story.com",
+            "slug": "story-com",
+            "description": "Story.com is an AI-powered platform for creating and consuming interactive stories and videos with consistent characters.",
+            "icon": "/logo/www.story.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "605",
+            "name": "Chatfuel",
+            "slug": "chatfuel",
+            "description": "Chatfuel is a no-code platform for creating AI-powered chatbots to automate sales, customer support, and engagement on messaging apps like WhatsApp, Instagram, and Facebook.",
+            "icon": "/logo/chatfuel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "606",
+            "name": "Klap",
+            "slug": "klap",
+            "description": "Klap uses AI to transform long videos into engaging, viral-ready short clips for social media platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+            "icon": "/logo/klap.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "617",
+            "name": "Jetpack",
+            "slug": "jetpack",
+            "description": "Jetpack provides security, performance, and growth tools for WordPress websites.",
+            "icon": "/logo/jetpack.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "632",
+            "name": "Arcads",
+            "slug": "arcads-ai",
+            "description": "Arcads is an AI-powered platform that transforms text into high-quality video ads using customizable AI actors for marketing campaigns.",
+            "icon": "/logo/www.arcads.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "634",
+            "name": "Wavel AI",
+            "slug": "wavel-ai",
+            "description": "Wavel AI provides AI-powered solutions for creating and localizing multilingual video and audio content with dubbing, voiceovers, and subtitles.",
+            "icon": "/logo/wavel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "640",
+            "name": "Eightify",
+            "slug": "eightify",
+            "description": "Eightify is an AI-powered tool that summarizes YouTube videos into concise key insights, saving users time.",
+            "icon": "/logo/www.eightify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "656",
+            "name": "VMate AI",
+            "slug": "vmate-ai",
+            "description": "VMate AI is an AI-powered roleplay chatbot platform for engaging with customizable virtual characters.",
+            "icon": "/logo/vmateai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "658",
+            "name": "Tweet Hunter",
+            "slug": "tweet-hunter",
+            "description": "Tweet Hunter is an AI-powered platform designed to help users grow and monetize their X (formerly Twitter) audience through content creation, scheduling, and analytics.",
+            "icon": "/logo/tweethunter.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "685",
+            "name": "AutoShorts.ai",
+            "slug": "autoshorts-ai",
+            "description": "AutoShorts.ai is an AI-powered platform that automates the creation, scheduling, and posting of faceless videos for TikTok and YouTube to grow social media channels effortlessly.",
+            "icon": "/logo/autoshorts.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "689",
+            "name": "Opinion Stage",
+            "slug": "opinion-stage",
+            "description": "Opinion Stage is a platform for creating interactive quizzes, polls, surveys, and forms to boost engagement and gather insights.",
+            "icon": "/logo/www.opinionstage.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "690",
+            "name": "Nuelink",
+            "slug": "nuelink",
+            "description": "Nuelink is a social media scheduling and automation tool designed to streamline content management for businesses and creators.",
+            "icon": "/logo/nuelink.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "693",
+            "name": "Delphi",
+            "slug": "delphi-ai",
+            "description": "Delphi is an AI-powered platform that creates digital clones of experts to scale personalized interactions and knowledge sharing.",
+            "icon": "/logo/www.delphi.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "701",
+            "name": "OnlyChar AI",
+            "slug": "onlychar-ai",
+            "description": "OnlyChar AI is an AI-powered platform offering uncensored NSFW chat with over 40,000 diverse virtual characters for roleplay and companionship.",
+            "icon": "/logo/www.onlychar.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "705",
+            "name": "Stockimg AI",
+            "slug": "stockimg-ai",
+            "description": "Stockimg AI is an AI-powered platform for generating high-quality, custom visuals like logos, stock photos, and illustrations.",
+            "icon": "/logo/stockimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "714",
+            "name": "Dubverse",
+            "slug": "dubverse-ai",
+            "description": "Dubverse is an AI-powered platform for multilingual video dubbing, text-to-speech, and subtitle generation to make content globally accessible.",
+            "icon": "/logo/dubverse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "726",
+            "name": "Circleboom",
+            "slug": "circleboom",
+            "description": "Circleboom is a social media management platform that helps users, brands, and SMBs grow and manage their social media presence efficiently.",
+            "icon": "/logo/circleboom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "732",
+            "name": "Short AI",
+            "slug": "short-ai",
+            "description": "Short AI is an AI-powered platform for creating viral, faceless short-form videos for social media platforms like YouTube and TikTok.",
+            "icon": "/logo/www.short.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "735",
+            "name": "WinningHunter",
+            "slug": "winninghunter",
+            "description": "WinningHunter is an all-in-one e-commerce spy tool designed to help dropshippers find winning products and ads using advanced competitor tracking and AI-powered search.",
+            "icon": "/logo/winninghunter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "739",
+            "name": "Niji Journey",
+            "slug": "niji-journey",
+            "description": "Niji Journey is an AI-powered platform for creating custom anime-style illustrations from text prompts.",
+            "icon": "/logo/nijijourney.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "755",
+            "name": "Covers.ai",
+            "slug": "covers-ai",
+            "description": "Covers.ai provides AI-powered tools for artists, creators, and fans to generate viral music covers, remixes, and TikTok content.",
+            "icon": "/logo/www.covers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "756",
+            "name": "YOUR.GG",
+            "slug": "your-gg",
+            "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+            "icon": "/logo/your.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "782",
+            "name": "BetterPic",
+            "slug": "betterpic",
+            "description": "BetterPic uses AI to transform casual photos into professional 4K headshots for business and personal use.",
+            "icon": "/logo/www.betterpic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "787",
+            "name": "PicSee",
+            "slug": "picsee",
+            "description": "PicSee is a cloud-based URL shortening platform that enhances link management and marketing analytics.",
+            "icon": "/logo/picsee.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "792",
+            "name": "Eklipse",
+            "slug": "eklipse",
+            "description": "Eklipse is an AI-powered platform that automatically generates and edits gaming highlight clips from streams for social media sharing.",
+            "icon": "/logo/eklipse.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "800",
+            "name": "Glassix",
+            "slug": "glassix",
+            "description": "Glassix provides an AI-powered unified messaging platform for omnichannel customer communication and support.",
+            "icon": "/logo/www.glassix.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "810",
+            "name": "Axiom.ai",
+            "slug": "axiom-ai",
+            "description": "Axiom.ai is a no-code browser automation tool that enables users to create bots for automating repetitive web tasks and data scraping.",
+            "icon": "/logo/axiom.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "818",
+            "name": "FastBots",
+            "slug": "fastbots-ai",
+            "description": "FastBots.ai is a no-code platform for creating AI-powered chatbots trained on custom business data to provide 24/7 customer support and automation.",
+            "icon": "/logo/fastbots.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "829",
+            "name": "Zoviz",
+            "slug": "zoviz",
+            "description": "Zoviz is an AI-powered platform for creating unique logos and comprehensive brand kits instantly.",
+            "icon": "/logo/zoviz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "837",
+            "name": "Castmagic",
+            "slug": "castmagic",
+            "description": "Castmagic is an AI-powered platform that transforms audio and video content into ready-to-use assets like transcripts, show notes, and social media posts.",
+            "icon": "/logo/castmagic.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "849",
+            "name": "SoulFun",
+            "slug": "soulfun-ai",
+            "description": "SoulFun is an AI-powered platform that enables users to create and engage with personalized virtual companions for immersive conversations and emotional support.",
+            "icon": "/logo/www.soulfun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "862",
+            "name": "Spikes Studio",
+            "slug": "spikes-studio",
+            "description": "Spikes Studio is an AI-powered platform that automates video clipping and editing to help content creators produce engaging short-form videos from longer content for social media.",
+            "icon": "/logo/spikes.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "868",
+            "name": "RPRP.ai",
+            "slug": "rprp-ai",
+            "description": "RPRP.ai is an AI-powered platform that enables users to engage in immersive role-playing experiences with customizable AI characters.",
+            "icon": "/logo/rprp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "874",
+            "name": "HeyPhoto",
+            "slug": "heyphoto",
+            "description": "HeyPhoto is an AI-powered online tool for editing and enhancing photos, with a focus on facial modifications and improvements.",
+            "icon": "/logo/hey-photo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "878",
+            "name": "Dittin AI",
+            "slug": "dittin-ai",
+            "description": "Dittin AI is an uncensored AI chatbot platform that allows users to create, customize, and engage in immersive role-playing conversations with AI characters.",
+            "icon": "/logo/dittin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "886",
+            "name": "SocialBu",
+            "slug": "socialbu",
+            "description": "SocialBu is an all-in-one social media management platform that leverages AI to help businesses schedule posts, engage with audiences, generate content, and analyze performance across multiple social networks.",
+            "icon": "/logo/socialbu.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "887",
+            "name": "BannerBear",
+            "slug": "bannerbear",
+            "description": "BannerBear is an API-based platform that automates the generation of customized images and videos for marketing, e-commerce, and social media purposes.",
+            "icon": "/logo/www.bannerbear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "905",
+            "name": "LoveVoice AI",
+            "slug": "lovevoice-ai",
+            "description": "LoveVoice.ai is an AI-powered platform that enables users to generate personalized, emotional voice messages for romantic or affectionate purposes.",
+            "icon": "/logo/lovevoice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "915",
+            "name": "Universe",
+            "slug": "universe",
+            "description": "Universe is a no-code website builder that enables users to create custom websites, online stores, portfolios, and more using a drag-and-drop interface with AI assistance.",
+            "icon": "/logo/univer.se.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "989",
+            "name": "Upgrow",
+            "slug": "upgrow",
+            "description": "Upgrow is an AI-powered platform that helps businesses and influencers grow their Instagram presence organically by attracting real, targeted followers.",
+            "icon": "/logo/www.upgrow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "992",
+            "name": "How Old Do I Look",
+            "slug": "how-old-do-i-look",
+            "description": "How Old Do I Look is an AI-powered website that analyzes uploaded photos to estimate a person's apparent age using facial recognition technology.",
+            "icon": "/logo/www.howolddoilook.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1006",
+            "name": "Subscribr.ai",
+            "slug": "subscribr-ai",
+            "description": "Subscribr.ai is an AI-powered platform designed to automate the creation of personalized newsletters for businesses and creators.",
+            "icon": "/logo/subscribr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1007",
+            "name": "AI Agent Store",
+            "slug": "ai-agent-store",
+            "description": "AI Agent Store is a marketplace platform offering pre-built AI agents for automating tasks, enhancing productivity, and solving various business and personal needs.",
+            "icon": "/logo/aiagentstore.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1010",
+            "name": "Hypotenuse AI",
+            "slug": "hypotenuse-ai",
+            "description": "Hypotenuse AI is an AI-powered platform that generates high-quality content for marketing, e-commerce, and blogging to help businesses create engaging written material efficiently.",
+            "icon": "/logo/www.hypotenuse.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1022",
+            "name": "AI Carousels",
+            "slug": "ai-carousels",
+            "description": "AI Carousels is an AI-powered platform designed to help users create engaging carousel posts for social media quickly and effortlessly.",
+            "icon": "/logo/www.aicarousels.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "59",
+            "name": "Fams.ai",
+            "slug": "fams-ai",
+            "description": "Fams.ai is a user-driven platform for creating and roleplaying with AI characters, offering engaging and diverse content creation experiences.",
+            "icon": "/logo/fams.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1060",
+            "name": "Archive",
+            "slug": "archive",
+            "description": "Archive is an AI-first influencer marketing platform that automates the tracking and management of user-generated content to drive brand results and improve conversions.",
+            "icon": "/logo/archive.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1084",
+            "name": "cre8tiveAI",
+            "slug": "cre8tiveai",
+            "description": "cre8tiveAI is an AI-driven online platform offering advanced photo editing tools to enhance, retouch, and transform images effortlessly.",
+            "icon": "/logo/cre8tiveai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1107",
+            "name": "Fables",
+            "slug": "fables",
+            "description": "Fables.gg is an AI-powered platform for generating and sharing interactive stories and fables.",
+            "icon": "/logo/fables.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1109",
+            "name": "Copyspace.ai",
+            "slug": "copyspace-ai",
+            "description": "Copyspace.ai is an AI-driven platform that helps users generate high-quality marketing copy, social media content, and creative writing effortlessly.",
+            "icon": "/logo/www.copyspace.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1115",
+            "name": "AutoCaption",
+            "slug": "autocaption",
+            "description": "AutoCaption is an AI-powered platform that automatically generates animated captions and subtitles for videos to enhance engagement on social media.",
+            "icon": "/logo/www.autocaption.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1117",
+            "name": "Contrast",
+            "slug": "contrast",
+            "description": "Contrast is an AI-powered platform for enhancing image contrast, analyzing visuals, and generating accessible designs for creative and professional use.",
+            "icon": "/logo/www.getcontrast.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1120",
+            "name": "MakeUGC",
+            "slug": "makeugc-ai",
+            "description": "MakeUGC is a platform that enables users to create AI-generated user-generated content (UGC) videos quickly for advertising, offering features like script writing, avatar selection, and video generation.",
+            "icon": "/logo/www.makeugc.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1145",
+            "name": "Powerusers AI",
+            "slug": "powerusers-ai",
+            "description": "Powerusers AI is a directory that curates over 2600 AI tools to boost business productivity, offering features like filtering, saving personal lists, and staying updated with the latest AI apps.",
+            "icon": "/logo/powerusers.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1177",
+            "name": "BlueWillow",
+            "slug": "bluewillow-ai",
+            "description": "BlueWillow is an AI-powered platform that enables users to generate stunning images from text prompts via a Discord bot, making art creation accessible and free.",
+            "icon": "/logo/www.bluewillow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1314",
+            "name": "Bhindi",
+            "slug": "bhindi",
+            "description": "Bhindi.io is an AI-powered platform that offers tools for creative design and image generation, helping users create visual content effortlessly.",
+            "icon": "/logo/bhindi.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1321",
+            "name": "Overlap",
+            "slug": "overlap-ai",
+            "description": "Overlap is an AI-powered platform that automates video clipping and social media posting, offering tools for creators and companies to manage and enhance their content workflows.",
+            "icon": "/logo/overlap.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1313",
+            "name": "Postel",
+            "slug": "postel",
+            "description": "Postel is an AI-powered tool designed to help creators and businesses create high-performing content for X (Twitter) that aligns with their voice and grows their audience.",
+            "icon": "/logo/www.postel.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1340",
+            "name": "SocialRails",
+            "slug": "socialrails",
+            "description": "SocialRails is an AI-powered platform designed to streamline social media management, content creation, and engagement for businesses and individuals.",
+            "icon": "/logo/socialrails.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1278",
+            "name": "ThumbnailCreator",
+            "slug": "thumbnailcreator",
+            "description": "ThumbnailCreator is an AI-powered online tool designed to generate professional YouTube thumbnails quickly, helping content creators boost click-through rates and video views.",
+            "icon": "/logo/www.thumbnailcreator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1350",
+            "name": "MemeClip AI",
+            "slug": "memeclip-ai",
+            "description": "MemeClip AI is an innovative platform that leverages artificial intelligence to generate and edit meme videos and clips effortlessly.",
+            "icon": "/logo/memeclip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1431",
+            "name": "AniFun.ai",
+            "slug": "anifun-ai",
+            "description": "AniFun.ai is an AI-powered platform that enables users to generate and interact with anime-style characters, images, and stories for creative entertainment.",
+            "icon": "/logo/anifun.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1364",
+            "name": "VibeScan",
+            "slug": "vibescan",
+            "description": "VibeScan is an AI-powered platform that analyzes the emotional tone and vibe of digital content to help users understand social dynamics and sentiment.",
+            "icon": "/logo/vibescan.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1354",
+            "name": "Muka AI",
+            "slug": "muka-ai",
+            "description": "Muka AI is an innovative platform that leverages artificial intelligence to generate and edit images for creative and professional use.",
+            "icon": "/logo/www.muka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1266",
+            "name": "Movely AI",
+            "slug": "movely-ai",
+            "description": "Movely AI is an online platform that generates AI videos and edits photos using a simple one-tap animation system and a library of over 1,000 professionally designed templates.",
+            "icon": "/logo/movelyai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1297",
+            "name": "Create Anything",
+            "slug": "create-anything",
+            "description": "Create Anything is an AI-powered platform that enables users to generate diverse digital content, from text and images to music and code, using advanced artificial intelligence tools.",
+            "icon": "/logo/www.createanything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1325",
+            "name": "AI Video Maker",
+            "slug": "ai-video-maker",
+            "description": "AI Video Maker is an online platform that leverages artificial intelligence to simplify video creation and editing for users of all skill levels.",
+            "icon": "/logo/aivideomaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1362",
+            "name": "ShotVA",
+            "slug": "shotva",
+            "description": "ShotVA is an AI-powered platform that generates professional headshots and virtual avatars from user-uploaded photos.",
+            "icon": "/logo/shotva.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1380",
+            "name": "Memu Pro",
+            "slug": "memu-pro",
+            "description": "Memu Pro is an AI-driven platform for generating and customizing personalized memes using intelligent tools.",
+            "icon": "/logo/memu.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1401",
+            "name": "Embeddable",
+            "slug": "embeddable",
+            "description": "Embeddable is a platform that enables marketers to create and embed interactive tools on their websites to drive conversions, using AI and no developer support.",
+            "icon": "/logo/embeddable.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Hailuo AI Video",
+            "slug": "hailuo-ai-video",
+            "description": "Hailuo AI Video transforms text and images into stunning AI-generated videos for creators and businesses.",
+            "icon": "/logo/hailuoai.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "42",
+            "name": "Brainly",
+            "slug": "brainly",
+            "description": "Brainly is a peer-to-peer learning platform where students collaborate to solve homework and study questions.",
+            "icon": "/logo/brainly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Picsart",
+            "slug": "picsart",
+            "description": "Picsart is a creative platform offering AI-powered photo and video editing tools for users of all skill levels.",
+            "icon": "/logo/picsart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Kaggle",
+            "slug": "kaggle",
+            "description": "Kaggle is a global platform for data science and machine learning, offering competitions, datasets, and collaborative tools for professionals and learners.",
+            "icon": "/logo/kaggle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Publer",
+            "slug": "publer",
+            "description": "Publer is a social media management platform that streamlines scheduling, publishing, and analyzing posts across multiple social networks.",
+            "icon": "/logo/publer.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "69",
+            "name": "Clipchamp",
+            "slug": "clipchamp",
+            "description": "Clipchamp is a user-friendly video editing platform for creating professional-quality videos.",
+            "icon": "/logo/clipchamp.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "96",
+            "name": "xAI",
+            "slug": "xai",
+            "description": "xAI is an AI platform dedicated to accelerating human scientific discovery and advancing our understanding of the universe.",
+            "icon": "/logo/x.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Dribbble",
+            "slug": "dribbble",
+            "description": "Dribbble is a community platform for designers to showcase their work, connect with peers, and find job opportunities.",
+            "icon": "/logo/dribbble.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Freepik",
+            "slug": "freepik",
+            "description": "Freepik is an AI-powered creative suite offering stock assets and tools for designers.",
+            "icon": "/logo/www.freepik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "113",
+            "name": "Higgsfield AI",
+            "slug": "higgsfield-ai",
+            "description": "Higgsfield AI is a generative video platform that empowers creators with cinematic camera control and realistic video generation.",
+            "icon": "/logo/higgsfield.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Wanderboat AI",
+            "slug": "wanderboat-ai",
+            "description": "Wanderboat AI is an AI-powered travel companion that simplifies trip planning with personalized itineraries and real-time recommendations.",
+            "icon": "/logo/wanderboat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "121",
+            "name": "WizGenerator",
+            "slug": "wizgenerator",
+            "description": "WizGenerator offers a suite of free AI-powered tools for creating diverse content, from text to images, for personal and professional use.",
+            "icon": "/logo/wizgenerator.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1223",
+            "name": "AI Outreach",
+            "slug": "ai-outreach",
+            "description": "AI Outreach is a platform that generates unique, personalized messages for cold email, LinkedIn, and SMS outreach, enhancing sender reputation and conversion rates.",
+            "icon": "/logo/aioutreach.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1225",
+            "name": "i-Genie.AI",
+            "slug": "i-genie-ai",
+            "description": "i-Genie.AI provides faster consumer insights by passively analyzing online data like searches, social conversations, ratings, reviews, and videos, without relying on surveys or focus groups.",
+            "icon": "/logo/i-genie.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1318",
+            "name": "Picsman.ai",
+            "slug": "picsman-ai",
+            "description": "Picsman.ai is an online AI photo editor offering tools for image editing, enhancement, and generation, including features like object removal, virtual clothing try-ons, and image upscaling.",
+            "icon": "/logo/www.picsman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1359",
+            "name": "Social Walls",
+            "slug": "social-walls",
+            "description": "Social Walls is a platform that aggregates and displays social media content in real-time for events, brands, and digital signage.",
+            "icon": "/logo/socialwalls.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1436",
+            "name": "Postiz",
+            "slug": "postiz",
+            "description": "Postiz is an open-source social media management tool that enables users to schedule posts, generate AI-assisted content, create visuals, and analyze performance across multiple platforms to grow their audience and business.",
+            "icon": "/logo/postiz.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        },
+        {
+            "id": "1449",
+            "name": "Chai Research",
+            "slug": "chai-research",
+            "description": "Chai Research is an AI company specializing in developing engaging conversational AI companions for entertainment, social interaction, and research purposes.",
+            "icon": "/logo/chai-research.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-social-media"
+            ]
+        }
+    ]
+}

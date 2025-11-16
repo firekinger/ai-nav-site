@@ -1,0 +1,56 @@
+{
+    "name": "Pi",
+    "description": "Pi is a personal AI assistant designed to provide conversational support and insights for users seeking answers and guidance.",
+    "longDescription": "Pi, developed by Inflection AI, is a conversational AI platform designed to assist users with a wide range of questions and tasks through natural, engaging dialogue. Its mission is to accelerate human curiosity and understanding by offering thoughtful, context-aware responses tailored to individual needs. Unlike traditional chatbots, Pi aims to be a friendly, approachable companion that fosters meaningful interactions, whether for practical advice, creative brainstorming, or casual conversation. The platform leverages advanced AI to understand nuanced queries and provide accurate, helpful answers, making it a versatile tool for personal and professional use. Pi is accessible on multiple platforms, including web and mobile apps, ensuring users can interact with it anytime, anywhere. Its focus on user-centric design and conversational depth sets it apart in the AI assistant landscape.",
+    "url": "https://pi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pi.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "pi",
+    "categories": [
+        "AI Chatbot",
+        "AI Shopping Assistant",
+        "AI Translate",
+        "AI Voice Assistants"
+    ],
+    "features": [
+        "Pi offers natural language conversations, enabling users to engage in human-like dialogue for a seamless experience.",
+        "The platform provides personalized responses tailored to the user’s context, preferences, and previous interactions.",
+        "Pi supports a wide range of topics, from daily life queries to complex problem-solving, catering to diverse user needs.",
+        "It offers voice interaction capabilities, allowing users to communicate hands-free via mobile apps for convenience.",
+        "Pi includes multilingual support, enabling users to interact in various languages for global accessibility.",
+        "The AI learns from interactions to improve response quality over time, enhancing user satisfaction.",
+        "Pi provides real-time answers to factual questions, drawing from a vast knowledge base to ensure accuracy.",
+        "The platform integrates with mobile apps, offering a consistent experience across web, iOS, and Android devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pi designed to do?",
+            "answer": "Pi is a conversational AI assistant that helps users with answers, advice, and insights across a wide range of topics, from daily tasks to creative ideas."
+        },
+        {
+            "question": "Is Pi free to use?",
+            "answer": "Yes, Pi offers free access to its core conversational features, though some advanced functionalities may have limitations."
+        },
+        {
+            "question": "Can Pi assist with professional tasks?",
+            "answer": "Pi can help with professional tasks like brainstorming, research, or answering industry-specific questions, but it’s not specialized for highly technical domains."
+        },
+        {
+            "question": "Does Pi support voice interactions?",
+            "answer": "Yes, Pi offers voice mode on its iOS and Android apps, allowing users to interact hands-free."
+        },
+        {
+            "question": "How does Pi differ from other AI assistants?",
+            "answer": "Pi focuses on friendly, human-like conversations with an emphasis on curiosity and context, making it feel more like a companion than a typical chatbot."
+        },
+        {
+            "question": "Is Pi available on mobile devices?",
+            "answer": "Yes, Pi is accessible via dedicated iOS and Android apps, as well as through its website."
+        },
+        {
+            "question": "Can Pi understand multiple languages?",
+            "answer": "Pi supports multilingual interactions, allowing users to communicate in various languages for broader accessibility."
+        }
+    ]
+}

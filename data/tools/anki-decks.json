@@ -1,0 +1,61 @@
+{
+    "name": "Anki Decks",
+    "description": "Anki Decks uses AI to generate high-quality flashcards quickly for efficient studying.",
+    "longDescription": "Anki Decks is a platform designed to streamline the creation of Anki flashcards using AI, catering primarily to medical students, language learners, and educators. The website allows users to generate flashcards from various file formats like PDF, PowerPoint, and Word, saving significant time compared to manual creation. Its mission is to enhance learning efficiency by automating the tedious process of flashcard creation, enabling users to focus on studying. By supporting over 50 languages and offering features like image occlusion, it addresses diverse educational needs. The platform also facilitates sharing and collaboration, making it valuable for both individual learners and study groups. Anki Decks integrates seamlessly with Anki’s ecosystem, including AnkiWeb, AnkiDroid, and AnkiMobile, for cross-device accessibility.",
+    "url": "https://anki-decks.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/anki-decks.com.webp",
+    "category": "AI Flashcard Maker",
+    "categorySlug": "ai-flashcard-maker",
+    "slug": "anki-decks",
+    "categories": [
+        "AI Flashcard Maker",
+        "AI Language Learning",
+        "AI Healthcare",
+        "AI Writing",
+        "AI Image Description Generator"
+    ],
+    "features": [
+        "AI-powered flashcard generation creates decks from uploaded files in seconds, saving hours of manual work.",
+        "Supports multiple file formats like PDF, PowerPoint, Word, and Epub for versatile content input.",
+        "Offers cloze and basic flashcard types to suit different learning styles and needs.",
+        "Automates image occlusion flashcards by extracting images and covering text with labels for enhanced visual learning.",
+        "Supports over 50 languages, enabling flashcard creation for diverse linguistic studies.",
+        "Facilitates deck sharing, allowing users to collaborate with classmates or students easily.",
+        "Integrates with AnkiWeb for syncing flashcards across desktop and mobile devices.",
+        "Provides sorting options by creation date in Anki Desktop and AnkiDroid for organized study sessions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Anki Decks used for?",
+            "answer": "Anki Decks uses AI to generate flashcards from files or text, helping students and educators create study materials quickly."
+        },
+        {
+            "question": "Can I use Anki Decks for free?",
+            "answer": "Anki Decks does not offer a free plan, but it provides premium features to streamline flashcard creation."
+        },
+        {
+            "question": "What file formats are supported for flashcard creation?",
+            "answer": "The platform supports PDF, PowerPoint, Word, Epub, and other formats for generating flashcards."
+        },
+        {
+            "question": "How do I import decks into AnkiDroid or AnkiMobile?",
+            "answer": "Download the .apkg file from Anki Decks, open it with AnkiDroid or AnkiMobile, and import it via the app’s import function."
+        },
+        {
+            "question": "Can I create flashcards in multiple languages?",
+            "answer": "Yes, Anki Decks supports over 50 languages for flashcard creation, ideal for language learners."
+        },
+        {
+            "question": "Does Anki Decks integrate with AnkiWeb?",
+            "answer": "Yes, decks can be imported to AnkiWeb via the Anki Desktop app for syncing across devices."
+        },
+        {
+            "question": "What is image occlusion in Anki Decks?",
+            "answer": "Image occlusion automatically covers text in images with labels, creating interactive flashcards for visual learning."
+        },
+        {
+            "question": "Can I share my decks with others?",
+            "answer": "Yes, Anki Decks allows easy sharing of decks with friends, classmates, or students for collaborative learning."
+        }
+    ]
+}

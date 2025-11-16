@@ -1,0 +1,61 @@
+{
+    "name": "Runway",
+    "description": "Runway is an AI-powered platform for creating and editing videos, images, and audio to enhance human creativity.",
+    "longDescription": "Runway is an applied AI research company that develops tools to empower creators in art, entertainment, and storytelling. Its mission is to democratize access to advanced AI technologies, enabling users to generate and edit multimedia content without extensive technical expertise. The platform offers a suite of generative AI models, such as Gen-4 and Gen-3 Alpha, for producing high-quality videos and images from text prompts or reference media. Runway serves a wide audience, including filmmakers, designers, and marketers, by streamlining creative workflows and fostering innovative storytelling. It also supports developers through an API for integrating AI capabilities into custom applications. Additionally, Runway Studios produces AI-driven films and hosts events like the AI Film Festival to celebrate creative AI applications.",
+    "url": "https://www.runwayml.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/runwayml.com.webp",
+    "category": "AI Art Generator",
+    "categorySlug": "ai-art-generator",
+    "slug": "runway",
+    "categories": [
+        "AI Art Generator",
+        "AI Video Editor",
+        "AI Image Generator",
+        "AI Design Assistant",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Text-to-video generation creates unique video clips from textual descriptions, enabling rapid content production.",
+        "Image-to-video conversion transforms static images into dynamic videos, enhancing visual storytelling.",
+        "Background removal and inpainting automatically eliminate unwanted elements from videos or images for seamless editing.",
+        "Gen-4 models offer advanced multimodal generation for consistent characters and high-fidelity visuals.",
+        "Act-One generates expressive character performances using a single driving video and image, simplifying animation.",
+        "API integration allows developers to embed Runway’s AI models into apps and workflows for customized solutions.",
+        "Motion Brush automatically detects and animates key image elements, speeding up video creation.",
+        "4K upscaling enhances video resolution directly within the platform for production-ready outputs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Runway used for?",
+            "answer": "Runway is used for creating and editing AI-generated videos, images, and audio, catering to filmmakers, designers, and content creators."
+        },
+        {
+            "question": "Does Runway offer a free plan?",
+            "answer": "Yes, Runway offers a free plan with limited features, including 125 credits for basic video and image generation, but with watermarks on exports."
+        },
+        {
+            "question": "Can I use Runway without coding skills?",
+            "answer": "Yes, Runway’s user-friendly interface allows non-coders to create and edit content using intuitive AI tools."
+        },
+        {
+            "question": "What is the difference between Gen-3 Alpha and Gen-4 models?",
+            "answer": "Gen-4 models provide enhanced stylistic control and visual fidelity compared to Gen-3 Alpha, which focuses on faster, more affordable video generation."
+        },
+        {
+            "question": "How does the Unlimited plan work?",
+            "answer": "The Unlimited plan offers unlimited video generations in Explore Mode at a relaxed rate, plus 2250 credits monthly for faster processing."
+        },
+        {
+            "question": "Can Runway integrate with other tools?",
+            "answer": "Yes, Runway’s API enables integration with tools like Photoshop, Unity, and custom applications for enhanced workflows."
+        },
+        {
+            "question": "Is Runway suitable for team collaboration?",
+            "answer": "Yes, Standard and Pro plans support up to 10 users per workspace with collaboration tools for team projects."
+        },
+        {
+            "question": "What is Runway Studios?",
+            "answer": "Runway Studios is Runway’s creative division, producing AI-driven films and hosting events like the AI Film Festival."
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "title": "The Best 22 AI Voice Changer Tools in 2025",
+    "summary": "Discover the transformative power of AI Voice Changers, designed to enhance your audio projects with innovative voice modulation. Whether you're a content creator, gamer, or professional seeking to add a unique touch to your recordings, these tools offer seamless voice alteration, ensuring your message resonates. Enjoy benefits like anonymity, creativity, and enhanced engagement, all while saving time and effort. Explore our curated selection of AI Voice Changers today and unlock new possibilities for your audio content!",
+    "tools": [
+        {
+            "id": "162",
+            "name": "Voicemod",
+            "slug": "voicemod",
+            "description": "Voicemod is a real-time voice changer and soundboard software for gamers, content creators, and communication platforms.",
+            "icon": "/logo/www.voicemod.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "TTSMaker",
+            "slug": "ttsmaker",
+            "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+            "icon": "/logo/ttsmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "332",
+            "name": "Krisp",
+            "slug": "krisp",
+            "description": "Krisp is an AI-powered platform that enhances online meetings by removing background noise, transcribing, and summarizing conversations for improved productivity.",
+            "icon": "/logo/krisp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "350",
+            "name": "Voicemaker",
+            "slug": "voicemaker",
+            "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+            "icon": "/logo/voicemaker.in.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "378",
+            "name": "FakeYou",
+            "slug": "fakeyou",
+            "description": "FakeYou is an AI-powered platform that generates realistic text-to-speech audio and voice conversions using celebrity and character voices.",
+            "icon": "/logo/fakeyou.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "391",
+            "name": "Kits AI",
+            "slug": "kits-ai",
+            "description": "Kits AI provides studio-quality AI music tools for producers to streamline workflows and enhance music creation.",
+            "icon": "/logo/www.kits.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "392",
+            "name": "SpeechGen.io",
+            "slug": "speechgen-io",
+            "description": "SpeechGen.io is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/speechgen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "505",
+            "name": "AI Song Maker",
+            "slug": "ai-song-maker",
+            "description": "AI Song Maker is an AI-powered platform for creating royalty-free songs from text prompts or melodies.",
+            "icon": "/logo/www.aisongmaker.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "528",
+            "name": "Dubbing AI",
+            "slug": "dubbing-ai",
+            "description": "Dubbing AI provides a real-time AI voice changer and soundboard for gaming, streaming, and content creation.",
+            "icon": "/logo/dubbingai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "555",
+            "name": "FliFlik",
+            "slug": "fliflik",
+            "description": "FliFlik provides AI-powered multimedia software for editing and enhancing videos, audio, and images across multiple platforms.",
+            "icon": "/logo/fliflik.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "565",
+            "name": "Musicfy",
+            "slug": "musicfy",
+            "description": "Musicfy is an AI-powered platform for creating and customizing music with voice cloning and text-to-music features.",
+            "icon": "/logo/musicfy.lol.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "613",
+            "name": "Uberduck",
+            "slug": "uberduck-ai",
+            "description": "Uberduck is an AI-powered platform for generating realistic synthetic vocals, text-to-speech, and voice cloning for music, voiceovers, and content creation.",
+            "icon": "/logo/www.uberduck.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "634",
+            "name": "Wavel AI",
+            "slug": "wavel-ai",
+            "description": "Wavel AI provides AI-powered solutions for creating and localizing multilingual video and audio content with dubbing, voiceovers, and subtitles.",
+            "icon": "/logo/wavel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "672",
+            "name": "Crikk",
+            "slug": "crikk",
+            "description": "Crikk is an AI-powered text-to-speech platform that converts text, PDFs, and images into natural-sounding audio for enhanced reading and productivity.",
+            "icon": "/logo/crikk.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "802",
+            "name": "TTSOpenAI",
+            "slug": "ttsopenai",
+            "description": "TTSOpenAI provides advanced AI-powered text-to-speech services to convert text into natural-sounding audio for various applications.",
+            "icon": "/logo/ttsopenai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "905",
+            "name": "LoveVoice AI",
+            "slug": "lovevoice-ai",
+            "description": "LoveVoice.ai is an AI-powered platform that enables users to generate personalized, emotional voice messages for romantic or affectionate purposes.",
+            "icon": "/logo/lovevoice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1179",
+            "name": "Respeecher",
+            "slug": "respeecher",
+            "description": "Respeecher is an AI-powered platform specializing in voice cloning and conversion for film, animation, gaming, and content creation.",
+            "icon": "/logo/www.respeecher.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1203",
+            "name": "Controlla",
+            "slug": "controlla",
+            "description": "Controlla is a music tech platform using AI to create personalized singing voices, generate choirs, and enable interactive music experiences.",
+            "icon": "/logo/www.controlla.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1281",
+            "name": "Glotera AI",
+            "slug": "glotera-ai",
+            "description": "Glotera AI is an innovative platform leveraging artificial intelligence for seamless multilingual translation and global communication tools.",
+            "icon": "/logo/glotera.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1242",
+            "name": "Sayfone",
+            "slug": "sayfone",
+            "description": "Sayfone is an AI-powered platform that enables users to generate realistic synthetic voices for phone calls, messages, and customer service applications.",
+            "icon": "/logo/www.sayfone.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1410",
+            "name": "Vo3AI",
+            "slug": "vo3ai",
+            "description": "Vo3AI is an AI-driven platform specializing in voice generation, conversion, and audio enhancement tools for creative and professional use.",
+            "icon": "/logo/vo3ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        },
+        {
+            "id": "1317",
+            "name": "Vaanee",
+            "slug": "vaanee",
+            "description": "Vaanee Labs offers AI-driven voice cloning, text-to-speech, speech-to-speech translation, and video dubbing services with multilingual and hyper-realistic voice generation capabilities.",
+            "icon": "/logo/www.vaanee.co.webp",
+            "isFree": false,
+            "categories": [
+                "ai-voice-changer"
+            ]
+        }
+    ]
+}

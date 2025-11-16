@@ -1,0 +1,54 @@
+{
+    "name": "Lenso AI",
+    "description": "Lenso AI provides AI-powered image analysis and recognition tools for businesses and developers.",
+    "longDescription": "Lenso AI is a platform that leverages advanced artificial intelligence to offer image recognition and analysis solutions tailored for businesses, developers, and creative professionals. Its mission is to simplify complex visual data processing, enabling users to extract meaningful insights from images efficiently. The platform supports a variety of industries, including retail, healthcare, and media, by providing tools for object detection, facial recognition, and image categorization. Lenso AI integrates seamlessly with existing systems via APIs, making it accessible for developers to embed its capabilities into their applications. By focusing on accuracy and scalability, Lenso AI aims to empower organizations to enhance decision-making and automate visual tasks. The platform is designed to handle large datasets while maintaining high performance and reliability.",
+    "url": "https://lenso.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/lenso.ai.webp",
+    "category": "AI Image Recognition",
+    "categorySlug": "ai-image-recognition",
+    "slug": "lenso-ai",
+    "categories": [
+        "AI Image Recognition",
+        "AI Face Recognition",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Object detection identifies and classifies objects in images with high accuracy, enabling automated inventory management or content moderation.",
+        "Facial recognition technology provides secure and precise identification for applications like access control or customer analytics.",
+        "Image categorization organizes visual data into predefined categories, streamlining workflows for e-commerce or media platforms.",
+        "API integration allows developers to embed Lenso AI’s capabilities into custom applications, ensuring flexibility and scalability.",
+        "Real-time analysis processes images instantly, supporting time-sensitive applications like surveillance or live event monitoring.",
+        "Custom model training enables users to create tailored AI models for specific use cases, improving accuracy for niche industries.",
+        "Multi-language support ensures global accessibility for users across different regions and industries."
+    ],
+    "faqs": [
+        {
+            "question": "What is Lenso AI used for?",
+            "answer": "Lenso AI is used for image recognition and analysis, helping businesses automate tasks like object detection, facial recognition, and image categorization."
+        },
+        {
+            "question": "Does Lenso AI offer a free plan?",
+            "answer": "Lenso AI does not offer a free plan, but it provides various pricing tiers tailored to different business needs."
+        },
+        {
+            "question": "Can I integrate Lenso AI into my application?",
+            "answer": "Yes, Lenso AI offers robust API integration, allowing developers to embed its image analysis tools into custom applications."
+        },
+        {
+            "question": "What industries benefit from Lenso AI?",
+            "answer": "Lenso AI serves industries like retail, healthcare, media, and security, where visual data analysis is critical for operations."
+        },
+        {
+            "question": "How accurate is Lenso AI’s image recognition?",
+            "answer": "Lenso AI’s image recognition is highly accurate, leveraging advanced AI models that can be customized for specific use cases."
+        },
+        {
+            "question": "Is Lenso AI suitable for real-time applications?",
+            "answer": "Yes, Lenso AI supports real-time image analysis, making it ideal for applications like surveillance or live event monitoring."
+        },
+        {
+            "question": "Can I train custom models with Lenso AI?",
+            "answer": "Lenso AI allows users to train custom AI models to meet specific requirements, enhancing accuracy for unique use cases."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "MindMap AI",
+    "description": "MindMap AI is an AI-powered tool for creating and organizing interactive mind maps to enhance brainstorming and productivity.",
+    "longDescription": "MindMap AI is a web and mobile application designed to streamline brainstorming and idea organization through AI-driven mind mapping. It allows users to generate structured, visual mind maps instantly from various input formats, such as text, PDFs, images, audio, and video. The platform’s mission is to simplify complex thought processes, making it easier for students, professionals, and neurodivergent individuals to organize ideas, plan projects, and boost productivity. Its AI Copilot Chat feature acts as a virtual brainstorming partner, guiding users through dynamic ideation sessions. By offering a free plan and seamless editing capabilities, MindMap AI caters to beginners and advanced users alike, revolutionizing how ideas are visualized and managed.",
+    "url": "https://mindmapai.app/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mindmapai.app.webp",
+    "category": "AI Mind Mapping",
+    "categorySlug": "ai-mind-mapping",
+    "slug": "mindmap-ai",
+    "categories": [
+        "AI Mind Mapping",
+        "AI Copilot",
+        "AI Creative Writing",
+        "AI Text Generator",
+        "AI Project Management",
+        "AI Predictions"
+    ],
+    "features": [
+        "AI Copilot Chat assists users in brainstorming by offering suggestions and maintaining conversation history for each mind map.",
+        "Generates sophisticated mind maps instantly from diverse inputs like text, PDFs, images, audio, and video files.",
+        "Allows seamless manual editing of AI-generated mind maps to refine structure and incorporate personal insights.",
+        "Supports real-time visualization and editing for dynamic and efficient mind mapping processes.",
+        "Offers customizable themes and export options (PNG, SVG, PDF, Markdown) for versatile use and sharing.",
+        "Syncs mind maps across Apple and Android devices for accessible idea management on the go.",
+        "Provides 100 free AI credits monthly to create up to 10 AI-powered mind maps on the free plan.",
+        "Enables users to earn additional AI credits through referrals, social media posts, or webinar participation."
+    ],
+    "faqs": [
+        {
+            "question": "What is MindMap AI?",
+            "answer": "MindMap AI is an AI-powered tool that creates interactive mind maps from various inputs to help users brainstorm, organize ideas, and boost productivity."
+        },
+        {
+            "question": "Is MindMap AI free to use?",
+            "answer": "Yes, MindMap AI offers a free plan with 100 AI credits per month, allowing users to create and edit up to 10 AI-powered mind maps."
+        },
+        {
+            "question": "What input formats does MindMap AI support?",
+            "answer": "MindMap AI supports text, PDF, CSV, image, audio, and video files, including formats like .txt, .pdf, .png, .mp3, and .mp4."
+        },
+        {
+            "question": "Can I edit AI-generated mind maps?",
+            "answer": "Yes, users can seamlessly edit AI-generated mind maps by adding, removing, or modifying nodes to suit their needs."
+        },
+        {
+            "question": "How does the AI Copilot Chat work?",
+            "answer": "The AI Copilot Chat acts as a virtual brainstorming partner, offering suggestions, maintaining conversation history, and helping refine mind maps."
+        },
+        {
+            "question": "Can I use MindMap AI on mobile devices?",
+            "answer": "Yes, MindMap AI is available on iOS and Android, with sync capabilities across devices for on-the-go access."
+        },
+        {
+            "question": "How can I earn more AI credits?",
+            "answer": "Users can earn free AI credits by inviting friends, posting on social media, writing blogs, leaving reviews, or attending webinars."
+        },
+        {
+            "question": "Is my data private on MindMap AI?",
+            "answer": "MindMap AI does not use user data to train AI models, ensuring privacy, and complies with GDPR and CCPA regulations."
+        }
+    ]
+}

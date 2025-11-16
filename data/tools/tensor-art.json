@@ -1,0 +1,60 @@
+{
+    "name": "Tensor.Art",
+    "description": "Tensor.Art is an AI-powered platform for generating and hosting high-quality images using advanced models like Stable Diffusion and LoRA.",
+    "longDescription": "Tensor.Art is a cloud-based AI platform designed to simplify the creation and hosting of AI-generated images for artists, designers, and enthusiasts. It leverages advanced models like Stable Diffusion, LoRA, and FLUX.1 to transform text prompts or images into diverse visual styles, from hyper-realistic to abstract art. The platform fosters a vibrant community where users can share, sell, or download custom models through an integrated marketplace. Its user-friendly interface eliminates the need for complex setup, making AI art creation accessible to all skill levels. Tensor.Art also supports API integration for seamless application development and offers tools for enhancing image quality, such as upscaling and denoising. By providing daily free credits and flexible subscription plans, it caters to both casual creators and professionals seeking efficient, high-quality visual solutions.",
+    "url": "https://tensor.art/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tensor.art.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "tensor-art",
+    "categories": [
+        "AI Image Generator",
+        "AI Developer Tools",
+        "AI Social Media",
+        "AI Image Enhancer"
+    ],
+    "features": [
+        "Text-to-image generation transforms detailed prompts into stunning visuals, enabling creative expression across various styles.",
+        "The integrated marketplace allows users to share, sell, or download custom AI models, fostering a collaborative creative economy.",
+        "Image enhancement tools like upscaling and denoising refine AI-generated images to meet professional standards.",
+        "ControlNet and ADetailer provide precise control over image structure, improving details like facial expressions and composition.",
+        "Daily free credits (100) enable users to experiment with image generation without initial investment.",
+        "API access supports seamless integration of AI art generation into external applications for developers and businesses.",
+        "Prompt enhancement and translation features optimize user inputs for better compatibility and results with AI models.",
+        "Community engagement tools allow users to share creations, receive feedback, and find inspiration from peers."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tensor.Art used for?",
+            "answer": "Tensor.Art is an AI platform for generating high-quality images from text prompts or existing images, ideal for artists, designers, and businesses creating visual content."
+        },
+        {
+            "question": "Is Tensor.Art free to use?",
+            "answer": "Yes, Tensor.Art offers 100 free daily credits for image generation, with premium subscriptions available for additional features and higher usage limits."
+        },
+        {
+            "question": "Can I create custom AI models on Tensor.Art?",
+            "answer": "Yes, users can create and fine-tune custom AI models using LoRA technology and share or sell them via the platform’s marketplace."
+        },
+        {
+            "question": "What types of AI models does Tensor.Art support?",
+            "answer": "Tensor.Art supports models like Stable Diffusion, LoRA, ControlNet, and FLUX.1, enabling diverse visual outputs from photorealistic to abstract styles."
+        },
+        {
+            "question": "How do I delete my Tensor.Art account?",
+            "answer": "To delete your account, join the Tensor.Art Discord server, open a ticket in the #Open Ticket channel, and submit a deletion request with your account details."
+        },
+        {
+            "question": "Can I use Tensor.Art for commercial projects?",
+            "answer": "Yes, Tensor.Art allows commercial use of generated images, but users must ensure compliance with the platform’s terms and model licensing agreements."
+        },
+        {
+            "question": "What are negative prompts, and how do they work?",
+            "answer": "Negative prompts allow users to specify unwanted elements in generated images, helping refine outputs by excluding specific details or styles."
+        },
+        {
+            "question": "Does Tensor.Art offer mobile apps?",
+            "answer": "Yes, Tensor.Art has mobile apps for iOS and Android, though some users report occasional technical issues with image generation."
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Elicit",
+    "description": "Elicit is an AI-powered research tool designed to streamline literature reviews and data analysis for academic and professional researchers.",
+    "longDescription": "Elicit is an AI-driven platform that assists researchers in conducting literature reviews by automating the process of finding, summarizing, and analyzing academic papers. It leverages advanced natural language processing to help users quickly identify relevant studies, extract key information, and synthesize insights. The platform is particularly valuable for academics, scientists, and professionals who need to process large volumes of research efficiently. Elicit’s mission is to accelerate scientific discovery by reducing the time and effort required for literature reviews. It serves users by providing a user-friendly interface that integrates AI to answer research questions and organize findings effectively. The tool is developed by a team focused on enhancing research productivity through AI innovation.",
+    "url": "https://elicit.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/elicit.com.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "elicit",
+    "categories": [
+        "AI Research Tool",
+        "AI Productivity Tools",
+        "AI Data Mining"
+    ],
+    "features": [
+        "Elicit enables users to search for academic papers using natural language queries, delivering relevant results quickly.",
+        "The platform automatically extracts key information, such as study findings and methodologies, from research papers.",
+        "Users can generate summaries of academic papers, saving time during literature reviews.",
+        "Elicit allows users to create custom research matrices to organize and compare data across multiple studies.",
+        "The tool supports iterative question-answering, refining search results based on user feedback.",
+        "It integrates with external databases to provide access to a wide range of academic literature.",
+        "Elicit offers exportable data tables for seamless integration into research workflows.",
+        "The platform provides AI-generated insights to help users identify trends and gaps in existing research."
+    ],
+    "faqs": [
+        {
+            "question": "What is Elicit used for?",
+            "answer": "Elicit is used to automate literature reviews by finding, summarizing, and analyzing academic papers for researchers."
+        },
+        {
+            "question": "Is Elicit free to use?",
+            "answer": "Elicit offers a free plan with limited features, while advanced functionalities require a paid subscription."
+        },
+        {
+            "question": "Can Elicit summarize research papers?",
+            "answer": "Yes, Elicit uses AI to generate concise summaries of academic papers, highlighting key findings and methodologies."
+        },
+        {
+            "question": "Who can benefit from using Elicit?",
+            "answer": "Academics, scientists, and professionals conducting research or literature reviews can benefit from Elicit’s tools."
+        },
+        {
+            "question": "Does Elicit support non-academic research?",
+            "answer": "While primarily designed for academic research, Elicit can assist with any data-driven research requiring literature analysis."
+        },
+        {
+            "question": "How accurate are Elicit’s AI-generated insights?",
+            "answer": "Elicit’s insights are based on advanced NLP models, but users should verify outputs for accuracy in critical research contexts."
+        },
+        {
+            "question": "Can I export data from Elicit?",
+            "answer": "Yes, Elicit allows users to export research data and matrices in formats compatible with other tools."
+        }
+    ]
+}

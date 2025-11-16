@@ -1,0 +1,58 @@
+{
+    "name": "Unlucid AI",
+    "description": "Unlucid AI provides free, uncensored AI tools for creating, editing, and animating images and videos to unleash user creativity.",
+    "longDescription": "Unlucid AI is a creative platform offering uncensored AI-powered tools designed for dreamers, artists, and content creators to generate, edit, and animate images and videos without restrictions. Its mission is to democratize creative expression by providing accessible, user-friendly technology that requires no advanced technical or editing skills. The platform supports a wide range of artistic styles and effects, enabling users to transform their ideas into stunning visual content through simple prompts. By offering free access to its core features, Unlucid AI aims to empower users to explore their imagination and bring unique visions to life. The website also includes an affiliate program for users to earn commissions by promoting its innovative tools.",
+    "url": "https://unlucid.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/unlucid.ai.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "unlucid-ai",
+    "categories": [
+        "AI Image Generator",
+        "AI Animation Generator",
+        "AI Photo Editor",
+        "AI Art Generator",
+        "Text to Image",
+        "Dirty Talking AI",
+        "AI Affiliate Marketing"
+    ],
+    "features": [
+        "AI Image Generation creates stunning images from text prompts, supporting five artistic styles including Realistic, Cartoon, and Anime.",
+        "Advanced Image Editing allows users to remove objects, change colors, or swap outfits in photos without requiring editing expertise.",
+        "Video Animation transforms static images into short videos with effects like Squish, 360° Microwave Spin, and Dancing.",
+        "High Resolution Upscale enhances image details, refining facial features and small elements for professional-quality outputs.",
+        "Prompting System enables users to craft detailed text descriptions to guide AI in creating precise visual content.",
+        "Image Reference Upload lets users provide images to maintain consistency with existing visual concepts during generation.",
+        "Affiliate Program offers a 30% commission and lifetime recurring earnings for promoting the platform."
+    ],
+    "faqs": [
+        {
+            "question": "What is Unlucid AI used for?",
+            "answer": "Unlucid AI provides tools to create, edit, and animate images and videos using AI, enabling users to bring creative ideas to life without technical skills."
+        },
+        {
+            "question": "Is Unlucid AI free to use?",
+            "answer": "Yes, Unlucid AI offers free access to its core features, with optional gem bundles for enhanced functionality."
+        },
+        {
+            "question": "Do I need editing experience to use Unlucid AI?",
+            "answer": "No, the platform is designed for all users, with an intuitive interface that requires no prior editing skills."
+        },
+        {
+            "question": "What types of content can I create with Unlucid AI?",
+            "answer": "You can generate images in various styles, edit photos, and animate videos with effects like Squish or Dancing using simple prompts."
+        },
+        {
+            "question": "How does the affiliate program work?",
+            "answer": "Users can join the affiliate program to earn a 30% commission on sales and lifetime recurring earnings through a unique referral link."
+        },
+        {
+            "question": "Can I control the style of generated images?",
+            "answer": "Yes, Unlucid AI offers five artistic styles and allows users to upload reference images or use specific keywords for customized outputs."
+        },
+        {
+            "question": "Is the content on Unlucid AI safe to use?",
+            "answer": "While the platform offers uncensored tools, users should exercise caution and verify content suitability, as some material may be adult-oriented."
+        }
+    ]
+}

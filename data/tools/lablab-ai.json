@@ -1,0 +1,65 @@
+{
+    "name": "LabLab.ai",
+    "description": "LabLab.ai is a platform that hosts AI hackathons and fosters innovation by connecting developers with cutting-edge AI technologies.",
+    "longDescription": "LabLab.ai is a community-driven platform focused on advancing artificial intelligence innovation through hackathons and collaborative events. It connects AI enthusiasts, developers, and industry professionals to build solutions using state-of-the-art AI technologies like GPT-4, Gemini, and Llama. The platform’s mission is to inspire founders and boost innovation by providing access to mentorship, resources, and modern AI tools. Participants can join online or in-person events to create AI-driven applications, compete for prizes, and gain opportunities to join the LabLab NEXT incubator program. By fostering a collaborative environment, LabLab.ai empowers users to solve real-world challenges and prototype innovative solutions. The platform also offers tutorials, boilerplates, and workshops to support AI education and development.",
+    "url": "https://lablab.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/lablab.ai.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "lablab-ai",
+    "categories": [
+        "AI Developer Tools",
+        "AI Course",
+        "AI Creative Writing",
+        "AI Tools Directory",
+        "AI Text Classifier",
+        "AI Coaching",
+        "AI Writing"
+    ],
+    "features": [
+        "Hosts AI-focused hackathons to encourage innovation and collaboration among developers and AI enthusiasts.",
+        "Provides access to cutting-edge AI technologies like OpenAI, Gemini, and Llama for building prototypes.",
+        "Offers mentorship from industry experts to guide participants during hackathons and project development.",
+        "Streams live events and project pitches on Twitch for community engagement and visibility.",
+        "Provides boilerplate repositories on GitHub for quick setup with AI models like Llama and CrewAI.",
+        "Runs the LabLab NEXT acceleration program to support early-stage AI startups with mentorship and resources.",
+        "Publishes AI tutorials and guides to help users learn about machine learning, NLP, and generative AI.",
+        "Facilitates global participation with hybrid online and in-person hackathon formats.",
+        "Awards prizes, such as cash and cloud credits, to winning hackathon teams to incentivize innovation.",
+        "Integrates with Discord for community support and real-time collaboration during events."
+    ],
+    "faqs": [
+        {
+            "question": "What is LabLab.ai?",
+            "answer": "LabLab.ai is a platform that organizes AI hackathons, connecting developers and AI enthusiasts to build innovative solutions using advanced AI technologies."
+        },
+        {
+            "question": "Do I need to pay to participate in LabLab.ai hackathons?",
+            "answer": "Participation in LabLab.ai hackathons is generally free, though some events may have specific requirements or optional paid features."
+        },
+        {
+            "question": "What kind of AI technologies can I use in LabLab.ai events?",
+            "answer": "Participants can use technologies like GPT-4, Gemini, Llama, Cohere, and more, with access to tutorials and boilerplates provided."
+        },
+        {
+            "question": "Can I participate in hackathons as an individual or do I need a team?",
+            "answer": "You can participate solo or as part of a team, but all participants must register individually on the LabLab.ai platform."
+        },
+        {
+            "question": "What is the LabLab NEXT program?",
+            "answer": "LabLab NEXT is an acceleration program for early-stage AI startups, offering mentorship, cloud credits, and support to refine and launch products."
+        },
+        {
+            "question": "How can I access tutorials or resources on LabLab.ai?",
+            "answer": "LabLab.ai provides free tutorials, guides, and boilerplates on its website and GitHub, covering AI technologies like machine learning and NLP."
+        },
+        {
+            "question": "Are hackathons held online or in-person?",
+            "answer": "LabLab.ai offers both online and in-person hackathons, with hybrid formats to accommodate global participants."
+        },
+        {
+            "question": "How are hackathon projects judged?",
+            "answer": "Projects are judged based on criteria outlined in the LabLab.ai Hackathon Rule Book, typically including innovation, functionality, and impact."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Nuelink",
+    "description": "Nuelink is a social media scheduling and automation tool designed to streamline content management for businesses and creators.",
+    "longDescription": "Nuelink is a cloud-based platform that simplifies social media management by offering scheduling, automation, and analytics for platforms like Facebook, Instagram, Twitter, LinkedIn, TikTok, and Pinterest. Its mission is to save time for busy entrepreneurs, e-commerce brands, and content creators by automating repetitive tasks and enabling bulk content scheduling. The platform integrates with tools like Shopify, WordPress, and Canva, allowing users to repurpose existing content effortlessly. By leveraging AI-driven features, such as caption generation and content suggestions, Nuelink helps users maintain a consistent online presence. It caters to solopreneurs, small businesses, and agencies looking to streamline their social media workflows. The intuitive interface and robust support make it accessible for users of all skill levels.",
+    "url": "https://nuelink.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/nuelink.com.webp",
+    "category": "AI Social Media",
+    "categorySlug": "ai-social-media",
+    "slug": "nuelink",
+    "categories": [
+        "AI Social Media",
+        "AI Scheduling",
+        "AI Caption Generator",
+        "AI For Data Analytics",
+        "AI Shopping Assistant",
+        "AI Repurpose",
+        "AI Project Management"
+    ],
+    "features": [
+        "Schedule posts across multiple platforms like Facebook, Instagram, and TikTok from a single dashboard, saving time and ensuring consistency.",
+        "Automate content posting by linking e-commerce stores, blogs, or YouTube channels, enabling hands-off social media management.",
+        "Use the AI assistant to generate engaging captions and hashtags, enhancing post quality and audience engagement.",
+        "Import and schedule hundreds of posts in bulk via CSV or Google Sheets, streamlining content planning for months in advance.",
+        "Track post performance with detailed analytics, providing insights to optimize future campaigns.",
+        "Manage comments across platforms in a unified interface, improving engagement efficiency.",
+        "Integrate with Canva to upload designs directly to Nuelink’s media library for seamless content creation.",
+        "Automatically retweet high-performing tweets based on set conditions, amplifying reach on Twitter.",
+        "Create collections to organize posts into categories, simplifying content management.",
+        "Use the Chrome extension to share text, links, or images directly from the web, speeding up content curation."
+    ],
+    "faqs": [
+        {
+            "question": "What social media platforms does Nuelink support?",
+            "answer": "Nuelink supports scheduling and posting on Facebook, Instagram, Twitter, LinkedIn, TikTok, Pinterest, YouTube, and Google Business Profiles."
+        },
+        {
+            "question": "Can I try Nuelink for free?",
+            "answer": "Yes, Nuelink offers a 14-day free trial to test its features without any upfront cost."
+        },
+        {
+            "question": "Does Nuelink support Instagram Stories scheduling?",
+            "answer": "No, due to Instagram API limitations, Nuelink cannot schedule Stories, but it supports images, videos, carousels, and Reels."
+        },
+        {
+            "question": "How does Nuelink’s AI assistant work?",
+            "answer": "The AI assistant suggests captions, hashtags, and post variations, helping users create engaging content faster."
+        },
+        {
+            "question": "Can I manage multiple brands or clients with Nuelink?",
+            "answer": "Yes, Nuelink allows you to create separate workspaces for different brands or clients and invite team members to collaborate."
+        },
+        {
+            "question": "Does Nuelink integrate with e-commerce platforms?",
+            "answer": "Yes, Nuelink integrates with Shopify and WooCommerce to automate product posting to social media."
+        },
+        {
+            "question": "How does bulk scheduling work?",
+            "answer": "Users can upload a CSV or Google Sheet with post details, and Nuelink schedules them automatically to selected platforms."
+        },
+        {
+            "question": "Is there a mobile app for Nuelink?",
+            "answer": "Currently, Nuelink is accessible via its web app and Chrome extension, with no dedicated mobile app mentioned."
+        }
+    ]
+}

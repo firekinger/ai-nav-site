@@ -1,0 +1,65 @@
+{
+    "name": "Quizgecko",
+    "description": "Quizgecko is an AI-powered platform that transforms content into quizzes, flashcards, and study materials for enhanced learning.",
+    "longDescription": "Quizgecko is an innovative AI-driven platform designed to streamline the creation of educational content by converting text, documents, or URLs into interactive quizzes, flashcards, and study notes. Founded in 2022, its mission is to make learning more accessible and engaging for students, educators, and professionals. The platform leverages advanced AI to generate diverse question types, saving time for users while enhancing comprehension and retention. It supports a wide range of users, from students preparing for exams to businesses creating training assessments. Quizgecko’s user-friendly interface and integration with learning management systems (LMS) make it a versatile tool for educational and professional settings. Its commitment to privacy ensures user data is protected and not used for AI training or third-party marketing.",
+    "url": "https://quizgecko.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/quizgecko.com.webp",
+    "category": "AI Quiz Generator",
+    "categorySlug": "ai-quiz-generator",
+    "slug": "quizgecko",
+    "categories": [
+        "AI Quiz Generator",
+        "AI Flashcard Maker",
+        "AI Article Summarizer",
+        "AI Coaching",
+        "AI Course",
+        "AI Language Learning",
+        "AI Homework Helper"
+    ],
+    "features": [
+        "AI Question Generator creates multiple-choice, true/false, short answer, matching, and fill-in-the-blank questions from any text or URL, saving time for educators and learners.",
+        "Spaced Repetition optimizes learning by revisiting difficult concepts at ideal intervals, enhancing long-term memory retention.",
+        "Assignment Tracking System provides analytics to monitor participant progress and performance, ideal for educators and trainers.",
+        "Content Transformation converts PDFs, DOCs, PPTs, and YouTube videos into quizzes and flashcards, streamlining study material creation.",
+        "Mobile App enables on-the-go access to quizzes and flashcards, making studying convenient and flexible.",
+        "Export Options allow quizzes to be exported in Aiken, CSV, or QTI formats for compatibility with LMS platforms like Canvas and Moodle.",
+        "Customizable Settings let users set quiz difficulty, question count, and language to tailor content to specific needs.",
+        "Embed Feature integrates quizzes into websites or LMS platforms, enhancing accessibility for students and teams.",
+        "QuickSnap Feature transforms photos of notes or textbooks into tailored quizzes, ideal for rapid study prep.",
+        "Mastery Score™ tracks user progress and proficiency, guiding focused study to improve retention."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Quizgecko generate quizzes from?",
+            "answer": "Quizgecko can generate quizzes from text, URLs, PDFs, DOCs, PPTs, YouTube videos, and even photos of notes or textbooks."
+        },
+        {
+            "question": "Is there a free plan available on Quizgecko?",
+            "answer": "Yes, Quizgecko offers a free plan that includes one lesson per month with a quiz, flashcards, study notes, and a podcast."
+        },
+        {
+            "question": "Can Quizgecko integrate with learning management systems?",
+            "answer": "Yes, Quizgecko supports exports in Aiken, CSV, and QTI formats, compatible with LMS platforms like Canvas, Blackboard, and Moodle."
+        },
+        {
+            "question": "How does the spaced repetition feature work?",
+            "answer": "Spaced repetition revisits challenging concepts at optimal intervals to improve memory retention, based on scientific learning principles."
+        },
+        {
+            "question": "Can I customize quiz settings on Quizgecko?",
+            "answer": "Yes, users can adjust difficulty levels, question types, number of questions, and language to suit their needs."
+        },
+        {
+            "question": "Does Quizgecko offer analytics for tracking progress?",
+            "answer": "Yes, the Assignment Tracking System provides detailed analytics on participant progress, completion status, and performance."
+        },
+        {
+            "question": "Is Quizgecko suitable for corporate training?",
+            "answer": "Yes, Quizgecko is ideal for businesses to create engaging training assessments and track employee progress."
+        },
+        {
+            "question": "How does Quizgecko ensure user privacy?",
+            "answer": "Quizgecko is GDPR and CCPA compliant, does not use user data for AI training, and avoids third-party marketing or tracking."
+        }
+    ]
+}

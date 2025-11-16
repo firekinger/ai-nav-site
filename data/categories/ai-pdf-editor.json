@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI PDF Editor Tools in 2025",
+    "summary": "Unlock the power of AI with our curated selection of AI PDF Editors, designed to streamline your document management. These innovative tools enhance your productivity by enabling seamless editing, conversion, and collaboration on PDF files. Say goodbye to tedious manual adjustments and hello to smart features that save you time and effort. Whether you need to annotate, merge, or extract data, our AI PDF Editors have you covered. Explore our collection today and transform the way you work with PDFs!",
+    "tools": [
+        {
+            "id": "148",
+            "name": "PDF Guru",
+            "slug": "pdf-guru",
+            "description": "PDF Guru provides tools for creating, editing, and managing PDF documents online.",
+            "icon": "/logo/pdfguru.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf-editor"
+            ]
+        },
+        {
+            "id": "267",
+            "name": "LightPDF",
+            "slug": "lightpdf",
+            "description": "LightPDF provides an all-in-one platform for PDF editing, conversion, and management with AI-powered tools.",
+            "icon": "/logo/lightpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf-editor"
+            ]
+        },
+        {
+            "id": "292",
+            "name": "PDFgear",
+            "slug": "pdfgear",
+            "description": "PDFgear is a free, AI-powered PDF editor offering tools to edit, convert, annotate, and manage PDF files across multiple platforms.",
+            "icon": "/logo/www.pdfgear.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf-editor"
+            ]
+        },
+        {
+            "id": "293",
+            "name": "UPDF",
+            "slug": "updf",
+            "description": "UPDF is an AI-integrated PDF editor that simplifies editing, annotating, converting, and organizing PDF documents across multiple platforms.",
+            "icon": "/logo/updf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-pdf-editor"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "title": "The Best 25 AI Game Generator Tools in 2025",
+    "summary": "Discover the exciting world of AI Game Generators, where creativity meets cutting-edge technology. These innovative tools empower developers and enthusiasts to effortlessly create unique games, from concept to execution, saving time and resources. With features like automated level design, character generation, and storyline crafting, you can bring your gaming ideas to life with ease. Whether you're a seasoned developer or a hobbyist, our curated selection of AI Game Generators will inspire your next project. Explore the tools in this category today and unlock your game development potential!",
+    "tools": [
+        {
+            "id": "431",
+            "name": "Human or Not",
+            "slug": "human-or-not-ai",
+            "description": "Human or Not is a social Turing game where users chat for two minutes to determine if their partner is a human or an AI bot.",
+            "icon": "/logo/www.humanornot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "432",
+            "name": "Aitubo",
+            "slug": "aitubo",
+            "description": "Aitubo is an AI-powered platform for generating high-quality images, videos, music, and avatars from text or images, catering to creators and artists.",
+            "icon": "/logo/aitubo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "462",
+            "name": "Hotpot.ai",
+            "slug": "hotpot-ai",
+            "description": "Hotpot.ai is an AI-powered platform for creating and enhancing images, graphics, and written content to boost creativity and productivity.",
+            "icon": "/logo/hotpot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "516",
+            "name": "Customuse",
+            "slug": "customuse",
+            "description": "Customuse is an AI-powered 3D design platform for creating and customizing game skins, AR filters, and clothing mockups.",
+            "icon": "/logo/customuse.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "557",
+            "name": "CGDream",
+            "slug": "cgdream-ai",
+            "description": "CGDream is an AI-powered image and 3D model generator that transforms text, images, or 3D inputs into stunning, customizable visuals.",
+            "icon": "/logo/cgdream.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "585",
+            "name": "Rosebud AI",
+            "slug": "rosebud-ai",
+            "description": "Rosebud AI enables users to create and deploy 2D and 3D games and creative apps using AI-driven tools without coding expertise.",
+            "icon": "/logo/www.rosebud.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "600",
+            "name": "3D AI Studio",
+            "slug": "3d-ai-studio",
+            "description": "3D AI Studio is an AI-powered platform for generating high-quality 3D models from text or images in seconds.",
+            "icon": "/logo/www.3daistudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "619",
+            "name": "Aimlabs",
+            "slug": "aimlabs",
+            "description": "Aimlabs is an AI-powered aim trainer designed to enhance FPS gaming skills through personalized tasks and analytics.",
+            "icon": "/logo/aimlabs.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "748",
+            "name": "DeepMotion",
+            "slug": "deepmotion",
+            "description": "DeepMotion provides AI-powered motion capture and 3D animation tools to create lifelike digital human movements for various industries.",
+            "icon": "/logo/www.deepmotion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "756",
+            "name": "YOUR.GG",
+            "slug": "your-gg",
+            "description": "YOUR.GG is a data analysis and networking platform designed to enhance League of Legends gameplay through AI-driven insights and community features.",
+            "icon": "/logo/your.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "768",
+            "name": "Ready Player Me",
+            "slug": "ready-player-me",
+            "description": "Ready Player Me is a cross-platform avatar creation platform that enables developers to integrate customizable 3D avatars into games and apps.",
+            "icon": "/logo/readyplayer.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "840",
+            "name": "Scenario",
+            "slug": "scenario",
+            "description": "Scenario is an AI-powered platform for creating and managing production-ready visual assets with precision and creative control.",
+            "icon": "/logo/www.scenario.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "912",
+            "name": "Move AI",
+            "slug": "move-ai",
+            "description": "Move AI is a cutting-edge platform that leverages artificial intelligence for markerless motion capture, enabling creators to convert video footage into high-quality 3D animations without specialized hardware.",
+            "icon": "/logo/www.move.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "930",
+            "name": "Inworld AI",
+            "slug": "inworld-ai",
+            "description": "Inworld AI is a platform that enables developers to create lifelike AI characters for immersive experiences in games, entertainment, and virtual worlds.",
+            "icon": "/logo/inworld.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Alpha3D",
+            "slug": "alpha3d",
+            "description": "Alpha3D is an AI-driven platform that allows users to generate high-quality 3D models from 2D images or text prompts for applications in AR, VR, gaming, and design.",
+            "icon": "/logo/www.alpha3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1016",
+            "name": "Sloyd",
+            "slug": "sloyd-ai",
+            "description": "Sloyd is an AI-powered platform that enables users to generate high-quality 3D models instantly from text prompts, streamlining creative workflows for designers and developers.",
+            "icon": "/logo/www.sloyd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1067",
+            "name": "Noctie.ai",
+            "slug": "noctie-ai",
+            "description": "Noctie.ai is an AI-powered chess learning platform that provides personalized, interactive training to help users improve their chess skills at any level.",
+            "icon": "/logo/noctie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1081",
+            "name": "Common Sense Machines",
+            "slug": "common-sense-machines-ai",
+            "description": "CSM.ai is an AI platform that transforms 2D images or text into interactive 3D models and scenes for creative and professional use.",
+            "icon": "/logo/www.csm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1164",
+            "name": "Powder",
+            "slug": "powder",
+            "description": "Powder is an AI-powered clipping tool that automatically generates highlight clips from gaming streams and videos for content creators.",
+            "icon": "/logo/powder.gg.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1196",
+            "name": "Kaedim",
+            "slug": "kaedim",
+            "description": "Kaedim is an AI-powered platform that transforms 2D images into production-ready 3D models to accelerate content creation for game developers and creators.",
+            "icon": "/logo/www.kaedim3d.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1222",
+            "name": "Ludo.ai",
+            "slug": "ludo-ai",
+            "description": "Ludo.ai is an AI-powered platform that accelerates game development by providing tools for ideation, research, and design.",
+            "icon": "/logo/ludo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1253",
+            "name": "AI Fiesta",
+            "slug": "ai-fiesta",
+            "description": "AI Fiesta is an AI-powered platform designed to revolutionize party planning and celebrations by generating creative ideas, invitations, and entertainment content.",
+            "icon": "/logo/aifiesta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1368",
+            "name": "OdysseyGPT",
+            "slug": "odysseygpt-ai",
+            "description": "OdysseyGPT is an AI-powered platform that uses advanced GPT technology to assist users in planning personalized travel adventures and itineraries.",
+            "icon": "/logo/www.odysseygpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1377",
+            "name": "Italian Brainrot",
+            "slug": "italian-brainrot",
+            "description": "Italian Brainrot is a playful AI-powered platform that generates humorous, meme-inspired content focused on Italian culture and language to entertain users with lighthearted 'brainrot' style diversions.",
+            "icon": "/logo/italian-brainrot.space.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        },
+        {
+            "id": "1071",
+            "name": "AI Dungeon",
+            "slug": "ai-dungeon",
+            "description": "AI Dungeon is an AI-powered interactive storytelling platform that allows users to create and experience infinite text-based adventures and role-playing games.",
+            "icon": "/logo/aidungeon.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-game-generator"
+            ]
+        }
+    ]
+}

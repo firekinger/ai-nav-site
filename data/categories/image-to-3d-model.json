@@ -1,0 +1,138 @@
+{
+    "title": "The Best 12 Image to 3D Model Tools in 2025",
+    "summary": "Transform your 2D images into stunning 3D models with our curated selection of AI tools in the 'Image to 3D Model' category. These innovative solutions streamline the modeling process, saving you time and enhancing creativity, whether you're a designer, architect, or hobbyist. Experience the power of AI to bring your visions to life, effortlessly converting flat images into dynamic, interactive 3D representations. Explore our tools today and unlock new dimensions in your projects!",
+    "tools": [
+        {
+            "id": "200",
+            "name": "Artguru",
+            "slug": "artguru",
+            "description": "Artguru is an AI-powered platform for creating and editing stunning digital art and images.",
+            "icon": "/logo/www.artguru.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "213",
+            "name": "Luma AI",
+            "slug": "luma-ai",
+            "description": "Luma AI provides advanced AI tools for creating and manipulating 3D content and videos from text, images, or videos.",
+            "icon": "/logo/lumalabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "301",
+            "name": "DreamFace",
+            "slug": "dreamface",
+            "description": "DreamFace is an AI-powered app that transforms photos into animated videos, avatars, and enhanced images with one-click simplicity.",
+            "icon": "/logo/www.dreamfaceapp.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "308",
+            "name": "Tripo3D",
+            "slug": "tripo3d",
+            "description": "Tripo3D is an AI-powered platform that transforms text prompts or images into high-quality 3D models for various creative and professional applications.",
+            "icon": "/logo/www.tripo3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "311",
+            "name": "ImagePrompt.org",
+            "slug": "imageprompt-org",
+            "description": "ImagePrompt.org is an AI-powered platform for creating and transforming image prompts to generate stunning AI art.",
+            "icon": "/logo/imageprompt.org.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "ClipDrop",
+            "slug": "clipdrop",
+            "description": "ClipDrop is an AI-powered platform for editing and creating professional-grade visuals with ease.",
+            "icon": "/logo/clipdrop.co.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Hyper3D",
+            "slug": "hyper3d",
+            "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+            "icon": "/logo/hyper3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "600",
+            "name": "3D AI Studio",
+            "slug": "3d-ai-studio",
+            "description": "3D AI Studio is an AI-powered platform for generating high-quality 3D models from text or images in seconds.",
+            "icon": "/logo/www.3daistudio.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Alpha3D",
+            "slug": "alpha3d",
+            "description": "Alpha3D is an AI-driven platform that allows users to generate high-quality 3D models from 2D images or text prompts for applications in AR, VR, gaming, and design.",
+            "icon": "/logo/www.alpha3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "1016",
+            "name": "Sloyd",
+            "slug": "sloyd-ai",
+            "description": "Sloyd is an AI-powered platform that enables users to generate high-quality 3D models instantly from text prompts, streamlining creative workflows for designers and developers.",
+            "icon": "/logo/www.sloyd.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "1081",
+            "name": "Common Sense Machines",
+            "slug": "common-sense-machines-ai",
+            "description": "CSM.ai is an AI platform that transforms 2D images or text into interactive 3D models and scenes for creative and professional use.",
+            "icon": "/logo/www.csm.ai.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        },
+        {
+            "id": "1196",
+            "name": "Kaedim",
+            "slug": "kaedim",
+            "description": "Kaedim is an AI-powered platform that transforms 2D images into production-ready 3D models to accelerate content creation for game developers and creators.",
+            "icon": "/logo/www.kaedim3d.com.webp",
+            "isFree": true,
+            "categories": [
+                "image-to-3d-model"
+            ]
+        }
+    ]
+}

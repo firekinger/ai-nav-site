@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Melody Generator Tools in 2025",
+    "summary": "Discover the world of AI Melody Generators, where creativity meets cutting-edge technology. These innovative tools empower musicians, composers, and hobbyists to effortlessly create unique melodies tailored to their projects. With features like customizable styles and instant playback, you can enhance your music production process and spark inspiration like never before. Whether you're a seasoned artist or just starting out, our AI Melody Generators are designed to meet your creative needs. Explore our curated selection of tools today and unlock your musical potential!",
+    "tools": [
+        {
+            "id": "1280",
+            "name": "SongAgent",
+            "slug": "songagent",
+            "description": "SongAgent is an AI-powered platform designed to assist musicians in creating, editing, and learning songs through intelligent tools.",
+            "icon": "/logo/songagent.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-melody-generator"
+            ]
+        }
+    ]
+}

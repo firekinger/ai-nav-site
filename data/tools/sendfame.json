@@ -1,0 +1,67 @@
+{
+    "name": "SendFame",
+    "description": "SendFame is an AI-powered platform for creating personalized celebrity video messages and custom music for personal and parody use.",
+    "longDescription": "SendFame is an innovative AI-driven platform that allows users to generate personalized video messages featuring AI-simulated celebrity voices and likenesses, as well as custom music tracks. The platform aims to make content creation fun and accessible, enabling users to craft unique messages for occasions like birthdays, announcements, or social media posts. By leveraging advanced natural language processing, neural networks, and machine learning, SendFame produces highly realistic voice impersonations and facial animations. It is designed strictly for personal and parody use, ensuring users can create engaging content without commercial exploitation. The user-friendly interface simplifies the process, making it accessible to both casual users and content creators. SendFame also offers a REST API for developers to integrate its capabilities into other applications.",
+    "url": "https://sendfame.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/sendfame.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "sendfame",
+    "categories": [
+        "AI Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Animation Generator",
+        "AI Music Generator",
+        "AI Content Detector",
+        "AI Meme Generator",
+        "AI Social Media Post Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI Celebrity Video Messages: Generate lifelike videos of celebrities delivering custom messages based on user input, perfect for personal greetings or parody content.",
+        "AI Music Generator: Create original songs or rap videos with AI-composed lyrics, vocals, and music videos in minutes, tailored to user-specified themes.",
+        "Realistic Voice Synthesis: Utilize advanced voice cloning to replicate celebrity vocal tones and characteristics for authentic-sounding messages.",
+        "Facial Animation Technology: Produce videos with precise lip synchronization and facial expressions that match the AI-generated voice for immersive results.",
+        "Custom Script Support: Allow users to input custom messages or lyrics to create unique, personalized video or audio content.",
+        "User-Friendly Interface: Offer a simple, intuitive platform that enables quick video creation without requiring technical expertise.",
+        "Shareable Video Formats: Render videos in popular formats for easy sharing on social media or other platforms.",
+        "Diverse Celebrity Library: Provide a wide selection of AI-generated celebrity voices and likenesses from entertainment, sports, and politics.",
+        "Poem Mode: Enable users to create unique AI-generated poetry integrated into video or audio content for creative expression.",
+        "REST API Integration: Allow developers to incorporate SendFame’s video and music generation capabilities into third-party applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is SendFame used for?",
+            "answer": "SendFame creates personalized AI-generated celebrity video messages and custom music for personal and parody use, such as birthday wishes, announcements, or social media content."
+        },
+        {
+            "question": "How do I create a video on SendFame?",
+            "answer": "Select a celebrity from the library, input your desired message or script, and the AI generates the script, voice, and video, which you can download or share."
+        },
+        {
+            "question": "Which celebrities are available on SendFame?",
+            "answer": "SendFame offers a diverse library including AI versions of celebrities like Elon Musk, Taylor Swift, Cristiano Ronaldo, and Morgan Freeman, among others."
+        },
+        {
+            "question": "Can I use SendFame videos for commercial purposes?",
+            "answer": "No, SendFame videos are strictly for personal and parody use under fair use copyright law and cannot be used commercially."
+        },
+        {
+            "question": "How realistic are the AI-generated videos?",
+            "answer": "SendFame uses advanced natural language processing and neural networks to create highly realistic voice impersonations and facial animations that closely mimic celebrities."
+        },
+        {
+            "question": "Is there a free plan available on SendFame?",
+            "answer": "Yes, SendFame offers a free tier with limited features, allowing users to explore its capabilities before opting for paid plans."
+        },
+        {
+            "question": "How can I contact SendFame for support?",
+            "answer": "You can reach SendFame’s customer support via email at info@sendfame.com, with responses typically provided within 24 hours."
+        },
+        {
+            "question": "Does SendFame offer tools for music creation?",
+            "answer": "Yes, SendFame’s AI Music Generator creates custom songs or rap videos with AI-composed lyrics and vocals based on user prompts."
+        }
+    ]
+}

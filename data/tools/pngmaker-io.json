@@ -1,0 +1,64 @@
+{
+    "name": "PNGMaker.io",
+    "description": "PNGMaker.io is an AI-driven online platform that allows users to generate, edit, and customize transparent PNG images effortlessly.",
+    "longDescription": "PNGMaker.io is a web-based tool designed to simplify the creation and manipulation of PNG images, leveraging AI to handle tasks like background removal and image generation. Its mission is to make professional-grade image editing accessible to everyone, from designers to casual users, without the need for advanced software. The platform solves common problems such as dealing with image transparency, format conversion, and quick edits by providing intuitive AI-powered features. Users can upload images or generate new ones from scratch, benefiting from automated processes that save time and effort. Overall, it serves as a go-to resource for creating high-quality, transparent graphics for web design, marketing, and personal projects.",
+    "url": "https://pngmaker.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pngmaker.io.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "pngmaker-io",
+    "categories": [
+        "AI Image Generator",
+        "AI Background Remover",
+        "AI Graphic Design",
+        "AI Photo Editor",
+        "AI Writing Assistants",
+        "AI Art Generator",
+        "AI Website Designer",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI-powered background removal that automatically detects and eliminates backgrounds from images, producing clean transparent PNGs in seconds.",
+        "Text-to-PNG generation allowing users to create custom images from descriptive text prompts, ideal for quick icon or graphic design.",
+        "Image editing tools for cropping, resizing, and applying filters to PNG files without losing quality or transparency.",
+        "Batch processing feature that enables users to handle multiple images at once, streamlining workflows for bulk edits.",
+        "Customizable templates for common PNG needs like logos, stickers, or social media graphics, speeding up the design process.",
+        "Export options in high resolution, ensuring PNG files are optimized for web or print use.",
+        "Integration with cloud storage for easy upload and download of images directly from services like Google Drive.",
+        "Real-time preview functionality that lets users see changes instantly before finalizing their PNG creations."
+    ],
+    "faqs": [
+        {
+            "question": "What is PNGMaker.io?",
+            "answer": "PNGMaker.io is an online AI tool for creating and editing transparent PNG images. It uses advanced algorithms to handle tasks like background removal and image generation."
+        },
+        {
+            "question": "Is PNGMaker.io free to use?",
+            "answer": "Yes, PNGMaker.io offers free access to its core features with some limitations on usage. Premium plans are available for unlimited access and advanced tools."
+        },
+        {
+            "question": "How does the AI background removal work?",
+            "answer": "The AI analyzes the image to distinguish foreground from background and removes it automatically. Users can upload any image format, and it outputs a transparent PNG."
+        },
+        {
+            "question": "Can I generate PNGs from text descriptions?",
+            "answer": "Yes, the text-to-PNG feature allows you to input descriptive text, and the AI generates a corresponding image in PNG format. It's great for custom graphics without design skills."
+        },
+        {
+            "question": "What file formats does PNGMaker.io support for input?",
+            "answer": "It supports common formats like JPG, JPEG, and GIF for uploads, converting them to high-quality PNGs after editing."
+        },
+        {
+            "question": "Is there a limit on image size or resolution?",
+            "answer": "Free users have limits on file size and resolution, but premium users can process larger files. Always check the site's guidelines for current limits."
+        },
+        {
+            "question": "Can I use PNGMaker.io for commercial projects?",
+            "answer": "Yes, images created or edited on PNGMaker.io can be used commercially, but ensure you have rights to any uploaded content."
+        },
+        {
+            "question": "How secure is uploading images to PNGMaker.io?",
+            "answer": "The platform uses encryption for uploads and does not store images permanently unless you choose to save them in your account."
+        }
+    ]
+}

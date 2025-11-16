@@ -1,0 +1,68 @@
+{
+    "name": "MyShell AI",
+    "description": "MyShell AI is a platform for creating, sharing, and owning AI-powered agents and creative tools for image generation, voice cloning, and chatbots.",
+    "longDescription": "MyShell AI is a decentralized, AI-powered platform designed to empower users to build, customize, and share AI agents and applications without coding expertise. It integrates blockchain technology to ensure creators retain ownership and can monetize their AI creations, fostering a fair and collaborative ecosystem. The platform supports a vibrant community of over 170,000 AI creators and 5 million users, offering tools for generating images, cloning voices, and creating interactive chatbots. MyShell aims to democratize AI development, making it accessible to non-technical users while addressing concerns like data privacy and centralized control. By combining generative AI with blockchain, it enables creators to develop innovative applications across entertainment, productivity, and more. The platform also offers a no-code interface, allowing anyone to become a 'super creator' and contribute to its international AI Agent Store.",
+    "url": "https://app.myshell.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/app.myshell.ai.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "myshell-ai",
+    "categories": [
+        "AI Agent",
+        "AI Image Generator",
+        "AI Voice Cloning",
+        "No-Code&Low-Code",
+        "Blockchain",
+        "AI Photo Filter",
+        "AI Text-to-Speech",
+        "AI Business Ideas Generator",
+        "AI Tools Directory",
+        "AI Meme Generator"
+    ],
+    "features": [
+        "ShellAgent provides a no-code framework to create AI agents by connecting widgets and defining workflows, enabling rapid development for all users.",
+        "AI image generation transforms selfies or photos into professional portraits or anime-style visuals, enhancing creative output.",
+        "Voice cloning, developed with MIT, allows users to create high-quality, multi-lingual text-to-speech outputs for various applications.",
+        "The MakerSpace feature enables users to build and monetize AI apps or chatbots, supporting text, image, audio, and video generation.",
+        "The platform integrates with Telegram, allowing seamless interaction with AI assistants for entertainment and productivity.",
+        "AI-powered photo filters let users create viral memes or enhance images with diverse, up-to-date effects.",
+        "The Launchpad loyalty program rewards users with shell coins for engagement, enhancing their AI experience.",
+        "The AI Agent Store allows creators to share and sell their AI agents, fostering a collaborative creator economy.",
+        "The platform supports autonomous AI agents that reduce development time by up to 75%, streamlining app creation.",
+        "Multi-lingual text-to-speech supports languages like English, Spanish, French, Chinese, Japanese, and Korean for global accessibility."
+    ],
+    "faqs": [
+        {
+            "question": "What is MyShell AI?",
+            "answer": "MyShell AI is a platform that allows users to create, customize, and share AI agents and apps for tasks like image generation, voice cloning, and chatbot development. It uses a no-code interface and blockchain technology to ensure creator ownership and fair monetization."
+        },
+        {
+            "question": "Do I need coding skills to use MyShell?",
+            "answer": "No, MyShell’s ShellAgent and MakerSpace features provide a no-code interface, making it easy for anyone to create AI agents or apps without programming knowledge."
+        },
+        {
+            "question": "Is MyShell free to use?",
+            "answer": "MyShell offers a free plan with limited access to its core features, though some advanced functionalities may require a subscription or payment."
+        },
+        {
+            "question": "What types of AI applications can I create?",
+            "answer": "You can create AI apps for text translation, image generation, audio creation, video processing, and interactive chatbots, all customizable to your needs."
+        },
+        {
+            "question": "How does MyShell ensure creator ownership?",
+            "answer": "MyShell uses blockchain technology to give creators ownership of their AI agents, allowing them to share, monetize, and control their work in a decentralized ecosystem."
+        },
+        {
+            "question": "Can I use MyShell on my iPad?",
+            "answer": "While MyShell is currently optimized for iPhone, an iPad-specific version is in development to ensure compatibility and a seamless experience."
+        },
+        {
+            "question": "What is the AI Agent Store?",
+            "answer": "The AI Agent Store is MyShell’s marketplace where creators can share or sell their AI agents, enabling users worldwide to access and use them."
+        },
+        {
+            "question": "How secure is my data on MyShell?",
+            "answer": "MyShell prioritizes user privacy with blockchain-based decentralization, though specific data handling practices may vary based on features used."
+        }
+    ]
+}

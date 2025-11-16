@@ -1,0 +1,60 @@
+{
+    "name": "RunPod",
+    "description": "RunPod is a cloud computing platform designed for AI and machine learning, offering scalable GPU resources for training, deploying, and scaling AI models.",
+    "longDescription": "RunPod is a cloud computing platform tailored for AI and machine learning workloads, providing developers with affordable and scalable GPU resources. Founded in 2022, it aims to simplify the process of building, training, and deploying AI models by offering flexible, pay-as-you-go GPU instances and serverless computing options. The platform supports a global community of over 400,000 developers, enabling both individual innovators and enterprise teams to execute AI-driven projects efficiently. RunPod’s infrastructure is optimized for low-latency performance across multiple regions, eliminating the need for users to manage complex server setups. By prioritizing developer experience, it empowers users to focus on coding and innovation rather than infrastructure management. Its recent $20M seed funding underscores its rapid growth and commitment to advancing AI infrastructure.",
+    "url": "https://www.runpod.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.runpod.io.webp",
+    "category": "AI Developer Tools",
+    "categorySlug": "ai-developer-tools",
+    "slug": "runpod",
+    "categories": [
+        "AI Developer Tools"
+    ],
+    "features": [
+        "GPU Cloud enables users to spin up on-demand GPU instances in seconds for AI model training and inference.",
+        "Serverless computing provides autoscaling API endpoints for efficient, cost-effective AI model deployment in production.",
+        "Global infrastructure across 8+ regions ensures low-latency performance and high reliability for AI workloads.",
+        "Pay-as-you-go pricing with millisecond billing minimizes costs by charging only for compute time used.",
+        "Pre-built templates simplify deployment of AI workflows, allowing users to start projects without complex configurations.",
+        "S3-compatible storage enables seamless data management without incurring egress fees for AI pipelines.",
+        "Dockerless CLI (runpodctl) streamlines AI development by enabling faster deployment and iteration without Docker.",
+        "Secure Cloud offers high-security environments for sensitive workloads, ensuring data privacy and compliance.",
+        "Community Cloud provides cost-effective, peer-to-peer GPU computing through vetted providers worldwide.",
+        "Multi-GPU clusters support scalable training for large models, with high-speed interconnects for performance.",
+        "REST API integration allows programmatic management of pods and resources for automated workflows."
+    ],
+    "faqs": [
+        {
+            "question": "What is RunPod used for?",
+            "answer": "RunPod is used for training, fine-tuning, and deploying AI models, offering scalable GPU resources for machine learning and compute-intensive workloads."
+        },
+        {
+            "question": "Does RunPod offer a free plan?",
+            "answer": "RunPod does not offer a free plan but allows users to start with as little as $10 in account credits to try its services."
+        },
+        {
+            "question": "What is the difference between Secure Cloud and Community Cloud?",
+            "answer": "Secure Cloud runs in high-reliability T3/T4 data centers for sensitive workloads, while Community Cloud offers cost-effective peer-to-peer GPU computing."
+        },
+        {
+            "question": "How does RunPod’s pricing work?",
+            "answer": "RunPod uses a pay-as-you-go model with per-second billing for active compute time, and storage fees apply for stopped but undeleted pods."
+        },
+        {
+            "question": "Can I run custom AI models on RunPod?",
+            "answer": "Yes, RunPod supports custom AI models through flexible Docker containers and pre-configured templates for various AI tasks."
+        },
+        {
+            "question": "How fast can I deploy a GPU instance on RunPod?",
+            "answer": "Users can deploy a fully-loaded GPU instance in under a minute using RunPod’s streamlined interface."
+        },
+        {
+            "question": "Does RunPod support large language models (LLMs)?",
+            "answer": "Yes, RunPod is optimized for LLMs, offering vLLM workers and OpenAI-compatible endpoints for efficient inference."
+        },
+        {
+            "question": "What security measures does RunPod provide?",
+            "answer": "RunPod ensures data privacy in multi-tenant environments and offers Secure Cloud for enhanced security, with GDPR compliance monitoring."
+        }
+    ]
+}

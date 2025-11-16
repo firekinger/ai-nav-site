@@ -1,0 +1,77 @@
+{
+    "name": "Kaiber",
+    "description": "Kaiber is an AI-powered creative platform for generating stunning videos, animations, and visuals from text, images, or audio inputs.",
+    "longDescription": "Kaiber is an AI-driven creative lab designed to empower artists, musicians, and content creators by transforming their ideas into high-quality videos and animations. Launched in 2023, it focuses on the intersection of artistry and technology, offering tools that enhance creativity without replacing the human touch. The platform's Superstudio feature provides an intuitive, infinite canvas where users can experiment with AI models for image, video, and audio generation. Kaiber serves a diverse audience, including marketers, filmmakers, and musicians, by streamlining the creative process and enabling professional-grade outputs. Its mission is to unlock endless creative possibilities through seamless human-AI collaboration. The platform also fosters a vibrant community through Discord, where users share tips, attend workshops, and explore new features.",
+    "url": "https://www.kaiber.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.kaiber.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "kaiber",
+    "categories": [
+        "AI Video Generator",
+        "Text to Video",
+        "Image to Video",
+        "AI Art Generator",
+        "AI Animation Generator",
+        "Script To Video AI Generator",
+        "AI Video Upscaler",
+        "AI Digital Marketing",
+        "AI Design Assistant"
+    ],
+    "features": [
+        "Text-to-video generation converts descriptive text into dynamic video narratives, enabling seamless storytelling for users of all skill levels.",
+        "Image-to-video conversion animates static images with movement and transitions, ideal for creating engaging marketing or presentation content.",
+        "Audioreactivity synchronizes visuals with audio, perfect for musicians and creators crafting immersive, rhythm-driven experiences.",
+        "Video upscaling enhances resolutions up to 4K, ensuring professional-quality outputs suitable for commercial applications.",
+        "Artistic style transfer applies unique visual themes to videos, allowing creators to customize aesthetics for a distinctive look.",
+        "Storyboard sequencing organizes multiple scenes into cohesive narratives, facilitating complex video production.",
+        "Superstudio’s infinite canvas integrates multiple AI tools, enabling users to generate, refine, and manage projects in one intuitive workspace.",
+        "Custom model training allows users to create visuals that mirror their unique style, ensuring cohesive outputs across projects.",
+        "Drag-and-drop functionality simplifies navigation, making the platform accessible for beginners and professionals alike.",
+        "Mobile accessibility via iOS and Android apps lets users create and edit content on the go.",
+        "Real-time previews provide instant feedback on creations, streamlining the iterative design process.",
+        "Social sharing features enable users to easily distribute their videos across platforms, boosting visibility."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kaiber AI used for?",
+            "answer": "Kaiber AI is used to create videos, animations, and visuals from text, images, or audio, catering to artists, musicians, and marketers."
+        },
+        {
+            "question": "Does Kaiber offer a free plan?",
+            "answer": "Yes, Kaiber provides a free tier with 50 credits for experimenting with image and video generation, though advanced features require a paid subscription."
+        },
+        {
+            "question": "Can I use Kaiber on my mobile device?",
+            "answer": "Kaiber is available as a mobile app for iOS and Android, allowing users to create and edit content anytime, anywhere."
+        },
+        {
+            "question": "What is Superstudio in Kaiber?",
+            "answer": "Superstudio is Kaiber’s core platform, offering an infinite canvas with integrated AI tools for generating and refining creative projects."
+        },
+        {
+            "question": "How does audioreactivity work in Kaiber?",
+            "answer": "Audioreactivity synchronizes visuals with audio cues, enabling dynamic videos that respond to music or voiceovers for enhanced engagement."
+        },
+        {
+            "question": "Is Kaiber suitable for professional projects?",
+            "answer": "Yes, Kaiber supports professional applications with features like 4K upscaling and customizable animations, ideal for marketing, music videos, and more."
+        },
+        {
+            "question": "Can I customize the style of my videos?",
+            "answer": "Kaiber offers artistic style transfer and custom model training to apply unique aesthetics and maintain consistent visual styles."
+        },
+        {
+            "question": "How does the credit system work?",
+            "answer": "Credits are used to access Kaiber’s tools; they are consumed per generation, and additional credits can be purchased via subscriptions or packs."
+        },
+        {
+            "question": "What types of users benefit from Kaiber?",
+            "answer": "Kaiber benefits artists, musicians, marketers, filmmakers, and creators seeking to produce high-quality AI-generated videos and animations."
+        },
+        {
+            "question": "Does Kaiber support collaboration?",
+            "answer": "Kaiber fosters collaboration through its Discord community, where users share tips, attend workshops, and explore new features."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "ClickUp",
+    "description": "ClickUp is an all-in-one productivity platform designed to align, collaborate, and enhance work efficiency, aiming to save teams a day every week by consolidating projects, knowledge, and conversations into one app.",
+    "longDescription": "ClickUp is an all-in-one productivity platform designed to align, collaborate, and enhance work efficiency, aiming to save teams a day every week by consolidating projects, knowledge, and conversations into one app. It offers a wide range of features including task management, chat, docs, calendars, and AI-driven tools, and is available with a 'Free Forever' plan that requires no credit card. The platform is trusted by leading businesses like Siemens, AT&T, and American Airlines, and is praised for its flexibility to handle various types of work, continuously innovating to meet team needs. With over 25,000 reviews and a 4.6-star rating, ClickUp replaces the need for multiple apps, reducing app-switching and boosting productivity. Its mission is to provide a comprehensive workspace that connects every aspect of work, powered by AI, to help teams work smarter and faster.",
+    "url": "https://clickup.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/clickup.com.webp",
+    "category": "AI Project Management",
+    "categorySlug": "ai-project-management",
+    "slug": "clickup",
+    "categories": [
+        "AI Project Management",
+        "AI Search Engine",
+        "AI Writing Assistants",
+        "AI Workflow",
+        "AI Productivity Tools",
+        "AI Writing",
+        "AI Task Management"
+    ],
+    "features": [
+        "Tasks: Manage and organize tasks to keep teams aligned and productive.",
+        "Chat: Facilitate real-time communication and collaboration within the platform.",
+        "Docs: Create and collaborate on documents directly in the app.",
+        "Calendar: Plan and track schedules and deadlines with an integrated calendar.",
+        "AI: Utilize AI to enhance productivity across various work aspects, including content creation and search.",
+        "Time Tracking: Monitor time spent on tasks to optimize productivity and resource allocation.",
+        "Gantt: Visualize project timelines and dependencies with Gantt charts.",
+        "Dashboards: Gain insights and overview project progress through customizable dashboards.",
+        "Forms: Collect information and feedback using built-in forms.",
+        "Whiteboards: Collaborate visually with whiteboards for brainstorming and planning.",
+        "Sprints: Manage agile workflows with sprint planning and tracking.",
+        "Automations: Streamline workflows by automating repetitive tasks and processes."
+    ],
+    "faqs": [
+        {
+            "question": "Is ClickUp free to use?",
+            "answer": "Yes, ClickUp offers a 'Free Forever' plan with no credit card required, providing access to essential features."
+        },
+        {
+            "question": "What types of work can ClickUp handle?",
+            "answer": "ClickUp’s exceptional flexibility can handle any type of work, from project management to marketing, engineering, and agency tasks, with customizable workflows."
+        },
+        {
+            "question": "Does ClickUp integrate with other tools?",
+            "answer": "Yes, ClickUp easily integrates with tools like Google Drive, GitHub, Salesforce, and more, and can replace the need for multiple apps."
+        },
+        {
+            "question": "How does ClickUp use AI?",
+            "answer": "ClickUp’s AI, called ClickUp Brain, powers company-wide productivity by connecting work across apps and providing features like enterprise search and AI-powered writing support."
+        },
+        {
+            "question": "Can I customize ClickUp for my team’s needs?",
+            "answer": "Yes, configuring ClickUp for different types of work is easy, with options like custom fields, templates, and flexible workflows."
+        },
+        {
+            "question": "What are the benefits of using ClickUp for teams?",
+            "answer": "ClickUp brings teams together into one place for better collaboration, reduces delivery times with templates, and optimizes resources, as evidenced by testimonials from users."
+        },
+        {
+            "question": "How do I get started with ClickUp?",
+            "answer": "Start by setting up your workspace with the basics, customize as needed, and use templates to get teams running efficiently."
+        },
+        {
+            "question": "Does ClickUp offer templates for specific teams?",
+            "answer": "Yes, ClickUp provides templates for marketing, engineering, product management, and agencies to help teams get started instantly."
+        },
+        {
+            "question": "What views are available in ClickUp?",
+            "answer": "ClickUp offers 15 views including list, board, Gantt, and more, allowing teams to switch instantly based on preference."
+        },
+        {
+            "question": "How does ClickUp help with productivity?",
+            "answer": "ClickUp organizes tasks, collaborates on docs, tracks goals, and streamlines communication, all enhanced by AI to supercharge productivity."
+        }
+    ]
+}

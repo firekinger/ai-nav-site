@@ -1,0 +1,523 @@
+{
+    "title": "The Best 47 AI Models Tools in 2025",
+    "summary": "Discover the power of AI Models, where cutting-edge technology meets innovative solutions tailored to your needs. This category showcases a diverse range of AI models designed to enhance productivity, streamline processes, and drive data-driven decision-making. Whether you're looking to automate tasks, analyze data, or create intelligent applications, our curated selection of tools offers the perfect fit for every project. Explore the transformative potential of AI Models today and unlock new possibilities for your business. Dive in now to find the ideal tool that meets your unique requirements!",
+    "tools": [
+        {
+            "id": "373",
+            "name": "Appen",
+            "slug": "appen",
+            "description": "Appen provides high-quality datasets and services to power AI and machine learning for global enterprises.",
+            "icon": "/logo/www.appen.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "466",
+            "name": "Mercor",
+            "slug": "mercor",
+            "description": "Mercor is an AI-powered hiring platform that connects skilled professionals with global job opportunities.",
+            "icon": "/logo/mercor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "502",
+            "name": "Vast.ai",
+            "slug": "vast-ai",
+            "description": "Vast.ai provides a cloud computing marketplace for renting and hosting affordable GPU resources for AI and ML workloads.",
+            "icon": "/logo/vast.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "530",
+            "name": "Gencraft",
+            "slug": "gencraft",
+            "description": "Gencraft is an AI-powered platform that transforms text prompts into stunning digital art, images, videos, and emojis.",
+            "icon": "/logo/gencraft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "558",
+            "name": "Upscayl",
+            "slug": "upscayl",
+            "description": "Upscayl is a free, open-source AI image upscaler that enhances low-resolution images for Linux, MacOS, and Windows.",
+            "icon": "/logo/upscayl.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "591",
+            "name": "Exa",
+            "slug": "exa-ai",
+            "description": "Exa is an AI-powered search engine designed to provide real-time, high-quality web data for AI applications.",
+            "icon": "/logo/exa.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "651",
+            "name": "Jan",
+            "slug": "jan-ai",
+            "description": "Jan is an open-source AI platform that runs 100% offline, offering privacy-focused AI assistant capabilities on your device.",
+            "icon": "/logo/jan.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "683",
+            "name": "Flair AI",
+            "slug": "flair-ai",
+            "description": "Flair AI is an AI-powered design tool for creating professional product photography and branded visual content for e-commerce.",
+            "icon": "/logo/flair.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "771",
+            "name": "Boomy",
+            "slug": "boomy",
+            "description": "Boomy is an AI-powered platform that enables users to create and monetize original music effortlessly.",
+            "icon": "/logo/boomy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "797",
+            "name": "The New Black",
+            "slug": "the-new-black-ai",
+            "description": "The New Black is an AI-powered platform that revolutionizes fashion design by generating unique clothing, bags, and shoe designs in seconds.",
+            "icon": "/logo/thenewblack.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "805",
+            "name": "AI/ML API",
+            "slug": "aiml-api",
+            "description": "AI/ML API provides access to over 300 AI models through a single, unified API for developers and businesses.",
+            "icon": "/logo/aimlapi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "840",
+            "name": "Scenario",
+            "slug": "scenario",
+            "description": "Scenario is an AI-powered platform for creating and managing production-ready visual assets with precision and creative control.",
+            "icon": "/logo/www.scenario.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "876",
+            "name": "RunDiffusion",
+            "slug": "rundiffusion",
+            "description": "RunDiffusion is a cloud-based platform that enables users to generate AI-powered images using models like Stable Diffusion without requiring powerful local hardware.",
+            "icon": "/logo/rundiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "881",
+            "name": "Landing AI",
+            "slug": "landing-ai",
+            "description": "Landing AI is a platform that empowers businesses to build, train, and deploy custom computer vision models for visual inspection and automation tasks.",
+            "icon": "/logo/landing.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "804",
+            "name": "MindVideo AI",
+            "slug": "mindvideo-ai",
+            "description": "MindVideo AI is a free online AI video generator that transforms text or images into stunning videos using innovative AI effects and models.",
+            "icon": "/logo/www.mindvideo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "896",
+            "name": "Doctronic.ai",
+            "slug": "doctronic-ai",
+            "description": "Doctronic.ai is an AI-powered platform that automates document processing and analysis for businesses and professionals.",
+            "icon": "/logo/www.doctronic.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "902",
+            "name": "Cartesia",
+            "slug": "cartesia-ai",
+            "description": "Cartesia is an AI platform specializing in real-time generative voice technology for developers to create interactive and immersive audio experiences.",
+            "icon": "/logo/cartesia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "908",
+            "name": "Encord",
+            "slug": "encord",
+            "description": "Encord is a data-centric AI platform that enables teams to annotate, curate, and manage visual data for building high-performance computer vision models.",
+            "icon": "/logo/encord.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "924",
+            "name": "FocalML",
+            "slug": "focalml",
+            "description": "FocalML is an AI-powered platform specializing in machine learning tools for image analysis and computer vision tasks.",
+            "icon": "/logo/focalml.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "960",
+            "name": "Alpha3D",
+            "slug": "alpha3d",
+            "description": "Alpha3D is an AI-driven platform that allows users to generate high-quality 3D models from 2D images or text prompts for applications in AR, VR, gaming, and design.",
+            "icon": "/logo/www.alpha3d.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "996",
+            "name": "Novita AI",
+            "slug": "novita-ai",
+            "description": "Novita AI is a platform providing fast, affordable API access to advanced AI models for image generation, text-to-image, and other generative tasks.",
+            "icon": "/logo/novita.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1035",
+            "name": "TheB.AI",
+            "slug": "theb-ai",
+            "description": "TheB.AI is a comprehensive AI platform that provides access to multiple large language models for chat, search, image generation, and productivity tasks.",
+            "icon": "/logo/www.theb.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1037",
+            "name": "Fireworks AI",
+            "slug": "fireworks-ai",
+            "description": "Fireworks AI is a platform that provides high-speed, scalable APIs for running open-source generative AI models, enabling developers to build and deploy AI applications efficiently.",
+            "icon": "/logo/fireworks.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1047",
+            "name": "Bagel",
+            "slug": "bagel-ai",
+            "description": "Bagel.ai is a no-code platform empowering businesses to build, deploy, and manage custom AI models for data analysis and automation without requiring programming expertise.",
+            "icon": "/logo/bagel.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1048",
+            "name": "Mindsera",
+            "slug": "mindsera",
+            "description": "Mindsera is an AI-powered journaling app designed to enhance mindset, productivity, and personal growth through intelligent insights and habit tracking.",
+            "icon": "/logo/www.mindsera.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1094",
+            "name": "Argil",
+            "slug": "argil-ai",
+            "description": "Argil is a no-code platform that enables users to build and deploy AI agents for automating workflows and tasks efficiently.",
+            "icon": "/logo/www.argil.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1154",
+            "name": "Maximo AI",
+            "slug": "maximo-ai",
+            "description": "Maximo AI is a platform offering advanced AI-driven solutions to optimize business operations and asset management.",
+            "icon": "/logo/maximoai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1181",
+            "name": "Astria.ai",
+            "slug": "astria-ai",
+            "description": "Astria.ai is an AI platform that enables users to fine-tune Stable Diffusion models with their own images for generating custom, high-quality visuals tailored to specific needs.",
+            "icon": "/logo/www.astria.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1207",
+            "name": "BuildShip",
+            "slug": "buildship",
+            "description": "BuildShip is a platform that enables users to create AI workflows and backend APIs quickly using pre-built nodes and AI, without the need for coding.",
+            "icon": "/logo/buildship.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1214",
+            "name": "ThinkDiffusion",
+            "slug": "thinkdiffusion",
+            "description": "ThinkDiffusion is a cloud-based platform providing access to open-source generative AI tools for creating art, animations, and videos in a private workspace.",
+            "icon": "/logo/www.thinkdiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1215",
+            "name": "Segment Anything",
+            "slug": "segment-anything",
+            "description": "Segment Anything is an AI-powered platform by Meta that provides advanced image segmentation models and tools for identifying and isolating objects in images with high precision.",
+            "icon": "/logo/segment-anything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1228",
+            "name": "Voxel51",
+            "slug": "voxel51",
+            "description": "Voxel51 offers FiftyOne, an open-source platform for visualizing, curating, and evaluating computer vision datasets to accelerate AI model development.",
+            "icon": "/logo/voxel51.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1383",
+            "name": "ImaginePro",
+            "slug": "imaginepro-ai",
+            "description": "ImaginePro is an AI-powered platform that enables users to generate high-quality images and designs for professional and creative purposes.",
+            "icon": "/logo/www.imaginepro.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1270",
+            "name": "CoreViz Studio",
+            "slug": "coreviz-studio",
+            "description": "CoreViz Studio is a visual AI platform that helps organizations analyze, search, edit, tag, organize, and categorize photos and videos using advanced computer vision and machine learning.",
+            "icon": "/logo/coreviz.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1353",
+            "name": "Supercraft",
+            "slug": "supercraft-ai",
+            "description": "Supercraft.ai is an AI-powered platform that enables users to create and customize advanced AI agents and workflows for various applications.",
+            "icon": "/logo/supercraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1427",
+            "name": "Radal AI",
+            "slug": "radal-ai",
+            "description": "Radal.ai is an AI-driven platform focused on advanced data analysis and research tools to empower users with insightful decision-making.",
+            "icon": "/logo/radal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1248",
+            "name": "RichlyAI",
+            "slug": "richlyai",
+            "description": "RichlyAI is an AI-powered platform that enriches business operations through intelligent automation and data insights.",
+            "icon": "/logo/richlyai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1357",
+            "name": "Dereference AI Codetabs",
+            "slug": "dereference-ai-codetabs",
+            "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+            "icon": "/logo/www.dereference.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1355",
+            "name": "ChatVIA",
+            "slug": "chatvia-ai",
+            "description": "ChatVIA is an AI platform that enables users to create custom AI agents trained on their own data for providing instant, human-like support on websites and for businesses.",
+            "icon": "/logo/chatvia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1396",
+            "name": "B150 AI",
+            "slug": "b150-ai",
+            "description": "B150.ai is an AI-driven platform offering advanced tools for business intelligence, automation, and data analysis to enhance productivity.",
+            "icon": "/logo/b150.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1419",
+            "name": "Qwen Images",
+            "slug": "qwen-images",
+            "description": "Qwen Images is an AI-powered platform dedicated to generating and editing images using advanced multimodal models.",
+            "icon": "/logo/qwenimages.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "Qoder",
+            "slug": "qoder",
+            "description": "Qoder is an AI-powered platform designed to assist developers with code generation, debugging, and optimization tasks.",
+            "icon": "/logo/qoder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1360",
+            "name": "BoothAI360",
+            "slug": "boothai360",
+            "description": "BoothAI360 is an AI-powered photo studio that transforms selfies into professional headshots and artistic portraits in seconds, eliminating the need for expensive traditional photoshoots.",
+            "icon": "/logo/boothai360.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1440",
+            "name": "Airtable",
+            "slug": "airtable",
+            "description": "Airtable is an AI-native platform for building custom enterprise-grade applications, interfaces, automations, and agents from data without coding.",
+            "icon": "/logo/airtable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        },
+        {
+            "id": "1443",
+            "name": "Remaker AI",
+            "slug": "remaker-ai",
+            "description": "Remaker AI is an online platform that leverages artificial intelligence for advanced image editing, face swapping, and creative content generation.",
+            "icon": "/logo/remaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-models"
+            ]
+        }
+    ]
+}

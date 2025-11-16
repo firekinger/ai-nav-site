@@ -1,0 +1,215 @@
+{
+    "title": "The Best 19 AI Knowledge Base Tools in 2025",
+    "summary": "Discover the power of AI Knowledge Base tools, designed to streamline information management and enhance decision-making. These innovative solutions help you create, organize, and access valuable insights effortlessly, boosting productivity and collaboration within your team. Whether you're looking to improve customer support, streamline internal processes, or foster knowledge sharing, our curated selection of AI Knowledge Base tools has you covered. Explore the possibilities and transform the way you manage information—dive into our collection today and unlock your team's potential!",
+    "tools": [
+        {
+            "id": "6",
+            "name": "Perplexity AI",
+            "slug": "perplexity-ai",
+            "description": "Perplexity AI is an AI-powered search engine that provides accurate, conversational answers to user queries.",
+            "icon": "/logo/perplexity.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "76",
+            "name": "Metaso",
+            "slug": "metaso",
+            "description": "Metaso.cn is a multilingual AI-powered search engine focused on AI and cosmology research.",
+            "icon": "/logo/metaso.cn.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "61",
+            "name": "Prezi",
+            "slug": "prezi",
+            "description": "Prezi is a cloud-based presentation platform that creates dynamic, interactive, and visually engaging presentations, videos, and designs.",
+            "icon": "/logo/prezi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "50",
+            "name": "Course Hero",
+            "slug": "course-hero",
+            "description": "Course Hero is an online learning platform providing access to millions of course-specific study resources and tutoring services for students.",
+            "icon": "/logo/coursehero.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "215",
+            "name": "iAsk AI",
+            "slug": "iask-ai",
+            "description": "iAsk AI provides a free AI-powered search engine for answering questions with accurate, sourced responses.",
+            "icon": "/logo/iask.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "308",
+            "name": "Tripo3D",
+            "slug": "tripo3d",
+            "description": "Tripo3D is an AI-powered platform that transforms text prompts or images into high-quality 3D models for various creative and professional applications.",
+            "icon": "/logo/www.tripo3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "483",
+            "name": "Craft",
+            "slug": "craft",
+            "description": "Craft is a versatile note-taking and document creation platform designed to organize ideas, tasks, and projects with a focus on aesthetics and collaboration.",
+            "icon": "/logo/www.craft.do.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "610",
+            "name": "AskYourPDF",
+            "slug": "askyourpdf",
+            "description": "AskYourPDF is an AI-powered platform that enables users to interact conversationally with PDF documents, extracting insights and answers efficiently.",
+            "icon": "/logo/askyourpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "615",
+            "name": "Trancy",
+            "slug": "trancy",
+            "description": "Trancy is a language learning platform offering AI-powered bilingual subtitles and translation tools for immersive learning on video and web content.",
+            "icon": "/logo/www.trancy.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "848",
+            "name": "Try9.ai",
+            "slug": "try9-ai",
+            "description": "Try9.ai is an innovative platform that enables users to experiment with various AI models and tools in a user-friendly environment.",
+            "icon": "/logo/try9.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "851",
+            "name": "Magisterium AI",
+            "slug": "magisterium-ai",
+            "description": "Magisterium AI is an artificial intelligence platform that provides accurate answers to questions about the Catholic faith based on official Church teachings.",
+            "icon": "/logo/www.magisterium.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "892",
+            "name": "CustomGPT.ai",
+            "slug": "customgpt-ai",
+            "description": "CustomGPT.ai is a no-code platform for building custom AI chatbots powered by GPT technology, integrated with users' own data for personalized responses.",
+            "icon": "/logo/customgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "898",
+            "name": "LiveChatAI",
+            "slug": "livechatai",
+            "description": "LiveChatAI is an AI-powered platform that enables businesses to create and deploy customized chatbots trained on their own content for efficient customer support and engagement.",
+            "icon": "/logo/livechatai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "946",
+            "name": "YourGPT",
+            "slug": "yourgpt-ai",
+            "description": "YourGPT.ai is an AI platform that enables users to build, customize, and deploy intelligent chatbots and AI agents for various applications.",
+            "icon": "/logo/yourgpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "Devv",
+            "slug": "devv-ai",
+            "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+            "icon": "/logo/devv.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "SaveDay",
+            "slug": "saveday",
+            "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+            "icon": "/logo/www.save.day.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "1289",
+            "name": "CrawlChat",
+            "slug": "crawlchat",
+            "description": "CrawlChat transforms documentation and knowledge sources into AI chatbots for efficient customer support and engagement across websites, Discord, and Slack.",
+            "icon": "/logo/crawlchat.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        },
+        {
+            "id": "1240",
+            "name": "Stackie",
+            "slug": "stackie-ai",
+            "description": "Stackie.ai is an AI-powered platform that assists developers in building, optimizing, and managing technology stacks for software projects.",
+            "icon": "/logo/stackie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-knowledge-base"
+            ]
+        }
+    ]
+}

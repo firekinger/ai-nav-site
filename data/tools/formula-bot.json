@@ -1,0 +1,67 @@
+{
+    "name": "Formula Bot",
+    "description": "Formula Bot is an AI-powered platform that simplifies data analysis and spreadsheet tasks by generating formulas, visualizations, and insights from natural language inputs.",
+    "longDescription": "Formula Bot is an AI-driven tool designed to streamline spreadsheet tasks and data analysis for users of Excel, Google Sheets, and other platforms. It allows users to input plain English or Spanish instructions to generate complex formulas, create visualizations, and perform advanced data analysis without coding expertise. The platform supports data preparation, transformation, and enrichment, making it a versatile solution for data analysts, educators, and businesses. Its mission is to save time, reduce errors, and make data manipulation accessible to both technical and non-technical users. By integrating with multiple data sources and offering free subscriptions for schools and non-profits, Formula Bot aims to maximize productivity and impact. The tool is trusted by over 650,000 data analysts worldwide, reflecting its reliability and effectiveness.",
+    "url": "https://www.formulabot.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.formulabot.com.webp",
+    "category": "AI Excel Formula Generator",
+    "categorySlug": "ai-excel-formula-generator",
+    "slug": "formula-bot",
+    "categories": [
+        "AI Excel Formula Generator",
+        "AI For Data Analytics",
+        "AI Charting",
+        "AI Spreadsheet",
+        "AI Predictions",
+        "AI Text Classifier",
+        "AI Data Mining",
+        "AI Code Generator",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI-powered formula generation converts natural language instructions into accurate Excel or Google Sheets formulas, simplifying complex calculations.",
+        "Data analysis tools enable users to query datasets and generate insights, charts, and pivot tables without coding expertise.",
+        "Data connectors allow seamless integration with multiple sources, updating daily to ensure real-time analysis.",
+        "Visualization creation builds customizable charts and visuals from raw data with a single prompt, enhancing data presentation.",
+        "Data preparation features streamline cleaning, structuring, and transforming data for efficient analysis.",
+        "VBA code generator converts text inputs into VBA scripts or explains existing VBA code, aiding automation in Excel.",
+        "Sentiment analysis tools evaluate text data to provide actionable insights for business or research purposes.",
+        "Predictive forecasting models enable users to perform advanced analytics typically requiring specialized expertise.",
+        "PDF data extraction converts unstructured PDF data into structured formats for spreadsheet use, eliminating manual copying.",
+        "Formula explanations clarify complex spreadsheet formulas, helping users understand and apply them effectively."
+    ],
+    "faqs": [
+        {
+            "question": "What is Formula Bot used for?",
+            "answer": "Formula Bot is used to simplify spreadsheet tasks and data analysis by generating formulas, visualizations, and insights from natural language inputs for platforms like Excel and Google Sheets."
+        },
+        {
+            "question": "Is there a free plan available for Formula Bot?",
+            "answer": "Yes, Formula Bot offers a free plan with limited features and provides free subscriptions for schools and non-profit organizations to maximize their impact."
+        },
+        {
+            "question": "Can Formula Bot integrate with third-party services?",
+            "answer": "Formula Bot integrates with select third-party services using secure OAuth and HTTPS connections to enhance functionality."
+        },
+        {
+            "question": "How does Formula Bot ensure data privacy?",
+            "answer": "Formula Bot prioritizes user privacy through data minimization, not sharing data with third parties beyond necessary partners, and allowing users to access and delete their data."
+        },
+        {
+            "question": "Where is user data stored?",
+            "answer": "All data is encrypted and stored on Amazon Web Services (AWS), meeting 143 security standards, and is deleted after 90 days of inactivity."
+        },
+        {
+            "question": "Does Formula Bot use my data to train AI models?",
+            "answer": "No, data sent to Formula Bot’s AI partners is not used to train their models, ensuring user data privacy."
+        },
+        {
+            "question": "What is Formula Bot’s refund policy?",
+            "answer": "Formula Bot offers refunds within 30 days of the last payment, provided the user has made fewer than 50 requests across its services."
+        },
+        {
+            "question": "Can Formula Bot help with non-spreadsheet tasks?",
+            "answer": "Yes, Formula Bot supports tasks like sentiment analysis and PDF data extraction, expanding its utility beyond spreadsheets."
+        }
+    ]
+}

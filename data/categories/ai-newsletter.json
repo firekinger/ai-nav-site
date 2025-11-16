@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Newsletter Tools in 2025",
+    "summary": "Discover the power of AI newsletters, designed to keep you informed and ahead of the curve in the rapidly evolving tech landscape. These tools curate the latest insights, trends, and innovations in artificial intelligence, delivering personalized content straight to your inbox. Stay updated effortlessly, enhance your knowledge, and make informed decisions with ease. Whether you're a professional, entrepreneur, or enthusiast, our AI newsletter tools cater to your needs. Explore our curated selection today and transform how you engage with AI advancements!",
+    "tools": [
+        {
+            "id": "182",
+            "name": "The StoryGraph",
+            "slug": "the-storygraph",
+            "description": "The StoryGraph is a platform for tracking reading, discovering books, and connecting with a community of book lovers.",
+            "icon": "/logo/thestorygraph.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-newsletter"
+            ]
+        },
+        {
+            "id": "1006",
+            "name": "Subscribr.ai",
+            "slug": "subscribr-ai",
+            "description": "Subscribr.ai is an AI-powered platform designed to automate the creation of personalized newsletters for businesses and creators.",
+            "icon": "/logo/subscribr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-newsletter"
+            ]
+        },
+        {
+            "id": "836",
+            "name": "Toki AI",
+            "slug": "toki-ai",
+            "description": "Toki AI is an AI-powered calendar assistant that streamlines time management through voice, text, and image-based scheduling.",
+            "icon": "/logo/yestoki.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-newsletter"
+            ]
+        }
+    ]
+}

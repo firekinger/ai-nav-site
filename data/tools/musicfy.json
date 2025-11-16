@@ -1,0 +1,62 @@
+{
+    "name": "Musicfy",
+    "description": "Musicfy is an AI-powered platform for creating and customizing music with voice cloning and text-to-music features.",
+    "longDescription": "Musicfy is an innovative AI-driven music creation platform designed to empower musicians, songwriters, and creators by simplifying the music production process. It leverages advanced AI technology to clone voices, generate songs from text, and provide royalty-free vocals, making music creation accessible to users of all skill levels. The platform aims to streamline collaboration, reduce production costs, and inspire creativity by offering tools like stem splitting and voice conversion. By eliminating the need for expensive studio sessions or professional vocalists, Musicfy democratizes music production. It serves a global community of artists, from amateurs to professionals, fostering a new era of AI-assisted music innovation.",
+    "url": "https://musicfy.lol/?utm_source=ainavdir",
+    "screenshot": "/screenshot/musicfy.lol.webp",
+    "category": "AI Voice Cloning",
+    "categorySlug": "ai-voice-cloning",
+    "slug": "musicfy",
+    "categories": [
+        "AI Voice Cloning",
+        "AI Music Generator",
+        "AI Stems Splitter",
+        "AI Lyrics Generator",
+        "AI Voice Changer",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI voice cloning creates a custom AI model of your voice for singing any melody, enabling personalized music production.",
+        "Text-to-music transforms written lyrics or descriptions into full songs, bridging words and melodies effortlessly.",
+        "Stem splitting isolates vocals, drums, or bass from any song, allowing easy remixing or editing.",
+        "Royalty-free vocal library provides access to thousands of copyright-free vocals for use in original tracks.",
+        "Voice conversion changes a voice’s pitch or timbre, offering creative flexibility without altering the track.",
+        "Real-time music generation enables spontaneous song creation, ideal for live performances or jam sessions.",
+        "Parody voice feature remasters songs with humorous AI voices, adding a playful element to compositions.",
+        "Voice enhancement improves the quality of existing vocal recordings for professional-sounding results."
+    ],
+    "faqs": [
+        {
+            "question": "What is Musicfy used for?",
+            "answer": "Musicfy is used to create, remix, and customize music using AI tools like voice cloning, text-to-music, and royalty-free vocals."
+        },
+        {
+            "question": "Is Musicfy free to use?",
+            "answer": "Musicfy offers a free plan with limited access to core features, while premium plans unlock advanced functionality."
+        },
+        {
+            "question": "Can I clone my own voice with Musicfy?",
+            "answer": "Yes, you can upload vocal samples to create an AI model that sings in your voice, perfect for personalized tracks."
+        },
+        {
+            "question": "Are Musicfy’s vocals royalty-free?",
+            "answer": "Musicfy provides a library of royalty-free vocals that can be used in your songs and uploaded to streaming platforms."
+        },
+        {
+            "question": "Does Musicfy support real-time music creation?",
+            "answer": "Yes, Musicfy’s real-time music generation feature allows users to create songs on the fly, ideal for live settings."
+        },
+        {
+            "question": "Can I use Musicfy for commercial projects?",
+            "answer": "Songs created with Musicfy’s royalty-free vocals can be used commercially, but check licensing for user-generated voices."
+        },
+        {
+            "question": "How does the text-to-music feature work?",
+            "answer": "You input lyrics or describe a mood, and Musicfy’s AI generates a complete song based on your specifications."
+        },
+        {
+            "question": "Is Musicfy suitable for beginners?",
+            "answer": "Yes, Musicfy’s intuitive interface makes it easy for beginners to start creating music without prior experience."
+        }
+    ]
+}

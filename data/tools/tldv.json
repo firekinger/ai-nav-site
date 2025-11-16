@@ -1,0 +1,59 @@
+{
+    "name": "tl;dv",
+    "description": "tl;dv is an AI-powered platform for recording, transcribing, and summarizing virtual meetings on Zoom and Google Meet.",
+    "longDescription": "tl;dv is an AI-driven tool designed to enhance productivity by recording, transcribing, and summarizing virtual meetings held on platforms like Zoom and Google Meet. It aims to help professionals, teams, and businesses save time by automating note-taking and generating actionable insights from discussions. The platform uses advanced AI to provide accurate transcriptions, highlight key moments, and create concise summaries, making it easier to review and share meeting outcomes. By integrating seamlessly with popular meeting tools and CRMs, tl;dv ensures users can focus on the conversation rather than manual documentation. Its mission is to streamline workflows and improve collaboration for remote and hybrid teams.",
+    "url": "https://tldv.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tldv.io.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "tldv",
+    "categories": [
+        "AI Meeting Assistant",
+        "AI Article Summarizer",
+        "AI Project Management",
+        "AI Note Taker",
+        "AI Translate"
+    ],
+    "features": [
+        "Automatically records Zoom and Google Meet calls, ensuring no critical details are missed.",
+        "Provides AI-powered transcriptions with high accuracy for easy review and searchability.",
+        "Generates concise meeting summaries to highlight key points and action items instantly.",
+        "Identifies and tags key moments in meetings, such as decisions or tasks, for quick reference.",
+        "Integrates with tools like Slack, Notion, and CRMs to streamline workflow and data sharing.",
+        "Offers multilingual transcription support for global teams working in different languages.",
+        "Allows users to create shareable clips from meetings to distribute specific segments efficiently.",
+        "Provides searchable transcripts, enabling users to find specific topics or quotes quickly.",
+        "Supports collaborative note-taking, letting team members add comments or highlights in real time.",
+        "Includes AI-driven insights to track recurring themes or trends across multiple meetings."
+    ],
+    "faqs": [
+        {
+            "question": "What platforms does tl;dv support for meeting recordings?",
+            "answer": "tl;dv supports Zoom and Google Meet, with seamless integration for recording and transcribing meetings."
+        },
+        {
+            "question": "Is there a free plan available for tl;dv?",
+            "answer": "Yes, tl;dv offers a free plan with limited features, including recording and basic transcription capabilities."
+        },
+        {
+            "question": "Can tl;dv transcribe meetings in multiple languages?",
+            "answer": "Yes, tl;dv supports multilingual transcription, making it suitable for global teams."
+        },
+        {
+            "question": "How does tl;dv ensure the accuracy of its transcriptions?",
+            "answer": "tl;dv uses advanced AI algorithms to provide highly accurate transcriptions, with continuous improvements based on user feedback."
+        },
+        {
+            "question": "Can I share specific parts of a meeting with my team?",
+            "answer": "Yes, tl;dv allows you to create and share short clips of key meeting moments easily."
+        },
+        {
+            "question": "Does tl;dv integrate with other tools like Slack or CRMs?",
+            "answer": "Yes, tl;dv integrates with tools like Slack, Notion, and various CRMs to enhance workflow efficiency."
+        },
+        {
+            "question": "How secure is the data recorded by tl;dv?",
+            "answer": "tl;dv employs robust encryption and security measures to protect recorded meetings and transcriptions."
+        }
+    ]
+}

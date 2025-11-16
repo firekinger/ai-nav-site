@@ -1,0 +1,84 @@
+{
+    "name": "Rev.ai",
+    "description": "Rev.ai provides an API for highly accurate speech-to-text transcription and additional insights for audio and video files, catering to applications needing transcription, language identification, sentiment analysis, and more.",
+    "longDescription": "Rev.ai offers a speech-to-text API trained on over 3 million hours of human-transcribed audio, aiming to deliver the highest accuracy for AI- and human-generated transcripts. It focuses on minimizing bias across gender and ethnic accents, supporting 58+ languages for transcription, and providing additional insights like sentiment analysis and topic extraction. The platform is designed for ease of implementation, with SDKs and comprehensive documentation for developers, and ensures world-class security with compliance to SOC II, HIPAA, GDPR, and PCI standards. Its mission is to power applications with reliable, readable, and actionable transcription and analysis, addressing global customer demands with low Word Error Rates.",
+    "url": "https://www.rev.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.rev.ai.webp",
+    "category": "AI Speech-to-Text",
+    "categorySlug": "ai-speech-to-text",
+    "slug": "rev-ai",
+    "categories": [
+        "AI Speech-to-Text",
+        "AI Transcription",
+        "AI Speech Recognition",
+        "AI Language Learning",
+        "AI Text Classifier",
+        "AI Summarizer",
+        "AI Translate"
+    ],
+    "features": [
+        "Asynchronous Speech to Text: Submit audio or video files to get machine-generated transcripts in minutes with high accuracy in 58+ languages.",
+        "Streaming Speech to Text: Generates transcription in real-time as audio or video is streamed, available in 9 languages.",
+        "Human Transcription: Provides the highest accuracy through human-created transcripts with a ~24-hour turnaround time, limited to English.",
+        "Language Identification: Predicts the dominant language in an audio or video file, supporting 22 languages.",
+        "Sentiment Analysis: Identifies positive, negative, and neutral statements from text, available in English only.",
+        "Topic Extraction: Identifies key topics in text for auto-tagging, limited to English.",
+        "Summarization: Transforms voice content into concise, actionable summaries, available in English only.",
+        "Translation: Offers context-aware translations across 11 languages.",
+        "Forced Alignment: Provides precise timestamps to enhance content searchability and analysis, available in English, Spanish, and French.",
+        "Ease of Implementation: Allows setup and results within an hour using provided SDKs.",
+        "Flexible Deployment: Supports deployment in the cloud or on-premise based on user needs.",
+        "Reliability: Maintains 99.99% uptime with responsive support for security alerts.",
+        "Security: Ensures data encryption at rest and in transit with compliance to SOC II, HIPAA, GDPR, and PCI standards."
+    ],
+    "faqs": [
+        {
+            "question": "What is Rev.ai?",
+            "answer": "Rev.ai is an API that provides highly accurate speech-to-text transcription and insights for audio and video files."
+        },
+        {
+            "question": "How accurate is Rev.ai's transcription?",
+            "answer": "Rev.ai has the lowest Word Error Rate and is trained on over 3 million hours of human-transcribed audio for best-in-class accuracy."
+        },
+        {
+            "question": "What languages does Rev.ai support for transcription?",
+            "answer": "It supports 58+ languages for asynchronous transcription and 9 for streaming, with some features limited to English."
+        },
+        {
+            "question": "Does Rev.ai offer human transcription?",
+            "answer": "Yes, it offers human-created transcripts with the highest accuracy, available in English with a ~24-hour turnaround."
+        },
+        {
+            "question": "What security measures does Rev.ai have?",
+            "answer": "It ensures data encryption at rest and in transit, complying with SOC II, HIPAA, GDPR, and PCI standards."
+        },
+        {
+            "question": "How can I integrate Rev.ai into my application?",
+            "answer": "Use the easy-to-use API with provided SDKs, documentation, and an access token to generate transcripts within minutes."
+        },
+        {
+            "question": "Does Rev.ai offer real-time transcription?",
+            "answer": "Yes, it provides real-time transcription through its streaming feature, available in 9 languages."
+        },
+        {
+            "question": "What additional insights does Rev.ai provide?",
+            "answer": "It offers language identification, sentiment analysis, topic extraction, summarization, and translation among other insights."
+        },
+        {
+            "question": "Can I deploy Rev.ai on-premise?",
+            "answer": "Yes, it supports flexible deployment options including on-premise based on user needs."
+        },
+        {
+            "question": "What is the uptime reliability of Rev.ai?",
+            "answer": "It maintains 99.99% uptime with responsive support for security alerts and events."
+        },
+        {
+            "question": "Is there a free trial for Rev.ai?",
+            "answer": "Yes, Rev.ai offers a free trial with 5 hours of free credit to try out its features, no credit card required."
+        },
+        {
+            "question": "What file formats does Rev.ai support?",
+            "answer": "Rev.ai supports all popular media types for audio and video files in its transcription services."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Futurwise",
+    "description": "Futurwise is a knowledge platform that delivers hyper-personalized, AI-generated summaries of articles, videos, podcasts, PDFs, and more, helping users cut through information overload with tailored insights in over 25 languages.",
+    "longDescription": "Futurwise is a revolutionary platform designed to reduce information overload by providing AI-generated, hyper-personalized summaries of diverse content types, including articles, videos, PDFs, news, blog posts, and podcasts. Its mission is to deliver trustworthy, actionable insights that improve decision-making, countering the flood of AI clickbait and misinformation. It serves users by offering tailored content that matches their preferences, such as style, tone, language, and expertise, accessible across multiple formats and languages. Users can explore a curated feed or add their own content for instant summaries, saving significant time while staying informed without ads.",
+    "url": "https://www.futurwise.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.futurwise.com.webp",
+    "category": "AI Article Summarizer",
+    "categorySlug": "ai-article-summarizer",
+    "slug": "futurwise",
+    "categories": [
+        "AI Article Summarizer",
+        "AI Writing Assistants",
+        "AI Translate",
+        "AI Podcast",
+        "AI PDF",
+        "AI Knowledge Management",
+        "AI Browsers"
+    ],
+    "features": [
+        "Generates hyper-personalized summaries tailored to user preferences, including style, tone, and language.",
+        "Supports summarization of diverse content types, including articles, videos, PDFs, news, blog posts, and podcasts.",
+        "Offers a curated feed of high-quality, trustworthy content from mainstream, niche, and thought leaders.",
+        "Provides instant summaries in over 25 languages, breaking language barriers for global users.",
+        "Includes a free-forever tier with 10 monthly summaries and a premium tier for unlimited access and additional features.",
+        "Features a user-friendly interface with browser extensions for easy content addition from desktops.",
+        "Allows users to save favorite articles, videos, and PDFs in a private library for later reading or listening.",
+        "Enables customization of summary styles, such as Pragmatist, Storyteller, Strategist, Visionary, or Explorer, with fine-tuned preferences."
+    ],
+    "faqs": [
+        {
+            "question": "What is Futurwise?",
+            "answer": "Futurwise is a knowledge platform that delivers AI-generated, hyper-personalized summaries of articles, videos, podcasts, PDFs, academic papers, and patents in over 25 languages. It turns overwhelming content into clear, actionable insights instantly."
+        },
+        {
+            "question": "How does personalization work?",
+            "answer": "Personalization is tailored via user settings, allowing selection from five styles like Pragmatist or Explorer, or fine-tuning preferences such as thinking style, writing depth, structure, formality, and emotion. This ensures summaries match each user’s unique needs."
+        },
+        {
+            "question": "How is Futurwise different from asking ChatGPT to summarize?",
+            "answer": "Futurwise is an all-in-one ecosystem that simplifies summarization across videos, text, podcasts, and PDFs with one click, saving time compared to the iterative effort required with ChatGPT. It also securely stores all saved content in one place for easy access."
+        },
+        {
+            "question": "What is the pricing of Futurwise?",
+            "answer": "Futurwise offers a free tier with 10 monthly summaries and a premium 'Insights' tier at $9.99 monthly or $69.99 yearly, with a 7-day free trial for the premium plan and a 42% discount for yearly subscriptions."
+        },
+        {
+            "question": "What are the benefits of a premium account?",
+            "answer": "A premium account provides unlimited bookmarks, instant summaries of diverse content types in over 25 languages, and the ability to summarize up to 20 PDFs, enhancing efficiency and productivity."
+        },
+        {
+            "question": "How can I cancel my subscription?",
+            "answer": "You can manage your subscription in the mobile app subscriptions or on the web platform, and delete your account via Account > Edit Profile > Delete in the mobile app."
+        },
+        {
+            "question": "Can I summarize my own content?",
+            "answer": "Yes, you can add and summarize your own bookmarks, including articles, videos, and PDFs, using the desktop browser extension or mobile app."
+        },
+        {
+            "question": "Is Futurwise available in multiple languages?",
+            "answer": "Yes, Futurwise offers summaries in over 25 languages, making content accessible across language barriers."
+        },
+        {
+            "question": "Does Futurwise have ads?",
+            "answer": "No, Futurwise provides an ad-free experience, focusing on delivering insights without interruptions."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can reach support via the “Contact” section on the website, or message through the web platform or mobile apps, with responses within 24 hours."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Presentations.AI",
+    "description": "Presentations.AI is an AI-powered platform for creating professional presentations quickly and easily.",
+    "longDescription": "Presentations.AI is an innovative platform that leverages artificial intelligence to simplify the creation of professional-grade presentations. Designed for businesses, educators, and individuals, it enables users to generate visually appealing slideshows from text prompts or templates in minutes. The platform aims to streamline the presentation-building process, eliminating the need for extensive design skills or software expertise. By integrating AI-driven design suggestions and automation, it ensures high-quality outputs tailored to user needs. Its mission is to empower users to communicate ideas effectively through engaging and polished presentations. The tool is particularly valuable for those seeking to save time while maintaining a professional standard.",
+    "url": "https://www.presentations.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.presentations.ai.webp",
+    "category": "AI Presentation Generator",
+    "categorySlug": "ai-presentation-generator",
+    "slug": "presentations-ai",
+    "categories": [
+        "AI Presentation Generator",
+        "AI Design Generator",
+        "AI Project Management",
+        "AI Design Assistant",
+        "AI Translate"
+    ],
+    "features": [
+        "AI-powered slide generation creates professional presentations from simple text prompts in minutes.",
+        "Customizable templates offer a variety of professionally designed layouts to suit different industries and purposes.",
+        "Real-time collaboration allows teams to work together seamlessly on presentation projects.",
+        "Smart design suggestions provide AI-driven recommendations to enhance slide aesthetics and content flow.",
+        "Export options enable users to download presentations in formats like PowerPoint, PDF, or shareable links.",
+        "Multilingual support allows users to create presentations in various languages for global accessibility.",
+        "Integration with tools like Slack and Google Drive streamlines workflow and file management.",
+        "Data visualization tools automatically convert raw data into charts and graphs for impactful slides.",
+        "Brand customization ensures presentations align with company branding, including logos and color schemes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Presentations.AI used for?",
+            "answer": "Presentations.AI uses AI to help users create professional presentations quickly from text prompts or templates, ideal for business, education, or personal use."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Presentations.AI offers a free plan with limited features, allowing users to try the platform before upgrading to premium options."
+        },
+        {
+            "question": "Can I collaborate with my team on presentations?",
+            "answer": "Yes, the platform supports real-time collaboration, enabling multiple users to edit and contribute to presentations simultaneously."
+        },
+        {
+            "question": "Does Presentations.AI support data visualization?",
+            "answer": "The platform includes AI-driven tools to automatically convert data into visually appealing charts and graphs for presentations."
+        },
+        {
+            "question": "Can I export my presentations to other formats?",
+            "answer": "Yes, users can export presentations as PowerPoint files, PDFs, or share them via links for easy distribution."
+        },
+        {
+            "question": "Is it possible to customize presentations with my brand?",
+            "answer": "Presentations.AI allows users to apply brand-specific elements like logos, colors, and fonts to ensure consistent branding."
+        },
+        {
+            "question": "Does the platform support multiple languages?",
+            "answer": "Yes, Presentations.AI offers multilingual support, enabling users to create presentations in various languages."
+        }
+    ]
+}

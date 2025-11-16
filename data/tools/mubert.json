@@ -1,0 +1,63 @@
+{
+    "name": "Mubert",
+    "description": "Mubert is an AI-powered platform that generates royalty-free music for content creators, streamers, and businesses.",
+    "longDescription": "Mubert is a pioneering AI music platform designed to empower content creators, musicians, and businesses by providing access to royalty-free, AI-generated music tailored to specific needs. It leverages advanced algorithms to create unique, high-quality music streams in real-time, addressing challenges like copyright issues and licensing complexities. The platform collaborates with human musicians to ensure authentic, professional-grade audio, while offering tools like Mubert Render and Mubert API for seamless integration into various projects. Mubert's mission is to democratize music creation, making it easy for users to generate custom tracks for videos, podcasts, apps, or personal use. By combining AI technology with human creativity, Mubert redefines the music licensing landscape, offering a versatile solution for creators worldwide.",
+    "url": "https://mubert.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mubert.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "mubert",
+    "categories": [
+        "AI Music Generator",
+        "AI Text-to-Music",
+        "AI API",
+        "AI Writing Assistants",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Mubert Render allows users to generate custom music tracks by specifying genre, mood, and duration for tailored content creation.",
+        "Mubert API enables developers to integrate DMCA-safe, AI-generated music into apps, games, or software for enhanced user experiences.",
+        "Mubert Play offers over 40 mood-based music channels for activities like working, relaxing, or exercising with continuous AI-generated streams.",
+        "The platform provides a library of over 1 million samples from 4,000+ musicians, ensuring diverse, high-quality music options.",
+        "Mubert for Streamers delivers royalty-free music for live streaming, compatible with platforms like YouTube and Twitch.",
+        "The image-to-music feature generates tracks based on uploaded images, matching the music to the visual's vibe.",
+        "Mubert Studio enables musicians to monetize their samples by contributing to the AI music generation process.",
+        "The platform supports over 100 genres, from techno to ambient, catering to varied creative and commercial needs.",
+        "Mubert Extension integrates with Adobe After Effects and Premiere for seamless music addition to video projects.",
+        "Dynamic streaming presets allow users to personalize music streams with likes and dislikes for a tailored listening experience."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mubert and how does it work?",
+            "answer": "Mubert is an AI-powered platform that generates royalty-free music using algorithms and human-made samples. Users can create custom tracks by selecting genre, mood, and duration or stream music for various activities."
+        },
+        {
+            "question": "Is Mubert free to use?",
+            "answer": "Mubert offers a free plan that allows users to generate up to 25 tracks per month with attribution required for commercial use. Paid plans unlock additional features and remove watermarks."
+        },
+        {
+            "question": "Can I use Mubert music for commercial projects?",
+            "answer": "Yes, Mubert provides royalty-free music licenses compatible with platforms like YouTube and Twitch, with commercial use available under paid plans."
+        },
+        {
+            "question": "How does Mubert ensure music is unique?",
+            "answer": "Mubert's AI generates unique music streams in real-time using a vast sample database, minimizing the chance of repetition."
+        },
+        {
+            "question": "What is the Mubert API used for?",
+            "answer": "The Mubert API allows developers to integrate AI-generated music into apps, games, or software, ensuring DMCA-safe audio for users."
+        },
+        {
+            "question": "Can musicians earn money with Mubert?",
+            "answer": "Yes, through Mubert Studio, musicians can contribute samples and earn revenue when their work is used in AI-generated tracks."
+        },
+        {
+            "question": "Does Mubert support video editing software?",
+            "answer": "Mubert offers extensions for Adobe After Effects and Premiere, simplifying music integration for video editors."
+        },
+        {
+            "question": "What genres are available on Mubert?",
+            "answer": "Mubert supports over 100 genres, including techno, chill, house, hip-hop, ambient, and more, catering to diverse creative needs."
+        }
+    ]
+}

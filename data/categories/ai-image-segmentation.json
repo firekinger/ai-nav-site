@@ -1,0 +1,39 @@
+{
+    "title": "The Best 3 AI Image Segmentation Tools in 2025",
+    "summary": "Unlock the power of AI Image Segmentation to enhance your visual data analysis. This category features cutting-edge tools designed to accurately partition images into meaningful segments, enabling precise object detection and improved image understanding. Whether you're in healthcare, autonomous driving, or digital marketing, these tools streamline workflows, boost productivity, and elevate your projects. Explore our curated selection of AI Image Segmentation tools today and transform your image processing capabilities. Dive in now to discover innovative solutions tailored to your needs!",
+    "tools": [
+        {
+            "id": "175",
+            "name": "SnapEdit",
+            "slug": "snapedit",
+            "description": "SnapEdit is an AI-powered photo editing platform designed to simplify and enhance image editing for users of all skill levels.",
+            "icon": "/logo/snapedit.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-segmentation"
+            ]
+        },
+        {
+            "id": "442",
+            "name": "ActiveCampaign",
+            "slug": "activecampaign",
+            "description": "ActiveCampaign provides a platform for personalized email marketing, automation, and sales engagement to help businesses grow.",
+            "icon": "/logo/www.activecampaign.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-segmentation"
+            ]
+        },
+        {
+            "id": "1215",
+            "name": "Segment Anything",
+            "slug": "segment-anything",
+            "description": "Segment Anything is an AI-powered platform by Meta that provides advanced image segmentation models and tools for identifying and isolating objects in images with high precision.",
+            "icon": "/logo/segment-anything.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-image-segmentation"
+            ]
+        }
+    ]
+}

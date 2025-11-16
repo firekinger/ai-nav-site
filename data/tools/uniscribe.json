@@ -1,0 +1,64 @@
+{
+    "name": "Uniscribe",
+    "description": "Uniscribe is an AI-powered platform designed to assist students and professionals with academic writing, research, and content generation.",
+    "longDescription": "Uniscribe is an innovative AI tool that leverages advanced natural language processing to help users create high-quality academic papers, essays, and research documents. Its mission is to democratize access to effective writing assistance, reducing the time and effort required for scholarly work while maintaining originality and accuracy. The platform serves students, researchers, and educators by providing intelligent suggestions, automated citations, and structure optimization, addressing common challenges like writer's block and formatting issues. By integrating AI-driven insights, Uniscribe ensures users can focus on ideas rather than mechanics, ultimately improving productivity and learning outcomes. It stands out by emphasizing ethical AI use, encouraging users to refine generated content rather than relying solely on automation.",
+    "url": "https://www.uniscribe.co/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.uniscribe.co.webp",
+    "category": "AI Writing Assistants",
+    "categorySlug": "ai-writing-assistants",
+    "slug": "uniscribe",
+    "categories": [
+        "AI Writing Assistants",
+        "AI Essay Writer",
+        "AI Plagiarism Checker",
+        "AI SEO Tools",
+        "AI Article Summarizer",
+        "AI Translate",
+        "AI Writing",
+        "AI Productivity Tools"
+    ],
+    "features": [
+        "AI-powered essay generation creates structured drafts based on user prompts, saving time on initial writing phases.",
+        "Automated citation and reference management ensures accurate formatting in styles like APA or MLA, reducing errors in academic work.",
+        "Plagiarism detection scans content against vast databases to maintain originality and integrity in writing.",
+        "Real-time editing suggestions improve grammar, style, and clarity, enhancing the overall quality of documents.",
+        "Topic research assistance compiles relevant sources and summaries, aiding users in building strong arguments.",
+        "Customizable templates for various academic formats streamline the creation of reports, theses, and articles.",
+        "Collaboration tools allow multiple users to work on documents simultaneously with AI-mediated feedback.",
+        "Language translation feature converts content between languages while preserving academic tone and accuracy."
+    ],
+    "faqs": [
+        {
+            "question": "What is Uniscribe primarily used for?",
+            "answer": "Uniscribe is primarily used for AI-assisted academic writing, helping users generate, edit, and research content for essays, papers, and reports."
+        },
+        {
+            "question": "Does Uniscribe offer a free plan?",
+            "answer": "Yes, Uniscribe provides a free tier with limited features like basic essay generation and editing suggestions. Users can upgrade for advanced tools and unlimited access."
+        },
+        {
+            "question": "How does Uniscribe ensure content originality?",
+            "answer": "Uniscribe includes built-in plagiarism detection that checks against online sources. It encourages users to customize AI-generated content to avoid direct copying."
+        },
+        {
+            "question": "Can Uniscribe handle citations automatically?",
+            "answer": "Yes, it supports automatic citation generation in multiple styles. Users input sources, and the AI formats them correctly within the document."
+        },
+        {
+            "question": "Is Uniscribe suitable for non-academic writing?",
+            "answer": "While focused on academics, Uniscribe can be used for general writing tasks like blog posts or reports. Its tools adapt to various content needs."
+        },
+        {
+            "question": "How secure is my data on Uniscribe?",
+            "answer": "Uniscribe uses encryption and secure servers to protect user data. It does not store documents without permission and complies with privacy regulations."
+        },
+        {
+            "question": "Does Uniscribe integrate with other tools?",
+            "answer": "Yes, it integrates with popular platforms like Google Docs and Microsoft Word for seamless workflow."
+        },
+        {
+            "question": "What AI models does Uniscribe use?",
+            "answer": "Uniscribe employs state-of-the-art language models similar to GPT for generation and analysis. These are fine-tuned for academic precision."
+        }
+    ]
+}

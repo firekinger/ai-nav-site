@@ -1,0 +1,63 @@
+{
+    "name": "Chaport",
+    "description": "Chaport provides a live chat and chatbot platform to enhance customer support and engagement for businesses.",
+    "longDescription": "Chaport is a customer communication platform designed to help businesses connect with their website visitors through live chat, chatbots, and messaging integrations. Its mission is to simplify customer support by offering tools that enable real-time interaction, automated responses, and seamless team collaboration. The platform caters to businesses of all sizes, from small startups to large enterprises, aiming to improve customer satisfaction and drive sales. Chaport’s intuitive interface and customizable features make it easy to integrate into websites, providing a unified solution for managing customer inquiries. It supports multiple communication channels, including email and social media integrations, to ensure businesses can engage with customers effectively. By leveraging automation and AI-driven chatbots, Chaport helps reduce response times and enhance user experience.",
+    "url": "https://www.chaport.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.chaport.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "chaport",
+    "categories": [
+        "AI Chatbot",
+        "AI Customer Service",
+        "AI For Data Analytics"
+    ],
+    "features": [
+        "Live chat enables real-time communication with website visitors to resolve queries instantly.",
+        "AI-powered chatbots automate responses to common questions, saving time for support teams.",
+        "Multi-channel messaging integrates with platforms like WhatsApp, Telegram, and email for seamless communication.",
+        "Customizable chat widgets allow businesses to match the chat interface to their brand’s look and feel.",
+        "Team collaboration tools enable multiple agents to manage chats and share customer data efficiently.",
+        "Visitor tracking provides insights into user behavior, helping businesses personalize interactions.",
+        "Mobile apps allow support teams to manage chats on the go, ensuring constant availability.",
+        "Analytics and reports offer detailed metrics on chat performance and customer satisfaction.",
+        "Auto-invitations proactively engage visitors based on their website behavior, boosting conversions.",
+        "File sharing enables agents and customers to exchange documents or images during chats.",
+        "Canned responses allow agents to use pre-written replies for faster, consistent communication.",
+        "Offline messaging ensures customers can leave messages when support teams are unavailable."
+    ],
+    "faqs": [
+        {
+            "question": "What is Chaport used for?",
+            "answer": "Chaport is used for live chat, chatbot automation, and multi-channel customer communication to enhance support and engagement."
+        },
+        {
+            "question": "Does Chaport offer a free plan?",
+            "answer": "Yes, Chaport offers a free plan with basic features, suitable for small businesses or testing the platform."
+        },
+        {
+            "question": "Can Chaport integrate with other platforms?",
+            "answer": "Chaport integrates with platforms like WhatsApp, Telegram, and CRM systems to streamline customer interactions."
+        },
+        {
+            "question": "Is Chaport suitable for small businesses?",
+            "answer": "Yes, Chaport’s scalable features and free plan make it ideal for small businesses looking to improve customer support."
+        },
+        {
+            "question": "How do Chaport’s chatbots work?",
+            "answer": "Chaport’s AI-powered chatbots automate responses to common queries, guide visitors, and escalate complex issues to human agents."
+        },
+        {
+            "question": "Can I customize the chat widget’s appearance?",
+            "answer": "Yes, Chaport allows full customization of the chat widget to align with your website’s branding."
+        },
+        {
+            "question": "Does Chaport support multiple languages?",
+            "answer": "Yes, Chaport supports multilingual chat widgets to cater to customers in different regions."
+        },
+        {
+            "question": "Is there a mobile app for Chaport?",
+            "answer": "Chaport offers mobile apps for iOS and Android, allowing agents to manage chats remotely."
+        }
+    ]
+}

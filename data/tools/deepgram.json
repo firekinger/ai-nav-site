@@ -1,0 +1,79 @@
+{
+    "name": "Deepgram",
+    "description": "Deepgram provides advanced AI-powered speech-to-text, text-to-speech, and voice agent solutions for enterprise voice applications.",
+    "longDescription": "Deepgram is a foundational AI company specializing in voice AI technologies, offering speech-to-text, text-to-speech, and voice agent APIs to enhance human-machine interactions. Founded in 2015, it leverages end-to-end deep learning to deliver highly accurate and real-time transcription and voice generation solutions. The platform serves developers and enterprises by enabling seamless integration of voice capabilities into applications, from contact centers to healthcare and media. Deepgram's mission is to revolutionize human-machine communication by providing scalable, secure, and cost-effective voice AI solutions. Its advanced models, like Nova-3, offer industry-leading accuracy and support for multiple languages, addressing diverse use cases. The company also supports self-hosted deployments and provides SDKs for various programming languages to facilitate development.",
+    "url": "https://deepgram.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/deepgram.com.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "deepgram",
+    "categories": [
+        "AI Voice Generator",
+        "AI Speech-to-Text",
+        "AI Text-to-Speech",
+        "AI Transcription",
+        "AI Audio Editing",
+        "AI Chatbot",
+        "AI Translate",
+        "AI API",
+        "AI Voice Assistants",
+        "AI Text Classifier",
+        "AI Summarizer"
+    ],
+    "features": [
+        "Speech-to-text API transcribes live or pre-recorded audio with up to 54.2% lower word error rate for real-time applications.",
+        "Text-to-speech API generates human-like speech with low latency, ideal for conversational AI agents.",
+        "Voice Agent API enables developers to create autonomous AI agents for seamless voice interactions.",
+        "Audio intelligence features provide summarization, sentiment analysis, and topic detection for enhanced audio understanding.",
+        "Nova-3 model offers self-serve customization for domain-specific terminology without retraining.",
+        "Multilingual transcription supports dozens of languages with high accuracy for global applications.",
+        "Personal information redaction automatically removes sensitive data from transcripts for compliance.",
+        "Real-time transcription processes audio in seconds, enabling human-like conversational AI experiences.",
+        "Supports over 40 audio and video formats for flexible integration across platforms.",
+        "Scalable GPU infrastructure ensures cost-effective performance for high-throughput applications.",
+        "SDKs in Python, JavaScript, Go, and .NET simplify integration for developers.",
+        "Self-hosted deployment options allow enterprises to run voice AI on-premises or in cloud environments."
+    ],
+    "faqs": [
+        {
+            "question": "What is Deepgram used for?",
+            "answer": "Deepgram provides AI-powered speech-to-text, text-to-speech, and voice agent APIs to build voice-enabled applications for industries like contact centers, healthcare, and media."
+        },
+        {
+            "question": "Does Deepgram offer a free plan?",
+            "answer": "Yes, Deepgram offers a free plan with $200 in credits, allowing users to test its APIs without a credit card."
+        },
+        {
+            "question": "What languages does Deepgram support?",
+            "answer": "Deepgram supports transcription in dozens of languages, with the Nova-3 model excelling in multilingual conversations."
+        },
+        {
+            "question": "Can Deepgram transcribe live audio?",
+            "answer": "Yes, Deepgram’s real-time transcription API processes live audio with low latency and high accuracy."
+        },
+        {
+            "question": "Is Deepgram suitable for enterprise use?",
+            "answer": "Deepgram offers enterprise plans with self-hosted deployments, scalable infrastructure, and advanced security features."
+        },
+        {
+            "question": "How accurate is Deepgram’s transcription?",
+            "answer": "Deepgram’s Nova-3 model achieves up to 54.2% lower word error rate compared to competitors, leading the industry."
+        },
+        {
+            "question": "What are Deepgram’s audio intelligence features?",
+            "answer": "Audio intelligence includes summarization, sentiment analysis, and topic detection, enhancing audio data insights."
+        },
+        {
+            "question": "Can I integrate Deepgram with my application?",
+            "answer": "Yes, Deepgram provides SDKs for Python, JavaScript, Go, and .NET, making integration straightforward."
+        },
+        {
+            "question": "Does Deepgram support text-to-speech?",
+            "answer": "Yes, Deepgram’s Aura text-to-speech model generates natural-sounding speech with less than 250ms latency."
+        },
+        {
+            "question": "What is the Deepgram Whisper Cloud?",
+            "answer": "Deepgram Whisper Cloud is a managed API for OpenAI’s Whisper model, limited to 15 concurrent requests for paid plans."
+        }
+    ]
+}

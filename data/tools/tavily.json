@@ -1,0 +1,64 @@
+{
+    "name": "Tavily",
+    "description": "Tavily is a real-time search engine optimized for AI agents and RAG workflows, providing fast and secure APIs for web search and content extraction.",
+    "longDescription": "Tavily is a specialized search engine designed for large language models (LLMs) and AI agents, focusing on delivering accurate, real-time, and factual web data for retrieval-augmented generation (RAG) applications. Its mission is to empower developers and organizations by providing reliable, up-to-date information from trusted sources, reducing AI hallucinations and enhancing decision-making. The platform simplifies the integration of web data into AI-driven solutions through its APIs, which aggregate and rank relevant content efficiently. Tavily serves AI developers, researchers, and businesses by offering tools for web search, content extraction, and site crawling, all tailored to meet the needs of advanced AI workflows. By prioritizing speed, transparency, and customization, Tavily enables seamless incorporation of real-time insights into applications like chatbots, data analysis tools, and research platforms. It is trusted by over 600,000 developers for its ability to streamline complex data retrieval processes.",
+    "url": "https://www.tavily.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.tavily.com.webp",
+    "category": "AI Search Engine",
+    "categorySlug": "ai-search-engine",
+    "slug": "tavily",
+    "categories": [
+        "AI Search Engine",
+        "AI Web Scraping",
+        "AI Agent",
+        "AI Content Detector",
+        "AI Data Mining",
+        "AI API"
+    ],
+    "features": [
+        "Tavily Search API delivers real-time, accurate search results optimized for LLMs, enhancing AI-driven applications with relevant web data.",
+        "Content extraction transforms web pages into LLM-ready data with automatic cleaning and format conversion, preserving structure and meaning.",
+        "Smart crawling navigates complex websites, respecting robots.txt, to efficiently discover accessible pages for AI research tasks.",
+        "Customizable search parameters, like search depth and domain management, allow precise control over results for tailored AI outputs.",
+        "The API aggregates up to 20 sites per call, scoring and ranking content to ensure relevance for AI agent queries.",
+        "Citations are included in search results, ensuring transparency and traceability of data sources for reliable AI outputs.",
+        "The Map API visualizes website structures, helping AI agents understand site hierarchies for targeted data extraction.",
+        "Integration with platforms like LangChain and LlamaIndex simplifies embedding Tavily’s capabilities into existing AI workflows.",
+        "High-speed API responses, often within seconds, prioritize efficiency without compromising result quality.",
+        "The free plan offers 1,000 API credits monthly, enabling developers to test features without financial commitment."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tavily’s primary function?",
+            "answer": "Tavily is a search engine optimized for AI agents and RAG workflows, providing real-time, accurate web data through APIs for search and content extraction."
+        },
+        {
+            "question": "Does Tavily offer a free plan?",
+            "answer": "Yes, Tavily provides a free plan with 1,000 API credits per month, allowing developers to test its features without a credit card."
+        },
+        {
+            "question": "Can Tavily’s API provide citations for its results?",
+            "answer": "Yes, Tavily includes citations for all retrieved data, ensuring transparency and traceability of information sources."
+        },
+        {
+            "question": "How does Tavily integrate with existing AI tools?",
+            "answer": "Tavily offers seamless integration with platforms like LangChain and LlamaIndex, as well as Python and JavaScript SDKs for easy setup."
+        },
+        {
+            "question": "What types of applications benefit from Tavily?",
+            "answer": "Tavily enhances AI applications like chatbots, research tools, and data analysts by providing real-time, reliable web data for better decision-making."
+        },
+        {
+            "question": "How fast is Tavily’s API response time?",
+            "answer": "Tavily’s API typically returns results in seconds or less, though complex queries may take slightly longer while maintaining quality."
+        },
+        {
+            "question": "What is the GPT Researcher, and how is it related to Tavily?",
+            "answer": "GPT Researcher is an open-source autonomous agent powered by Tavily’s Search API, designed to conduct comprehensive research tasks."
+        },
+        {
+            "question": "Can Tavily crawl websites for specific content?",
+            "answer": "Yes, Tavily’s Crawl API navigates websites to extract targeted content, such as pages about specific topics, with customizable parameters."
+        }
+    ]
+}

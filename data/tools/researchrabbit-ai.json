@@ -1,0 +1,73 @@
+{
+    "name": "ResearchRabbit",
+    "description": "ResearchRabbit is an AI-powered tool for discovering and organizing scholarly literature through visualization and personalized recommendations.",
+    "longDescription": "ResearchRabbit is an AI-driven platform designed to streamline academic research by helping researchers discover, organize, and visualize scholarly literature. Founded in 2021 by a small team in Seattle, it aims to simplify the often complex and time-consuming process of literature review. The tool allows users to start with a 'seed' paper and explore related publications through citation networks, authorship connections, and AI-generated recommendations. By offering intuitive visualization maps and a column-based interface, it supports unstructured research workflows, making it easier to navigate vast academic databases. ResearchRabbit’s mission is to empower researchers by providing free, efficient tools that enhance literature discovery without selling user data or research back to them. It integrates with tools like Zotero and leverages databases like OpenAlex and Semantic Scholar to provide comprehensive results.",
+    "url": "https://www.researchrabbit.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.researchrabbit.ai.webp",
+    "category": "AI Book Summarizer",
+    "categorySlug": "ai-book-summarizer",
+    "slug": "researchrabbit-ai",
+    "categories": [
+        "AI Book Summarizer",
+        "AI Research Tool",
+        "AI Diagram Generator",
+        "AI Productivity Tools",
+        "AI Search Engine",
+        "AI Workflow",
+        "AI Charting"
+    ],
+    "features": [
+        "AI-driven recommendations suggest earlier, later, and similar papers based on user-selected seed papers, enhancing literature discovery.",
+        "Network visualization maps display citation and co-authorship connections, helping users understand relationships between publications.",
+        "Timeline view organizes papers by publication year, enabling users to track research trends over time.",
+        "Collections allow users to group and organize papers, supporting collaborative research and easy reference management.",
+        "Zotero integration enables seamless export of citations for efficient organization and formatting in research projects.",
+        "Column-based interface tracks research paths, allowing users to retrace steps and explore new connections intuitively.",
+        "Collaboration tools let users share collections and add comments, fostering teamwork in research projects.",
+        "Keyword and DOI search capabilities simplify finding relevant papers without complex query formulation.",
+        "Personalized suggestions improve over time as the platform learns user preferences, similar to Spotify’s recommendation system.",
+        "Free access to all features ensures researchers can use the tool without financial barriers, aligning with its mission-driven approach."
+    ],
+    "faqs": [
+        {
+            "question": "What is ResearchRabbit used for?",
+            "answer": "ResearchRabbit is an AI-powered tool that helps researchers discover, organize, and visualize scholarly literature for efficient literature reviews."
+        },
+        {
+            "question": "Is ResearchRabbit free to use?",
+            "answer": "Yes, ResearchRabbit is completely free for researchers, with all features accessible without cost, as stated on their website."
+        },
+        {
+            "question": "How do I start using ResearchRabbit?",
+            "answer": "Create an account on researchrabbit.ai, add a seed paper or keywords, and begin exploring related literature through the platform’s interface."
+        },
+        {
+            "question": "Can ResearchRabbit integrate with other tools?",
+            "answer": "Yes, it integrates with Zotero for citation management and pulls data from OpenAlex and Semantic Scholar for comprehensive results."
+        },
+        {
+            "question": "What types of visualizations does ResearchRabbit offer?",
+            "answer": "It provides network visualization for citation and authorship connections and a timeline view to see publication trends by year."
+        },
+        {
+            "question": "How does ResearchRabbit generate recommendations?",
+            "answer": "It uses AI algorithms to analyze citations and content, suggesting earlier, later, and similar papers based on user-selected seed papers."
+        },
+        {
+            "question": "Can I collaborate with others on ResearchRabbit?",
+            "answer": "Yes, you can share collections and add comments to collaborate with colleagues or support group research projects."
+        },
+        {
+            "question": "Does ResearchRabbit support keyword searches?",
+            "answer": "Yes, users can search using keywords, DOIs, or PMIDs to find relevant papers quickly and add them to collections."
+        },
+        {
+            "question": "What databases does ResearchRabbit use?",
+            "answer": "It primarily sources data from OpenAlex and Semantic Scholar, with a database size second only to Google Scholar."
+        },
+        {
+            "question": "Is there a learning curve for using ResearchRabbit?",
+            "answer": "While the interface may seem complex initially, it becomes intuitive after familiarizing yourself with its features and navigation."
+        }
+    ]
+}

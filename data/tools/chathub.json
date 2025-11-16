@@ -1,0 +1,65 @@
+{
+    "name": "ChatHub",
+    "description": "ChatHub is an all-in-one AI client that enables users to interact with multiple AI chatbots simultaneously, comparing their responses side by side.",
+    "longDescription": "ChatHub is a versatile platform designed to streamline interaction with multiple AI chatbots, such as GPT-4, Claude, and Gemini, within a single interface. Its mission is to simplify access to advanced AI models, allowing users to compare responses, generate content, and enhance productivity without switching between tools. The platform supports a wide range of use cases, from creative tasks to research, by offering features like image generation and web access. Available as a web app, browser extension, and mobile apps, ChatHub caters to users seeking efficient AI-driven solutions. By providing both free and premium plans, it ensures accessibility while offering advanced capabilities for subscribed users.",
+    "url": "https://chathub.gg/?utm_source=ainavdir",
+    "screenshot": "/screenshot/chathub.gg.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "chathub",
+    "categories": [
+        "AI Assistant",
+        "AI Response Generator",
+        "AI Image Generator",
+        "AI Prompt Generator",
+        "AI Web Scraping",
+        "AI Speech Recognition",
+        "AI Search Engine"
+    ],
+    "features": [
+        "Simultaneous chatbot interaction allows users to query multiple AI models like GPT-4, Claude, and Gemini at once, comparing responses for better decision-making.",
+        "Image generation enables users to create artwork, illustrations, and photos using models like DALL-E 3 and Stable Diffusion.",
+        "Smart web access integrates real-time web information to enhance the accuracy and relevance of chatbot responses.",
+        "Prompt library offers a curated collection of high-quality prompts for various tasks, improving user efficiency.",
+        "Local chat history saves conversations in the browser for full-text search and easy reference.",
+        "Code snippet execution provides syntax highlighting and live previews for coding tasks.",
+        "Cross-platform availability ensures access via web, iOS, Android, and desktop apps for Windows and Mac.",
+        "Custom chatbot integration allows users to incorporate OpenAI-compatible APIs for personalized AI solutions.",
+        "Voice input support enables hands-free interaction with AI models for enhanced accessibility.",
+        "Cloud syncing in premium plans ensures seamless conversation access across devices."
+    ],
+    "faqs": [
+        {
+            "question": "What is ChatHub?",
+            "answer": "ChatHub is an AI client that lets users interact with multiple AI chatbots simultaneously, comparing their responses in one interface."
+        },
+        {
+            "question": "Is ChatHub free to use?",
+            "answer": "Yes, ChatHub offers a free plan with limited features, but upgrading to a premium plan unlocks more usage and advanced capabilities."
+        },
+        {
+            "question": "Which AI models does ChatHub support?",
+            "answer": "ChatHub supports over 20 AI models, including GPT-4, Claude 3.5, Gemini 2.5, and Llama 3.3, among others."
+        },
+        {
+            "question": "Can I use ChatHub on mobile devices?",
+            "answer": "Yes, ChatHub is accessible via its web app on mobile devices, as well as native iOS and Android apps."
+        },
+        {
+            "question": "Does ChatHub store my chat data?",
+            "answer": "ChatHub saves chat history locally in your browser and does not store user chat data on its servers for privacy."
+        },
+        {
+            "question": "Can I generate images with ChatHub?",
+            "answer": "Yes, ChatHub supports image generation using models like DALL-E 3, FLUX.1, and Stable Diffusion."
+        },
+        {
+            "question": "Do I need separate subscriptions for ChatGPT or Claude?",
+            "answer": "No, a ChatHub subscription provides access to advanced models like GPT-4 and Claude 3.5 without needing separate subscriptions."
+        },
+        {
+            "question": "How does the premium plan differ from the free plan?",
+            "answer": "The premium plan offers higher usage quotas, access to advanced AI models, cloud syncing, and additional features like web access."
+        }
+    ]
+}

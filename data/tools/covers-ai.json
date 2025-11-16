@@ -1,0 +1,68 @@
+{
+    "name": "Covers.ai",
+    "description": "Covers.ai provides AI-powered tools for artists, creators, and fans to generate viral music covers, remixes, and TikTok content.",
+    "longDescription": "Covers.ai is an AI-driven platform designed to empower artists, music marketers, creators, and fans to produce high-quality music covers, remixes, and viral social media content. By leveraging advanced voice synthesis and audio processing, it allows users to transform songs with AI-generated vocals, swap lyrics, or create custom voice models. The platform aims to simplify music creation, making it accessible to users without professional skills, while fostering creativity and engagement. It supports a variety of use cases, from generating TikTok-ready videos to producing fan fiction content at scale. Covers.ai also emphasizes community interaction, enabling users to share their creations and collaborate with others. Its mission is to revolutionize music production by blending AI technology with artistic expression.",
+    "url": "https://www.covers.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.covers.ai.webp",
+    "category": "AI Speech Synthesis",
+    "categorySlug": "ai-speech-synthesis",
+    "slug": "covers-ai",
+    "categories": [
+        "AI Speech Synthesis",
+        "AI Song Remixer",
+        "AI Content Detector",
+        "AI Voice Cloning",
+        "AI Lyrics Generator",
+        "AI Translate",
+        "AI Stems Splitter",
+        "AI Social Media",
+        "AI Voice Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI Voice Swaps enable users to replace original song vocals with AI-generated voices for unique covers.",
+        "Custom AI Voice creation allows users to train and use personalized voice models for music production.",
+        "AI Lyric Swap lets users modify song lyrics while maintaining the original melody for creative remixes.",
+        "AI Language Swap translates songs into different languages using AI to adapt vocals seamlessly.",
+        "AI Viral TikToks generates short, engaging video content optimized for social media platforms like TikTok.",
+        "AI Remix tools provide options to change genres or styles of songs for innovative music transformations.",
+        "Vocal and Instrumental Separation splits audio tracks into stems for remixing or karaoke purposes.",
+        "Community Sharing allows users to share their AI-generated covers and collaborate with others.",
+        "Multi-Format Support accepts MP3, WAV, and YouTube links for flexible song input.",
+        "High-Quality Output ensures professional-sounding covers with advanced voice synthesis technology."
+    ],
+    "faqs": [
+        {
+            "question": "What is Covers.ai?",
+            "answer": "Covers.ai is an AI-powered platform that helps users create music covers, remixes, and viral TikTok content using advanced voice synthesis and audio processing tools."
+        },
+        {
+            "question": "Is Covers.ai free to use?",
+            "answer": "Yes, Covers.ai offers a free plan with limited features, allowing users to try core functionalities without a subscription."
+        },
+        {
+            "question": "Can I create a cover with my own voice?",
+            "answer": "Yes, Covers.ai allows users to train custom AI voice models by uploading vocal samples for personalized covers."
+        },
+        {
+            "question": "What file formats does Covers.ai support?",
+            "answer": "Covers.ai supports MP3, WAV, M4A files, and YouTube links for song uploads, offering flexible input options."
+        },
+        {
+            "question": "Can I use Covers.ai for commercial purposes?",
+            "answer": "Users must obtain necessary permissions for copyrighted material, as AI-generated covers may still require mechanical licenses for commercial use."
+        },
+        {
+            "question": "How long does it take to generate a cover?",
+            "answer": "Generation time varies based on song length and complexity, typically taking a few minutes to process."
+        },
+        {
+            "question": "Does Covers.ai support duets or multiple voices?",
+            "answer": "Yes, Covers.ai offers features like AI Chorus & Duets to blend multiple AI voices for harmonious tracks."
+        },
+        {
+            "question": "Can I share my creations on social media?",
+            "answer": "Covers.ai provides tools to create TikTok-ready videos and share creations directly on social platforms."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Voicemaker",
+    "description": "Voicemaker is an AI-powered text-to-speech platform offering over 1,000 natural-sounding voices in 130+ languages for creating professional audio content.",
+    "longDescription": "Voicemaker is an AI-based text-to-speech converter designed to transform written text into lifelike audio, catering to content creators, businesses, and educators. Its mission is to simplify voiceover creation by providing customizable, high-quality AI voices for diverse applications like YouTube videos, podcasts, and e-learning materials. The platform supports over 130 languages and offers advanced features like voice cloning and emotional speech effects to enhance audio realism. By leveraging cutting-edge neural network technology, Voicemaker ensures natural-sounding output, making it accessible for users without technical expertise. It serves a global audience, with registered users from over 120 countries, and supports both free and premium plans for varied user needs.",
+    "url": "https://voicemaker.in/?utm_source=ainavdir",
+    "screenshot": "/screenshot/voicemaker.in.webp",
+    "category": "AI Text-to-Speech",
+    "categorySlug": "ai-text-to-speech",
+    "slug": "voicemaker",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Generator",
+        "AI Voice Cloning",
+        "AI Voice Translator",
+        "AI Voice Changer",
+        "AI Digital Marketing",
+        "AI Course",
+        "AI Video Generator",
+        "AI Speech Synthesis"
+    ],
+    "features": [
+        "Converts text to speech using over 1,000 AI voices in 130+ languages for versatile content creation.",
+        "Supports multiple audio formats like MP3, WAV, and OGG for compatibility with various platforms.",
+        "Offers customizable voice settings, including speed, pitch, volume, and pauses, to tailor audio output.",
+        "Provides voice cloning with Pro+ and Neural AI3 engines, creating ultra-realistic custom voices from 30-minute datasets.",
+        "Includes SSML support for advanced pronunciation control and realistic audio expressions.",
+        "Allows downloading of high-quality audio files (8,000Hz to 48,000Hz) for professional use.",
+        "Features a Pronunciation Editor for fine-tuning specific words, available with paid plans.",
+        "Enables users to retain full copyright of generated audio for commercial use, including YouTube and podcasts.",
+        "Offers a user-friendly interface with a dialogue box for instant text-to-speech conversion without tutorials.",
+        "Supports emotional voice styles like happy, sad, or conversational for engaging audio content.",
+        "Provides an API for developers to integrate text-to-speech functionality into applications."
+    ],
+    "faqs": [
+        {
+            "question": "What is Voicemaker used for?",
+            "answer": "Voicemaker converts text into natural-sounding audio for applications like YouTube videos, podcasts, e-learning, and marketing content."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, Voicemaker offers a free plan with up to 250 characters per conversion and 100 weekly conversions, including access to 750+ voices."
+        },
+        {
+            "question": "Can I use Voicemaker audio for commercial purposes?",
+            "answer": "Yes, subscribers own full copyright of generated audio and can use it for commercial purposes, such as YouTube or TikTok, without resale."
+        },
+        {
+            "question": "What languages does Voicemaker support?",
+            "answer": "Voicemaker supports over 130 languages, including English, Spanish, Hindi, and Mandarin, with various regional accents."
+        },
+        {
+            "question": "How do I customize the voice output?",
+            "answer": "Users can adjust voice speed, pitch, volume, and pauses via the editor and use SSML tags for advanced pronunciation control."
+        },
+        {
+            "question": "Does Voicemaker support voice cloning?",
+            "answer": "Yes, paid plans offer voice cloning using Pro+ and Neural AI3 engines, requiring a 30-minute voice dataset."
+        },
+        {
+            "question": "What audio formats are available for download?",
+            "answer": "Voicemaker allows downloading audio in MP3, WAV, and OGG formats with sample rates from 8,000Hz to 48,000Hz."
+        },
+        {
+            "question": "How many characters can I convert at once?",
+            "answer": "The free plan allows 250 characters per conversion, while paid plans support up to 3,000 (Basic/Premium) or 10,000 (Business) characters."
+        }
+    ]
+}

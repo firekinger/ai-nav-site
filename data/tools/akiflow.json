@@ -1,0 +1,70 @@
+{
+    "name": "Akiflow",
+    "description": "Akiflow is an AI-powered productivity platform that integrates tasks and calendars for efficient time management and scheduling.",
+    "longDescription": "Akiflow is an all-in-one productivity app designed to streamline task management and scheduling by consolidating tasks from various tools into a unified platform. Founded in 2020 by Sebastiano Favaro and Nunzio Martinello, it leverages AI to automate task organization and enhance time-blocking methodologies. The app integrates with tools like Gmail, Slack, Asana, and Google Calendar, allowing users to manage their schedules and to-do lists in one place. Its mission is to reduce cognitive overload and help professionals, founders, and teams achieve clarity and productivity without burnout. By offering features like a command bar and keyboard shortcuts, Akiflow enables quick task capture and seamless calendar management. It is trusted by Y Combinator founders, VC analysts, and busy professionals for its clean UI and robust integrations.",
+    "url": "https://akiflow.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/akiflow.com.webp",
+    "category": "AI Task Management",
+    "categorySlug": "ai-task-management",
+    "slug": "akiflow",
+    "categories": [
+        "AI Task Management",
+        "AI Tools Directory",
+        "AI Calendar",
+        "AI Productivity Tools",
+        "AI Workflow",
+        "AI Project Management",
+        "AI Scheduling"
+    ],
+    "features": [
+        "Task consolidation pulls tasks from tools like Slack, Gmail, and Asana into a single inbox, reducing app-switching and improving organization.",
+        "Time-blocking functionality allows users to drag and drop tasks onto a calendar for structured daily planning and focused work.",
+        "AI-powered task assignment automatically organizes tasks based on priorities and schedules, optimizing daily workflows.",
+        "Seamless calendar sync integrates with Google Calendar and Outlook, providing a unified view of tasks and events.",
+        "Focus Timer helps users lock into deep work by minimizing distractions and tracking time spent on tasks.",
+        "Scheduling links enable easy sharing of availability for one-off or recurring meetings, streamlining coordination.",
+        "Rituals Assistant guides users in reviewing and planning their days to enhance focus and productivity.",
+        "Keyboard shortcuts and a command bar allow for rapid task creation and navigation, boosting efficiency.",
+        "Offline mode ensures users can work without an internet connection, maintaining productivity anywhere.",
+        "Progress visualization tracks task completion and time spent, helping users reflect on their productivity.",
+        "Two-way sync with tools like Todoist and Asana ensures changes made in Akiflow reflect in connected apps and vice versa."
+    ],
+    "faqs": [
+        {
+            "question": "What is Akiflow used for?",
+            "answer": "Akiflow is a productivity app that consolidates tasks and calendars from multiple tools, enabling users to plan their day efficiently using time-blocking and AI-driven organization."
+        },
+        {
+            "question": "Does Akiflow offer a free trial?",
+            "answer": "Yes, Akiflow provides a 7-day free trial with full access to all features, allowing users to test its functionality before committing to a paid plan."
+        },
+        {
+            "question": "Which apps does Akiflow integrate with?",
+            "answer": "Akiflow integrates with over 3,000 tools, including Gmail, Slack, Asana, Trello, Notion, Todoist, and Google Calendar, via direct integrations or Zapier."
+        },
+        {
+            "question": "Is Akiflow suitable for team use?",
+            "answer": "Akiflow supports team collaboration by allowing users to share availability and manage team billing, making it ideal for professionals and small teams."
+        },
+        {
+            "question": "Can I use Akiflow offline?",
+            "answer": "Yes, Akiflow’s offline mode allows users to manage tasks and schedules without an internet connection, ensuring uninterrupted productivity."
+        },
+        {
+            "question": "How does Akiflow’s AI improve productivity?",
+            "answer": "Akiflow’s AI automatically assigns tasks to optimal time slots based on priorities and user preferences, reducing manual planning and enhancing efficiency."
+        },
+        {
+            "question": "Is Akiflow secure for my data?",
+            "answer": "Akiflow prioritizes data security, but specific details can be found in their privacy policy, and users can contact support@akiflow.com for clarification."
+        },
+        {
+            "question": "Does Akiflow support time tracking?",
+            "answer": "Currently, Akiflow does not offer native time tracking, though this feature has been under review since 2021 based on user feedback."
+        },
+        {
+            "question": "Can I cancel my Akiflow subscription easily?",
+            "answer": "Yes, Akiflow allows users to cancel their subscription anytime during the free trial or paid plan, with details outlined in their terms of service."
+        }
+    ]
+}

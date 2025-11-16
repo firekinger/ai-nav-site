@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Name Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Name Generator tools, designed to help you effortlessly create unique and memorable names for your projects, businesses, or products. These innovative solutions leverage advanced algorithms to generate names that resonate with your target audience, ensuring a strong first impression. Whether you're launching a startup or naming a character, our AI tools simplify the process, saving you time and sparking inspiration. Explore our curated selection of AI Name Generators today and find the perfect name that stands out!",
+    "tools": [
+        {
+            "id": "808",
+            "name": "Everypixel",
+            "slug": "everypixel",
+            "description": "Everypixel is an AI-powered stock image search engine that aggregates and curates high-quality photos and vectors from multiple sources.",
+            "icon": "/logo/www.everypixel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-name-generator"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Fliki",
+    "description": "Fliki is an AI-powered platform that transforms text into engaging videos and audio content with realistic voiceovers.",
+    "longDescription": "Fliki is an innovative AI-driven platform designed to simplify content creation by converting text into high-quality videos and audio with lifelike voiceovers. It caters to content creators, marketers, educators, and businesses looking to produce professional-grade multimedia content without advanced editing skills. By leveraging advanced text-to-speech and text-to-video technologies, Fliki enables users to generate podcasts, audiobooks, social media videos, and e-learning materials efficiently. The platform supports multiple languages and voices, making it accessible for global audiences. Its mission is to democratize content creation, allowing users to focus on their message while Fliki handles the technical aspects of production.",
+    "url": "https://fliki.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/fliki.ai.webp",
+    "category": "Text to Video",
+    "categorySlug": "text-to-video",
+    "slug": "fliki",
+    "categories": [
+        "Text to Video",
+        "AI Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Digital Marketing",
+        "AI Translate",
+        "AI Social Media Post Generator",
+        "AI Video Generator"
+    ],
+    "features": [
+        "Text-to-speech conversion generates realistic AI voiceovers in over 75 languages for diverse audio content.",
+        "Text-to-video functionality transforms scripts into engaging videos with AI avatars and visuals in minutes.",
+        "Customizable templates allow users to create branded content tailored to specific platforms like YouTube or Instagram.",
+        "Voice cloning enables users to replicate specific voices for personalized audio or video outputs.",
+        "Multilingual support offers over 2,000 voice options across various accents and dialects for global reach.",
+        "Stock media library provides access to millions of images, videos, and music tracks to enhance content.",
+        "Auto-subtitles feature adds captions to videos, improving accessibility and engagement.",
+        "Script-to-podcast conversion turns written content into professional-grade podcasts with minimal effort.",
+        "Real-time preview allows users to review and tweak content before finalizing their projects.",
+        "Export options support multiple formats like MP4, MP3, and WAV for versatile content distribution."
+    ],
+    "faqs": [
+        {
+            "question": "What is Fliki used for?",
+            "answer": "Fliki is used to convert text into videos and audio content, such as social media videos, podcasts, and audiobooks, using AI-powered voiceovers and visuals."
+        },
+        {
+            "question": "Does Fliki offer a free plan?",
+            "answer": "Yes, Fliki offers a free plan with limited features, allowing users to test its core functionalities before upgrading to paid plans."
+        },
+        {
+            "question": "Can I create content in multiple languages?",
+            "answer": "Fliki supports over 75 languages and 2,000+ voice options, enabling users to create content for global audiences."
+        },
+        {
+            "question": "Is Fliki suitable for beginners?",
+            "answer": "Yes, Fliki’s intuitive interface and pre-built templates make it easy for beginners to create professional-grade content without technical expertise."
+        },
+        {
+            "question": "Can I use my own voice in Fliki?",
+            "answer": "Fliki offers voice cloning, allowing users to replicate their own voice or others for customized audio and video content."
+        },
+        {
+            "question": "What types of content can I create with Fliki?",
+            "answer": "Fliki enables users to create videos, podcasts, audiobooks, and social media content from text inputs."
+        },
+        {
+            "question": "Does Fliki support video subtitles?",
+            "answer": "Yes, Fliki’s auto-subtitles feature generates captions for videos to enhance accessibility and viewer engagement."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "AIcut",
+    "description": "AIcut.pro is an AI-powered platform for creating engaging faceless short videos from text for social media platforms like YouTube, TikTok, and Instagram.",
+    "longDescription": "AIcut.pro is a web-based platform designed to simplify video content creation by transforming text inputs into professional-quality, faceless short videos using advanced AI algorithms. It caters to content creators, marketers, and businesses looking to enhance their social media presence without requiring on-camera appearances or extensive editing skills. The platform supports rapid video production, allowing users to generate viral content for platforms like TikTok and YouTube Shorts in minutes. By automating tasks such as adding visuals, voiceovers, captions, and music, AIcut.pro streamlines the content creation process, saving users time and effort. Its mission is to empower creators to grow their channels efficiently while maintaining high engagement with minimal manual work.",
+    "url": "https://www.aicut.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.aicut.pro.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "aicut",
+    "categories": [
+        "AI Video Generator",
+        "AI Social Media Post Generator",
+        "AI Content Detector",
+        "AI Voice Over",
+        "AI Scheduling",
+        "AI Story Generator",
+        "AI Short Video Generator"
+    ],
+    "features": [
+        "Text-to-Video Creation: Converts text inputs like stories or blog posts into engaging short videos without requiring on-camera presence.",
+        "Fake Text Story Generator: Creates videos mimicking real chat conversations, ideal for storytelling or entertainment content.",
+        "PDF to Brainrot: Transforms PDF documents into dynamic, fast-paced videos tailored for social media platforms like TikTok.",
+        "AI Image Generation: Generates AI-driven image story videos from text, eliminating the need for external image sourcing.",
+        "Automated Channel Posting: Schedules and publishes videos directly to YouTube or TikTok, saving time on content management.",
+        "Template and Background Choices: Offers customizable templates, captions, and backgrounds to align videos with brand aesthetics.",
+        "Voiceover Integration: Automatically adds AI-generated voiceovers to enhance video professionalism and engagement.",
+        "Social Media Optimization: Tailors videos for vertical formats and trending styles suited for TikTok and Instagram Reels."
+    ],
+    "faqs": [
+        {
+            "question": "Do I need technical skills to use AIcut.pro?",
+            "answer": "No, AIcut.pro is designed for beginners, with an intuitive interface that automates the video creation process."
+        },
+        {
+            "question": "Can I use AIcut.pro for free?",
+            "answer": "Yes, AIcut.pro offers a limited free plan with one video token per month, ideal for testing its features."
+        },
+        {
+            "question": "What types of content can I create with AIcut.pro?",
+            "answer": "You can convert any text, such as blog posts, quotes, or scripts, into faceless videos for platforms like TikTok, YouTube, and Instagram."
+        },
+        {
+            "question": "How fast is the video creation process?",
+            "answer": "AIcut.pro generates videos in just a few minutes after inputting text and selecting desired settings."
+        },
+        {
+            "question": "Can I schedule videos for automatic posting?",
+            "answer": "Yes, the platform’s higher-tier plans include automated channel posting to YouTube and TikTok for streamlined content management."
+        },
+        {
+            "question": "Does AIcut.pro support custom branding?",
+            "answer": "Yes, users can choose or upload templates and backgrounds to match their brand’s style and aesthetic."
+        },
+        {
+            "question": "Is customer support available for AIcut.pro users?",
+            "answer": "Yes, AIcut.pro offers priority support to assist users with their video creation needs."
+        },
+        {
+            "question": "Can AIcut.pro videos be used for educational content?",
+            "answer": "Absolutely, the platform can turn lessons or how-to guides into visual explainers without requiring filming."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "LetsEnhance",
+    "description": "LetsEnhance uses AI to upscale and enhance images, improving resolution and quality for professional and personal use.",
+    "longDescription": "LetsEnhance is an AI-powered online platform designed to enhance and upscale images, transforming low-resolution or pixelated photos into high-quality, sharp visuals. Utilizing advanced Super Resolution technology based on Deep Convolutional Neural Networks, it adds missing details and improves clarity without quality loss. The platform serves a wide range of users, including photographers, eCommerce businesses, and digital artists, by automating complex image editing tasks. Its mission is to make professional-grade image enhancement accessible to everyone, saving time compared to manual editing tools like Photoshop. The service supports various image types, particularly unprocessed JPEGs and PNGs, and offers a user-friendly interface for quick results. LetsEnhance also caters to industries like real estate and print-on-demand by providing high-resolution outputs suitable for large-scale printing and professional displays.",
+    "url": "https://letsenhance.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/letsenhance.io.webp",
+    "category": "AI Image Upscaler",
+    "categorySlug": "ai-image-upscaler",
+    "slug": "letsenhance",
+    "categories": [
+        "AI Image Upscaler",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Background Remover",
+        "AI Art Generator"
+    ],
+    "features": [
+        "AI-powered upscaling increases image resolution up to 500 megapixels for sharp, detailed visuals suitable for printing.",
+        "Smart Enhance aggressively restores old or low-quality images by reducing noise and enhancing clarity.",
+        "Light AI improves color balance, lighting, and exposure for more vibrant and professional-looking images.",
+        "Background removal isolates subjects in images and saves them as PNGs for versatile use in design projects.",
+        "JPEG artifact removal cleans compression noise, resulting in clearer and more polished images.",
+        "Custom size upscaling allows users to enlarge images up to 6x while preserving quality and detail.",
+        "Magic enhancer sharpens blurry images, making them crisp and clear for professional applications.",
+        "Digital Art mode optimizes upscaling for AI-generated or digital artwork, ensuring vibrant and detailed results.",
+        "Batch processing enables users to enhance multiple images simultaneously, streamlining workflows for businesses.",
+        "Strong upscaler tackles challenging images, such as those with unclear faces, for maximum clarity.",
+        "Photo mode supports up to 16x upscaling, ideal for restoring old or low-resolution photographs."
+    ],
+    "faqs": [
+        {
+            "question": "What types of images can I enhance with LetsEnhance?",
+            "answer": "LetsEnhance works best with unprocessed JPEGs and PNGs that haven’t been previously upscaled or sharpened, ensuring optimal results."
+        },
+        {
+            "question": "Does LetsEnhance offer a free plan?",
+            "answer": "Yes, new users receive 10 free credits to enhance images up to 64 megapixels, with no watermark on paid plans."
+        },
+        {
+            "question": "How does LetsEnhance improve image quality?",
+            "answer": "It uses AI-driven Super Resolution technology to analyze images, add missing pixels, and enhance details, colors, and sharpness."
+        },
+        {
+            "question": "Can I remove backgrounds from images using LetsEnhance?",
+            "answer": "Yes, the background removal feature isolates subjects and saves images as PNGs, limited to 16 megapixels for input and output."
+        },
+        {
+            "question": "What is the maximum resolution for upscaled images?",
+            "answer": "Personal plans support up to 256 megapixels, while business plans allow upscaling to 500 megapixels."
+        },
+        {
+            "question": "How do I fix blurry or pixelated images?",
+            "answer": "Upload the image, select the Magic or Strong enhancer, and click 'Start Processing' to sharpen and clarify the image."
+        },
+        {
+            "question": "Is there a mobile app for LetsEnhance?",
+            "answer": "No native iOS or Android apps are available, but the platform is accessible via mobile browsers."
+        },
+        {
+            "question": "Can I cancel my subscription?",
+            "answer": "Yes, you can cancel your subscription on the Pricing page, but unused credits expire at the end of the billing period."
+        },
+        {
+            "question": "How secure is my payment information?",
+            "answer": "LetsEnhance uses Stripe for payments, which is highly secure, and does not store your credit card details."
+        }
+    ]
+}

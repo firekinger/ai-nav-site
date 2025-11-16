@@ -1,0 +1,64 @@
+{
+    "name": "Yoodli",
+    "description": "Yoodli is an AI-powered communication coach that provides real-time feedback to improve public speaking and presentation skills.",
+    "longDescription": "Yoodli is an AI-driven platform designed to enhance communication skills by offering private, real-time, and judgment-free feedback on speeches, interviews, and presentations. It leverages artificial intelligence and linguistics to analyze verbal and non-verbal aspects, such as pacing, filler words, and body language, to help users communicate more confidently. The platform serves a wide range of users, including students, professionals, and sales teams, by providing tailored coaching for various scenarios like job interviews and public speaking. Yoodli is used by organizations like Toastmasters International, Google, and Microsoft, and integrates with tools like Zoom to facilitate seamless practice. Its mission is to empower users to overcome public speaking fears and improve their communication in a supportive, virtual environment. The platform also offers a free version, making it accessible to a broad audience seeking to refine their skills.",
+    "url": "https://yoodli.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/yoodli.ai.webp",
+    "category": "AI Voice Assistants",
+    "categorySlug": "ai-voice-assistants",
+    "slug": "yoodli-ai",
+    "categories": [
+        "AI Voice Assistants",
+        "AI Presentation Generator",
+        "AI Roleplay",
+        "AI Speech Recognition",
+        "AI Interview Assistant",
+        "AI Games"
+    ],
+    "features": [
+        "Real-time feedback analyzes pacing, filler words, and body language to improve speech delivery instantly.",
+        "AI roleplays simulate realistic scenarios like interviews or sales pitches for targeted practice.",
+        "Speech analytics provide quantifiable metrics, such as eye contact and inclusivity, to track progress.",
+        "Zoom integration allows users to receive feedback during virtual meetings for seamless improvement.",
+        "Customizable interviewer personas tailor practice sessions to specific roles or industries.",
+        "Crash courses and famous speech analyses offer inspiration and learning from notable speakers.",
+        "Gamified speaking exercises make improving communication skills engaging and interactive.",
+        "Content sharing enables users to share practice sessions with peers or mentors for additional feedback.",
+        "Progress tracking syncs data with team tools to monitor improvement over time.",
+        "Free public speaking classes provide accessible resources to enhance skills without cost."
+    ],
+    "faqs": [
+        {
+            "question": "What is Yoodli used for?",
+            "answer": "Yoodli is an AI-powered tool that helps users improve public speaking, interviews, and presentations by providing real-time feedback on verbal and non-verbal communication."
+        },
+        {
+            "question": "Is Yoodli free to use?",
+            "answer": "Yes, Yoodli offers a free version with core features, though some advanced functionalities may require a paid plan."
+        },
+        {
+            "question": "How does Yoodli provide feedback?",
+            "answer": "Yoodli analyzes recorded or live speech for pacing, filler words, eye contact, and inclusivity, delivering actionable insights in real time."
+        },
+        {
+            "question": "Can Yoodli be used for interview preparation?",
+            "answer": "Yes, Yoodli offers AI-driven roleplay simulations that mimic real interviews, providing feedback to enhance response clarity and confidence."
+        },
+        {
+            "question": "Does Yoodli integrate with other tools?",
+            "answer": "Yoodli integrates with Zoom and calendar apps to provide feedback during virtual meetings and sync with team workflows."
+        },
+        {
+            "question": "Who can benefit from using Yoodli?",
+            "answer": "Students, professionals, sales teams, and anyone looking to improve public speaking or communication skills can benefit from Yoodli’s coaching."
+        },
+        {
+            "question": "Does Yoodli support languages other than English?",
+            "answer": "Currently, Yoodli primarily supports English, with limited or no support for other languages."
+        },
+        {
+            "question": "How does Yoodli ensure privacy during practice?",
+            "answer": "Yoodli provides a judgment-free, private environment for practice, with secure data handling to protect user sessions."
+        }
+    ]
+}

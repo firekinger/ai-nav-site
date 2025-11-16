@@ -1,0 +1,65 @@
+{
+    "name": "Delphi",
+    "description": "Delphi is an AI-powered platform that creates digital clones of experts to scale personalized interactions and knowledge sharing.",
+    "longDescription": "Delphi is a platform that leverages artificial intelligence to create digital clones of experts, coaches, and creators, enabling them to scale their expertise through personalized, one-on-one interactions with their audience. By uploading content such as text, audio, or video, users can train a digital mind that mirrors their knowledge, tone, and style, making it available 24/7 across various platforms like SMS, WhatsApp, and websites. The platform aims to empower creators to engage deeply with their followers, qualify leads, and monetize their expertise without sacrificing time or authenticity. Delphi addresses the challenge of limited human scalability by offering a solution that preserves an individual’s unique perspective while providing actionable insights and analytics to refine content strategies. Founded by Dara Ladjevardian, the company has raised significant funding to enhance its web-based toolkit, focusing on creators with substantial followings, such as influencers and thought leaders. It also emphasizes privacy and copyright protection, ensuring creators retain control over their digital clones.",
+    "url": "https://www.delphi.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.delphi.ai.webp",
+    "category": "AI Knowledge Management",
+    "categorySlug": "ai-knowledge-management",
+    "slug": "delphi-ai",
+    "categories": [
+        "AI Knowledge Management",
+        "AI Writing Assistants",
+        "AI Marketing",
+        "AI Social Media",
+        "AI For Data Analytics",
+        "AI Voice Assistants",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Digital clones capture an expert’s knowledge and style, enabling personalized 24/7 interactions with audiences across multiple platforms.",
+        "Real-time voice and video calling features allow users to engage with digital clones as if interacting with the expert directly.",
+        "Powerful analytics provide insights into audience questions and trending topics to optimize content strategies.",
+        "Monetization tools enable creators to charge for consultations, memberships, or premium interactions with their digital clones.",
+        "Integration with platforms like SMS, WhatsApp, Slack, and websites ensures seamless audience access to digital clones.",
+        "Content indexing automatically processes uploaded text, audio, or video to train clones, mirroring the creator’s tone and expertise.",
+        "Actionable dashboards offer proactive insights, such as popular topics and audience demographics, to enhance engagement.",
+        "Privacy controls protect creators’ content and ensure digital clones operate within defined boundaries set by the owner.",
+        "Continuous learning allows digital clones to evolve with new content, keeping interactions relevant and up-to-date.",
+        "Lead qualification features help creators identify and prioritize high-value audience interactions automatically."
+    ],
+    "faqs": [
+        {
+            "question": "What is a digital clone on Delphi?",
+            "answer": "A digital clone is an AI-powered representation of an expert that mimics their knowledge, tone, and style, enabling personalized interactions with audiences at scale."
+        },
+        {
+            "question": "How do I create a digital clone on Delphi?",
+            "answer": "Upload your content, such as videos, podcasts, or text, to the platform, and Delphi’s AI indexes it to create a clone that reflects your expertise in as little as 10 minutes."
+        },
+        {
+            "question": "Can I monetize my digital clone?",
+            "answer": "Yes, Delphi allows creators to charge for consultations, memberships, or premium interactions, with flexible pricing models to generate income."
+        },
+        {
+            "question": "What platforms can my digital clone be deployed on?",
+            "answer": "Your clone can be integrated into SMS, WhatsApp, Slack, websites, and video or voice calls for seamless audience access."
+        },
+        {
+            "question": "How does Delphi protect my content and privacy?",
+            "answer": "Delphi ensures creators own their clones and content, with privacy controls and copyright protection to prevent unauthorized use."
+        },
+        {
+            "question": "Who can benefit from using Delphi?",
+            "answer": "Coaches, influencers, CEOs, and creators with substantial followings can use Delphi to scale their reach and engage with audiences more effectively."
+        },
+        {
+            "question": "Does Delphi offer analytics for my clone’s performance?",
+            "answer": "Yes, Delphi provides actionable analytics, including popular topics and audience insights, to help refine your content strategy."
+        },
+        {
+            "question": "How accurate is the digital clone in representing me?",
+            "answer": "The clone’s accuracy depends on the quality and quantity of uploaded content, but Delphi’s AI strives to closely mirror your tone and expertise."
+        }
+    ]
+}

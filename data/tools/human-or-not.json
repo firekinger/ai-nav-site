@@ -1,0 +1,61 @@
+{
+    "name": "Human or Not",
+    "description": "Human or Not is a social Turing game where players chat to determine if their partner is a human or an AI bot.",
+    "longDescription": "Human or Not is an interactive online game designed to test players' ability to distinguish between human and AI-generated conversations in a chat-based format. The website pairs users with either a human or an AI bot for a two-minute conversation, challenging them to identify their partner's nature based on responses. Created by Humans Not AI Inc., the platform aims to entertain while raising awareness about AI communication capabilities. It serves as a fun, educational tool for users interested in exploring the boundaries between human and artificial intelligence. The game also contributes to research by collecting data on human-AI interactions, which may be used to improve AI models. Its engaging format makes it a unique blend of entertainment and cognitive challenge.",
+    "url": "https://humanornot.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/humanornot.so.webp",
+    "category": "AI Games",
+    "categorySlug": "ai-games",
+    "slug": "human-or-not",
+    "categories": [
+        "AI Games",
+        "AI Detector",
+        "AI Chat Generator",
+        "AI Assistant",
+        "AI Research Tool"
+    ],
+    "features": [
+        "Two-minute chat sessions allow players to engage in quick, timed conversations to guess if their partner is human or AI.",
+        "Random matching pairs users with either a human or an AI bot, ensuring unpredictable and varied interactions.",
+        "Extended conversation option enables players to continue chatting after guessing, fostering deeper engagement.",
+        "Energy points system rewards players for correct guesses and human-like interactions, adding a gamified incentive.",
+        "40-second response timer encourages quick thinking and natural conversation flow during chats.",
+        "User-friendly interface provides a seamless and intuitive experience for players of all skill levels.",
+        "Multi-language support allows players to switch languages, making the game accessible to a global audience.",
+        "Real-time feedback reveals the chat partner's identity after each round, enhancing the learning experience."
+    ],
+    "faqs": [
+        {
+            "question": "What is the purpose of Human or Not?",
+            "answer": "The game challenges players to distinguish between human and AI conversations, providing entertainment and insight into AI capabilities."
+        },
+        {
+            "question": "Is Human or Not free to play?",
+            "answer": "Yes, the game is completely free to play with no subscription or payment required for core features."
+        },
+        {
+            "question": "How long does each game session last?",
+            "answer": "Each session involves a two-minute chat, with an option to extend the conversation after making a guess."
+        },
+        {
+            "question": "Can I play Human or Not in different languages?",
+            "answer": "Yes, the platform supports multiple languages, allowing players to switch for a more accessible experience."
+        },
+        {
+            "question": "How does the game determine if I’m chatting with a human or AI?",
+            "answer": "The system randomly pairs you with either a human user or an AI bot, and you guess based on their responses."
+        },
+        {
+            "question": "Does playing the game contribute to AI research?",
+            "answer": "Yes, interactions may be used to study human-AI communication and improve AI models, per the terms of use."
+        },
+        {
+            "question": "What happens if I guess incorrectly?",
+            "answer": "You receive feedback on whether your partner was human or AI, helping you refine your skills for future rounds."
+        },
+        {
+            "question": "Is there a limit to how many games I can play?",
+            "answer": "There’s no strict limit, but server availability may affect matching during high-traffic periods."
+        }
+    ]
+}

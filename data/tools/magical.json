@@ -1,0 +1,61 @@
+{
+    "name": "Magical",
+    "description": "Magical is an AI-powered platform that automates repetitive tasks like data entry and messaging to boost productivity.",
+    "longDescription": "Magical is an AI-driven productivity platform designed to streamline repetitive tasks such as data entry, form filling, and messaging across various websites and applications. Its mission is to save users time by automating workflows with agentic AI employees that mimic human decision-making for reliable task execution. The platform integrates seamlessly with over 30,000 apps, requiring no complex setup or IT support, making it accessible for individuals and teams in industries like sales, healthcare, and customer support. By leveraging large language models and real-time data retrieval, Magical enhances efficiency and reduces errors, allowing users to focus on higher-value work. Founded in 2020, the San Francisco-based company serves over 750,000 users at 60,000+ companies, emphasizing ease of use, security, and scalability. Its intuitive Chrome extension and no-code approach make automation accessible to non-technical users.",
+    "url": "https://www.getmagical.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.getmagical.com.webp",
+    "category": "AI Workflow",
+    "categorySlug": "ai-workflow",
+    "slug": "magical",
+    "categories": [
+        "AI Workflow",
+        "AI Agent",
+        "AI Text Generator",
+        "AI Document Extraction",
+        "AI Forms",
+        "AI Message Generator",
+        "AI Healthcare",
+        "AI Sales Assistant",
+        "No-Code&Low-Code"
+    ],
+    "features": [
+        "Automates data entry by autofilling forms, spreadsheets, and databases with a single click, saving hours weekly.",
+        "Uses AI to generate personalized messages by pulling contact details, streamlining communication tasks.",
+        "Connects with over 30,000 apps and websites, enabling automation without integrations or complex setup.",
+        "Employs agentic AI to handle complex workflows like prior authorizations and claims management with human-like reasoning.",
+        "Offers a text expander to insert custom snippets or templates, reducing repetitive typing and errors.",
+        "Provides a no-code platform, allowing users to set up automations in seconds without IT or developer assistance.",
+        "Ensures high security with SAML SSO, SOC2 Type II, and HIPAA compliance for safe data handling.",
+        "Supports batch processing to scale automations, improving efficiency for large datasets or repetitive tasks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Magical used for?",
+            "answer": "Magical automates repetitive tasks like form filling, data entry, and messaging using AI, saving users time across various apps and websites."
+        },
+        {
+            "question": "Is Magical free to use?",
+            "answer": "Yes, Magical offers a generous free plan for core features, with premium options for advanced functionality."
+        },
+        {
+            "question": "Does Magical require technical expertise to set up?",
+            "answer": "No, Magical is designed for easy setup in seconds, requiring no IT support or coding knowledge."
+        },
+        {
+            "question": "Which apps does Magical work with?",
+            "answer": "Magical integrates with over 30,000 apps and websites, including Salesforce, Gmail, LinkedIn, and more."
+        },
+        {
+            "question": "How does Magical ensure data security?",
+            "answer": "Magical maintains high security with SAML SSO, SOC2 Type II certification, and HIPAA compliance to protect user data."
+        },
+        {
+            "question": "Can Magical automate complex tasks?",
+            "answer": "Yes, its agentic AI can handle complex workflows like prior authorizations and claims management with high reliability."
+        },
+        {
+            "question": "How does Magical compare to traditional RPA tools?",
+            "answer": "Unlike rigid RPA tools, Magical uses AI for adaptive automation, requiring less setup and handling dynamic tasks effectively."
+        }
+    ]
+}

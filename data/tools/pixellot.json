@@ -1,0 +1,72 @@
+{
+    "name": "Pixellot",
+    "description": "Pixellot is an AI-powered platform that automates sports video production and streaming for teams, leagues, and broadcasters.",
+    "longDescription": "Pixellot is a technology company specializing in AI-driven automated sports production, enabling high-quality video capture and broadcasting without the need for manual camera operators. Its mission is to democratize sports media by making professional-level production accessible and affordable for amateur and professional sports organizations worldwide. The platform uses advanced AI algorithms to track games, generate highlights, and stream content in real-time, solving the problem of high costs and logistical challenges associated with traditional sports filming. This serves users such as schools, clubs, and leagues by providing tools to engage fans, analyze performance, and monetize content. Overall, Pixellot transforms how sports are produced and consumed, fostering greater accessibility and innovation in the industry.",
+    "url": "https://www.pixellot.tv/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.pixellot.tv.webp",
+    "category": "AI Sports",
+    "categorySlug": "ai-sports",
+    "slug": "pixellot",
+    "categories": [
+        "AI Sports",
+        "AI Sports Predictions",
+        "AI Video Summarizer",
+        "AI Marketing",
+        "AI Video Generator",
+        "AI Data Mining"
+    ],
+    "features": [
+        "AI-automated camera systems that capture sports events without human operators, reducing production costs and increasing efficiency.",
+        "Real-time video streaming capabilities that allow live broadcasting of games to global audiences via various platforms.",
+        "Automated highlight generation using AI to create clips of key moments, enhancing fan engagement and content sharing.",
+        "Performance analytics tools that provide data insights from video footage, helping coaches and players improve strategies.",
+        "Multi-sport compatibility supporting a wide range of activities like basketball, soccer, and volleyball for versatile use.",
+        "Cloud-based storage and management for easy access and distribution of recorded content.",
+        "Integration with OTT platforms for seamless delivery of sports content to viewers on demand.",
+        "Customizable branding options that enable teams to personalize streams with logos and sponsorships.",
+        "Mobile app access for remote monitoring and control of production setups.",
+        "Scalable solutions from single-camera setups to full venue coverage, catering to different organization sizes."
+    ],
+    "faqs": [
+        {
+            "question": "What is Pixellot used for?",
+            "answer": "Pixellot is used for automating the production and streaming of sports events using AI technology. It captures games with unmanned cameras and generates professional-quality broadcasts."
+        },
+        {
+            "question": "Does Pixellot require camera operators?",
+            "answer": "No, Pixellot's AI systems handle camera tracking and production automatically, eliminating the need for human operators."
+        },
+        {
+            "question": "Which sports does Pixellot support?",
+            "answer": "Pixellot supports a variety of sports including basketball, soccer, volleyball, football, and more, with adaptable AI for different game dynamics."
+        },
+        {
+            "question": "How does Pixellot generate highlights?",
+            "answer": "The platform uses AI algorithms to analyze gameplay in real-time and automatically create highlight reels of key moments like goals or dunks."
+        },
+        {
+            "question": "Is Pixellot suitable for amateur teams?",
+            "answer": "Yes, Pixellot offers scalable solutions that make professional broadcasting affordable for schools, clubs, and amateur leagues."
+        },
+        {
+            "question": "Can I monetize content with Pixellot?",
+            "answer": "Yes, users can monetize streams through subscriptions, pay-per-view, or sponsorship integrations on the platform."
+        },
+        {
+            "question": "What hardware is needed for Pixellot?",
+            "answer": "Pixellot provides AI-powered cameras and installation services, with options for fixed or portable setups depending on the venue."
+        },
+        {
+            "question": "How secure is the data on Pixellot?",
+            "answer": "Pixellot uses cloud-based security measures to protect video content and user data, ensuring compliance with industry standards."
+        },
+        {
+            "question": "Does Pixellot offer analytics?",
+            "answer": "Yes, it includes performance analytics derived from video data to help with player development and game strategy."
+        },
+        {
+            "question": "How do I get started with Pixellot?",
+            "answer": "Contact Pixellot for a demo or consultation to assess your needs and set up the system for your sports organization."
+        }
+    ]
+}

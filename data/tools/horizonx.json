@@ -1,0 +1,73 @@
+{
+    "name": "HorizonX",
+    "description": "HorizonX is an AI-powered integrated research environment that streamlines the entire research workflow from brainstorming to publication.",
+    "longDescription": "HorizonX is a comprehensive platform designed to revolutionize research by integrating AI-driven tools for every stage of the research process. Its mission is to empower innovators and accelerate innovation by providing a unified, intelligent workspace that eliminates the need for multiple disjointed tools. The platform serves users by offering seamless collaboration, automated assistance, and high-performance computing, helping researchers save time and enhance productivity. It addresses common challenges in research, such as inefficient literature reviews, complex data analysis, and tedious formatting, through context-aware AI features. Tailored for students, individual researchers, and institutions, HorizonX offers scalable plans to accommodate varying needs and budgets.",
+    "url": "https://www.horizonx.live/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.horizonx.live.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "horizonx",
+    "categories": [
+        "AI Research Tool",
+        "AI Creative Writing",
+        "AI For Data Analytics",
+        "AI Review Generator",
+        "AI Writing Assistants",
+        "AI Document Extraction",
+        "AI Knowledge Management",
+        "AI Proofreading"
+    ],
+    "features": [
+        "AI-Powered Brainstorming Engine generates ideas and facilitates collaboration to kickstart research projects efficiently.",
+        "Context-Aware Literature Engine accelerates literature reviews by understanding research context and suggesting relevant papers.",
+        "Low-Code Data Analysis transforms raw data into publication-ready charts without requiring extensive coding skills.",
+        "Real-Time Collaboration enables team-based editing similar to Google Docs but optimized for research-grade workflows.",
+        "Unified Knowledge Nexus provides a single workspace to connect ideas, insights, and all research tools seamlessly.",
+        "Automated Citation Manager intelligently handles reference management to ensure accuracy and compliance.",
+        "Smart Formatting Assistant automates journal-specific formatting for effortless submission preparation.",
+        "Pre-Publication Quality Check acts as a 24/7 AI peer reviewer to improve manuscript quality before submission.",
+        "On-Demand HPC Access delivers high-performance computing resources without the hassle of setup or maintenance."
+    ],
+    "faqs": [
+        {
+            "question": "What is HorizonX?",
+            "answer": "HorizonX is an AI-powered integrated research environment that combines brainstorming, literature review, data analysis, AI-assisted writing, citation management, and peer review into one secure platform."
+        },
+        {
+            "question": "Does HorizonX offer a free plan?",
+            "answer": "Yes, the Explorer plan is free and includes basic AI brainstorming, literature review, limited AI-assisted writing, citation management, and access to over 250 million papers."
+        },
+        {
+            "question": "Who is HorizonX designed for?",
+            "answer": "HorizonX is designed for students, individual researchers, and institutions looking to streamline their research workflows with AI tools and collaboration features."
+        },
+        {
+            "question": "What AI features does HorizonX provide?",
+            "answer": "HorizonX offers AI-powered brainstorming, context-aware literature reviews, AI-assisted writing, smart formatting, AI peer review, and advanced AI models in higher-tier plans."
+        },
+        {
+            "question": "Can I collaborate with others on HorizonX?",
+            "answer": "Yes, HorizonX supports real-time collaboration for up to 10 users in the Researcher plan, allowing seamless team-based research and editing."
+        },
+        {
+            "question": "How does HorizonX handle data analysis?",
+            "answer": "HorizonX provides low-code/no-code tools to analyze data and create publication-ready visuals, with on-demand HPC access for complex computations."
+        },
+        {
+            "question": "Is HorizonX secure for research data?",
+            "answer": "Yes, HorizonX ensures enterprise-grade security, especially in the Institution plan, to protect sensitive research data and intellectual property."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "Free plans include community support, while paid plans offer priority support, and institutions get onboarding, training, and a central admin dashboard."
+        },
+        {
+            "question": "Can I access high-performance computing on HorizonX?",
+            "answer": "Yes, on-demand HPC access is available in paid plans, providing computing resources without setup, with credit-based usage in the Researcher plan."
+        },
+        {
+            "question": "How does HorizonX assist with publications?",
+            "answer": "HorizonX offers automated citation management, smart formatting for journal compliance, and pre-publication AI quality checks to prepare manuscripts efficiently."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "CrushOn.AI",
+    "description": "CrushOn.AI is a platform for unfiltered, customizable AI chatbot interactions, specializing in emotional and NSFW character-based conversations.",
+    "longDescription": "CrushOn.AI is an innovative AI-powered platform designed to provide users with highly customizable, unfiltered chatbot interactions, including NSFW (Not Safe For Work) and emotional conversations. Developed by Peekaboo Game Limited, it leverages advanced large language models to create virtual companions that simulate human-like dialogue, catering to users seeking companionship or creative roleplay. The platform allows users to engage with pre-made AI characters or create their own, tailoring personalities, backstories, and appearances to suit individual preferences. Unlike traditional chatbots, CrushOn.AI emphasizes unrestricted conversations, offering a judgment-free space for exploring diverse themes. Its mission is to redefine virtual companionship by fostering meaningful, personalized connections through AI technology. The service is accessible via web and mobile apps, with a focus on user engagement and community interaction.",
+    "url": "https://www.crushon.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/crushon.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "crushon-ai",
+    "categories": [
+        "AI Chatbot",
+        "Dirty Talking AI",
+        "AI Clothing Generator",
+        "AI Character",
+        "AI Roleplay"
+    ],
+    "features": [
+        "Unfiltered NSFW Interactions: Engage in unrestricted, adult-oriented conversations with AI characters in a safe, judgment-free environment.",
+        "Character Customization: Create or modify AI characters with unique personalities, backstories, and appearances to match user preferences.",
+        "Diverse Character Selection: Access over 4600 pre-made AI characters across genres like anime, fantasy, and historical figures for varied interactions.",
+        "Group Chat Functionality: Participate in group chats with up to five AI characters, enhancing storytelling with dynamic, multi-character interactions.",
+        "Adaptive Learning: AI responses improve over time based on user interactions, offering increasingly personalized and context-aware conversations.",
+        "CrushOn Coins: Earn virtual currency through daily logins or referrals to unlock bonus messages and enhance platform engagement.",
+        "Custom Scene Cards: Upload custom images to create personalized scene cards, enriching the visual and narrative aspects of chats."
+    ],
+    "faqs": [
+        {
+            "question": "What is CrushOn.AI?",
+            "answer": "CrushOn.AI is an AI chatbot platform offering unfiltered, customizable conversations with virtual characters, including NSFW and emotional interactions."
+        },
+        {
+            "question": "Is there a free version of CrushOn.AI?",
+            "answer": "Yes, CrushOn.AI offers a free tier with limited features, including 100 monthly messages, with premium options for expanded access."
+        },
+        {
+            "question": "Can I create my own AI character?",
+            "answer": "Users can create custom AI characters by defining their personality, backstory, and appearance or use pre-made characters."
+        },
+        {
+            "question": "Does CrushOn.AI support group chats?",
+            "answer": "Yes, the platform allows group chats with up to five AI characters, using an 8K model for enhanced memory and interaction."
+        },
+        {
+            "question": "Is my data private on CrushOn.AI?",
+            "answer": "Conversations are private unless shared publicly, but the platform collects sensitive data, so review the privacy policy carefully."
+        },
+        {
+            "question": "Can I use CrushOn.AI on mobile devices?",
+            "answer": "Yes, CrushOn.AI is available as a mobile app on iOS and Android, in addition to its web platform."
+        },
+        {
+            "question": "How do I earn CrushOn Coins?",
+            "answer": "Users can earn CrushOn Coins through daily logins, creating characters, or inviting friends, which can be used for bonus messages."
+        },
+        {
+            "question": "Does CrushOn.AI support voice or image exchanges?",
+            "answer": "CrushOn.AI is primarily text-based and does not currently support voice chats or AI-generated image exchanges."
+        }
+    ]
+}

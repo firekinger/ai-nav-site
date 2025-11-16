@@ -1,0 +1,1183 @@
+{
+    "title": "The Best 107 AI Developer Tools  in 2025",
+    "summary": "Unlock the potential of your development projects with our curated selection of AI Developer Tools. Designed to streamline coding, enhance productivity, and foster innovation, these tools empower developers to integrate AI seamlessly into their workflows. From automated code generation to intelligent debugging, each solution addresses specific challenges, saving you time and boosting efficiency. Whether you're a seasoned developer or just starting, our tools are tailored to elevate your projects. Explore our AI Developer Tools today and transform the way you build software!",
+    "tools": [
+        {
+            "id": "130",
+            "name": "OpenAI",
+            "slug": "openai",
+            "description": "OpenAI develops and promotes artificial intelligence technologies to solve complex problems and benefit humanity.",
+            "icon": "/logo/openai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "58",
+            "name": "DeepSeek",
+            "slug": "deepseek",
+            "description": "DeepSeek is an AI platform offering advanced open-source large language models for reasoning, coding, and text generation.",
+            "icon": "/logo/deepseek.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "DeepL",
+            "slug": "deepl",
+            "description": "DeepL provides AI-powered translation and writing tools for accurate, natural-sounding multilingual communication.",
+            "icon": "/logo/deepl.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "102",
+            "name": "Google AI Studio",
+            "slug": "google-ai-studio",
+            "description": "Google AI Studio is a browser-based IDE for prototyping and building AI applications with Google's Gemini models.",
+            "icon": "/logo/aistudio.google.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "38",
+            "name": "ElevenLabs",
+            "slug": "elevenlabs",
+            "description": "ElevenLabs provides advanced AI-powered text-to-speech and voice cloning tools for realistic audio creation.",
+            "icon": "/logo/elevenlabs.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Hugging Face",
+            "slug": "hugging-face",
+            "description": "Hugging Face is a platform for sharing and building open-source machine learning models, datasets, and applications.",
+            "icon": "/logo/huggingface.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "46",
+            "name": "PhotoRoom",
+            "slug": "photoroom",
+            "description": "PhotoRoom is an AI-powered photo editing platform that simplifies creating professional-quality images for businesses and individuals.",
+            "icon": "/logo/photoroom.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "33",
+            "name": "DeepAI",
+            "slug": "deepai",
+            "description": "DeepAI provides AI-powered tools for generating and editing creative content like images, videos, music, and text.",
+            "icon": "/logo/deepai.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "51",
+            "name": "Kling AI",
+            "slug": "kling-ai",
+            "description": "Kling AI is a next-generation AI creative studio for generating imaginative videos and images from text prompts.",
+            "icon": "/logo/klingai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Cutout.Pro",
+            "slug": "cutout-pro",
+            "description": "Cutout.Pro is an AI-powered platform for automated photo and video editing, specializing in background removal and visual content creation.",
+            "icon": "/logo/cutout.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Monica",
+            "slug": "monica",
+            "description": "Monica is an AI-powered assistant enhancing productivity through chat, writing, coding, and search across multiple platforms.",
+            "icon": "/logo/monica.im.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "111",
+            "name": "Replit",
+            "slug": "replit",
+            "description": "Replit is an AI-powered online platform for coding, collaborating, and deploying software in various programming languages directly from the browser.",
+            "icon": "/logo/replit.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "120",
+            "name": "n8n",
+            "slug": "n8n",
+            "description": "n8n is a workflow automation platform that combines AI capabilities with no-code and code-based solutions to streamline business processes.",
+            "icon": "/logo/n8n.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "73",
+            "name": "AIFaceSwap",
+            "slug": "aifaceswap",
+            "description": "AIFaceSwap.io is a free online platform for seamlessly swapping faces in photos and videos using advanced AI technology.",
+            "icon": "/logo/aifaceswap.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Runway",
+            "slug": "runway",
+            "description": "Runway is an AI-powered platform for creating and editing videos, images, and audio to enhance human creativity.",
+            "icon": "/logo/runwayml.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "112",
+            "name": "HeyGen",
+            "slug": "heygen",
+            "description": "HeyGen is an AI-powered platform for creating and localizing professional videos with customizable avatars and voiceovers.",
+            "icon": "/logo/app.heygen.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Cursor",
+            "slug": "cursor",
+            "description": "Cursor is an AI-powered code editor designed to enhance developer productivity with advanced AI features.",
+            "icon": "/logo/cursor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "87",
+            "name": "Tensor.Art",
+            "slug": "tensor-art",
+            "description": "Tensor.Art is an AI-powered platform for generating and hosting high-quality images using advanced models like Stable Diffusion and LoRA.",
+            "icon": "/logo/tensor.art.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "144",
+            "name": "OpenRouter",
+            "slug": "openrouter",
+            "description": "OpenRouter provides a unified API for accessing multiple AI language models from various providers.",
+            "icon": "/logo/openrouter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "82",
+            "name": "PicWish",
+            "slug": "picwish",
+            "description": "PicWish is an AI-powered photo editing platform for effortless background removal, image enhancement, and professional-grade edits.",
+            "icon": "/logo/picwish.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "YesChat",
+            "slug": "yeschat",
+            "description": "YesChat.ai provides a platform for interacting with advanced AI chatbots to assist with various tasks and queries.",
+            "icon": "/logo/www.yeschat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "184",
+            "name": "Replicate",
+            "slug": "replicate",
+            "description": "Replicate is a platform for running, sharing, and deploying machine learning models in the cloud.",
+            "icon": "/logo/replicate.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "192",
+            "name": "FlowGPT",
+            "slug": "flowgpt",
+            "description": "FlowGPT is a platform for discovering, creating, and sharing AI prompts and chatbots powered by advanced language models.",
+            "icon": "/logo/flowgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "125",
+            "name": "Weights & Biases",
+            "slug": "weights-and-biases",
+            "description": "Weights & Biases is an AI developer platform for training, fine-tuning, and managing machine learning and generative AI models.",
+            "icon": "/logo/wandb.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "Luvvoice",
+            "slug": "luvvoice",
+            "description": "Luvvoice provides AI-powered text-to-speech and voice cloning for creating realistic audio content.",
+            "icon": "/logo/luvvoice.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "210",
+            "name": "Lalal.ai",
+            "slug": "lalal-ai",
+            "description": "Lalal.ai is an AI-powered audio processing platform specializing in vocal and instrumental track separation and enhancement.",
+            "icon": "/logo/www.lalal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "213",
+            "name": "Luma AI",
+            "slug": "luma-ai",
+            "description": "Luma AI provides advanced AI tools for creating and manipulating 3D content and videos from text, images, or videos.",
+            "icon": "/logo/lumalabs.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "225",
+            "name": "PlayHT",
+            "slug": "playht",
+            "description": "PlayHT is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/play.ht.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "228",
+            "name": "TTSMaker",
+            "slug": "ttsmaker",
+            "description": "TTSMaker provides text-to-speech services to convert text into natural-sounding audio in multiple languages.",
+            "icon": "/logo/ttsmaker.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "Originality.ai",
+            "slug": "originality-ai",
+            "description": "Originality.ai provides AI-driven tools to detect AI-generated content and ensure content authenticity for writers and publishers.",
+            "icon": "/logo/originality.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "234",
+            "name": "Apify",
+            "slug": "apify",
+            "description": "Apify is a web scraping and automation platform that enables users to extract data and automate tasks across websites.",
+            "icon": "/logo/apify.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "242",
+            "name": "Copyleaks",
+            "slug": "copyleaks",
+            "description": "Copyleaks provides AI-powered solutions for plagiarism detection, content authenticity, and text analysis.",
+            "icon": "/logo/copyleaks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "252",
+            "name": "Lenso AI",
+            "slug": "lenso-ai",
+            "description": "Lenso AI provides AI-powered image analysis and recognition tools for businesses and developers.",
+            "icon": "/logo/lenso.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "260",
+            "name": "Fal.ai",
+            "slug": "fal-ai",
+            "description": "Fal.ai provides a platform for building and deploying AI-powered applications with a focus on real-time generative AI solutions.",
+            "icon": "/logo/fal.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "264",
+            "name": "Angular",
+            "slug": "angular",
+            "description": "Angular.dev is the official hub for Angular, a platform for building scalable web applications.",
+            "icon": "/logo/angular.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "266",
+            "name": "Mermaid Chart",
+            "slug": "mermaid-chart",
+            "description": "Mermaid Chart is a platform for creating and sharing interactive diagrams and flowcharts using text-based code.",
+            "icon": "/logo/www.mermaidchart.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "274",
+            "name": "DocsBot",
+            "slug": "docsbot",
+            "description": "DocsBot is an AI-powered platform that creates custom chatbots for answering questions based on your documentation and content.",
+            "icon": "/logo/docsbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "280",
+            "name": "Vectorizer.AI",
+            "slug": "vectorizer-ai",
+            "description": "Vectorizer.AI converts raster images into high-quality vector graphics using advanced AI technology.",
+            "icon": "/logo/vectorizer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "287",
+            "name": "Warp",
+            "slug": "warp",
+            "description": "Warp is a modern, AI-powered terminal designed to enhance developer productivity and streamline workflows.",
+            "icon": "/logo/www.warp.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "298",
+            "name": "Getimg.ai",
+            "slug": "getimg-ai",
+            "description": "Getimg.ai is an AI-powered platform for creating, editing, and enhancing images from text prompts or existing visuals.",
+            "icon": "/logo/getimg.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "302",
+            "name": "D-ID",
+            "slug": "d-id",
+            "description": "D-ID is an AI-powered platform for creating realistic video avatars and conversational agents to enhance digital communication.",
+            "icon": "/logo/www.d-id.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "306",
+            "name": "Vatis Tech",
+            "slug": "vatis-tech",
+            "description": "Vatis Tech provides AI-powered speech-to-text technology for accurate and efficient transcription of audio and video data.",
+            "icon": "/logo/vatis.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "309",
+            "name": "Bigjpg",
+            "slug": "bigjpg",
+            "description": "Bigjpg is an AI-powered tool for lossless image upscaling, specializing in anime-style artworks and photos.",
+            "icon": "/logo/bigjpg.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "316",
+            "name": "Cleanup.pictures",
+            "slug": "cleanup-pictures",
+            "description": "Cleanup.pictures is an AI-powered online tool for removing unwanted objects, people, text, or defects from photos in seconds.",
+            "icon": "/logo/cleanup.pictures.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "320",
+            "name": "Scale AI",
+            "slug": "scale-ai",
+            "description": "Scale AI provides a data-centric platform to accelerate the development of AI applications through high-quality data annotation and model evaluation.",
+            "icon": "/logo/scale.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "322",
+            "name": "ClipDrop",
+            "slug": "clipdrop",
+            "description": "ClipDrop is an AI-powered platform for editing and creating professional-grade visuals with ease.",
+            "icon": "/logo/clipdrop.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "337",
+            "name": "RunPod",
+            "slug": "runpod",
+            "description": "RunPod is a cloud computing platform designed for AI and machine learning, offering scalable GPU resources for training, deploying, and scaling AI models.",
+            "icon": "/logo/www.runpod.io.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "341",
+            "name": "Lingvanex",
+            "slug": "lingvanex",
+            "description": "Lingvanex provides AI-powered translation and speech recognition tools for seamless communication across over 100 languages.",
+            "icon": "/logo/lingvanex.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "347",
+            "name": "Murf AI",
+            "slug": "murf-ai",
+            "description": "Murf AI is an AI-powered text-to-speech platform that creates realistic voiceovers for various content needs.",
+            "icon": "/logo/murf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Hyper3D",
+            "slug": "hyper3d",
+            "description": "Hyper3D is an AI-powered platform that generates production-ready 3D models and assets from text or images for various creative industries.",
+            "icon": "/logo/hyper3d.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "379",
+            "name": "Anakin AI",
+            "slug": "anakin-ai",
+            "description": "Anakin AI is a no-code platform for creating and customizing AI applications to automate tasks and generate content.",
+            "icon": "/logo/anakin.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "383",
+            "name": "Hume AI",
+            "slug": "hume-ai",
+            "description": "Hume AI develops emotionally intelligent AI to enhance human-machine interactions.",
+            "icon": "/logo/www.hume.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "385",
+            "name": "VideoGen",
+            "slug": "videogen",
+            "description": "VideoGen is an AI-powered platform that enables users to create and edit professional-quality videos in seconds.",
+            "icon": "/logo/videogen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "388",
+            "name": "Typecast",
+            "slug": "typecast",
+            "description": "Typecast is an AI voice generator that transforms text into realistic, emotion-driven speech and creates engaging video content with virtual avatars.",
+            "icon": "/logo/typecast.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "392",
+            "name": "SpeechGen.io",
+            "slug": "speechgen-io",
+            "description": "SpeechGen.io is an AI-powered text-to-speech platform that generates realistic voiceovers for various applications.",
+            "icon": "/logo/speechgen.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "404",
+            "name": "Algolia",
+            "slug": "algolia",
+            "description": "Algolia provides an AI-powered search and discovery platform to deliver fast, relevant digital experiences for websites and apps.",
+            "icon": "/logo/www.algolia.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "405",
+            "name": "Phind",
+            "slug": "phind",
+            "description": "Phind is an AI-powered search engine designed for developers, providing instant answers and code examples for technical queries.",
+            "icon": "/logo/www.phind.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "414",
+            "name": "Flux AI",
+            "slug": "flux-ai-io",
+            "description": "Flux AI provides advanced AI-powered tools for generating high-quality images and videos from text and image inputs.",
+            "icon": "/logo/flux-ai.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "447",
+            "name": "Convex",
+            "slug": "convex",
+            "description": "Convex is an open-source reactive database and backend platform for building real-time, full-stack web and mobile applications.",
+            "icon": "/logo/www.convex.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "502",
+            "name": "Vast.ai",
+            "slug": "vast-ai",
+            "description": "Vast.ai provides a cloud computing marketplace for renting and hosting affordable GPU resources for AI and ML workloads.",
+            "icon": "/logo/vast.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "533",
+            "name": "Jam",
+            "slug": "jam",
+            "description": "Jam is a browser extension that streamlines bug reporting by capturing technical details and replays for developers.",
+            "icon": "/logo/jam.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "597",
+            "name": "LabLab.ai",
+            "slug": "lablab-ai",
+            "description": "LabLab.ai is a platform that hosts AI hackathons and fosters innovation by connecting developers with cutting-edge AI technologies.",
+            "icon": "/logo/lablab.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "598",
+            "name": "Composio",
+            "slug": "composio",
+            "description": "Composio provides tools to connect AI agents with external applications for seamless automation and integration.",
+            "icon": "/logo/composio.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "601",
+            "name": "Continue",
+            "slug": "continue",
+            "description": "Continue.dev provides open-source AI code assistants to enhance developer productivity and streamline coding workflows.",
+            "icon": "/logo/www.continue.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "639",
+            "name": "Tabnine",
+            "slug": "tabnine",
+            "description": "Tabnine is an AI-powered code assistant that accelerates software development while prioritizing code privacy and security.",
+            "icon": "/logo/www.tabnine.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "649",
+            "name": "Lightning AI",
+            "slug": "lightning-ai",
+            "description": "Lightning AI is an all-in-one platform for building, training, and deploying AI models with minimal setup.",
+            "icon": "/logo/lightning.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "687",
+            "name": "Modal",
+            "slug": "modal",
+            "description": "Modal provides serverless cloud infrastructure for running AI, ML, and data-intensive applications without managing infrastructure.",
+            "icon": "/logo/modal.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "719",
+            "name": "CodeGPT",
+            "slug": "codegpt",
+            "description": "CodeGPT is an AI-powered platform that enhances software development through specialized AI agents and coding tools.",
+            "icon": "/logo/codegpt.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "805",
+            "name": "AI/ML API",
+            "slug": "aiml-api",
+            "description": "AI/ML API provides access to over 300 AI models through a single, unified API for developers and businesses.",
+            "icon": "/logo/aimlapi.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "902",
+            "name": "Cartesia",
+            "slug": "cartesia-ai",
+            "description": "Cartesia is an AI platform specializing in real-time generative voice technology for developers to create interactive and immersive audio experiences.",
+            "icon": "/logo/cartesia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "930",
+            "name": "Inworld AI",
+            "slug": "inworld-ai",
+            "description": "Inworld AI is a platform that enables developers to create lifelike AI characters for immersive experiences in games, entertainment, and virtual worlds.",
+            "icon": "/logo/inworld.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "986",
+            "name": "Carter",
+            "slug": "carter",
+            "description": "Carter is a platform offering an advanced AI agent for real-time voice and text conversations with human-like intelligence and integrations.",
+            "icon": "/logo/www.carter.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "987",
+            "name": "Mintlify",
+            "slug": "mintlify",
+            "description": "Mintlify is a platform that enables developers to create beautiful, AI-powered documentation for their software and APIs.",
+            "icon": "/logo/mintlify.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "996",
+            "name": "Novita AI",
+            "slug": "novita-ai",
+            "description": "Novita AI is a platform providing fast, affordable API access to advanced AI models for image generation, text-to-image, and other generative tasks.",
+            "icon": "/logo/novita.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1037",
+            "name": "Fireworks AI",
+            "slug": "fireworks-ai",
+            "description": "Fireworks AI is a platform that provides high-speed, scalable APIs for running open-source generative AI models, enabling developers to build and deploy AI applications efficiently.",
+            "icon": "/logo/fireworks.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1058",
+            "name": "Devv",
+            "slug": "devv-ai",
+            "description": "Devv.ai is an AI-powered search engine designed specifically for developers to find accurate coding answers and solutions quickly.",
+            "icon": "/logo/devv.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1083",
+            "name": "Codia AI",
+            "slug": "codia-ai",
+            "description": "Codia AI is an innovative platform that uses artificial intelligence to convert screenshots and designs into editable code for various frameworks, streamlining the development process for designers and developers.",
+            "icon": "/logo/codia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1088",
+            "name": "Kombai",
+            "slug": "kombai",
+            "description": "Kombai is an AI-powered tool that converts Figma designs into high-quality, production-ready front-end code to streamline web development.",
+            "icon": "/logo/kombai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1089",
+            "name": "Lyzr",
+            "slug": "lyzr-ai",
+            "description": "Lyzr is an open-source AI agent framework that enables developers to build autonomous AI agents for enterprise automation and productivity.",
+            "icon": "/logo/www.lyzr.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1102",
+            "name": "BoltAI",
+            "slug": "boltai",
+            "description": "BoltAI is a native macOS application that provides instant access to various AI models like ChatGPT, enhancing productivity through seamless integration into daily workflows.",
+            "icon": "/logo/boltai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1157",
+            "name": "Portkey",
+            "slug": "portkey-ai",
+            "description": "Portkey.ai is an AI operations platform that provides tools for developers to build, deploy, and manage generative AI applications efficiently.",
+            "icon": "/logo/portkey.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1200",
+            "name": "Helicone",
+            "slug": "helicone-ai",
+            "description": "Helicone is an open-source LLM observability platform that enables developers to monitor, debug, and optimize their AI applications efficiently.",
+            "icon": "/logo/www.helicone.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1227",
+            "name": "CopilotKit",
+            "slug": "copilotkit-ai",
+            "description": "CopilotKit is an agentic framework that enables developers to build AI copilots into applications, offering customizable UI components and support for various LLM and agent frameworks.",
+            "icon": "/logo/www.copilotkit.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1308",
+            "name": "SiliconFlow",
+            "slug": "siliconflow",
+            "description": "SiliconFlow is a high-performance AI infrastructure platform that enables efficient inference for open-source large language models and other AI applications.",
+            "icon": "/logo/www.siliconflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1336",
+            "name": "mcp-use",
+            "slug": "mcp-use",
+            "description": "mcp-use is a cloud platform for building, discovering, and deploying Model Context Protocol (MCP) servers to connect large language models to external tools and data sources.",
+            "icon": "/logo/mcp-use.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1254",
+            "name": "Omnara",
+            "slug": "omnara",
+            "description": "Omnara is a real-time command center for monitoring, managing, and collaborating with AI agents across terminal, web, and mobile platforms.",
+            "icon": "/logo/omnara.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1324",
+            "name": "Octopyd",
+            "slug": "octopyd",
+            "description": "Octopyd is an AI-powered platform designed to assist developers with Python coding, automation, and data analysis tasks.",
+            "icon": "/logo/www.octopyd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1240",
+            "name": "Stackie",
+            "slug": "stackie-ai",
+            "description": "Stackie.ai is an AI-powered platform that assists developers in building, optimizing, and managing technology stacks for software projects.",
+            "icon": "/logo/stackie.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1241",
+            "name": "Streamdown",
+            "slug": "streamdown-ai",
+            "description": "Streamdown is a specialized Markdown renderer designed as a drop-in replacement for react-markdown, optimized for AI-powered streaming with enhanced formatting and security features.",
+            "icon": "/logo/streamdown.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1247",
+            "name": "Qoder",
+            "slug": "qoder",
+            "description": "Qoder is an AI-powered platform designed to assist developers with code generation, debugging, and optimization tasks.",
+            "icon": "/logo/qoder.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1315",
+            "name": "Fixiol",
+            "slug": "fixiol",
+            "description": "Fixiol is an AI-powered platform designed to assist developers in identifying and fixing code errors efficiently.",
+            "icon": "/logo/fixiol.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1330",
+            "name": "Open Lovable",
+            "slug": "open-lovable",
+            "description": "Open Lovable is a free, open-source AI website builder that transforms any website into customizable React/Next.js applications in seconds.",
+            "icon": "/logo/open-lovable.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1357",
+            "name": "Dereference AI Codetabs",
+            "slug": "dereference-ai-codetabs",
+            "description": "Dereference AI Codetabs is a prompt-first IDE designed for seamless integration with AI coding tools to enhance developer productivity.",
+            "icon": "/logo/www.dereference.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1379",
+            "name": "Veo4",
+            "slug": "veo4",
+            "description": "Veo4 is a developer-oriented platform providing AI-powered video generation tools for creating high-quality videos from text prompts.",
+            "icon": "/logo/veo4.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1403",
+            "name": "Webhookify",
+            "slug": "webhookify",
+            "description": "Webhookify is a user-friendly platform for creating, testing, and managing webhook endpoints without coding.",
+            "icon": "/logo/webhookify.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1407",
+            "name": "Kanbanq",
+            "slug": "kanbanq",
+            "description": "Kanbanq is an AI-powered project management tool designed for developers, designers, and makers, offering visual Kanban boards and agile sprint management for lean workflows.",
+            "icon": "/logo/www.kanbanq.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1412",
+            "name": "GPT-OSS",
+            "slug": "gpt-oss",
+            "description": "GPT-OSS is a platform dedicated to open-source alternatives and resources for GPT-like AI models, promoting accessible AI development.",
+            "icon": "/logo/gpt-oss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1417",
+            "name": "Stakly",
+            "slug": "stakly",
+            "description": "Stakly is an AI-powered platform designed for developers to manage, optimize, and collaborate on technology stacks efficiently.",
+            "icon": "/logo/www.stakly.dev.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "28",
+            "name": "BLACKBOX AI",
+            "slug": "blackbox-ai",
+            "description": "BLACKBOX AI is an AI-powered platform designed to enhance coding efficiency and automate software development tasks for developers.",
+            "icon": "/logo/blackbox.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Kaggle",
+            "slug": "kaggle",
+            "description": "Kaggle is a global platform for data science and machine learning, offering competitions, datasets, and collaborative tools for professionals and learners.",
+            "icon": "/logo/kaggle.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "65",
+            "name": "Ideogram",
+            "slug": "ideogram",
+            "description": "Ideogram is an AI-powered platform that transforms text prompts into stunning, hyper-realistic images to boost creativity.",
+            "icon": "/logo/ideogram.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "96",
+            "name": "xAI",
+            "slug": "xai",
+            "description": "xAI is an AI platform dedicated to accelerating human scientific discovery and advancing our understanding of the universe.",
+            "icon": "/logo/x.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "116",
+            "name": "DeepWiki",
+            "slug": "deepwiki",
+            "description": "DeepWiki is an AI-powered tool that generates interactive, wiki-style documentation for GitHub repositories to simplify codebase understanding.",
+            "icon": "/logo/deepwiki.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Windsurf",
+            "slug": "windsurf",
+            "description": "Windsurf is an AI-powered integrated development environment (IDE) designed to enhance coding efficiency for developers and enterprises.",
+            "icon": "/logo/windsurf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1028",
+            "name": "Codeflash",
+            "slug": "codeflash-ai",
+            "description": "Codeflash is an AI-powered tool that optimizes Python code for performance, verifies correctness, and integrates with GitHub to enhance development speed.",
+            "icon": "/logo/www.codeflash.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        },
+        {
+            "id": "1138",
+            "name": "AI Bucket",
+            "slug": "ai-bucket",
+            "description": "AI Bucket is a platform that provides direct access to over 3,000 handpicked and verified AI tools across various categories to enhance productivity for creators, developers, and businesses.",
+            "icon": "/logo/www.aibucket.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-developer-tools"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Re:amaze",
+    "description": "Re:amaze is a cloud-based helpdesk and customer messaging platform for eCommerce and businesses to support, engage, and convert customers.",
+    "longDescription": "Re:amaze is a customer service and communications platform designed to help businesses, particularly eCommerce and SaaS startups, manage customer interactions across multiple channels. It integrates email, live chat, social media, SMS, and voice support into a single inbox, streamlining customer support workflows. The platform uses AI to automate tasks, suggest responses, and provide insights, enabling faster and more consistent support. Founded in 2012 and based in San Jose, California, Re:amaze aims to simplify customer relationship management by fostering meaningful conversations. It serves over 5,000 eCommerce brands globally and is highly rated on platforms like Shopify and BigCommerce. Its mission is to make customer support intuitive, efficient, and rewarding for small businesses.",
+    "url": "https://www.reamaze.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.reamaze.com.webp",
+    "category": "AI Customer Service",
+    "categorySlug": "ai-customer-service",
+    "slug": "reamaze",
+    "categories": [
+        "AI Customer Service",
+        "AI Chat Generator",
+        "AI Text Classifier",
+        "AI Response Generator",
+        "AI Question Generator",
+        "AI Workflow",
+        "AI Shopping Assistant"
+    ],
+    "features": [
+        "Multi-channel inbox unifies email, live chat, social media, SMS, and voice for seamless customer communication.",
+        "AI-powered automation suggests responses, drafts articles, and analyzes conversation sentiment to enhance support efficiency.",
+        "Live chat with real-time customer message previews and co-browsing improves engagement and issue resolution.",
+        "Customizable FAQ and help site creation reduces support queries with AI-generated self-service content.",
+        "CRM integration tracks customer data, orders, and interactions for personalized support experiences.",
+        "Workflow automation and macros streamline repetitive tasks using natural language processing.",
+        "Mobile apps for iOS and Android enable support teams to respond to customers on the go.",
+        "Third-party integrations with tools like Shopify, Slack, and Zapier enhance existing workflows.",
+        "Satisfaction surveys and analytics provide insights into response times and customer feedback.",
+        "Multi-brand management supports multiple storefronts or websites from a single dashboard."
+    ],
+    "faqs": [
+        {
+            "question": "What is Re:amaze used for?",
+            "answer": "Re:amaze is a helpdesk platform that unifies customer support across email, live chat, social media, SMS, and voice to streamline communication and improve customer experiences."
+        },
+        {
+            "question": "Does Re:amaze offer a free plan?",
+            "answer": "Yes, Re:amaze provides a 14-day free trial with access to all features, after which users can choose a paid plan."
+        },
+        {
+            "question": "Can Re:amaze integrate with Shopify?",
+            "answer": "Yes, Re:amaze seamlessly integrates with Shopify, allowing businesses to track orders and customer data within the platform for efficient support."
+        },
+        {
+            "question": "How does Re:amaze use AI?",
+            "answer": "Re:amaze uses AI to suggest responses, automate tasks, generate FAQ articles, and analyze conversation sentiment for faster and smarter support."
+        },
+        {
+            "question": "Is Re:amaze suitable for small businesses?",
+            "answer": "Yes, Re:amaze is designed for small businesses and eCommerce, offering affordable plans and intuitive tools to manage customer support."
+        },
+        {
+            "question": "What channels does Re:amaze support?",
+            "answer": "Re:amaze supports email, live chat, SMS, voice, and social media platforms like Facebook, Instagram, and Twitter."
+        },
+        {
+            "question": "Can I manage multiple brands with Re:amaze?",
+            "answer": "Yes, Re:amaze offers multi-brand management, allowing businesses to handle support for multiple storefronts from18 from one dashboard."
+        },
+        {
+            "question": "Does Re:amaze have mobile apps?",
+            "answer": "Yes, Re:amaze offers mobile apps for iOS and Android, enabling support teams to manage customer interactions on the go."
+        }
+    ]
+}

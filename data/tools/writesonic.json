@@ -1,0 +1,64 @@
+{
+    "name": "Writesonic",
+    "description": "Writesonic is an AI-powered platform for creating SEO-optimized content and automating marketing workflows.",
+    "longDescription": "Writesonic is a leading generative AI platform designed to streamline content creation and marketing for businesses and individuals. Founded in 2021, it combines advanced AI models like GPT-4o, Claude, and Gemini to produce high-quality, SEO-optimized content such as blog posts, ads, and social media copy. The platform integrates with tools like Ahrefs, Google Analytics, and WordPress to provide real-time data-driven insights, enabling users to create content that ranks well on search engines. Its mission is to empower users to write and publish content effortlessly, saving time and enhancing productivity. Writesonic also offers a no-code AI chatbot builder, Botsonic, for personalized customer interactions, and ensures enterprise-grade security with GDPR and HIPAA compliance. With over 5 million users, it serves a wide range of industries, from startups to large enterprises, by simplifying complex SEO and content workflows.",
+    "url": "https://writesonic.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/writesonic.com.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "writesonic",
+    "categories": [
+        "AI Writing",
+        "AI SEO Tools",
+        "AI Chatbot",
+        "AI Paraphraser",
+        "AI Social Media Post Generator",
+        "AI Writing Assistants"
+    ],
+    "features": [
+        "AI Article Writer generates SEO-optimized, factually accurate blog posts and articles in minutes, saving hours of manual work.",
+        "Chatsonic, an AI chat assistant, provides real-time data access and supports multiple AI models for marketing tasks, enhancing content accuracy.",
+        "SEO AI Agent automates keyword research, competitor analysis, and content optimization, streamlining SEO workflows.",
+        "Botsonic enables businesses to create no-code, brand-aligned AI chatbots for platforms like Slack and WhatsApp, improving customer engagement.",
+        "Generative Engine Optimization (GEO) tracks brand visibility across AI platforms like ChatGPT and Google AI Overviews, boosting discoverability.",
+        "The Chrome extension allows users to create content directly in Google Docs, Gmail, or social media platforms, increasing efficiency.",
+        "AI-powered editor refines grammar, style, and tone, ensuring professional and brand-consistent content.",
+        "Content rephraser transforms existing text into fresh, engaging content while maintaining the original meaning.",
+        "Socialsonic generates engaging social media posts and hashtags, optimizing content for platforms like Twitter and LinkedIn.",
+        "Integration with tools like SurferSEO provides real-time SERP data to optimize content for search intent and rankings."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Writesonic create?",
+            "answer": "Writesonic can generate blog posts, articles, social media posts, ad copy, product descriptions, and emails, all tailored to your brand’s voice."
+        },
+        {
+            "question": "Does Writesonic offer a free plan?",
+            "answer": "Yes, Writesonic provides a free plan with limited credits, allowing users to test its AI writing tools before subscribing to a paid plan."
+        },
+        {
+            "question": "How does Writesonic help with SEO?",
+            "answer": "Writesonic’s SEO AI Agent performs keyword research, content gap analysis, and automated internal linking, optimizing content for search engine rankings."
+        },
+        {
+            "question": "Can Writesonic integrate with other tools?",
+            "answer": "Yes, Writesonic integrates with tools like Ahrefs, Google Analytics, WordPress, and SurferSEO for enhanced data-driven content creation."
+        },
+        {
+            "question": "Is Writesonic secure for enterprise use?",
+            "answer": "Writesonic uses AES-256 encryption and complies with SOC 2, GDPR, and HIPAA, ensuring enterprise-grade security and data privacy."
+        },
+        {
+            "question": "What is Chatsonic, and how is it different from ChatGPT?",
+            "answer": "Chatsonic is Writesonic’s AI chat assistant that integrates real-time data from tools like Google Search, offering more current and marketing-focused responses than ChatGPT."
+        },
+        {
+            "question": "Can Writesonic generate content in multiple languages?",
+            "answer": "Yes, Writesonic supports content creation in 25 languages, making it suitable for global users."
+        },
+        {
+            "question": "How does Botsonic work for businesses?",
+            "answer": "Botsonic allows businesses to create AI chatbots trained on their data, integrating with platforms like Slack for seamless customer interactions."
+        }
+    ]
+}

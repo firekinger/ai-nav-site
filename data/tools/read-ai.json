@@ -1,0 +1,59 @@
+{
+    "name": "Read AI",
+    "description": "Read AI provides AI-powered tools to enhance meeting productivity and communication insights.",
+    "longDescription": "Read AI is a platform that leverages artificial intelligence to improve the efficiency and effectiveness of virtual meetings and communication workflows. It offers tools to summarize meetings, generate actionable insights, and analyze conversations across platforms like Zoom, Microsoft Teams, and Google Meet. The platform aims to streamline workplace communication by providing automated notes, transcripts, and sentiment analysis, enabling users to focus on collaboration rather than administrative tasks. By integrating with popular communication tools, Read AI serves professionals, teams, and organizations looking to optimize their meeting experiences and derive data-driven insights. Its mission is to make meetings more productive and inclusive through advanced AI capabilities.",
+    "url": "https://www.read.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.read.ai.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "read-ai",
+    "categories": [
+        "AI Note Taker",
+        "AI Task Management",
+        "AI PDF Summarizer",
+        "AI Translate",
+        "AI Meeting Assistant"
+    ],
+    "features": [
+        "Automated meeting summaries provide concise recaps of discussions, saving users time and ensuring key points are captured.",
+        "Real-time transcription generates accurate text records of meetings, enhancing accessibility and record-keeping.",
+        "Sentiment analysis evaluates the tone and emotions in conversations, helping users understand team dynamics.",
+        "Action item tracking identifies and assigns tasks from meetings, streamlining follow-up processes.",
+        "Integration with Zoom, Teams, and Google Meet ensures seamless compatibility with popular meeting platforms.",
+        "Analytics dashboards offer insights into meeting engagement, participation, and productivity metrics.",
+        "Personalized insights provide tailored recommendations to improve communication and meeting efficiency.",
+        "Multilingual transcription supports global teams by transcribing meetings in multiple languages.",
+        "Searchable meeting archives allow users to quickly find past discussions and decisions.",
+        "AI-generated highlights identify critical moments in meetings, making it easy to review key takeaways."
+    ],
+    "faqs": [
+        {
+            "question": "What platforms does Read AI integrate with?",
+            "answer": "Read AI integrates with Zoom, Microsoft Teams, Google Meet, and other popular virtual meeting platforms."
+        },
+        {
+            "question": "Is there a free plan available for Read AI?",
+            "answer": "Yes, Read AI offers a free plan with limited features, allowing users to test core functionalities before upgrading."
+        },
+        {
+            "question": "How does Read AI ensure data privacy?",
+            "answer": "Read AI employs encryption and compliance with industry standards to protect user data and meeting content."
+        },
+        {
+            "question": "Can Read AI transcribe meetings in multiple languages?",
+            "answer": "Yes, Read AI supports multilingual transcription, making it suitable for global teams."
+        },
+        {
+            "question": "How does sentiment analysis work in Read AI?",
+            "answer": "Sentiment analysis evaluates tone and emotions during meetings, providing insights into team morale and engagement."
+        },
+        {
+            "question": "Can I search past meeting transcripts?",
+            "answer": "Yes, Read AI offers searchable archives, allowing users to locate specific discussions or decisions easily."
+        },
+        {
+            "question": "Does Read AI support action item tracking?",
+            "answer": "Yes, it automatically identifies and assigns action items from meetings to streamline follow-ups."
+        }
+    ]
+}

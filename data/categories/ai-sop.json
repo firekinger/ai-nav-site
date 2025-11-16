@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI SOP Tools in 2025",
+    "summary": "Discover the power of AI SOP (Standard Operating Procedures) tools designed to streamline your business processes and enhance operational efficiency. These innovative solutions automate routine tasks, ensuring consistency and accuracy while saving you valuable time and resources. Whether you're looking to improve compliance, training, or workflow management, AI SOP tools offer tailored solutions to meet your unique needs. Explore our curated selection of AI SOP tools today and transform the way you work—unlock efficiency and elevate your operations to new heights!",
+    "tools": [
+        {
+            "id": "822",
+            "name": "Komodo Decks",
+            "slug": "komodo-decks",
+            "description": "Komodo Decks is an all-in-one screen recording and AI-powered SOP generator for teams to create and share interactive videos and guides.",
+            "icon": "/logo/komododecks.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-sop"
+            ]
+        }
+    ]
+}

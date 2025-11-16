@@ -1,0 +1,73 @@
+{
+    "name": "Snipd",
+    "description": "Snipd is an AI-powered podcast app that enables users to discover, highlight, and save key moments from podcasts for easy sharing and reference.",
+    "longDescription": "Snipd is a mobile app and web platform designed to enhance the podcast listening experience by using AI to identify and extract meaningful highlights from episodes. Its mission is to help users capture and organize insights from podcasts without needing to listen to entire episodes, making knowledge more accessible and shareable. The platform solves the problem of information overload in podcasts by automatically generating transcripts, summaries, and searchable notes. Users can save 'snips' – short audio clips with transcripts – to build personal knowledge libraries or share them on social media. Overall, Snipd serves podcast enthusiasts, learners, and professionals who want to efficiently extract value from audio content.",
+    "url": "https://www.snipd.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.snipd.com.webp",
+    "category": "AI Podcast",
+    "categorySlug": "ai-podcast",
+    "slug": "snipd",
+    "categories": [
+        "AI Podcast",
+        "AI Transcription",
+        "AI Knowledge Management",
+        "AI Article Summarizer",
+        "AI Audio Editing",
+        "AI Productivity Tools",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "AI-powered highlight detection automatically identifies key moments in podcasts, saving users time by surfacing the most insightful parts.",
+        "Users can create and save 'snips' – short audio clips with AI-generated transcripts – for quick reference and organization.",
+        "The app provides searchable transcripts of podcast episodes, allowing users to find specific information easily without relistening.",
+        "Personalized podcast recommendations based on user interests and saved snips help discover new content tailored to preferences.",
+        "Integration with popular podcast players enables seamless listening and snipping within the app.",
+        "Users can export snips to note-taking apps like Notion or Evernote for enhanced productivity and knowledge management.",
+        "Social sharing features let users share snips on platforms like Twitter or LinkedIn, fostering community discussions around podcast insights.",
+        "Offline access to saved snips and transcripts ensures users can review content without an internet connection.",
+        "AI-generated chapter summaries break down episodes into digestible sections for better navigation.",
+        "Customizable highlight preferences allow users to train the AI on what types of moments to prioritize based on their interests."
+    ],
+    "faqs": [
+        {
+            "question": "What is Snipd?",
+            "answer": "Snipd is an AI-driven app that helps users capture and organize highlights from podcasts. It uses artificial intelligence to transcribe and summarize key moments, making it easier to save and share insights."
+        },
+        {
+            "question": "Is Snipd free to use?",
+            "answer": "Yes, Snipd offers a free version with core features like basic snipping and transcripts. Premium features, such as unlimited exports and advanced AI customizations, require a subscription."
+        },
+        {
+            "question": "How does the AI in Snipd work?",
+            "answer": "The AI analyzes podcast audio to detect highlights based on content relevance and user preferences. It generates accurate transcripts and summaries to make the information searchable and actionable."
+        },
+        {
+            "question": "Can I use Snipd on multiple devices?",
+            "answer": "Yes, Snipd syncs across iOS and Android devices via your account. This allows seamless access to your saved snips and libraries on phones or tablets."
+        },
+        {
+            "question": "What podcasts are available on Snipd?",
+            "answer": "Snipd supports a wide range of popular podcasts from various platforms. Users can search and add any podcast feed to start snipping."
+        },
+        {
+            "question": "How do I share snips from Snipd?",
+            "answer": "You can share snips directly to social media or export them to other apps. Each snip includes audio, transcript, and a link back to the original episode for context."
+        },
+        {
+            "question": "Does Snipd work offline?",
+            "answer": "Saved snips and transcripts can be accessed offline. However, initial listening and AI processing require an internet connection."
+        },
+        {
+            "question": "Can Snipd integrate with other apps?",
+            "answer": "Yes, it integrates with tools like Notion, Readwise, and Evernote for exporting snips. This helps incorporate podcast insights into your workflow."
+        },
+        {
+            "question": "Is my data private on Snipd?",
+            "answer": "Snipd prioritizes user privacy with secure data handling. Snips are stored in your personal library and not shared without permission."
+        },
+        {
+            "question": "How accurate are the AI transcripts?",
+            "answer": "The AI transcripts are highly accurate for clear audio, though accents or poor recording quality may affect precision. Users can edit transcripts if needed."
+        }
+    ]
+}

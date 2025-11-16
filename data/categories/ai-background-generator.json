@@ -1,0 +1,83 @@
+{
+    "title": "The Best 7 AI Background Generator Tools in 2025",
+    "summary": "Discover the power of AI Background Generators, designed to transform your creative projects with stunning, customizable backgrounds in seconds. Whether you're a designer, marketer, or content creator, these tools streamline your workflow, enhance visual appeal, and save you valuable time. With intuitive interfaces and a variety of styles, you can easily generate unique backgrounds that elevate your work. Explore our curated selection of AI Background Generators today and unlock endless possibilities for your projects! Dive in now to find the perfect tool for your creative needs.",
+    "tools": [
+        {
+            "id": "316",
+            "name": "Cleanup.pictures",
+            "slug": "cleanup-pictures",
+            "description": "Cleanup.pictures is an AI-powered online tool for removing unwanted objects, people, text, or defects from photos in seconds.",
+            "icon": "/logo/cleanup.pictures.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "321",
+            "name": "AKOOL",
+            "slug": "akool",
+            "description": "AKOOL is a generative AI platform for creating personalized visual marketing and advertising content.",
+            "icon": "/logo/akool.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "835",
+            "name": "Bylo.ai",
+            "slug": "bylo-ai",
+            "description": "Bylo.ai is an AI-powered platform that transforms text prompts into high-quality images and offers creative photo editing tools.",
+            "icon": "/logo/bylo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "971",
+            "name": "MagicShot",
+            "slug": "magicshot-ai",
+            "description": "MagicShot.ai is an AI-powered platform that enables users to create professional product photos instantly without the need for physical photoshoots.",
+            "icon": "/logo/magicshot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "1166",
+            "name": "Glorify",
+            "slug": "glorify",
+            "description": "Glorify is a design tool that enables entrepreneurs and marketers to create marketing visuals, offering features like AI-powered tools, template libraries, and collaboration capabilities.",
+            "icon": "/logo/glorify.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "1214",
+            "name": "ThinkDiffusion",
+            "slug": "thinkdiffusion",
+            "description": "ThinkDiffusion is a cloud-based platform providing access to open-source generative AI tools for creating art, animations, and videos in a private workspace.",
+            "icon": "/logo/www.thinkdiffusion.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-background-generator"
+            ]
+        },
+        {
+            "id": "1360",
+            "name": "BoothAI360",
+            "slug": "boothai360",
+            "description": "BoothAI360 is an AI-powered photo studio that transforms selfies into professional headshots and artistic portraits in seconds, eliminating the need for expensive traditional photoshoots.",
+            "icon": "/logo/boothai360.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-background-generator"
+            ]
+        }
+    ]
+}

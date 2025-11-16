@@ -1,0 +1,61 @@
+{
+    "title": "The Best 5 Fashion AI Tools in 2025",
+    "summary": "Discover the transformative world of Fashion AI, where cutting-edge technology meets style innovation. This category features tools designed to enhance your fashion experience, from personalized outfit recommendations to trend forecasting and virtual fitting rooms. Unlock the potential of AI to streamline your design process, optimize inventory management, and elevate customer engagement. Whether you're a designer, retailer, or fashion enthusiast, these solutions cater to your unique needs. Explore our curated selection of Fashion AI tools today and revolutionize your approach to style!",
+    "tools": [
+        {
+            "id": "492",
+            "name": "X-Design",
+            "slug": "x-design",
+            "description": "X-Design provides AI-powered photo editing tools to create professional product visuals for e-commerce and marketing.",
+            "icon": "/logo/www.x-design.com.webp",
+            "isFree": true,
+            "categories": [
+                "fashion-ai"
+            ]
+        },
+        {
+            "id": "797",
+            "name": "The New Black",
+            "slug": "the-new-black-ai",
+            "description": "The New Black is an AI-powered platform that revolutionizes fashion design by generating unique clothing, bags, and shoe designs in seconds.",
+            "icon": "/logo/thenewblack.ai.webp",
+            "isFree": true,
+            "categories": [
+                "fashion-ai"
+            ]
+        },
+        {
+            "id": "798",
+            "name": "Pic Copilot",
+            "slug": "pic-copilot",
+            "description": "Pic Copilot is an AI-powered platform designed to enhance e-commerce product images and marketing visuals for improved click-through rates and conversions.",
+            "icon": "/logo/www.piccopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "fashion-ai"
+            ]
+        },
+        {
+            "id": "1144",
+            "name": "My Color Analysis",
+            "slug": "my-color-analysis-ai",
+            "description": "My Color Analysis is an AI-powered platform that analyzes users' photos to determine their personal color season and recommend flattering colors for fashion, makeup, and hair.",
+            "icon": "/logo/mycoloranalysis.ai.webp",
+            "isFree": true,
+            "categories": [
+                "fashion-ai"
+            ]
+        },
+        {
+            "id": "1155",
+            "name": "Fashn.ai",
+            "slug": "fashn-ai",
+            "description": "Fashn.ai is an AI-powered platform that transforms black-and-white fashion sketches into vibrant, colored designs to assist designers and enthusiasts.",
+            "icon": "/logo/fashn.ai.webp",
+            "isFree": true,
+            "categories": [
+                "fashion-ai"
+            ]
+        }
+    ]
+}

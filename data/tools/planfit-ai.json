@@ -1,0 +1,72 @@
+{
+    "name": "Planfit",
+    "description": "Planfit is an AI-powered fitness platform that provides personalized workout plans and training guidance to help users achieve their fitness goals efficiently.",
+    "longDescription": "Planfit is an innovative AI-driven fitness app designed to democratize access to personalized training by generating custom workout plans based on individual goals, fitness levels, and available equipment. Its mission is to make professional-grade fitness coaching accessible to everyone, eliminating the need for expensive personal trainers or generic programs. The platform uses advanced algorithms to adapt plans in real-time, ensuring users stay motivated and progress safely. By solving common problems like lack of customization in traditional fitness apps, Planfit helps users avoid plateaus and injuries while fitting workouts into busy lifestyles. Ultimately, it serves as a virtual fitness companion, empowering users from beginners to athletes to build sustainable habits and achieve optimal health.",
+    "url": "https://planfit.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/planfit.ai.webp",
+    "category": "AI Fitness",
+    "categorySlug": "ai-fitness",
+    "slug": "planfit-ai",
+    "categories": [
+        "AI Fitness",
+        "AI Cooking Assistant",
+        "AI Healthcare",
+        "AI Inspirational Quotes"
+    ],
+    "features": [
+        "AI-generated personalized workout plans tailored to user's goals, experience, and equipment, ensuring effective and safe training sessions.",
+        "Real-time progress tracking that monitors performance and adjusts plans dynamically to optimize results and prevent overtraining.",
+        "Extensive exercise library with video demonstrations and instructions, making it easy for users to learn proper form and technique.",
+        "Nutrition guidance integrated with workout plans to support overall health and fitness objectives.",
+        "Community features allowing users to share progress, join challenges, and connect with others for motivation.",
+        "Mobile app accessibility for on-the-go workout logging and reminders to maintain consistency.",
+        "Customizable schedules that fit into users' daily routines, including rest days and recovery recommendations.",
+        "Data-driven insights providing analytics on performance trends and areas for improvement.",
+        "Integration with wearables for seamless syncing of health data like heart rate and steps.",
+        "Beginner-friendly modes with simplified plans and educational tips to build confidence.",
+        "Advanced analytics for experienced users, including muscle group targeting and periodization.",
+        "Motivational tools such as badges, streaks, and virtual rewards to encourage long-term adherence."
+    ],
+    "faqs": [
+        {
+            "question": "What is Planfit?",
+            "answer": "Planfit is an AI-powered fitness app that creates personalized workout plans based on your goals, fitness level, and available equipment. It acts as a virtual coach to guide you through effective training routines."
+        },
+        {
+            "question": "Is Planfit free to use?",
+            "answer": "Yes, Planfit offers a free version with access to core features like basic workout plans and tracking. Premium features, such as advanced customization and nutrition plans, require a subscription."
+        },
+        {
+            "question": "How does the AI personalize my workouts?",
+            "answer": "The AI analyzes your input on goals, experience, body metrics, and preferences to generate tailored plans. It adapts over time based on your progress and feedback to ensure continuous improvement."
+        },
+        {
+            "question": "Can beginners use Planfit?",
+            "answer": "Absolutely, Planfit is designed for all levels, including beginners, with simple plans, video tutorials, and gradual progression to build strength safely."
+        },
+        {
+            "question": "Does Planfit include nutrition advice?",
+            "answer": "Yes, it provides basic nutrition guidance integrated with your workout plans. Premium users get more detailed meal suggestions and calorie tracking."
+        },
+        {
+            "question": "How accurate are the workout recommendations?",
+            "answer": "Recommendations are based on proven fitness science and user data, but it's advisable to consult a doctor for personalized health advice. The app encourages listening to your body and adjusting as needed."
+        },
+        {
+            "question": "Can I track my progress in the app?",
+            "answer": "Yes, Planfit offers detailed tracking of workouts, weight lifted, and body measurements, with visualizations to see improvements over time."
+        },
+        {
+            "question": "Is there a community aspect to Planfit?",
+            "answer": "Planfit includes social features where users can share achievements, participate in challenges, and motivate each other within the app."
+        },
+        {
+            "question": "What devices is Planfit available on?",
+            "answer": "Planfit is primarily a mobile app available on iOS and Android, with web access for planning and tracking."
+        },
+        {
+            "question": "How does Planfit handle injuries or limitations?",
+            "answer": "Users can input injuries or limitations, and the AI will modify plans to avoid aggravating them, focusing on safe alternatives and recovery exercises."
+        }
+    ]
+}

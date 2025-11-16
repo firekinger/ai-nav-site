@@ -1,0 +1,33 @@
+{
+    "name": "VMate AI",
+    "description": "VMate AI is an AI-powered roleplay chatbot platform for engaging with customizable virtual characters.",
+    "longDescription": "VMate AI is an innovative online platform that enables users to interact with AI-driven virtual characters, such as AI girlfriends, waifus, and historical figures, for immersive roleplay experiences. The platform leverages advanced AI algorithms to facilitate dynamic, real-time conversations that range from casual chats to romantic or provocative exchanges. Designed for entertainment and emotional connection, VMate AI caters to users seeking personalized companionship or creative storytelling. It offers a user-friendly interface, making it accessible to a broad audience, including anime enthusiasts and those exploring AI-driven interactions. The platform also fosters community engagement through platforms like Discord, allowing users to share feedback and stay updated on new features. VMate AI aims to enhance virtual companionship by continuously expanding its character roster and customization options.",
+    "url": "https://vmateai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/vmateai.com.webp",
+    "category": "AI Roleplay",
+    "categorySlug": "ai-roleplay",
+    "slug": "vmate-ai",
+    "categories": [
+        "AI Roleplay",
+        "AI Character",
+        "AI Anime Generator",
+        "AI Avatar Generator",
+        "AI Chat Generator",
+        "AI Text Classifier",
+        "AI Girlfriend",
+        "AI Waifu Generator",
+        "AI Story Generator",
+        "AI Social Media"
+    ],
+    "features": [
+        "Users can engage in real-time, dynamic conversations with AI characters for immersive roleplay experiences.",
+        "The platform offers a variety of customizable AI characters, including anime-style waifus, girlfriends, and historical figures.",
+        "Text emotion recognition enables AI characters to adapt expressions based on user messages, enhancing interaction realism.",
+        "A user-friendly interface requires no technical skills, making it accessible for casual users to start chatting instantly.",
+        "Community engagement through Discord allows users to connect, share experiences, and provide feedback for platform improvements.",
+        "No NSFW filter is currently applied, allowing candid and provocative conversations for adult users.",
+        "The AI character generator lets users create custom avatars by entering prompts and selecting styles.",
+        "The platform supports multiple conversation styles, from casual to romantic, catering to diverse user preferences."
+    ],
+    "faqs": []
+}

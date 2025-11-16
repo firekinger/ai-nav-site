@@ -1,0 +1,59 @@
+{
+    "name": "Luma AI",
+    "description": "Luma AI provides advanced AI tools for creating and manipulating 3D content and videos from text, images, or videos.",
+    "longDescription": "Luma AI is a platform that leverages artificial intelligence to enable users to generate high-quality 3D models, videos, and animations from simple inputs like text prompts, images, or videos. Its mission is to democratize 3D content creation, making it accessible to creators, developers, and businesses without requiring advanced technical skills. The platform uses cutting-edge AI models to transform user inputs into realistic and dynamic visual outputs, streamlining workflows for industries like gaming, film, and e-commerce. Luma AI also supports developers through an API, allowing integration of its capabilities into custom applications. By focusing on intuitive design and powerful AI, Luma AI aims to empower users to bring their creative visions to life efficiently.",
+    "url": "https://lumalabs.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/lumalabs.ai.webp",
+    "category": "AI 3D Model Generator",
+    "categorySlug": "ai-3d-model-generator",
+    "slug": "luma-ai",
+    "categories": [
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "AI Video Generator",
+        "AI Developer Tools",
+        "Image to 3D Model"
+    ],
+    "features": [
+        "Text-to-3D generation creates detailed 3D models from simple text prompts, enabling rapid prototyping for creators.",
+        "Image-to-3D functionality transforms 2D images into high-fidelity 3D assets, ideal for e-commerce and gaming.",
+        "Video-to-3D conversion generates 3D scenes from video inputs, simplifying complex animation workflows.",
+        "AI-powered video generation produces dynamic videos from text or images, enhancing content creation for marketing.",
+        "Real-time rendering previews allow users to visualize 3D models instantly, improving design efficiency.",
+        "API integration enables developers to embed Luma’s AI capabilities into their own applications seamlessly.",
+        "Customizable textures and materials let users refine 3D models for realistic and tailored outputs.",
+        "Cloud-based processing ensures fast computation without the need for high-end local hardware.",
+        "Collaborative tools support team workflows for creating and sharing 3D content across platforms.",
+        "High-resolution output delivers professional-grade 3D models and videos suitable for commercial use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Luma AI used for?",
+            "answer": "Luma AI is used to create 3D models, videos, and animations from text, images, or videos, serving industries like gaming, film, and e-commerce."
+        },
+        {
+            "question": "Does Luma AI offer a free plan?",
+            "answer": "Yes, Luma AI provides a free tier with limited access to its core features, allowing users to test its capabilities."
+        },
+        {
+            "question": "Can I integrate Luma AI into my own application?",
+            "answer": "Yes, Luma AI offers an API that developers can use to integrate its 3D and video generation tools into custom applications."
+        },
+        {
+            "question": "What types of inputs can I use to create 3D models?",
+            "answer": "Luma AI supports text prompts, 2D images, and videos as inputs for generating 3D models and animations."
+        },
+        {
+            "question": "Is Luma AI suitable for professional use?",
+            "answer": "Yes, Luma AI’s high-resolution outputs and customizable features make it ideal for professional applications in gaming, film, and marketing."
+        },
+        {
+            "question": "Do I need advanced hardware to use Luma AI?",
+            "answer": "No, Luma AI uses cloud-based processing, so users can create content without needing powerful local hardware."
+        },
+        {
+            "question": "How fast is the 3D model generation process?",
+            "answer": "Generation times vary, but Luma AI’s cloud infrastructure typically delivers 3D models and previews in minutes."
+        }
+    ]
+}

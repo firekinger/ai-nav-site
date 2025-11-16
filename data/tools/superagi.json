@@ -1,0 +1,75 @@
+{
+    "name": "SuperAGI",
+    "description": "SuperAGI is an open-source platform for building, managing, and running autonomous AI agents to automate complex tasks across various domains.",
+    "longDescription": "SuperAGI is a powerful open-source infrastructure designed to enable developers to create intelligent, autonomous AI agents that can perform tasks with minimal human intervention. Its mission is to accelerate the development of production-ready AI agents by providing a robust framework that includes tools for planning, execution, and monitoring. The platform addresses challenges in AI automation by allowing seamless integration with multiple language models, vector databases, and external tools, making it easier to build agents that can reason and adapt to dynamic environments. Users benefit from features like performance analytics and knowledge embedding, which enhance agent efficiency and decision-making capabilities. Ultimately, SuperAGI serves developers, businesses, and researchers by democratizing access to advanced AI agent technology, fostering innovation in automation and AI-driven solutions.",
+    "url": "https://superagi.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/superagi.com.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "superagi",
+    "categories": [
+        "AI Agent",
+        "AI Workflow",
+        "AI Knowledge Management",
+        "AI For Data Analytics",
+        "Open Source AI Models",
+        "AI Task Management",
+        "AI Monitor",
+        "AI API"
+    ],
+    "features": [
+        "Agent Builder provides an intuitive interface for designing custom AI agents with specific goals, roles, and capabilities, enabling rapid prototyping and deployment.",
+        "Tool Integration allows seamless connection to external APIs, databases, and services, expanding the agents' ability to interact with real-world tools and data sources.",
+        "Knowledge Embedding supports the use of vector databases like Pinecone or Weaviate, allowing agents to efficiently store, retrieve, and utilize large amounts of information for informed decision-making.",
+        "Performance Analytics offers detailed insights into agent executions, including traces and metrics, helping users optimize and debug agent behavior.",
+        "Multi-Model Support enables integration with various large language models such as GPT, Claude, or Llama, providing flexibility in choosing the best AI backend for specific tasks.",
+        "Workflow Management facilitates the creation of complex, multi-step workflows where agents can plan, execute, and iterate on actions autonomously.",
+        "Resource Management allows control over agent resources like tokens and calls, ensuring efficient and cost-effective operations.",
+        "Open-Source Framework encourages community contributions and customizations, making it free and adaptable for diverse use cases.",
+        "Cloud Deployment options simplify scaling and running agents in production environments without extensive infrastructure setup.",
+        "Action Console provides a user-friendly way to monitor and intervene in agent actions in real-time, enhancing control and reliability.",
+        "Concurrent Agent Execution supports running multiple agents simultaneously, improving throughput for large-scale automation needs."
+    ],
+    "faqs": [
+        {
+            "question": "What is SuperAGI?",
+            "answer": "SuperAGI is an open-source platform for building and managing autonomous AI agents. It provides tools and infrastructure to create agents that can perform complex tasks independently."
+        },
+        {
+            "question": "Is SuperAGI free to use?",
+            "answer": "Yes, SuperAGI is open-source and free to use. You can download, modify, and deploy it without licensing fees, though optional cloud services may incur costs."
+        },
+        {
+            "question": "What kind of AI agents can I build with SuperAGI?",
+            "answer": "You can build autonomous agents for tasks like data analysis, automation workflows, research, and more. The platform supports customization for specific industries or use cases."
+        },
+        {
+            "question": "Does SuperAGI support integration with other AI models?",
+            "answer": "Yes, it supports multiple large language models including GPT, Claude, and Llama. This allows flexibility in choosing the most suitable model for your agent's needs."
+        },
+        {
+            "question": "How does SuperAGI handle agent performance monitoring?",
+            "answer": "SuperAGI includes performance analytics that track execution traces, metrics, and resource usage. This helps users identify bottlenecks and improve agent efficiency."
+        },
+        {
+            "question": "Can I deploy SuperAGI agents on the cloud?",
+            "answer": "Yes, SuperAGI offers cloud deployment options for easy scaling. It integrates with platforms like AWS or custom setups for production environments."
+        },
+        {
+            "question": "What is knowledge embedding in SuperAGI?",
+            "answer": "Knowledge embedding allows agents to use vector databases to store and query information efficiently. This enables agents to make data-driven decisions based on embedded knowledge."
+        },
+        {
+            "question": "Is SuperAGI suitable for beginners?",
+            "answer": "While it has a learning curve, SuperAGI provides documentation and examples for beginners. It's more geared toward developers with some AI or programming experience."
+        },
+        {
+            "question": "How does SuperAGI differ from other AI agent frameworks?",
+            "answer": "SuperAGI focuses on production-ready features like concurrent execution and advanced tooling. It emphasizes open-source accessibility and comprehensive agent management compared to more basic frameworks."
+        },
+        {
+            "question": "Can SuperAGI agents handle multi-step tasks?",
+            "answer": "Yes, agents can plan and execute multi-step workflows autonomously. The platform supports iterative reasoning and action loops for complex problem-solving."
+        }
+    ]
+}

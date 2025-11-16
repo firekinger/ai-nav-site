@@ -1,0 +1,74 @@
+{
+    "name": "Spacely AI",
+    "description": "Spacely AI is an innovative AI-powered platform that enables users to generate professional interior design ideas, visualizations, and floor plans for homes and spaces effortlessly.",
+    "longDescription": "Spacely AI is a cutting-edge artificial intelligence tool designed to revolutionize interior design by allowing users to transform their spaces with AI-generated ideas and renders. Its mission is to make professional-level design accessible to everyone, from homeowners to real estate professionals, without the need for expensive software or expertise. The platform solves common problems like design indecision and visualization challenges by providing instant, customizable suggestions based on user inputs such as room photos or descriptions. Users can explore various styles, colors, and layouts, fostering creativity and efficiency in redesign projects. Ultimately, Spacely AI democratizes interior design, helping users save time and money while achieving personalized, high-quality results.",
+    "url": "https://www.spacely.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.spacely.ai.webp",
+    "category": "AI Interior Design",
+    "categorySlug": "ai-interior-design",
+    "slug": "spacely-ai",
+    "categories": [
+        "AI Interior Design",
+        "AI Room Planner",
+        "AI 3D Model Generator",
+        "AI Floor Plan Generator",
+        "AI Style Transfer",
+        "AI Design Assistant",
+        "AI Real Estate",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI-powered room redesign allows users to upload photos and generate multiple design variations in different styles, saving time on manual planning.",
+        "Style customization enables selection from a wide range of themes like modern, rustic, or minimalist, tailoring designs to personal preferences.",
+        "High-quality 3D renders provide realistic visualizations of proposed designs, helping users better imagine the final outcome.",
+        "Floor plan generation creates accurate 2D and 3D layouts from simple inputs, ideal for renovations or new builds.",
+        "Furniture and decor suggestions integrate seamlessly into designs, recommending items that match the chosen aesthetic.",
+        "Collaboration tools let users share designs with others for feedback, enhancing teamwork in design projects.",
+        "Mobile compatibility ensures users can access and edit designs on the go via web or app interfaces.",
+        "Export options allow downloading designs in various formats for printing or sharing with contractors.",
+        "AI learning adapts to user preferences over time, improving suggestion accuracy with repeated use.",
+        "Integration with e-commerce links suggested furniture to real-world purchasing options."
+    ],
+    "faqs": [
+        {
+            "question": "What is Spacely AI?",
+            "answer": "Spacely AI is an AI-driven platform for interior design that generates ideas, renders, and floor plans based on user inputs like room photos."
+        },
+        {
+            "question": "How do I start using Spacely AI?",
+            "answer": "Sign up for a free account on the website, upload a photo of your space, select a style, and let the AI generate designs instantly."
+        },
+        {
+            "question": "Does Spacely AI offer a free plan?",
+            "answer": "Yes, there is a free tier with limited generations and features, while premium plans unlock unlimited access and advanced tools."
+        },
+        {
+            "question": "Can I customize the AI-generated designs?",
+            "answer": "Absolutely, users can tweak styles, colors, furniture, and layouts after the initial generation to fit their vision."
+        },
+        {
+            "question": "Is Spacely AI suitable for professionals?",
+            "answer": "Yes, real estate agents, designers, and architects use it for quick visualizations and client presentations."
+        },
+        {
+            "question": "What file formats can I export designs in?",
+            "answer": "Designs can be exported as images, PDFs, or 3D models for easy sharing and implementation."
+        },
+        {
+            "question": "How accurate are the AI suggestions?",
+            "answer": "The AI uses advanced algorithms for realistic outputs, but results improve with clear inputs and user refinements."
+        },
+        {
+            "question": "Does Spacely AI support outdoor spaces?",
+            "answer": "Currently focused on interiors, but some features can adapt to patios or small outdoor areas."
+        },
+        {
+            "question": "Is my data secure on Spacely AI?",
+            "answer": "Yes, the platform uses encryption and privacy measures to protect user uploads and designs."
+        },
+        {
+            "question": "Can I collaborate with others on designs?",
+            "answer": "Yes, shareable links allow real-time collaboration and feedback from team members or clients."
+        }
+    ]
+}

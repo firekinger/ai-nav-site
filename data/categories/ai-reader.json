@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Reader Tools in 2025",
+    "summary": "Discover the power of AI Readers, designed to transform how you consume and interact with text. These innovative tools enhance comprehension, streamline information processing, and save you valuable time by summarizing articles, extracting key insights, and even reading aloud. Whether you're a student, professional, or avid reader, AI Readers cater to your unique needs, making information more accessible and engaging. Explore our curated selection of AI Reader tools today and elevate your reading experience to new heights!",
+    "tools": [
+        {
+            "id": "850",
+            "name": "TLDR This",
+            "slug": "tldr-this",
+            "description": "TLDR This is an AI-powered summarization tool that condenses long articles, documents, and texts into concise summaries and key points.",
+            "icon": "/logo/www.tldrthis.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-reader"
+            ]
+        },
+        {
+            "id": "879",
+            "name": "Summarize.ing",
+            "slug": "summarize-ing",
+            "description": "Summarize.ing is an AI-driven platform that provides quick and accurate summaries of articles, web pages, and other text content to help users save time on reading.",
+            "icon": "/logo/summarize.ing.webp",
+            "isFree": true,
+            "categories": [
+                "ai-reader"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Clipchamp",
+    "description": "Clipchamp is a user-friendly video editing platform for creating professional-quality videos.",
+    "longDescription": "Clipchamp is a web-based video editing platform designed to empower users of all skill levels to create professional-grade videos for personal, business, or educational purposes. Acquired by Microsoft in 2021, it integrates seamlessly with Windows 11 and Microsoft 365, offering both free and premium plans. The platform features a drag-and-drop interface, AI-powered tools, and a vast library of stock media, making video creation accessible and efficient. It supports a variety of use cases, from social media content to corporate presentations, with editing done locally to ensure speed and privacy. Clipchamp also offers a mobile app for iOS and Android, enabling on-the-go editing. Its mission is to simplify video editing, eliminating the need for complex software or advanced technical skills.",
+    "url": "https://www.clipchamp.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/clipchamp.com.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "clipchamp",
+    "categories": [
+        "AI Video Editor",
+        "AI Video Generator",
+        "AI Social Media",
+        "AI Product Manager",
+        "AI Course"
+    ],
+    "features": [
+        "Drag-and-drop interface simplifies video editing for beginners and professionals alike.",
+        "AI-powered tools like AutoCaptions and text-to-speech enhance video accessibility and production speed.",
+        "Premium stock library provides access to professional-grade videos, audio, and images for enhanced content creation.",
+        "Brand kit feature allows businesses to maintain consistent logos, fonts, and colors across videos.",
+        "Screen and webcam recording tools enable easy creation of tutorials and presentations.",
+        "Social media integrations allow direct publishing to platforms like YouTube, TikTok, and LinkedIn.",
+        "4K export resolution in the premium plan ensures high-quality video output for professional use.",
+        "Content backup in the premium plan secures video projects for future editing."
+    ],
+    "faqs": [
+        {
+            "question": "What is Clipchamp used for?",
+            "answer": "Clipchamp is a video editing platform for creating and editing videos for social media, business, education, or personal projects with an intuitive interface."
+        },
+        {
+            "question": "Does Clipchamp offer a free plan?",
+            "answer": "Yes, Clipchamp provides a free plan with core editing tools, 1080p exports, and limited stock media, suitable for basic video editing needs."
+        },
+        {
+            "question": "What are the benefits of the Clipchamp Premium plan?",
+            "answer": "The Premium plan offers 4K exports, premium stock media, advanced filters, brand kit support, and content backup for enhanced video creation."
+        },
+        {
+            "question": "Can I use Clipchamp on mobile devices?",
+            "answer": "Yes, Clipchamp offers a mobile app for iOS and Android, allowing users to edit videos on the go with a Microsoft account."
+        },
+        {
+            "question": "Does Clipchamp support collaboration features?",
+            "answer": "Clipchamp Teams (in beta) allows multiple users to collaborate on video projects, ideal for business or educational environments."
+        },
+        {
+            "question": "Is Clipchamp suitable for beginners?",
+            "answer": "Yes, Clipchamp’s drag-and-drop interface and tutorials make it beginner-friendly, requiring no prior video editing experience."
+        },
+        {
+            "question": "Can I export videos without a watermark?",
+            "answer": "Free plan exports are watermark-free up to 1080p, but premium features like 4K exports require the Premium plan."
+        },
+        {
+            "question": "Does Clipchamp integrate with Microsoft 365?",
+            "answer": "Yes, Clipchamp integrates with Microsoft 365, offering premium features to personal and business subscribers."
+        }
+    ]
+}

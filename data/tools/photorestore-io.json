@@ -1,0 +1,66 @@
+{
+    "name": "PhotoRestore.io",
+    "description": "PhotoRestore.io is a free AI-powered platform for restoring and enhancing old, damaged, or blurry photos to preserve cherished memories.",
+    "longDescription": "PhotoRestore.io is an AI-driven web platform designed to restore and enhance old, damaged, or blurry photographs, making them clear and vibrant. It leverages advanced algorithms to repair imperfections, enhance image quality, and colorize black-and-white photos, catering to both casual users and professionals. The service is entirely free, requiring no software installation, and prioritizes user privacy by not storing uploaded images. Its user-friendly interface allows anyone to revitalize family heirlooms or historical images with ease. The platform also offers tools for organizing photos into albums, making it ideal for preserving memories for future generations.",
+    "url": "https://www.photorestore.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.photorestore.io.webp",
+    "category": "AI Photo Restoration",
+    "categorySlug": "ai-photo-restoration",
+    "slug": "photorestore-io",
+    "categories": [
+        "AI Photo Restoration",
+        "AI Image Enhancer",
+        "AI Colorize",
+        "AI Background Remover",
+        "AI Image Upscaler",
+        "AI Photo Editor",
+        "AI Tools Directory"
+    ],
+    "features": [
+        "Restores old, blurry, or damaged photos using AI to enhance clarity and sharpness.",
+        "Colorizes black-and-white images to bring vintage photos to life with realistic colors.",
+        "Removes backgrounds from images, isolating subjects for creative or professional use.",
+        "Upscales image resolution without quality loss, ideal for creating high-quality prints.",
+        "Enhances overall image quality by reducing noise and improving sharpness.",
+        "Organizes restored photos into albums for easy management and sharing with others.",
+        "Processes images quickly, delivering restored photos in seconds without registration."
+    ],
+    "faqs": [
+        {
+            "question": "Is PhotoRestore.io free to use?",
+            "answer": "Yes, PhotoRestore.io is completely free, offering all features without subscriptions or payments."
+        },
+        {
+            "question": "Do I need to register to use the service?",
+            "answer": "No, PhotoRestore.io requires no registration; users can upload and restore photos immediately."
+        },
+        {
+            "question": "Can it colorize black-and-white photos?",
+            "answer": "Yes, the platform uses AI to add realistic colors to black-and-white images."
+        },
+        {
+            "question": "Does PhotoRestore.io store my uploaded photos?",
+            "answer": "No, the service prioritizes privacy and does not store or share uploaded photos after processing."
+        },
+        {
+            "question": "What types of photos can be restored?",
+            "answer": "It can restore old, blurry, faded, or damaged photos, including family heirlooms and historical images."
+        },
+        {
+            "question": "Can I use PhotoRestore.io on my mobile device?",
+            "answer": "Yes, it’s web-based and accessible on any modern browser, including mobile devices."
+        },
+        {
+            "question": "How long does the restoration process take?",
+            "answer": "Most restorations are completed in seconds, though complex images may take slightly longer."
+        },
+        {
+            "question": "Can I remove scratches or tears from photos?",
+            "answer": "The AI can repair minor scratches and imperfections but may not fully fix severe damage like tears."
+        },
+        {
+            "question": "Is PhotoRestore.io suitable for professional use?",
+            "answer": "Yes, photographers and genealogists can use it to enhance client images or archival photos."
+        }
+    ]
+}

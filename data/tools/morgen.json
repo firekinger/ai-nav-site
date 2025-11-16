@@ -1,0 +1,64 @@
+{
+    "name": "Morgen",
+    "description": "Morgen is a unified calendar and productivity app that integrates schedules, tasks, and time management tools to help users optimize their daily workflows.",
+    "longDescription": "Morgen is a modern productivity platform designed as an all-in-one calendar app that consolidates multiple calendars, task lists, and scheduling tools into a single interface. Its mission is to empower busy professionals and teams to reclaim control over their time by eliminating the chaos of fragmented scheduling systems. The app solves common problems like double-bookings, overlooked tasks, and inefficient planning through seamless integrations with popular services such as Google Calendar, Outlook, and Todoist. Users benefit from cross-device synchronization, ensuring accessibility on desktop, mobile, and web. Additionally, Morgen incorporates intelligent features to suggest optimal time slots and automate routine scheduling, enhancing overall efficiency.",
+    "url": "https://www.morgen.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.morgen.so.webp",
+    "category": "AI Schedule Maker",
+    "categorySlug": "ai-schedule-maker",
+    "slug": "morgen",
+    "categories": [
+        "AI Schedule Maker",
+        "AI Productivity Tools",
+        "AI Calendar",
+        "AI Task Management",
+        "AI Workflow",
+        "AI Scheduling"
+    ],
+    "features": [
+        "Unified calendar integration allows users to view and manage events from multiple sources like Google and Outlook in one place, reducing scheduling conflicts.",
+        "Task management with drag-and-drop functionality enables easy prioritization and assignment of tasks directly within the calendar, boosting productivity.",
+        "Time blocking tools help users allocate specific periods for focused work, minimizing distractions and improving time utilization.",
+        "Scheduling links generate personalized booking pages for effortless meeting coordination, saving time on back-and-forth emails.",
+        "Cross-platform synchronization ensures all data is up-to-date across desktop, mobile, and web apps, providing seamless access anywhere.",
+        "Intelligent reminders and notifications alert users to upcoming events and deadlines, helping prevent oversights in busy schedules.",
+        "Customizable views offer day, week, or month perspectives tailored to user preferences, enhancing usability for different workflows.",
+        "Integration with email and communication tools streamlines workflow by pulling in relevant context directly into the calendar.",
+        "Analytics and insights provide reports on time usage, enabling users to identify patterns and optimize their routines.",
+        "Collaboration features allow team members to share calendars and coordinate availability, facilitating group productivity."
+    ],
+    "faqs": [
+        {
+            "question": "What is Morgen primarily used for?",
+            "answer": "Morgen is primarily used for unifying calendars, managing tasks, and streamlining scheduling to help users manage their time more effectively. It integrates with various productivity tools to provide a centralized hub for personal and professional planning."
+        },
+        {
+            "question": "Does Morgen offer a free plan?",
+            "answer": "Yes, Morgen offers a free plan with core features like basic calendar integration and task management. Advanced features such as unlimited integrations and priority support are available in paid tiers."
+        },
+        {
+            "question": "How does Morgen integrate with other apps?",
+            "answer": "Morgen integrates seamlessly with popular calendars like Google Calendar and Outlook, as well as task managers like Todoist and email clients. This allows users to pull in data from multiple sources without manual entry."
+        },
+        {
+            "question": "Is Morgen available on mobile devices?",
+            "answer": "Yes, Morgen has dedicated apps for iOS and Android, ensuring users can access their schedules and tasks on the go. The mobile apps sync in real-time with the desktop version."
+        },
+        {
+            "question": "Can Morgen help with team collaboration?",
+            "answer": "Morgen supports team collaboration by allowing shared calendars and availability sharing. Teams can coordinate meetings and view collective schedules to improve group efficiency."
+        },
+        {
+            "question": "What makes Morgen different from other calendar apps?",
+            "answer": "Morgen stands out with its focus on unification across tools, intelligent scheduling suggestions, and time-blocking features. It aims to be a comprehensive productivity OS rather than just a simple calendar."
+        },
+        {
+            "question": "Does Morgen use AI for scheduling?",
+            "answer": "Morgen incorporates AI-driven features to suggest optimal time slots for tasks and events based on user habits. This helps automate planning and reduce manual adjustments."
+        },
+        {
+            "question": "How secure is my data in Morgen?",
+            "answer": "Morgen prioritizes data security with encryption and compliance to standards like GDPR. User data is stored securely, and integrations use OAuth for safe access without storing passwords."
+        }
+    ]
+}

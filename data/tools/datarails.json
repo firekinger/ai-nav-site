@@ -1,0 +1,70 @@
+{
+    "name": "Datarails",
+    "description": "Datarails is a financial planning and analysis (FP&A) platform that automates data consolidation, reporting, and budgeting for Excel users.",
+    "longDescription": "Datarails is a financial planning and analysis (FP&A) software platform designed to empower finance professionals by automating repetitive tasks while allowing them to continue using Excel. The platform integrates with ERPs, CRMs, and HRIS systems to consolidate data in real time, streamlining budgeting, forecasting, and reporting processes. Its mission is to transform how finance teams manage analytics, enabling them to focus on strategic insights rather than manual data collection. By combining the flexibility of Excel with cloud-based automation and AI-powered analytics, Datarails enhances efficiency and accuracy. It serves industries like construction, technology, and healthcare, helping finance teams make data-driven decisions. The platform’s intuitive, no-code interface ensures quick adoption without requiring IT support.",
+    "url": "https://www.datarails.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.datarails.com.webp",
+    "category": "AI For Finance",
+    "categorySlug": "ai-for-finance",
+    "slug": "datarails",
+    "categories": [
+        "AI For Finance",
+        "AI Data Mining",
+        "AI Predictions",
+        "AI Report Writing",
+        "AI Excel Formula Generator",
+        "AI Charting",
+        "AI Story Generator",
+        "AI Assistant"
+    ],
+    "features": [
+        "Automates data consolidation from ERPs, CRMs, and HRIS systems into Excel, creating a single source of truth for accurate financial reporting.",
+        "Enables real-time financial reporting, including P&L, balance sheets, and cash flow statements, reducing manual work and errors.",
+        "Streamlines budgeting and forecasting with collaborative workflows, version tracking, and real-time data updates for informed planning.",
+        "Provides AI-powered insights through Genius by Datarails, delivering tailored summaries and anomaly detection for faster decision-making.",
+        "Offers customizable dashboards and visualizations to present KPIs and financial data, enhancing stakeholder communication.",
+        "Supports scenario modeling to evaluate financial outcomes under different conditions, aiding strategic planning.",
+        "Integrates with over 200 systems, including popular accounting software, for seamless data connectivity.",
+        "Datarails Flex, an Excel add-in, maintains full Excel functionality while connecting to cloud-based consolidated data.",
+        "Automates monthly close processes by populating financial statements with real-time data, saving significant time.",
+        "Enables data storytelling through PowerPoint presentations and real-time dashboards, making insights accessible to non-finance teams."
+    ],
+    "faqs": [
+        {
+            "question": "What is Datarails?",
+            "answer": "Datarails is an FP&A platform that automates data consolidation, reporting, and budgeting while allowing finance teams to use their existing Excel spreadsheets."
+        },
+        {
+            "question": "Does Datarails replace Excel?",
+            "answer": "No, Datarails enhances Excel with automation and cloud-based data integration, maintaining full Excel functionality for finance professionals."
+        },
+        {
+            "question": "What systems does Datarails integrate with?",
+            "answer": "Datarails integrates with over 200 systems, including popular ERPs, CRMs, and HRIS platforms, for seamless data consolidation."
+        },
+        {
+            "question": "Is Datarails suitable for non-finance teams?",
+            "answer": "Yes, Datarails’ dashboards and visualizations make financial data accessible, enabling collaboration with non-finance stakeholders."
+        },
+        {
+            "question": "How does Datarails improve financial reporting?",
+            "answer": "Datarails automates data collection and populates financial statements in real time, reducing errors and speeding up reporting processes."
+        },
+        {
+            "question": "What is Genius by Datarails?",
+            "answer": "Genius by Datarails is an AI-powered assistant that provides tailored financial insights, summaries, and presentations based on consolidated data."
+        },
+        {
+            "question": "Does Datarails require coding or IT support?",
+            "answer": "No, Datarails is a no-code platform with an intuitive interface, requiring no IT assistance for setup or use."
+        },
+        {
+            "question": "Can Datarails handle scenario modeling?",
+            "answer": "Yes, Datarails supports scenario modeling to evaluate how changes in financials impact business outcomes, aiding strategic decisions."
+        },
+        {
+            "question": "How much does Datarails cost?",
+            "answer": "Datarails offers customized pricing based on use cases, number of users, and integrations; contact their team for a quote."
+        }
+    ]
+}

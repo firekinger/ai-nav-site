@@ -1,0 +1,75 @@
+{
+    "name": "AI Humanizer",
+    "description": "AI Humanizer is an online tool that transforms AI-generated text into natural, human-like content to bypass AI detection systems.",
+    "longDescription": "AI Humanizer is a web-based platform designed to refine and humanize text produced by AI models, making it indistinguishable from human-written content. Its mission is to assist content creators, marketers, and writers in producing undetectable AI text that maintains originality and quality while evading detection tools. The platform addresses the growing challenge of AI content being flagged by detectors, which can impact SEO rankings and content credibility. By using advanced algorithms, it rewrites text to add natural variations, idioms, and inconsistencies typical of human writing. This serves users by enabling them to leverage AI for efficiency without the drawbacks of detection, particularly in fields like blogging, academic writing, and digital marketing. Overall, AI Humanizer empowers users to create authentic-seeming content that aligns with platform guidelines and enhances online visibility.",
+    "url": "https://aihumanizer.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/aihumanizer.ai.webp",
+    "category": "Humanizer AI",
+    "categorySlug": "humanizer-ai",
+    "slug": "ai-humanizer",
+    "categories": [
+        "Humanizer AI",
+        "AI Writing",
+        "Bypass AI",
+        "AI SEO Tools",
+        "AI Rewriter",
+        "AI Detector",
+        "AI Content Detector",
+        "AI Text Generator",
+        "AI Workflow"
+    ],
+    "features": [
+        "The humanization engine rewrites AI-generated text to mimic human writing styles, helping users bypass AI detectors like GPTZero and Originality.ai.",
+        "Multiple modes such as Standard, Enhanced, and Aggressive allow customization of the humanization level based on user needs and detection risks.",
+        "Built-in AI detector scanner checks the humanized text's detectability score, providing instant feedback on its effectiveness.",
+        "Supports bulk processing for handling large volumes of text efficiently, ideal for content creators managing multiple projects.",
+        "Preserves the original meaning and intent of the text while introducing natural variations to enhance readability and authenticity.",
+        "User-friendly interface with simple paste-and-humanize functionality, requiring no technical expertise to operate.",
+        "Integration with popular AI tools like ChatGPT, allowing seamless workflow from generation to humanization.",
+        "SEO optimization features ensure the humanized content remains keyword-rich and search-engine friendly.",
+        "Real-time editing previews let users see changes before finalizing the output.",
+        "Multilingual support for humanizing text in various languages beyond English."
+    ],
+    "faqs": [
+        {
+            "question": "What is AI Humanizer?",
+            "answer": "AI Humanizer is a tool that converts AI-generated text into human-like content to avoid detection by AI scanners. It uses advanced algorithms to add natural elements like varied sentence structures and idioms."
+        },
+        {
+            "question": "How does AI Humanizer work?",
+            "answer": "Users paste their AI-generated text into the platform, select a mode, and the tool rewrites it to sound more human. It analyzes and modifies patterns that detectors flag as AI-produced."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, AI Humanizer offers a free tier with limited daily usage and basic features. Upgrading to premium unlocks unlimited access and advanced options."
+        },
+        {
+            "question": "Can AI Humanizer bypass all AI detectors?",
+            "answer": "While it significantly reduces detection rates, no tool can guarantee 100% bypass due to evolving detectors. It performs well against major ones like Copyleaks and Turnitin."
+        },
+        {
+            "question": "Is the humanized text original and plagiarism-free?",
+            "answer": "The tool rewrites content to ensure originality, but users should verify with plagiarism checkers. It focuses on humanization rather than generating new ideas."
+        },
+        {
+            "question": "What languages does AI Humanizer support?",
+            "answer": "It primarily supports English but offers multilingual capabilities for several languages including Spanish, French, and German."
+        },
+        {
+            "question": "Is AI Humanizer safe to use for professional content?",
+            "answer": "Yes, it's designed for ethical use in content creation, but users should comply with platform policies. It helps maintain content quality without risking penalties from AI flagging."
+        },
+        {
+            "question": "How accurate is the built-in AI detector?",
+            "answer": "The detector provides a reliable score based on multiple scanning tools, helping users assess if the text needs further adjustments."
+        },
+        {
+            "question": "Can I use AI Humanizer for academic writing?",
+            "answer": "It's useful for refining drafts, but academic integrity requires original work. Avoid using it to submit purely AI-generated content as your own."
+        },
+        {
+            "question": "What are the pricing options?",
+            "answer": "Plans start from free with limits, to premium subscriptions offering unlimited humanizations and priority support, priced monthly or annually."
+        }
+    ]
+}

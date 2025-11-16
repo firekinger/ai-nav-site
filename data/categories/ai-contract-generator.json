@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Contract Generator Tools in 2025",
+    "summary": "Unlock the power of automation with our AI Contract Generator category. These innovative tools streamline the contract creation process, ensuring accuracy and compliance while saving you valuable time. Whether you're a business owner, freelancer, or legal professional, our AI-driven solutions simplify drafting, editing, and managing contracts tailored to your needs. Explore our curated selection of AI contract generators to enhance your workflow and reduce legal risks. Start transforming your contract management today—dive into our tools and experience the future of legal documentation!",
+    "tools": [
+        {
+            "id": "954",
+            "name": "ChainGPT",
+            "slug": "chaingpt",
+            "description": "ChainGPT is an AI-powered platform providing advanced tools and infrastructure for blockchain, crypto, and Web3 development.",
+            "icon": "/logo/www.chaingpt.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-generator"
+            ]
+        },
+        {
+            "id": "956",
+            "name": "Spellbook",
+            "slug": "spellbook",
+            "description": "Spellbook is an AI-powered platform designed to assist legal professionals in drafting, reviewing, and negotiating contracts efficiently.",
+            "icon": "/logo/www.spellbook.legal.webp",
+            "isFree": false,
+            "categories": [
+                "ai-contract-generator"
+            ]
+        },
+        {
+            "id": "1197",
+            "name": "AI Lawyer",
+            "slug": "ai-lawyer",
+            "description": "AI Lawyer is an AI-powered platform that provides instant legal advice, document drafting, and consultation services to make legal assistance accessible and affordable.",
+            "icon": "/logo/ailawyer.pro.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-generator"
+            ]
+        },
+        {
+            "id": "1415",
+            "name": "Genie3",
+            "slug": "genie3-ai",
+            "description": "Genie3.ai is an AI-powered platform that assists users in drafting, reviewing, and managing legal documents efficiently.",
+            "icon": "/logo/genie3.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-contract-generator"
+            ]
+        }
+    ]
+}

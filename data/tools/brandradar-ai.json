@@ -1,0 +1,63 @@
+{
+    "name": "BrandRadar",
+    "description": "BrandRadar is an enterprise-grade Generative Engine Optimization (GEO) platform designed to enhance brand discoverability and visibility across AI platforms like OpenAI, Gemini, and Perplexity.",
+    "longDescription": "BrandRadar is a specialized platform focused on Generative Engine Optimization (GEO), helping enterprises monitor and improve their brand's presence in AI-generated responses. It addresses the shift in consumer search behavior towards AI tools by providing tools to analyze how brands are mentioned and recommended. The platform's mission is to empower businesses to shape AI perceptions, ensuring accurate and prominent brand representation. By tracking performance across multiple AI models, it solves problems related to visibility gaps and competitor dominance in AI ecosystems. Users benefit from data-driven insights that inform content strategies and optimization efforts. Overall, BrandRadar bridges traditional SEO with AI-driven discovery, making it essential for modern brand management.",
+    "url": "https://www.brandradar.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.brandradar.ai.webp",
+    "category": "AI Text Generator",
+    "categorySlug": "ai-text-generator",
+    "slug": "brandradar-ai",
+    "categories": [
+        "AI Text Generator",
+        "AI Prompt Generator",
+        "AI SEO Tools",
+        "AI Text Classifier",
+        "Large Language Models (LLMs)"
+    ],
+    "features": [
+        "Proprietary Scoring System provides a visibility score based on frequency, prominence, and positivity of brand mentions in AI responses, helping users gauge overall performance.",
+        "Test Thousands of Prompts tracks brand performance across real-world prompts on platforms like OpenAI and Gemini to identify visibility patterns and opportunities.",
+        "Competitor Comparison benchmarks brand performance against rivals in prompt frequency, sentiment, and topic association for strategic insights.",
+        "Citation Mapping identifies influencing websites and domains in AI mentions, allowing users to build authority in key areas.",
+        "Keyword Phrase Analysis examines common keyword combinations in high-ranking prompts to spot optimization gaps.",
+        "Cross-Platform Content Generation creates content to boost visibility across multiple AI platforms based on identified insights.",
+        "Model-Specific Tracking monitors brand ranking across leading LLMs with customizable settings like temperature and max tokens.",
+        "Prompt-Scale Analysis simulates thousands of prompts to detect trends in visibility, sentiment, and ranking for data-driven decisions.",
+        "Topic & Prompt Insights drills into top-performing topics and prompt variants to understand user discovery patterns.",
+        "Unified Dashboard View visualizes all metrics in a single interface for efficient access and analysis."
+    ],
+    "faqs": [
+        {
+            "question": "What is Generative Engine Optimization (GEO)?",
+            "answer": "GEO is the practice of optimizing your brand’s presence in AI-generated responses across platforms like OpenAI (ChatGPT), Gemini, Perplexity, and others. Unlike traditional SEO, it focuses on how AI understands, ranks, and recommends your brand."
+        },
+        {
+            "question": "How is BrandRadar different from an SEO or prompt tracking tool?",
+            "answer": "BrandRadar goes beyond surface-level tracking by monitoring brand appearances in AI responses and uncovering patterns in visibility, sentiment, and citations across platforms. This helps users understand drivers of performance and areas for improvement, unlike traditional tools that only track mentions."
+        },
+        {
+            "question": "What platforms does BrandRadar track?",
+            "answer": "BrandRadar tracks top AI platforms including OpenAI, Gemini, Perplexity, Claude, Google SGE, and others. The platform continuously expands to include new tools as they gain adoption."
+        },
+        {
+            "question": "How does BrandRadar collect and analyze data?",
+            "answer": "BrandRadar analyzes thousands of real-world prompts daily using proprietary systems across multiple AI models. It extracts key metrics like prompt frequency, sentiment, citation domains, and keyword patterns, presented in a single dashboard."
+        },
+        {
+            "question": "Can I see how my competitors are performing?",
+            "answer": "Yes, BrandRadar includes competitive benchmarking that allows comparison of visibility, prompt share, sentiment, and citation sources with competitors or category leaders."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, BrandRadar offers a free plan at $0 per month, which includes 5 prompts every 14 days, unlimited brands tracked, and unlimited team seats, though with limited features like low web search context."
+        },
+        {
+            "question": "What are the pricing options for BrandRadar?",
+            "answer": "BrandRadar has plans starting from Free ($0/mo), Startup ($99/mo), Growth ($399/mo), Scale ($999/mo), to Enterprise ($3,999/mo or custom). Each plan varies in prompt limits, frequency, and additional services like GEO as a Service."
+        },
+        {
+            "question": "Does BrandRadar offer a free trial?",
+            "answer": "Yes, plans like Growth and Scale offer a 7-day free trial. You can sign up at https://app.brandradar.ai/signup to try the features."
+        }
+    ]
+}

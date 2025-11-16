@@ -1,0 +1,76 @@
+{
+    "name": "Dust",
+    "description": "Dust is a platform that empowers teams to build and deploy custom AI assistants using large language models to enhance productivity and automate workflows.",
+    "longDescription": "Dust is an innovative AI platform designed to help organizations create tailored AI assistants that integrate seamlessly with their data and tools. Its mission is to democratize access to advanced AI capabilities, enabling non-technical users to build powerful applications without extensive coding knowledge. By connecting to various data sources and APIs, Dust solves problems related to information silos and inefficient processes in businesses. It emphasizes security and privacy, ensuring that company data remains protected while leveraging AI for insights and automation. Users can customize assistants for specific tasks like research, content generation, or customer support, making it a versatile tool for modern enterprises. Overall, Dust serves as a bridge between cutting-edge AI technology and practical business applications, fostering innovation and efficiency.",
+    "url": "https://dust.tt/?utm_source=ainavdir",
+    "screenshot": "/screenshot/dust.tt.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "dust",
+    "categories": [
+        "AI Assistant",
+        "Large Language Models (LLMs)",
+        "AI Workflow",
+        "AI For Data Analytics",
+        "No-Code&Low-Code",
+        "AI Productivity Tools",
+        "AI API",
+        "AI Chatbot",
+        "AI Business Ideas Generator"
+    ],
+    "features": [
+        "Custom AI Assistant Builder allows users to create personalized AI agents that integrate with company data for tailored responses and actions.",
+        "Large Language Model Integration enables seamless connection to leading LLMs like GPT or Claude for advanced natural language processing.",
+        "Data Source Connectivity provides secure access to internal databases, documents, and APIs to enrich AI capabilities with real-time information.",
+        "Workflow Automation feature streamlines repetitive tasks by automating processes across tools like Slack, Notion, or email.",
+        "Collaborative Workspace supports team-based development and sharing of AI assistants for enhanced productivity.",
+        "Security and Compliance tools ensure data privacy with enterprise-grade encryption and access controls.",
+        "No-Code Interface empowers non-developers to build and deploy AI solutions quickly without programming expertise.",
+        "Analytics Dashboard offers insights into AI usage, performance, and optimization opportunities.",
+        "API Integrations allow extension of AI assistants to third-party services for broader functionality.",
+        "Version Control for Assistants enables tracking changes and iterating on AI models efficiently.",
+        "Scalable Deployment supports growing from small teams to large enterprises with flexible infrastructure."
+    ],
+    "faqs": [
+        {
+            "question": "What is Dust primarily used for?",
+            "answer": "Dust is used to build custom AI assistants that help teams automate tasks, access information, and improve productivity using large language models."
+        },
+        {
+            "question": "Do I need coding skills to use Dust?",
+            "answer": "No, Dust offers a no-code interface that allows users without programming experience to create and deploy AI assistants easily."
+        },
+        {
+            "question": "Is Dust secure for handling sensitive company data?",
+            "answer": "Yes, Dust prioritizes security with features like encryption, access controls, and compliance with data privacy standards to protect sensitive information."
+        },
+        {
+            "question": "What kind of integrations does Dust support?",
+            "answer": "Dust supports integrations with various data sources, APIs, and tools such as Slack, Google Drive, Notion, and leading LLMs for comprehensive functionality."
+        },
+        {
+            "question": "Does Dust offer a free plan?",
+            "answer": "Yes, Dust provides a free plan with limited features for individuals and small teams to get started, with options to upgrade for more advanced capabilities."
+        },
+        {
+            "question": "How does Dust differ from general chatbots like ChatGPT?",
+            "answer": "Unlike general chatbots, Dust allows customization with your own data and tools, creating specialized assistants for business-specific needs rather than generic responses."
+        },
+        {
+            "question": "Can Dust be used for team collaboration?",
+            "answer": "Absolutely, Dust's collaborative workspace enables teams to build, share, and iterate on AI assistants together, fostering group productivity."
+        },
+        {
+            "question": "What industries benefit most from Dust?",
+            "answer": "Industries like tech, finance, marketing, and customer support benefit from Dust by automating workflows and gaining insights from integrated data."
+        },
+        {
+            "question": "How do I get started with Dust?",
+            "answer": "Sign up on the website, connect your data sources, and use the intuitive builder to create your first AI assistant in minutes."
+        },
+        {
+            "question": "Does Dust support multiple languages?",
+            "answer": "Yes, through its integration with multilingual LLMs, Dust can handle queries and generate responses in various languages."
+        }
+    ]
+}

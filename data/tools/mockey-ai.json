@@ -1,0 +1,66 @@
+{
+    "name": "Mockey",
+    "description": "Mockey is a free online AI-powered mockup generator for creating high-quality product visuals.",
+    "longDescription": "Mockey is an AI-driven platform designed to simplify the creation of professional-grade product mockups for e-commerce, designers, and marketers. It allows users to upload designs and instantly apply them to over 1,000 templates, including apparel, accessories, and tech products, without requiring advanced design skills. The platform eliminates the need for complex software like Photoshop, offering a user-friendly interface for rapid mockup generation. Mockey's mission is to empower creatives and businesses by streamlining the visualization process, making it accessible for print-on-demand businesses, entrepreneurs, and hobbyists. Its watermark-free, high-resolution downloads and mobile app enhance its utility for on-the-go design needs. The service also plans to introduce advanced AI features like scene generation and background removal to further enhance user experience.",
+    "url": "https://mockey.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mockey.ai.webp",
+    "category": "AI Mockup Generator",
+    "categorySlug": "ai-mockup-generator",
+    "slug": "mockey-ai",
+    "categories": [
+        "AI Mockup Generator",
+        "AI Product Description Generator",
+        "AI Background Remover",
+        "AI 3D Model Generator",
+        "AI Shopping Assistant",
+        "AI Graphic Design",
+        "AI Social Media Post Generator",
+        "AI Photo Editor"
+    ],
+    "features": [
+        "Upload JPG or PNG designs to instantly apply them to over 1,000 mockup templates for products like t-shirts, hoodies, and posters.",
+        "Customize mockups by adjusting colors, backgrounds, and design positioning for tailored, professional results.",
+        "Download high-resolution mockups without watermarks for free, suitable for e-commerce or social media use.",
+        "Access a mobile app on Google Play for creating mockups on the go without needing design software.",
+        "Preview mockups in real-time before downloading to ensure alignment with creative vision.",
+        "Edit backgrounds with AI tools, including background removal or custom uploads, for enhanced visual appeal.",
+        "Generate 3D mockups for products like clothing and packaging, eliminating the need for complex 3D modeling software.",
+        "Use a color picker tool to match product colors precisely, ideal for branding consistency.",
+        "Create unlimited mockups and downloads for free, supporting scalability for businesses and creators.",
+        "Access a diverse library of photorealistic templates featuring models, settings, and product types for versatile use cases."
+    ],
+    "faqs": [
+        {
+            "question": "What is Mockey used for?",
+            "answer": "Mockey is used to create high-quality, photorealistic product mockups for e-commerce, marketing, and design, allowing users to visualize designs on products like t-shirts, hoodies, and posters."
+        },
+        {
+            "question": "Is Mockey free to use?",
+            "answer": "Yes, Mockey offers unlimited mockup creation and downloads for free, with no watermarks, though a premium plan unlocks advanced features like high-resolution downloads and custom backgrounds."
+        },
+        {
+            "question": "Do I need design skills to use Mockey?",
+            "answer": "No, Mockey’s user-friendly interface requires no prior design experience, making it accessible for beginners and professionals alike."
+        },
+        {
+            "question": "Can I use Mockey on mobile devices?",
+            "answer": "Yes, Mockey offers a mobile app on Google Play, allowing users to create and download mockups on the go."
+        },
+        {
+            "question": "What file formats does Mockey support for uploads?",
+            "answer": "Mockey supports JPG and PNG file formats for design uploads, ensuring compatibility with common design tools."
+        },
+        {
+            "question": "Does Mockey offer 3D mockup capabilities?",
+            "answer": "Yes, Mockey provides a 3D mockup generator for creating realistic 3D visuals of products like clothing and packaging."
+        },
+        {
+            "question": "Can I customize the background of my mockups?",
+            "answer": "Yes, Mockey allows users to edit or replace backgrounds, including AI-powered background removal, to match their branding needs."
+        },
+        {
+            "question": "How does Mockey compare to other mockup generators?",
+            "answer": "Unlike competitors like Placeit or Smartmockups, Mockey offers watermark-free, high-quality mockups for free with a simpler interface, though it may have fewer niche templates."
+        }
+    ]
+}

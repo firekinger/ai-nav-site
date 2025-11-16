@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Singing Generator Tools in 2025",
+    "summary": "Discover the transformative power of AI Singing Generators, designed to elevate your musical creativity effortlessly. These innovative tools enable users to create unique melodies and harmonies, perfect for songwriters, content creators, and music enthusiasts alike. With features like customizable vocals and genre-specific styles, you can bring your musical ideas to life in minutes. Explore our curated selection of AI Singing Generators and unlock new possibilities in your music-making journey. Dive in now and let your creativity soar!",
+    "tools": [
+        {
+            "id": "885",
+            "name": "Vocal Image",
+            "slug": "vocal-image",
+            "description": "Vocal Image is an AI-powered app designed to help users improve their voice, speaking skills, and communication through personalized training and feedback.",
+            "icon": "/logo/www.vocalimage.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-singing-generator"
+            ]
+        },
+        {
+            "id": "1203",
+            "name": "Controlla",
+            "slug": "controlla",
+            "description": "Controlla is a music tech platform using AI to create personalized singing voices, generate choirs, and enable interactive music experiences.",
+            "icon": "/logo/www.controlla.xyz.webp",
+            "isFree": true,
+            "categories": [
+                "ai-singing-generator"
+            ]
+        }
+    ]
+}

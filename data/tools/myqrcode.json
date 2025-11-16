@@ -1,0 +1,64 @@
+{
+    "name": "MyQRcode",
+    "description": "MyQRcode is a platform for creating customizable QR codes for businesses, events, and personal use with AI-driven design options.",
+    "longDescription": "MyQRcode is an online QR code generator designed to help individuals and businesses create professional, customizable QR codes for various purposes, such as linking to websites, social media, or digital menus. The platform emphasizes ease of use, allowing users to add logos, colors, and unique designs to align with their brand identity. Its AI-powered art QR code generator enables the creation of visually appealing codes, enhancing engagement for marketing campaigns or events. MyQRcode serves industries like restaurants, retail, and real estate by offering editable links and analytics for dynamic QR codes. The service aims to bridge offline and online interactions, making it simple for users to share content via a single scan. It is headquartered in Sofia, Bulgaria, and prioritizes user-friendly design and accessibility.",
+    "url": "https://myqrcode.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/myqrcode.com.webp",
+    "category": "AI QR Code Generator",
+    "categorySlug": "ai-qr-code-generator",
+    "slug": "myqrcode",
+    "categories": [
+        "AI QR Code Generator",
+        "AI Art Generator",
+        "AI For Data Analytics",
+        "AI Social Media",
+        "AI Digital Marketing",
+        "AI Productivity Tools",
+        "AI Vector Graphics"
+    ],
+    "features": [
+        "Create customizable QR codes with logos, colors, and frames to match brand aesthetics and increase scan appeal.",
+        "Generate AI-powered art QR codes for free, offering unique, visually striking designs for marketing or creative projects.",
+        "Support dynamic QR codes that allow users to edit linked content without changing the code, ideal for evolving campaigns.",
+        "Download QR codes in multiple formats like PNG, SVG, or JPG for flexible use in print or digital media.",
+        "Track scan analytics for dynamic QR codes to monitor engagement, including scan counts and user locations.",
+        "Link QR codes to various content types, such as URLs, vCards, PDFs, or social media profiles, for versatile applications.",
+        "Offer templates and patterns to simplify QR code creation, saving time for non-technical users.",
+        "Provide a user-friendly interface for quick QR code generation, accessible to both individuals and businesses.",
+        "Enable offline-to-online engagement by linking physical materials to digital content via QR codes."
+    ],
+    "faqs": [
+        {
+            "question": "What is MyQRcode used for?",
+            "answer": "MyQRcode is used to create customizable QR codes that link to websites, social media, PDFs, or other digital content, ideal for marketing, events, or personal use."
+        },
+        {
+            "question": "Is MyQRcode free to use?",
+            "answer": "Yes, MyQRcode offers a free plan for generating static QR codes and AI art QR codes, though premium features like analytics require a subscription."
+        },
+        {
+            "question": "Can I edit a QR code after creating it?",
+            "answer": "Dynamic QR codes on MyQRcode can be edited to update linked content, while static QR codes are fixed once created."
+        },
+        {
+            "question": "What file formats are available for QR code downloads?",
+            "answer": "QR codes can be downloaded as PNG, SVG, or JPG, suitable for both digital and print applications."
+        },
+        {
+            "question": "Does MyQRcode offer scan tracking?",
+            "answer": "Yes, dynamic QR codes include analytics to track scan counts, locations, and device types, available with premium plans."
+        },
+        {
+            "question": "Can I add my logo to a QR code?",
+            "answer": "Yes, MyQRcode allows users to upload logos to personalize QR codes, enhancing brand recognition."
+        },
+        {
+            "question": "Is MyQRcode suitable for businesses?",
+            "answer": "Absolutely, MyQRcode supports businesses with customizable QR codes for marketing, digital menus, and customer engagement analytics."
+        },
+        {
+            "question": "How does the AI art QR code feature work?",
+            "answer": "The AI art QR code generator creates unique, artistic QR code designs automatically, making them visually appealing while remaining scannable."
+        }
+    ]
+}

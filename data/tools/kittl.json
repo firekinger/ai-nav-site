@@ -1,0 +1,59 @@
+{
+    "name": "Kittl",
+    "description": "Kittl is an AI-powered design platform for creating professional-grade graphics and branding materials.",
+    "longDescription": "Kittl is an intuitive, AI-enhanced design platform that empowers users to create stunning graphics, logos, and branding materials without requiring advanced design skills. Its mission is to democratize design by providing accessible tools for individuals, businesses, and creators to produce professional-quality visuals quickly. The platform leverages AI to streamline workflows, offering templates, design suggestions, and automated editing features that save time and enhance creativity. Kittl serves a wide range of users, from freelancers and small business owners to marketing teams, by providing an all-in-one solution for digital and print design needs. It stands out for its user-friendly interface and extensive library of customizable assets, making it ideal for creating social media content, merchandise, and promotional materials.",
+    "url": "https://www.kittl.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.kittl.com.webp",
+    "category": "AI Graphic Design",
+    "categorySlug": "ai-graphic-design",
+    "slug": "kittl",
+    "categories": [
+        "AI Graphic Design",
+        "AI Design Assistant",
+        "Text to Image",
+        "AI Background Remover",
+        "AI Social Media"
+    ],
+    "features": [
+        "AI-powered design tools automatically generate layouts and suggest design elements to streamline the creative process.",
+        "A vast library of customizable templates enables users to create logos, posters, and social media graphics quickly.",
+        "Text-to-image AI functionality allows users to generate unique visuals from text prompts for creative projects.",
+        "Real-time collaboration tools enable teams to work together seamlessly on design projects.",
+        "High-resolution export options support both digital and print formats for versatile use.",
+        "Background removal tools powered by AI simplify image editing for professional results.",
+        "A drag-and-drop interface makes designing accessible to users with no prior graphic design experience.",
+        "Extensive font and illustration libraries provide diverse creative assets for personalized designs.",
+        "Integration with social media platforms allows direct publishing of designs from the platform.",
+        "Mockup tools help users visualize their designs on products like t-shirts and business cards."
+    ],
+    "faqs": [
+        {
+            "question": "What is Kittl used for?",
+            "answer": "Kittl is used for creating professional-grade graphics, logos, and branding materials for digital and print media. It’s ideal for businesses, freelancers, and creators needing quick, high-quality designs."
+        },
+        {
+            "question": "Does Kittl offer a free plan?",
+            "answer": "Yes, Kittl offers a free plan with access to basic design tools and templates, though premium features require a paid subscription."
+        },
+        {
+            "question": "Can I use Kittl without design experience?",
+            "answer": "Absolutely, Kittl’s intuitive drag-and-drop interface and AI-powered tools make it easy for beginners to create professional designs."
+        },
+        {
+            "question": "What types of designs can I create with Kittl?",
+            "answer": "You can create logos, social media posts, posters, business cards, t-shirt designs, and more using Kittl’s templates and tools."
+        },
+        {
+            "question": "Does Kittl support team collaboration?",
+            "answer": "Yes, Kittl offers real-time collaboration features, allowing teams to work together on design projects efficiently."
+        },
+        {
+            "question": "Can I export my designs for print?",
+            "answer": "Kittl supports high-resolution exports in formats suitable for both digital use and professional printing."
+        },
+        {
+            "question": "How does Kittl’s AI assist in designing?",
+            "answer": "Kittl’s AI suggests design elements, generates images from text prompts, and automates tasks like background removal to enhance creativity."
+        }
+    ]
+}

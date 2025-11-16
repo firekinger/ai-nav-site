@@ -1,0 +1,55 @@
+{
+    "name": "Angular",
+    "description": "Angular.dev is the official hub for Angular, a platform for building scalable web applications.",
+    "longDescription": "Angular.dev is the official website for Angular, a popular open-source framework maintained by Google for developing dynamic and scalable web applications. It serves developers by providing comprehensive documentation, tutorials, and tools to build robust single-page applications (SPAs). The platform emphasizes a component-based architecture, enabling developers to create reusable and maintainable code. Angular.dev also offers resources for both beginners and experienced developers, fostering a community-driven approach to learning and collaboration. Its mission is to empower developers to build high-performance applications with a focus on productivity and scalability.",
+    "url": "https://angular.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/angular.dev.webp",
+    "category": "AI Website Builder",
+    "categorySlug": "ai-website-builder",
+    "slug": "angular",
+    "categories": [
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Developer Tools"
+    ],
+    "features": [
+        "Comprehensive documentation provides detailed guides and API references for building Angular applications.",
+        "Interactive tutorials help developers learn Angular concepts through hands-on coding exercises.",
+        "Angular CLI offers a powerful command-line interface to streamline project setup, development, and deployment.",
+        "Component-based architecture enables reusable and modular code for efficient app development.",
+        "Built-in testing tools support unit and end-to-end testing to ensure application reliability.",
+        "Angular Universal facilitates server-side rendering for improved performance and SEO.",
+        "Community support through forums and GitHub fosters collaboration and issue resolution.",
+        "Regular updates ensure compatibility with modern web standards and new features."
+    ],
+    "faqs": [
+        {
+            "question": "What is Angular used for?",
+            "answer": "Angular is a framework for building dynamic, single-page web applications with a focus on scalability and maintainability."
+        },
+        {
+            "question": "Is Angular free to use?",
+            "answer": "Yes, Angular is an open-source framework available for free under the MIT license."
+        },
+        {
+            "question": "Do I need prior experience to use Angular?",
+            "answer": "While basic knowledge of HTML, CSS, and JavaScript is helpful, Angular’s tutorials cater to both beginners and advanced developers."
+        },
+        {
+            "question": "What is the Angular CLI?",
+            "answer": "The Angular CLI is a command-line tool that simplifies project setup, code generation, and application deployment."
+        },
+        {
+            "question": "Can Angular be used for mobile apps?",
+            "answer": "Yes, Angular can be paired with tools like Ionic to build cross-platform mobile applications."
+        },
+        {
+            "question": "How does Angular compare to React or Vue?",
+            "answer": "Angular offers a full-fledged framework with built-in tools, while React and Vue focus on flexibility and lighter setups."
+        },
+        {
+            "question": "Does Angular support server-side rendering?",
+            "answer": "Yes, Angular Universal enables server-side rendering for better performance and SEO."
+        }
+    ]
+}

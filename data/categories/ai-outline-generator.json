@@ -1,0 +1,61 @@
+{
+    "title": "The Best 5 AI Outline Generator Tools in 2025",
+    "summary": "Unlock your creativity with our AI Outline Generator tools, designed to streamline your writing process and enhance productivity. These innovative solutions help you effortlessly create structured outlines for essays, articles, and projects, saving you time and reducing writer's block. With intuitive features and customizable options, you can focus on your ideas while the AI handles the organization. Explore our curated selection of AI Outline Generators today and transform your writing experience—your next masterpiece is just an outline away!",
+    "tools": [
+        {
+            "id": "401",
+            "name": "Jenni AI",
+            "slug": "jenni-ai",
+            "description": "Jenni AI is an AI-powered writing assistant designed to enhance academic and creative writing with real-time suggestions and citation tools.",
+            "icon": "/logo/jenni.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-outline-generator"
+            ]
+        },
+        {
+            "id": "716",
+            "name": "Khanmigo",
+            "slug": "khanmigo-ai",
+            "description": "Khanmigo is an AI-powered educational platform by Khan Academy, offering personalized tutoring for students and time-saving tools for teachers.",
+            "icon": "/logo/www.khanmigo.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-outline-generator"
+            ]
+        },
+        {
+            "id": "914",
+            "name": "MyLens.ai",
+            "slug": "mylens-ai",
+            "description": "MyLens.ai is an AI-powered platform that allows users to generate interactive timelines, mind maps, and charts from natural language descriptions to visualize information effortlessly.",
+            "icon": "/logo/mylens.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-outline-generator"
+            ]
+        },
+        {
+            "id": "1069",
+            "name": "Sheets Resume",
+            "slug": "sheets-resume",
+            "description": "Sheets Resume is an AI-powered platform that helps users build, tailor, and optimize professional resumes quickly and affordably.",
+            "icon": "/logo/sheetsresume.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-outline-generator"
+            ]
+        },
+        {
+            "id": "1149",
+            "name": "Notebook.ai",
+            "slug": "notebook-ai",
+            "description": "Notebook.ai is a platform designed for writers and roleplayers to create and manage rich, immersive worlds for their stories and campaigns, offering core worldbuilding tools for free.",
+            "icon": "/logo/www.notebook.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-outline-generator"
+            ]
+        }
+    ]
+}

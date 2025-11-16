@@ -1,0 +1,66 @@
+{
+    "name": "Tipsy Chat",
+    "description": "Tipsy Chat is an AI-driven platform for unfiltered role-playing and storytelling with customizable virtual characters.",
+    "longDescription": "Tipsy Chat is an innovative AI-powered platform designed for immersive, unfiltered role-playing and storytelling, allowing users to create and interact with personalized virtual characters. Operated by LIGHTSPEED INTELLIGENCE LTD, it offers a judgment-free environment where users can explore diverse narratives, from romantic adventures to fantasy worlds, without content restrictions. The platform supports both safe-for-work (SFW) and not-safe-for-work (NSFW) interactions, catering to fanfiction enthusiasts and creative writers. Its mission is to empower users to unleash their creativity through advanced AI models like Claude Sonnet and DeepSeek, fostering meaningful connections and personalized experiences. Tipsy Chat provides a secure, ad-free space where users can craft unique storylines and share creations with a vibrant community. It is accessible on web and mobile platforms, with features like real-time image and video generation enhancing the immersive experience.",
+    "url": "https://tipsy.chat/?utm_source=ainavdir",
+    "screenshot": "/screenshot/tipsy.chat.webp",
+    "category": "AI Roleplay",
+    "categorySlug": "ai-roleplay",
+    "slug": "tipsy-chat",
+    "categories": [
+        "AI Roleplay",
+        "AI Character",
+        "AI Story Generator",
+        "AI Image Generator",
+        "AI Video Generator",
+        "NSFW",
+        "AI Fanfic Generator",
+        "AI Language Learning",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "Unfiltered AI roleplay enables unrestricted SFW and NSFW interactions for limitless creative expression.",
+        "Customizable AI characters allow users to design unique companions tailored to their preferences.",
+        "Real-time image and video generation visually brings stories and characters to life as narratives unfold.",
+        "Multi-language support facilitates seamless interactions with AI characters in over 10 languages.",
+        "Advanced AI models like Claude Sonnet and DeepSeek ensure intelligent, responsive, and human-like conversations.",
+        "Community sharing features let users connect with others to share creations and inspire new storylines.",
+        "Adjustable message length and memory standards allow users to tailor the chat experience to their needs.",
+        "Ad-free environment ensures a distraction-free space for immersive storytelling and role-playing.",
+        "Daily check-in tasks offer free gems, enabling continued use without mandatory subscriptions."
+    ],
+    "faqs": [
+        {
+            "question": "What is Tipsy Chat?",
+            "answer": "Tipsy Chat is an AI-powered platform for unfiltered role-playing and storytelling, where users can create and interact with customizable virtual characters in a judgment-free environment."
+        },
+        {
+            "question": "Is Tipsy Chat free to use?",
+            "answer": "Yes, Tipsy Chat offers a free plan with unlimited chats and character creation, though advanced features and higher memory capacities require a subscription or earning gems through tasks."
+        },
+        {
+            "question": "Can I customize my own AI characters?",
+            "answer": "Yes, users can design personalized AI companions, such as romantic partners or anime-inspired characters, tailoring their personalities and storylines."
+        },
+        {
+            "question": "What types of content are allowed on Tipsy Chat?",
+            "answer": "Tipsy Chat supports both SFW and NSFW content, allowing users over 18 to engage in unrestricted roleplay while adhering to community guidelines."
+        },
+        {
+            "question": "Which platforms is Tipsy Chat available on?",
+            "answer": "Tipsy Chat is accessible on web browsers, Android, and iOS devices through dedicated apps."
+        },
+        {
+            "question": "How does the memory capacity affect my experience?",
+            "answer": "Higher memory capacities (e.g., 8k or 32k) allow AI characters to remember more conversation details, resulting in smoother, more personalized interactions compared to the 4k free plan."
+        },
+        {
+            "question": "How can I earn gems to use Tipsy Chat for free?",
+            "answer": "Users can earn gems through daily check-ins and other tasks, which can be used to access advanced features without a subscription."
+        },
+        {
+            "question": "Is Tipsy Chat safe and private?",
+            "answer": "Tipsy Chat prioritizes user privacy with secure data transfer and offers options to create private characters, ensuring a safe and judgment-free experience."
+        }
+    ]
+}

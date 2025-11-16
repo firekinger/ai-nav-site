@@ -1,0 +1,71 @@
+{
+    "name": "Limitless",
+    "description": "Limitless provides AI-powered wearable technology and software to enhance memory and productivity by capturing and analyzing conversations.",
+    "longDescription": "Limitless is a company that develops AI-driven wearable technology and software to augment human memory and productivity. Its flagship product, the Limitless Pendant, is a stylish, wearable device that records conversations and integrates with apps to provide transcription, summaries, and insights. The platform aims to help users overcome biological memory limitations by preserving and organizing spoken interactions, such as meetings or personal reflections. By combining hardware and AI, Limitless enables users to retrieve specific details, generate task lists, and gain insights into communication patterns. The company emphasizes privacy with features like consent mode and HIPAA-compliant data protection. Founded by Dan Siroker, Limitless is backed by notable investors and focuses on seamless, privacy-conscious human-AI interaction.",
+    "url": "https://www.limitless.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.limitless.ai.webp",
+    "category": "AI Assistant",
+    "categorySlug": "ai-assistant",
+    "slug": "limitless-ai",
+    "categories": [
+        "AI Assistant",
+        "AI Dialogue Generator",
+        "AI Speech Recognition",
+        "AI Note Taker",
+        "AI Transcription",
+        "AI Writing Assistants",
+        "AI Task Management",
+        "AI API",
+        "AI Chat Generator"
+    ],
+    "features": [
+        "The Limitless Pendant records audio from meetings and conversations, enabling users to capture and revisit important moments with clarity.",
+        "AI-powered transcription automatically converts recorded audio into text, making it searchable and easy to review.",
+        "The platform generates summaries of conversations, highlighting key points and action items to boost productivity.",
+        "Consent mode ensures only authorized voices are recorded, prioritizing user privacy and ethical recording practices.",
+        "Integration with tools like Zoom, Slack, and Google Meet allows seamless use in professional settings.",
+        "The Limitless API enables developers to build custom integrations, accessing conversation data for personalized applications.",
+        "An intuitive app for web, Mac, Windows, and iOS provides easy access to lifelogs, transcriptions, and AI-driven insights.",
+        "Personalized AI answers user queries about past conversations, such as retrieving specific details or recommendations.",
+        "The Pendant’s 100-hour battery life and durable, weatherproof design ensure reliable, all-day use.",
+        "Bookmarking allows users to tap the Pendant to mark significant moments for quick retrieval later."
+    ],
+    "faqs": [
+        {
+            "question": "What is the Limitless Pendant?",
+            "answer": "The Limitless Pendant is a wearable device that records audio from conversations and meetings, syncing with AI-powered apps to transcribe and analyze the content."
+        },
+        {
+            "question": "Does Limitless offer a free plan?",
+            "answer": "Yes, Limitless provides a free plan with up to 1,200 minutes (20 hours) of transcription per month, including access to AI features like notes and summaries."
+        },
+        {
+            "question": "Is the Limitless Pendant privacy-focused?",
+            "answer": "Yes, it uses consent mode to record only authorized voices, is HIPAA-compliant, and employs industry-standard encryption to protect user data."
+        },
+        {
+            "question": "Can I use the Pendant without a subscription?",
+            "answer": "The Pendant can be used with the free plan, but premium plans like Limitless Pro or Unlimited offer additional transcription hours."
+        },
+        {
+            "question": "What platforms does Limitless support?",
+            "answer": "Limitless offers apps for web, Mac, Windows, and iOS, with an Android app planned for release in Q3 2025."
+        },
+        {
+            "question": "How does the AI summarize conversations?",
+            "answer": "The AI processes recorded audio to identify key points, action items, and insights, presenting them in concise summaries accessible via the app."
+        },
+        {
+            "question": "Can I integrate Limitless with other tools?",
+            "answer": "Yes, Limitless integrates with conferencing tools like Zoom, Slack, and Google Meet, and offers an API for custom integrations."
+        },
+        {
+            "question": "What is the battery life of the Pendant?",
+            "answer": "The Pendant has a 100-hour battery life, allowing for extended use without frequent recharging."
+        },
+        {
+            "question": "How can I cancel my subscription?",
+            "answer": "You can cancel your subscription anytime through the account settings in the Limitless app, with access to benefits until the billing period ends."
+        }
+    ]
+}

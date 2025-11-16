@@ -1,0 +1,78 @@
+{
+    "name": "Mapify",
+    "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+    "longDescription": "Mapify is an innovative AI-driven platform designed to simplify complex information by converting diverse content, such as PDFs, YouTube videos, and webpages, into interactive mind maps. Its mission is to streamline knowledge organization, making it easier for users to grasp key insights quickly. By leveraging advanced AI models like Claude and ChatGPT, Mapify automates the creation of visual summaries, saving time for students, professionals, and content creators. The platform supports multiple languages and input formats, catering to a global audience. It solves the problem of information overload by providing a visual, intuitive way to process and retain complex data. Mapify also fosters collaboration through easy sharing and export options, enhancing workflows across education, business, and personal projects.",
+    "url": "https://mapify.so/?utm_source=ainavdir",
+    "screenshot": "/screenshot/mapify.so.webp",
+    "category": "AI Mind Mapping",
+    "categorySlug": "ai-mind-mapping",
+    "slug": "mapify",
+    "categories": [
+        "AI Mind Mapping",
+        "AI Article Summarizer",
+        "AI Infographic Generator",
+        "AI Language Learning",
+        "AI Project Management",
+        "AI Productivity Tools",
+        "AI Chatbot",
+        "AI Content Detector",
+        "AI Video Summarizer",
+        "AI Document Extraction"
+    ],
+    "features": [
+        "Converts PDFs, Word documents, and PowerPoint presentations into structured mind maps, simplifying complex documents in minutes.",
+        "Summarizes YouTube videos into mind maps with timestamps, allowing users to navigate key moments directly.",
+        "Transforms webpages into concise visual summaries, enabling quick comprehension of news or reports.",
+        "Supports translation and summarization in over 30 languages, making foreign content accessible.",
+        "Offers an AI chatbot to interact with mind maps, helping users clarify doubts and add insights.",
+        "Enables online search integration to enrich mind maps with reliable source links.",
+        "Allows instant expansion of mind map branches to uncover deeper insights or ideas.",
+        "Provides customizable editing with keyboard shortcuts for quick structure and layout adjustments.",
+        "Supports exporting mind maps as images, PDFs, Markdown, or Xmind files for easy sharing.",
+        "Facilitates collaborative workflows by sharing mind maps via links for team projects.",
+        "Generates mind maps from audio files or podcasts, extracting key points for visual organization.",
+        "Offers interactive templates for specific tasks like project planning or brainstorming."
+    ],
+    "faqs": [
+        {
+            "question": "What types of content can Mapify convert into mind maps?",
+            "answer": "Mapify supports PDFs, Word documents, PowerPoint presentations, YouTube videos, webpages, images, and audio files, transforming them into structured mind maps."
+        },
+        {
+            "question": "Is there a free plan available for Mapify?",
+            "answer": "Yes, Mapify offers a free plan with limited credits, allowing users to try core features like mind map generation, though some advanced features require a paid plan."
+        },
+        {
+            "question": "How does Mapify help with studying?",
+            "answer": "Mapify converts educational materials into interactive mind maps, making complex topics easier to understand and improving retention through visual learning."
+        },
+        {
+            "question": "Can I edit the mind maps created by Mapify?",
+            "answer": "Yes, users can manually edit and customize mind maps using intuitive clicks or keyboard shortcuts to adjust structure, layout, or content."
+        },
+        {
+            "question": "Does Mapify support collaboration?",
+            "answer": "Mapify allows users to share mind maps via links or export them in various formats, facilitating teamwork and collaboration on projects."
+        },
+        {
+            "question": "How does the AI chatbot feature work?",
+            "answer": "The AI chatbot lets users interact with their mind maps to ask questions, clarify content, or add new insights, enhancing understanding."
+        },
+        {
+            "question": "What languages does Mapify support?",
+            "answer": "Mapify supports over 30 languages for translation and summarization, making it ideal for processing foreign documents or videos."
+        },
+        {
+            "question": "Can I use Mapify on mobile devices?",
+            "answer": "Yes, Mapify is available as a mobile app on iOS and Android, allowing users to create and manage mind maps on the go."
+        },
+        {
+            "question": "How secure is my data on Mapify?",
+            "answer": "Mapify prioritizes user privacy with a clear policy outlined at https://mapify.so/privacy, ensuring data safety and compliance."
+        },
+        {
+            "question": "What are the export options for mind maps?",
+            "answer": "Mind maps can be exported as images, PDFs, Markdown, SVG, or Xmind files, offering flexibility for different use cases."
+        }
+    ]
+}

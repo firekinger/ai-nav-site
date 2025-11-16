@@ -1,0 +1,28 @@
+{
+    "title": "The Best 2 AI Novel Tools in 2025",
+    "summary": "Discover the world of AI Novel tools, designed to revolutionize your writing experience. These innovative solutions harness the power of artificial intelligence to help you brainstorm ideas, develop characters, and craft compelling narratives with ease. Whether you're a seasoned author or a budding storyteller, AI Novel tools streamline your creative process, enhance productivity, and inspire fresh perspectives. Explore our curated selection of cutting-edge tools today and unlock your storytelling potential. Dive in now to transform your writing journey!",
+    "tools": [
+        {
+            "id": "362",
+            "name": "AI Novel",
+            "slug": "ai-novel",
+            "description": "AI Novel is a platform for creating, sharing, and exploring AI-generated novels and web stories.",
+            "icon": "/logo/ai-novel.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-novel"
+            ]
+        },
+        {
+            "id": "525",
+            "name": "RedQuill",
+            "slug": "redquill",
+            "description": "RedQuill is an AI-powered platform for generating and sharing personalized spicy and erotic stories.",
+            "icon": "/logo/www.redquill.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-novel"
+            ]
+        }
+    ]
+}

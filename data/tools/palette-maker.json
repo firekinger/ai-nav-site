@@ -1,0 +1,71 @@
+{
+    "name": "Palette Maker",
+    "description": "Palette Maker is an online tool that leverages AI to generate, customize, and extract color palettes for designers and creative professionals.",
+    "longDescription": "Palette Maker is a web-based platform dedicated to simplifying color palette creation for artists, designers, and developers. Its mission is to democratize access to professional-grade color tools by using AI algorithms to analyze and suggest harmonious color schemes. Users can upload images to automatically extract dominant colors or manually build palettes with intuitive editing features. The site addresses common challenges in design workflows, such as achieving color balance and accessibility, by providing AI-driven recommendations and simulations. It serves a wide range of users, from hobbyists to professionals, by offering free core functionality with options for advanced customization. Ultimately, Palette Maker empowers creativity by making color theory accessible and efficient.",
+    "url": "https://palettemaker.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/palettemaker.com.webp",
+    "category": "AI Color Palette Generator",
+    "categorySlug": "ai-color-palette-generator",
+    "slug": "palette-maker",
+    "categories": [
+        "AI Color Palette Generator",
+        "AI Design Assistant",
+        "AI Workflow",
+        "AI Art Generator",
+        "AI Graphic Design"
+    ],
+    "features": [
+        "AI-driven color extraction from uploaded images, allowing users to instantly generate palettes inspired by real-world visuals for authentic design inspiration.",
+        "Customizable palette editing tools that enable adjustments to hue, saturation, and brightness, helping users refine colors to match their project's aesthetic needs.",
+        "Automated palette generation based on themes or moods, using AI to suggest harmonious combinations that save time and enhance creativity.",
+        "Color theory analysis features that evaluate palette harmony and contrast, ensuring designs are visually appealing and effective.",
+        "Export functionality in formats like CSS, SVG, and Adobe-compatible files, facilitating easy integration into various design software and workflows.",
+        "Pre-built palette library with thousands of options, providing quick inspiration and starting points for users facing creative blocks.",
+        "Accessibility checker that simulates color blindness views, helping users create inclusive designs that work for all audiences.",
+        "Sharing and collaboration tools to export and send palettes to teams, streamlining group projects and feedback processes.",
+        "Trend-based suggestions powered by AI, keeping users updated with current color trends in design and branding.",
+        "Manual color picker with hex, RGB, and HSL support, offering precise control for users who prefer hands-on customization."
+    ],
+    "faqs": [
+        {
+            "question": "What is Palette Maker?",
+            "answer": "Palette Maker is an AI-powered online tool for creating and managing color palettes. It helps designers extract colors from images or generate new ones based on AI suggestions."
+        },
+        {
+            "question": "Is Palette Maker free to use?",
+            "answer": "Yes, Palette Maker offers free access to its core features, including color extraction and basic editing. Advanced options may require a premium subscription for unlimited exports and custom themes."
+        },
+        {
+            "question": "How does the AI color extraction work?",
+            "answer": "Upload an image, and the AI analyzes it to identify dominant colors, generating a palette automatically. You can then tweak the results for better fit."
+        },
+        {
+            "question": "Can I export palettes for use in design software?",
+            "answer": "Absolutely, palettes can be exported in formats like CSS, PNG, or ASE for seamless integration with tools like Adobe Photoshop or web development environments."
+        },
+        {
+            "question": "Does Palette Maker support color accessibility checks?",
+            "answer": "Yes, it includes a color blindness simulator to test how palettes appear to users with visual impairments, ensuring inclusive design practices."
+        },
+        {
+            "question": "How can I share my created palettes?",
+            "answer": "You can generate shareable links or export files to collaborate with others. The platform also allows saving palettes to a personal library for easy access."
+        },
+        {
+            "question": "What makes Palette Maker different from other color tools?",
+            "answer": "Its AI integration provides intelligent suggestions based on color theory and trends, making it more intuitive and efficient than manual tools."
+        },
+        {
+            "question": "Can I generate palettes without uploading an image?",
+            "answer": "Yes, you can manually select colors or use AI to generate palettes based on keywords like 'vibrant' or 'pastel' for theme-based creation."
+        },
+        {
+            "question": "Is there a mobile version of Palette Maker?",
+            "answer": "The website is mobile-responsive, allowing users to create and edit palettes on smartphones or tablets without needing a dedicated app."
+        },
+        {
+            "question": "How accurate are the AI-generated palettes?",
+            "answer": "The AI uses advanced algorithms for high accuracy in color harmony, but users can always customize results to suit specific preferences."
+        }
+    ]
+}

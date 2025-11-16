@@ -1,0 +1,67 @@
+{
+    "name": "Nanonets",
+    "description": "Nanonets provides AI-driven document processing and workflow automation for businesses.",
+    "longDescription": "Nanonets is an AI-powered platform designed to automate document processing and data extraction workflows for businesses of all sizes. Leveraging advanced Optical Character Recognition (OCR) and machine learning, it transforms unstructured data from documents like invoices, receipts, and contracts into structured, actionable insights. The platform aims to eliminate repetitive manual tasks, streamline operations, and reduce costs by up to 50%. Trusted by 34% of Fortune 500 companies, Nanonets serves industries such as finance, healthcare, and logistics with scalable, customizable solutions. Its no-code interface and seamless API integrations make it accessible to users without technical expertise, enabling faster and more informed decision-making.",
+    "url": "https://nanonets.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/nanonets.com.webp",
+    "category": "AI Document Extraction",
+    "categorySlug": "ai-document-extraction",
+    "slug": "nanonets",
+    "categories": [
+        "AI Document Extraction",
+        "AI OCR",
+        "AI Workflow",
+        "AI API",
+        "No-Code&Low-Code",
+        "AI Contract Management",
+        "AI Signature Generator"
+    ],
+    "features": [
+        "Advanced OCR extracts text from complex documents like invoices and receipts with 99%+ accuracy, reducing manual data entry.",
+        "Machine learning models automate workflows such as accounts payable and order processing, saving time and costs.",
+        "Seamless API integrations sync with ERPs, CRMs, and workplace apps like Oracle NetSuite and Salesforce for streamlined operations.",
+        "No-code platform allows users to build custom workflows without technical expertise, enhancing accessibility.",
+        "Data extraction from unstructured sources like emails, cloud storage, and tickets converts them into structured formats like CSV or JSON.",
+        "Intelligent decision engines flag, review, and validate data, ensuring accuracy and compliance in business processes.",
+        "Pre-trained models for common document types (e.g., IDs, receipts) enable quick setup and immediate automation.",
+        "Complex table extraction converts tables into markdown or HTML formats, simplifying data processing.",
+        "LaTeX equation recognition converts mathematical formulas into formatted syntax for technical documents.",
+        "Signature detection isolates signatures in legal documents, improving processing efficiency.",
+        "Watermark extraction identifies and tags watermarks, ensuring clean data output.",
+        "Smart checkbox handling converts form checkboxes into standardized Unicode symbols for consistent processing."
+    ],
+    "faqs": [
+        {
+            "question": "What types of documents can Nanonets process?",
+            "answer": "Nanonets can process unstructured documents like invoices, receipts, purchase orders, contracts, claims, and forms, converting them into structured data."
+        },
+        {
+            "question": "Does Nanonets require coding skills to use?",
+            "answer": "No, Nanonets offers a no-code platform, allowing users to create custom workflows easily without technical expertise."
+        },
+        {
+            "question": "How does Nanonets ensure data accuracy?",
+            "answer": "Nanonets uses advanced AI and machine learning to achieve over 99% accuracy, with decision engines to flag and validate data."
+        },
+        {
+            "question": "Can Nanonets integrate with my existing systems?",
+            "answer": "Yes, Nanonets integrates seamlessly with ERPs, CRMs, and apps like QuickBooks, Salesforce, and Oracle NetSuite via APIs."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Nanonets offers a free plan with $200 in credits upon signup, followed by pay-as-you-go pricing for continued use."
+        },
+        {
+            "question": "What industries benefit from Nanonets?",
+            "answer": "Nanonets serves industries like finance, healthcare, logistics, and insurance by automating document-heavy processes."
+        },
+        {
+            "question": "How does Nanonets handle complex documents?",
+            "answer": "Nanonets uses AI to understand document context and structure, handling varied layouts without predefined templates."
+        },
+        {
+            "question": "What is the processing speed of Nanonets?",
+            "answer": "Nanonets can reduce processing times significantly, for example, cutting invoice processing from 15 minutes to under a minute."
+        }
+    ]
+}

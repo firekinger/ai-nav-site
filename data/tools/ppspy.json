@@ -1,0 +1,65 @@
+{
+    "name": "PPSPY",
+    "description": "PPSPY is an AI-powered Shopify spy tool for dropshipping and sales tracking, helping merchants analyze competitors and discover winning products.",
+    "longDescription": "PPSPY is a specialized Shopify analytics and dropshipping tool designed to empower e-commerce entrepreneurs by providing actionable insights into competitor stores and market trends. Utilizing AI technology, it tracks sales data, identifies top-selling products, and analyzes store performance to enhance dropshipping success. The platform serves Shopify merchants, dropshippers, and marketing professionals by offering tools to monitor competitor strategies, optimize product selection, and improve store design. With a user-friendly interface and a Chrome extension, PPSPY simplifies market research and competitive analysis. Its mission is to streamline e-commerce operations, helping users make data-driven decisions to boost profitability. The tool is particularly valued for its ability to uncover niche markets and trending products, making it an essential resource for Shopify store owners.",
+    "url": "https://www.ppspy.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.ppspy.com.webp",
+    "category": "AI Research Tool",
+    "categorySlug": "ai-research-tool",
+    "slug": "ppspy",
+    "categories": [
+        "AI Research Tool",
+        "AI Sales",
+        "AI Product Description Generator",
+        "AI Predictions",
+        "AI For Data Analytics",
+        "AI Marketing",
+        "AI Design Generator"
+    ],
+    "features": [
+        "Sales Tracking provides real-time insights into competitor store sales, enabling users to monitor revenue trends and optimize strategies.",
+        "Product Explorer uses AI to identify top-selling products across Shopify stores, helping users select profitable items for dropshipping.",
+        "Shop Explorer allows filtering of Shopify stores by revenue, search volume, and keywords to uncover competitive insights.",
+        "Ad Library monitors Facebook and TikTok ad campaigns, revealing competitors' advertising strategies and creative trends.",
+        "Theme and App Detector identifies installed Shopify apps and themes, providing insights into competitors' store functionality and design.",
+        "Product Review Export enables users to download and analyze competitor product reviews to understand buyer preferences.",
+        "Traffic Analysis tracks competitors' traffic sources, helping users optimize marketing channels for better customer acquisition.",
+        "One-Click Product Import simplifies adding winning products to users' stores with easy export and download features.",
+        "Live Sales Monitoring delivers real-time order and revenue data, allowing users to react quickly to market shifts.",
+        "AI-Powered Product Recommendations suggest high-demand products based on sales and revenue trends, increasing success rates."
+    ],
+    "faqs": [
+        {
+            "question": "What is PPSPY used for?",
+            "answer": "PPSPY is a Shopify spy tool that helps dropshippers and store owners track competitor sales, discover trending products, and analyze market trends using AI-driven insights."
+        },
+        {
+            "question": "Is PPSPY free to use?",
+            "answer": "Yes, PPSPY offers a free plan with limited features, allowing users to test core functionalities without a subscription."
+        },
+        {
+            "question": "How accurate is PPSPY’s sales tracking?",
+            "answer": "PPSPY claims over 80.5% accuracy in sales estimates, though some users report occasional discrepancies in live sales data."
+        },
+        {
+            "question": "Can PPSPY help with store design?",
+            "answer": "Yes, PPSPY’s Theme Detector provides insights into competitors’ Shopify themes, inspiring effective store design strategies."
+        },
+        {
+            "question": "Does PPSPY support platforms other than Shopify?",
+            "answer": "No, PPSPY is exclusively designed for Shopify stores and is not compatible with other e-commerce platforms."
+        },
+        {
+            "question": "How does the Chrome extension work?",
+            "answer": "The PPSPY Chrome extension activates on Shopify store pages, providing instant analytics like sales data, installed apps, and product trends."
+        },
+        {
+            "question": "Can I cancel my PPSPY subscription?",
+            "answer": "Yes, users can cancel subscriptions via the Account > Subscription page, with no charges applied post-cancellation."
+        },
+        {
+            "question": "Does PPSPY offer a trial?",
+            "answer": "Yes, PPSPY provides a free trial without requiring a credit card, allowing users to explore features before committing."
+        }
+    ]
+}

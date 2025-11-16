@@ -1,0 +1,69 @@
+{
+    "name": "VuePak",
+    "description": "VuePak is an AI-powered platform for seamless file transfer and media management across devices.",
+    "longDescription": "VuePak is a innovative app designed to simplify file transfers between phones, computers, and other devices without the need for sign-ups or complicated setups. Its mission is to provide a universal, hassle-free solution for sharing photos, videos, and files cross-platform, acting as a modern alternative to tools like AirDrop. By leveraging smart technology, it solves common problems like compatibility issues between different operating systems and devices. The platform serves users who need quick, secure transfers for personal or professional use, ensuring privacy and ease of use. It stands out by working on any device with a browser, making it accessible for everyone from casual users to professionals.",
+    "url": "https://www.vuepak.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vuepak.com.webp",
+    "category": "AI Marketing",
+    "categorySlug": "ai-marketing",
+    "slug": "vuepak",
+    "categories": [
+        "AI Marketing",
+        "AI QR Code Generator"
+    ],
+    "features": [
+        "Effortless file transfer between any devices using a simple code or QR scan, eliminating the need for accounts or apps on all sides.",
+        "Cross-platform compatibility that works seamlessly with iOS, Android, Windows, macOS, and more for universal accessibility.",
+        "Secure end-to-end encryption to protect files during transfer, ensuring user privacy and data security.",
+        "No size limits on transfers, allowing users to send large files like videos or photo albums without restrictions.",
+        "Real-time progress tracking so users can monitor the status of their transfers easily.",
+        "Offline mode support for transfers via local Wi-Fi, ideal for situations without internet access.",
+        "Batch file uploading feature that lets users select and send multiple files at once for efficiency.",
+        "Automatic file organization on receipt, sorting transferred media into folders for better management.",
+        "QR code generation for quick sharing, making it simple to initiate transfers with a scan.",
+        "Integration with cloud storage services to directly upload transferred files to drives like Google Drive or Dropbox.",
+        "Customizable transfer links with expiration times for added security and control."
+    ],
+    "faqs": [
+        {
+            "question": "What is VuePak?",
+            "answer": "VuePak is a file transfer app that allows you to send photos, videos, and files between devices easily without signing up. It works like a universal AirDrop for any platform."
+        },
+        {
+            "question": "Do I need to install an app on all devices?",
+            "answer": "No, you only need the app on your mobile device; computers can receive files via a web browser without installation."
+        },
+        {
+            "question": "Is VuePak free to use?",
+            "answer": "Yes, VuePak offers free access to its core transfer features, with optional premium upgrades for advanced options like larger file sizes."
+        },
+        {
+            "question": "How secure is the file transfer?",
+            "answer": "Transfers are protected with end-to-end encryption, ensuring only the intended recipient can access the files. No data is stored on VuePak servers."
+        },
+        {
+            "question": "Can I transfer files offline?",
+            "answer": "Yes, if devices are on the same Wi-Fi network, you can transfer files offline without internet."
+        },
+        {
+            "question": "What file types are supported?",
+            "answer": "VuePak supports all common file types, including photos, videos, documents, and more, with no restrictions on format."
+        },
+        {
+            "question": "How do I start a transfer?",
+            "answer": "Select files in the app, generate a code or QR, and share it with the recipient device to initiate the transfer."
+        },
+        {
+            "question": "Is there a limit on file size?",
+            "answer": "The free version has no strict limits, but very large files may require a premium subscription for optimal speed."
+        },
+        {
+            "question": "Does VuePak work internationally?",
+            "answer": "Yes, as long as devices have internet or are on the same network, it works globally without geographic restrictions."
+        },
+        {
+            "question": "Can I use VuePak for business?",
+            "answer": "Absolutely, it's great for teams needing quick file sharing; premium plans offer features like team accounts and analytics."
+        }
+    ]
+}

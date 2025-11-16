@@ -1,0 +1,75 @@
+{
+    "name": "Jarvis",
+    "description": "Jarvis is an AI-powered content generation platform that assists users in creating high-quality marketing copy, blog posts, and other written materials efficiently.",
+    "longDescription": "Jarvis, which has been rebranded to Jasper, is an AI-driven writing assistant designed to help businesses and individuals generate compelling content quickly. Its mission is to eliminate writer's block and streamline content creation processes for marketing teams, bloggers, and creators by leveraging advanced natural language processing technology. The platform serves users by providing customizable content based on specific inputs like tone, style, and keywords, making it easier to produce SEO-optimized materials. It solves key problems such as time-consuming writing tasks and lack of inspiration, enabling users to scale their content output without sacrificing quality. Overall, Jarvis empowers users to focus on strategy and creativity while the AI handles the heavy lifting of drafting.",
+    "url": "https://jarvis.cx/?utm_source=ainavdir",
+    "screenshot": "/screenshot/jarvis.cx.webp",
+    "category": "AI Text Generator",
+    "categorySlug": "ai-text-generator",
+    "slug": "jarvis",
+    "categories": [
+        "AI Text Generator",
+        "AI Copywriting",
+        "AI SEO Tools",
+        "AI Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Project Management",
+        "AI Language Learning",
+        "AI Blog Generator",
+        "AI Ad Generator"
+    ],
+    "features": [
+        "AI-powered content generation that creates original text for blogs, emails, and ads based on user prompts, saving time and boosting productivity.",
+        "Pre-built templates for various content types like social media posts and product descriptions, allowing quick customization and consistent output.",
+        "SEO optimization tools that suggest keywords and improve content structure to enhance search engine rankings and visibility.",
+        "Brand voice customization feature that matches generated content to a company's specific tone and style for authentic branding.",
+        "Collaboration mode enabling teams to edit and refine AI-generated content in real-time for better teamwork.",
+        "Plagiarism detection integrated to ensure all output is original and free from copied material.",
+        "Content improver tool that refines existing text by making it more engaging, concise, or persuasive.",
+        "Integration with popular platforms like WordPress and Google Docs for seamless workflow incorporation.",
+        "Long-form assistant for generating detailed articles or reports from brief outlines.",
+        "Multi-language support to create content in various languages, expanding global reach."
+    ],
+    "faqs": [
+        {
+            "question": "What is Jarvis?",
+            "answer": "Jarvis is an AI writing tool that helps users generate high-quality content for marketing and other purposes. It uses advanced AI to produce text based on user inputs."
+        },
+        {
+            "question": "How does Jarvis differ from other AI writing tools?",
+            "answer": "Jarvis focuses on marketing-specific content with features like brand voice matching and SEO tools. It offers templates tailored for business use, setting it apart from general-purpose writers."
+        },
+        {
+            "question": "Is there a free trial for Jarvis?",
+            "answer": "Yes, Jarvis offers a free trial that allows limited access to its core features. This helps users test the platform before committing to a paid plan."
+        },
+        {
+            "question": "Can Jarvis generate content in multiple languages?",
+            "answer": "Yes, Jarvis supports content generation in several languages. Users can specify the language in their prompts for accurate results."
+        },
+        {
+            "question": "How does Jarvis ensure content originality?",
+            "answer": "Jarvis includes a built-in plagiarism checker. It generates original content and flags any potential issues for review."
+        },
+        {
+            "question": "What types of content can Jarvis create?",
+            "answer": "Jarvis can create blog posts, social media captions, email campaigns, ad copy, and more. It provides templates for over 50 content types to suit various needs."
+        },
+        {
+            "question": "Is Jarvis suitable for teams?",
+            "answer": "Yes, Jarvis has collaboration features for multiple users to work on projects simultaneously. It supports team accounts with shared access and editing capabilities."
+        },
+        {
+            "question": "Does Jarvis integrate with other tools?",
+            "answer": "Jarvis integrates with platforms like Grammarly, Surfer SEO, and CMS systems. This allows for a smoother content creation and publishing process."
+        },
+        {
+            "question": "How secure is my data with Jarvis?",
+            "answer": "Jarvis uses enterprise-grade security measures to protect user data. It complies with privacy regulations and does not store generated content without permission."
+        },
+        {
+            "question": "Can I customize the AI's output?",
+            "answer": "Yes, users can input specific instructions for tone, length, and style. This ensures the generated content aligns with individual or brand preferences."
+        }
+    ]
+}

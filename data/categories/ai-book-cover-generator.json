@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Book Cover Generator Tools in 2025",
+    "summary": "Discover the power of creativity with our AI Book Cover Generator category! These innovative tools empower authors and publishers to design stunning, professional-quality book covers in minutes. Say goodbye to expensive design services and hello to customizable templates that reflect your unique vision. Whether you're self-publishing or enhancing your brand, our AI solutions streamline the design process, saving you time and effort. Explore our curated selection of AI book cover generators today and transform your literary project into a visual masterpiece! Start creating now!",
+    "tools": [
+        {
+            "id": "903",
+            "name": "EbookMaker.ai",
+            "slug": "ebookmaker-ai",
+            "description": "EbookMaker.ai is an AI-powered platform that simplifies ebook creation by generating content, covers, and layouts from user prompts.",
+            "icon": "/logo/ebookmaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-cover-generator"
+            ]
+        }
+    ]
+}

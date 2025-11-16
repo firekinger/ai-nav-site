@@ -1,0 +1,58 @@
+{
+    "name": "PhotoAI",
+    "description": "PhotoAI generates personalized AI-powered photos and headshots for social media and professional use.",
+    "longDescription": "PhotoAI.me is an innovative platform that leverages advanced artificial intelligence to create photorealistic images and headshots from user-uploaded photos. Users can transform their selfies into professional-grade visuals for platforms like Tinder, LinkedIn, and Instagram, enhancing their online presence. The platform offers various style packages, such as vintage Polaroid or professional headshots, to cater to diverse user needs. By uploading at least 10-20 photos, the AI trains a model to generate consistent, high-quality images in a few hours. PhotoAI prioritizes user data security and privacy, ensuring safe storage and processing through Stripe payments. It solves the problem of expensive photoshoots by providing an affordable, efficient alternative for creating stunning visuals.",
+    "url": "https://photoai.me/?utm_source=ainavdir",
+    "screenshot": "/screenshot/photoai.me.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "photoai",
+    "categories": [
+        "AI Image Generator",
+        "AI Avatar Generator",
+        "AI Photo Enhancer",
+        "AI Headshot Generator",
+        "AI Style Transfer",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "AI-generated photos create over 100 personalized images from user uploads for social media or professional profiles.",
+        "Style packages offer themed photo collections like Tinder, LinkedIn, or vintage Polaroid for varied aesthetics.",
+        "Fast processing delivers AI-generated photos within a few hours after uploading selfies.",
+        "Secure payments through Stripe ensure safe transactions with multiple payment options like credit cards.",
+        "High resemblance technology ensures generated photos closely match the user's appearance.",
+        "User data privacy is prioritized with secure storage and measures to protect personal information.",
+        "Batch processing allows users to generate thousands of photos quickly for multiple models or campaigns.",
+        "Customizable outputs let users select specific styles, moods, or effects for their AI photos."
+    ],
+    "faqs": [
+        {
+            "question": "How does PhotoAI.me work?",
+            "answer": "Users upload 10-20 photos, select a style package, and the AI generates over 100 personalized images within hours."
+        },
+        {
+            "question": "Is PhotoAI.me free to use?",
+            "answer": "PhotoAI.me is not free; it offers paid packages starting at 20 cents per image, processed securely via Stripe."
+        },
+        {
+            "question": "How many photos should I upload for best results?",
+            "answer": "For optimal results, upload at least 20 close-up photos with varied angles, expressions, and settings."
+        },
+        {
+            "question": "Can I upload photos of other people?",
+            "answer": "PhotoAI.me is designed for personal use, and uploading others' photos without consent may violate privacy rights."
+        },
+        {
+            "question": "How long does it take to receive my AI photos?",
+            "answer": "Photos are typically delivered within a few hours after uploading and processing."
+        },
+        {
+            "question": "Is my data safe with PhotoAI.me?",
+            "answer": "Yes, PhotoAI.me securely stores photos and personal data on protected servers with privacy measures in place."
+        },
+        {
+            "question": "What types of photos can I create with PhotoAI.me?",
+            "answer": "You can create professional headshots, social media profile pictures, vintage-style photos, and more using themed packages."
+        }
+    ]
+}

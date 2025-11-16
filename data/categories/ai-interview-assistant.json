@@ -1,0 +1,248 @@
+{
+    "title": "The Best 23 AI Interview Assistant Tools in 2025",
+    "summary": "Unlock the future of hiring with our AI Interview Assistant tools. Designed to streamline the recruitment process, these innovative solutions help you craft tailored interview questions, assess candidate responses, and enhance decision-making. By leveraging advanced AI technology, you can save time, reduce bias, and improve candidate experience. Whether you're a recruiter or a hiring manager, our curated selection of AI Interview Assistants will elevate your hiring strategy. Explore our tools today and transform the way you connect with talent!",
+    "tools": [
+        {
+            "id": "95",
+            "name": "Otter.ai",
+            "slug": "otter-ai",
+            "description": "Otter.ai provides AI-powered transcription and meeting assistant tools to enhance productivity in meetings and note-taking.",
+            "icon": "/logo/otter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "332",
+            "name": "Krisp",
+            "slug": "krisp",
+            "description": "Krisp is an AI-powered platform that enhances online meetings by removing background noise, transcribing, and summarizing conversations for improved productivity.",
+            "icon": "/logo/krisp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "466",
+            "name": "Mercor",
+            "slug": "mercor",
+            "description": "Mercor is an AI-powered hiring platform that connects skilled professionals with global job opportunities.",
+            "icon": "/logo/mercor.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "520",
+            "name": "Careerflow",
+            "slug": "careerflow-ai",
+            "description": "Careerflow provides AI-powered tools to optimize job searches, resumes, and LinkedIn profiles for faster hiring at top companies.",
+            "icon": "/logo/www.careerflow.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "582",
+            "name": "SmallTalk2Me",
+            "slug": "smalltalk2me",
+            "description": "SmallTalk2Me is an AI-powered platform designed to enhance English speaking and writing skills through personalized feedback and simulations.",
+            "icon": "/logo/smalltalk2.me.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "629",
+            "name": "WonsultingAI",
+            "slug": "wonsultingai",
+            "description": "WonsultingAI provides AI-powered tools to streamline job searches, offering resume building, cover letter generation, and interview preparation.",
+            "icon": "/logo/www.wonsulting.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "679",
+            "name": "Yoodli",
+            "slug": "yoodli-ai",
+            "description": "Yoodli is an AI-powered communication coach that provides real-time feedback to improve public speaking and presentation skills.",
+            "icon": "/logo/yoodli.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "704",
+            "name": "EarnBetter",
+            "slug": "earnbetter",
+            "description": "EarnBetter is a free AI-powered platform that streamlines job searches by optimizing resumes, matching jobs, and providing tailored application tools.",
+            "icon": "/logo/earnbetter.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "710",
+            "name": "VMock",
+            "slug": "vmock",
+            "description": "VMock is an AI-driven career acceleration platform that provides personalized resume, cover letter, and interview feedback to students and professionals.",
+            "icon": "/logo/www.vmock.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "843",
+            "name": "Talent Titan",
+            "slug": "talent-titan",
+            "description": "Talent Titan is an AI-powered platform that connects businesses with top talent through intelligent matching and recruitment tools.",
+            "icon": "/logo/talenttitan.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "847",
+            "name": "Jobhire.ai",
+            "slug": "jobhire-ai",
+            "description": "Jobhire.ai is an AI-powered platform that revolutionizes job searching by automating applications, optimizing resumes, and matching users to ideal job opportunities.",
+            "icon": "/logo/jobhire.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "916",
+            "name": "LockedIn AI",
+            "slug": "lockedin-ai",
+            "description": "LockedIn AI is an AI-driven platform that helps users optimize their LinkedIn profiles, generate personalized job application materials, and enhance professional networking.",
+            "icon": "/logo/www.lockedinai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1034",
+            "name": "Wonsulting",
+            "slug": "wonsulting",
+            "description": "Wonsulting is a career development platform that provides AI-powered tools and consulting services to help job seekers optimize their resumes, LinkedIn profiles, and job search strategies.",
+            "icon": "/logo/www.wonsulting.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1069",
+            "name": "Sheets Resume",
+            "slug": "sheets-resume",
+            "description": "Sheets Resume is an AI-powered platform that helps users build, tailor, and optimize professional resumes quickly and affordably.",
+            "icon": "/logo/sheetsresume.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1077",
+            "name": "Outset",
+            "slug": "outset-ai",
+            "description": "Outset is an AI-moderated research platform that enables fast and scalable user interviews, synthesis, and testing for deeper customer insights across product development stages.",
+            "icon": "/logo/outset.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1121",
+            "name": "Hiration",
+            "slug": "hiration",
+            "description": "Hiration is an AI-powered career platform that assists users in building professional resumes, cover letters, and preparing for job interviews to enhance their job search success.",
+            "icon": "/logo/www.hiration.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1132",
+            "name": "Verve AI Interview Copilot",
+            "slug": "verve-ai-interview-copilot",
+            "description": "Verve AI Interview Copilot provides real-time, personalized coaching and assistance during job interviews to help users succeed.",
+            "icon": "/logo/www.vervecopilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1198",
+            "name": "Interviews.chat",
+            "slug": "interviews-chat",
+            "description": "Interviews.chat is an AI-powered platform designed to help users prepare for job interviews through simulated conversations and personalized feedback.",
+            "icon": "/logo/www.interviews.chat.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1236",
+            "name": "Interviewer.ai",
+            "slug": "interviewer-ai",
+            "description": "Interviewer.ai is an AI-powered platform that automates job interviews, screens candidates, and provides data-driven insights to streamline the hiring process for businesses.",
+            "icon": "/logo/interviewer.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1400",
+            "name": "Biography Studio AI",
+            "slug": "biography-studio-ai",
+            "description": "Biography Studio AI is an AI-powered platform that transforms spoken personal life stories into professionally written books, audiobooks, or podcasts.",
+            "icon": "/logo/www.biographystudio.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1372",
+            "name": "Tako",
+            "slug": "tako",
+            "description": "Tako is an AI-powered platform that streamlines customer research by automating interviews, transcriptions, and insights generation.",
+            "icon": "/logo/trytako.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        },
+        {
+            "id": "1424",
+            "name": "NTRVSTA",
+            "slug": "ntrvsta",
+            "description": "NTRVSTA is an AI-powered platform that automates interviews to make hiring more efficient, fair, and engaging for companies and candidates.",
+            "icon": "/logo/www.ntrvsta.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-interview-assistant"
+            ]
+        }
+    ]
+}

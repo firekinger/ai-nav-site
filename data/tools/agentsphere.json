@@ -1,0 +1,63 @@
+{
+    "name": "Agentsphere",
+    "description": "Agentsphere is a platform for building, deploying, and managing collaborative AI agents to automate complex tasks and workflows.",
+    "longDescription": "Agentsphere is an innovative AI platform that allows users to create and orchestrate multi-agent systems for solving real-world problems. Its mission is to empower developers, businesses, and enthusiasts to harness the power of autonomous AI agents without requiring advanced programming skills. By providing a virtual 'sphere' where agents can interact and collaborate, it facilitates efficient task automation across various domains. The platform solves challenges in scalability and integration by offering tools for seamless deployment and monitoring. Ultimately, Agentsphere aims to advance the adoption of AI-driven automation in everyday applications.",
+    "url": "https://www.agentsphere.run/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.agentsphere.run.webp",
+    "category": "AI Agent",
+    "categorySlug": "ai-agent",
+    "slug": "agentsphere",
+    "categories": [
+        "AI Agent",
+        "AI Productivity Tools",
+        "AI Assistant",
+        "AI API",
+        "AI Task Management",
+        "AI Charting"
+    ],
+    "features": [
+        "Agent Builder Interface: Users can design custom AI agents using a drag-and-drop interface, simplifying the creation process for non-experts.",
+        "Multi-Agent Collaboration: Enables agents to work together in real-time, enhancing problem-solving capabilities through collective intelligence.",
+        "API Integrations: Supports easy connections to external APIs and services, allowing agents to interact with diverse data sources and tools.",
+        "Deployment Automation: Provides one-click deployment options for agents to cloud environments, ensuring quick scalability and reliability.",
+        "Performance Analytics: Offers detailed dashboards to monitor agent performance, usage metrics, and optimization suggestions.",
+        "Security Protocols: Implements robust encryption and access controls to protect agent interactions and user data.",
+        "Template Library: Includes pre-built agent templates for common tasks, accelerating development time for users.",
+        "Real-Time Simulation: Allows testing of agent behaviors in a simulated environment before live deployment.",
+        "Community Sharing: Facilitates a marketplace where users can share, discover, and collaborate on agent designs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Agentsphere?",
+            "answer": "Agentsphere is a platform designed for creating and managing AI agents that can collaborate on tasks. It provides tools for building autonomous systems to automate workflows efficiently."
+        },
+        {
+            "question": "How do I get started with Agentsphere?",
+            "answer": "Sign up for a free account on the website, explore the tutorials, and use the agent builder to create your first AI agent. No prior coding experience is necessary for basic setups."
+        },
+        {
+            "question": "Does Agentsphere support team collaboration?",
+            "answer": "Yes, it allows multiple users to collaborate on agent projects in real-time. Teams can share designs and monitor progress through shared dashboards."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Agentsphere offers a free tier with access to core features and limited agent deployments. Upgrades are available for advanced capabilities and higher usage limits."
+        },
+        {
+            "question": "What industries can benefit from Agentsphere?",
+            "answer": "It's suitable for industries like business automation, research, and development where AI agents can handle repetitive tasks. Examples include marketing, data analysis, and customer service."
+        },
+        {
+            "question": "How secure is Agentsphere?",
+            "answer": "The platform uses industry-standard encryption and compliance measures to ensure data security. Users can set custom permissions for agent access and interactions."
+        },
+        {
+            "question": "Can I integrate Agentsphere with other tools?",
+            "answer": "Yes, it supports integrations with popular APIs and services like Google Workspace or custom databases. This allows agents to pull data from external sources seamlessly."
+        },
+        {
+            "question": "What makes Agentsphere different from other AI platforms?",
+            "answer": "Agentsphere focuses on multi-agent collaboration, enabling complex task handling through agent interactions. Unlike single-agent tools, it simulates team-like AI behaviors for better outcomes."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Nano Banana",
+    "description": "Nano Banana is an AI-driven platform specializing in creative image generation and editing with a focus on whimsical, fruit-inspired designs.",
+    "longDescription": "Nano Banana is a cutting-edge AI website that leverages advanced algorithms to generate and edit images, particularly those incorporating nano-scale details and banana-themed elements for fun and creative purposes. Its mission is to make AI art accessible to everyone, democratizing creative design by allowing users to produce high-quality visuals without professional skills. The platform solves problems related to content creation by offering quick, customizable tools that cater to artists, marketers, and hobbyists. Users can input prompts to create unique artwork, blending nanotechnology concepts with playful themes. Overall, it serves as a bridge between complex AI technology and everyday creativity, encouraging innovation in digital art.",
+    "url": "https://nano-banana.pro/?utm_source=ainavdir",
+    "screenshot": "/screenshot/nano-banana.pro.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "nano-banana-pro",
+    "categories": [
+        "AI Image Generator",
+        "AI Design Assistant",
+        "AI Art Generator",
+        "AI Social Media Post Generator",
+        "AI Prompt Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI-powered image generation that creates detailed visuals from text prompts, enabling users to produce custom artwork effortlessly.",
+        "Advanced editing tools allowing users to modify images at a nano-level precision, enhancing details and textures for professional results.",
+        "Banana-themed templates and filters that add a fun, whimsical twist to designs, perfect for social media and marketing.",
+        "Real-time collaboration features where multiple users can work on the same project, fostering team creativity.",
+        "Integration with social media platforms for direct sharing of generated content, streamlining the workflow from creation to publication.",
+        "Customizable AI models that learn from user preferences to improve output quality over time.",
+        "High-resolution export options supporting various formats, ensuring compatibility with professional design software.",
+        "Free tier with limited generations per day, allowing users to test features before upgrading.",
+        "Prompt optimization suggestions to help users refine their inputs for better results.",
+        "Community gallery where users can browse and draw inspiration from others' creations."
+    ],
+    "faqs": [
+        {
+            "question": "What is Nano Banana primarily used for?",
+            "answer": "Nano Banana is used for AI-driven image generation and editing, focusing on creative designs with a fun twist. It helps users create visuals quickly without needing advanced skills."
+        },
+        {
+            "question": "Is there a free version available?",
+            "answer": "Yes, Nano Banana offers a free plan with limited daily generations and basic features. Users can upgrade for unlimited access and advanced tools."
+        },
+        {
+            "question": "How does the AI generate images?",
+            "answer": "The AI uses text prompts to create images, incorporating elements like nano-scale details and banana themes. It processes inputs through machine learning models to produce customized outputs."
+        },
+        {
+            "question": "Can I collaborate with others on projects?",
+            "answer": "Yes, the platform supports real-time collaboration, allowing multiple users to edit and contribute to the same image project."
+        },
+        {
+            "question": "What makes Nano Banana unique?",
+            "answer": "Its unique blend of nanotechnology-inspired precision and playful banana themes sets it apart, making art creation both sophisticated and entertaining."
+        },
+        {
+            "question": "Is the generated content copyright-free?",
+            "answer": "Content generated on Nano Banana is owned by the user, but it's recommended to check for originality. The platform doesn't claim rights but advises against commercial use of derivative works without verification."
+        },
+        {
+            "question": "How do I get started with Nano Banana?",
+            "answer": "Simply sign up with an email, explore the free tier, and start entering prompts to generate images. Tutorials are available for beginners."
+        },
+        {
+            "question": "Does it support mobile devices?",
+            "answer": "Yes, Nano Banana is optimized for mobile browsers, allowing users to create and edit on the go."
+        },
+        {
+            "question": "What file formats can I export?",
+            "answer": "Exports are available in PNG, JPEG, SVG, and more, with options for high resolution."
+        },
+        {
+            "question": "Is my data secure on the platform?",
+            "answer": "Nano Banana uses encryption and secure servers to protect user data and generated content."
+        }
+    ]
+}

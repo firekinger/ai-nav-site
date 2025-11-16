@@ -1,0 +1,61 @@
+{
+    "name": "Ideogram",
+    "description": "Ideogram is an AI-powered platform that transforms text prompts into stunning, hyper-realistic images to boost creativity.",
+    "longDescription": "Ideogram is an innovative AI text-to-image generator designed to empower users to create high-quality, customized visuals effortlessly. Launched in August 2023 by former Google engineers, it excels at rendering coherent text within images, addressing a key limitation in other generative AI tools. The platform serves designers, marketers, content creators, and businesses by enabling them to produce logos, posters, typography, and photorealistic images from simple text descriptions. Its user-friendly interface and free-to-use model make it accessible to both beginners and professionals, fostering a collaborative community where users can share and draw inspiration from each other’s creations. Ideogram’s mission is to democratize creativity, making advanced design tools available to everyone regardless of artistic skill. The platform continuously evolves with updates like Ideogram Canvas and Magic Prompt to enhance user experience and creative output.",
+    "url": "https://www.ideogram.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/ideogram.ai.webp",
+    "category": "Text to Image",
+    "categorySlug": "text-to-image",
+    "slug": "ideogram",
+    "categories": [
+        "Text to Image",
+        "AI Design Assistant",
+        "AI Graphic Design",
+        "AI Developer Tools",
+        "AI Product Manager"
+    ],
+    "features": [
+        "Text-to-image generation transforms text prompts into hyper-realistic images, enabling rapid creation of visuals like logos and posters.",
+        "Advanced text rendering produces clear, readable text within images, ideal for typography and branding materials.",
+        "Ideogram Canvas offers an infinite creative board for organizing, editing, and combining images with tools like Magic Fill and Extend.",
+        "Magic Prompt enhances user inputs with creative suggestions, simplifying the process of generating unique designs.",
+        "Customizable style options, including Realistic, 3D, and Anime, allow users to tailor visuals to specific aesthetic preferences.",
+        "Community collaboration features enable users to share creations and gain inspiration from trending artworks on the platform.",
+        "API access allows developers to integrate Ideogram’s capabilities into other applications, enhancing scalability for businesses.",
+        "Real-time previews provide instant feedback during the creative process, facilitating rapid iterations and refinements."
+    ],
+    "faqs": [
+        {
+            "question": "What is Ideogram used for?",
+            "answer": "Ideogram is used to generate high-quality images from text prompts, ideal for creating logos, posters, typography, and other visuals for personal or professional projects."
+        },
+        {
+            "question": "Is Ideogram free to use?",
+            "answer": "Yes, Ideogram offers a free plan with core features, though premium plans like Basic and Plus provide additional benefits like priority generation and higher-quality downloads."
+        },
+        {
+            "question": "Can Ideogram integrate text into images effectively?",
+            "answer": "Ideogram excels at rendering clear, readable text within images, making it a top choice for creating typography, logos, and branded visuals."
+        },
+        {
+            "question": "What is the Ideogram Canvas?",
+            "answer": "Ideogram Canvas is an infinite creative board where users can organize, generate, edit, and combine images using tools like Magic Fill and Extend."
+        },
+        {
+            "question": "Does Ideogram offer an API for developers?",
+            "answer": "Yes, Ideogram provides an API for developers to integrate its text-to-image capabilities into other platforms, with pricing based on image outputs."
+        },
+        {
+            "question": "What types of styles can I create with Ideogram?",
+            "answer": "Ideogram supports various styles like Realistic, 3D, Anime, and graffiti, allowing users to customize visuals to match their creative vision."
+        },
+        {
+            "question": "Can I share my creations on Ideogram?",
+            "answer": "Yes, users can share their images publicly on the platform or keep them private, fostering a collaborative community for inspiration."
+        },
+        {
+            "question": "Do I need design skills to use Ideogram?",
+            "answer": "No, Ideogram’s user-friendly interface and AI-driven tools make it accessible to both beginners and experienced designers."
+        }
+    ]
+}

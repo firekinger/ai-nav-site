@@ -1,0 +1,74 @@
+{
+    "name": "Reclaim AI",
+    "description": "Reclaim AI is an AI-powered scheduling app that optimizes calendars for tasks, meetings, and work-life balance.",
+    "longDescription": "Reclaim AI is an intelligent scheduling platform designed to help individuals and teams manage their time effectively by automatically organizing tasks, meetings, habits, and breaks on Google and Outlook Calendars. Founded in 2019 by Henry Shapiro and Patrick Lightbody, the platform aims to alleviate the stress of calendar management by using AI to find optimal time slots for work and personal priorities. It serves as a layer on top of existing calendars, prioritizing focus time and reducing interruptions to enhance productivity. With over 320,000 users across 43,000 companies, Reclaim AI supports professionals, managers, and teams in achieving a balanced and efficient workweek. The tool integrates with popular apps like Slack, Asana, and Todoist, making it a versatile solution for busy schedules. Its mission is to empower users to reclaim up to 40% of their workweek for what matters most.",
+    "url": "https://reclaim.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/reclaim.ai.webp",
+    "category": "AI Scheduling",
+    "categorySlug": "ai-scheduling",
+    "slug": "reclaim-ai",
+    "categories": [
+        "AI Scheduling",
+        "AI Productivity Tools",
+        "AI Task Management",
+        "AI Schedule Maker",
+        "AI Project Management",
+        "AI Assistant"
+    ],
+    "features": [
+        "Focus Time blocks flexible time for uninterrupted deep work, boosting productivity by up to 500%.",
+        "Smart Meetings automatically schedules recurring meetings at the best times for all attendees, streamlining coordination.",
+        "Tasks auto-schedules to-dos from integrated apps like Asana and Todoist into your calendar, ensuring deadlines are met.",
+        "Habits flexibly reserves time for routines like lunch or exercise, promoting work-life balance.",
+        "Scheduling Links share AI-optimized availability, reducing back-and-forth emails for meeting planning.",
+        "Calendar Sync integrates multiple calendars to block availability and prevent double-booking.",
+        "Buffer Time auto-schedules breaks and travel time between meetings to reduce scheduling stress.",
+        "Time Tracking provides insights into time spent on meetings, tasks, and personal activities to optimize productivity.",
+        "Slack Integration syncs calendar events with Slack status to minimize interruptions during focus periods.",
+        "Color Coding automatically tags calendar events by type for better visual organization.",
+        "No-Meeting Days protects specific days for heads-down work, reducing distractions.",
+        "Task Integrations sync tasks from Google Tasks, Jira, ClickUp, and Linear for seamless project management."
+    ],
+    "faqs": [
+        {
+            "question": "What is Reclaim AI?",
+            "answer": "Reclaim AI is an AI-powered scheduling tool that automatically organizes tasks, meetings, habits, and breaks on your Google or Outlook Calendar to optimize productivity and work-life balance."
+        },
+        {
+            "question": "Does Reclaim AI offer a free plan?",
+            "answer": "Yes, Reclaim AI offers a free forever Lite plan with access to core features, and a 14-day trial of the Business plan for unlimited access."
+        },
+        {
+            "question": "Which calendars does Reclaim AI support?",
+            "answer": "Reclaim AI currently supports Google Calendar and Outlook Calendar, with plans to expand to other calendar platforms."
+        },
+        {
+            "question": "Can Reclaim AI schedule external meetings?",
+            "answer": "Reclaim AI excels at scheduling internal meetings but is less suited for external meetings, where tools like Calendly may be more effective."
+        },
+        {
+            "question": "How does Reclaim AI protect focus time?",
+            "answer": "Reclaim AI sets a weekly Focus Time goal and uses AI to block flexible, uninterrupted time slots around your existing calendar events."
+        },
+        {
+            "question": "What integrations does Reclaim AI support?",
+            "answer": "Reclaim AI integrates with Slack, Zoom, Google Tasks, Asana, Todoist, Jira, ClickUp, and Linear for seamless task and status management."
+        },
+        {
+            "question": "Is Reclaim AI secure for my data?",
+            "answer": "Reclaim AI is SOC 2 Type II certified and GDPR compliant, with a self-service data deletion option and automatic credential removal upon account deletion."
+        },
+        {
+            "question": "Can Reclaim AI help with team scheduling?",
+            "answer": "Yes, Reclaim AI offers team-wide controls to defend focus time, optimize meeting schedules, and improve work-life balance across teams."
+        },
+        {
+            "question": "Does Reclaim AI have a mobile app?",
+            "answer": "Reclaim AI does not currently offer a dedicated iOS or Android app, but its website is mobile-friendly and integrates with Google Calendar."
+        },
+        {
+            "question": "How does Reclaim AI handle task prioritization?",
+            "answer": "Reclaim AI allows users to set priority levels for tasks and events, automatically rescheduling lower-priority items to accommodate higher-priority ones."
+        }
+    ]
+}

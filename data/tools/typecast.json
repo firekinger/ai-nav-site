@@ -1,0 +1,72 @@
+{
+    "name": "Typecast",
+    "description": "Typecast is an AI voice generator that transforms text into realistic, emotion-driven speech and creates engaging video content with virtual avatars.",
+    "longDescription": "Typecast is an AI-powered platform designed to convert text into lifelike speech, offering a vast library of over 400 AI voice actors and virtual avatars to enhance audio and video content creation. Its mission is to simplify and democratize professional-quality voiceovers and video production for content creators, businesses, and educators. By leveraging advanced AI, machine learning, and natural language processing, Typecast enables users to produce high-fidelity audio with customizable emotions, tones, and languages. The platform eliminates the need for expensive recording equipment or studios, making it accessible for users ranging from YouTubers to corporate marketers. It also supports seamless integration with other tools via its API, catering to developers and businesses seeking scalable content solutions. Typecast’s user-friendly interface and diverse voice options make it a versatile tool for creating podcasts, audiobooks, marketing videos, and more.",
+    "url": "https://typecast.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/typecast.ai.webp",
+    "category": "AI Voice Generator",
+    "categorySlug": "ai-voice-generator",
+    "slug": "typecast",
+    "categories": [
+        "AI Text-to-Speech",
+        "AI Voice Generator",
+        "AI Voice Cloning",
+        "AI Video Generator",
+        "AI Translate",
+        "AI Lip Sync Generator",
+        "AI Digital Marketing",
+        "AI Developer Tools",
+        "AI Podcast Editing",
+        "AI Course"
+    ],
+    "features": [
+        "Converts text to lifelike speech using over 400 AI voice actors, enabling high-quality voiceovers for various content types.",
+        "Offers emotion and tone control, allowing users to adjust voiceovers to convey specific moods like joy or calmness.",
+        "Provides AI-generated virtual avatars, enhancing video content with synchronized speech and visuals.",
+        "Supports multiple languages, including English, Korean, Japanese, Spanish, and German, for global content creation.",
+        "Enables voice cloning, allowing users to create custom AI voices from just a few seconds of recorded audio.",
+        "Includes ready-made templates for quick content creation, such as audiobooks, marketing videos, and educational tutorials.",
+        "Facilitates video dubbing in multiple languages, streamlining the process of localizing video content.",
+        "Offers API integration for developers to embed AI voiceovers into apps, websites, or chatbots.",
+        "Provides a user-friendly online studio, eliminating the need for complex post-production editing or recording setups.",
+        "Supports high-quality audio output in formats like WAV and MP3, ensuring professional-grade results."
+    ],
+    "faqs": [
+        {
+            "question": "What is Typecast used for?",
+            "answer": "Typecast is an AI voice generator that converts text into realistic speech and creates video content with virtual avatars, ideal for podcasts, videos, and e-learning."
+        },
+        {
+            "question": "Does Typecast offer a free plan?",
+            "answer": "Yes, Typecast provides a free plan with 5 minutes of monthly download credits and access to trial voices, though attribution is required for content."
+        },
+        {
+            "question": "Can I customize the emotions in the AI voices?",
+            "answer": "Yes, Typecast allows users to adjust emotions and tones, such as happiness or calmness, to match the content’s narrative."
+        },
+        {
+            "question": "What languages does Typecast support?",
+            "answer": "Typecast supports multiple languages, including English, Korean, Japanese, Spanish, and German, with accent variants for some."
+        },
+        {
+            "question": "Is voice cloning available on Typecast?",
+            "answer": "Yes, Typecast offers voice cloning, allowing users to create custom AI voices with minimal recorded audio, though slots are limited in lower-tier plans."
+        },
+        {
+            "question": "Can Typecast be integrated with other platforms?",
+            "answer": "Typecast provides a robust API for developers to integrate AI voiceovers into apps, websites, chatbots, and other platforms."
+        },
+        {
+            "question": "Does Typecast support video content creation?",
+            "answer": "Yes, Typecast allows users to create videos with AI avatars and synchronized voiceovers, streamlining video production."
+        },
+        {
+            "question": "Are there templates available for quick content creation?",
+            "answer": "Typecast offers ready-made templates for various use cases, such as audiobooks, marketing videos, and educational content, to simplify the process."
+        },
+        {
+            "question": "What file formats does Typecast support for audio output?",
+            "answer": "Typecast supports high-quality audio output in formats like WAV and MP3, suitable for professional applications."
+        }
+    ]
+}

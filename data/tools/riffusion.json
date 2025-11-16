@@ -1,0 +1,50 @@
+{
+    "name": "Riffusion",
+    "description": "Riffusion is an AI-powered platform that generates music from text prompts, enabling users to create unique audio compositions effortlessly.",
+    "longDescription": "Riffusion is an innovative AI-driven platform designed to transform text prompts into original music compositions, leveraging a fine-tuned Stable Diffusion model trained on spectrograms. It serves musicians, content creators, and hobbyists by providing an accessible tool to generate royalty-free music clips in various styles. The platform's mission is to democratize music creation, making it easy for users with no musical background to produce high-quality audio. Riffusion allows users to experiment with prompts to create melodies, beats, or full songs, which can be downloaded or shared. By combining AI technology with creative expression, Riffusion addresses the need for quick, customizable music production for videos, podcasts, and other media projects.",
+    "url": "https://www.riffusion.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.riffusion.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "riffusion",
+    "categories": [
+        "AI Music Generator",
+        "AI Text-to-Music",
+        "AI Art Generator"
+    ],
+    "features": [
+        "Generates music clips from text prompts, allowing users to create songs by describing styles or moods.",
+        "Produces royalty-free audio tracks, ideal for use in videos, podcasts, or social media content.",
+        "Supports real-time music generation, enabling users to hear results instantly after inputting prompts.",
+        "Offers a web-based interface for easy access without requiring software installation.",
+        "Allows users to download generated audio files in high-quality formats for professional use.",
+        "Enables customization of music through iterative prompt refinement for tailored results.",
+        "Provides an open-source model, allowing developers to integrate or modify Riffusion’s technology."
+    ],
+    "faqs": [
+        {
+            "question": "What is Riffusion?",
+            "answer": "Riffusion is an AI-powered tool that generates music from text prompts using a fine-tuned Stable Diffusion model trained on audio spectrograms."
+        },
+        {
+            "question": "Is Riffusion free to use?",
+            "answer": "Yes, Riffusion offers free access to its core music generation features through its web platform, with no subscription required."
+        },
+        {
+            "question": "What types of music can Riffusion create?",
+            "answer": "Riffusion can generate a wide range of music styles, from classical to electronic, based on the text prompts provided by users."
+        },
+        {
+            "question": "Can I use Riffusion’s music commercially?",
+            "answer": "Generated music is royalty-free, making it suitable for commercial use in projects like videos, podcasts, or advertisements."
+        },
+        {
+            "question": "Do I need musical expertise to use Riffusion?",
+            "answer": "No, Riffusion is designed for users of all skill levels, allowing anyone to create music by simply entering text prompts."
+        },
+        {
+            "question": "Can developers access Riffusion’s technology?",
+            "answer": "Yes, Riffusion’s model is open-source, enabling developers to integrate or customize it for their own applications."
+        }
+    ]
+}

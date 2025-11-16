@@ -1,0 +1,63 @@
+{
+    "name": "Upheal",
+    "description": "Upheal is an AI-powered platform that automates progress notes and provides analytics for mental health professionals.",
+    "longDescription": "Upheal is an AI-driven platform designed to streamline documentation for mental health professionals, including therapists, psychiatrists, and coaches. By leveraging advanced natural language processing, it automatically generates detailed progress notes and treatment plans from session recordings, reducing administrative burdens. The platform integrates with existing electronic health record (EHR) systems and supports various therapy formats, such as individual, couples, and group sessions. Upheal aims to help clinicians focus on client care by saving time and enhancing session insights through analytics. It prioritizes data security with HIPAA compliance and robust encryption, ensuring client confidentiality. The mission is to support mental health professionals in delivering high-quality care while improving their work-life balance.",
+    "url": "https://www.upheal.io/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.upheal.io.webp",
+    "category": "AI Notes Generator",
+    "categorySlug": "ai-notes-generator",
+    "slug": "upheal",
+    "categories": [
+        "AI Notes Generator",
+        "AI Language Learning",
+        "AI Document Extraction",
+        "AI Mental Health",
+        "AI Healthcare"
+    ],
+    "features": [
+        "AI-generated progress notes automatically summarize sessions, saving therapists time on documentation.",
+        "Session analytics provide insights into speech patterns, talking ratios, and silence, enhancing therapy outcomes.",
+        "Seamless EHR integration allows notes to be copied or auto-filled into systems like SimplePractice or TherapyNotes.",
+        "Customizable note templates support various formats like SOAP, GIRP, BIRP, and EMDR for diverse clinical needs.",
+        "Secure video-calling platform offers HIPAA-compliant telehealth for remote therapy sessions.",
+        "Treatment plan generation creates tailored plans with SMART goals based on session data.",
+        "Browser extension enables session capture from any telehealth or EHR platform without workflow disruption.",
+        "Client consent management provides tools to collect and manage consent for session recordings.",
+        "Audio recording capture supports in-person sessions via browser or iOS app for flexible note generation.",
+        "Robust encryption and HIPAA compliance ensure client data security and confidentiality."
+    ],
+    "faqs": [
+        {
+            "question": "Does Upheal offer a free plan?",
+            "answer": "Yes, Upheal provides a free plan with unlimited AI-generated notes, including basic SOAP and DAP formats, with no time limit."
+        },
+        {
+            "question": "Is Upheal HIPAA-compliant?",
+            "answer": "Yes, Upheal adheres to HIPAA, PHIPA, PIPEDA, GDPR, and SOC 2 standards, ensuring secure handling of client data."
+        },
+        {
+            "question": "Can Upheal integrate with my existing EHR?",
+            "answer": "Upheal’s browser extension and API allow seamless integration with EHRs like SimplePractice and TherapyNotes for easy note transfer."
+        },
+        {
+            "question": "What types of therapy notes can Upheal generate?",
+            "answer": "Upheal supports multiple note formats, including SOAP, GIRP, BIRP, DAP, EMDR, and Mental Status Exam, with custom template options."
+        },
+        {
+            "question": "Does Upheal require client consent for session recordings?",
+            "answer": "Yes, clinicians must obtain client consent before recording or uploading sessions, with Upheal providing consent collection tools."
+        },
+        {
+            "question": "Can Upheal be used for in-person sessions?",
+            "answer": "Yes, Upheal allows audio capture of in-person sessions via browser or iOS app for AI note generation."
+        },
+        {
+            "question": "What happens to session recordings after processing?",
+            "answer": "Upheal deletes audio recordings by default after processing, unless clinicians opt to retain them with client consent."
+        },
+        {
+            "question": "Does Upheal support group therapy sessions?",
+            "answer": "Yes, Upheal supports documentation for individual, couples, and group therapy sessions with tailored note templates."
+        }
+    ]
+}

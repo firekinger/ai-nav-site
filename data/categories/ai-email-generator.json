@@ -1,0 +1,39 @@
+{
+    "title": "The Best 4 AI Email Generator Tools in 2025",
+    "summary": "Unlock the power of communication with our AI Email Generator category. These innovative tools streamline your email creation process, saving you time while enhancing clarity and engagement. Whether you need to craft professional correspondence, marketing campaigns, or personalized outreach, AI email generators offer tailored suggestions and templates to meet your needs. Explore our curated selection to find the perfect solution that boosts your productivity and elevates your messaging. Dive in now and transform the way you connect with your audience!",
+    "tools": [
+        {
+            "id": "596",
+            "name": "Robly",
+            "slug": "robly",
+            "description": "Robly is an email marketing platform designed to boost engagement and open rates for small businesses using automation and AI-driven tools.",
+            "icon": "/logo/robly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-generator"
+            ]
+        },
+        {
+            "id": "1127",
+            "name": "ChatGPT Writer",
+            "slug": "chatgpt-writer-ai",
+            "description": "ChatGPT Writer is a free browser extension that leverages AI to assist users in writing emails, messages, and other text directly on any website.",
+            "icon": "/logo/chatgptwriter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-generator"
+            ]
+        },
+        {
+            "id": "1186",
+            "name": "Wordkraft AI",
+            "slug": "wordkraft-ai",
+            "description": "Wordkraft AI is an artificial intelligence-driven content generator designed to assist users in producing keyword-optimized, well-written content for websites, blogs, or marketing purposes, enhancing digital visibility and efficiency.",
+            "icon": "/logo/wordkraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-email-generator"
+            ]
+        }
+    ]
+}

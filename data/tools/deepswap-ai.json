@@ -1,0 +1,65 @@
+{
+    "name": "Deepswap",
+    "description": "Deepswap is an AI-powered platform for seamless face swapping in videos, photos, and GIFs, offering realistic results for creative and professional use.",
+    "longDescription": "Deepswap is an online AI platform designed to enable users to swap faces in videos, photos, and GIFs with high accuracy and realism. Utilizing advanced deepfake technology and facial recognition algorithms, it allows users to create engaging content for entertainment, marketing, or personal projects. The platform is user-friendly, requiring no technical expertise, and processes media quickly, such as a one-minute video in as little as 9 seconds. Deepswap serves content creators, marketers, and hobbyists by providing tools to enhance images, remove backgrounds, and create memes or professional headshots. Its mission is to make creative face-swapping accessible while maintaining high-quality, natural-looking results. The platform also emphasizes user privacy by not collecting data and offers additional AI-driven editing features.",
+    "url": "https://www.deepswap.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.deepswap.ai.webp",
+    "category": "AI Face Swap Generator",
+    "categorySlug": "ai-face-swap-generator",
+    "slug": "deepswap-ai",
+    "categories": [
+        "AI Face Swap Generator",
+        "AI Photo Editor",
+        "AI Face Recognition",
+        "AI Meme Generator",
+        "AI Video Editor",
+        "AI Writing",
+        "AI Background Remover",
+        "AI Cartoon Generator",
+        "AI Social Media Post Generator"
+    ],
+    "features": [
+        "AI-powered face swapping creates realistic face replacements in photos, videos, and GIFs for professional or fun results.",
+        "Multiple face swap supports up to six simultaneous face swaps in a single video or image, ideal for group content.",
+        "Ultra-fast processing completes a one-minute video face swap in as little as 9 seconds, enhancing efficiency.",
+        "Image enhancement tools improve photo quality, remove backgrounds, or cartoonize images for versatile editing.",
+        "User-friendly interface allows seamless face swapping without requiring technical skills or complex software.",
+        "Meme and GIF creation enables users to craft viral content for social media with easy-to-use templates.",
+        "Celebrity face swap lets users replace faces with celebrity likenesses for engaging social media posts.",
+        "High-quality output ensures natural blends and detailed face swaps, suitable for professional use."
+    ],
+    "faqs": [
+        {
+            "question": "What is Deepswap used for?",
+            "answer": "Deepswap is used to swap faces in videos, photos, and GIFs, creating realistic and engaging content for entertainment, marketing, or personal projects."
+        },
+        {
+            "question": "Does Deepswap offer a free plan?",
+            "answer": "Deepswap does not offer a fully free plan, but a premium subscription is required to access all features, with limited trials potentially available."
+        },
+        {
+            "question": "How fast is Deepswap's processing time?",
+            "answer": "Deepswap can process a one-minute video in as little as 9 seconds, making it highly efficient for quick edits."
+        },
+        {
+            "question": "Can I swap multiple faces in one video?",
+            "answer": "Yes, Deepswap supports swapping up to six faces simultaneously in a single video or image."
+        },
+        {
+            "question": "Is Deepswap safe to use?",
+            "answer": "Deepswap employs advanced security measures to protect user data and does not collect or store user content."
+        },
+        {
+            "question": "Can I use Deepswap for professional projects?",
+            "answer": "Yes, Deepswap's high-quality face swaps and editing tools are suitable for professional headshots, marketing, and film production."
+        },
+        {
+            "question": "What file formats does Deepswap support?",
+            "answer": "Deepswap supports various formats, including JPG, PNG, WEBP, GIF, MP4, M4V, MOV, and WEBM."
+        },
+        {
+            "question": "Does Deepswap require technical skills?",
+            "answer": "No, Deepswap’s intuitive interface makes face swapping easy for users without technical expertise."
+        }
+    ]
+}

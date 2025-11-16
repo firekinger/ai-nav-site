@@ -1,0 +1,63 @@
+{
+    "name": "Boomy",
+    "description": "Boomy is an AI-powered platform that enables users to create and monetize original music effortlessly.",
+    "longDescription": "Boomy is a generative music platform founded in 2019 that uses artificial intelligence to empower users, regardless of musical experience, to create original songs quickly and easily. Its proprietary technology allows users to generate fully-produced tracks from simple inputs like music style, mood, or text prompts. Boomy serves both novice music creators and experienced artists by providing intuitive tools to craft, edit, and publish music to major streaming platforms like Spotify and Apple Music. The platform also enables users to monetize their creations, earning royalties when their songs are streamed. By democratizing music production, Boomy aims to make music creation accessible to everyone, fostering a global community of creators. Its commitment to copyright-safe models ensures users can create without legal concerns.",
+    "url": "https://boomy.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/boomy.com.webp",
+    "category": "AI Music Generator",
+    "categorySlug": "ai-music-generator",
+    "slug": "boomy",
+    "categories": [
+        "AI Music Generator",
+        "AI Speech Synthesis",
+        "AI Content Detector",
+        "AI Models",
+        "AI Sound Effect Generator",
+        "AI Creative Writing"
+    ],
+    "features": [
+        "AI-powered music generation creates original songs in seconds based on user-selected styles and moods.",
+        "Users can customize tracks by adding or removing instruments and adjusting vocals or volume.",
+        "The platform supports vocal generation, allowing users to incorporate AI-generated or custom-uploaded vocals into songs.",
+        "Boomy distributes user-created songs to major streaming platforms like Spotify, Apple Music, and TikTok.",
+        "Creators can earn royalties through Boomy’s monetization system when their songs are streamed.",
+        "The intuitive interface requires no prior musical experience, making it accessible to beginners.",
+        "Paid Creator and Pro tiers offer full commercial rights and downloadable tracks for external distribution.",
+        "Users can generate loop and one-shot sound effects for professional music production workflows.",
+        "Custom model training allows users to create unique music catalogs using their own data."
+    ],
+    "faqs": [
+        {
+            "question": "What is Boomy and who can use it?",
+            "answer": "Boomy is an AI-powered platform that lets anyone create and publish original music, designed for both beginners and experienced artists."
+        },
+        {
+            "question": "Does Boomy offer a free plan?",
+            "answer": "Yes, Boomy provides a free plan with limited access to its music creation and distribution features."
+        },
+        {
+            "question": "Can I monetize the music I create on Boomy?",
+            "answer": "Yes, users can earn royalties when their songs are streamed on platforms like Spotify, with revenue deposited via PayPal."
+        },
+        {
+            "question": "Does Boomy use copyrighted material in its AI?",
+            "answer": "No, Boomy’s models are copyright-safe and not trained on copyrighted data, ensuring legal use."
+        },
+        {
+            "question": "How do I distribute my music through Boomy?",
+            "answer": "Users can publish songs directly to streaming platforms via Boomy or download tracks with paid tiers for external distribution."
+        },
+        {
+            "question": "Can I customize the music I create on Boomy?",
+            "answer": "Yes, Boomy allows users to edit tracks by adjusting instruments, vocals, and other settings to personalize their music."
+        },
+        {
+            "question": "What types of music can I create with Boomy?",
+            "answer": "Boomy supports various styles and moods, allowing users to generate songs tailored to their preferences."
+        },
+        {
+            "question": "Does Boomy monitor for offensive content in generated music?",
+            "answer": "Boomy has a content moderation policy to monitor and prevent offensive, explicit, or illegal content in its AI-generated music."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Trip Planner Tools in 2025",
+    "summary": "Discover the future of travel with our AI Trip Planner category! These innovative tools streamline your travel planning process, offering personalized itineraries, budget management, and real-time recommendations. Say goodbye to the stress of organizing trips and hello to seamless adventures tailored to your preferences. Whether you're planning a weekend getaway or a month-long journey, our AI solutions simplify every step, ensuring you make the most of your travels. Explore our curated selection of AI Trip Planners today and transform the way you travel!",
+    "tools": [
+        {
+            "id": "1130",
+            "name": "Wonderplan",
+            "slug": "wonderplan-ai",
+            "description": "Wonderplan.ai is a personal AI-powered trip planner that creates custom travel itineraries tailored to users' interests and budgets.",
+            "icon": "/logo/wonderplan.ai.webp",
+            "isFree": true,
+            "categories": [
+                "aitrip-planner"
+            ]
+        },
+        {
+            "id": "1136",
+            "name": "TripPlanner AI",
+            "slug": "tripplanner-ai",
+            "description": "TripPlanner AI is an innovative platform that uses artificial intelligence to create personalized travel itineraries and optimize trip planning for users worldwide.",
+            "icon": "/logo/tripplanner.ai.webp",
+            "isFree": true,
+            "categories": [
+                "aitrip-planner"
+            ]
+        },
+        {
+            "id": "1368",
+            "name": "OdysseyGPT",
+            "slug": "odysseygpt-ai",
+            "description": "OdysseyGPT is an AI-powered platform that uses advanced GPT technology to assist users in planning personalized travel adventures and itineraries.",
+            "icon": "/logo/www.odysseygpt.ai.webp",
+            "isFree": true,
+            "categories": [
+                "aitrip-planner"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Wanderboat AI",
+            "slug": "wanderboat-ai",
+            "description": "Wanderboat AI is an AI-powered travel companion that simplifies trip planning with personalized itineraries and real-time recommendations.",
+            "icon": "/logo/wanderboat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "aitrip-planner"
+            ]
+        }
+    ]
+}

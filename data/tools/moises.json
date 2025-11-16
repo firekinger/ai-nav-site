@@ -1,0 +1,60 @@
+{
+    "name": "Moises",
+    "description": "Moises uses AI to separate, edit, and enhance audio tracks for musicians and producers.",
+    "longDescription": "Moises is an AI-powered music platform designed to assist musicians, producers, and creators by providing advanced audio processing tools. It leverages artificial intelligence to separate vocals, instruments, and other elements from audio tracks, enabling users to create remixes, practice, or produce high-quality music. The platform supports a wide range of users, from beginners to professionals, by offering an intuitive interface and cloud-based processing. Moises aims to simplify music production and practice, making professional-grade tools accessible to all. Its mission is to empower creativity by breaking down technical barriers in audio editing. The platform also integrates with popular digital audio workstations (DAWs) to streamline workflows.",
+    "url": "https://moises.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/moises.ai.webp",
+    "category": "AI Stems Splitter",
+    "categorySlug": "ai-stems-splitter",
+    "slug": "moises",
+    "categories": [
+        "AI Stems Splitter",
+        "AI Music Generator",
+        "Chord AI",
+        "AI Audio Enhancer",
+        "AI Audio Editing",
+        "AI Mastering"
+    ],
+    "features": [
+        "AI-powered audio separation isolates vocals, drums, bass, and other instruments from any song for remixing or practice.",
+        "Smart metronome detects and adjusts tempo, enabling musicians to practice with precise timing.",
+        "Pitch changer allows users to modify the key of a track without affecting its quality, aiding vocalists and instrumentalists.",
+        "Chord detection identifies and displays real-time chords, helping musicians learn and create arrangements.",
+        "Audio speed changer adjusts playback speed without altering pitch, ideal for practice or transcription.",
+        "Mastering tools enhance audio quality with AI-driven equalization and compression for professional results.",
+        "Noise removal cleans up audio tracks by eliminating background noise, improving clarity.",
+        "Cloud-based processing enables fast, high-quality audio edits without requiring powerful local hardware.",
+        "Integration with DAWs like Logic Pro and Ableton Live streamlines music production workflows.",
+        "Mobile and web apps provide flexibility to edit and practice music on the go."
+    ],
+    "faqs": [
+        {
+            "question": "What is Moises used for?",
+            "answer": "Moises is used to separate, edit, and enhance audio tracks using AI, enabling musicians to create remixes, practice, or produce music."
+        },
+        {
+            "question": "Does Moises offer a free plan?",
+            "answer": "Yes, Moises offers a free plan with limited features, allowing users to try basic audio separation and editing tools."
+        },
+        {
+            "question": "Can I use Moises to isolate vocals from a song?",
+            "answer": "Yes, Moises uses AI to separate vocals from instrumental tracks, making it easy to create karaoke versions or remixes."
+        },
+        {
+            "question": "Is Moises compatible with digital audio workstations (DAWs)?",
+            "answer": "Moises integrates with popular DAWs like Logic Pro and Ableton Live, allowing seamless import and export of audio files."
+        },
+        {
+            "question": "Can I change the pitch or speed of a track with Moises?",
+            "answer": "Yes, Moises offers pitch and speed adjustment tools that maintain audio quality for practice or creative purposes."
+        },
+        {
+            "question": "Is Moises suitable for beginners?",
+            "answer": "Moises is designed with an intuitive interface, making it accessible for beginners while offering advanced features for professionals."
+        },
+        {
+            "question": "Does Moises support mobile devices?",
+            "answer": "Yes, Moises is available as a mobile app for iOS and Android, as well as a web platform for flexible access."
+        }
+    ]
+}

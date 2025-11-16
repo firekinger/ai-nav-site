@@ -1,0 +1,80 @@
+{
+    "name": "GravityWrite",
+    "description": "GravityWrite is an AI-powered content creation platform for blogs, SEO, and marketing.",
+    "longDescription": "GravityWrite is an AI-driven content creation tool designed to help users generate high-quality, SEO-optimized content for blogs, social media, and marketing campaigns. Trusted by over 3 million users worldwide, it streamlines the content workflow by offering templates, AI-generated images, and one-click publishing features. The platform supports multiple languages and integrates premium AI models like ChatGPT-4 and Claude to produce engaging, brand-consistent content. Its mission is to simplify content creation for bloggers, marketers, and businesses while maximizing ROI through efficient, data-driven tools. By learning a user’s brand voice, GravityWrite ensures personalized output, making it a versatile solution for creators and enterprises alike.",
+    "url": "https://gravitywrite.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gravitywrite.com.webp",
+    "category": "AI Writing",
+    "categorySlug": "ai-writing",
+    "slug": "gravitywrite",
+    "categories": [
+        "AI Writing",
+        "AI SEO Tools",
+        "AI Image Generator",
+        "AI Social Media Post Generator",
+        "AI Video Generator",
+        "AI Copywriting",
+        "AI Language Learning",
+        "AI Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Hashtag",
+        "AI YouTube"
+    ],
+    "features": [
+        "AI Blog Writer generates long-form content up to 5,000 words in minutes, optimized for SEO and engagement.",
+        "Gravity Social streamlines platform-specific content creation and scheduling for social media marketing.",
+        "AI Image Generator creates stunning visuals like blog headers and social media graphics instantly.",
+        "One-click WordPress publishing simplifies content management and speeds up workflow.",
+        "Over 300 customizable templates support diverse content needs, from ad copy to children’s book titles.",
+        "Multi-language support enables content creation in over 30 languages for global audiences.",
+        "Brand voice training ensures AI-generated content aligns with a user’s unique style and tone.",
+        "Video content transformation converts text or images into dynamic videos with customizable animations.",
+        "Hashtag generator finds trending and niche Instagram hashtags to boost post visibility.",
+        "Report Writer creates detailed reports instantly with one-click simplicity for business use.",
+        "YouTube tools generate video ideas, outlines, and intro scripts tailored to specific niches.",
+        "Plagiarism detection and grammar checkers enhance content quality and originality.",
+        "AI-driven SEO optimization improves content discoverability and search engine rankings."
+    ],
+    "faqs": [
+        {
+            "question": "What is GravityWrite used for?",
+            "answer": "GravityWrite is an AI-powered tool for creating SEO-optimized blogs, social media posts, marketing copy, and more, streamlining content creation for creators and businesses."
+        },
+        {
+            "question": "Is there a free plan available?",
+            "answer": "Yes, GravityWrite offers a free plan with 1,000 words of content generation, allowing users to test core features without cost."
+        },
+        {
+            "question": "Can GravityWrite match my brand voice?",
+            "answer": "Yes, you can train the AI with your existing content to ensure all generated output aligns with your unique brand voice."
+        },
+        {
+            "question": "Does GravityWrite support multiple languages?",
+            "answer": "GravityWrite supports content creation in over 30 languages, making it ideal for global audiences and multilingual campaigns."
+        },
+        {
+            "question": "How does the AI Image Generator work?",
+            "answer": "The AI Image Generator creates professional visuals like banners and thumbnails based on user descriptions, delivering results in seconds."
+        },
+        {
+            "question": "Can I publish content directly to WordPress?",
+            "answer": "Yes, GravityWrite’s one-click publishing feature allows seamless integration with WordPress for efficient content management."
+        },
+        {
+            "question": "Is GravityWrite suitable for beginners?",
+            "answer": "Absolutely, its user-friendly interface and templates make it accessible for beginners while offering advanced tools for experienced creators."
+        },
+        {
+            "question": "What types of content can I create?",
+            "answer": "You can create blogs, social media posts, ad copy, product descriptions, video scripts, book titles, and more using over 300 templates."
+        },
+        {
+            "question": "Does GravityWrite offer customer support?",
+            "answer": "Yes, GravityWrite provides 24/7 customer support to assist with account setup, content strategies, and technical issues."
+        },
+        {
+            "question": "Can I create videos with GravityWrite?",
+            "answer": "Yes, the platform transforms text or images into engaging videos with customizable voice tones and animations for marketing or social media."
+        }
+    ]
+}

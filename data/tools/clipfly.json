@@ -1,0 +1,59 @@
+{
+    "name": "Clipfly",
+    "description": "Clipfly is an AI-powered platform for creating and editing videos effortlessly.",
+    "longDescription": "Clipfly is an AI-driven video creation and editing platform designed to simplify the process of producing professional-quality videos for users of all skill levels. Its mission is to democratize video content creation by offering intuitive tools that leverage artificial intelligence to streamline editing tasks and enhance creativity. The platform serves content creators, marketers, and businesses by providing features like automated video generation, text-to-video conversion, and advanced editing capabilities. Clipfly aims to save users time while enabling them to produce engaging, high-quality videos for social media, advertising, or personal projects. By integrating AI, it reduces the technical barriers typically associated with video production, making it accessible to a broad audience.",
+    "url": "https://www.clipfly.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.clipfly.ai.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "clipfly",
+    "categories": [
+        "AI Video Editor",
+        "Text to Video",
+        "AI Lip Sync Generator",
+        "AI Social Media Post Generator",
+        "AI Video Generator",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "AI-powered text-to-video conversion generates videos from simple text prompts, enabling quick content creation.",
+        "Automated video editing tools streamline the process by suggesting cuts, transitions, and effects for professional results.",
+        "Customizable templates allow users to create branded videos tailored to specific platforms like YouTube or Instagram.",
+        "Real-time preview functionality lets users see edits instantly, improving workflow efficiency.",
+        "AI-driven subtitle generation automatically creates accurate captions, enhancing video accessibility.",
+        "Stock media library integration provides access to royalty-free images, videos, and music for enriched content.",
+        "Multi-language support enables video creation and translation for global audiences.",
+        "One-click background removal simplifies isolating subjects for creative video compositions.",
+        "Social media optimization tools ensure videos meet platform-specific requirements for maximum engagement."
+    ],
+    "faqs": [
+        {
+            "question": "What is Clipfly used for?",
+            "answer": "Clipfly is used for creating and editing videos using AI-powered tools, ideal for content creators, marketers, and businesses."
+        },
+        {
+            "question": "Is Clipfly free to use?",
+            "answer": "Clipfly offers a free plan with limited features, while premium plans unlock advanced tools and higher usage limits."
+        },
+        {
+            "question": "Can I create videos from text prompts?",
+            "answer": "Yes, Clipfly’s text-to-video feature allows users to generate videos by inputting text descriptions."
+        },
+        {
+            "question": "Does Clipfly support social media video formats?",
+            "answer": "Yes, Clipfly provides templates and optimization tools tailored for platforms like Instagram, TikTok, and YouTube."
+        },
+        {
+            "question": "How does the AI subtitle feature work?",
+            "answer": "Clipfly’s AI automatically generates accurate subtitles by analyzing audio, which can be customized for style and language."
+        },
+        {
+            "question": "Can beginners use Clipfly effectively?",
+            "answer": "Yes, Clipfly’s intuitive interface and AI-driven tools make it accessible for users with no prior video editing experience."
+        },
+        {
+            "question": "Does Clipfly offer stock media?",
+            "answer": "Yes, Clipfly includes a library of royalty-free images, videos, and music to enhance video projects."
+        }
+    ]
+}

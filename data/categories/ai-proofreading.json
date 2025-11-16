@@ -1,0 +1,281 @@
+{
+    "title": "The Best 25 AI Proofreading Tools in 2025",
+    "summary": "Elevate your writing with our AI Proofreading tools, designed to enhance clarity, grammar, and style in your documents. These innovative solutions not only catch errors but also provide suggestions for improvement, ensuring your content is polished and professional. Whether you're a student, a business professional, or a creative writer, our AI proofreading tools save you time and boost your confidence in your writing. Explore our curated selection today and transform your text into a masterpiece! Start refining your work now!",
+    "tools": [
+        {
+            "id": "12",
+            "name": "Grammarly",
+            "slug": "grammarly",
+            "description": "Grammarly is an AI-powered writing assistant that enhances writing quality through grammar, spelling, and style corrections across multiple platforms.",
+            "icon": "/logo/grammarly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "QuillBot",
+            "slug": "quillbot",
+            "description": "QuillBot is an AI-powered writing platform that enhances writing through paraphrasing, grammar checking, and other productivity tools.",
+            "icon": "/logo/quillbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "35",
+            "name": "ZeroGPT",
+            "slug": "zerogpt",
+            "description": "ZeroGPT provides AI-powered tools to detect AI-generated content and enhance writing with plagiarism checks, grammar correction, and more.",
+            "icon": "/logo/zerogpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "77",
+            "name": "LanguageTool",
+            "slug": "languagetool",
+            "description": "LanguageTool is an AI-powered grammar, style, and spell checker enhancing writing in over 30 languages.",
+            "icon": "/logo/languagetool.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "231",
+            "name": "Originality.ai",
+            "slug": "originality-ai",
+            "description": "Originality.ai provides AI-driven tools to detect AI-generated content and ensure content authenticity for writers and publishers.",
+            "icon": "/logo/originality.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "240",
+            "name": "AIHumanize",
+            "slug": "aihumanize",
+            "description": "AIHumanize offers AI-powered tools to transform AI-generated text into human-like content and bypass AI detection.",
+            "icon": "/logo/www.aihumanize.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "419",
+            "name": "GlobalGPT",
+            "slug": "globalgpt",
+            "description": "GlobalGPT is an all-in-one AI platform offering access to multiple AI models for content creation, coding, and research.",
+            "icon": "/logo/www.glbgpt.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "463",
+            "name": "Nova AI",
+            "slug": "nova-ai",
+            "description": "Nova AI is a chatbot and personal assistant powered by advanced AI models like GPT-4, Gemini, and Claude, offering conversational and task-assistance features.",
+            "icon": "/logo/novaapp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "478",
+            "name": "Lumen5",
+            "slug": "lumen5",
+            "description": "Lumen5 is an AI-powered video creation platform that transforms text into engaging videos for businesses and marketers.",
+            "icon": "/logo/lumen5.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "504",
+            "name": "Cleanvoice AI",
+            "slug": "cleanvoice-ai",
+            "description": "Cleanvoice AI is an AI-powered platform that automates podcast and audio editing by removing noise, fillers, and imperfections for professional-grade sound.",
+            "icon": "/logo/cleanvoice.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "576",
+            "name": "Researcher.Life",
+            "slug": "researcher-life",
+            "description": "Researcher.Life is a subscription-based platform offering AI-powered tools and services to support researchers throughout their publication journey.",
+            "icon": "/logo/researcher.life.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1351",
+            "name": "Hera",
+            "slug": "hera",
+            "description": "Hera is an AI-powered platform that enables users to generate and edit videos using advanced artificial intelligence tools.",
+            "icon": "/logo/hera.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "630",
+            "name": "Zebracat",
+            "slug": "zebracat-ai",
+            "description": "Zebracat is an AI-powered platform that transforms text into engaging, professional-quality marketing videos in minutes.",
+            "icon": "/logo/www.zebracat.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "708",
+            "name": "Aftershoot",
+            "slug": "aftershoot",
+            "description": "Aftershoot is an AI-powered software that automates photo culling, editing, and retouching for photographers.",
+            "icon": "/logo/aftershoot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "862",
+            "name": "Spikes Studio",
+            "slug": "spikes-studio",
+            "description": "Spikes Studio is an AI-powered platform that automates video clipping and editing to help content creators produce engaging short-form videos from longer content for social media.",
+            "icon": "/logo/spikes.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "933",
+            "name": "Vocalize.fm",
+            "slug": "vocalize-fm",
+            "description": "Vocalize.fm is an AI-driven platform that enables users to generate high-quality podcasts and audio content from text using advanced voice synthesis technology.",
+            "icon": "/logo/www.vocalize.fm.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1086",
+            "name": "editGPT",
+            "slug": "editgpt",
+            "description": "editGPT is an AI-powered platform for proofreading, editing, and tracking changes in text, especially content generated by tools like ChatGPT.",
+            "icon": "/logo/editgpt.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1087",
+            "name": "CocoClip AI",
+            "slug": "cococlip-ai",
+            "description": "CocoClip AI is an innovative platform that leverages artificial intelligence to simplify video creation, enabling users to generate professional-quality videos from text, images, or ideas effortlessly.",
+            "icon": "/logo/cococlip.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1117",
+            "name": "Contrast",
+            "slug": "contrast",
+            "description": "Contrast is an AI-powered platform for enhancing image contrast, analyzing visuals, and generating accessible designs for creative and professional use.",
+            "icon": "/logo/www.getcontrast.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1210",
+            "name": "Uncheck AI",
+            "slug": "uncheck-ai",
+            "description": "Uncheck AI offers an AI checker and humanizer to scan and make AI-generated content undetectable, serving users with tools to enhance text for various applications.",
+            "icon": "/logo/uncheck.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1234",
+            "name": "Hama",
+            "slug": "hama",
+            "description": "Hama is an AI-powered web application that enables users to easily remove unwanted objects, people, or backgrounds from images with high precision.",
+            "icon": "/logo/www.hama.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1265",
+            "name": "GeminiGen AI",
+            "slug": "geminigen-ai",
+            "description": "GeminiGen AI is a platform that provides access to Google's Gemini AI model for generating text, images, and other content.",
+            "icon": "/logo/geminigen.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1325",
+            "name": "AI Video Maker",
+            "slug": "ai-video-maker",
+            "description": "AI Video Maker is an online platform that leverages artificial intelligence to simplify video creation and editing for users of all skill levels.",
+            "icon": "/logo/aivideomaker.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "1430",
+            "name": "HorizonX",
+            "slug": "horizonx",
+            "description": "HorizonX is an AI-powered integrated research environment that streamlines the entire research workflow from brainstorming to publication.",
+            "icon": "/logo/www.horizonx.live.webp",
+            "isFree": true,
+            "categories": [
+                "ai-proofreading"
+            ]
+        },
+        {
+            "id": "37",
+            "name": "Turnitin",
+            "slug": "turnitin",
+            "description": "Turnitin provides plagiarism detection and academic integrity solutions to enhance student learning and assessment.",
+            "icon": "/logo/turnitin.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-proofreading"
+            ]
+        }
+    ]
+}

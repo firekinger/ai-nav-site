@@ -1,0 +1,70 @@
+{
+    "name": "TalentRecruit",
+    "description": "TalentRecruit is an AI-powered recruitment software platform designed to streamline talent acquisition and hiring processes for businesses.",
+    "longDescription": "TalentRecruit is a comprehensive talent acquisition software developed by Oorwin, focusing on automating and optimizing recruitment workflows through AI-driven tools. Its mission is to empower HR teams and recruiters to find, engage, and hire top talent more efficiently while reducing time-to-hire and improving candidate quality. The platform serves businesses of various sizes by integrating applicant tracking systems (ATS), customer relationship management (CRM), and AI analytics to solve common hiring challenges like manual resume screening and biased selection. By leveraging AI, it provides intelligent candidate matching, predictive analytics, and automated communication, making the recruitment process more data-driven and effective. Overall, TalentRecruit helps organizations build stronger teams by combining technology with human insight to address talent shortages in competitive job markets.",
+    "url": "https://www.talentrecruit.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.talentrecruit.com.webp",
+    "category": "AI Recruiting",
+    "categorySlug": "ai-recruiting",
+    "slug": "talentrecruit",
+    "categories": [
+        "AI Recruiting",
+        "AI Resume Checker",
+        "AI Lead Generation",
+        "AI CRM"
+    ],
+    "features": [
+        "AI-powered resume parsing automatically extracts and analyzes candidate information from resumes, saving recruiters time on manual data entry.",
+        "Intelligent candidate matching uses algorithms to pair job openings with suitable candidates based on skills, experience, and cultural fit, improving hiring accuracy.",
+        "Automated sourcing tools scan multiple job boards and social networks to identify potential candidates, expanding the talent pool efficiently.",
+        "Predictive analytics provide insights into hiring trends and candidate success probabilities, helping teams make informed decisions.",
+        "Integrated CRM manages candidate relationships with personalized communication and follow-ups, enhancing engagement throughout the recruitment funnel.",
+        "Customizable workflows allow users to tailor recruitment processes to their specific needs, increasing operational flexibility.",
+        "Diversity and inclusion features help mitigate bias in hiring by promoting equitable candidate evaluation.",
+        "Reporting and dashboards offer real-time metrics on recruitment performance, enabling data-driven optimizations.",
+        "Mobile accessibility ensures recruiters can manage tasks on-the-go, boosting productivity.",
+        "Integration with third-party tools like email systems and calendars streamlines the overall hiring ecosystem."
+    ],
+    "faqs": [
+        {
+            "question": "What is TalentRecruit?",
+            "answer": "TalentRecruit is an AI-powered recruitment software that helps businesses automate and optimize their hiring processes. It combines ATS, CRM, and analytics to streamline talent acquisition."
+        },
+        {
+            "question": "Does TalentRecruit use AI?",
+            "answer": "Yes, TalentRecruit incorporates AI for features like resume parsing, candidate matching, and predictive analytics. This helps in making the recruitment process more efficient and accurate."
+        },
+        {
+            "question": "Is there a free trial available?",
+            "answer": "TalentRecruit offers a free demo or trial period for users to explore its features. However, full access requires a paid subscription based on business needs."
+        },
+        {
+            "question": "What industries does TalentRecruit serve?",
+            "answer": "TalentRecruit is suitable for various industries including IT, healthcare, finance, and manufacturing. It caters to businesses of all sizes looking to enhance their recruitment strategies."
+        },
+        {
+            "question": "How does TalentRecruit improve hiring efficiency?",
+            "answer": "By automating tasks like sourcing and screening, it reduces time-to-hire significantly. AI-driven insights also help in selecting better-matched candidates quickly."
+        },
+        {
+            "question": "Can TalentRecruit integrate with other HR tools?",
+            "answer": "Yes, it supports integrations with popular HR systems, email platforms, and calendars. This ensures seamless data flow across your recruitment ecosystem."
+        },
+        {
+            "question": "What support options are available?",
+            "answer": "TalentRecruit provides customer support through email, chat, and phone. They also offer training resources and dedicated account managers for enterprise users."
+        },
+        {
+            "question": "Is TalentRecruit secure for handling candidate data?",
+            "answer": "Yes, it complies with data protection regulations like GDPR and uses encryption to safeguard sensitive information. Regular security audits ensure platform reliability."
+        },
+        {
+            "question": "How customizable is the platform?",
+            "answer": "Users can customize workflows, reports, and dashboards to fit their specific recruitment needs. This flexibility makes it adaptable for different business models."
+        },
+        {
+            "question": "What is the pricing structure?",
+            "answer": "Pricing is tiered based on features and user count, starting from basic plans for small teams to enterprise solutions. Contact sales for a personalized quote."
+        }
+    ]
+}

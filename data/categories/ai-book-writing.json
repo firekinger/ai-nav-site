@@ -1,0 +1,72 @@
+{
+    "title": "The Best 6 AI Book Writing Tools in 2025",
+    "summary": "Unlock your creative potential with our AI Book Writing tools, designed to streamline the writing process and enhance your storytelling. Whether you're a seasoned author or a budding writer, these innovative solutions help you generate ideas, structure your narrative, and refine your prose effortlessly. Experience the benefits of increased productivity, enhanced creativity, and personalized writing assistance tailored to your unique style. Dive into our curated selection of AI tools and transform your writing journey today. Explore the possibilities and elevate your craft!",
+    "tools": [
+        {
+            "id": "459",
+            "name": "Squibler",
+            "slug": "squibler",
+            "description": "Squibler is an AI-powered writing platform designed to help authors and screenwriters create, organize, and publish books, novels, and screenplays efficiently.",
+            "icon": "/logo/www.squibler.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-writing"
+            ]
+        },
+        {
+            "id": "559",
+            "name": "Book by Anyone",
+            "slug": "book-by-anyone",
+            "description": "Book by Anyone enables users to create and print personalized, AI-generated satirical books as humorous gifts in minutes.",
+            "icon": "/logo/www.bookbyanyone.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-book-writing"
+            ]
+        },
+        {
+            "id": "841",
+            "name": "Trinka AI",
+            "slug": "trinka-ai",
+            "description": "Trinka AI is an advanced AI-powered grammar checker and writing assistant tailored for academic, technical, and professional writing.",
+            "icon": "/logo/www.trinka.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-writing"
+            ]
+        },
+        {
+            "id": "1005",
+            "name": "Firecut",
+            "slug": "firecut-ai",
+            "description": "Firecut is an AI-powered plugin for Adobe Premiere Pro that automates tedious video editing tasks to accelerate content creation for video professionals and creators.",
+            "icon": "/logo/firecut.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-writing"
+            ]
+        },
+        {
+            "id": "1151",
+            "name": "nichesss",
+            "slug": "nichesss",
+            "description": "nichesss is an AI-powered copywriting software that generates various types of content, such as blog posts, ads, social media content, and more, by clicking a button.",
+            "icon": "/logo/nichesss.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-book-writing"
+            ]
+        },
+        {
+            "id": "1400",
+            "name": "Biography Studio AI",
+            "slug": "biography-studio-ai",
+            "description": "Biography Studio AI is an AI-powered platform that transforms spoken personal life stories into professionally written books, audiobooks, or podcasts.",
+            "icon": "/logo/www.biographystudio.ai.webp",
+            "isFree": false,
+            "categories": [
+                "ai-book-writing"
+            ]
+        }
+    ]
+}

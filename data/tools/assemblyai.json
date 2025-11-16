@@ -1,0 +1,77 @@
+{
+    "name": "AssemblyAI",
+    "description": "AssemblyAI provides advanced Speech AI models to transcribe and analyze voice data via a developer-friendly API.",
+    "longDescription": "AssemblyAI is a leading Speech AI platform that offers state-of-the-art models for transcribing and understanding human speech, enabling developers and enterprises to build voice-powered applications. Its mission is to unlock the potential of voice data by providing accurate, scalable, and secure AI solutions. The platform serves a wide range of users, from startups to Fortune 500 companies like Spotify and CallRail, by offering tools to transcribe audio, extract insights, and integrate with workflows. AssemblyAI’s API supports both real-time and asynchronous transcription, making it ideal for use cases like meeting summaries, voice agents, and content moderation. With a focus on continuous innovation, the platform delivers weekly updates and maintains enterprise-grade security standards, including SOC 2 Type 2 compliance.",
+    "url": "https://www.assemblyai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.assemblyai.com.webp",
+    "category": "AI Speech-to-Text",
+    "categorySlug": "ai-speech-to-text",
+    "slug": "assemblyai",
+    "categories": [
+        "AI Speech-to-Text",
+        "AI Transcription",
+        "AI Audio Editing",
+        "Large Language Models (LLMs)",
+        "AI Translate",
+        "AI API",
+        "AI Voice Assistants",
+        "AI Content Detector",
+        "AI Text Classifier"
+    ],
+    "features": [
+        "Universal-1 Speech-to-Text model transcribes audio with up to 95% accuracy, enabling reliable voice data processing.",
+        "Real-time transcription delivers ultra-low latency streaming for live audio and video, ideal for voice agents.",
+        "Audio Intelligence models summarize conversations, detect sentiment, and identify speakers for enhanced data insights.",
+        "LeMUR framework applies large language models to transcripts, allowing users to extract action items or answer questions.",
+        "Speaker diarization distinguishes multiple speakers in a conversation, improving transcription clarity for meetings.",
+        "PII redaction automatically removes sensitive information, ensuring compliance with privacy regulations.",
+        "Multilingual support covers over 99 languages, including global English accents, for broad accessibility.",
+        "No-code playground allows users to test AI models by uploading audio files without programming.",
+        "Enterprise-grade security with SOC 2 Type 2, PCI DSS, and GDPR compliance protects user data.",
+        "Scalable API supports high-concurrency workloads with automatic scaling for production environments.",
+        "Custom vocabulary and spelling enhance transcription accuracy for industry-specific terms.",
+        "Integration with platforms like AWS, Twilio, and Zapier streamlines workflow automation."
+    ],
+    "faqs": [
+        {
+            "question": "What is AssemblyAI used for?",
+            "answer": "AssemblyAI provides Speech AI models to transcribe audio, analyze voice data, and build voice-powered applications like meeting summaries or voice agents."
+        },
+        {
+            "question": "Does AssemblyAI offer a free plan?",
+            "answer": "Yes, AssemblyAI offers a free API key with $50 in credits for testing, covering up to 185 hours of pre-recorded audio transcription."
+        },
+        {
+            "question": "How accurate is AssemblyAI’s transcription?",
+            "answer": "AssemblyAI’s Universal-1 model achieves up to 95% accuracy, with 30% fewer hallucinations compared to competitors like Whisper."
+        },
+        {
+            "question": "Can AssemblyAI transcribe live audio?",
+            "answer": "Yes, its real-time transcription API supports streaming audio with ultra-low latency, ideal for live conversations or broadcasts."
+        },
+        {
+            "question": "What languages does AssemblyAI support?",
+            "answer": "AssemblyAI supports over 99 languages, including global English accents, ensuring broad multilingual compatibility."
+        },
+        {
+            "question": "Is AssemblyAI secure for enterprise use?",
+            "answer": "AssemblyAI ensures data security with SOC 2 Type 2, PCI DSS, GDPR compliance, and offers Business Associate Agreements for healthcare."
+        },
+        {
+            "question": "How fast does AssemblyAI process audio files?",
+            "answer": "Most audio files are processed in under 60 seconds, with a 30-minute file taking about 23 seconds using the Universal model."
+        },
+        {
+            "question": "Does AssemblyAI integrate with other platforms?",
+            "answer": "Yes, it integrates with AWS, Twilio, Zapier, and others, enabling seamless workflow automation for developers."
+        },
+        {
+            "question": "What is the LeMUR framework?",
+            "answer": "LeMUR applies large language models to transcripts, allowing users to summarize, extract action items, or query audio content."
+        },
+        {
+            "question": "Can beginners use AssemblyAI without coding?",
+            "answer": "Yes, the no-code playground lets users upload audio files and test AI models without programming skills."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "MeetGeek",
+    "description": "MeetGeek is an AI-powered meeting assistant that automates recording, transcription, and summarization of meetings to enhance productivity.",
+    "longDescription": "MeetGeek is an AI-driven platform designed to streamline meeting management by automatically recording, transcribing, and summarizing virtual and in-person conversations. Its mission is to transform meetings from time-consuming tasks into actionable resources by providing accurate transcripts, AI-generated summaries, and actionable insights. The platform serves professionals, teams, and enterprises by integrating seamlessly with tools like Zoom, Google Meet, and Microsoft Teams, as well as CRMs and collaboration apps. By automating note-taking and follow-up tasks, MeetGeek reduces manual work, boosts team collaboration, and helps users focus on meaningful discussions. It supports over 50 languages, making it ideal for global teams, and prioritizes data security with enterprise-grade encryption. The platform is trusted by over 30,000 teams worldwide to enhance meeting efficiency and productivity.",
+    "url": "https://meetgeek.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/meetgeek.ai.webp",
+    "category": "AI Meeting Assistant",
+    "categorySlug": "ai-meeting-assistant",
+    "slug": "meetgeek-ai",
+    "categories": [
+        "AI Meeting Assistant",
+        "AI Transcription",
+        "AI Summarizer",
+        "AI Task Management",
+        "AI Project Management",
+        "AI CRM",
+        "AI Translate"
+    ],
+    "features": [
+        "Automated meeting transcription converts audio from Zoom, Google Meet, Teams, or offline meetings into accurate text in over 50 languages, enabling easy review and sharing.",
+        "AI-generated summaries condense hour-long meetings into concise overviews with key points and action items, saving time on post-meeting follow-ups.",
+        "Action item extraction automatically identifies and tags tasks from meeting discussions, ensuring clear follow-up responsibilities.",
+        "Seamless integrations sync meeting notes, transcripts, and highlights with tools like HubSpot, Slack, Notion, and over 7,000 apps via Zapier, streamlining workflows.",
+        "Searchable meeting library organizes past meetings by keywords, participants, or tags, allowing quick access to critical information.",
+        "AI-powered insights analyze meeting engagement, sentiment, and speaker distribution to provide coaching tips and performance metrics.",
+        "Chrome extension enables recording and transcription of calls on platforms like Webex and Discord without a bot, enhancing flexibility.",
+        "Customizable templates allow users to tailor meeting summaries to specific formats, ensuring relevance for sales, HR, or product teams.",
+        "Mobile app supports offline recording of in-person meetings, conferences, or interviews, with instant transcription and summarization.",
+        "Enterprise-grade security ensures data protection with 256-bit AES encryption, SOC 2 compliance, and GDPR adherence for safe meeting storage."
+    ],
+    "faqs": [
+        {
+            "question": "What is MeetGeek?",
+            "answer": "MeetGeek is an AI meeting assistant that automatically records, transcribes, and summarizes meetings, integrating with tools to enhance productivity."
+        },
+        {
+            "question": "Does MeetGeek offer a free plan?",
+            "answer": "Yes, MeetGeek provides a free Basic plan with 3 hours of transcription per month, ideal for individuals testing its core features."
+        },
+        {
+            "question": "Which platforms does MeetGeek support?",
+            "answer": "MeetGeek integrates with Zoom, Google Meet, Microsoft Teams, Webex, Discord, and more, via its web app or Chrome extension."
+        },
+        {
+            "question": "How accurate are MeetGeek’s transcriptions?",
+            "answer": "MeetGeek uses advanced speech-to-text technology for high-accuracy transcriptions in over 50 languages, customizable for industry jargon."
+        },
+        {
+            "question": "Can MeetGeek integrate with my CRM or Slack?",
+            "answer": "Yes, MeetGeek syncs meeting notes and insights with CRMs like HubSpot and Salesforce, and collaboration tools like Slack and Notion."
+        },
+        {
+            "question": "Is MeetGeek secure for sensitive meetings?",
+            "answer": "MeetGeek employs 256-bit AES encryption, SOC 2 compliance, and GDPR standards to ensure secure storage and sharing of meeting data."
+        },
+        {
+            "question": "Does MeetGeek support multiple languages?",
+            "answer": "Yes, MeetGeek transcribes and summarizes meetings in over 50 languages, including English, Spanish, French, and Arabic, ideal for global teams."
+        },
+        {
+            "question": "How does MeetGeek handle offline meetings?",
+            "answer": "The MeetGeek mobile app records and transcribes in-person conversations, such as interviews or conferences, even without an internet connection."
+        },
+        {
+            "question": "Can I customize meeting summary formats?",
+            "answer": "Yes, MeetGeek allows users to create or customize summary templates to fit specific needs, such as sales or onboarding meetings."
+        },
+        {
+            "question": "How does MeetGeek improve team collaboration?",
+            "answer": "MeetGeek’s searchable meeting library and team-sharing features allow colleagues to access and comment on meeting insights, reducing silos."
+        }
+    ]
+}

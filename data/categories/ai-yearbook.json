@@ -1,0 +1,17 @@
+{
+    "title": "The Best 1 AI Yearbook Tools in 2025",
+    "summary": "Discover the future of personalized memories with our AI Yearbook category. These innovative tools harness artificial intelligence to create stunning, customized yearbooks that capture your most cherished moments. Benefit from automated layouts, smart photo selection, and easy collaboration, making yearbook creation a breeze for schools, organizations, and families alike. Say goodbye to tedious design processes and hello to creativity and efficiency. Explore our curated selection of AI Yearbook tools today and transform your memories into a beautiful keepsake!",
+    "tools": [
+        {
+            "id": "519",
+            "name": "Aragon AI",
+            "slug": "aragon-ai",
+            "description": "Aragon AI generates professional AI-powered headshots and photo edits quickly and affordably for personal and business use.",
+            "icon": "/logo/www.aragon.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-yearbook"
+            ]
+        }
+    ]
+}

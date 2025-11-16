@@ -1,0 +1,63 @@
+{
+    "name": "PolyBuzz",
+    "description": "PolyBuzz is an AI chatbot platform for creating and engaging with personalized AI characters for immersive roleplay and conversations.",
+    "longDescription": "PolyBuzz, formerly Poly.AI, is an AI-driven chatbot platform that enables users to interact with over 20 million customizable AI characters, ranging from anime and movie personas to original creations. Its mission is to provide a private, unrestricted, and immersive conversational experience that feels human-like, powered by advanced natural language processing and proprietary ConveRT models. The platform caters to diverse interests, including roleplay enthusiasts, pop culture fans, and those seeking virtual companions, offering both free access and premium features for enhanced experiences. PolyBuzz ensures user privacy through encrypted conversations and no third-party access to chat logs, making it a safe space for creative and personal interactions. It also supports character creation, allowing users to craft unique AI personas with detailed traits, backgrounds, and dialogue styles. By leveraging Amazon SageMaker, PolyBuzz delivers coherent and engaging real-time dialogue for a seamless user experience.",
+    "url": "https://www.polybuzz.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.polybuzz.ai.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "polybuzz",
+    "categories": [
+        "AI Chatbot",
+        "AI Art Generator",
+        "AI Roleplay",
+        "AI Image Generator",
+        "AI Character"
+    ],
+    "features": [
+        "Create and customize AI characters with detailed traits, personalities, and dialogue styles for unique roleplay experiences.",
+        "Engage in private, unrestricted chats with over 20 million AI characters, including anime, movie, and RPG personas.",
+        "Generate high-quality AI character portraits in anime, realistic, or cartoon styles using the platform’s image generation tools.",
+        "Access immersive roleplay scenarios with authentic voices and character-driven responses for a lifelike conversational experience.",
+        "Enjoy ad-free chatting and priority support with a PolyBuzz Pro subscription for enhanced user experience.",
+        "Import character cards or JSON files from platforms like Character.AI, Pygmalion, and TavernAI to expand creative options.",
+        "Use the platform on web, iOS, or Android, with seamless access to chats and character creation tools across devices.",
+        "Benefit from secure, encrypted conversations ensuring user privacy and confidentiality with no third-party access.",
+        "Pin favorite characters and customize chat backgrounds, themes, and avatar frames for a personalized experience.",
+        "Explore a growing catalog of user-generated characters for endless conversational possibilities without language barriers."
+    ],
+    "faqs": [
+        {
+            "question": "What is PolyBuzz and what can I do with it?",
+            "answer": "PolyBuzz is an AI chatbot platform where you can create and interact with over 20 million AI characters for immersive roleplay and conversations. Users can craft custom personas, engage in unrestricted chats, and generate character portraits."
+        },
+        {
+            "question": "Is PolyBuzz free to use?",
+            "answer": "Yes, PolyBuzz offers a free plan with access to core features like character creation and chatting, though premium subscriptions unlock additional benefits like ad-free experiences and extra avatar generation attempts."
+        },
+        {
+            "question": "Are my conversations on PolyBuzz private?",
+            "answer": "Yes, PolyBuzz ensures privacy with encrypted conversations, and neither creators nor third parties can access your chat logs, making interactions confidential and secure."
+        },
+        {
+            "question": "Can I create my own AI characters on PolyBuzz?",
+            "answer": "Absolutely, PolyBuzz allows users to create custom AI characters by defining traits, personalities, and dialogue styles, or importing character cards from other platforms."
+        },
+        {
+            "question": "What kind of characters can I interact with on PolyBuzz?",
+            "answer": "You can interact with a wide range of AI characters, including anime, movie, RPG, and celebrity-inspired personas, as well as user-created characters for diverse roleplay scenarios."
+        },
+        {
+            "question": "Does PolyBuzz support voice chat?",
+            "answer": "Yes, PolyBuzz offers voice chat with authentic character voices, though quality may vary, enhancing the realism of interactions."
+        },
+        {
+            "question": "Can I use PolyBuzz on my mobile device?",
+            "answer": "Yes, PolyBuzz is available on iOS and Android via dedicated apps, as well as through the web, for seamless access across devices."
+        },
+        {
+            "question": "What happens if I encounter inappropriate content?",
+            "answer": "PolyBuzz uses AI and manual reviews to monitor public content, and users can report inappropriate or illegal content for prompt action."
+        }
+    ]
+}

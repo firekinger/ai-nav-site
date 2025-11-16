@@ -1,0 +1,820 @@
+{
+    "title": "The Best 74 AI Article Summarizer Tools in 2025",
+    "summary": "Discover the power of AI Article Summarizers, designed to transform lengthy texts into concise, digestible summaries. These innovative tools save you time and enhance productivity by distilling essential information from articles, research papers, and reports. Whether you're a student, professional, or avid reader, our AI summarizers help you grasp key insights quickly and efficiently. Explore our curated selection of top-notch tools to streamline your reading experience and stay informed without the overwhelm. Dive in now and unlock the potential of AI-driven summarization!",
+    "tools": [
+        {
+            "id": "12",
+            "name": "Grammarly",
+            "slug": "grammarly",
+            "description": "Grammarly is an AI-powered writing assistant that enhances writing quality through grammar, spelling, and style corrections across multiple platforms.",
+            "icon": "/logo/grammarly.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Liner",
+            "slug": "liner",
+            "description": "Liner is an AI-powered research and productivity tool designed to streamline web browsing and information gathering.",
+            "icon": "/logo/getliner.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "Tactiq",
+            "slug": "tactiq",
+            "description": "Tactiq provides real-time transcription and meeting note automation for teams using video conferencing platforms.",
+            "icon": "/logo/tactiq.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "Notta",
+            "slug": "notta",
+            "description": "Notta is an AI-powered transcription and note-taking platform that converts audio and video into text with real-time collaboration features.",
+            "icon": "/logo/www.notta.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "178",
+            "name": "Consensus",
+            "slug": "consensus",
+            "description": "Consensus is an AI-powered search engine that provides evidence-based answers from scientific research.",
+            "icon": "/logo/consensus.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "72",
+            "name": "Semantic Scholar",
+            "slug": "semantic-scholar",
+            "description": "Semantic Scholar is an AI-powered research tool for discovering and understanding scientific literature across various fields.",
+            "icon": "/logo/semanticscholar.org.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "180",
+            "name": "Fathom",
+            "slug": "fathom",
+            "description": "Fathom provides AI-powered meeting notes, transcription, and analytics to enhance productivity.",
+            "icon": "/logo/fathom.video.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "233",
+            "name": "StealthWriter",
+            "slug": "stealthwriter",
+            "description": "StealthWriter.ai is an AI-powered tool designed to humanize AI-generated text and make it undetectable by AI detection tools.",
+            "icon": "/logo/stealthwriter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "269",
+            "name": "ScreenApp",
+            "slug": "screenapp",
+            "description": "ScreenApp is a versatile screen recording and video editing platform designed to simplify content creation and collaboration.",
+            "icon": "/logo/screenapp.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "283",
+            "name": "tl;dv",
+            "slug": "tldv",
+            "description": "tl;dv is an AI-powered platform for recording, transcribing, and summarizing virtual meetings on Zoom and Google Meet.",
+            "icon": "/logo/tldv.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "293",
+            "name": "UPDF",
+            "slug": "updf",
+            "description": "UPDF is an AI-integrated PDF editor that simplifies editing, annotating, converting, and organizing PDF documents across multiple platforms.",
+            "icon": "/logo/updf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "295",
+            "name": "WriteHuman",
+            "slug": "writehuman",
+            "description": "WriteHuman transforms AI-generated text into authentic, human-like content that bypasses AI detection tools.",
+            "icon": "/logo/writehuman.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "351",
+            "name": "Humbot",
+            "slug": "humbot",
+            "description": "Humbot is an AI-powered platform that humanizes AI-generated text to bypass detection and enhance readability.",
+            "icon": "/logo/humbot.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "361",
+            "name": "Revisely",
+            "slug": "revisely",
+            "description": "Revisely is an AI-powered platform offering interactive study tools and resources for students and professionals.",
+            "icon": "/logo/www.revisely.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "400",
+            "name": "SoBrief",
+            "slug": "sobrief",
+            "description": "SoBrief provides AI-generated book summaries in multiple formats to help users quickly grasp key insights from over 73,530 titles.",
+            "icon": "/logo/sobrief.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "401",
+            "name": "Jenni AI",
+            "slug": "jenni-ai",
+            "description": "Jenni AI is an AI-powered writing assistant designed to enhance academic and creative writing with real-time suggestions and citation tools.",
+            "icon": "/logo/jenni.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "403",
+            "name": "Quizgecko",
+            "slug": "quizgecko",
+            "description": "Quizgecko is an AI-powered platform that transforms content into quizzes, flashcards, and study materials for enhanced learning.",
+            "icon": "/logo/quizgecko.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "424",
+            "name": "Kome",
+            "slug": "kome-ai",
+            "description": "Kome is an AI-powered browser extension that enhances online productivity by summarizing content, managing bookmarks, and assisting with content creation.",
+            "icon": "/logo/kome.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "480",
+            "name": "Mapify",
+            "slug": "mapify",
+            "description": "Mapify is an AI-powered tool that transforms various content types into clear, structured mind maps to enhance productivity and learning.",
+            "icon": "/logo/mapify.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "481",
+            "name": "HyperWrite",
+            "slug": "hyperwrite",
+            "description": "HyperWrite is an AI-powered writing assistant that enhances productivity and creativity for content creation and communication.",
+            "icon": "/logo/www.hyperwriteai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "494",
+            "name": "Glarity",
+            "slug": "glarity",
+            "description": "Glarity is a free, open-source browser extension that uses AI to summarize and translate content from YouTube, Google, and other web platforms.",
+            "icon": "/logo/glarity.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "511",
+            "name": "Mindgrasp",
+            "slug": "mindgrasp-ai",
+            "description": "Mindgrasp is an AI-powered learning platform that transforms educational content into personalized study tools for students and professionals.",
+            "icon": "/logo/www.mindgrasp.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "536",
+            "name": "MagicSlides",
+            "slug": "magicslides",
+            "description": "MagicSlides is an AI-powered platform that creates professional presentation slides from text, topics, or multimedia in seconds.",
+            "icon": "/logo/www.magicslides.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "545",
+            "name": "Humata",
+            "slug": "humata-ai",
+            "description": "Humata is an AI-powered platform that enables users to analyze, summarize, and extract insights from documents like PDFs, Word files, and PowerPoint presentations.",
+            "icon": "/logo/www.humata.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "579",
+            "name": "SlideSpeak",
+            "slug": "slidespeak",
+            "description": "SlideSpeak is an AI-powered platform that automates the creation, summarization, and querying of PowerPoint presentations from various document formats.",
+            "icon": "/logo/slidespeak.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "603",
+            "name": "Noiz",
+            "slug": "noiz",
+            "description": "Noiz is an AI-powered platform that generates concise summaries of YouTube videos and PDFs to enhance learning and productivity.",
+            "icon": "/logo/noiz.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "610",
+            "name": "AskYourPDF",
+            "slug": "askyourpdf",
+            "description": "AskYourPDF is an AI-powered platform that enables users to interact conversationally with PDF documents, extracting insights and answers efficiently.",
+            "icon": "/logo/askyourpdf.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "631",
+            "name": "RecCloud",
+            "slug": "reccloud",
+            "description": "RecCloud is an AI-powered multimedia platform offering tools for video and audio creation, editing, and cloud storage.",
+            "icon": "/logo/reccloud.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "642",
+            "name": "Andi",
+            "slug": "andi",
+            "description": "Andi is an AI-powered search engine that delivers conversational, ad-free answers instead of traditional link lists.",
+            "icon": "/logo/andisearch.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "657",
+            "name": "Voilà",
+            "slug": "voila-ai",
+            "description": "Voilà is an AI-powered assistant that enhances productivity by offering tools for writing, brainstorming, and researching across various platforms.",
+            "icon": "/logo/www.getvoila.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "670",
+            "name": "Dovetail",
+            "slug": "dovetail",
+            "description": "Dovetail is a customer insights hub that transforms research data into actionable insights for teams and businesses.",
+            "icon": "/logo/dovetail.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "671",
+            "name": "HARPA AI",
+            "slug": "harpa-ai",
+            "description": "HARPA AI is a Chrome extension that integrates multiple AI models to automate web tasks, enhance productivity, and streamline online workflows.",
+            "icon": "/logo/harpa.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "717",
+            "name": "PDF.ai",
+            "slug": "pdf-ai",
+            "description": "PDF.ai is an AI-powered platform that enables users to interact with PDF documents through chat, summarization, and analysis for enhanced productivity.",
+            "icon": "/logo/pdf.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "722",
+            "name": "Summarist.ai",
+            "slug": "summarist-ai",
+            "description": "Summarist.ai is an AI-powered platform that generates concise book summaries in under 30 seconds.",
+            "icon": "/logo/summarist.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "738",
+            "name": "Quetext",
+            "slug": "quetext",
+            "description": "Quetext is a plagiarism detection and writing assistant platform that ensures content originality and enhances writing quality for students, educators, and professionals.",
+            "icon": "/logo/www.quetext.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "740",
+            "name": "Scholarcy",
+            "slug": "scholarcy",
+            "description": "Scholarcy is an AI-powered tool that summarizes academic papers and creates interactive flashcards to enhance research and study efficiency.",
+            "icon": "/logo/www.scholarcy.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "743",
+            "name": "Bluedot",
+            "slug": "bluedot",
+            "description": "Bluedot provides an AI-powered note-taking and meeting recording solution for platforms like Google Meet, Zoom, and Microsoft Teams.",
+            "icon": "/logo/www.bluedothq.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "750",
+            "name": "Linnk AI",
+            "slug": "linnk-ai",
+            "description": "Linnk AI provides AI-powered tools for summarizing, translating, and analyzing documents to streamline research and workflow for professionals and academics.",
+            "icon": "/logo/www.linnk.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "759",
+            "name": "Coral AI",
+            "slug": "coral-ai",
+            "description": "Coral AI provides AI-powered tools to summarize, query, and transcribe documents and meetings for enhanced productivity.",
+            "icon": "/logo/www.getcoralai.com.webp",
+            "isFree": false,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "760",
+            "name": "SlidesPilot",
+            "slug": "slidespilot",
+            "description": "SlidesPilot is an AI-powered platform for creating professional presentations and converting documents into PowerPoint slides.",
+            "icon": "/logo/www.slidespilot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "766",
+            "name": "Summarizer Best",
+            "slug": "summarizer-best",
+            "description": "Summarizer Best is an AI-powered tool that condenses long texts, articles, and documents into concise summaries.",
+            "icon": "/logo/summarizer.best.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "781",
+            "name": "Shortwave",
+            "slug": "shortwave",
+            "description": "Shortwave is an AI-powered email client designed to enhance productivity and streamline inbox management.",
+            "icon": "/logo/www.shortwave.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "812",
+            "name": "Logically.app",
+            "slug": "logically-app",
+            "description": "Logically.app (formerly Afforai) is an AI-powered research and writing workspace for managing references, conducting literature reviews, and collaborating on academic papers.",
+            "icon": "/logo/afforai.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "827",
+            "name": "SciSpace",
+            "slug": "scispace",
+            "description": "SciSpace is an AI-powered platform that streamlines academic research by helping users discover, analyze, and create research papers efficiently.",
+            "icon": "/logo/scispace.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "850",
+            "name": "TLDR This",
+            "slug": "tldr-this",
+            "description": "TLDR This is an AI-powered summarization tool that condenses long articles, documents, and texts into concise summaries and key points.",
+            "icon": "/logo/www.tldrthis.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "856",
+            "name": "TXYZ.ai",
+            "slug": "txyz-ai",
+            "description": "TXYZ.ai is an innovative AI platform offering tools for text generation, summarization, and analysis to enhance productivity and research.",
+            "icon": "/logo/www.txyz.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "879",
+            "name": "Summarize.ing",
+            "slug": "summarize-ing",
+            "description": "Summarize.ing is an AI-driven platform that provides quick and accurate summaries of articles, web pages, and other text content to help users save time on reading.",
+            "icon": "/logo/summarize.ing.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "940",
+            "name": "Astra AI",
+            "slug": "astra-ai",
+            "description": "Astra AI is a cutting-edge platform that harnesses artificial intelligence to provide advanced data analysis and business intelligence solutions.",
+            "icon": "/logo/astra-ai.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "952",
+            "name": "Numerous.ai",
+            "slug": "numerous-ai",
+            "description": "Numerous.ai is an AI-powered plugin that integrates advanced AI capabilities directly into spreadsheets like Google Sheets and Microsoft Excel, enabling users to automate tasks, generate content, and analyze data efficiently.",
+            "icon": "/logo/numerous.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "953",
+            "name": "Reflect",
+            "slug": "reflect",
+            "description": "Reflect is an AI-powered note-taking app that helps users capture, organize, and connect ideas through networked notes and intelligent features.",
+            "icon": "/logo/reflect.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "970",
+            "name": "Penseum",
+            "slug": "penseum",
+            "description": "Penseum is an AI-powered study platform that transforms notes, lectures, and textbooks into personalized flashcards, quizzes, and summaries to enhance learning efficiency.",
+            "icon": "/logo/penseum.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "988",
+            "name": "MyJotBot",
+            "slug": "myjotbot",
+            "description": "MyJotBot is an AI-powered personal assistant for jotting down notes, organizing ideas, and enhancing productivity through intelligent automation.",
+            "icon": "/logo/myjotbot.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1011",
+            "name": "Intellectia.ai",
+            "slug": "intellectia-ai",
+            "description": "Intellectia.ai is an AI-powered platform designed to enhance learning by generating personalized quizzes, flashcards, and study materials for students and educators.",
+            "icon": "/logo/intellectia.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1023",
+            "name": "ChatDOC",
+            "slug": "chatdoc",
+            "description": "ChatDOC is an AI-powered platform that allows users to interact with documents through natural language chat, enabling quick extraction of insights, summaries, and answers from PDFs and other files.",
+            "icon": "/logo/chatdoc.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1036",
+            "name": "Ringflow",
+            "slug": "ringflow",
+            "description": "Ringflow is an AI-powered cloud communication platform that unifies voice, messaging, and video calls to enhance business connectivity, productivity, and customer satisfaction.",
+            "icon": "/logo/www.ringflow.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1044",
+            "name": "Uniscribe",
+            "slug": "uniscribe",
+            "description": "Uniscribe is an AI-powered platform designed to assist students and professionals with academic writing, research, and content generation.",
+            "icon": "/logo/www.uniscribe.co.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1048",
+            "name": "Mindsera",
+            "slug": "mindsera",
+            "description": "Mindsera is an AI-powered journaling app designed to enhance mindset, productivity, and personal growth through intelligent insights and habit tracking.",
+            "icon": "/logo/www.mindsera.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1059",
+            "name": "Snipd",
+            "slug": "snipd",
+            "description": "Snipd is an AI-powered podcast app that enables users to discover, highlight, and save key moments from podcasts for easy sharing and reference.",
+            "icon": "/logo/www.snipd.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1063",
+            "name": "Summarize.tech",
+            "slug": "summarize-tech",
+            "description": "Summarize.tech is an AI-powered platform that generates concise text summaries of YouTube videos to help users quickly extract key insights.",
+            "icon": "/logo/www.summarize.tech.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1095",
+            "name": "Trickle",
+            "slug": "trickle",
+            "description": "Trickle is an AI-powered knowledge management tool that helps users organize, summarize, and retrieve information from screenshots and notes effortlessly.",
+            "icon": "/logo/trickle.so.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1101",
+            "name": "SigmaOS",
+            "slug": "sigmaos",
+            "description": "SigmaOS is a productivity-focused web browser designed to enhance workflow efficiency through intelligent tab management and AI-powered tools.",
+            "icon": "/logo/sigmaos.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1127",
+            "name": "ChatGPT Writer",
+            "slug": "chatgpt-writer-ai",
+            "description": "ChatGPT Writer is a free browser extension that leverages AI to assist users in writing emails, messages, and other text directly on any website.",
+            "icon": "/logo/chatgptwriter.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1128",
+            "name": "Callin",
+            "slug": "callin",
+            "description": "Callin is a social audio platform that enables users to host live conversations, engage with audiences, and effortlessly convert sessions into podcasts.",
+            "icon": "/logo/callin.io.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1159",
+            "name": "SaveDay",
+            "slug": "saveday",
+            "description": "SaveDay is an AI-powered knowledge management tool that helps users capture, organize, and retrieve information from various sources effortlessly.",
+            "icon": "/logo/www.save.day.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1160",
+            "name": "PaperGuide",
+            "slug": "paperguide-ai",
+            "description": "PaperGuide.ai is an AI-powered platform that assists researchers and students in understanding, summarizing, and analyzing academic papers efficiently.",
+            "icon": "/logo/paperguide.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1161",
+            "name": "Netus AI",
+            "slug": "netus-ai",
+            "description": "Netus AI is an innovative platform providing AI-powered paraphrasing and humanization tools to generate undetectable, high-quality content for writers and marketers.",
+            "icon": "/logo/netus.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1186",
+            "name": "Wordkraft AI",
+            "slug": "wordkraft-ai",
+            "description": "Wordkraft AI is an artificial intelligence-driven content generator designed to assist users in producing keyword-optimized, well-written content for websites, blogs, or marketing purposes, enhancing digital visibility and efficiency.",
+            "icon": "/logo/wordkraft.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1218",
+            "name": "Word Studio",
+            "slug": "word-studio",
+            "description": "Word Studio is an AI-powered platform offering a suite of writing tools to help users generate, edit, and optimize content efficiently.",
+            "icon": "/logo/word.studio.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1237",
+            "name": "Paraphrase Tool",
+            "slug": "paraphrase-tool",
+            "description": "Paraphrase Tool is an AI-driven online platform that provides text paraphrasing, rewriting, and editing tools to help users create original content efficiently.",
+            "icon": "/logo/paraphrasetool.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1372",
+            "name": "Tako",
+            "slug": "tako",
+            "description": "Tako is an AI-powered platform that streamlines customer research by automating interviews, transcriptions, and insights generation.",
+            "icon": "/logo/trytako.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1309",
+            "name": "AceEssay.ai",
+            "slug": "aceessay-ai",
+            "description": "AceEssay.ai is an AI-driven platform that assists users in generating, editing, and optimizing essays and academic content efficiently.",
+            "icon": "/logo/aceessay.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1425",
+            "name": "Browserfly",
+            "slug": "browserfly",
+            "description": "Browserfly is an AI agent that integrates into your browser to automate tasks, summarize content, and enhance web interactions.",
+            "icon": "/logo/browserfly.app.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1238",
+            "name": "Futurwise",
+            "slug": "futurwise",
+            "description": "Futurwise is a knowledge platform that delivers hyper-personalized, AI-generated summaries of articles, videos, podcasts, PDFs, and more, helping users cut through information overload with tailored insights in over 25 languages.",
+            "icon": "/logo/www.futurwise.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        },
+        {
+            "id": "1437",
+            "name": "Asana",
+            "slug": "asana",
+            "description": "Asana is a collaborative work management platform that helps teams organize tasks, track projects, and achieve goals efficiently.",
+            "icon": "/logo/asana.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-article-summarizer"
+            ]
+        }
+    ]
+}

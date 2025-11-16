@@ -1,0 +1,76 @@
+{
+    "name": "ImgFX",
+    "description": "ImgFX is an AI-powered platform for generating and editing images with advanced effects and creative tools.",
+    "longDescription": "ImgFX is a web-based tool designed to leverage artificial intelligence for image manipulation and enhancement, allowing users to apply various effects, generate new visuals, and edit photos effortlessly. Its mission is to democratize advanced image processing, making it accessible to both professionals and hobbyists without requiring extensive technical skills. The platform solves problems related to time-consuming manual editing by automating complex tasks like style transfers, object removal, and artistic rendering. Users can upload their images or generate new ones from prompts, serving industries like graphic design, marketing, and social media content creation. Overall, ImgFX aims to boost creativity and productivity through intuitive AI-driven features.",
+    "url": "https://imgfx.dev/?utm_source=ainavdir",
+    "screenshot": "/screenshot/imgfx.dev.webp",
+    "category": "AI Image Generator",
+    "categorySlug": "ai-image-generator",
+    "slug": "imgfx",
+    "categories": [
+        "AI Image Generator",
+        "AI Photo Editor",
+        "AI Design Generator",
+        "AI Style Transfer",
+        "Object Remover AI",
+        "AI Design Assistant",
+        "AI Social Media Post Generator",
+        "AI Writing Assistants",
+        "AI Animation Generator",
+        "AI Art Generator"
+    ],
+    "features": [
+        "AI-powered image generation allows users to create original visuals from text descriptions, enabling quick ideation for artists and designers.",
+        "Advanced effects library provides one-click applications of filters like vintage, surreal, or futuristic styles, enhancing photos without manual adjustments.",
+        "Object detection and removal tool intelligently identifies and erases unwanted elements from images, simplifying editing tasks.",
+        "Style transfer feature applies artistic styles from famous painters or custom references to user-uploaded images, fostering creative experimentation.",
+        "Batch processing capability handles multiple images simultaneously, saving time for users working on large projects.",
+        "Real-time preview shows changes instantly, allowing users to iterate and refine their edits efficiently.",
+        "Integration with social media platforms enables direct export and sharing of edited images, streamlining content creation workflows.",
+        "Customizable AI models let advanced users train or fine-tune effects for personalized results.",
+        "High-resolution output ensures professional-quality images suitable for print or digital use.",
+        "User-friendly interface with drag-and-drop functionality makes the tool accessible to beginners."
+    ],
+    "faqs": [
+        {
+            "question": "What is ImgFX primarily used for?",
+            "answer": "ImgFX is used for AI-assisted image generation and editing, helping users create or modify visuals with effects and tools."
+        },
+        {
+            "question": "Does ImgFX require any software installation?",
+            "answer": "No, ImgFX is a web-based platform that runs directly in your browser, requiring no downloads or installations."
+        },
+        {
+            "question": "Is there a free version of ImgFX?",
+            "answer": "Yes, ImgFX offers a free plan with limited features and usage credits, allowing users to try core functionalities before upgrading."
+        },
+        {
+            "question": "How does the AI image generation work?",
+            "answer": "Users input text prompts describing the desired image, and the AI generates visuals based on trained models, with options to refine outputs."
+        },
+        {
+            "question": "Can I use ImgFX for commercial projects?",
+            "answer": "Yes, paid plans allow commercial use of generated and edited images, but users should review the terms for any restrictions."
+        },
+        {
+            "question": "What file formats does ImgFX support?",
+            "answer": "ImgFX supports common formats like JPEG, PNG, and GIF for uploads and exports, ensuring compatibility with most devices."
+        },
+        {
+            "question": "How secure is my data on ImgFX?",
+            "answer": "ImgFX uses encryption and secure servers to protect user data, with options to delete uploaded images after processing."
+        },
+        {
+            "question": "Does ImgFX offer collaboration features?",
+            "answer": "Currently, ImgFX focuses on individual use, but future updates may include sharing and collaboration tools."
+        },
+        {
+            "question": "What makes ImgFX different from other image editors?",
+            "answer": "ImgFX stands out with its AI-driven automation for complex effects, reducing the need for manual skills compared to traditional software."
+        },
+        {
+            "question": "Can I integrate ImgFX with other tools?",
+            "answer": "Yes, ImgFX provides API access in premium plans for integration with other applications or workflows."
+        }
+    ]
+}

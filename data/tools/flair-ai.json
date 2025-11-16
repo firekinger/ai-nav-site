@@ -1,0 +1,65 @@
+{
+    "name": "Flair AI",
+    "description": "Flair AI is an AI-powered design tool for creating professional product photography and branded visual content for e-commerce.",
+    "longDescription": "Flair AI is an innovative platform that leverages artificial intelligence to simplify and enhance product photography for e-commerce businesses, marketers, and designers. It enables users to create high-quality, studio-grade product images and videos without the need for expensive photoshoots or professional equipment. With a user-friendly drag-and-drop interface, Flair AI allows users to stage virtual scenes, customize visuals with 3D assets, and generate AI-driven models for fashion shoots. The platform aims to make professional-grade visual content accessible, cost-effective, and scalable, catering to brands of all sizes. By streamlining the creative process, Flair AI empowers users to focus on growing their brand while producing visually compelling content in minutes. It also supports real-time collaboration, making it ideal for teams working on marketing campaigns or product catalogs.",
+    "url": "https://flair.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/flair.ai.webp",
+    "category": "AI Product Photography",
+    "categorySlug": "ai-product-photography",
+    "slug": "flair-ai",
+    "categories": [
+        "AI Product Photography",
+        "AI Models",
+        "AI Design Assistant",
+        "Text to Image",
+        "AI 3D Model Generator",
+        "AI Video Generator",
+        "AI Image Upscaler"
+    ],
+    "features": [
+        "Drag-and-drop interface simplifies the creation of professional product photoshoots, making it accessible for users with no design experience.",
+        "AI-generated models allow users to fit clothing and accessories onto virtual human models, preserving patterns and logos for realistic fashion imagery.",
+        "Customizable templates ensure consistent branding across product photos, ads, and marketing materials, saving time and effort.",
+        "3D asset integration enables users to stage digital scenes with props, enhancing the visual appeal of product images.",
+        "Real-time collaboration tools allow teams to work together seamlessly on design projects, improving workflow efficiency.",
+        "Text-to-image rendering generates high-quality visuals from simple text descriptions, streamlining content creation.",
+        "Image upscaling and editing tools, such as magic erase and background removal, enhance existing designs for professional results.",
+        "API integration supports scalable design solutions, allowing businesses to incorporate Flair AI into their existing systems.",
+        "Video generation capabilities transform still images into engaging video clips for social media or product demos.",
+        "Realistic lighting and shadow effects create lifelike product visuals, elevating the quality of e-commerce imagery."
+    ],
+    "faqs": [
+        {
+            "question": "What is Flair AI used for?",
+            "answer": "Flair AI is used to create high-quality product photography and branded visual content for e-commerce, marketing, and social media using AI-powered tools."
+        },
+        {
+            "question": "Is Flair AI suitable for beginners?",
+            "answer": "Yes, Flair AI’s intuitive drag-and-drop interface and pre-made templates make it user-friendly for beginners with no design experience."
+        },
+        {
+            "question": "Does Flair AI offer a free plan?",
+            "answer": "Flair AI provides a free tier that allows users to explore basic features, with advanced capabilities available through paid subscriptions."
+        },
+        {
+            "question": "Can Flair AI generate fashion photoshoots?",
+            "answer": "Yes, Flair AI can fit clothing onto AI-generated models, creating realistic and customizable fashion photoshoots with preserved patterns and logos."
+        },
+        {
+            "question": "How does Flair AI support team collaboration?",
+            "answer": "Flair AI offers real-time collaboration tools, enabling multiple users to work on design projects simultaneously for faster workflows."
+        },
+        {
+            "question": "Can I integrate Flair AI with other platforms?",
+            "answer": "Flair AI provides API access for seamless integration with existing systems, ideal for businesses scaling their design processes."
+        },
+        {
+            "question": "What types of businesses benefit from Flair AI?",
+            "answer": "E-commerce entrepreneurs, marketing professionals, graphic designers, and fashion brands benefit from Flair AI’s cost-efficient visual content creation."
+        },
+        {
+            "question": "Can Flair AI create videos as well as images?",
+            "answer": "Yes, Flair AI can generate engaging video clips from still images, perfect for social media or product demonstrations."
+        }
+    ]
+}

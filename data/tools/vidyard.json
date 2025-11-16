@@ -1,0 +1,73 @@
+{
+    "name": "Vidyard",
+    "description": "Vidyard is an online video platform that empowers businesses to create, host, and analyze videos to enhance sales, marketing, and customer engagement.",
+    "longDescription": "Vidyard is a leading video platform designed for businesses to leverage video content for sales, marketing, and internal communications. Founded in 2010, it enables users to create personalized video messages, host videos, and track viewer engagement to drive revenue and build stronger customer relationships. The platform integrates seamlessly with CRMs like Salesforce and HubSpot, providing actionable analytics to optimize outreach strategies. Vidyard’s AI-powered tools, such as AI Avatars, automate personalized video creation, helping sales teams scale their efforts efficiently. It serves a wide range of industries, from small businesses to global enterprises like Microsoft and LinkedIn, by humanizing digital interactions and accelerating sales cycles. With a focus on ease of use and robust analytics, Vidyard transforms how businesses connect with prospects and customers.",
+    "url": "https://www.vidyard.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.vidyard.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "vidyard",
+    "categories": [
+        "AI Video Generator",
+        "AI Project Management",
+        "AI CRM",
+        "AI Video Recording",
+        "AI Sales"
+    ],
+    "features": [
+        "Record and share personalized video messages to engage prospects and customers, enhancing email outreach with a human touch.",
+        "Host videos securely with customizable branding and sharing pages to maintain a professional appearance.",
+        "Track viewer engagement with detailed analytics, such as watch time and interactions, to optimize sales and marketing strategies.",
+        "Integrate with CRMs like Salesforce and HubSpot to sync video data and streamline workflows.",
+        "Use AI Avatars to automate personalized video creation, saving time while maintaining authenticity.",
+        "Record screen and webcam simultaneously to create demos, presentations, or training content effortlessly.",
+        "Share videos across multiple channels, including email, social media, and websites, with easy embedding options.",
+        "Access mobile and desktop apps for flexible video recording and sharing on the go.",
+        "Utilize video templates and speaker notes to streamline content creation and ensure consistent messaging.",
+        "Monitor video performance with real-time notifications when someone views your content.",
+        "Create digital sales rooms to provide tailored buyer experiences and accelerate deal cycles.",
+        "Split-test video content to identify what resonates best with specific audiences."
+    ],
+    "faqs": [
+        {
+            "question": "What is Vidyard used for?",
+            "answer": "Vidyard is used for creating, hosting, and analyzing video content to enhance sales outreach, marketing campaigns, and internal communications."
+        },
+        {
+            "question": "Does Vidyard offer a free plan?",
+            "answer": "Yes, Vidyard offers a free plan that allows users to record, upload, and share high-quality videos with some limitations on advanced features."
+        },
+        {
+            "question": "Can Vidyard integrate with my CRM?",
+            "answer": "Vidyard integrates with CRMs like Salesforce, HubSpot, and Pardot, enabling seamless data syncing and enhanced sales workflows."
+        },
+        {
+            "question": "How does Vidyard’s AI Avatar feature work?",
+            "answer": "Vidyard’s AI Avatars automatically generate personalized video messages based on user-defined scripts, saving time while maintaining a human touch."
+        },
+        {
+            "question": "Is Vidyard suitable for small businesses?",
+            "answer": "Yes, Vidyard’s free and paid plans cater to small businesses, offering tools to create professional videos and track engagement effectively."
+        },
+        {
+            "question": "Can I record videos on my phone with Vidyard?",
+            "answer": "Vidyard’s mobile app for iOS and Android allows users to record, upload, and share high-quality videos from their phones."
+        },
+        {
+            "question": "How does Vidyard track video performance?",
+            "answer": "Vidyard provides detailed analytics, including viewer watch time, engagement metrics, and notifications when videos are viewed."
+        },
+        {
+            "question": "Can I customize the branding of my videos?",
+            "answer": "Vidyard allows users to customize video players and sharing pages with their branding for a professional look."
+        },
+        {
+            "question": "Does Vidyard support team collaboration?",
+            "answer": "Yes, Vidyard offers workspace features to manage teams, assign roles, and share video content collaboratively."
+        },
+        {
+            "question": "Is Vidyard GDPR compliant?",
+            "answer": "Vidyard is GDPR compliant and provides tools to manage viewer consent and data privacy in accordance with regulations."
+        }
+    ]
+}

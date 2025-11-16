@@ -1,0 +1,67 @@
+{
+    "name": "BasedLabs",
+    "description": "BasedLabs is an AI-powered platform for generating and editing images and videos, catering to creators and enthusiasts.",
+    "longDescription": "BasedLabs is a user-friendly platform that leverages advanced artificial intelligence to enable users to create and manipulate images, videos, and audio content with ease. Founded by Michael Aubry in 2023, its mission is to make AI-driven content creation accessible to everyone, from beginners to professional creators, without requiring technical expertise. The platform supports a vibrant community of AI enthusiasts, fostering collaboration and creative exploration. It offers tools for generating high-quality visuals, transforming images into dynamic videos, and experimenting with innovative features like face swaps and voice generation. BasedLabs aims to streamline content creation for social media, marketing, and personal projects, empowering users to bring their creative visions to life efficiently.",
+    "url": "https://www.basedlabs.ai/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.basedlabs.ai.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "basedlabs-ai",
+    "categories": [
+        "AI Video Generator",
+        "AI Image Generator",
+        "AI Face Swap Generator",
+        "AI Image Upscaler",
+        "AI Voice Generator",
+        "AI Writing",
+        "AI Creative Writing",
+        "AI Social Media Post Generator",
+        "AI Design Generator"
+    ],
+    "features": [
+        "AI Image Generation creates high-quality images from text prompts, enabling users to produce stunning visuals without artistic skills.",
+        "Image-to-Video Conversion transforms static images into dynamic videos, streamlining content creation for social media and marketing.",
+        "Face Swap Tool allows seamless face replacement in images or videos, adding creative and humorous possibilities for content creators.",
+        "Image Upscaler enhances the resolution and sharpness of low-quality images, making them suitable for professional displays.",
+        "Voice Generator produces professional-sounding voiceovers with various voices and accents, eliminating the need for hiring voice actors.",
+        "AI Video Generator creates engaging videos from text or images, saving time and effort for creators.",
+        "Community Collaboration enables users to share and explore creations, fostering a supportive environment for AI enthusiasts.",
+        "Customizable Art Styles let users choose from various visual styles like cartoons or photorealistic images for tailored outputs.",
+        "Intuitive Interface simplifies navigation and usage, making AI tools accessible to beginners and professionals alike.",
+        "LoRA Effects Integration allows users to enhance generated content with additional AI-driven effects for unique results."
+    ],
+    "faqs": [
+        {
+            "question": "What is BasedLabs AI used for?",
+            "answer": "BasedLabs AI is used to create and edit AI-generated images, videos, and audio, ideal for social media, marketing, and personal creative projects."
+        },
+        {
+            "question": "Is BasedLabs AI free to use?",
+            "answer": "Yes, BasedLabs offers a free plan with 15 credits per month, allowing users to test core features, with paid plans for more advanced tools."
+        },
+        {
+            "question": "Do I need technical skills to use BasedLabs?",
+            "answer": "No, BasedLabs is designed with an intuitive interface, making it easy for users of all skill levels to create content without technical expertise."
+        },
+        {
+            "question": "Can I create videos with BasedLabs?",
+            "answer": "Yes, BasedLabs provides an AI video generator that converts images or text prompts into dynamic videos for various applications."
+        },
+        {
+            "question": "What types of content can I create with BasedLabs?",
+            "answer": "You can create images, videos, voiceovers, face swaps, and memes, with tools for upscaling images and applying creative effects."
+        },
+        {
+            "question": "How secure is my data on BasedLabs?",
+            "answer": "BasedLabs prioritizes data security, ensuring that generated content remains private and secure for users."
+        },
+        {
+            "question": "Can I collaborate with others on BasedLabs?",
+            "answer": "Yes, BasedLabs fosters a community where users can share creations, collaborate, and draw inspiration from other AI enthusiasts."
+        },
+        {
+            "question": "What are the paid plans for BasedLabs?",
+            "answer": "BasedLabs offers a Basic plan at $25/month with 1,000 credits and a Pro plan at $49/month with 3,600 credits, both including premium tools."
+        }
+    ]
+}

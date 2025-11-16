@@ -1,0 +1,57 @@
+{
+    "name": "FlexClip",
+    "description": "FlexClip is an online video editing platform that enables users to create professional-quality videos with ease.",
+    "longDescription": "FlexClip is a user-friendly online video editing tool designed to help individuals and businesses create engaging videos for marketing, education, or personal use. Its intuitive interface allows users to edit videos without requiring advanced technical skills, making it accessible to beginners and professionals alike. The platform offers a range of templates, stock media, and AI-powered features to streamline video creation. FlexClip aims to simplify video production while delivering high-quality results for social media, promotional campaigns, or personal projects. It serves users by providing a versatile, cloud-based solution that supports quick editing and sharing across platforms.",
+    "url": "https://www.flexclip.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/www.flexclip.com.webp",
+    "category": "AI Video Editor",
+    "categorySlug": "ai-video-editor",
+    "slug": "flexclip",
+    "categories": [
+        "AI Video Editor",
+        "AI Text-to-Speech",
+        "Text to Video",
+        "AI Social Media Post Generator",
+        "AI Digital Marketing"
+    ],
+    "features": [
+        "Drag-and-drop editor simplifies video creation for users of all skill levels.",
+        "Thousands of customizable templates accelerate professional video production.",
+        "AI-powered auto subtitle generator adds captions to videos effortlessly.",
+        "Text-to-speech and text-to-video tools convert scripts into engaging content.",
+        "Access to millions of royalty-free stock videos, images, and music enhances creativity.",
+        "Screen recording feature captures tutorials or presentations directly.",
+        "Cloud-based storage ensures easy access and collaboration on projects.",
+        "Multiple export options, including HD, support various platforms and formats."
+    ],
+    "faqs": [
+        {
+            "question": "What is FlexClip used for?",
+            "answer": "FlexClip is used for creating and editing videos for marketing, education, social media, or personal projects with an easy-to-use online platform."
+        },
+        {
+            "question": "Does FlexClip offer a free plan?",
+            "answer": "Yes, FlexClip provides a free plan with basic editing features and limited export quality, ideal for trying out the platform."
+        },
+        {
+            "question": "Can I use FlexClip without video editing experience?",
+            "answer": "Absolutely, FlexClip’s intuitive drag-and-drop interface and pre-designed templates make it accessible for beginners."
+        },
+        {
+            "question": "What types of videos can I create with FlexClip?",
+            "answer": "You can create promotional videos, tutorials, slideshows, social media content, and more using FlexClip’s versatile tools."
+        },
+        {
+            "question": "Does FlexClip support AI features?",
+            "answer": "Yes, FlexClip offers AI-powered tools like auto subtitles, text-to-speech, and text-to-video for efficient content creation."
+        },
+        {
+            "question": "Can I collaborate with my team on FlexClip?",
+            "answer": "FlexClip’s cloud-based platform allows team members to access and edit projects collaboratively."
+        },
+        {
+            "question": "What file formats does FlexClip support for export?",
+            "answer": "FlexClip supports exporting videos in formats like MP4, with options for different resolutions, including HD."
+        }
+    ]
+}

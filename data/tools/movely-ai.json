@@ -1,0 +1,68 @@
+{
+    "name": "Movely AI",
+    "description": "Movely AI is an online platform that generates AI videos and edits photos using a simple one-tap animation system and a library of over 1,000 professionally designed templates.",
+    "longDescription": "Movely AI is a tool designed to transform images into AI-generated videos using an intuitive interface that requires no technical skills or creative expertise. Users can upload photos, such as selfies, pets, or illustrations, and select from a vast library of templates to create videos in seconds, covering categories like AI dance videos, romantic themes, and special effects. The platform aims to make professional video creation accessible to everyone by eliminating the need for complex prompt writing, offering high-quality, diverse results with a one-click animation system. It continuously updates its template library based on trends and user feedback, ensuring fresh and relevant content. Movely prioritizes user privacy, ensuring uploaded images are used solely for video generation and remain secure.",
+    "url": "https://movelyai.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/movelyai.com.webp",
+    "category": "AI Video Generator",
+    "categorySlug": "ai-video-generator",
+    "slug": "movely-ai",
+    "categories": [
+        "AI Video Generator",
+        "Image to Video",
+        "AI Animation Generator",
+        "AI Writing Assistants",
+        "AI Love Letter Generator",
+        "AI Realistic Image Generator",
+        "AI Text Generator",
+        "AI Social Media",
+        "AI Photo Editor",
+        "AI Content Detector"
+    ],
+    "features": [
+        "One-Tap Animation System: Allows users to create AI videos with a single click, requiring no technical skills or creative expertise.",
+        "Library of 1,000+ Templates: Offers a diverse range of professionally designed templates for various creative needs, including dance videos and special effects.",
+        "AI Dance Videos: Transforms photos into viral dance sensations, including trending moves like twerk dances.",
+        "Interactive Themes: Enables creation of engaging multi-person scenarios like AI kiss and AI hug templates for romantic content.",
+        "Furry Friends Animation: Animates pets, such as cats, and includes unique options like a tiger giving a hug.",
+        "Special Effects Templates: Includes unique themes like zombie transformations and AI clothes changer for creative video effects.",
+        "Ultra-Realistic Video Quality: Delivers smooth, emotionally authentic videos using advanced datasets and model optimization, avoiding common AI video issues.",
+        "Lightning-Fast Generation: Produces professional results in seconds with an optimized infrastructure, working seamlessly on web and mobile.",
+        "Community Engagement Rewards: Offers bonus credits through contests, social media engagement, and community events for users to earn more video generation credits.",
+        "Privacy and Security: Ensures uploaded images are used only for video generation and remain 100% private and secure, prioritizing user privacy."
+    ],
+    "faqs": [
+        {
+            "question": "What is Movely AI?",
+            "answer": "Movely AI is an online platform that generates AI videos from photos using a simple one-tap animation system and a library of over 1,000 templates. It aims to make professional video creation accessible to everyone without requiring technical skills."
+        },
+        {
+            "question": "How do I create an AI video with Movely?",
+            "answer": "Choose a template from the library, upload your photo, and click generate to create a video in under a minute, with best results using images that match the template's pose and subject type. Share your video on social media and tag Movely for potential credit rewards."
+        },
+        {
+            "question": "What types of video templates does Movely offer?",
+            "answer": "Movely offers templates for AI dance videos, interactive romantic themes like AI kiss and hug, furry friend animations, and special effects like zombie transformations, with continuous updates based on trends and user feedback."
+        },
+        {
+            "question": "How can I get credits to generate AI videos?",
+            "answer": "Credits are available through subscription tiers (Basic, Pro, Mega) with different amounts, and users can earn bonus credits by participating in contests, engaging on social media, or joining community events. First-time subscribers also enjoy exclusive discounts, and extra credits can be purchased."
+        },
+        {
+            "question": "Is Movely AI free to use?",
+            "answer": "Movely offers subscription plans with credits for video generation, but does not explicitly state if there is free access; additional credits can be earned through community engagement."
+        },
+        {
+            "question": "What advantages does Movely AI have over competitors?",
+            "answer": "Movely provides ultra-realistic video quality, lightning-fast generation in three easy steps, and always-trending templates based on social media trends like TikTok, ensuring professional results with minimal effort."
+        },
+        {
+            "question": "Is my data secure with Movely AI?",
+            "answer": "Yes, Movely prioritizes privacy, using uploaded images only for video generation and ensuring they are not accessed or shared, keeping all content 100% private and secure."
+        },
+        {
+            "question": "Can I suggest new template ideas for Movely?",
+            "answer": "Yes, Movely welcomes creative ideas from users, as their suggestions help shape the platform and update the template library based on user feedback."
+        }
+    ]
+}

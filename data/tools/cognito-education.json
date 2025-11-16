@@ -1,0 +1,45 @@
+{
+    "name": "Cognito Education",
+    "description": "Cognito Education provides free, high-quality video lessons and resources for GCSE and A-Level students.",
+    "longDescription": "Cognito Education is an online learning platform designed to support GCSE and A-Level students with free, engaging video lessons and educational resources. Founded to make high-quality education accessible to all, it offers clear explanations of complex topics in subjects like Maths, Science, and Computer Science. The platform aims to empower students to excel in their exams by providing structured, curriculum-aligned content. It serves as a supplementary tool for students, teachers, and parents, offering an alternative to traditional tutoring with a focus on clarity and accessibility. Cognito’s mission is to democratize education, ensuring students from all backgrounds can access reliable, effective learning materials without cost barriers.",
+    "url": "https://cognitoedu.org/?utm_source=ainavdir",
+    "screenshot": "/screenshot/cognitoedu.org.webp",
+    "category": "AI Course",
+    "categorySlug": "ai-course",
+    "slug": "cognito-education",
+    "categories": [
+        "AI Course",
+        "AI Quizzes"
+    ],
+    "features": [
+        "Free video lessons cover GCSE and A-Level topics in Maths, Science, and Computer Science, ensuring curriculum-aligned learning.",
+        "Interactive quizzes accompany lessons to reinforce understanding and provide instant feedback to students.",
+        "Downloadable resources, such as worksheets and revision guides, help students practice and consolidate knowledge.",
+        "Progress tracking allows students to monitor their learning journey and identify areas for improvement.",
+        "Mobile-friendly platform enables students to learn anytime, anywhere, with seamless access on various devices.",
+        "Teacher support tools provide educators with resources to enhance classroom instruction and student engagement.",
+        "Bite-sized lessons break down complex topics into manageable segments for easier comprehension."
+    ],
+    "faqs": [
+        {
+            "question": "What subjects does Cognito Education cover?",
+            "answer": "Cognito Education offers lessons in Maths, Science (Biology, Chemistry, Physics), and Computer Science for GCSE and A-Level students."
+        },
+        {
+            "question": "Is Cognito Education completely free to use?",
+            "answer": "Yes, all core features, including video lessons, quizzes, and resources, are free, with no hidden costs or subscriptions."
+        },
+        {
+            "question": "Can teachers use Cognito Education in the classroom?",
+            "answer": "Yes, teachers can access resources and integrate Cognito’s lessons into their teaching to support student learning."
+        },
+        {
+            "question": "Does Cognito Education align with specific exam boards?",
+            "answer": "Cognito’s content is designed to align with major UK exam boards like AQA, Edexcel, and OCR."
+        },
+        {
+            "question": "Can I access Cognito Education on my phone?",
+            "answer": "Yes, the platform is mobile-friendly, allowing students to learn on smartphones, tablets, or computers."
+        }
+    ]
+}

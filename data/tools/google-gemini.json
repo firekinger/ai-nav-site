@@ -1,0 +1,51 @@
+{
+    "name": "Google Gemini",
+    "description": "Google Gemini is an AI-powered platform offering conversational and multimodal capabilities to enhance productivity and creativity.",
+    "longDescription": "Google Gemini is an advanced AI platform developed by Google, designed to assist users with tasks ranging from answering queries to generating creative content. It leverages multimodal capabilities, processing text, images, and potentially other data, to provide insightful and contextually relevant responses. Integrated with Google services like Search, Docs, and Drive, it streamlines workflows for personal and professional use. The platform aims to boost productivity, foster creativity, and deliver accurate information while prioritizing user privacy and security. It serves a wide audience, from casual users seeking quick answers to professionals needing robust AI assistance.",
+    "url": "https://gemini.google.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/gemini.google.com.webp",
+    "category": "AI Chatbot",
+    "categorySlug": "ai-chatbot",
+    "slug": "google-gemini",
+    "categories": [
+        "AI Chatbot",
+        "AI Describe Image",
+        "AI Productivity Tools",
+        "AI Design Assistant",
+        "AI Code Generator"
+    ],
+    "features": [
+        "Conversational AI responds to natural language queries with accurate and context-aware answers, enhancing user interaction.",
+        "Multimodal processing handles text, images, and potentially other data for versatile tasks like image analysis and content creation.",
+        "Seamless integration with Google services such as Docs, Drive, and Search streamlines productivity and collaboration.",
+        "Content generation assists users in drafting emails, documents, or creative ideas quickly and efficiently.",
+        "Image understanding enables tasks like captioning, classification, and visual Q&A without specialized training.",
+        "Privacy-focused design ensures user data is handled securely, aligning with Google's enterprise-grade security standards."
+    ],
+    "faqs": [
+        {
+            "question": "What is Google Gemini used for?",
+            "answer": "Google Gemini is used for answering questions, generating content, analyzing images, and enhancing productivity through integration with Google services."
+        },
+        {
+            "question": "Is Google Gemini free to use?",
+            "answer": "Yes, Google Gemini offers a free tier with limited access to its core features, available with a Google account."
+        },
+        {
+            "question": "Can Gemini process images?",
+            "answer": "Yes, Gemini supports image understanding tasks like captioning, classification, and visual question-answering."
+        },
+        {
+            "question": "How does Gemini integrate with Google Workspace?",
+            "answer": "Gemini integrates with tools like Google Docs and Drive to assist with content creation, data analysis, and workflow automation."
+        },
+        {
+            "question": "Is my data safe with Google Gemini?",
+            "answer": "Google Gemini prioritizes user privacy with enterprise-grade security measures to protect data."
+        },
+        {
+            "question": "Can Gemini help with coding tasks?",
+            "answer": "Yes, Gemini supports coding by generating code snippets and answering programming-related queries."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Pixelied",
+    "description": "Pixelied is a cloud-based graphic design and photo editing suite for creating professional visuals for social media, marketing, and e-commerce.",
+    "longDescription": "Pixelied is an online graphic design and photo editing platform designed to empower non-designers and professionals alike to create stunning visuals quickly and easily. Its mission is to simplify complex design tasks with an intuitive interface, offering tools like AI-powered background removal, customizable templates, and stock photo libraries. The platform caters to entrepreneurs, small businesses, digital marketers, and content creators who need high-quality graphics for social media, e-commerce, or branding. By providing a drag-and-drop editor and extensive resources, Pixelied eliminates the need for advanced design skills or expensive software. It supports a wide range of use cases, from crafting social media posts to generating product mockups, making it a versatile tool for enhancing online presence.",
+    "url": "https://pixelied.com/?utm_source=ainavdir",
+    "screenshot": "/screenshot/pixelied.com.webp",
+    "category": "AI Background Remover",
+    "categorySlug": "ai-background-remover",
+    "slug": "pixelied",
+    "categories": [
+        "AI Background Remover",
+        "AI Graphic Design",
+        "Image to Image",
+        "AI Design Assistant",
+        "AI Mockup Generator",
+        "AI Photo Editor",
+        "AI Social Media",
+        "AI Project Management"
+    ],
+    "features": [
+        "AI-powered background remover eliminates image backgrounds with one click, simplifying the creation of transparent or custom visuals.",
+        "Customizable templates provide thousands of professionally designed options for social media, marketing, and e-commerce visuals.",
+        "Stock photo integration offers access to over 4 million royalty-free images from Unsplash and Pixabay for seamless design creation.",
+        "Mockup generator creates realistic product mockups with over 2,000 editable templates for devices, apparel, and packaging.",
+        "Image converter supports over 100 file formats, enabling bulk conversions without quality loss or software downloads.",
+        "Drag-and-drop editor allows users to easily arrange images, text, and elements for quick design customization.",
+        "Custom font uploads enable users to incorporate branded typography for consistent design aesthetics.",
+        "Icon and illustration libraries provide thousands of elements to enhance designs for various purposes.",
+        "Workspace collaboration tools allow teams to organize projects and share designs for efficient teamwork.",
+        "Photo editing toolkit includes cropping, resizing, filters, effects, and alignment tools for precise image adjustments."
+    ],
+    "faqs": [
+        {
+            "question": "Is Pixelied free to use?",
+            "answer": "Yes, Pixelied offers a free plan with access to core features like templates, stock photos, and basic editing tools, though advanced features require a paid plan."
+        },
+        {
+            "question": "Can I use Pixelied for commercial projects?",
+            "answer": "All stock photos, mockups, icons, and illustrations in Pixelied are free for commercial use without requiring attribution."
+        },
+        {
+            "question": "Does Pixelied support mobile devices?",
+            "answer": "Pixelied is currently web-based and optimized for browsers like Chrome, Firefox, and Safari, with mobile apps planned for future release."
+        },
+        {
+            "question": "How does the AI background remover work?",
+            "answer": "The AI-powered background remover automatically detects and removes image backgrounds with one click, allowing users to add new backgrounds or elements."
+        },
+        {
+            "question": "Can I upload my own fonts to Pixelied?",
+            "answer": "Yes, Pixelied allows users to upload custom fonts to ensure designs align with their brand identity."
+        },
+        {
+            "question": "What file formats can I download my designs in?",
+            "answer": "Pixelied supports downloads in JPG, PNG, PDF, SVG, WEBP, and WEBP Transparent formats."
+        },
+        {
+            "question": "Is Pixelied suitable for team collaboration?",
+            "answer": "Yes, Pixelied offers workspace features in its Pro plans, allowing teams to collaborate and organize designs for multiple projects."
+        },
+        {
+            "question": "How many templates does Pixelied offer?",
+            "answer": "Pixelied provides thousands of customizable templates for social media, e-commerce, marketing, and more, with new designs added regularly."
+        }
+    ]
+}

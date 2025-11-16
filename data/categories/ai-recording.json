@@ -1,0 +1,50 @@
+{
+    "title": "The Best 4 AI Recording Tools in 2025",
+    "summary": "Discover the power of AI Recording tools, designed to streamline your audio and video capture needs. These innovative solutions enhance productivity by automating transcription, improving sound quality, and enabling seamless editing. Whether you're a content creator, educator, or business professional, AI Recording tools help you save time and elevate your projects with precision and clarity. Explore our curated selection of top-notch AI Recording tools today and transform the way you capture and share your ideas!",
+    "tools": [
+        {
+            "id": "162",
+            "name": "Voicemod",
+            "slug": "voicemod",
+            "description": "Voicemod is a real-time voice changer and soundboard software for gamers, content creators, and communication platforms.",
+            "icon": "/logo/www.voicemod.net.webp",
+            "isFree": true,
+            "categories": [
+                "ai-recording"
+            ]
+        },
+        {
+            "id": "294",
+            "name": "Vapi",
+            "slug": "vapi",
+            "description": "Vapi is a developer platform for building and deploying advanced voice AI agents for conversational applications.",
+            "icon": "/logo/vapi.ai.webp",
+            "isFree": true,
+            "categories": [
+                "ai-recording"
+            ]
+        },
+        {
+            "id": "471",
+            "name": "Apowersoft",
+            "slug": "apowersoft",
+            "description": "Apowersoft provides multimedia and business solutions for recording, editing, and sharing digital content across devices.",
+            "icon": "/logo/www.apowersoft.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-recording"
+            ]
+        },
+        {
+            "id": "595",
+            "name": "VWO",
+            "slug": "vwo",
+            "description": "VWO is a leading platform for A/B testing and digital experience optimization to enhance website conversions and user engagement.",
+            "icon": "/logo/vwo.com.webp",
+            "isFree": true,
+            "categories": [
+                "ai-recording"
+            ]
+        }
+    ]
+}
