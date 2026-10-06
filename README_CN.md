@@ -193,8 +193,8 @@ npm run build
 
 ## 📞 联系我们
 
-- 项目地址: [https://github.com/yourusername/ai-nav-site](https://github.com/yourusername/ai-nav-site)
-- 问题反馈: [Issues](https://github.com/yourusername/ai-nav-site/issues)
+- 项目地址: [https://github.com/firekinger/ai-nav-site](https://github.com/firekinger/ai-nav-site)
+- 问题反馈: [Issues](https://github.com/firekinger/ai-nav-site/issues)
 - 邮箱: firekinger@gmail.com
 
 ---
