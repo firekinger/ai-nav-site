@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Project URL: [https://github.com/firekinger/ai-nav-site](https://github.com/firekinger/ai-nav-site)
-- Issue Tracker: [Issues](https://github.com/yourusername/ai-nav-site/issues)
+- Issue Tracker: [Issues](https://github.com/firekinger/ai-nav-site/issues)
 - Email: [firekinger@gmail.com](mailto:firekinger@gmail.com)
 
 ---
